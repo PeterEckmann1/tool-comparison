@@ -1,0 +1,206 @@
+{
+  "docIdentifier" : "PMC8672172",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Search strategy A search was performed in PubMed, Embase, Cochrane Library, and CINAHL databases for articles published up to January 12, 2021.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Search strategy A search was performed in PubMed, Embase, Cochrane Library, and CINAHL databases for articles published up to January 12, 2021."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PubMed (RRID:SCR_004846)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PubMed"
+                }],
+              "neText" : "PubMed"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "EMBASE (RRID:SCR_001650)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Embase"
+                }],
+              "neText" : "Embase"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cochrane Library (RRID:SCR_013000)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cochrane Library"
+                }],
+              "neText" : "Cochrane Library"
+            }]
+        }, {
+          "sentence" : "Quality assessment Randomized control trials (RCTs) and pseudorandomized studies were independently assessed for risk of bias using the Cochrane RoB 2 tool by two reviewers (17).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Quality assessment Randomized control trials (RCTs) and pseudorandomized studies were independently assessed for risk of bias using the Cochrane RoB 2 tool by two reviewers (17)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cochrane RoB"
+                }],
+              "neText" : "Cochrane RoB"
+            }]
+        }, {
+          "sentence" : "Studies evaluating the inter-rater reliability between patient and clinician joint counts before and after training were evaluated using a recommended modification of the Cochrane ROBINS-I tool for uncontrolled before-and-after studies, as outlined in the Cochrane Handbook for Systematic Reviews (18).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Studies evaluating the inter-rater reliability between patient and clinician joint counts before and after training were evaluated using a recommended modification of the Cochrane ROBINS-I tool for uncontrolled before-and-after studies, as outlined in the Cochrane Handbook for Systematic Reviews (18)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cochrane ROBINS-I"
+                }],
+              "neText" : "Cochrane ROBINS-I"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cochrane Handbook for Systematic Reviews"
+                }],
+              "neText" : "Cochrane Handbook for Systematic Reviews"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The same two authors independently reviewed the full texts of included articles to assess eligibility for inclusion.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The same two authors independently reviewed the full texts of included articles to assess eligibility for inclusion."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Article selection criteria Articles were managed using the online tool Covidence after the removal of duplicates.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Article selection criteria Articles were managed using the online tool Covidence after the removal of duplicates."
+              }],
+            "mention" : {
+              "neText" : "duplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicates"
+                }]
+            }
+          }, {
+            "sentence" : "Article selection criteria Articles were managed using the online tool Covidence after the removal of duplicates.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Article selection criteria Articles were managed using the online tool Covidence after the removal of duplicates."
+              }],
+            "mention" : {
+              "neText" : "duplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicates"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  }
+}

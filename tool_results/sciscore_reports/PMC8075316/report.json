@@ -1,0 +1,321 @@
+{
+  "docIdentifier" : "PMC8075316",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "pUCP20 and pUCP24 were used as vectors in cloning experiments .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "pUCP20 and pUCP24 were used as vectors in cloning experiments ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pUCP20"
+                }],
+              "neText" : "pUCP20"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pUCP24"
+                }],
+              "neText" : "pUCP24"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "It was identified by a microorganism autoanalysis system (VITEK(r)2, BioMerieux, France), and homologous comparisons of the 16S rRNA gene sequence to the GenBank database were performed by using the BLAST program ( www.ncbi.nlm.nih.govBLAST",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "It was identified by a microorganism autoanalysis system (VITEK(r)2, BioMerieux, France), and homologous comparisons of the 16S rRNA gene sequence to the GenBank database were performed by using the BLAST program ( www.ncbi.nlm.nih.govBLAST"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "WU-BLAST (RRID:SCR_011824)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLAST"
+                }],
+              "neText" : "BLAST"
+            }]
+        }, {
+          "sentence" : "The initial complete genome was assembled from PacBio long reads by Canu v1.7 and then corrected by Pilon with Illumina short reads .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The initial complete genome was assembled from PacBio long reads by Canu v1.7 and then corrected by Pilon with Illumina short reads ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Canu (RRID:SCR_015880)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Canu"
+                }],
+              "neText" : "Canu"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Pilon  (RRID:SCR_014731)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Pilon"
+                }],
+              "neText" : "Pilon"
+            }]
+        }, {
+          "sentence" : "Potential open reading frames ( ORFs ) were predicted using Prodigal and annotated against the UniProtSwiss-Prot and nonredundant protein databases using the BLASTX program .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Potential open reading frames ( ORFs ) were predicted using Prodigal and annotated against the UniProtSwiss-Prot and nonredundant protein databases using the BLASTX program ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Prodigal (RRID:SCR_021246)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prodigal"
+                }],
+              "neText" : "Prodigal"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BLASTX (RRID:SCR_001653)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLASTX"
+                }],
+              "neText" : "BLASTX"
+            }]
+        }, {
+          "sentence" : "Annotation of ARGs and mobile genetic elements was performed using online databases , including the Comprehensive Antibiotic Resistance Database ( CARD ) ( https:card.mcmaster . ca ) and ISfinder ( https:www-is . biotoul . fr ) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Annotation of ARGs and mobile genetic elements was performed using online databases , including the Comprehensive Antibiotic Resistance Database ( CARD ) ( https:card.mcmaster . ca ) and ISfinder ( https:www-is . biotoul . fr ) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ISFinder (RRID:SCR_003020)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ISfinder"
+                }],
+              "neText" : "ISfinder"
+            }]
+        }, {
+          "sentence" : "The maximum likelihood phylogenetic tree of AFM-1 was constructed by MEGA-X software with 1000 bootstrap replications .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The maximum likelihood phylogenetic tree of AFM-1 was constructed by MEGA-X software with 1000 bootstrap replications ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MEGA-X"
+                }],
+              "neText" : "MEGA-X"
+            }]
+        }, {
+          "sentence" : "The molecular weight and pI value of AFM-1 were predicted using ProtParam2 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The molecular weight and pI value of AFM-1 were predicted using ProtParam2 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ProtParam2"
+                }],
+              "neText" : "ProtParam2"
+            }]
+        }, {
+          "sentence" : "The putative signal peptide cleavage site of bla AFM-1 was identified by SignalP 5.0 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The putative signal peptide cleavage site of bla AFM-1 was identified by SignalP 5.0 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SignalP"
+                }],
+              "neText" : "SignalP"
+            }]
+        }, {
+          "sentence" : "Comparisons of the nucleotide sequences were performed using BLASTN .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Comparisons of the nucleotide sequences were performed using BLASTN ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLASTN"
+                }],
+              "neText" : "BLASTN"
+            }]
+        }, {
+          "sentence" : "Other bioinformatics tools were written using Python and Biopython .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Other bioinformatics tools were written using Python and Biopython ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "python-bx (RRID:SCR_024202)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Biopython"
+                }],
+              "neText" : "Biopython"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and Methods Bacterial Strains and Plasmids A. hydrophila SS332 was isolated from a fecal specimen from a 76-year-old male patient in Lishui Central Hospital, Zhejiang, China in 2013.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Bacterial Strains and Plasmids A. hydrophila SS332 was isolated from a fecal specimen from a 76-year-old male patient in Lishui Central Hospital, Zhejiang, China in 2013."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Bacterial Strains and Plasmids A. hydrophila SS332 was isolated from a fecal specimen from a 76-year-old male patient in Lishui Central Hospital, Zhejiang, China in 2013.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Bacterial Strains and Plasmids A. hydrophila SS332 was isolated from a fecal specimen from a 76-year-old male patient in Lishui Central Hospital, Zhejiang, China in 2013."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The maximum likelihood phylogenetic tree of AFM-1 was constructed by MEGA-X software with 1000 bootstrap replications .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The maximum likelihood phylogenetic tree of AFM-1 was constructed by MEGA-X software with 1000 bootstrap replications ."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

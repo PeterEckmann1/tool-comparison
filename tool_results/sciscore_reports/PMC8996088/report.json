@@ -1,0 +1,244 @@
+{
+  "docIdentifier" : "PMC8996088",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Demographic characteristics of individuals such as age, gender, occupation, and audiometry results were recorded in an Excel format, and data were analyzed using SPSS V23 (IBM Corp., Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Demographic characteristics of individuals such as age, gender, occupation, and audiometry results were recorded in an Excel format, and data were analyzed using SPSS V23 (IBM Corp., Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Ethics statement This study was approved by the Scientific Research Ethics Committee of Near East University (Research Project Evaluation Report No: 2020/85-1188).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ethics statement This study was approved by the Scientific Research Ethics Committee of Near East University (Research Project Evaluation Report No: 2020/85-1188)."
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained from the participants.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from the participants."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "While the study was in progress, 7 patients were excluded because 5 of these patients had previously undetected type 2 diabetes mellitus and 2 had hypertension.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "While the study was in progress, 7 patients were excluded because 5 of these patients had previously undetected type 2 diabetes mellitus and 2 had hypertension."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "A total of 112 men between the ages of 22 and 45 years, who had been hunting regularly (20 times a year, with an average of 10 shots per day) since the age of 18, were included in the study.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 112 men between the ages of 22 and 45 years, who had been hunting regularly (20 times a year, with an average of 10 shots per day) since the age of 18, were included in the study."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Conformity to a normal distribution was evaluated using the Kolmogorov-Smirnov and Shapiro-Wilk tests.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Conformity to a normal distribution was evaluated using the Kolmogorov-Smirnov and Shapiro-Wilk tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kolmogorov-Smirnov"
+                  }],
+                "neText" : "Kolmogorov-Smirnov"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk tests"
+                  }],
+                "neText" : "Shapiro-Wilk tests"
+              }]
+          }, {
+            "sentence" : "The chi-square test was used to compare categorical variables across groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The chi-square test was used to compare categorical variables across groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }]
+          }, {
+            "sentence" : "Independent two-sample t-tests were used to compare normally distributed data according to paired groups, and the Mann-Whitney U test was used to compare non-normally distributed data.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Independent two-sample t-tests were used to compare normally distributed data according to paired groups, and the Mann-Whitney U test was used to compare non-normally distributed data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }, {
+            "sentence" : "One-way analysis of variance was used to compare normally distributed quantitative data according to groups of three or more, and the Kruskal-Wallis test was used to compare non-normally distributed data.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way analysis of variance was used to compare normally distributed quantitative data according to groups of three or more, and the Kruskal-Wallis test was used to compare non-normally distributed data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis test"
+                  }],
+                "neText" : "Kruskal-Wallis test"
+              }]
+          }, {
+            "sentence" : "Spearman’s rho correlation coefficient was used to examine the relationship between the non-normally distributed data.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Spearman’s rho correlation coefficient was used to examine the relationship between the non-normally distributed data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman’s rho correlation"
+                  }],
+                "neText" : "Spearman’s rho correlation"
+              }]
+          }]
+      }]
+  }
+}

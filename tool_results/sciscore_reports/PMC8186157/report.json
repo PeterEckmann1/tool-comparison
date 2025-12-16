@@ -1,0 +1,378 @@
+{
+  "docIdentifier" : "PMC8186157",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Animals and experimental protocol Male BALB/c mice ( 6–8 wk old ) were purchased from the experimental animal center of Sun Yat-sen University .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Animals and experimental protocol Male BALB/c mice ( 6–8 wk old ) were purchased from the experimental animal center of Sun Yat-sen University ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:MGI:2683685",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALB/c"
+                }],
+              "neText" : "BALB/c"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "The pET-28a(+)-TsP53 plasmid was transformed into Escherichia coli BL21 for large-scale expression of the recombinant protein induced by isopropyl-β-d-thiogalactopyranoside (IPTG, CalBiochem, San Diego, CA, USA) at a final concentration of 1.0 mM for 5 h at 28°C.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The pET-28a(+)-TsP53 plasmid was transformed into Escherichia coli BL21 for large-scale expression of the recombinant protein induced by isopropyl-"
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "-d-thiogalactopyranoside (IPTG, CalBiochem, San Diego, CA, USA) at a final concentration of 1.0 mM for 5 h at 28°C."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pET-28a(+)-TsP53"
+                }],
+              "neText" : "pET-28a(+)-TsP53"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data were collected using Cellquest software ( BD Biosciences ) and analyzed with FlowJo software ( Tree Star , Ashland , OR , USA)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were collected using Cellquest software ( BD Biosciences ) and analyzed with FlowJo software ( Tree Star , Ashland , OR , USA)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "The relative mRNA expression levels of each gene was calculated and analyzed with Image J software ( NIH , Bethesda , MD , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The relative mRNA expression levels of each gene was calculated and analyzed with Image J software ( NIH , Bethesda , MD , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image J"
+                }],
+              "neText" : "Image J"
+            }]
+        }, {
+          "sentence" : "Statistical analysis was performed using SPSS 15.0 software for Windows (SPSS, Inc., Chicago, IL, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis was performed using SPSS 15.0 software for Windows (SPSS, Inc., Chicago, IL, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All animals were maintained under specific pathogen-free conditions at the animal facility , and experiments followed a protocol drafted by the Animal Ethics Committee of Sun Yat-sen University .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All animals were maintained under specific pathogen-free conditions at the animal facility , and experiments followed a protocol drafted by the Animal Ethics Committee of Sun Yat-sen University ."
+              }]
+          }, {
+            "sentence" : "Pathological score of the lung tissues To assess lung damage at 72 h after LPS injection , mice from three different groups were sacrificed by pentobarbital overdose ( 100 mg/kg) .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pathological score of the lung tissues To assess lung damage at 72 h after LPS injection , mice from three different groups were sacrificed by pentobarbital overdose ( 100 mg/kg) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Animals and experimental protocol Male BALB/c mice ( 6–8 wk old ) were purchased from the experimental animal center of Sun Yat-sen University .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals and experimental protocol Male BALB/c mice ( 6–8 wk old ) were purchased from the experimental animal center of Sun Yat-sen University ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Mice were divided randomly into three groups: control group ( n = 15) , LPS group ( n = 15) , and rTsP53+LPS group ( n = 15) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice were divided randomly into three groups: control group ( n = 15) , LPS group ( n = 15) , and rTsP53+LPS group ( n = 15) ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Scoring was conducted in a blinded manner .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Scoring was conducted in a blinded manner ."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "( IgG2a ) with PBS-T containing 0.1 % BSA ( 100 μl/well ) were added in duplicate and then incubated for 2 h at 37°C .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( IgG2a ) with PBS-T containing 0.1 % BSA ( 100 "
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "l/well ) were added in duplicate and then incubated for 2 h at 37°C ."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }, {
+            "sentence" : "( IgG2a ) with PBS-T containing 0.1 % BSA ( 100 μl/well ) were added in duplicate and then incubated for 2 h at 37°C .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( IgG2a ) with PBS-T containing 0.1 % BSA ( 100 "
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "l/well ) were added in duplicate and then incubated for 2 h at 37°C ."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "One-way and two-way analysis of variance was used to compare statistical differences under different conditions.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way and two-way analysis of variance was used to compare statistical differences under different conditions."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The primer sequences were as follows: TNF-α Forward: 5′CCCAGACCCTCACACTCAGATC AT-3′ , Reverse: 5′-GCAGCCTTGTCCCTTGAAG-A GAA-3′; IL-10 Forward: 5′-CTTTCACTTGCCCTCATCC-3 ′ , Reverse: 5′-ACAAAC-AATACGCCATTCCC -3′; iNOs Forward: 5′-ACATTCAGATCCCGAAACGC- 3′ , Reverse: 5′-ACAATCCACAACTCGCTCC-3 ′; Arg-1 Forward: 5′-GGGGAAAGCCAA-GAAG3′ , Reverse: 5′TGGTTGTCAGGGGAGTGT-3′;",
+            "rowSpan" : 8,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The primer sequences were as follows: TNF-"
+              }, {
+                "f" : "symbol",
+                "c" : "α"
+              }, {
+                "f" : "default",
+                "c" : " Forward: 5′CCCAGACCCTCACACTCAGATC AT-3′ , Reverse: 5′-GCAGCCTTGTCCCTTGAAG-A GAA-3′; IL-10 Forward: 5′-CTTTCACTTGCCCTCATCC-3 ′ , Reverse: 5′-ACAAAC-AATACGCCATTCCC -3′; iNOs Forward: 5′-ACATTCAGATCCCGAAACGC- 3′ , Reverse: 5′-ACAATCCACAACTCGCTCC-3 ′; Arg-1 Forward: 5′-GGGGAAAGCCAA-GAAG3′ , Reverse: 5′TGGTTGTCAGGGGAGTGT-3′;"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′CCCAGACCCTCACACTCAGATC AT-3′"
+                  }],
+                "neText" : "5′CCCAGACCCTCACACTCAGATC AT-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GCAGCCTTGTCCCTTGAAG-A GAA-3′"
+                  }],
+                "neText" : "5′-GCAGCCTTGTCCCTTGAAG-A GAA-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CTTTCACTTGCCCTCATCC-3 ′"
+                  }],
+                "neText" : "5′-CTTTCACTTGCCCTCATCC-3 ′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-ACAAAC-AATACGCCATTCCC -3′"
+                  }],
+                "neText" : "5′-ACAAAC-AATACGCCATTCCC -3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-ACATTCAGATCCCGAAACGC- 3′"
+                  }],
+                "neText" : "5′-ACATTCAGATCCCGAAACGC- 3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-ACAATCCACAACTCGCTCC-3 ′"
+                  }],
+                "neText" : "5′-ACAATCCACAACTCGCTCC-3 ′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GGGGAAAGCCAA-GAAG3′"
+                  }],
+                "neText" : "5′-GGGGAAAGCCAA-GAAG3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′TGGTTGTCAGGGGAGTGT-3′"
+                  }],
+                "neText" : "5′TGGTTGTCAGGGGAGTGT-3′"
+              }]
+          }, {
+            "sentence" : "β-actin Forward: 5′-TGGA-ATCCTGTGGCATCCAT GAAAC-3′ , Reverse: 5′-TAAAACGCAGCTCAGTAACAG T-CCG -3′ .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : "-actin Forward: 5′-TGGA-ATCCTGTGGCATCCAT GAAAC-3′ , Reverse: 5′-TAAAACGCAGCTCAGTAACAG T-CCG -3′ ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-TGGA-ATCCTGTGGCATCCAT GAAAC-3′"
+                  }],
+                "neText" : "5′-TGGA-ATCCTGTGGCATCCAT GAAAC-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-TAAAACGCAGCTCAGTAACAG T-CCG -3′"
+                  }],
+                "neText" : "5′-TAAAACGCAGCTCAGTAACAG T-CCG -3′"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "docIdentifier" : "PMC8973833",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Two micrograms of anti-m6A antibody ( ab151230 , Abcam , Burlingame , CA , USA ) or anti-IgG ( Cell Signaling Technology ) were conjugated to the protein AG magnetic beads at 4degC for 4 h in IP buffer ( 20 mM Tris pH 7.5 , 140 mM NaCl , 1 NP-40 , 2 mM EDTA) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Two micrograms of anti-m6A antibody ( ab151230 , Abcam , Burlingame , CA , USA ) or anti-IgG ( Cell Signaling Technology ) were conjugated to the protein AG magnetic beads at 4degC for 4 h in IP buffer ( 20 mM Tris pH 7.5 , 140 mM NaCl , 1 NP-40 , 2 mM EDTA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-m6A"
+                }],
+              "neText" : "anti-m6A"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-IgG ( Cell Signaling Technology )"
+                }],
+              "neText" : "anti-IgG ( Cell Signaling Technology )"
+            }]
+        }, {
+          "sentence" : "Then , the cells were incubated with BrdU antibody ( 1:1000 ) and incubated at 4degC overnight .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then , the cells were incubated with BrdU antibody ( 1:1000 ) and incubated at 4degC overnight ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BrdU"
+                }],
+              "neText" : "BrdU"
+            }]
+        }, {
+          "sentence" : "The membranes were blocked with 5 nonfat milk for 1 h at room temperature, and then incubated with specific primary antibodies against E2F1 (1:500, Bioss, Beijing, China), METTL3 (1:1000, Abcam), and GAPDH (1:1000, Bioss) overnight at 4degC.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membranes were blocked with 5 nonfat milk for 1 h at room temperature, and then incubated with specific primary antibodies against E2F1 (1:500, Bioss, Beijing, China), METTL3 (1:1000, Abcam), and GAPDH (1:1000, Bioss) overnight at 4degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "E2F1"
+                }],
+              "neText" : "E2F1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "METTL3"
+                }],
+              "neText" : "METTL3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAPDH"
+                }],
+              "neText" : "GAPDH"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "A549 cells were cultured in Hams F-12K medium supplemented with 10 fetal bovine serum ( FBS ) and 100 UmL penicillin-streptomycin .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A549 cells were cultured in Hams F-12K medium supplemented with 10 fetal bovine serum ( FBS ) and 100 UmL penicillin-streptomycin ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }]
+        }, {
+          "sentence" : "H1650 cells were maintained in RPMI-1640 medium containing 10 FBS and 1 PS.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "H1650 cells were maintained in RPMI-1640 medium containing 10 FBS and 1 PS."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_1483",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "H1650"
+                }],
+              "neText" : "H1650"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Male BALBc mice (6 weeks old, 18 g) were purchased from Sibf Biotechnology Co., Ltd. (Beijing, P.R. China).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Male BALBc mice (6 weeks old, 18 g) were purchased from Sibf Biotechnology Co., Ltd. (Beijing, P.R. China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALBc"
+                }],
+              "neText" : "BALBc"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Overall survival analysis of lncRNAs from AL731577.2 and NORAD was performed using R software (3.6.3) 31 survminer package (0.4.9).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Overall survival analysis of lncRNAs from AL731577.2 and NORAD was performed using R software (3.6.3) 31 survminer package (0.4.9)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NORAD"
+                }],
+              "neText" : "NORAD"
+            }]
+        }, {
+          "sentence" : "The expression of SVIL-AS1 in LUAD tissues was analyzed using GEPIA2 (http:gepia2.cancer-pku.cngeneral) 32 and R software (3.6.3) 31 ggplot2 package (",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The expression of SVIL-AS1 in LUAD tissues was analyzed using GEPIA2 (http:gepia2.cancer-pku.cngeneral) 32 and R software (3.6.3) 31 ggplot2 package ("
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ggplot2 (RRID:SCR_014601)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ggplot2"
+                }],
+              "neText" : "ggplot2"
+            }]
+        }, {
+          "sentence" : "Cell cycle analysis was performed using a FACScan Flow Cytometer ( Becton-Dickinson ) and analyzed using FlowJo LLC software ( Ashland , OR) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell cycle analysis was performed using a FACScan Flow Cytometer ( Becton-Dickinson ) and analyzed using FlowJo LLC software ( Ashland , OR) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Data were analyzed using the GraphPad Prism version 8.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Data were analyzed using the GraphPad Prism version 8."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Xenograft tumor models All mouse experiments were carried out by Beijing Viewsolid Biotech Co., Ltd., and the animal ethics approval form was 201901003.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Xenograft tumor models All mouse experiments were carried out by Beijing Viewsolid Biotech Co., Ltd., and the animal ethics approval form was 201901003."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Male BALBc mice (6 weeks old, 18 g) were purchased from Sibf Biotechnology Co., Ltd. (Beijing, P.R. China).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male BALBc mice (6 weeks old, 18 g) were purchased from Sibf Biotechnology Co., Ltd. (Beijing, P.R. China)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Male BALBc mice (6 weeks old, 18 g) were purchased from Sibf Biotechnology Co., Ltd. (Beijing, P.R. China).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male BALBc mice (6 weeks old, 18 g) were purchased from Sibf Biotechnology Co., Ltd. (Beijing, P.R. China)."
+              }]
+          }, {
+            "sentence" : "Male BALBc mice (6 weeks old, 18 g) were purchased from Sibf Biotechnology Co., Ltd. (Beijing, P.R. China).",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male BALBc mice (6 weeks old, 18 g) were purchased from Sibf Biotechnology Co., Ltd. (Beijing, P.R. China)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Expression validation of SVIL-AS1 in GEO datasets The datasets GSE146461 and GSE85716 downloaded from the GEO database of NCBI ( https:www.ncbi.nlm.nih.govgeo) , which were based on GPL20115 ( Agilent-067406",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Expression validation of SVIL-AS1 in GEO datasets The datasets GSE146461 and GSE85716 downloaded from the GEO database of NCBI ( https:www.ncbi.nlm.nih.govgeo) , which were based on GPL20115 ( Agilent-067406"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE146461"
+                  }],
+                "neText" : "GSE146461"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE85716"
+                  }],
+                "neText" : "GSE85716"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Materials and methods Data analysis Pearson correlation analysis was performed to identify co-expressed lncRNAs related to METTL3 with a cutoff of Pearson R > 0.3 and P < 0.05, in The Cancer Genome Atlas (TCGA)-LUAD dataset.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Data analysis Pearson correlation analysis was performed to identify co-expressed lncRNAs related to METTL3 with a cutoff of Pearson R > 0.3 and P < 0.05, in The Cancer Genome Atlas (TCGA)-LUAD dataset."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }, {
+            "sentence" : "The expression of SVIL-AS1 was analyzed in LUAD and normal tissues using the unpaired Students t-test .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The expression of SVIL-AS1 was analyzed in LUAD and normal tissues using the unpaired Students t-test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "The two-tailed Students t-test was used to compare gene expression between the two groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The two-tailed Students t-test was used to compare gene expression between the two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t-test"
+                  }],
+                "neText" : "Students t-test"
+              }]
+          }, {
+            "sentence" : "One-way analysis of variance (ANOVA) was used to analyze the differences among multiple groups.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way analysis of variance (ANOVA) was used to analyze the differences among multiple groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Pearsons correlation analysis was used to analyze the correlation between METTL3 and lncRNAs in LUAD samples.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pearsons correlation analysis was used to analyze the correlation between METTL3 and lncRNAs in LUAD samples."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearsons correlation"
+                  }],
+                "neText" : "Pearsons correlation"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Primers for qRT-PCR Genes Sequences METTL3 Forward 5-TTGTCTCCAACCTTCCGTAGT- 3 Reverse 5-CCAGATCAGAGAGGTGGTGTAG -3 E2F1 Forward 5-ACGCTATGAGACCTCACTGAA- 3 Reverse 5-TCCTGGGTCAACCCCTCAAG-3 CCNE1 Forward 5-GCCAGCCTTGGGACAATAATG- 3 Reverse 5-CTTGCACGTTGAGTTTGGGT-3 MYBL2 Forward 5-CTTGAGCGAGTCCAAAGACTG- 3 Reverse 5-AGTTGGTCAGAAGACTTCCCT- 3 CDC25A Forward 5-CTCCTCCGAGTCAACAGATTCA -3 Reverse 5-CAACAGCTTCTGAGGTAGGGA- 3 p27 Forward 5-ATCACAAACCCCTAGAGGGCA- 3 Reverse 5-GGGTCTGTAGTAGAACTCGGG- 3 p15 Forward 5-GGGACTAGTGGAGAAGGTGC-3 Reverse 5-CATCATCATGACCTGGATCGC- 3 SVIL-AS1 Forward 5-ACAGAAATCCTAACGGGGCG-3 Reverse 5-CCATGATCTGATCCCTGCCC-3 GAPDH Forward 5-CTGGGCTACACTGAGCACC-3 Reverse 5-AAGTGGTCGTTGAGGGCAATG- 3 E2F1 promoter ( F-5TTCGCGGCAAAAAGGATTT R- 5GCCGCTGCCTGCAAAGT) , GGGACTAGTGGAGAAGGTGC",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Primers for qRT-PCR Genes Sequences METTL3 Forward 5-TTGTCTCCAACCTTCCGTAGT- 3 Reverse 5-CCAGATCAGAGAGGTGGTGTAG -3 E2F1 Forward 5-ACGCTATGAGACCTCACTGAA- 3 Reverse 5-TCCTGGGTCAACCCCTCAAG-3 CCNE1 Forward 5-GCCAGCCTTGGGACAATAATG- 3 Reverse 5-CTTGCACGTTGAGTTTGGGT-3 MYBL2 Forward 5-CTTGAGCGAGTCCAAAGACTG- 3 Reverse 5-AGTTGGTCAGAAGACTTCCCT- 3 CDC25A Forward 5-CTCCTCCGAGTCAACAGATTCA -3 Reverse 5-CAACAGCTTCTGAGGTAGGGA- 3 p27 Forward 5-ATCACAAACCCCTAGAGGGCA- 3 Reverse 5-GGGTCTGTAGTAGAACTCGGG- 3 p15 Forward 5-GGGACTAGTGGAGAAGGTGC-3 Reverse 5-CATCATCATGACCTGGATCGC- 3 SVIL-AS1 Forward 5-ACAGAAATCCTAACGGGGCG-3 Reverse 5-CCATGATCTGATCCCTGCCC-3 GAPDH Forward 5-CTGGGCTACACTGAGCACC-3 Reverse 5-AAGTGGTCGTTGAGGGCAATG- 3 E2F1 promoter ( F-5TTCGCGGCAAAAAGGATTT R- 5GCCGCTGCCTGCAAAGT) , GGGACTAGTGGAGAAGGTGC"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CCATGATCTGATCCCTGCCC-3"
+                  }],
+                "neText" : "5-CCATGATCTGATCCCTGCCC-3"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "docIdentifier" : "PMC8643046",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The primary antibodies were rabbit anti-glial fibrillary acidic protein ( GFAP; 1:400 , Cat# Z0334 ,",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The primary antibodies were rabbit anti-glial fibrillary acidic protein ( GFAP; 1:400 , Cat# Z0334 ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-glial fibrillary acidic protein"
+                }],
+              "neText" : "anti-glial fibrillary acidic protein"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GFAP"
+                }],
+              "neText" : "GFAP"
+            }]
+        }, {
+          "sentence" : "RRID:AB_10013382; Agilent Technologies , Santa Clara , CA , USA ) or rabbit anti-ionized calcium binding adapter molecule 1 ( IBA1; 1:200 , Cat# 019-19741 , RRID:AB_839504;",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RRID:AB_10013382; Agilent Technologies , Santa Clara , CA , USA ) or rabbit anti-ionized calcium binding adapter molecule 1 ( IBA1; 1:200 , Cat# 019-19741 , RRID:AB_839504;"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(Agilent Cat# Z0334, RRID:AB_10013382)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "FUJIFILM Wako Pure Chemical Corporation",
+              "rrid" : "(FUJIFILM Wako Pure Chemical Corporation Cat# 019-19741, RRID:AB_839504)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "rabbit"
+                }],
+              "neText" : "rabbit"
+            }]
+        }, {
+          "sentence" : "This was followed by incubation with the secondary antibody Alexa Fluor 488-conjugated anti-rabbit IgG ( 1:400 , Cat# ab150077; Abcam , Cambridge , UK ) for 2 hours at room temperature.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "This was followed by incubation with the secondary antibody Alexa Fluor 488-conjugated anti-rabbit IgG ( 1:400 , Cat# ab150077; Abcam , Cambridge , UK ) for 2 hours at room temperature."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "A total of 45 adult female Sprague-Dawley rats (specific-pathogen-free; 2 months old; 180–220 g) were purchased from the Animal Center of Nantong University (license no. SCXK [Su] 2019-0001 and SYXK [Su] 2017-0046).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A total of 45 adult female Sprague-Dawley rats (specific-pathogen-free; 2 months old; 180–220 g) were purchased from the Animal Center of Nantong University (license no. SCXK [Su] 2019-0001 and SYXK [Su] 2017-0046)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_70508",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sprague-Dawley"
+                }],
+              "neText" : "Sprague-Dawley"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Sequence-specific primers were designed according to previous publications ( Peinnequin et al. , 2004; Bonefeld et al. , 2008; Martínez-Beamonte et al. , 2011; Bangaru et al. , 2012; Gambarotta et al. , 2014 ) or with Primer Express software (",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Sequence-specific primers were designed according to previous publications ( Peinnequin et al. , 2004; Bonefeld et al. , 2008; Martínez-Beamonte et al. , 2011; Bangaru et al. , 2012; Gambarotta et al. , 2014 ) or with Primer Express software ("
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Primer Express (RRID:SCR_014326)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Primer Express"
+                }],
+              "neText" : "Primer Express"
+            }]
+        }, {
+          "sentence" : "TTG AGC AGA AGA CGG AAG GT 136 Bonefeld et al. , 2008 Antisense: GAA GCA TTG GGG ATC AAG AA * Designed by Primer Express® software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "TTG AGC AGA AGA CGG AAG GT 136 Bonefeld et al. , 2008 Antisense: GAA GCA TTG GGG ATC AAG AA * Designed by Primer Express® software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Primer Express (RRID:SCR_014326)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Primer Express®"
+                }],
+              "neText" : "Primer Express®"
+            }]
+        }, {
+          "sentence" : "Bioinformatic analysis Raw Ct values of candidate internal control genes were analyzed using geNorm and NormFinder bioinformatic software. geNorm analysis (v3.4; https://genorm.cmgg.be/) was applied using the Microsoft Excel 2007 Visual Basic plug-in (Microsoft Corporation, Redmond, WA, USA) to calculate the gene expression stability value (M-value), which is negatively correlated with gene expression stability.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bioinformatic analysis Raw Ct values of candidate internal control genes were analyzed using geNorm and NormFinder bioinformatic software. geNorm analysis (v3.4; https://genorm.cmgg.be/) was applied using the Microsoft Excel 2007 Visual Basic plug-in (Microsoft Corporation, Redmond, WA, USA) to calculate the gene expression stability value (M-value), which is negatively correlated with gene expression stability."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "geNorm"
+                }],
+              "neText" : "geNorm"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }, {
+          "sentence" : "NormFinder analysis (v19; https://moma.dk/normfinder-software) was applied using the Microsoft Excel 2007 Visual Basic plug-in (Microsoft Corporation) to calculate intra-group and inter-group variations and estimate expression stability values (Andersen et al., 2004).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NormFinder analysis (v19; https://moma.dk/normfinder-software) was applied using the Microsoft Excel 2007 Visual Basic plug-in (Microsoft Corporation) to calculate intra-group and inter-group variations and estimate expression stability values (Andersen et al., 2004)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NormFinder"
+                }],
+              "neText" : "NormFinder"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://moma.dk/normfinder-software"
+                }],
+              "neText" : "https://moma.dk/normfinder-software"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Statistical analyses were performed using GraphPad Prism 6.0 (GraphPad Software, San Diego, CA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Statistical analyses were performed using GraphPad Prism 6.0 (GraphPad Software, San Diego, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Animals The animal experiments were ethically approved by the Administration Committee of Experimental Animals, Jiangsu Province, China (approval No. 20180304-008) on March 4, 2018.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Animals The animal experiments were ethically approved by the Administration Committee of Experimental Animals, Jiangsu Province, China (approval No. 20180304-008) on March 4, 2018."
+              }]
+          }, {
+            "sentence" : ", USA; Merck KGaA , Darmstadt , Germany ) containing 85 mg/kg trichloroacetaldehyde monohydrate , 42 mg/kg magnesium sulfate , and 17 mg/kg sodium pentobarbital ( Wang et al. , 2018 , 2019) .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : ", USA; Merck KGaA , Darmstadt , Germany ) containing 85 mg/kg trichloroacetaldehyde monohydrate , 42 mg/kg magnesium sulfate , and 17 mg/kg sodium pentobarbital ( Wang et al. , 2018 , 2019) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "A total of 45 adult female Sprague-Dawley rats (specific-pathogen-free; 2 months old; 180–220 g) were purchased from the Animal Center of Nantong University (license no. SCXK [Su] 2019-0001 and SYXK [Su] 2017-0046).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 45 adult female Sprague-Dawley rats (specific-pathogen-free; 2 months old; 180–220 g) were purchased from the Animal Center of Nantong University (license no. SCXK [Su] 2019-0001 and SYXK [Su] 2017-0046)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "A total of 45 adult female Sprague-Dawley rats (specific-pathogen-free; 2 months old; 180–220 g) were purchased from the Animal Center of Nantong University (license no. SCXK [Su] 2019-0001 and SYXK [Su] 2017-0046).",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 45 adult female Sprague-Dawley rats (specific-pathogen-free; 2 months old; 180–220 g) were purchased from the Animal Center of Nantong University (license no. SCXK [Su] 2019-0001 and SYXK [Su] 2017-0046)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The rats were randomized into experiment and sham groups.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The rats were randomized into experiment and sham groups."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each sample was tested in triplicate and analyzed using the 2– ?",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each sample was tested in triplicate and analyzed using the 2– ?"
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Each sample was tested in triplicate and analyzed using the 2– ?",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each sample was tested in triplicate and analyzed using the 2– ?"
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences between the experiment and control groups were analyzed by one-way analysis of variance followed by the Holm-Šídák multiple comparisons test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between the experiment and control groups were analyzed by one-way analysis of variance followed by the Holm-Šídák multiple comparisons test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Holm-Šídák multiple comparisons test"
+                  }],
+                "neText" : "Holm-Šídák multiple comparisons test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Primer sequences of NONRATT020851.2 were ( sense ) 5′-TTG GCA ATG GCA GTG TAT GTC-3′ and ( antisense ) 5′-TCA AGA GCA ACG GAA CAA GAA C-3′ , and primer sequences of NONRATT007410.2 were ( sense ) 5′-GCA CGG TCA GAG GTC AGT T-3′ and ( antisense ) 5′-GAT GGC GGC TCA GTG GTA A-3′ .",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Primer sequences of NONRATT020851.2 were ( sense ) 5′-TTG GCA ATG GCA GTG TAT GTC-3′ and ( antisense ) 5′-TCA AGA GCA ACG GAA CAA GAA C-3′ , and primer sequences of NONRATT007410.2 were ( sense ) 5′-GCA CGG TCA GAG GTC AGT T-3′ and ( antisense ) 5′-GAT GGC GGC TCA GTG GTA A-3′ ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-TTG GCA ATG GCA GTG TAT GTC-3′"
+                  }],
+                "neText" : "5′-TTG GCA ATG GCA GTG TAT GTC-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-TCA AGA GCA ACG GAA CAA GAA C-3′"
+                  }],
+                "neText" : "5′-TCA AGA GCA ACG GAA CAA GAA C-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GCA CGG TCA GAG GTC AGT T-3′"
+                  }],
+                "neText" : "5′-GCA CGG TCA GAG GTC AGT T-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GAT GGC GGC TCA GTG GTA A-3′"
+                  }],
+                "neText" : "5′-GAT GGC GGC TCA GTG GTA A-3′"
+              }]
+          }, {
+            "sentence" : "Table 1 Primer sequences of candidate reference genes Symbol Accession number Primer sequences ( 5’–3’ ) Amplicon size ( bp ) Reference Actb NM_031144.2 Sense: TGT CAC CAA CTG GGA CGA TA 165 Bonefeld et al. , 2008 Antisense: GGG GTG TTG AAG GTC TCA AA Ankrd27 NM_001271264.1 Sense: CCC AGG ATC CGA GAG GTG CTG TC 95 Gambarotta et al. , 2014 Antisense: CAG AGC CAT ATG GAC TTC AGG GGG CypA NM_017101.1 Sense: CCA AAC ACA AAT GGT TCC CAG T 135 Bangaru et al. , 2012 Antisense: ATT CCT GGA CCC AAA ACG CT Gapdh NM_017008.4 Sense: CCA CCA ACT GCT TAG CCC CC 91 Gambarotta et al. , 2014 Antisense: GCA GTG ATG GCA TGG ACT GTG G Hprt1 NM_012583.2",
+            "rowSpan" : 8,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Primer sequences of candidate reference genes Symbol Accession number Primer sequences ( 5’–3’ ) Amplicon size ( bp ) Reference Actb NM_031144.2 Sense: TGT CAC CAA CTG GGA CGA TA 165 Bonefeld et al. , 2008 Antisense: GGG GTG TTG AAG GTC TCA AA Ankrd27 NM_001271264.1 Sense: CCC AGG ATC CGA GAG GTG CTG TC 95 Gambarotta et al. , 2014 Antisense: CAG AGC CAT ATG GAC TTC AGG GGG CypA NM_017101.1 Sense: CCA AAC ACA AAT GGT TCC CAG T 135 Bangaru et al. , 2012 Antisense: ATT CCT GGA CCC AAA ACG CT Gapdh NM_017008.4 Sense: CCA CCA ACT GCT TAG CCC CC 91 Gambarotta et al. , 2014 Antisense: GCA GTG ATG GCA TGG ACT GTG G Hprt1 NM_012583.2"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TGT CAC CAA CTG GGA CGA TA 165"
+                  }],
+                "neText" : "TGT CAC CAA CTG GGA CGA TA 165"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGG GTG TTG AAG GTC TCA AA"
+                  }],
+                "neText" : "GGG GTG TTG AAG GTC TCA AA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCC AGG ATC CGA GAG GTG CTG TC 95"
+                  }],
+                "neText" : "CCC AGG ATC CGA GAG GTG CTG TC 95"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAG AGC CAT ATG GAC TTC AGG GGG"
+                  }],
+                "neText" : "CAG AGC CAT ATG GAC TTC AGG GGG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCA AAC ACA AAT GGT TCC CAG T 135"
+                  }],
+                "neText" : "CCA AAC ACA AAT GGT TCC CAG T 135"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ATT CCT GGA CCC AAA ACG CT"
+                  }],
+                "neText" : "ATT CCT GGA CCC AAA ACG CT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCA CCA ACT GCT TAG CCC CC 91"
+                  }],
+                "neText" : "CCA CCA ACT GCT TAG CCC CC 91"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCA GTG ATG GCA TGG ACT GTG G Hprt1"
+                  }],
+                "neText" : "GCA GTG ATG GCA TGG ACT GTG G Hprt1"
+              }]
+          }, {
+            "sentence" : "Sense: CTC ATG GAC TGA TTA TGG ACA GGA C 123 Peinnequin et al. , 2004 Antisense: GCA GGT CAG CAA AGA ACT TAT AGC C Mrpl10 NM_001109620.1 Sense: CTC CTC CCA AGC CCC CCA AG 97 Gambarotta et al. , 2014 Antisense: CAG ACA GCT ATC ATT CGG TTG TCC C Pgk1 NM_053291.3 Sense: GCA GAT TGT TTG GAA CGG TCC 113 Martínez-Beamonte et al. , 2011 Antisense: TAG TGA TGC AGC CCC TAG ACG T Rictor XM_001055633.3 Sense: TCC GAA TAC GAG GGC GGA A 142 * Antisense: AGA TGG CCC AGC TTT CTC ATA Rn18s",
+            "rowSpan" : 8,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sense: CTC ATG GAC TGA TTA TGG ACA GGA C 123 Peinnequin et al. , 2004 Antisense: GCA GGT CAG CAA AGA ACT TAT AGC C Mrpl10 NM_001109620.1 Sense: CTC CTC CCA AGC CCC CCA AG 97 Gambarotta et al. , 2014 Antisense: CAG ACA GCT ATC ATT CGG TTG TCC C Pgk1 NM_053291.3 Sense: GCA GAT TGT TTG GAA CGG TCC 113 Martínez-Beamonte et al. , 2011 Antisense: TAG TGA TGC AGC CCC TAG ACG T Rictor XM_001055633.3 Sense: TCC GAA TAC GAG GGC GGA A 142 * Antisense: AGA TGG CCC AGC TTT CTC ATA Rn18s"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTC ATG GAC TGA TTA TGG ACA GGA C 123"
+                  }],
+                "neText" : "CTC ATG GAC TGA TTA TGG ACA GGA C 123"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCA GGT CAG CAA AGA ACT TAT AGC C Mrpl10"
+                  }],
+                "neText" : "GCA GGT CAG CAA AGA ACT TAT AGC C Mrpl10"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTC CTC CCA AGC CCC CCA AG 97"
+                  }],
+                "neText" : "CTC CTC CCA AGC CCC CCA AG 97"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAG ACA GCT ATC ATT CGG TTG TCC C"
+                  }],
+                "neText" : "CAG ACA GCT ATC ATT CGG TTG TCC C"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCA GAT TGT TTG GAA CGG TCC 113"
+                  }],
+                "neText" : "GCA GAT TGT TTG GAA CGG TCC 113"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TAG TGA TGC AGC CCC TAG ACG T"
+                  }],
+                "neText" : "TAG TGA TGC AGC CCC TAG ACG T"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TCC GAA TAC GAG GGC GGA A 142"
+                  }],
+                "neText" : "TCC GAA TAC GAG GGC GGA A 142"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AGA TGG CCC AGC TTT CTC ATA Rn18s"
+                  }],
+                "neText" : "AGA TGG CCC AGC TTT CTC ATA Rn18s"
+              }]
+          }, {
+            "sentence" : "Sense: ACT CAA CAC GGG AAA CCT CA 114 Bangaru et al. , 2012 Antisense: AAT CGC TCC ACC AAC TAA GA Tbp NM_001004198.1",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sense: ACT CAA CAC GGG AAA CCT CA 114 Bangaru et al. , 2012 Antisense: AAT CGC TCC ACC AAC TAA GA Tbp NM_001004198.1"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACT CAA CAC GGG AAA CCT CA 114"
+                  }],
+                "neText" : "ACT CAA CAC GGG AAA CCT CA 114"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AAT CGC TCC ACC AAC TAA GA"
+                  }],
+                "neText" : "AAT CGC TCC ACC AAC TAA GA"
+              }]
+          }, {
+            "sentence" : "Sense: TAA TCC CAA GCG GTT TGC TG 111 Martínez-Beamonte et al. , 2011 Antisense: TTC TTC ACT CTT GGC TCC TGT G Ubc NM_017314.1",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sense: TAA TCC CAA GCG GTT TGC TG 111 Martínez-Beamonte et al. , 2011 Antisense: TTC TTC ACT CTT GGC TCC TGT G Ubc NM_017314.1"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TAA TCC CAA GCG GTT TGC TG 111"
+                  }],
+                "neText" : "TAA TCC CAA GCG GTT TGC TG 111"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TTC TTC ACT CTT GGC TCC TGT G"
+                  }],
+                "neText" : "TTC TTC ACT CTT GGC TCC TGT G"
+              }]
+          }, {
+            "sentence" : "Sense: TCG TAC CTT TCT CAC CAC AGT ATC TAG 82 Gambarotta et al. , 2014 Antisense: GAA AAC TAA GAC ACC TCC CCA TCA Ubxn11 NM_138853.2 Sense: GCG AGA CTG GAT GAA GGC CAA G 120 Gambarotta et al. , 2014 Antisense: CCC TCC ACC ACC AGC TCA CTC Ywhaz NM_013011.3",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sense: TCG TAC CTT TCT CAC CAC AGT ATC TAG 82 Gambarotta et al. , 2014 Antisense: GAA AAC TAA GAC ACC TCC CCA TCA Ubxn11 NM_138853.2 Sense: GCG AGA CTG GAT GAA GGC CAA G 120 Gambarotta et al. , 2014 Antisense: CCC TCC ACC ACC AGC TCA CTC Ywhaz NM_013011.3"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TCG TAC CTT TCT CAC CAC AGT ATC TAG 82"
+                  }],
+                "neText" : "TCG TAC CTT TCT CAC CAC AGT ATC TAG 82"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GAA AAC TAA GAC ACC TCC CCA TCA Ubxn11"
+                  }],
+                "neText" : "GAA AAC TAA GAC ACC TCC CCA TCA Ubxn11"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCG AGA CTG GAT GAA GGC CAA G 120"
+                  }],
+                "neText" : "GCG AGA CTG GAT GAA GGC CAA G 120"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCC TCC ACC ACC AGC TCA CTC"
+                  }],
+                "neText" : "CCC TCC ACC ACC AGC TCA CTC"
+              }]
+          }, {
+            "sentence" : "TTG AGC AGA AGA CGG AAG GT 136 Bonefeld et al. , 2008 Antisense: GAA GCA TTG GGG ATC AAG AA * Designed by Primer Express® software.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "TTG AGC AGA AGA CGG AAG GT 136 Bonefeld et al. , 2008 Antisense: GAA GCA TTG GGG ATC AAG AA * Designed by Primer Express® software."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GAA GCA TTG GGG ATC AAG AA"
+                  }],
+                "neText" : "GAA GCA TTG GGG ATC AAG AA"
+              }]
+          }]
+      }]
+  }
+}

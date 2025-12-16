@@ -1,0 +1,339 @@
+{
+  "docIdentifier" : "PMC8285300",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The lysate was resolved on 8-12 sodium dodecyl sulfatepolyacrylamide gel electrophoresis (SDSPAGE), transferred to nitrocellulose membrane, and immunoblotted with the indicated antibodies as following, anti-FRZB (Bioss, bs-16185R), anti-Lumican (Ablonal, A11593), anti-Collagen XIV alpha 1 (Affinity, AF0573), Anti-SFRP4 (Proteintech, 15328-1-ap), Anti-CRISP10 (Bioss, bs-14060R), anti-RCAN (Sigma D6694).",
+          "rowSpan" : 6,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The lysate was resolved on 8-12 sodium dodecyl sulfatepolyacrylamide gel electrophoresis (SDSPAGE), transferred to nitrocellulose membrane, and immunoblotted with the indicated antibodies as following, anti-FRZB (Bioss, bs-16185R), anti-Lumican (Ablonal, A11593), anti-Collagen XIV alpha 1 (Affinity, AF0573), Anti-SFRP4 (Proteintech, 15328-1-ap), Anti-CRISP10 (Bioss, bs-14060R), anti-RCAN (Sigma D6694)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-FRZB"
+                }],
+              "neText" : "anti-FRZB"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Lumican"
+                }],
+              "neText" : "anti-Lumican"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Collagen XIV alpha 1"
+                }],
+              "neText" : "anti-Collagen XIV alpha 1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-SFRP4"
+                }],
+              "neText" : "Anti-SFRP4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-CRISP10"
+                }],
+              "neText" : "Anti-CRISP10"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-RCAN"
+                }],
+              "neText" : "anti-RCAN"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Briefly, 8-10-week-old C57BL6 mice were anesthetised with 0.3 intraperitoneal pentobarbital.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly, 8-10-week-old C57BL6 mice were anesthetised with 0.3 intraperitoneal pentobarbital."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "16 The downloaded GSE141910 dataset was also normalized using the voom function in limma.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "16 The downloaded GSE141910 dataset was also normalized using the voom function in limma."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LIMMA (RRID:SCR_010943)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "limma"
+                }],
+              "neText" : "limma"
+            }]
+        }, {
+          "sentence" : "Enrichment Analyses of the Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways The clusterProfiler package was used to perform functional enrichment analysis.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Enrichment Analyses of the Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways The clusterProfiler package was used to perform functional enrichment analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "clusterProfiler (RRID:SCR_016884)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "clusterProfiler"
+                }],
+              "neText" : "clusterProfiler"
+            }]
+        }, {
+          "sentence" : "The WGCNA package version 1.68 in R software was used to construct the co-expression network.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The WGCNA package version 1.68 in R software was used to construct the co-expression network."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "WGCNA"
+                }],
+              "neText" : "WGCNA"
+            }]
+        }, {
+          "sentence" : "Cytoscape version 3.7.2 was used for visualization.22 Validation of the Hub Genes in Datasets and Analysis of the Receiver Operating Characteristic (ROC) Curve The expression data of hub genes extracted from the merged dataset and verification dataset GSE36961 were utilized to validate the differential expression of hub genes in HCM.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cytoscape version 3.7.2 was used for visualization.22 Validation of the Hub Genes in Datasets and Analysis of the Receiver Operating Characteristic (ROC) Curve The expression data of hub genes extracted from the merged dataset and verification dataset GSE36961 were utilized to validate the differential expression of hub genes in HCM."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The animal procedures were performed under a project license (NO.: SRRSH20201215) granted by institutional ethics committee of Sir Run Run Shaw Hospital, in compliance with institutional guidelines for the care and use of animals.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The animal procedures were performed under a project license (NO.: SRRSH20201215) granted by institutional ethics committee of Sir Run Run Shaw Hospital, in compliance with institutional guidelines for the care and use of animals."
+              }]
+          }, {
+            "sentence" : "The animal procedures were performed under a project license (NO.: SRRSH20201215) granted by institutional ethics committee of Sir Run Run Shaw Hospital, in compliance with institutional guidelines for the care and use of animals.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The animal procedures were performed under a project license (NO.: SRRSH20201215) granted by institutional ethics committee of Sir Run Run Shaw Hospital, in compliance with institutional guidelines for the care and use of animals."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Briefly, 8-10-week-old C57BL6 mice were anesthetised with 0.3 intraperitoneal pentobarbital.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Briefly, 8-10-week-old C57BL6 mice were anesthetised with 0.3 intraperitoneal pentobarbital."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Materials and Methods Data Collection The RNA expression profiles of GSE133054, GSE141910, and GSE36961 were downloaded from the GEO database ( http:www.ncbi.nlm.nih.govgeo ).",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Data Collection The RNA expression profiles of GSE133054, GSE141910, and GSE36961 were downloaded from the GEO database ( http:www.ncbi.nlm.nih.govgeo )."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE133054"
+                  }],
+                "neText" : "GSE133054"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE141910"
+                  }],
+                "neText" : "GSE141910"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE36961"
+                  }],
+                "neText" : "GSE36961"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Measurement data were expressed as mean +- standard deviation (Mean +- SD) and analyzed by unpaired Students t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Measurement data were expressed as mean +- standard deviation (Mean +- SD) and analyzed by unpaired Students t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

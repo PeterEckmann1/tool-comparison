@@ -1,0 +1,199 @@
+{
+  "docIdentifier" : "PMC8418979",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Analyses were generated with SAS software , version 9.4 , for Windows ( SAS Institute Inc .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Analyses were generated with SAS software , version 9.4 , for Windows ( SAS Institute Inc ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS"
+                }],
+              "neText" : "SAS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Institutional Review Board approval was obtained.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Institutional Review Board approval was obtained."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients were excluded if <18 years of age had missing first service date initiated chronic dialysis after the study end date were not prescribed P2Y12-I or new prescription criterion was not met.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were excluded if <18 years of age had missing first service date initiated chronic dialysis after the study end date were not prescribed P2Y12-I or new prescription criterion was not met."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "19 CV death was defined as death from cardiac cause , including AMI , coronary artery disease , cardiomyopathy , cardiac arrhythmia , and cardiac arrest .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "19 CV death was defined as death from cardiac cause , including AMI , coronary artery disease , cardiomyopathy , cardiac arrhythmia , and cardiac arrest ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical Analyses Comparisons across groups were performed with Kruskal-Wallis test for continuous variables and Cochran-Mantel-Haenszel kh2 tests for categorical variables .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical Analyses Comparisons across groups were performed with Kruskal-Wallis test for continuous variables and Cochran-Mantel-Haenszel kh2 tests for categorical variables ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis test"
+                  }],
+                "neText" : "Kruskal-Wallis test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "kh2 tests"
+                  }],
+                "neText" : "kh2 tests"
+              }]
+          }, {
+            "sentence" : "To compare all-cause death events based on each P2Y12-I category , univariable survival analyses using Kaplan-Meier curves were performed , with statistical significance determined using a log-rank test .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To compare all-cause death events based on each P2Y12-I category , univariable survival analyses using Kaplan-Meier curves were performed , with statistical significance determined using a log-rank test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }, {
+            "sentence" : "Specifically , our models allowed comparisons between ticagrelorclopidogrel , prasugrelclopidogrel , and prasugrelticagrelor expressed in terms of hazard reduction after Bonferroni multiplicity adjustment .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Specifically , our models allowed comparisons between ticagrelorclopidogrel , prasugrelclopidogrel , and prasugrelticagrelor expressed in terms of hazard reduction after Bonferroni multiplicity adjustment ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }]
+      }]
+  }
+}

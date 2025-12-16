@@ -1,0 +1,544 @@
+{
+  "docIdentifier" : "PMC8558037",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "6 The data is publicly available on the DIAGRAM website ( http:diagram-consortium.orgindex.html ).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "6 The data is publicly available on the DIAGRAM website ( http:diagram-consortium.orgindex.html )."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "diagram (RRID:SCR_026982)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DIAGRAM"
+                }],
+              "neText" : "DIAGRAM"
+            }]
+        }, {
+          "sentence" : "eQTL ) effects through the HaploReg browser ( http:pubs . broadinstitute.orgmammalshaploreghaploreg . php ).32 Further , we also searched for several other potential regulatory mechanisms of these SNPs on transcriptional regulation , such as altering protein binding and changing motif .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "eQTL ) effects through the HaploReg browser ( http:pubs . broadinstitute.orgmammalshaploreghaploreg . php ).32 Further , we also searched for several other potential regulatory mechanisms of these SNPs on transcriptional regulation , such as altering protein binding and changing motif ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "HaploReg (RRID:SCR_006796)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HaploReg"
+                }],
+              "neText" : "HaploReg"
+            }]
+        }, {
+          "sentence" : "For single-cell RNA sequencing ( scRNA-seq ) data analysis , we downloaded the islet scRNA-seq data of high-fat diet-induced diabetic mice and healthy controls in GSE162512 , and used the Seurat package to load the hdf5 format data for subsequent process.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For single-cell RNA sequencing ( scRNA-seq ) data analysis , we downloaded the islet scRNA-seq data of high-fat diet-induced diabetic mice and healthy controls in GSE162512 , and used the Seurat package to load the hdf5 format data for subsequent process."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Seurat"
+                }],
+              "neText" : "Seurat"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The animal studies were approved by the Animal Care and Ethics Committee of West China Hospital of Stomatology, Sichuan University.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The animal studies were approved by the Animal Care and Ethics Committee of West China Hospital of Stomatology, Sichuan University."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Male dbdb mice were used as animal model of T2D , and the heterozygous mice were used as control .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male dbdb mice were used as animal model of T2D , and the heterozygous mice were used as control ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Quantitative Reverse Transcription Polymerase Chain Reaction ( qRT-PCR ) A total of 8 dbdb mice and 8 heterozygous mice at the age of 8 weeks were used.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Quantitative Reverse Transcription Polymerase Chain Reaction ( qRT-PCR ) A total of 8 dbdb mice and 8 heterozygous mice at the age of 8 weeks were used."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "6 The data is publicly available on the DIAGRAM website ( http:diagram-consortium.orgindex.html ).",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "6 The data is publicly available on the DIAGRAM website ( http:diagram-consortium.orgindex.html )."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "Table 1 The 20 Most Important m6A-SNPs Related to T2D Variant CHR Position P . value Gene Confidence_Level eQTL Hits DEG Methylation Type Allele Frequency rs1801206 4 6302707 4.90E-39 WFS1 Prediction: ( Low ) 8 hits No m6A 5.76E-01 rs116234738 5 102537357 1.40E-27 PPIP5K2 Prediction: ( Low ) 0 hit Yes m6A 3.07E-02 rs5213 11 17408404",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 The 20 Most Important m6A-SNPs Related to T2D Variant CHR Position P . value Gene Confidence_Level eQTL Hits DEG Methylation Type Allele Frequency rs1801206 4 6302707 4.90E-39 WFS1 Prediction: ( Low ) 8 hits No m6A 5.76E-01 rs116234738 5 102537357 1.40E-27 PPIP5K2 Prediction: ( Low ) 0 hit Yes m6A 3.07E-02 rs5213 11 17408404"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs1801206"
+                  }],
+                "neText" : "rs1801206"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs116234738"
+                  }],
+                "neText" : "rs116234738"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs5213"
+                  }],
+                "neText" : "rs5213"
+              }]
+          }, {
+            "sentence" : "Medium ) 16 hits Yes m6A 7.18E-01 rs750625 8 41525914",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Medium ) 16 hits Yes m6A 7.18E-01 rs750625 8 41525914"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs750625"
+                  }],
+                "neText" : "rs750625"
+              }]
+          }, {
+            "sentence" : "ANK1 Prediction: ( Low ) 3 hits No m6A 6.57E-06 rs10832778 11 17394073 8.50E-23 NCR3LG1 Prediction: ( Low ) 26 hits No m6A 7.09E-01 rs9379084 6 7231843",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "ANK1 Prediction: ( Low ) 3 hits No m6A 6.57E-06 rs10832778 11 17394073 8.50E-23 NCR3LG1 Prediction: ( Low ) 26 hits No m6A 7.09E-01 rs9379084 6 7231843"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs10832778"
+                  }],
+                "neText" : "rs10832778"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs9379084"
+                  }],
+                "neText" : "rs9379084"
+              }]
+          }, {
+            "sentence" : "RREB1 MeRIP-Seq: ( Medium ) 1 hit Yes m6A 9.19E-02 rs12590 10 12292348 5.50E-17 CDC123 Prediction: ( Low ) 2 hits No m6A 1.50E-01 rs3743481 15 77907145 1.60E-16",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RREB1 MeRIP-Seq: ( Medium ) 1 hit Yes m6A 9.19E-02 rs12590 10 12292348 5.50E-17 CDC123 Prediction: ( Low ) 2 hits No m6A 1.50E-01 rs3743481 15 77907145 1.60E-16"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs12590"
+                  }],
+                "neText" : "rs12590"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs3743481"
+                  }],
+                "neText" : "rs3743481"
+              }]
+          }, {
+            "sentence" : "LINGO1 MeRIP-Seq: ( Medium ) 1 hit No m6A 4.42E-01 rs2641348 1 120437884 5.60E-16 ADAM30 Prediction: ( Low ) 6 hits No m6A 1.69E-01 rs6685892 1 120458004 6.20E-16 NOTCH2 Prediction: ( Low ) 5 hits No m6A 1.68E-01 rs2793823 1 120437718 7.30E-15 ADAM30 Prediction: ( Low ) 3 hits No m6A 2.70E-01 rs11553326 4 724884 5.50E-12 PCGF3 Prediction: ( Low ) 7 hits No m6A 3.21E-02 rs2308891 6 32610009",
+            "rowSpan" : 5,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "LINGO1 MeRIP-Seq: ( Medium ) 1 hit No m6A 4.42E-01 rs2641348 1 120437884 5.60E-16 ADAM30 Prediction: ( Low ) 6 hits No m6A 1.69E-01 rs6685892 1 120458004 6.20E-16 NOTCH2 Prediction: ( Low ) 5 hits No m6A 1.68E-01 rs2793823 1 120437718 7.30E-15 ADAM30 Prediction: ( Low ) 3 hits No m6A 2.70E-01 rs11553326 4 724884 5.50E-12 PCGF3 Prediction: ( Low ) 7 hits No m6A 3.21E-02 rs2308891 6 32610009"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs2641348"
+                  }],
+                "neText" : "rs2641348"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs6685892"
+                  }],
+                "neText" : "rs6685892"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs2793823"
+                  }],
+                "neText" : "rs2793823"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs11553326"
+                  }],
+                "neText" : "rs11553326"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs2308891"
+                  }],
+                "neText" : "rs2308891"
+              }]
+          }, {
+            "sentence" : "HLA-DQA1 Prediction: ( Low ) 293 hits No m6A 2.44E-02 rs3760471 17 4069735 2.80E-11 ANKFY1 Prediction: ( Low ) 5 hits Yes m6A 1.38E-04 rs1058129 15 77905661 4.30E-11",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "HLA-DQA1 Prediction: ( Low ) 293 hits No m6A 2.44E-02 rs3760471 17 4069735 2.80E-11 ANKFY1 Prediction: ( Low ) 5 hits Yes m6A 1.38E-04 rs1058129 15 77905661 4.30E-11"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs3760471"
+                  }],
+                "neText" : "rs3760471"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs1058129"
+                  }],
+                "neText" : "rs1058129"
+              }]
+          }, {
+            "sentence" : "LINGO1 Prediction: ( Low ) 5 hits No m6A 7.06E-01 rs7250850 19 47585517 9.70E-11 ZC3H4 Prediction: ( Low ) 1 hit No m6A 5.23E-01 rs1046080 6 31595882 1.30E-10",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "LINGO1 Prediction: ( Low ) 5 hits No m6A 7.06E-01 rs7250850 19 47585517 9.70E-11 ZC3H4 Prediction: ( Low ) 1 hit No m6A 5.23E-01 rs1046080 6 31595882 1.30E-10"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs7250850"
+                  }],
+                "neText" : "rs7250850"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs1046080"
+                  }],
+                "neText" : "rs1046080"
+              }]
+          }, {
+            "sentence" : "PRRC2A miCLIP: ( High ) 38 hits No m6A 7.43E-01 rs1033500 6 32307382 3.00E-10 C6orf10 Prediction: ( Low ) 21 hits No m6A 3.37E-01 rs2227956 6 31778272 3.10E-10",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "PRRC2A miCLIP: ( High ) 38 hits No m6A 7.43E-01 rs1033500 6 32307382 3.00E-10 C6orf10 Prediction: ( Low ) 21 hits No m6A 3.37E-01 rs2227956 6 31778272 3.10E-10"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs1033500"
+                  }],
+                "neText" : "rs1033500"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs2227956"
+                  }],
+                "neText" : "rs2227956"
+              }]
+          }, {
+            "sentence" : "HSPA1L Prediction: ( Low ) 112 hits No m6A 8.77E-01 rs4993986 6 32627652 6.10E-09 HLA-DQB1 miCLIP: ( High ) 1 hit Yes m6A 3.69E-01 Prediction of m6A Modification Near m6A-SNPs Among the T2D-associated m6A-SNPs identified above , we predicted the potential m6A modification site on the transcript by inputting the reference and altered sequence to an online m6A modification prediction tool , SRAMP ( http:www.cuilab.cnsramp ).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "HSPA1L Prediction: ( Low ) 112 hits No m6A 8.77E-01 rs4993986 6 32627652 6.10E-09 HLA-DQB1 miCLIP: ( High ) 1 hit Yes m6A 3.69E-01 Prediction of m6A Modification Near m6A-SNPs Among the T2D-associated m6A-SNPs identified above , we predicted the potential m6A modification site on the transcript by inputting the reference and altered sequence to an online m6A modification prediction tool , SRAMP ( http:www.cuilab.cnsramp )."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs4993986"
+                  }],
+                "neText" : "rs4993986"
+              }]
+          }, {
+            "sentence" : "Three datasets GSE23343 , GSE38642 and GSE78721 containing standardized T2D-associated gene expression signals were retrieved and downloaded from GEO database ( http:www.ncbi.nlm.nih.govgeo ) .",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three datasets GSE23343 , GSE38642 and GSE78721 containing standardized T2D-associated gene expression signals were retrieved and downloaded from GEO database ( http:www.ncbi.nlm.nih.govgeo ) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE23343"
+                  }],
+                "neText" : "GSE23343"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE38642"
+                  }],
+                "neText" : "GSE38642"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE78721"
+                  }],
+                "neText" : "GSE78721"
+              }]
+          }, {
+            "sentence" : "Also , to prove that these gene expression differences were mediated by m6A-SNPs instead of the T2D phenotype , we downloaded the transcriptome data of tissues that are not closely related to the T2D phenotype as control sets , including enteroendocrine cells ( GSE132831 ) and peripheral blood monocytes ( GSE156061) .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Also , to prove that these gene expression differences were mediated by m6A-SNPs instead of the T2D phenotype , we downloaded the transcriptome data of tissues that are not closely related to the T2D phenotype as control sets , including enteroendocrine cells ( GSE132831 ) and peripheral blood monocytes ( GSE156061) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE132831"
+                  }],
+                "neText" : "GSE132831"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE156061"
+                  }],
+                "neText" : "GSE156061"
+              }]
+          }, {
+            "sentence" : "For single-cell RNA sequencing ( scRNA-seq ) data analysis , we downloaded the islet scRNA-seq data of high-fat diet-induced diabetic mice and healthy controls in GSE162512 , and used the Seurat package to load the hdf5 format data for subsequent process.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For single-cell RNA sequencing ( scRNA-seq ) data analysis , we downloaded the islet scRNA-seq data of high-fat diet-induced diabetic mice and healthy controls in GSE162512 , and used the Seurat package to load the hdf5 format data for subsequent process."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE162512"
+                  }],
+                "neText" : "GSE162512"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Considering that multiple tests are used among the three datasets , we use the Bonferroni adjustment to set a more stringent threshold , p < 0.0167 ( 0.053 ) was set as a threshold for defining differential genes .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Considering that multiple tests are used among the three datasets , we use the Bonferroni adjustment to set a more stringent threshold , p < 0.0167 ( 0.053 ) was set as a threshold for defining differential genes ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }]
+      }]
+  }
+}

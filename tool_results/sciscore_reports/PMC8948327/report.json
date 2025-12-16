@@ -1,0 +1,142 @@
+{
+  "docIdentifier" : "PMC8948327",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The individual lesions were mapped onto the Montreal Neurological Institute (MNI) space manually using MRIcron (https://www.nitrc.org/projects/mricron).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The individual lesions were mapped onto the Montreal Neurological Institute (MNI) space manually using MRIcron (https://www.nitrc.org/projects/mricron)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MRIcron (RRID:SCR_002403)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MRIcron"
+                }],
+              "neText" : "MRIcron"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was approved by the Institutional Review Board and ethics committee.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the Institutional Review Board and ethics committee."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Exclusion criteria included (a) nonavailability of neuro-imaging and (b) poor image resolution because of which lesion boundaries could not be delineated.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Exclusion criteria included (a) nonavailability of neuro-imaging and (b) poor image resolution because of which lesion boundaries could not be delineated."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "7 All the lesions were flipped onto the left side to increase the statistical power and to create an overlay map.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "7 All the lesions were flipped onto the left side to increase the statistical power and to create an overlay map."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The location of these voxels was further categorized into anatomical sites such as the rostral, middle, and caudal parts of the medulla, as described by Kim et al. 9 Data Availability Data can be made available on request.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The location of these voxels was further categorized into anatomical sites such as the rostral, middle, and caudal parts of the medulla, as described by Kim et al. 9 Data Availability Data can be made available on request."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  }
+}

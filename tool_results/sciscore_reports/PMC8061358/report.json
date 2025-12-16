@@ -1,0 +1,152 @@
+{
+  "docIdentifier" : "PMC8061358",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analyses were conducted using SAS software (Version 9.4 SAS Institute, Cary, NC, USA), and a P-value < 0.05 was considered statistically significant.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were conducted using SAS software (Version 9.4 SAS Institute, Cary, NC, USA), and a P-value < 0.05 was considered statistically significant."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The Seoul National University Hospital (Seoul, South Korea) institutional review board approved this study (IRB no. E-1809-073-973).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Seoul National University Hospital (Seoul, South Korea) institutional review board approved this study (IRB no. E-1809-073-973)."
+              }]
+          }, {
+            "sentence" : "The requirement for written informed consent was waived by the review board because anonymized, de-identified information was used for analysis.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The requirement for written informed consent was waived by the review board because anonymized, de-identified information was used for analysis."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "We excluded individuals with a prior diagnosis of MI or stroke during the 5 years before enrolment (n = 430 621), those with any missing variables (n = 510 925), and those who were overweight or obese (n = 5 384 581).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We excluded individuals with a prior diagnosis of MI or stroke during the 5 years before enrolment (n = 430 621), those with any missing variables (n = 510 925), and those who were overweight or obese (n = 5 384 581)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The estimated glomerular filtration rate was calculated using the equation from the Modification of Diet in Renal Disease study, estimated glomerular filtration rate = 175 x serum creatinine-1.154 x age-0.203, and further multiplied by 0.742 for women.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The estimated glomerular filtration rate was calculated using the equation from the Modification of Diet in Renal Disease study, estimated glomerular filtration rate = 175 x serum creatinine-1.154 x age-0.203, and further multiplied by 0.742 for women."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Values were compared using one-way analysis of variance test for continuous variables and the kh 2 test for categorical variables.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Values were compared using one-way analysis of variance test for continuous variables and the kh 2 test for categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance test"
+                  }],
+                "neText" : "analysis of variance test"
+              }]
+          }]
+      }]
+  }
+}

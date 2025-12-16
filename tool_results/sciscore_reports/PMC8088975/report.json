@@ -1,0 +1,394 @@
+{
+  "docIdentifier" : "PMC8088975",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The following antibodies were used: rabbit anti-phospho-EGFR ( Y1068 ) ( 1:3000 Cell Signaling 2237) , mouse anti-EGFR ( 1:3000 Cell Signaling 2239) , rabbit anti-phospho-AKT ( S473 ) ( 1:3000 Cell Signaling 9271) , rabbit anti-AKT ( 1:3000 Cell Signaling 9272) , rabbit anti-phospho-ERK12 ( T202Y204 ) ( 1:3000 Cell Signaling 9101) , rabbit anti-ERK12 ( 1:10 000 Santa Cruz sc-93) , mouse anti-actin ( 1:1000 Sigma C7207)",
+          "rowSpan" : 7,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following antibodies were used: rabbit anti-phospho-EGFR ( Y1068 ) ( 1:3000 Cell Signaling 2237) , mouse anti-EGFR ( 1:3000 Cell Signaling 2239) , rabbit anti-phospho-AKT ( S473 ) ( 1:3000 Cell Signaling 9271) , rabbit anti-AKT ( 1:3000 Cell Signaling 9272) , rabbit anti-phospho-ERK12 ( T202Y204 ) ( 1:3000 Cell Signaling 9101) , rabbit anti-ERK12 ( 1:10 000 Santa Cruz sc-93) , mouse anti-actin ( 1:1000 Sigma C7207)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-phospho-EGFR ( Y1068"
+                }],
+              "neText" : "anti-phospho-EGFR ( Y1068"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-EGFR"
+                }],
+              "neText" : "anti-EGFR"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-phospho-AKT ( S473"
+                }],
+              "neText" : "anti-phospho-AKT ( S473"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-AKT"
+                }],
+              "neText" : "anti-AKT"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-phospho-ERK12"
+                }],
+              "neText" : "anti-phospho-ERK12"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-ERK12"
+                }],
+              "neText" : "anti-ERK12"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-actin"
+                }],
+              "neText" : "anti-actin"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "PC-9 cells were maintained in RPMI-1640 medium containing 10 FBS and penicillinstreptomycin .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "PC-9 cells were maintained in RPMI-1640 medium containing 10 FBS and penicillinstreptomycin ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_B260",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PC-9"
+                }],
+              "neText" : "PC-9"
+            }]
+        }, {
+          "sentence" : "2.4 Cell viability assay BaF3 ( 3000 cellswell) , PC-9 ( 3000 cellswell) , or A549 cells ( 7500 cellswell ) were seeded into 96-well plates .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.4 Cell viability assay BaF3 ( 3000 cellswell) , PC-9 ( 3000 cellswell) , or A549 cells ( 7500 cellswell ) were seeded into 96-well plates ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }]
+        }, {
+          "sentence" : "PC-9-EGFR-del exon19T790MC797S cells (5 x 106 cells) were suspended in 100 mL of 1:1 Matrigel and subcutaneously implanted into BALBc nunu mice (Charles River) using a 21G syringe.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "PC-9-EGFR-del exon19T790MC797S cells (5 x 106 cells) were suspended in 100 mL of 1:1 Matrigel and subcutaneously implanted into BALBc nunu mice (Charles River) using a 21G syringe."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PC-9-EGFR-del exon19T790MC797S"
+                }],
+              "neText" : "PC-9-EGFR-del exon19T790MC797S"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "2 MATERIALS AND METHODS 2.1 Cell culture and reagents BaF3 cells 39 were provided by RIKEN BioResource Research Center and maintained in RPMI-1640 medium containing 10 FBS, 10 ngmL recombinant mouse IL-3 (PeproTech), and penicillinstreptomycin. pBABE-EGFR L858R (11012), pBABE-EGFR del exon19 (32062), pBABE-EGFR L858RT790M (32073), and pBABE-EGFR del ex19T790M (32072) were obtained from Addgene. pBABE-EGFR L858RT790MC797S and pBABE-EGFR del ex19T790MC797S were constructed by site-directed mutagenesis with C797S-1 (GACATAGTCCAGGAGGCTGCCGA AGGGCATGAG) and C797S-2 (GACATAGTCCAGGAGTCAGCCGA AGGGCATGAG) primer set using pBABE-EGFR L858RT790M or pBABE-EGFR del ex19T790M as templates. pBABE-EGFR WT was also constructed by site-directed mutagenesis with R858L-1 (ACAGATTTTGGGCTGGCCAAACT GCTGGGT) and R858L-2 (ACCCAGCAGTTTGGCCAGCCCAA AATCTGT) primer set using pBABE-EGFR L858R as a template.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2 MATERIALS AND METHODS 2.1 Cell culture and reagents BaF3 cells 39 were provided by RIKEN BioResource Research Center and maintained in RPMI-1640 medium containing 10 FBS, 10 ngmL recombinant mouse IL-3 (PeproTech), and penicillinstreptomycin. pBABE-EGFR L858R (11012), pBABE-EGFR del exon19 (32062), pBABE-EGFR L858RT790M (32073), and pBABE-EGFR del ex19T790M (32072) were obtained from Addgene. pBABE-EGFR L858RT790MC797S and pBABE-EGFR del ex19T790MC797S were constructed by site-directed mutagenesis with C797S-1 (GACATAGTCCAGGAGGCTGCCGA AGGGCATGAG) and C797S-2 (GACATAGTCCAGGAGTCAGCCGA AGGGCATGAG) primer set using pBABE-EGFR L858RT790M or pBABE-EGFR del ex19T790M as templates. pBABE-EGFR WT was also constructed by site-directed mutagenesis with R858L-1 (ACAGATTTTGGGCTGGCCAAACT GCTGGGT) and R858L-2 (ACCCAGCAGTTTGGCCAGCCCAA AATCTGT) primer set using pBABE-EGFR L858R as a template."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pBABE-EGFR L858RT790MC797S"
+                }],
+              "neText" : "pBABE-EGFR L858RT790MC797S"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pBABE-EGFR"
+                }],
+              "neText" : "pBABE-EGFR"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pBABE-EGFR L858RT790M"
+                }],
+              "neText" : "pBABE-EGFR L858RT790M"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2 MATERIALS AND METHODS 2.1 Cell culture and reagents BaF3 cells 39 were provided by RIKEN BioResource Research Center and maintained in RPMI-1640 medium containing 10 FBS, 10 ngmL recombinant mouse IL-3 (PeproTech), and penicillinstreptomycin. pBABE-EGFR L858R (11012), pBABE-EGFR del exon19 (32062), pBABE-EGFR L858RT790M (32073), and pBABE-EGFR del ex19T790M (32072) were obtained from Addgene. pBABE-EGFR L858RT790MC797S and pBABE-EGFR del ex19T790MC797S were constructed by site-directed mutagenesis with C797S-1 (GACATAGTCCAGGAGGCTGCCGA AGGGCATGAG) and C797S-2 (GACATAGTCCAGGAGTCAGCCGA AGGGCATGAG) primer set using pBABE-EGFR L858RT790M or pBABE-EGFR del ex19T790M as templates. pBABE-EGFR WT was also constructed by site-directed mutagenesis with R858L-1 (ACAGATTTTGGGCTGGCCAAACT GCTGGGT) and R858L-2 (ACCCAGCAGTTTGGCCAGCCCAA AATCTGT) primer set using pBABE-EGFR L858R as a template.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2 MATERIALS AND METHODS 2.1 Cell culture and reagents BaF3 cells 39 were provided by RIKEN BioResource Research Center and maintained in RPMI-1640 medium containing 10 FBS, 10 ngmL recombinant mouse IL-3 (PeproTech), and penicillinstreptomycin. pBABE-EGFR L858R (11012), pBABE-EGFR del exon19 (32062), pBABE-EGFR L858RT790M (32073), and pBABE-EGFR del ex19T790M (32072) were obtained from Addgene. pBABE-EGFR L858RT790MC797S and pBABE-EGFR del ex19T790MC797S were constructed by site-directed mutagenesis with C797S-1 (GACATAGTCCAGGAGGCTGCCGA AGGGCATGAG) and C797S-2 (GACATAGTCCAGGAGTCAGCCGA AGGGCATGAG) primer set using pBABE-EGFR L858RT790M or pBABE-EGFR del ex19T790M as templates. pBABE-EGFR WT was also constructed by site-directed mutagenesis with R858L-1 (ACAGATTTTGGGCTGGCCAAACT GCTGGGT) and R858L-2 (ACCCAGCAGTTTGGCCAGCCCAA AATCTGT) primer set using pBABE-EGFR L858R as a template."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RIKEN BioResource Center (RRID:SCR_003250)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RIKEN BioResource"
+                }],
+              "neText" : "RIKEN BioResource"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Addgene (RRID:SCR_002037)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Addgene."
+                }],
+              "neText" : "Addgene."
+            }]
+        }, {
+          "sentence" : "2.2 JFCR39 panel assays and COMPARE analysis The JFCR39 panel assays were developed to evaluate the antitumor profile of test compounds across a panel of 39 human cancer cell lines ( termed JFCR39) , as previously described.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.2 JFCR39 panel assays and COMPARE analysis The JFCR39 panel assays were developed to evaluate the antitumor profile of test compounds across a panel of 39 human cancer cell lines ( termed JFCR39) , as previously described."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "COMPARE (RRID:SCR_000855)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "COMPARE"
+                }],
+              "neText" : "COMPARE"
+            }]
+        }, {
+          "sentence" : "Images were analyzed using ImageJ.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images were analyzed using ImageJ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2.6 Xenograft The study was approved by the Animal Care Committee of Iwate Medical University (",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.6 Xenograft The study was approved by the Animal Care Committee of Iwate Medical University ("
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "2 MATERIALS AND METHODS 2.1 Cell culture and reagents BaF3 cells 39 were provided by RIKEN BioResource Research Center and maintained in RPMI-1640 medium containing 10 FBS, 10 ngmL recombinant mouse IL-3 (PeproTech), and penicillinstreptomycin. pBABE-EGFR L858R (11012), pBABE-EGFR del exon19 (32062), pBABE-EGFR L858RT790M (32073), and pBABE-EGFR del ex19T790M (32072) were obtained from Addgene. pBABE-EGFR L858RT790MC797S and pBABE-EGFR del ex19T790MC797S were constructed by site-directed mutagenesis with C797S-1 (GACATAGTCCAGGAGGCTGCCGAAGGGCATGAG) and C797S-2 (GACATAGTCCAGGAGTCAGCCGAAGGGCATGAG) primer set using pBABE-EGFR L858RT790M or pBABE-EGFR del ex19T790M as templates. pBABE-EGFR WT was also constructed by site-directed mutagenesis with R858L-1 (ACAGATTTTGGGCTGGCCAAACTGCTGGGT) and R858L-2 (ACCCAGCAGTTTGGCCAGCCCAAAATCTGT) primer set using pBABE-EGFR L858R as a template.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 MATERIALS AND METHODS 2.1 Cell culture and reagents BaF3 cells 39 were provided by RIKEN BioResource Research Center and maintained in RPMI-1640 medium containing 10 FBS, 10 ngmL recombinant mouse IL-3 (PeproTech), and penicillinstreptomycin. pBABE-EGFR L858R (11012), pBABE-EGFR del exon19 (32062), pBABE-EGFR L858RT790M (32073), and pBABE-EGFR del ex19T790M (32072) were obtained from Addgene. pBABE-EGFR L858RT790MC797S and pBABE-EGFR del ex19T790MC797S were constructed by site-directed mutagenesis with C797S-1 (GACATAGTCCAGGAGGCTGCCGAAGGGCATGAG) and C797S-2 (GACATAGTCCAGGAGTCAGCCGAAGGGCATGAG) primer set using pBABE-EGFR L858RT790M or pBABE-EGFR del ex19T790M as templates. pBABE-EGFR WT was also constructed by site-directed mutagenesis with R858L-1 (ACAGATTTTGGGCTGGCCAAACTGCTGGGT) and R858L-2 (ACCCAGCAGTTTGGCCAGCCCAAAATCTGT) primer set using pBABE-EGFR L858R as a template."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Fingerprints are presented in the graphic profiles of relative values of logarithmic GI50 concentrations across the JFCR39 . 40 COMPARE analysis was carried out to evaluate the mechanism of action by calculating the Pearson correlation coefficients between the fingerprint of a test compound and those of reference compounds , as previously described.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fingerprints are presented in the graphic profiles of relative values of logarithmic GI50 concentrations across the JFCR39 . 40 COMPARE analysis was carried out to evaluate the mechanism of action by calculating the Pearson correlation coefficients between the fingerprint of a test compound and those of reference compounds , as previously described."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }, {
+            "sentence" : "43 For the analysis , we extracted and used the signature probe sets whose expression changes after each compound treatment were significantly up- or downregulated using Students t test ( fold change greater than 2 and a P value less than .05) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "43 For the analysis , we extracted and used the signature probe sets whose expression changes after each compound treatment were significantly up- or downregulated using Students t test ( fold change greater than 2 and a P value less than .05) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }]
+      }]
+  }
+}

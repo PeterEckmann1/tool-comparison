@@ -1,0 +1,463 @@
+{
+  "docIdentifier" : "PMC8382724",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Waltham , MA , USA) , PCNA , MMP-9 , a-SMA , and calponin ( Cell Signaling Technology , Boston , MA , USA ) expressions were determined by western blot using the corresponding primary antibody .",
+          "rowSpan" : 7,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Waltham , MA , USA) , PCNA , MMP-9 , a-SMA , and calponin ( Cell Signaling Technology , Boston , MA , USA ) expressions were determined by western blot using the corresponding primary antibody ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Waltham"
+                }],
+              "neText" : "Waltham"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MA"
+                }],
+              "neText" : "MA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "USA"
+                }],
+              "neText" : "USA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PCNA"
+                }],
+              "neText" : "PCNA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MMP-9"
+                }],
+              "neText" : "MMP-9"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "a-SMA"
+                }],
+              "neText" : "a-SMA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "calponin ( Cell Signaling Technology , Boston , MA , USA ) expressions"
+                }],
+              "neText" : "calponin ( Cell Signaling Technology , Boston , MA , USA ) expressions"
+            }]
+        }, {
+          "sentence" : "22 Magnetic beads conjugated with human anti-Ago2 antibody ( Millipore ) or anti-IgG ( negative control ) were used to treat lysed cells at 4 for 24 h .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "22 Magnetic beads conjugated with human anti-Ago2 antibody ( Millipore ) or anti-IgG ( negative control ) were used to treat lysed cells at 4 for 24 h ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Ago2"
+                }],
+              "neText" : "anti-Ago2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-IgG"
+                }],
+              "neText" : "anti-IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "MATERIALS AND METHODS Screening of candidate mRNA, miRNA, and lncRNA based on bioinformatics We downloaded pediatric asthma-related expression profiling data from the GEO database, and obtained differential expressions of mRNAs by performing the difference analysis (log2FC >1, adj.P.Val<0.05) by the Limma package pair separately.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MATERIALS AND METHODS Screening of candidate mRNA, miRNA, and lncRNA based on bioinformatics We downloaded pediatric asthma-related expression profiling data from the GEO database, and obtained differential expressions of mRNAs by performing the difference analysis (log2FC >1, adj.P.Val<0.05) by the Limma package pair separately."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LIMMA (RRID:SCR_010943)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Limma"
+                }],
+              "neText" : "Limma"
+            }]
+        }, {
+          "sentence" : "Then, the upstream miRNA of SLC26A2 was predicted by TargetScan.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then, the upstream miRNA of SLC26A2 was predicted by TargetScan."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "TargetScan (RRID:SCR_010845)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }]
+        }, {
+          "sentence" : "( BeiNa Biological , Beijing , China ) were incubated in DMEM medium with 10 FBS ( Gibco , Grand Island , NY , USA) , 1 penicillin-streptomycin ( Invitrogen , Carlsbad , CA , USA) , and placed in a humidified incubator at 37 , 5 CO2 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "( BeiNa Biological , Beijing , China ) were incubated in DMEM medium with 10 FBS ( Gibco , Grand Island , NY , USA) , 1 penicillin-streptomycin ( Invitrogen , Carlsbad , CA , USA) , and placed in a humidified incubator at 37 , 5 CO2 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BeiNa Biological"
+                }],
+              "neText" : "BeiNa Biological"
+            }]
+        }, {
+          "sentence" : "Cells were incubated in 96-well plates with 200 uL of 5 mgmL MTT ( Sigma , St . Louis , MO , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were incubated in 96-well plates with 200 uL of 5 mgmL MTT ( Sigma , St . Louis , MO , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "The results are presented as mean+-SD , and were plotted by Prism software ( Graphpad Software Inc . ,",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The results are presented as mean+-SD , and were plotted by Prism software ( Graphpad Software Inc . ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prism"
+                }],
+              "neText" : "Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Graphpad"
+                }],
+              "neText" : "Graphpad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Statistics All experimental treatments were repeated three times .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistics All experimental treatments were repeated three times ."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "Statistics All experimental treatments were repeated three times .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistics All experimental treatments were repeated three times ."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical comparisons were conducted by Students t test or one-way analysis of variance, and a p-value<0.05 was considered a statistically significant difference.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical comparisons were conducted by Students t test or one-way analysis of variance, and a p-value<0.05 was considered a statistically significant difference."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The primer sequences used were as follows: MiR-9-5p: 5-GCG TCT TTG GTT ATC TAG CTG TA-3 ( forward) , 5-AGT GCA GGG TCC GAG GTA TT-3 ( reverse ) NEAT1: 5-TGG CTA GCT CAG GGC TTC AG-3 ( forward) , 5-TCT CCT TGC CAA GCT TCC TTC-3 ( reverse ) SLC26A2: 5-CCA GAT GTG GAG GAT TAG CAG AAT GG-3 ( forward) , 5-ACA GCT TCA TAA TCT CTG CGA ACT TCT TTC AGT GT-3 ( reverse ) U6: 5-GCT TCG GCA GCA CAT ATA CTA AAA T-3 ( forward) , 5-CGC TTC ACG AAT TTG CGT GTC AT-3 ( reverse )",
+            "rowSpan" : 8,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The primer sequences used were as follows: MiR-9-5p: 5-GCG TCT TTG GTT ATC TAG CTG TA-3 ( forward) , 5-AGT GCA GGG TCC GAG GTA TT-3 ( reverse ) NEAT1: 5-TGG CTA GCT CAG GGC TTC AG-3 ( forward) , 5-TCT CCT TGC CAA GCT TCC TTC-3 ( reverse ) SLC26A2: 5-CCA GAT GTG GAG GAT TAG CAG AAT GG-3 ( forward) , 5-ACA GCT TCA TAA TCT CTG CGA ACT TCT TTC AGT GT-3 ( reverse ) U6: 5-GCT TCG GCA GCA CAT ATA CTA AAA T-3 ( forward) , 5-CGC TTC ACG AAT TTG CGT GTC AT-3 ( reverse )"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GCG TCT TTG GTT ATC TAG CTG TA-3"
+                  }],
+                "neText" : "5-GCG TCT TTG GTT ATC TAG CTG TA-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-AGT GCA GGG TCC GAG GTA TT-3"
+                  }],
+                "neText" : "5-AGT GCA GGG TCC GAG GTA TT-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TGG CTA GCT CAG GGC TTC AG-3"
+                  }],
+                "neText" : "5-TGG CTA GCT CAG GGC TTC AG-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TCT CCT TGC CAA GCT TCC TTC-3"
+                  }],
+                "neText" : "5-TCT CCT TGC CAA GCT TCC TTC-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CCA GAT GTG GAG GAT TAG CAG AAT GG-3"
+                  }],
+                "neText" : "5-CCA GAT GTG GAG GAT TAG CAG AAT GG-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ACA GCT TCA TAA TCT CTG CGA ACT TCT TTC AGT GT-3"
+                  }],
+                "neText" : "5-ACA GCT TCA TAA TCT CTG CGA ACT TCT TTC AGT GT-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GCT TCG GCA GCA CAT ATA CTA AAA T-3"
+                  }],
+                "neText" : "5-GCT TCG GCA GCA CAT ATA CTA AAA T-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CGC TTC ACG AAT TTG CGT GTC AT-3"
+                  }],
+                "neText" : "5-CGC TTC ACG AAT TTG CGT GTC AT-3"
+              }]
+          }, {
+            "sentence" : "GAPDH: 5-CAT GGC CTT CCG TGT CCC CA-3 ( forward) , 5-TGC TTC ACC ACC TTC TTG ATG-3 ( reverse) .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "GAPDH: 5-CAT GGC CTT CCG TGT CCC CA-3 ( forward) , 5-TGC TTC ACC ACC TTC TTG ATG-3 ( reverse) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CAT GGC CTT CCG TGT CCC CA-3"
+                  }],
+                "neText" : "5-CAT GGC CTT CCG TGT CCC CA-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TGC TTC ACC ACC TTC TTG ATG-3"
+                  }],
+                "neText" : "5-TGC TTC ACC ACC TTC TTG ATG-3"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "docIdentifier" : "PMC8748218",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The aligned sequence files were sorted and merged using SAMtools (samtools.sourceforge.net, version 0.1.18).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The aligned sequence files were sorted and merged using SAMtools (samtools.sourceforge.net, version 0.1.18)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "samtools"
+                }],
+              "neText" : "samtools"
+            }]
+        }, {
+          "sentence" : "GATK (http:www.broadinstitute.orggatk) was used for realignment, base quality score recalibration, single nucleotide variant or indel (small insertions and deletions) variant calling, and variant quality recalibration.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GATK (http:www.broadinstitute.orggatk) was used for realignment, base quality score recalibration, single nucleotide variant or indel (small insertions and deletions) variant calling, and variant quality recalibration."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GATK (RRID:SCR_001876)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GATK"
+                }],
+              "neText" : "GATK"
+            }]
+        }, {
+          "sentence" : "Germline or somatic mutations were confirmed by comparison between genomic DNA from tumors and that from the PBL of the patient, using Sanger sequencing.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Germline or somatic mutations were confirmed by comparison between genomic DNA from tumors and that from the PBL of the patient, using Sanger sequencing."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GERMLINE (RRID:SCR_001720)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Germline"
+                }],
+              "neText" : "Germline"
+            }]
+        }, {
+          "sentence" : "JMP Pro v14.2 (SAS Institute, Cary, NC, USA) was used for the statistical analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "JMP Pro v14.2 (SAS Institute, Cary, NC, USA) was used for the statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Ethics Committee of Hyogo College of Medicine (Rinhi-273), and performed in accordance with the Declaration of Helsinki (1995) of the World Medical Association (as revised in 2013 in Fortaleza, Brazil).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Ethics Committee of Hyogo College of Medicine (Rinhi-273), and performed in accordance with the Declaration of Helsinki (1995) of the World Medical Association (as revised in 2013 in Fortaleza, Brazil)."
+              }]
+          }, {
+            "sentence" : "All patients provided written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients provided written informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "13 2.5 Statistical analyses Gene expression ratios were compared between, in ccRCCs, with 14q loss and the ones without 14q loss using the chi-squared test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "13 2.5 Statistical analyses Gene expression ratios were compared between, in ccRCCs, with 14q loss and the ones without 14q loss using the chi-squared test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared test"
+                  }],
+                "neText" : "chi-squared test"
+              }]
+          }, {
+            "sentence" : "Nonparametric pairwise multiple comparison analysis among 3 metastasis groups was carried out using Dunn multiple comparison test with the number of chromosome alterations.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Nonparametric pairwise multiple comparison analysis among 3 metastasis groups was carried out using Dunn multiple comparison test with the number of chromosome alterations."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunn multiple comparison test"
+                  }],
+                "neText" : "Dunn multiple comparison test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The following primers were also used , after which normalization was conducted with glyceraldehyde-3-phosphate dehydrogenase ( GAPDH ) HIF1A: 5-CACCACAGGACAGTACAGGAT- 3 and 5-CGTGCTGAATAATACCACTCAC A-3 , L2HGDH: 5-TGTGCAGGACTTTACTCAGACC -3 and 5-GTAATCTCCCCGGAATGGTACA -3 , KLHL33: 5-GCGTGGGACTGGTACGAAC-3 and 5-GGGTGTTGGAGTGACTGTAGA- 3 , GAPDH: 5-GCACCGTCAAGGCTGAGAAC-3 and 5-TGGTGAAGACGCCAGTGGA-3 .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The following primers were also used , after which normalization was conducted with glyceraldehyde-3-phosphate dehydrogenase ( GAPDH ) HIF1A: 5-CACCACAGGACAGTACAGGAT- 3 and 5-CGTGCTGAATAATACCACTCAC A-3 , L2HGDH: 5-TGTGCAGGACTTTACTCAGACC -3 and 5-GTAATCTCCCCGGAATGGTACA -3 , KLHL33: 5-GCGTGGGACTGGTACGAAC-3 and 5-GGGTGTTGGAGTGACTGTAGA- 3 , GAPDH: 5-GCACCGTCAAGGCTGAGAAC-3 and 5-TGGTGAAGACGCCAGTGGA-3 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TGTGCAGGACTTTACTCAGACC -3"
+                  }],
+                "neText" : "5-TGTGCAGGACTTTACTCAGACC -3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GCGTGGGACTGGTACGAAC-3"
+                  }],
+                "neText" : "5-GCGTGGGACTGGTACGAAC-3"
+              }]
+          }]
+      }]
+  }
+}

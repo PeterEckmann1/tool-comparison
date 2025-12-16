@@ -1,0 +1,222 @@
+{
+  "docIdentifier" : "PMC8030014",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "With the patient sitting in an upright position with back support, a conventional oscillometric BP device (OscBP, Spacelabs 90 217, Spacelabs Healthcare, Hawthorne, USA) 21 was fitted on the right arm, while the SomBP was fitted on the left arm.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "With the patient sitting in an upright position with back support, a conventional oscillometric BP device (OscBP, Spacelabs 90 217, Spacelabs Healthcare, Hawthorne, USA) 21 was fitted on the right arm, while the SomBP was fitted on the left arm."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Spacelabs Healthcare"
+                }],
+              "neText" : "Spacelabs Healthcare"
+            }]
+        }, {
+          "sentence" : "25 All statistical analyses were performed using STATA software (v. 16.0, Statacorp, Texas, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "25 All statistical analyses were performed using STATA software (v. 16.0, Statacorp, Texas, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata (RRID:SCR_012763)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATA"
+                }],
+              "neText" : "STATA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Statacorp"
+                }],
+              "neText" : "Statacorp"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "19 Informed consent was obtained from all patients.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "19 Informed consent was obtained from all patients."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Exclusion criteria were as follows: Known significant arterial abnormalities in the upper extremities, known cardiac arrhythmia, upper arm circumference below 15 cm or above 42 cm, or possible extreme uncontrolled hypertension (ie, resting office BP > 250140 mmHg).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Exclusion criteria were as follows: Known significant arterial abnormalities in the upper extremities, known cardiac arrhythmia, upper arm circumference below 15 cm or above 42 cm, or possible extreme uncontrolled hypertension (ie, resting office BP > 250140 mmHg)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "This reanalysis was performed by a SOMNOmedics programmer blinded to the corresponding OscBP measurements.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This reanalysis was performed by a SOMNOmedics programmer blinded to the corresponding OscBP measurements."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "The study was designed to have at least 80 power to detect a 5-mmHg systolic BP difference between the devices.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was designed to have at least 80 power to detect a 5-mmHg systolic BP difference between the devices."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "A small questionnaire on device-related pain andor discomfort as well as sleeping habits was given to all participants. 2.3 Estimation of markers of arterial stiffness To study the potential impact of aortic stiffness as well as peripheral wave reflection on the measurement of the PTT device, carotid-femoral pulse wave velocity (cfPWV) as well as radially obtained pulse wave analysis (PWA) was performed in duplicate with the SphygmoCor system (version 8.2, Atcor Medical, Sydney, Australia).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A small questionnaire on device-related pain andor discomfort as well as sleeping habits was given to all participants. 2.3 Estimation of markers of arterial stiffness To study the potential impact of aortic stiffness as well as peripheral wave reflection on the measurement of the PTT device, carotid-femoral pulse wave velocity (cfPWV) as well as radially obtained pulse wave analysis (PWA) was performed in duplicate with the SphygmoCor system (version 8.2, Atcor Medical, Sydney, Australia)."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }, {
+            "sentence" : "A small questionnaire on device-related pain andor discomfort as well as sleeping habits was given to all participants. 2.3 Estimation of markers of arterial stiffness To study the potential impact of aortic stiffness as well as peripheral wave reflection on the measurement of the PTT device, carotid-femoral pulse wave velocity (cfPWV) as well as radially obtained pulse wave analysis (PWA) was performed in duplicate with the SphygmoCor system (version 8.2, Atcor Medical, Sydney, Australia).",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A small questionnaire on device-related pain andor discomfort as well as sleeping habits was given to all participants. 2.3 Estimation of markers of arterial stiffness To study the potential impact of aortic stiffness as well as peripheral wave reflection on the measurement of the PTT device, carotid-femoral pulse wave velocity (cfPWV) as well as radially obtained pulse wave analysis (PWA) was performed in duplicate with the SphygmoCor system (version 8.2, Atcor Medical, Sydney, Australia)."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Means were compared using paired t test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Means were compared using paired t test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }, {
+            "sentence" : "Pearsons correlation was performed to test for association between different BP measurement modalities.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pearsons correlation was performed to test for association between different BP measurement modalities."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearsons correlation"
+                  }],
+                "neText" : "Pearsons correlation"
+              }]
+          }, {
+            "sentence" : "Categorical variables were compared using chi-squared tests.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Categorical variables were compared using chi-squared tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared tests"
+                  }],
+                "neText" : "chi-squared tests"
+              }]
+          }]
+      }]
+  }
+}

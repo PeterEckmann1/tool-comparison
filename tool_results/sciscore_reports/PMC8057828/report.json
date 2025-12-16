@@ -1,0 +1,212 @@
+{
+  "docIdentifier" : "PMC8057828",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "After a core vitrectomy, TA (TRIESENCE, Alcon Laboratories Inc., Fort Worth, TX) was injected over the optic nerve and macula and, in the case of stage 2 or 3 MHs, a posterior vitreous detachment (PVD) was created.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After a core vitrectomy, TA (TRIESENCE, Alcon Laboratories Inc., Fort Worth, TX) was injected over the optic nerve and macula and, in the case of stage 2 or 3 MHs, a posterior vitreous detachment (PVD) was created."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_8484)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TA"
+                }],
+              "neText" : "TA"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical Analysis All data were recorded on Microsoft Excel and statistical analysis was performed using Data Analysis Toolpak software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis All data were recorded on Microsoft Excel and statistical analysis was performed using Data Analysis Toolpak software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was performed in accordance with the tenants of the Declaration of Helsinki and IRB exempt status was obtained by the Sterling IRB (IRB ID: 8483-RPGallemore) on the basis that informed consent was not required for this retrospective study as patient information was to be obtained and recorded in a de-identified manner.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was performed in accordance with the tenants of the Declaration of Helsinki and IRB exempt status was obtained by the Sterling IRB (IRB ID: 8483-RPGallemore) on the basis that informed consent was not required for this retrospective study as patient information was to be obtained and recorded in a de-identified manner."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Pre-operative and post-operative BCVA was compared between cohorts utilizing a repeated measures analysis of variance.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pre-operative and post-operative BCVA was compared between cohorts utilizing a repeated measures analysis of variance."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }, {
+            "sentence" : "Closure rates were compared between groups using a Fishers exact test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Closure rates were compared between groups using a Fishers exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }, {
+            "sentence" : "Unless specified above, data was analyzed using a paired Students t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Unless specified above, data was analyzed using a paired Students t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

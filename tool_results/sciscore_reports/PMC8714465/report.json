@@ -1,0 +1,182 @@
+{
+  "docIdentifier" : "PMC8714465",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All analyses were carried out with SAS software version 9.4 (SAS Institute Inc, Cary, NC, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All analyses were carried out with SAS software version 9.4 (SAS Institute Inc, Cary, NC, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS"
+                }],
+              "neText" : "SAS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "These dates were selected to exclude periods of time (eg, 2013) when other, non-dialysate-related changes to the management of mineral bone disease were implemented across large dialysis organizations.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "These dates were selected to exclude periods of time (eg, 2013) when other, non-dialysate-related changes to the management of mineral bone disease were implemented across large dialysis organizations."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "For inclusion in the analysis, patients had to be in-center hemodialysis patients at a Fresenius Kidney Care facility and aged 18 to 89 years on the index date.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For inclusion in the analysis, patients had to be in-center hemodialysis patients at a Fresenius Kidney Care facility and aged 18 to 89 years on the index date."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Comparisons of demographics between CAD and AAD clinics were performed using a 2-sample t-test for continuous variables and chi-square test for categorical variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons of demographics between CAD and AAD clinics were performed using a 2-sample t-test for continuous variables and chi-square test for categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }]
+          }, {
+            "sentence" : "Comparisons of data between baseline and follow-up within the clinic were made using paired t-tests and McNemar's tests for continuous and categorical variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons of data between baseline and follow-up within the clinic were made using paired t-tests and McNemar's tests for continuous and categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "McNemar's tests"
+                  }],
+                "neText" : "McNemar's tests"
+              }]
+          }]
+      }]
+  }
+}

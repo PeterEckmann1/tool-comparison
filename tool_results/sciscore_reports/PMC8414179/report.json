@@ -1,0 +1,174 @@
+{
+  "docIdentifier" : "PMC8414179",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Brain heart infusion media (BHI from Sigma Aldrich) supplemented with streptomycin, penicillin, and hemin (all from Sigma Aldrich) was used for L. tarentolae culturing following the method of Morgenthaler et al. 18.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Brain heart infusion media (BHI from Sigma Aldrich) supplemented with streptomycin, penicillin, and hemin (all from Sigma Aldrich) was used for L. tarentolae culturing following the method of Morgenthaler et al. 18."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Sigma-Aldrich (RRID:SCR_008988)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma Aldrich"
+                }],
+              "neText" : "Sigma Aldrich"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "From a homogeneous suspension, L. tarentolae (100 mL) were loaded, in quadruplicate, into Falcon(r) 96 well plates following incubation with the MTT reagent (5 mgmL water), A 595 nm values were determined using the Bio-Rad iMark Microplate Reader plate reader.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "From a homogeneous suspension, L. tarentolae (100 mL) were loaded, in quadruplicate, into Falcon(r) 96 well plates following incubation with the MTT reagent (5 mgmL water), A 595 nm values were determined using the Bio-Rad iMark Microplate Reader plate reader."
+              }],
+            "mention" : {
+              "neText" : "quadruplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "quadruplicate"
+                }]
+            }
+          }, {
+            "sentence" : "From a homogeneous suspension, L. tarentolae (100 mL) were loaded, in quadruplicate, into Falcon(r) 96 well plates following incubation with the MTT reagent (5 mgmL water), A 595 nm values were determined using the Bio-Rad iMark Microplate Reader plate reader.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "From a homogeneous suspension, L. tarentolae (100 mL) were loaded, in quadruplicate, into Falcon(r) 96 well plates following incubation with the MTT reagent (5 mgmL water), A 595 nm values were determined using the Bio-Rad iMark Microplate Reader plate reader."
+              }],
+            "mention" : {
+              "neText" : "quadruplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "quadruplicate"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "When applicable, all statistics performed consisted of a one-way ANOVA followed by Tukey Post Test to evaluate statistical difference relative to control cells a p < 0.05 is considered significantly different.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "When applicable, all statistics performed consisted of a one-way ANOVA followed by Tukey Post Test to evaluate statistical difference relative to control cells a p < 0.05 is considered significantly different."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey Post Test"
+                  }],
+                "neText" : "Tukey Post Test"
+              }]
+          }]
+      }]
+  }
+}

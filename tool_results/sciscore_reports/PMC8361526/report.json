@@ -1,0 +1,152 @@
+{
+  "docIdentifier" : "PMC8361526",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis was performed using PASW Statistics 18 software (SPSS Inc).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis was performed using PASW Statistics 18 software (SPSS Inc)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods Participants The study was approved by a local ethics committee, and written informed consent was obtained from all participants.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Participants The study was approved by a local ethics committee, and written informed consent was obtained from all participants."
+              }]
+          }, {
+            "sentence" : "Methods Participants The study was approved by a local ethics committee, and written informed consent was obtained from all participants.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Participants The study was approved by a local ethics committee, and written informed consent was obtained from all participants."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The exclusion criteria included a history of shoulder and elbow injury or surgery and having any symptoms of soreness in the upper extremities at the time of the examination.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The exclusion criteria included a history of shoulder and elbow injury or surgery and having any symptoms of soreness in the upper extremities at the time of the examination."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Their mean age was 26.6 years (range, 24-33 years) 8 players were infielders, 4 were outfielders, and 1 was a pitcher 13 were right-handed, and 1 was left-handed.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Their mean age was 26.6 years (range, 24-33 years) 8 players were infielders, 4 were outfielders, and 1 was a pitcher 13 were right-handed, and 1 was left-handed."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The measurements were repeated 3 times on 1 day by each investigator to assess intrarater reliability.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The measurements were repeated 3 times on 1 day by each investigator to assess intrarater reliability."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "We evaluated the intrarater and interrater reliability using the Pearson correlation and intraclass correlation coefficient (ICC), respectively.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We evaluated the intrarater and interrater reliability using the Pearson correlation and intraclass correlation coefficient (ICC), respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }]
+      }]
+  }
+}

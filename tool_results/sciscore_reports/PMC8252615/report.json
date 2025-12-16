@@ -1,0 +1,173 @@
+{
+  "docIdentifier" : "PMC8252615",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Electro-anatomical mappings were guided by either the NavXVelocity (Abbott, Inc.) or Carto (Biosense Webster) system using fast anatomical mapping feature in all patients.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Electro-anatomical mappings were guided by either the NavXVelocity (Abbott, Inc.) or Carto (Biosense Webster) system using fast anatomical mapping feature in all patients."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Abbott (RRID:SCR_010477)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Abbott"
+                }],
+              "neText" : "Abbott"
+            }]
+        }, {
+          "sentence" : "12 Statistical analyses were done using SAS software version 9.4 (SAS Institute, Inc.).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "12 Statistical analyses were done using SAS software version 9.4 (SAS Institute, Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS"
+                }],
+              "neText" : "SAS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2 METHODS This study was approved by the Institutional Review Board (IRB Number: 201305044 W and 2017-09-013BCF) of Taipei Veterans General Hospital (TVGH) in accordance with the Good Clinical Practice Guidelines.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 METHODS This study was approved by the Institutional Review Board (IRB Number: 201305044 W and 2017-09-013BCF) of Taipei Veterans General Hospital (TVGH) in accordance with the Good Clinical Practice Guidelines."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "In patients whose AF remained sustained after PVI, they were assigned by the physicians discrimination without randomization to one of the following three substrate modification strategies: (a) rotordriver ablation guided by electrogram SI and phase mapping, and these patients constituted the PVI plus SI group (Group 1, n = 69) (b) linear ablation across the roof of the left atrium and in the mitral isthmus, and these patients constituted the PVI plus line group (Group 2, n = 75) (c) ablation of CFAE, and these patients constituted the PVI plus CFAE group (Group 3, n = 42).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In patients whose AF remained sustained after PVI, they were assigned by the physicians discrimination without randomization to one of the following three substrate modification strategies: (a) rotordriver ablation guided by electrogram SI and phase mapping, and these patients constituted the PVI plus SI group (Group 1, n = 69) (b) linear ablation across the roof of the left atrium and in the mitral isthmus, and these patients constituted the PVI plus line group (Group 2, n = 75) (c) ablation of CFAE, and these patients constituted the PVI plus CFAE group (Group 3, n = 42)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Patients all received oral anticoagulant for at least 4 weeks before catheter ablation, and they were unaware of which strategy of catheter ablation had been applied to them.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients all received oral anticoagulant for at least 4 weeks before catheter ablation, and they were unaware of which strategy of catheter ablation had been applied to them."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Intergroup differences were assessed by the analysis of variance for continuous variables, and kh 2 test for categorical variables.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Intergroup differences were assessed by the analysis of variance for continuous variables, and kh 2 test for categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }]
+      }]
+  }
+}

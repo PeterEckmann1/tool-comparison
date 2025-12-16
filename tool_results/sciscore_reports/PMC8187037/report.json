@@ -1,0 +1,210 @@
+{
+  "docIdentifier" : "PMC8187037",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell Culture Conditions The cancer cell lines HepG2 , MCF7 , and Caco-2 culture condition described in Supplementary Material and Methods –",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell Culture Conditions The cancer cell lines HepG2 , MCF7 , and Caco-2 culture condition described in Supplementary Material and Methods –"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0027",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HepG2"
+                }],
+              "neText" : "HepG2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0031",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MCF7"
+                }],
+              "neText" : "MCF7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0025",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Caco-2"
+                }],
+              "neText" : "Caco-2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Molecular Docking Experiments Molecular docking was carried out utilizing Autodock Vina software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Molecular Docking Experiments Molecular docking was carried out utilizing Autodock Vina software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "AutoDock Vina (RRID:SCR_011958)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Autodock Vina"
+                }],
+              "neText" : "Autodock Vina"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "A voucher specimen (2020-BuPD 76) was deposited at the Department of Pharmacognosy, Faculty of Pharmacy, Beni-Suef University,",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A voucher specimen (2020-BuPD 76) was deposited at the Department of Pharmacognosy, Faculty of Pharmacy, Beni-Suef University,"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }, {
+            "sentence" : "In silico Biological Activity Predictions PASS22 was employed for the prediction of the most possible anticancer metabolites in Coscinoderma sp .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In silico Biological Activity Predictions PASS22 was employed for the prediction of the most possible anticancer metabolites in Coscinoderma sp ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PASS22"
+                  }],
+                "neText" : "PASS22"
+              }]
+          }]
+      }]
+  }
+}

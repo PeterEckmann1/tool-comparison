@@ -1,0 +1,230 @@
+{
+  "docIdentifier" : "PMC8748860",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "IBM SPSS Statistics 25 software was used to complete the statistical analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "IBM SPSS Statistics 25 software was used to complete the statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }, {
+          "sentence" : "The common variants were filtered using gnomAD (http://gnomad.broadinstitute.org) and KRG (http://coda.nih.go.kr/coda/KRGDB) databases.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The common variants were filtered using gnomAD (http://gnomad.broadinstitute.org) and KRG (http://coda.nih.go.kr/coda/KRGDB) databases."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://gnomad.broadinstitute.org"
+                }],
+              "neText" : "http://gnomad.broadinstitute.org"
+            }]
+        }, {
+          "sentence" : "The Human Gene Mutation Database and ClinVar were used to search for known pathogenic variants.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Human Gene Mutation Database and ClinVar were used to search for known pathogenic variants."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Human Gene Mutation Database (RRID:SCR_001621)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Human Gene Mutation"
+                }],
+              "neText" : "Human Gene Mutation"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ClinVar (RRID:SCR_006169)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ClinVar"
+                }],
+              "neText" : "ClinVar"
+            }]
+        }, {
+          "sentence" : "The sequence variants were evaluated by computational (in silico) predictive programs using PolyPhen-2, SIFT, and MutationTaster.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The sequence variants were evaluated by computational (in silico) predictive programs using PolyPhen-2, SIFT, and MutationTaster."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PolyPhen-2"
+                }],
+              "neText" : "PolyPhen-2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SIFT (RRID:SCR_012813)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SIFT"
+                }],
+              "neText" : "SIFT"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MutationTaster (RRID:SCR_010777)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MutationTaster"
+                }],
+              "neText" : "MutationTaster"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Institutional Review Board (No. 1910-065-1070) at the performing institution.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Institutional Review Board (No. 1910-065-1070) at the performing institution."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Twelve patients were examined, and their medical records were retrospectively analyzed.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Twelve patients were examined, and their medical records were retrospectively analyzed."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Fisher’s exact test was performed to compare the clinical features between patients with and without ACTG2 variants.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fisher’s exact test was performed to compare the clinical features between patients with and without ACTG2 variants."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher’s exact test"
+                  }],
+                "neText" : "Fisher’s exact test"
+              }]
+          }]
+      }]
+  }
+}

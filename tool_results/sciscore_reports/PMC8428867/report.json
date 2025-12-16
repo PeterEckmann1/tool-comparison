@@ -1,0 +1,172 @@
+{
+  "docIdentifier" : "PMC8428867",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Proprietary algorithms were used in selected areas count by touch using the ImageScope tool was realized on digital snapshots at x40 of magnification ( snapshot corresponds to 0.157 mm2) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Proprietary algorithms were used in selected areas count by touch using the ImageScope tool was realized on digital snapshots at x40 of magnification ( snapshot corresponds to 0.157 mm2) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageScope (RRID:SCR_014311)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageScope"
+                }],
+              "neText" : "ImageScope"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was carried out in accordance with the Declaration of Helsinki and approved by the local Ethical Committee (protocol number 2900).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was carried out in accordance with the Declaration of Helsinki and approved by the local Ethical Committee (protocol number 2900)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "21 Expression values of MX1 were excluded from interferon score calculation because the corresponding protein is normally expressed on pDCs.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "21 Expression values of MX1 were excluded from interferon score calculation because the corresponding protein is normally expressed on pDCs."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "The sample size was calculated relative to the analysis of gene expression and assuming a normal distribution of gene expression data, after logarithmic transformation, and hypothesizing a 1-way analysis of variance model balanced with 4 groups.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The sample size was calculated relative to the analysis of gene expression and assuming a normal distribution of gene expression data, after logarithmic transformation, and hypothesizing a 1-way analysis of variance model balanced with 4 groups."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "22,23 Statistical Analysis Statistical analyses used in the study were Fisher test for protein evaluation and 1-way analysis of variance for gene expression, after logarithmic transformation.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "22,23 Statistical Analysis Statistical analyses used in the study were Fisher test for protein evaluation and 1-way analysis of variance for gene expression, after logarithmic transformation."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher test"
+                  }],
+                "neText" : "Fisher test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }, {
+            "sentence" : "Comparison of statistics between the samples was performed using the Mann-Whitney test for 2-sided nonparametric values.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparison of statistics between the samples was performed using the Mann-Whitney test for 2-sided nonparametric values."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney test"
+                  }],
+                "neText" : "Mann-Whitney test"
+              }]
+          }]
+      }]
+  }
+}

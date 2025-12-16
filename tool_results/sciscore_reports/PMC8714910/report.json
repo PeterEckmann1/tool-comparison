@@ -1,0 +1,754 @@
+{
+  "docIdentifier" : "PMC8714910",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies CD3 (UCHT1) BioLegend Cat 300430 RRID:AB_893301 CD45 (2D1) BD Biosciences Cat 347463 RRID:AB_400306 CD19 (4G7) BD Biosciences Cat 349209 RRID:AB_400407 RANKL (12A668) Abcam Cat ab45039 RRID:AB_2205935 CD19 (EPR5906) Abcam Cat ab134114 RRID:AB_2801636 CD19 (EP169) BioGenex Cat AN729-5M CD19 (EPR23174-145) Abcam Cat ab245235 RRID:AB_2895109 CXCR4 (UMB2) Abcam Cat ab124824 RRID:AB_10975635 Biotinylated secondary antibody, Mouse and Rabbit SS Link-label IHC detection system BioGenex Cat QP900-LE (HK340-9KT-multi link) Biotinylated secondary antibody, Mouse and Rabbit HRPDAB (ABC) detection kit Abcam Cat ab64264 CXCR4 (12G5) BD Biosciences Cat 560669 RRID:AB_1727435 Biotinylated rOPG-Fc (in-house) Biotinylated in-house using EZ-link sulpho-NHS biotin kit rOPG-Fc: Amgen and NHS-Biotin kit: Thermoscientific Cat 21326 (NHS Biotin Kit) Streptavidin-PerCP-Cy5.5 e-Bioscience (Thermo-Fisher Scientific) Cat 45-4317-82 RRID:AB_10311495 Biological samples Patient-Derived B-ALL Samples Table S1 Table S1 Chemicals, peptides, and recombinant proteins Recombinant human OPG-Fc protein (RANKL antagonist) Amgen Amgen IgG1-Fc protein (produced in-house using pFUSE-Fc plasmid) Invivogen Catalog pfuse-hg1fc2 plasmid construct AMD3100 octahydrochloride (CXCR4 antagonist) Sigma-Aldrich A5602-5MG Experimental models: organismsstrains Mouse: p53-- Rag2-- Prkdcscidscid triple-mutant (TM) The center for Phenogenomics (TCP) (Toronto, Canada) housed and bred the TM mice.",
+          "rowSpan" : 17,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies CD3 (UCHT1) BioLegend Cat 300430 RRID:AB_893301 CD45 (2D1) BD Biosciences Cat 347463 RRID:AB_400306 CD19 (4G7) BD Biosciences Cat 349209 RRID:AB_400407 RANKL (12A668) Abcam Cat ab45039 RRID:AB_2205935 CD19 (EPR5906) Abcam Cat ab134114 RRID:AB_2801636 CD19 (EP169) BioGenex Cat AN729-5M CD19 (EPR23174-145) Abcam Cat ab245235 RRID:AB_2895109 CXCR4 (UMB2) Abcam Cat ab124824 RRID:AB_10975635 Biotinylated secondary antibody, Mouse and Rabbit SS Link-label IHC detection system BioGenex Cat QP900-LE (HK340-9KT-multi link) Biotinylated secondary antibody, Mouse and Rabbit HRPDAB (ABC) detection kit Abcam Cat ab64264 CXCR4 (12G5) BD Biosciences Cat 560669 RRID:AB_1727435 Biotinylated rOPG-Fc (in-house) Biotinylated in-house using EZ-link sulpho-NHS biotin kit rOPG-Fc: Amgen and NHS-Biotin kit: Thermoscientific Cat 21326 (NHS Biotin Kit) Streptavidin-PerCP-Cy5.5 e-Bioscience (Thermo-Fisher Scientific) Cat 45-4317-82 RRID:AB_10311495 Biological samples Patient-Derived B-ALL Samples Table S1 Table S1 Chemicals, peptides, and recombinant proteins Recombinant human OPG-Fc protein (RANKL antagonist) Amgen Amgen IgG1-Fc protein (produced in-house using pFUSE-Fc plasmid) Invivogen Catalog pfuse-hg1fc2 plasmid construct AMD3100 octahydrochloride (CXCR4 antagonist) Sigma-Aldrich A5602-5MG Experimental models: organismsstrains Mouse: p53-- Rag2-- Prkdcscidscid triple-mutant (TM) The center for Phenogenomics (TCP) (Toronto, Canada) housed and bred the TM mice."
+            }],
+          "mentions" : [{
+              "source" : "BD Biosciences",
+              "rrid" : "(BD Biosciences Cat# 349209, RRID:AB_400407)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD3"
+                }],
+              "neText" : "CD3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UCHT1"
+                }],
+              "neText" : "UCHT1"
+            }, {
+              "source" : "BioLegend",
+              "rrid" : "(BioLegend Cat# 300429, RRID:AB_893301)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "REAGENT"
+                }],
+              "neText" : "REAGENT"
+            }, {
+              "source" : "BD Biosciences",
+              "rrid" : "(BD Biosciences Cat# 347463, RRID:AB_400306)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD45 2D1"
+                }],
+              "neText" : "CD45 2D1"
+            }, {
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab45039, RRID:AB_2205935)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RANKL"
+                }],
+              "neText" : "RANKL"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD19"
+                }],
+              "neText" : "CD19"
+            }, {
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab134114, RRID:AB_2801636)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EPR5906"
+                }],
+              "neText" : "EPR5906"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EP169"
+                }],
+              "neText" : "EP169"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EPR23174-145"
+                }],
+              "neText" : "EPR23174-145"
+            }, {
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab245235, RRID:AB_2895109)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cat AN729-5M CD19 EPR23174-145"
+                }],
+              "neText" : "Cat AN729-5M CD19 EPR23174-145"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UMB2"
+                }],
+              "neText" : "UMB2"
+            }, {
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab124824, RRID:AB_10975635)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CXCR4 UMB2"
+                }],
+              "neText" : "CXCR4 UMB2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HK340-9KT-multi link"
+                }],
+              "neText" : "HK340-9KT-multi link"
+            }, {
+              "source" : "",
+              "rrid" : "(BD Biosciences Cat# 560669, RRID:AB_1727435)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NHS"
+                }],
+              "neText" : "NHS"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# 45-4317-82, RRID:AB_10311495)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cat"
+                }],
+              "neText" : "Cat"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "OPG-Fc protein (RANKL antagonist) Amgen Amgen IgG1-Fc protein"
+                }],
+              "neText" : "OPG-Fc protein (RANKL antagonist) Amgen Amgen IgG1-Fc protein"
+            }]
+        }, {
+          "sentence" : "Moreover, single-cell suspensions isolated from the bone marrow of BCR-ABL1 PDX mice that were treated with IgG1-Fc control were stained with human-specific cell-surface antibodies for CXCR4-PECy7 (1:150 dilution, clone: 12G5, BD Biosciences), CD45-FITC (1:30 dilution, clone: 2D1, BD Biosciences), CD19-PE (1:30 dilution, clone: 4G7, BD Biosciences).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Moreover, single-cell suspensions isolated from the bone marrow of BCR-ABL1 PDX mice that were treated with IgG1-Fc control were stained with human-specific cell-surface antibodies for CXCR4-PECy7 (1:150 dilution, clone: 12G5, BD Biosciences), CD45-FITC (1:30 dilution, clone: 2D1, BD Biosciences), CD19-PE (1:30 dilution, clone: 4G7, BD Biosciences)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD19-PE"
+                }],
+              "neText" : "CD19-PE"
+            }]
+        }, {
+          "sentence" : "In addition, isolated lymphoblasts from the CNS of MLLr PDX mice after treatment with IgG1-Fc control were stained with antibodies specific for cell-surface CD45-FITC (1:30 dilution, clone: 2D1, BD Biosciences), CD19-PE (1:30 dilution, clone: 4G7, BD Biosciences), CXCR4-PECy7 (1:150 dilution, clone: 12G5, BD Biosciences), and biotinylated rOPG-Fc+Streptavidin-PerCP-Cy5.5 (to detect RANKL) as previously described.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In addition, isolated lymphoblasts from the CNS of MLLr PDX mice after treatment with IgG1-Fc control were stained with antibodies specific for cell-surface CD45-FITC (1:30 dilution, clone: 2D1, BD Biosciences), CD19-PE (1:30 dilution, clone: 4G7, BD Biosciences), CXCR4-PECy7 (1:150 dilution, clone: 12G5, BD Biosciences), and biotinylated rOPG-Fc+Streptavidin-PerCP-Cy5.5 (to detect RANKL) as previously described."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD45-FITC"
+                }],
+              "neText" : "CD45-FITC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CXCR4-PECy7"
+                }],
+              "neText" : "CXCR4-PECy7"
+            }]
+        }, {
+          "sentence" : "Slides were incubated in pre-diluted ready-to-use anti-human CD19 (clone: EP169) rabbit monoclonal antibody (Biogenex, USA) overnight at 4degC according to the manufacturers instruction.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Slides were incubated in pre-diluted ready-to-use anti-human CD19 (clone: EP169) rabbit monoclonal antibody (Biogenex, USA) overnight at 4degC according to the manufacturers instruction."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human CD19"
+                }],
+              "neText" : "anti-human CD19"
+            }]
+        }, {
+          "sentence" : "After washing, slides were incubated with pre- diluted ready-to-use biotinylated anti-rabbit secondary antibody optimized for Biogenex primary antibodies (SS anti-mouse and rabbit, HK340-9KT-multi-link, Biogenex, USA) for 30 min at RT.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After washing, slides were incubated with pre- diluted ready-to-use biotinylated anti-rabbit secondary antibody optimized for Biogenex primary antibodies (SS anti-mouse and rabbit, HK340-9KT-multi-link, Biogenex, USA) for 30 min at RT."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HK340-9KT-multi-link"
+                }],
+              "neText" : "HK340-9KT-multi-link"
+            }]
+        }, {
+          "sentence" : "As an experimental control to detect non-specific secondary antibody-binding, tissue sections were incubated with pre-diluted ready-to-use biotinylated anti-rabbit secondary antibody without the addition of the primary antibody for 30 min at RT.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "As an experimental control to detect non-specific secondary antibody-binding, tissue sections were incubated with pre-diluted ready-to-use biotinylated anti-rabbit secondary antibody without the addition of the primary antibody for 30 min at RT."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }]
+        }, {
+          "sentence" : "In addition, bone sections from BCR-ABL1 PDX mice were stained with anti-mouse or human RANKL (clone: 12A668 1:25 dilution Abcam, ab45039) primary antibody and processed as previously described for human CD19 staining.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In addition, bone sections from BCR-ABL1 PDX mice were stained with anti-mouse or human RANKL (clone: 12A668 1:25 dilution Abcam, ab45039) primary antibody and processed as previously described for human CD19 staining."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "human RANKL (clone: 12A668 1:25 dilution Abcam, ab45039) primary antibody"
+                }],
+              "neText" : "human RANKL (clone: 12A668 1:25 dilution Abcam, ab45039) primary antibody"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "human"
+                }],
+              "neText" : "human"
+            }]
+        }, {
+          "sentence" : "17 Dewaxed and rehydrated paraffin-embedded bone sections (as described above in the bone histology section) from TM and nonleukemic SCID mice were stained with anti-mouse CD19 (clone: EPR23174-145 1:750 dilution Abcam, ab245235) or anti-mouse or human RANKL (clone: 12A668 1:25 dilution Abcam, ab45039) primary antibodies and processed as previously described for human CD19 staining.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "17 Dewaxed and rehydrated paraffin-embedded bone sections (as described above in the bone histology section) from TM and nonleukemic SCID mice were stained with anti-mouse CD19 (clone: EPR23174-145 1:750 dilution Abcam, ab245235) or anti-mouse or human RANKL (clone: 12A668 1:25 dilution Abcam, ab45039) primary antibodies and processed as previously described for human CD19 staining."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse CD19"
+                }],
+              "neText" : "anti-mouse CD19"
+            }]
+        }, {
+          "sentence" : "17 Bone sections from MLLr PDX mice were stained with anti-human CD19 (clone: EPR5906 1:250 dilution Abcam, ab134114) or anti-mouse or human RANKL (clone: 12A668 1:25 dilution Abcam, ab45039) primary antibodies and processed as previously described for human CD19 staining.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "17 Bone sections from MLLr PDX mice were stained with anti-human CD19 (clone: EPR5906 1:250 dilution Abcam, ab134114) or anti-mouse or human RANKL (clone: 12A668 1:25 dilution Abcam, ab45039) primary antibodies and processed as previously described for human CD19 staining."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse or human RANKL"
+                }],
+              "neText" : "anti-mouse or human RANKL"
+            }]
+        }, {
+          "sentence" : "17 Bone sections from MLLr PDX mice were stained with an anti-human CXCR4 (clone: UMB2) primary antibody (1:250 dilution Abcam, ab124824), using the same method as previously described for human CD19 staining.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "17 Bone sections from MLLr PDX mice were stained with an anti-human CXCR4 (clone: UMB2) primary antibody (1:250 dilution Abcam, ab124824), using the same method as previously described for human CD19 staining."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human CXCR4"
+                }],
+              "neText" : "anti-human CXCR4"
+            }]
+        }, {
+          "sentence" : "17 The anti-human CXCR4 antibody recognizes the non-phosphorylated C terminus of CXCR4.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "17 The anti-human CXCR4 antibody recognizes the non-phosphorylated C terminus of CXCR4."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CXCR4"
+                }],
+              "neText" : "CXCR4"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "NA Software and algorithms GraphPad Prism https:www.graphpad.com Version 8.4.1, for Mac OS X FlowJo v.10 (Tree Star, Ashland, OR) https:www.flowjo.com Version 10 (Tree Star, Ashland, OR) NDP.view2 https:www.hamamatsu.comusenproducttypeU12388-01index.html Version-U12388-01 QuPath (Quantitative Pathology and Bioimage Analysis) https:qupath.github.io Version 0.2.3 Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Dr. Jayne S.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NA Software and algorithms GraphPad Prism https:www.graphpad.com Version 8.4.1, for Mac OS X FlowJo v.10 (Tree Star, Ashland, OR) https:www.flowjo.com Version 10 (Tree Star, Ashland, OR) NDP.view2 https:www.hamamatsu.comusenproducttypeU12388-01index.html Version-U12388-01 QuPath (Quantitative Pathology and Bioimage Analysis) https:qupath.github.io Version 0.2.3 Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Dr. Jayne S."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Version-U12388-01"
+                }],
+              "neText" : "Version-U12388-01"
+            }]
+        }, {
+          "sentence" : "Mice were sacrificed at eight weeks or four and six weeks after leukemic blast injection and treatment for BCR-ABL1 and MLLr PDX mice, respectively.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Mice were sacrificed at eight weeks or four and six weeks after leukemic blast injection and treatment for BCR-ABL1 and MLLr PDX mice, respectively."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BCR-ABL1"
+                }],
+              "neText" : "BCR-ABL1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "NA Mouse: NOD.PrkdcscidscidIl2rg tm1WjlSzJ (NSG) The University Health Network (UHN), Max bell-animal resource center (Toronto, Canada), housed and bred the NSG mice in pathogen-free (SPF) conditions.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NA Mouse: NOD.PrkdcscidscidIl2rg tm1WjlSzJ (NSG) The University Health Network (UHN), Max bell-animal resource center (Toronto, Canada), housed and bred the NSG mice in pathogen-free (SPF) conditions."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NOD.PrkdcscidscidIl2rg tm1WjlSzJ"
+                }],
+              "neText" : "NOD.PrkdcscidscidIl2rg tm1WjlSzJ"
+            }]
+        }, {
+          "sentence" : "The UHN animal care committee approved all experimental procedures with the NSG mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The UHN animal care committee approved all experimental procedures with the NSG mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NSG"
+                }],
+              "neText" : "NSG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies CD3 (UCHT1) BioLegend Cat 300430 RRID:AB_893301 CD45 (2D1) BD Biosciences Cat 347463 RRID:AB_400306 CD19 (4G7) BD Biosciences Cat 349209 RRID:AB_400407 RANKL (12A668) Abcam Cat ab45039 RRID:AB_2205935 CD19 (EPR5906) Abcam Cat ab134114 RRID:AB_2801636 CD19 (EP169) BioGenex Cat AN729-5M CD19 (EPR23174-145) Abcam Cat ab245235 RRID:AB_2895109 CXCR4 (UMB2) Abcam Cat ab124824 RRID:AB_10975635 Biotinylated secondary antibody, Mouse and Rabbit SS Link-label IHC detection system BioGenex Cat QP900-LE (HK340-9KT-multi link) Biotinylated secondary antibody, Mouse and Rabbit HRPDAB (ABC) detection kit Abcam Cat ab64264 CXCR4 (12G5) BD Biosciences Cat 560669 RRID:AB_1727435 Biotinylated rOPG-Fc (in-house) Biotinylated in-house using EZ-link sulpho-NHS biotin kit rOPG-Fc: Amgen and NHS-Biotin kit: Thermoscientific Cat 21326 (NHS Biotin Kit) Streptavidin-PerCP-Cy5.5 e-Bioscience (Thermo-Fisher Scientific) Cat 45-4317-82 RRID:AB_10311495 Biological samples Patient-Derived B-ALL Samples Table S1 Table S1 Chemicals, peptides, and recombinant proteins Recombinant human OPG-Fc protein (RANKL antagonist) Amgen Amgen IgG1-Fc protein (produced in-house using pFUSE-Fc plasmid) Invivogen Catalog pfuse-hg1fc2 plasmid construct AMD3100 octahydrochloride (CXCR4 antagonist) Sigma-Aldrich A5602-5MG Experimental models: organismsstrains Mouse: p53-- Rag2-- Prkdcscidscid triple-mutant (TM) The center for Phenogenomics (TCP) (Toronto, Canada) housed and bred the TM mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies CD3 (UCHT1) BioLegend Cat 300430 RRID:AB_893301 CD45 (2D1) BD Biosciences Cat 347463 RRID:AB_400306 CD19 (4G7) BD Biosciences Cat 349209 RRID:AB_400407 RANKL (12A668) Abcam Cat ab45039 RRID:AB_2205935 CD19 (EPR5906) Abcam Cat ab134114 RRID:AB_2801636 CD19 (EP169) BioGenex Cat AN729-5M CD19 (EPR23174-145) Abcam Cat ab245235 RRID:AB_2895109 CXCR4 (UMB2) Abcam Cat ab124824 RRID:AB_10975635 Biotinylated secondary antibody, Mouse and Rabbit SS Link-label IHC detection system BioGenex Cat QP900-LE (HK340-9KT-multi link) Biotinylated secondary antibody, Mouse and Rabbit HRPDAB (ABC) detection kit Abcam Cat ab64264 CXCR4 (12G5) BD Biosciences Cat 560669 RRID:AB_1727435 Biotinylated rOPG-Fc (in-house) Biotinylated in-house using EZ-link sulpho-NHS biotin kit rOPG-Fc: Amgen and NHS-Biotin kit: Thermoscientific Cat 21326 (NHS Biotin Kit) Streptavidin-PerCP-Cy5.5 e-Bioscience (Thermo-Fisher Scientific) Cat 45-4317-82 RRID:AB_10311495 Biological samples Patient-Derived B-ALL Samples Table S1 Table S1 Chemicals, peptides, and recombinant proteins Recombinant human OPG-Fc protein (RANKL antagonist) Amgen Amgen IgG1-Fc protein (produced in-house using pFUSE-Fc plasmid) Invivogen Catalog pfuse-hg1fc2 plasmid construct AMD3100 octahydrochloride (CXCR4 antagonist) Sigma-Aldrich A5602-5MG Experimental models: organismsstrains Mouse: p53-- Rag2-- Prkdcscidscid triple-mutant (TM) The center for Phenogenomics (TCP) (Toronto, Canada) housed and bred the TM mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pFUSE-Fc"
+                }],
+              "neText" : "pFUSE-Fc"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "NA Software and algorithms GraphPad Prism https:www.graphpad.com Version 8.4.1, for Mac OS X FlowJo v.10 (Tree Star, Ashland, OR) https:www.flowjo.com Version 10 (Tree Star, Ashland, OR) NDP.view2 https:www.hamamatsu.comusenproducttypeU12388-01index.html Version-U12388-01 QuPath (Quantitative Pathology and Bioimage Analysis) https:qupath.github.io Version 0.2.3 Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Dr. Jayne S.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NA Software and algorithms GraphPad Prism https:www.graphpad.com Version 8.4.1, for Mac OS X FlowJo v.10 (Tree Star, Ashland, OR) https:www.flowjo.com Version 10 (Tree Star, Ashland, OR) NDP.view2 https:www.hamamatsu.comusenproducttypeU12388-01index.html Version-U12388-01 QuPath (Quantitative Pathology and Bioimage Analysis) https:qupath.github.io Version 0.2.3 Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Dr. Jayne S."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.graphpad.com"
+                }],
+              "neText" : "https:www.graphpad.com"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "Staining media (SM) was prepared by adding 10mM HEPES (pH 7.2) and 2 calf serum (Wisent Inc.) to Hanks balanced salt solution (GIBCO).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Staining media (SM) was prepared by adding 10mM HEPES (pH 7.2) and 2 calf serum (Wisent Inc.) to Hanks balanced salt solution (GIBCO)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GIBCO"
+                }],
+              "neText" : "GIBCO"
+            }]
+        }, {
+          "sentence" : "Cells were stained with human-specific cell-surface antibodies for CD45-FITC (1:30 dilution, clone: 2D1, BD Biosciences), CD19-PE (1:30 dilution, clone: 4G7, BD Biosciences), along with Human TruStain Fc-receptor blocking solution BioLegend and incubated for 30 min at RT.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were stained with human-specific cell-surface antibodies for CD45-FITC (1:30 dilution, clone: 2D1, BD Biosciences), CD19-PE (1:30 dilution, clone: 4G7, BD Biosciences), along with Human TruStain Fc-receptor blocking solution BioLegend and incubated for 30 min at RT."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BD Biosciences"
+                }],
+              "neText" : "BD Biosciences"
+            }]
+        }, {
+          "sentence" : "For PDX experiments, primary BCR-ABL1 B-ALL or NSG-passaged MLLr B-ALL blasts-injected NSG mice were treated with IgG1-Fc control (in-house protein) or rOPG-Fc (Amgen) or AMD3100 octahydrochloride (Sigma) or a combination of rOPG-Fc and AMD3100 at the time of leukemic blast injections.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For PDX experiments, primary BCR-ABL1 B-ALL or NSG-passaged MLLr B-ALL blasts-injected NSG mice were treated with IgG1-Fc control (in-house protein) or rOPG-Fc (Amgen) or AMD3100 octahydrochloride (Sigma) or a combination of rOPG-Fc and AMD3100 at the time of leukemic blast injections."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "All data were analyzed using GraphPad Prism software, version 8.4.1, for Mac OS X.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All data were analyzed using GraphPad Prism software, version 8.4.1, for Mac OS X."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The TCP animal care committee approved all experimental procedures.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The TCP animal care committee approved all experimental procedures."
+              }]
+          }, {
+            "sentence" : "Human B-ALL samples The Research Ethics Boards at the Hospital for Sick Children (Toronto, Canada) and UHN (Toronto, Canada) approved this study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Human B-ALL samples The Research Ethics Boards at the Hospital for Sick Children (Toronto, Canada) and UHN (Toronto, Canada) approved this study."
+              }]
+          }, {
+            "sentence" : "Bone marrow or peripheral blood samples from newly diagnosed patients with ALL were obtained with informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Bone marrow or peripheral blood samples from newly diagnosed patients with ALL were obtained with informed consent."
+              }]
+          }, {
+            "sentence" : "17 , 53 Briefly, mice were anesthetized by isoflurane inhalation, and the area of the injection site just below the patella or femur kneecap was cleaned using a sterile alcohol wipe.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "17 , 53 Briefly, mice were anesthetized by isoflurane inhalation, and the area of the injection site just below the patella or femur kneecap was cleaned using a sterile alcohol wipe."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "TM and nonleukemic SCID male or female mice (8 to 12 weeks old) were used in the experiments.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "TM and nonleukemic SCID male or female mice (8 to 12 weeks old) were used in the experiments."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "TM and nonleukemic SCID male or female mice (8 to 12 weeks old) were used in the experiments.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "TM and nonleukemic SCID male or female mice (8 to 12 weeks old) were used in the experiments."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "For PDX experiments, mice were randomly assigned to the IgG1-Fc control or rOPG-Fc or AMD3100 treatment groups.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For PDX experiments, mice were randomly assigned to the IgG1-Fc control or rOPG-Fc or AMD3100 treatment groups."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The two-group analysis was performed using a two-tailed unpaired Students t test with or without Welchs correction for heteroscedasticity.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The two-group analysis was performed using a two-tailed unpaired Students t test with or without Welchs correction for heteroscedasticity."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }, {
+            "sentence" : "One-way analysis of variance with Bonferronis or Dunns correction was used to evaluate differences among multiple comparisons.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way analysis of variance with Bonferronis or Dunns correction was used to evaluate differences among multiple comparisons."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferronis"
+                  }],
+                "neText" : "Bonferronis"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunns correction"
+                  }],
+                "neText" : "Dunns correction"
+              }]
+          }]
+      }]
+  }
+}

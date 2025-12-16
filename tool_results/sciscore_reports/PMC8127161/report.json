@@ -1,0 +1,197 @@
+{
+  "docIdentifier" : "PMC8127161",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2 METHODS 2.1 Data In our simulation study, we used resting state fMRI data from 103 healthy controls from Oulu dataset in the 1000 Functional Connectomes Project (Biswal et al., 2010) were used for all analyses (http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2 METHODS 2.1 Data In our simulation study, we used resting state fMRI data from 103 healthy controls from Oulu dataset in the 1000 Functional Connectomes Project (Biswal et al., 2010) were used for all analyses (http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html"
+                }],
+              "neText" : "http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html"
+            }]
+        }, {
+          "sentence" : "1 (FMRIB Software Library; Oxford, UK; www.fmrib.ox.ac.uk/fsl), as described in Richter and de Lange (2019).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "1 (FMRIB Software Library; Oxford, UK; www.fmrib.ox.ac.uk/fsl), as described in Richter and de Lange (2019)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FSL, RRID:SCR_002823",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FMRIB"
+                }],
+              "neText" : "FMRIB"
+            }]
+        }, {
+          "sentence" : "The script was shared as a Life Script, a MATLAB format that is specifically designed for documenting code.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The script was shared as a Life Script, a MATLAB format that is specifically designed for documenting code."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Collection of the data was approved by the ethics committee of the Northern Ostrobothnia Hospital District.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Collection of the data was approved by the ethics committee of the Northern Ostrobothnia Hospital District."
+              }]
+          }, {
+            "sentence" : "The study followed institutional guidelines of the local ethics committee (CMO region Arnhem‐Nijmegen, The Netherlands).",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study followed institutional guidelines of the local ethics committee (CMO region Arnhem-Nijmegen, The Netherlands)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The dataset includes 37 male and 66 female participants with a narrow age range (20–23 years, mean = 21.52, SD = 0.57).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The dataset includes 37 male and 66 female participants with a narrow age range (20–23 years, mean = 21.52, SD = 0.57)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The dataset includes 37 male and 66 female participants with a narrow age range (20–23 years, mean = 21.52, SD = 0.57).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The dataset includes 37 male and 66 female participants with a narrow age range (20–23 years, mean = 21.52, SD = 0.57)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Importantly, the trial order was fully randomized, which made the data suited for applying the randomization test.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Importantly, the trial order was fully randomized, which made the data suited for applying the randomization test."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The preprocessed resting state fMRI data and the library of MATLAB functions will be publicly available at https://doi.org/10.34973/zw83-tn77 only after the paper is published.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The preprocessed resting state fMRI data and the library of MATLAB functions will be publicly available at https://doi.org/10.34973/zw83-tn77 only after the paper is published."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "2.5 Replicating and extending our simulation study For the purpose of replicating and extending our simulation study, we have shared the preprocessed fMRI data and the code (a MATLAB script and a library of functions) that were used to produce the results of this simulation study (see https://doi.org/10.34973/zw83-tn77).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.5 Replicating and extending our simulation study For the purpose of replicating and extending our simulation study, we have shared the preprocessed fMRI data and the code (a MATLAB script and a library of functions) that were used to produce the results of this simulation study (see https://doi.org/10.34973/zw83-tn77)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "https://doi.org/10.34973/zw83-tn77"
+                  }],
+                "neText" : "https://doi.org/10.34973/zw83-tn77"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "docIdentifier" : "PMC8100015",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "All cases with an intensity score >=2 and tumor positivity >=20 were considered positive, as previously defined 12 The following primary antibodies were selected for use in this study, based on the IHC markers introduced by Dadhania et al. 12: KRT56 (MAD-000651QD) and KRT14 (MAD-005103QD) as basal markers KRT20 (MAD-005105QD) and GATA3 (MAD-000632QD) as luminal markers and desmin (MAD-001011QD) as a p53-like marker.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All cases with an intensity score >=2 and tumor positivity >=20 were considered positive, as previously defined 12 The following primary antibodies were selected for use in this study, based on the IHC markers introduced by Dadhania et al. 12: KRT56 (MAD-000651QD) and KRT14 (MAD-005103QD) as basal markers KRT20 (MAD-005105QD) and GATA3 (MAD-000632QD) as luminal markers and desmin (MAD-001011QD) as a p53-like marker."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MAD-000651QD"
+                }],
+              "neText" : "MAD-000651QD"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KRT14"
+                }],
+              "neText" : "KRT14"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GATA3"
+                }],
+              "neText" : "GATA3"
+            }]
+        }, {
+          "sentence" : "To determine two additional rare phenotypes, i.e., mesenchymal-like and small-cellneuroendocrine-like 16, antibodies against vimentin (MAD-000326QD) and CDH1 (MAD-000761QD) were also used.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To determine two additional rare phenotypes, i.e., mesenchymal-like and small-cellneuroendocrine-like 16, antibodies against vimentin (MAD-000326QD) and CDH1 (MAD-000761QD) were also used."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "vimentin (MAD-000326QD)"
+                }],
+              "neText" : "vimentin (MAD-000326QD)"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CDH1"
+                }],
+              "neText" : "CDH1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The statistical analyses were performed by using IBM SPSS, version 23 (IBM Corp., Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The statistical analyses were performed by using IBM SPSS, version 23 (IBM Corp., Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Ethical approval for the study was obtained by the Institutional Review Board of the Shahid Beheshti University of Medical Sciences ( approval number: IR.SBMU.UNRC . REC.1398.15) .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ethical approval for the study was obtained by the Institutional Review Board of the Shahid Beheshti University of Medical Sciences ( approval number: IR.SBMU.UNRC . REC.1398.15) ."
+              }]
+          }, {
+            "sentence" : "The requirement for informed consent was waived owing to the retrospective approach .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The requirement for informed consent was waived owing to the retrospective approach ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "A bootstrapping technique was applied by using 1,000 random data sets generated from the original data.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A bootstrapping technique was applied by using 1,000 random data sets generated from the original data."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "The assessors of outcome were blinded to the study covariates .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The assessors of outcome were blinded to the study covariates ."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "A log-rank test was used to compare OS between the patient groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A log-rank test was used to compare OS between the patient groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }]
+      }]
+  }
+}

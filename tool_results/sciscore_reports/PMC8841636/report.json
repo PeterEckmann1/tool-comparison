@@ -1,0 +1,537 @@
+{
+  "docIdentifier" : "PMC8841636",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Anti-rabbit or anti-mouse HRP-conjugated IgG Abs were used to detect the binding of the Abs.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Anti-rabbit or anti-mouse HRP-conjugated IgG Abs were used to detect the binding of the Abs."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-rabbit"
+                }],
+              "neText" : "Anti-rabbit"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "11 RAW264.7 macrophages were pre-incubated with NG-R1 for 24 h and stimulated using LPS (1 g/l).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "11 RAW264.7 macrophages were pre-incubated with NG-R1 for 24 h and stimulated using LPS (1 g/l)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0493",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RAW264.7"
+                }],
+              "neText" : "RAW264.7"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Experimental animals Eighty adult male Sprague Dawley rats weighing 251 ± 23 g were purchased from the Kunming Medical University Laboratory Animal Center ( Kunming , China) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Experimental animals Eighty adult male Sprague Dawley rats weighing 251 ± 23 g were purchased from the Kunming Medical University Laboratory Animal Center ( Kunming , China) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_70508",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sprague Dawley"
+                }],
+              "neText" : "Sprague Dawley"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "RAW264.7 macrophages were transfected with the wild type (WT) Tollip 3′-UTR, or the mutant Tollip 3′-UTR was cloned into the p-miR-reporter plasmid (Thermo Fisher Scientific, Inc.) together with miR-128-2-5p mimics, inhibitor, or NC by using Lipofectamine RNAi Max (Thermo Fisher Scientific, Inc.).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RAW264.7 macrophages were transfected with the wild type (WT) Tollip 3′-UTR, or the mutant Tollip 3′-UTR was cloned into the p-miR-reporter plasmid (Thermo Fisher Scientific, Inc.) together with miR-128-2-5p mimics, inhibitor, or NC by using Lipofectamine RNAi Max (Thermo Fisher Scientific, Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p-miR-reporter"
+                }],
+              "neText" : "p-miR-reporter"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The miR-128-2-5p mimics, inhibitor, and NC oligonucleotides were purchased from Sangon Biological Engineering Co., Ltd (Shanghai, China).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The miR-128-2-5p mimics, inhibitor, and NC oligonucleotides were purchased from Sangon Biological Engineering Co., Ltd (Shanghai, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sangon Biological"
+                }],
+              "neText" : "Sangon Biological"
+            }]
+        }, {
+          "sentence" : "MiR-128-2-5p target gene prediction and dual luciferase reporter assay The target gene of miR-128-2-5p was predicted using the PicTar (www.pictar.org), TargetScan (http://www.targetscan.org), and a database (www.mirbase.org).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MiR-128-2-5p target gene prediction and dual luciferase reporter assay The target gene of miR-128-2-5p was predicted using the PicTar (www.pictar.org), TargetScan (http://www.targetscan.org), and a database (www.mirbase.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PicTar (RRID:SCR_003343)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PicTar"
+                }],
+              "neText" : "PicTar"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "TargetScan (RRID:SCR_010845)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }]
+        }, {
+          "sentence" : "Quantitative analysis was performed using the Image J.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Quantitative analysis was performed using the Image J."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image J"
+                }],
+              "neText" : "Image J"
+            }]
+        }, {
+          "sentence" : "NF-κB65- and TLR4-positive expression in the lung tissue was determined and expressed as positive units by using the Image-Pro Plus image analysis software (Media Cy Bemetics American Company).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NF-"
+            }, {
+              "f" : "symbol",
+              "c" : "κ"
+            }, {
+              "f" : "default",
+              "c" : "B65- and TLR4-positive expression in the lung tissue was determined and expressed as positive units by using the Image-Pro Plus image analysis software (Media Cy Bemetics American Company)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Image-Pro Plus (RRID:SCR_016879)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image-Pro Plus"
+                }],
+              "neText" : "Image-Pro Plus"
+            }]
+        }, {
+          "sentence" : "Statistical analysis The SPSS 11.0 software was used for the statistical analysis of the results.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis The SPSS 11.0 software was used for the statistical analysis of the results."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }, {
+          "sentence" : "For two-group comparisons, the unpaired Student's t-test was used (GraphPad Software, San Diego, CA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For two-group comparisons, the unpaired Student's t-test was used (GraphPad Software, San Diego, CA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All experiments were approved and performed in accordance with the guidelines of the Animal Care Committee of Kunming Medical University .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were approved and performed in accordance with the guidelines of the Animal Care Committee of Kunming Medical University ."
+              }]
+          }, {
+            "sentence" : "All experiments were approved by the Ethics Committee of Dali University ( Dali , China; Approval number: TCM-2017-041-E17 ) and performed in accordance with The Guidelines of the Animal Care Committee of Dali University .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were approved by the Ethics Committee of Dali University ( Dali , China; Approval number: TCM-2017-041-E17 ) and performed in accordance with The Guidelines of the Animal Care Committee of Dali University ."
+              }]
+          }, {
+            "sentence" : "The rats were subjected to taurocholate-induced SAP for 24 h , anesthetized using intravenous pentobarbital sodium ( 50 mg/kg) , and sacrificed via cervical dislocation .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The rats were subjected to taurocholate-induced SAP for 24 h , anesthetized using intravenous pentobarbital sodium ( 50 mg/kg) , and sacrificed via cervical dislocation ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Experimental animals Eighty adult male Sprague Dawley rats weighing 251 ± 23 g were purchased from the Kunming Medical University Laboratory Animal Center ( Kunming , China) .",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Experimental animals Eighty adult male Sprague Dawley rats weighing 251 ± 23 g were purchased from the Kunming Medical University Laboratory Animal Center ( Kunming , China) ."
+              }]
+          }, {
+            "sentence" : "The rats were 8–9 wk of age at the initiation of the experiment and maintained on a standard laboratory food intake.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The rats were 8–9 wk of age at the initiation of the experiment and maintained on a standard laboratory food intake."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Animal groups and drug administration The rats were randomly assigned into four groups ( n = 10 for each group) , namely , SO , SO treatment , SAP , and SAP treatment groups .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animal groups and drug administration The rats were randomly assigned into four groups ( n = 10 for each group) , namely , SO , SO treatment , SAP , and SAP treatment groups ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Amplifications were repeated thrice.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Amplifications were repeated thrice."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "Amplifications were repeated thrice.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Amplifications were repeated thrice."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Repeatedly measured data were statistically analyzed using analysis of variance (ANOVA).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Repeatedly measured data were statistically analyzed using analysis of variance (ANOVA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Data were analyzed using ANOVA and the Newman–Keuls comparison.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data were analyzed using ANOVA and the Newman–Keuls comparison."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Newman–Keuls"
+                  }],
+                "neText" : "Newman–Keuls"
+              }]
+          }, {
+            "sentence" : "For two-group comparisons, the unpaired Student's t-test was used (GraphPad Software, San Diego, CA).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For two-group comparisons, the unpaired Student's t-test was used (GraphPad Software, San Diego, CA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Gene Primer Product length ( bp ) miR-128-2-5p F-5′- TCCGATCACAGTGAACCGGT 3′ 143 bp R-5′- GTGCAGGGTCCGAGGT-3′ U6 F-5′ CTCGCTTCGGCAGCACA-3′ 158 bp R-5′-",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Gene Primer Product length ( bp ) miR-128-2-5p F-5′- TCCGATCACAGTGAACCGGT 3′ 143 bp R-5′- GTGCAGGGTCCGAGGT-3′ U6 F-5′ CTCGCTTCGGCAGCACA-3′ 158 bp R-5′-"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "F-5′- TCCGATCACAGTGAACCGGT 3′"
+                  }],
+                "neText" : "F-5′- TCCGATCACAGTGAACCGGT 3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GTGCAGGGTCCGAGGT-3′ U6 F-5′ CTCGCTTCGGCAGCACA-3′"
+                  }],
+                "neText" : "GTGCAGGGTCCGAGGT-3′ U6 F-5′ CTCGCTTCGGCAGCACA-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "U6"
+                  }],
+                "neText" : "U6"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "F-5′"
+                  }],
+                "neText" : "F-5′"
+              }]
+          }, {
+            "sentence" : "AACGCTTCACGAATTTGCGT-3′ HMGB1 mRNA F-5′ - TGGTACATATCGGGCTAGAAG -3′R-5′- CCA TACTGTACCAGGCAAGGT-3′ 218 bp TLR4 mRNA F-5′- CCAAGAACCTAGATCTGAGCTTCA ATC-3′R-5′-TCCTGGCTGGACT TAAGCTGTAG-3′ 205 bp Tollip mRNA F-5′- GGACAACGGTCAGCGACGCA-3′R -5′-CATAGCCCAGACGCAGGCGG -3′ 248 bp NF-κB 65mRNA F-5′-GGATGGCTACTATGAGGCT GAC-3′R-5′-CTAATGGCTTGCT CCAGGTCTC -3′ 171 bp IkB mRNA F-5′-GCCTGGACTCCATGAAAGA C-3′R-5′-CAAGTGGAGTGGAGT CTGCTGCAGCTTGTT-3′ 277 bp ERK1 mRNA F-5′- AACCTGCTCATCAACACCAC-3′R -5′- CGTAGCCACATACTCCGTCA -3′ 174 bp β-Actin F-5′- AGCGGTTCCGATGCCCT -3′R-5′-AGAGGTCTTTACGGAT GTCAACG-3′ 190 bp Western blot The lung tissues were homogenized in the lysis buffer containing protease inhibitors , and the protein concentrations were determined using the Bradford reagent ( Bio-Rad Laboratories Inc .",
+            "rowSpan" : 5,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "AACGCTTCACGAATTTGCGT-3′ HMGB1 mRNA F-5′ - TGGTACATATCGGGCTAGAAG -3′R-5′- CCA TACTGTACCAGGCAAGGT-3′ 218 bp TLR4 mRNA F-5′- CCAAGAACCTAGATCTGAGCTTCA ATC-3′R-5′-TCCTGGCTGGACT TAAGCTGTAG-3′ 205 bp Tollip mRNA F-5′- GGACAACGGTCAGCGACGCA-3′R -5′-CATAGCCCAGACGCAGGCGG -3′ 248 bp NF-"
+              }, {
+                "f" : "symbol",
+                "c" : "κ"
+              }, {
+                "f" : "default",
+                "c" : "B 65mRNA F-5′-GGATGGCTACTATGAGGCT GAC-3′R-5′-CTAATGGCTTGCT CCAGGTCTC -3′ 171 bp IkB mRNA F-5′-GCCTGGACTCCATGAAAGA C-3′R-5′-CAAGTGGAGTGGAGT CTGCTGCAGCTTGTT-3′ 277 bp ERK1 mRNA F-5′- AACCTGCTCATCAACACCAC-3′R -5′- CGTAGCCACATACTCCGTCA -3′ 174 bp "
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : "-Actin F-5′- AGCGGTTCCGATGCCCT -3′R-5′-AGAGGTCTTTACGGAT GTCAACG-3′ 190 bp Western blot The lung tissues were homogenized in the lysis buffer containing protease inhibitors , and the protein concentrations were determined using the Bradford reagent ( Bio-Rad Laboratories Inc ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "- TGGTACATATCGGGCTAGAAG -3′R-5′- CCA TACTGTACCAGGCAAGGT-3′"
+                  }],
+                "neText" : "- TGGTACATATCGGGCTAGAAG -3′R-5′- CCA TACTGTACCAGGCAAGGT-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCAAGAACCTAGATCTGAGCTTCA ATC-3′R-5′-TCCTGGCTGGACT TAAGCTGTAG-3′"
+                  }],
+                "neText" : "CCAAGAACCTAGATCTGAGCTTCA ATC-3′R-5′-TCCTGGCTGGACT TAAGCTGTAG-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGACAACGGTCAGCGACGCA-3′R -5′-CATAGCCCAGACGCAGGCGG -3′"
+                  }],
+                "neText" : "GGACAACGGTCAGCGACGCA-3′R -5′-CATAGCCCAGACGCAGGCGG -3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AACCTGCTCATCAACACCAC-3′R -5′- CGTAGCCACATACTCCGTCA -3′"
+                  }],
+                "neText" : "AACCTGCTCATCAACACCAC-3′R -5′- CGTAGCCACATACTCCGTCA -3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "F-5′- AGCGGTTCCGATGCCCT -3′R-5′-AGAGGTCTTTACGGAT GTCAACG-3′"
+                  }],
+                "neText" : "F-5′- AGCGGTTCCGATGCCCT -3′R-5′-AGAGGTCTTTACGGAT GTCAACG-3′"
+              }]
+          }]
+      }]
+  }
+}

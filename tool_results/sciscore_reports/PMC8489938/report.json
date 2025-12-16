@@ -1,0 +1,204 @@
+{
+  "docIdentifier" : "PMC8489938",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "21 The tumor-immune microenvironment at baseline and during treatment ( after 40 Gy radiation ) was identified by multicolor immunofluorescence to quantify CD4+ and CD8+ T cells , CD11c+ dendritic cells , CD68+ macrophages , the immunosuppressive receptor PD-1 and its ligand PD-L1 , and tumor cells labeled with pan-keratin .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "21 The tumor-immune microenvironment at baseline and during treatment ( after 40 Gy radiation ) was identified by multicolor immunofluorescence to quantify CD4+ and CD8+ T cells , CD11c+ dendritic cells , CD68+ macrophages , the immunosuppressive receptor PD-1 and its ligand PD-L1 , and tumor cells labeled with pan-keratin ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_DF57)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PD-L1"
+                }],
+              "neText" : "PD-L1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Health-related quality of life was assessed using European Organization for Research and Treatment of Cancer ( EORTC ) quality of life questionnaire-core 30 ( QLQ -C30 ) and EORTC QLQ-OES18 scales , at baseline and every 2 weeks till the last dose ( Methods in Supplement 2) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Health-related quality of life was assessed using European Organization for Research and Treatment of Cancer ( EORTC ) quality of life questionnaire-core 30 ( QLQ -C30 ) and EORTC QLQ-OES18 scales , at baseline and every 2 weeks till the last dose ( Methods in Supplement 2) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "EORTC (RRID:SCR_004070)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EORTC"
+                }],
+              "neText" : "EORTC"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The protocol ( Supplement 1 ) was approved by the institutional review board at Tianjin Medical University Cancer Institute & Hospital ( E2018142) .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The protocol ( Supplement 1 ) was approved by the institutional review board at Tianjin Medical University Cancer Institute & Hospital ( E2018142) ."
+              }]
+          }, {
+            "sentence" : "All patients provided written informed consent before study participation .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients provided written informed consent before study participation ."
+              }]
+          }, {
+            "sentence" : "Baseline tumor specimens were sequenced by FoundationOne CDx ( F1CDx ) and U.S. Food & Drug Administration–approved 324-gene panel assay conducted by DIAN ( Hangzhou Lab , China ) with licensed technologies , to detect base substitutions , short insertions and deletions , focal gene amplification and homozygous deletions , and select gene fusions and biomarkers ( tumor mutation burden [ TMB ] and microsatellite status) .",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Baseline tumor specimens were sequenced by FoundationOne CDx ( F1CDx ) and U.S. Food & Drug Administration–approved 324-gene panel assay conducted by DIAN ( Hangzhou Lab , China ) with licensed technologies , to detect base substitutions , short insertions and deletions , focal gene amplification and homozygous deletions , and select gene fusions and biomarkers ( tumor mutation burden [ TMB ] and microsatellite status) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Other key inclusion criteria were evaluable lesions per Response Evaluation Criteria in Solid",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Other key inclusion criteria were evaluable lesions per Response Evaluation Criteria in Solid"
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "No patients had received prior antitumour treatment and were amenable to surgery.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "No patients had received prior antitumour treatment and were amenable to surgery."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Eligible patients were aged 18–75 years and had locally advanced ESCC confirmed by pathological and imaging diagnosis (T3-4 N0M0 or T1-4N+M0, stage I–IVa according to the 8th [2017] edition of the American Joint Committee on Cancer staging system).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Eligible patients were aged 18–75 years and had locally advanced ESCC confirmed by pathological and imaging diagnosis (T3-4 N0M0 or T1-4N+M0, stage I–IVa according to the 8th [2017] edition of the American Joint Committee on Cancer staging system)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Protocol Information",
+        "srList" : [{
+            "sentence" : "Methods Study design and participants We performed a single-arm, single-center, investigator-initiated, exploratory, phase 1b clinical study (ClinicalTrials.gov NCT03671265) at Tianjin Medical University Cancer Institute & Hospital in Tianjin, China.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Study design and participants We performed a single-arm, single-center, investigator-initiated, exploratory, phase 1b clinical study (ClinicalTrials.gov NCT03671265) at Tianjin Medical University Cancer Institute & Hospital in Tianjin, China."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT03671265"
+                  }],
+                "neText" : "NCT03671265"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Laboratory tests included hematology , biochemistry , urinalysis , liver/kidney function , and immunological and hormone tests .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Laboratory tests included hematology , biochemistry , urinalysis , liver/kidney function , and immunological and hormone tests ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Laboratory tests"
+                  }],
+                "neText" : "Laboratory tests"
+              }]
+          }]
+      }]
+  }
+}

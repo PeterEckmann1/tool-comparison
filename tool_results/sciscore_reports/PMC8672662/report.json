@@ -1,0 +1,328 @@
+{
+  "docIdentifier" : "PMC8672662",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Production of sNRP1 by HEK293T cells To produce sNRP1 from the sNRP1-lentiviral vectors , HEK293T cells were plated on T75 flasks and cultured at 104 cell/cm2 density in complete Dulbecco’s Modified Eagle Medium ( DMEM ) ( INOCLON , Iran ) containing 10 % FBS ( Gibco , Thermo Fischer Scientific , USA) , 1x Pen-Strep ( INOCLON , Iran) , and 25 mM 4- ( 2-hydroxyethyl)-1-piperazineethanesulfonic acid ( HEPES ) ( INOCLON , Iran) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Production of sNRP1 by HEK293T cells To produce sNRP1 from the sNRP1-lentiviral vectors , HEK293T cells were plated on T75 flasks and cultured at 104 cell/cm2 density in complete Dulbecco’s Modified Eagle Medium ( DMEM ) ( INOCLON , Iran ) containing 10 % FBS ( Gibco , Thermo Fischer Scientific , USA) , 1x Pen-Strep ( INOCLON , Iran) , and 25 mM 4- ( 2-hydroxyethyl)-1-piperazineethanesulfonic acid ( HEPES ) ( INOCLON , Iran) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293T"
+                }],
+              "neText" : "HEK293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "The msNRP1-coding sequence fragment was reverse transcribed from total RNA extracted from C57BL/6 mouse liver tissue.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The msNRP1-coding sequence fragment was reverse transcribed from total RNA extracted from C57BL/6 mouse liver tissue."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6"
+                }],
+              "neText" : "C57BL/6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "lentiviral vector ( Lv-SFFV-msNRP1 ) was constructed based on the LeGO-iG2 plasmid ( Weber , Bartsch , Stocking , & Fehse , 2008 ) from Addgene.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "lentiviral vector ( Lv-SFFV-msNRP1 ) was constructed based on the LeGO-iG2 plasmid ( Weber , Bartsch , Stocking , & Fehse , 2008 ) from Addgene."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_27341",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LeGO-iG2"
+                }],
+              "neText" : "LeGO-iG2"
+            }]
+        }, {
+          "sentence" : "The amplified DNA fragments were purified from agarose gel and cloned into a pLeGO-iG2 , downstream of the Spleen Focus Forming Virus ( SFFV ) promoter .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The amplified DNA fragments were purified from agarose gel and cloned into a pLeGO-iG2 , downstream of the Spleen Focus Forming Virus ( SFFV ) promoter ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLeGO-iG2"
+                }],
+              "neText" : "pLeGO-iG2"
+            }]
+        }, {
+          "sentence" : "For lentiviral vector packaging , HEK293T cells were transfected with pLeGO-SFFV/msNRP1-IRES-EGFP or pLeGO-SFFV/IRES-EGFP ( the control vector) , psPAX2 , and pMID2 .",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For lentiviral vector packaging , HEK293T cells were transfected with pLeGO-SFFV/msNRP1-IRES-EGFP or pLeGO-SFFV/IRES-EGFP ( the control vector) , psPAX2 , and pMID2 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLeGO-SFFV/msNRP1-IRES-EGFP"
+                }],
+              "neText" : "pLeGO-SFFV/msNRP1-IRES-EGFP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLeGO-SFFV/IRES-EGFP"
+                }],
+              "neText" : "pLeGO-SFFV/IRES-EGFP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_12260",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "psPAX2"
+                }],
+              "neText" : "psPAX2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMID2"
+                }],
+              "neText" : "pMID2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All analyses were performed using the SPSS V. 22.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All analyses were performed using the SPSS V. 22."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Briefly , DRGs were isolated from timed pregnant ( E13 ) mice under the sterile condition and plated on pre-coated coverslips with poly L-lysine ( Sigma-Aldrich , USA ) ( 1 mg/mL ) and laminin ( Sigma-Aldrich , USA ) ( 100 μg/mL) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Briefly , DRGs were isolated from timed pregnant ( E13 ) mice under the sterile condition and plated on pre-coated coverslips with poly L-lysine ( Sigma-Aldrich , USA ) ( 1 mg/mL ) and laminin ( Sigma-Aldrich , USA ) ( 100 "
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "g/mL) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis Values were expressed as Mean±SE, and comparisons were performed by 1-way ANOVA and post hoc Tukey tests.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Values were expressed as Mean±SE, and comparisons were performed by 1-way ANOVA and post hoc Tukey tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey tests"
+                  }],
+                "neText" : "Tukey tests"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Subsequently , specific forward ( F:5′ GCTGAATTCATGGAGAGGGGGCTG CCGTT 3′ ) and reverse primers ( R:5′ AGCAGGCCTCAGATAAGTATGTGA GCCCTTGTGC 3′ ) containing the restriction site for EcoR I and Stu I enzymes were used to amplify the fragment .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Subsequently , specific forward ( F:5′ GCTGAATTCATGGAGAGGGGGCTG CCGTT 3′ ) and reverse primers ( R:5′ AGCAGGCCTCAGATAAGTATGTGA GCCCTTGTGC 3′ ) containing the restriction site for EcoR I and Stu I enzymes were used to amplify the fragment ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "F:5′ GCTGAATTCATGGAGAGGGGGCTG CCGTT 3′"
+                  }],
+                "neText" : "F:5′ GCTGAATTCATGGAGAGGGGGCTG CCGTT 3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "R:5′ AGCAGGCCTCAGATAAGTATGTGA GCCCTTGTGC 3′"
+                  }],
+                "neText" : "R:5′ AGCAGGCCTCAGATAAGTATGTGA GCCCTTGTGC 3′"
+              }]
+          }]
+      }]
+  }
+}

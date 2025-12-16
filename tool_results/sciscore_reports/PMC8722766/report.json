@@ -1,0 +1,783 @@
+{
+  "docIdentifier" : "PMC8722766",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The supernatant (10) was used as the input, and the rest was incubated in RIP buffer containing magnetic beads conjugated with Argonaut 2 (Ago2) or normal IgG control antibodies (EMD Millipore).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The supernatant (10) was used as the input, and the rest was incubated in RIP buffer containing magnetic beads conjugated with Argonaut 2 (Ago2) or normal IgG control antibodies (EMD Millipore)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "normal IgG"
+                }],
+              "neText" : "normal IgG"
+            }]
+        }, {
+          "sentence" : "Subsequently, the membranes were incubated overnight at 4degC with primary antibodies targeting HMGA1 (cat. no. ab129153 1:1,000 dilution) or GAPDH (cat. no. ab128915 1:1,000 dilution) (both from Abcam).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Subsequently, the membranes were incubated overnight at 4degC with primary antibodies targeting HMGA1 (cat. no. ab129153 1:1,000 dilution) or GAPDH (cat. no. ab128915 1:1,000 dilution) (both from Abcam)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HMGA1"
+                }],
+              "neText" : "HMGA1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAPDH"
+                }],
+              "neText" : "GAPDH"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell culture The BEAS-2B (CRL-9609(tm)) human normal bronchial epithelial cell line was cultured in bronchial epithelial cell growth medium (Lonza Group, Ltd.) containing 10 FBS (Gibco Thermo Fisher Scientific, Inc.).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture The BEAS-2B (CRL-9609(tm)) human normal bronchial epithelial cell line was cultured in bronchial epithelial cell growth medium (Lonza Group, Ltd.) containing 10 FBS (Gibco Thermo Fisher Scientific, Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0168",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BEAS-2B"
+                }],
+              "neText" : "BEAS-2B"
+            }]
+        }, {
+          "sentence" : "The H522 (CRL-5810(tm)) and NCI-H460 (H460 CVCL_01459) (both from American Type Culture Collection) NSCLC cell lines were cultured in RPMI-1640 medium supplemented with 10 FBS (both from Gibco Thermo Fisher Scientific, Inc.).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The H522 (CRL-5810(tm)) and NCI-H460 (H460 CVCL_01459) (both from American Type Culture Collection) NSCLC cell lines were cultured in RPMI-1640 medium supplemented with 10 FBS (both from Gibco Thermo Fisher Scientific, Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0459",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NCI-H460"
+                }],
+              "neText" : "NCI-H460"
+            }]
+        }, {
+          "sentence" : "Another two NSCLC cell lines, SK-MES-1 and A549, were purchased from the National Collection of Authenticated Cell Cultures and maintained in MEM and F-12K medium, respectively and both supplemented with 10 FBS (all from Gibco Thermo Fisher Scientific, Inc.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Another two NSCLC cell lines, SK-MES-1 and A549, were purchased from the National Collection of Authenticated Cell Cultures and maintained in MEM and F-12K medium, respectively and both supplemented with 10 FBS (all from Gibco Thermo Fisher Scientific, Inc."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0630",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SK-MES-1"
+                }],
+              "neText" : "SK-MES-1"
+            }]
+        }, {
+          "sentence" : "The H460 cell line is a large cell lung cancer cell line , while the H522 and A549 cell lines are lung adenocarcinoma ( LUAD",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The H460 cell line is a large cell lung cancer cell line , while the H522 and A549 cell lines are lung adenocarcinoma ( LUAD"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0459",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "H460"
+                }],
+              "neText" : "H460"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }]
+        }, {
+          "sentence" : "G ( both from Addgene Inc . ) , were transfected into 293T cells ( The National Collection of Authenticated Cell Cultures ) using Lipofectamine(r ) 2000 ( Invitrogen Thermo Fisher Scientific , Inc . ) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "G ( both from Addgene Inc . ) , were transfected into 293T cells ( The National Collection of Authenticated Cell Cultures ) using Lipofectamine(r ) 2000 ( Invitrogen Thermo Fisher Scientific , Inc . ) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "293T"
+                }],
+              "neText" : "293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Male BALBc nude mice ( mean weight +- SD , 20.4+-1.1 g) , aged 4-6 weeks , were purchased from Beijing HFK Bioscience ( Beijing , China) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Male BALBc nude mice ( mean weight +- SD , 20.4+-1.1 g) , aged 4-6 weeks , were purchased from Beijing HFK Bioscience ( Beijing , China) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALBc nude"
+                }],
+              "neText" : "BALBc nude"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "High mobility group AT-hook 1 ( HMGA1)-overexpression vector pcDNA3.1-HMGA1 and empty pcDNA3.1 control was obtained from GenScript .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "High mobility group AT-hook 1 ( HMGA1)-overexpression vector pcDNA3.1-HMGA1 and empty pcDNA3.1 control was obtained from GenScript ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HMGA1)-overexpression"
+                }],
+              "neText" : "HMGA1)-overexpression"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1-HMGA1"
+                }],
+              "neText" : "pcDNA3.1-HMGA1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_100544",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1"
+                }],
+              "neText" : "pcDNA3.1"
+            }]
+        }, {
+          "sentence" : "LINC01748 short hairpin RNA ( shRNA sh-LINC01748 ) and non-targeting scramble shRNA ( sh-NC ) were purchased from Shanghai GenePharma Co . , Ltd. , and inserted into the pLKO.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "LINC01748 short hairpin RNA ( shRNA sh-LINC01748 ) and non-targeting scramble shRNA ( sh-NC ) were purchased from Shanghai GenePharma Co . , Ltd. , and inserted into the pLKO."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_21964",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLKO"
+                }],
+              "neText" : "pLKO"
+            }]
+        }, {
+          "sentence" : "The resulting vectors , alongside psPAX2 and pMD2 .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The resulting vectors , alongside psPAX2 and pMD2 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "psPAX2"
+                }],
+              "neText" : "psPAX2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_12259",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMD2"
+                }],
+              "neText" : "pMD2"
+            }]
+        }, {
+          "sentence" : "G: pLKO.1 ) was 1:1:2 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "G: pLKO.1 ) was 1:1:2 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_8453",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLKO.1"
+                }],
+              "neText" : "pLKO.1"
+            }]
+        }, {
+          "sentence" : "Luciferase reporter assay The HMGA1 3-UTR and LINC01748 fragments with the wild-type (WT) miR-520a-5p-binding site were prepared by Shanghai GenePharma Co., Ltd., and inserted into the psiCHECK2 luciferase reporter vector (Promega Corporation), yielding the HMGA1-WT and LINC01748-WT reporter vectors.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Luciferase reporter assay The HMGA1 3-UTR and LINC01748 fragments with the wild-type (WT) miR-520a-5p-binding site were prepared by Shanghai GenePharma Co., Ltd., and inserted into the psiCHECK2 luciferase reporter vector (Promega Corporation), yielding the HMGA1-WT and LINC01748-WT reporter vectors."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "psiCHECK2"
+                }],
+              "neText" : "psiCHECK2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "CellQuest software v.2.9 ( BD Biosciences ) was used for data analysis .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "CellQuest software v.2.9 ( BD Biosciences ) was used for data analysis ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CellQuest"
+                }],
+              "neText" : "CellQuest"
+            }]
+        }, {
+          "sentence" : "ENCORI and TargetScan (http:www.targetscan.org), bioinformatic tools were used to analyze miRNAs and identify the downstream targets of miR-520a-5p.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ENCORI and TargetScan (http:www.targetscan.org), bioinformatic tools were used to analyze miRNAs and identify the downstream targets of miR-520a-5p."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "TargetScan (RRID:SCR_010845)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The Ethics Committee of Weifang Yidu Central Hospital approved the present research.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Ethics Committee of Weifang Yidu Central Hospital approved the present research."
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained from all participants prior to surgery.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from all participants prior to surgery."
+              }]
+          }, {
+            "sentence" : "The animal experiment was approved by the Ethics Committee of Animal Experiments at Weifang Yidu Central Hospital ( Shandong , China) .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The animal experiment was approved by the Ethics Committee of Animal Experiments at Weifang Yidu Central Hospital ( Shandong , China) ."
+              }]
+          }, {
+            "sentence" : "On day 30 after cell inoculation , the mice were euthanized by cervical dislocation , and the tumor xenografts were resected , weighed and imaged.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "On day 30 after cell inoculation , the mice were euthanized by cervical dislocation , and the tumor xenografts were resected , weighed and imaged."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were as follows: i) Diagnosed with NSCLC ii) was not treated with anticancer therapies prior to surgery and iii) agreed to take part in the research.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were as follows: i) Diagnosed with NSCLC ii) was not treated with anticancer therapies prior to surgery and iii) agreed to take part in the research."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and methods Patient samples Paired NSCLC and adjacent normal tissues were collected from 57 patients (33 males, 24 females age range, 32-75 years mean age, 56.7+-7.4 years) from the Weifang Yidu Central Hospital (Weifang, China) between February 2014 and December 2015.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Patient samples Paired NSCLC and adjacent normal tissues were collected from 57 patients (33 males, 24 females age range, 32-75 years mean age, 56.7+-7.4 years) from the Weifang Yidu Central Hospital (Weifang, China) between February 2014 and December 2015."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and methods Patient samples Paired NSCLC and adjacent normal tissues were collected from 57 patients (33 males, 24 females age range, 32-75 years mean age, 56.7+-7.4 years) from the Weifang Yidu Central Hospital (Weifang, China) between February 2014 and December 2015.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Patient samples Paired NSCLC and adjacent normal tissues were collected from 57 patients (33 males, 24 females age range, 32-75 years mean age, 56.7+-7.4 years) from the Weifang Yidu Central Hospital (Weifang, China) between February 2014 and December 2015."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The number of migrated cells in five random fields of view was counted using an inverted light microscope.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The number of migrated cells in five random fields of view was counted using an inverted light microscope."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Statistical analysis All experiments were repeated three times and all the results are presented as the mean +- SD.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis All experiments were repeated three times and all the results are presented as the mean +- SD."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "Statistical analysis All experiments were repeated three times and all the results are presented as the mean +- SD.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis All experiments were repeated three times and all the results are presented as the mean +- SD."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Significant differences between two groups were analyzed using a paired or unpaired Students t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Significant differences between two groups were analyzed using a paired or unpaired Students t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Comparisons between multiple groups were analyzed using one-way analysis of variance followed by a Tukeys post hoc test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons between multiple groups were analyzed using one-way analysis of variance followed by a Tukeys post hoc test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys post hoc test"
+                  }],
+                "neText" : "Tukeys post hoc test"
+              }]
+          }, {
+            "sentence" : "Pearsons correlation analysis was used to detect the correlation between gene expression levels.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pearsons correlation analysis was used to detect the correlation between gene expression levels."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearsons correlation"
+                  }],
+                "neText" : "Pearsons correlation"
+              }]
+          }, {
+            "sentence" : "Kaplan-Meier analysis and the log-rank test were utilized for analysis of overall survival time.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Kaplan-Meier analysis and the log-rank test were utilized for analysis of overall survival time."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The si-LINC0174811 sequence was 5-GTC ATT TTA AGC TAT TTA ATT TT-3 the si-LINC0174812 sequence was 5-ATG TAT TTA CAT CGT TTT ATA CA-3 and the si-NC sequence was 5-CAC GAT AAG ACA ATG TAT TT-3 .",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The si-LINC0174811 sequence was 5-GTC ATT TTA AGC TAT TTA ATT TT-3 the si-LINC0174812 sequence was 5-ATG TAT TTA CAT CGT TTT ATA CA-3 and the si-NC sequence was 5-CAC GAT AAG ACA ATG TAT TT-3 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GTC ATT TTA AGC TAT TTA ATT"
+                  }],
+                "neText" : "5-GTC ATT TTA AGC TAT TTA ATT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ATG TAT TTA CAT CGT TTT ATA CA-3"
+                  }],
+                "neText" : "5-ATG TAT TTA CAT CGT TTT ATA CA-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CAC GAT AAG ACA ATG TAT TT-3"
+                  }],
+                "neText" : "5-CAC GAT AAG ACA ATG TAT TT-3"
+              }]
+          }, {
+            "sentence" : "The miR-520a-5p mimic sequence was 5-UCU UUC AUG AAG GGA GAC CUC-3 and the NC mimic sequence was 5-UUG UAC UAC ACA AAA GUA CUG-3 .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The miR-520a-5p mimic sequence was 5-UCU UUC AUG AAG GGA GAC CUC-3 and the NC mimic sequence was 5-UUG UAC UAC ACA AAA GUA CUG-3 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-UCU UUC AUG AAG GGA GAC CUC-3"
+                  }],
+                "neText" : "5-UCU UUC AUG AAG GGA GAC CUC-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-UUG UAC UAC ACA AAA GUA CUG-3"
+                  }],
+                "neText" : "5-UUG UAC UAC ACA AAA GUA CUG-3"
+              }]
+          }, {
+            "sentence" : "The miR-520a-5p inhibitor sequence was 5-AGA AAG UAC UUC CCU CUG GAG-3 and the NC inhibitor sequence was 5-ACU ACU GAG UGA CAG UAG A-3 .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The miR-520a-5p inhibitor sequence was 5-AGA AAG UAC UUC CCU CUG GAG-3 and the NC inhibitor sequence was 5-ACU ACU GAG UGA CAG UAG A-3 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-AGA AAG UAC UUC CCU CUG GAG-3"
+                  }],
+                "neText" : "5-AGA AAG UAC UUC CCU CUG GAG-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ACU ACU GAG UGA CAG UAG A-3"
+                  }],
+                "neText" : "5-ACU ACU GAG UGA CAG UAG A-3"
+              }]
+          }, {
+            "sentence" : "The following primers were used: LINC01748 forward , 5-TGC TAC ATG GGT AAG GGA GGG-3 and reverse , 5-TTC TGG TAG ACG CAC TCG TCC T-3 HMGA2 forward , 5-CGC ACT TCA GCC CAG GGA CAA-3 and reverse , 5-CTT CAG CCC AGG GAC AAC GGT CTC TTA GGA GAG GGC TCA C-3 GAPDH forward , 5-CGG AGT CAA CGG ATT TGG TCG TAT-3 and reverse , 5-AGC CTT CTC CAT GGT GGT GAA GAC-3 miR-520a-5p forward , 5-TCG GCA GGC UCC AGA GGG AAG U-3 and reverse , 5-CAC TCA ACT GGT GTC GTG GA-3 and U6 forward , 5-CTC GCT TCG GCA GCA CA-3 and reverse , 5-AAC GCT TCA CGA ATT TGC GT-3 .",
+            "rowSpan" : 10,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The following primers were used: LINC01748 forward , 5-TGC TAC ATG GGT AAG GGA GGG-3 and reverse , 5-TTC TGG TAG ACG CAC TCG TCC T-3 HMGA2 forward , 5-CGC ACT TCA GCC CAG GGA CAA-3 and reverse , 5-CTT CAG CCC AGG GAC AAC GGT CTC TTA GGA GAG GGC TCA C-3 GAPDH forward , 5-CGG AGT CAA CGG ATT TGG TCG TAT-3 and reverse , 5-AGC CTT CTC CAT GGT GGT GAA GAC-3 miR-520a-5p forward , 5-TCG GCA GGC UCC AGA GGG AAG U-3 and reverse , 5-CAC TCA ACT GGT GTC GTG GA-3 and U6 forward , 5-CTC GCT TCG GCA GCA CA-3 and reverse , 5-AAC GCT TCA CGA ATT TGC GT-3 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TGC TAC ATG GGT AAG GGA GGG-3"
+                  }],
+                "neText" : "5-TGC TAC ATG GGT AAG GGA GGG-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TTC TGG TAG ACG CAC TCG TCC T-3"
+                  }],
+                "neText" : "5-TTC TGG TAG ACG CAC TCG TCC T-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CGC ACT TCA GCC CAG GGA CAA-3"
+                  }],
+                "neText" : "5-CGC ACT TCA GCC CAG GGA CAA-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CTT CAG CCC AGG GAC AAC GGT CTC TTA GGA GAG GGC TCA"
+                  }],
+                "neText" : "5-CTT CAG CCC AGG GAC AAC GGT CTC TTA GGA GAG GGC TCA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CGG AGT CAA CGG ATT TGG TCG TAT-3"
+                  }],
+                "neText" : "5-CGG AGT CAA CGG ATT TGG TCG TAT-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-AGC CTT CTC CAT GGT GGT GAA GAC-3"
+                  }],
+                "neText" : "5-AGC CTT CTC CAT GGT GGT GAA GAC-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TCG GCA GGC UCC AGA GGG AAG U-3"
+                  }],
+                "neText" : "5-TCG GCA GGC UCC AGA GGG AAG U-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CAC TCA ACT GGT GTC GTG GA-3"
+                  }],
+                "neText" : "5-CAC TCA ACT GGT GTC GTG GA-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CTC GCT TCG GCA GCA CA-3"
+                  }],
+                "neText" : "5-CTC GCT TCG GCA GCA CA-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-AAC GCT TCA CGA ATT TGC GT-3"
+                  }],
+                "neText" : "5-AAC GCT TCA CGA ATT TGC GT-3"
+              }]
+          }, {
+            "sentence" : "The sh-LINC01748 sequence was 5-CCG GGT CAT TTT AAG CTA TTT AAT TTT CTC GAG AAA ATT AAA TAG CTT AAA ATG ACT TTT TG-3 and the sh-NC sequence was 5-CCG GCACGA TAA GAC AAT GTA TTT CTC GAG AAA TAC ATT GTC TTA TCG TGT TTT TG-3 .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The sh-LINC01748 sequence was 5-CCG GGT CAT TTT AAG CTA TTT AAT TTT CTC GAG AAA ATT AAA TAG CTT AAA ATG ACT TTT TG-3 and the sh-NC sequence was 5-CCG GCACGA TAA GAC AAT GTA TTT CTC GAG AAA TAC ATT GTC TTA TCG TGT TTT TG-3 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CCG GGT CAT TTT AAG CTA TTT AAT TTT CTC GAG AAA ATT AAA TAG CTT AAA ATG ACT TTT TG-3"
+                  }],
+                "neText" : "5-CCG GGT CAT TTT AAG CTA TTT AAT TTT CTC GAG AAA ATT AAA TAG CTT AAA ATG ACT TTT TG-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CCG GCACGA TAA GAC AAT GTA TTT CTC GAG AAA TAC ATT GTC TTA TCG TGT TTT TG-3"
+                  }],
+                "neText" : "5-CCG GCACGA TAA GAC AAT GTA TTT CTC GAG AAA TAC ATT GTC TTA TCG TGT TTT TG-3"
+              }]
+          }]
+      }]
+  }
+}

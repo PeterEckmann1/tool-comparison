@@ -1,0 +1,206 @@
+{
+  "docIdentifier" : "PMC8504813",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The bound antibodies were detected using HRP-conjugated anti-rabbit and peroxidase-conjugated anti-mouse antibodies, and analyzed using chemiluminescence (ECL System) via autoradiography.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The bound antibodies were detected using HRP-conjugated anti-rabbit and peroxidase-conjugated anti-mouse antibodies, and analyzed using chemiluminescence (ECL System) via autoradiography."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Cell culture KGN cells (human ovarian granulosa cell line, GCs) were originally obtained from the Cell Bank at the Shenzhen Institute, Chinese Academy of Sciences (Shenzhen, Peoples Republic of China) and cultured in DMEM medium (Gibco, C11995500BT) containing 10 fetal bovine serum (Gibco, 10091-148) and 1 100x penicillin-streptomycin solution (Gibco, 15140-122) in an incubator (37degC, 5 CO2, 95 humidity).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture KGN cells (human ovarian granulosa cell line, GCs) were originally obtained from the Cell Bank at the Shenzhen Institute, Chinese Academy of Sciences (Shenzhen, Peoples Republic of China) and cultured in DMEM medium (Gibco, C11995500BT) containing 10 fetal bovine serum (Gibco, 10091-148) and 1 100x penicillin-streptomycin solution (Gibco, 15140-122) in an incubator (37degC, 5 CO2, 95 humidity)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }, {
+          "sentence" : "Statistical analysis was performed using the Students t-test with the SPSSGraphPad Prism software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis was performed using the Students t-test with the SPSSGraphPad Prism software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSSGraphPad Prism"
+                }],
+              "neText" : "SPSSGraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "METHODS Animal experiments All animal experiments were performed in accordance with the guidelines of the Guide for the Care and Use of Laboratory Animals and were approved by the Bioethics Committee of Second Military Medical University.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHODS Animal experiments All animal experiments were performed in accordance with the guidelines of the Guide for the Care and Use of Laboratory Animals and were approved by the Bioethics Committee of Second Military Medical University."
+              }]
+          }, {
+            "sentence" : "After collection of the douche and determination of the embryonic development under the microscope (dropwise addition of the sample used for microscopic examination, 50 ul volume of each drop), we determined the number of 2-16-cell stage embryos, morula, and blastocysts, and calculated the total number of embryos in each mouse.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After collection of the douche and determination of the embryonic development under the microscope (dropwise addition of the sample used for microscopic examination, 50 ul volume of each drop), we determined the number of 2-16-cell stage embryos, morula, and blastocysts, and calculated the total number of embryos in each mouse."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Four-week-old Institute of Cancer Research (ICR) female mice (mean weight +- SD: 16 +- 2.1 g) were purchased from the Shanghai Research Center for Model Organisms and were raised in the specific pathogen-free (SPF) animal facility of the Department of Cell Biology, SMMU, under a controlled environment (14-h light10-h dark cycle, 24degC).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Four-week-old Institute of Cancer Research (ICR) female mice (mean weight +- SD: 16 +- 2.1 g) were purchased from the Shanghai Research Center for Model Organisms and were raised in the specific pathogen-free (SPF) animal facility of the Department of Cell Biology, SMMU, under a controlled environment (14-h light10-h dark cycle, 24degC)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Four-week-old Institute of Cancer Research (ICR) female mice (mean weight +- SD: 16 +- 2.1 g) were purchased from the Shanghai Research Center for Model Organisms and were raised in the specific pathogen-free (SPF) animal facility of the Department of Cell Biology, SMMU, under a controlled environment (14-h light10-h dark cycle, 24degC).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Four-week-old Institute of Cancer Research (ICR) female mice (mean weight +- SD: 16 +- 2.1 g) were purchased from the Shanghai Research Center for Model Organisms and were raised in the specific pathogen-free (SPF) animal facility of the Department of Cell Biology, SMMU, under a controlled environment (14-h light10-h dark cycle, 24degC)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Experimental design and statistical analysis Each experiment was repeated at least three times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Experimental design and statistical analysis Each experiment was repeated at least three times."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "Experimental design and statistical analysis Each experiment was repeated at least three times.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Experimental design and statistical analysis Each experiment was repeated at least three times."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis was performed using the Students t-test with the SPSSGraphPad Prism software.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis was performed using the Students t-test with the SPSSGraphPad Prism software."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "docIdentifier" : "PMC8685856",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Eight electronic databases will be searched including PubMed, Cochrane Library, Web of Science, Embase, China National Knowledge Infrastructure, Wanfang Database, VIP Database and China Biology Medicine disc.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Eight electronic databases will be searched including PubMed, Cochrane Library, Web of Science, Embase, China National Knowledge Infrastructure, Wanfang Database, VIP Database and China Biology Medicine disc."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PubMed (RRID:SCR_004846)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PubMed"
+                }],
+              "neText" : "PubMed"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cochrane Library (RRID:SCR_013000)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cochrane Library"
+                }],
+              "neText" : "Cochrane Library"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "EMBASE (RRID:SCR_001650)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Embase"
+                }],
+              "neText" : "Embase"
+            }]
+        }, {
+          "sentence" : "The initial search strategy for PubMed is shown in Table 1. TABLE 1 Draft search strategy of PubMed Search number Search Details Results 1 \"urinary bladder, overactive\"[MeSH Terms] 4,812 2 \"overactive bladder\"[Title/Abstract] 6,585 3 \"overactive urinary bladder\"[Title/Abstract] 90 4 \"OAB\"[Title/Abstract] 3,239 5 \"bladder overactivity\"[Title/Abstract] 535 6 \"urinary urgency\"",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The initial search strategy for PubMed is shown in Table 1. TABLE 1 Draft search strategy of PubMed Search number Search Details Results 1 \"urinary bladder, overactive\"[MeSH Terms] 4,812 2 \"overactive bladder\"[Title/Abstract] 6,585 3 \"overactive urinary bladder\"[Title/Abstract] 90 4 \"OAB\"[Title/Abstract] 3,239 5 \"bladder overactivity\"[Title/Abstract] 535 6 \"urinary urgency\""
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MeSH (RRID:SCR_004750)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MeSH"
+                }],
+              "neText" : "MeSH"
+            }]
+        }, {
+          "sentence" : "FIGURE 2 PRISMA flow diagram of the study selection process 2.6 Risk of bias in individual studies Cochrane risk‐of‐bias tool ( ROB 2.0 ) as a reference will be used to evaluate the quality by two reviewers ( Sterne et al. ,  2019) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "FIGURE 2 PRISMA flow diagram of the study selection process 2.6 Risk of bias in individual studies Cochrane risk-of-bias tool ( ROB 2.0 ) as a reference will be used to evaluate the quality by two reviewers ( Sterne et al. ,  2019) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cochrane risk-of-bias"
+                }],
+              "neText" : "Cochrane risk‐of‐bias"
+            }]
+        }, {
+          "sentence" : "Pairwise meta‐analysis for direct comparisons will be conducted by STATA.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Pairwise meta-analysis for direct comparisons will be conducted by STATA."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata (RRID:SCR_012763)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATA"
+                }],
+              "neText" : "STATA"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "However, urinary tract infection or other obvious pathology ought to be excluded, in which circumstances anti‐infective treatment is the priority.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "However, urinary tract infection or other obvious pathology ought to be excluded, in which circumstances anti-infective treatment is the priority."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The population of interest is females, aged 18 and older, with a diagnosis of primary OAB.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The population of interest is females, aged 18 and older, with a diagnosis of primary OAB."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The population of interest is females, aged 18 and older, with a diagnosis of primary OAB.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The population of interest is females, aged 18 and older, with a diagnosis of primary OAB."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Only peer‐reviewed randomized controlled trials (RCTs) will be included.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Only peer-reviewed randomized controlled trials (RCTs) will be included."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "After deleting the duplicates , two researchers will independently review the titles and abstracts of studies in compliance with the eligibility criteria .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After deleting the duplicates , two researchers will independently review the titles and abstracts of studies in compliance with the eligibility criteria ."
+              }],
+            "mention" : {
+              "neText" : "duplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicates"
+                }]
+            }
+          }, {
+            "sentence" : "After deleting the duplicates , two researchers will independently review the titles and abstracts of studies in compliance with the eligibility criteria .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After deleting the duplicates , two researchers will independently review the titles and abstracts of studies in compliance with the eligibility criteria ."
+              }],
+            "mention" : {
+              "neText" : "duplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicates"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  }
+}

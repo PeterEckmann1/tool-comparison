@@ -1,0 +1,337 @@
+{
+  "docIdentifier" : "PMC8799151",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The membrane was incubated with primary antibodies for Bcl-2, Bcl-2-associated X protein (BAX), and glyceraldehyde 3-phosphate dehydrogenase (GAPDH 1:1,000 diluted in TBST).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membrane was incubated with primary antibodies for Bcl-2, Bcl-2-associated X protein (BAX), and glyceraldehyde 3-phosphate dehydrogenase (GAPDH 1:1,000 diluted in TBST)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bcl-2-associated"
+                }],
+              "neText" : "Bcl-2-associated"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "glyceraldehyde 3-phosphate dehydrogenase (GAPDH 1:1,000 diluted in TBST)"
+                }],
+              "neText" : "glyceraldehyde 3-phosphate dehydrogenase (GAPDH 1:1,000 diluted in TBST)"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAPDH"
+                }],
+              "neText" : "GAPDH"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Western blot After 48 h of transfection with microRNA oligos, Eca-109 cells were harvested.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Western blot After 48 h of transfection with microRNA oligos, Eca-109 cells were harvested."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_6898",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Eca-109"
+                }],
+              "neText" : "Eca-109"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Finally, the DNA fragment was inserted into the pmiRGLO vector (Promega) with T4 ligase (Promega) to construct the recombinant luciferase vector (pmiRGLO-3-UTR).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Finally, the DNA fragment was inserted into the pmiRGLO vector (Promega) with T4 ligase (Promega) to construct the recombinant luciferase vector (pmiRGLO-3-UTR)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_117339",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pmiRGLO"
+                }],
+              "neText" : "pmiRGLO"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pmiRGLO-3-UTR"
+                }],
+              "neText" : "pmiRGLO-3-UTR"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "TargetScan ( http:www.targetscan.org)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "TargetScan ( http:www.targetscan.org)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }]
+        }, {
+          "sentence" : "), miRanda (http:www.targetscan.org), and PicTar (http:pictar.mdc-berlin.de) were employed for the prediction of miR-449a-5ps target gene.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "), miRanda (http:www.targetscan.org), and PicTar (http:pictar.mdc-berlin.de) were employed for the prediction of miR-449a-5ps target gene."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PicTar"
+                }],
+              "neText" : "PicTar"
+            }]
+        }, {
+          "sentence" : "Statistical analysis The SPSS 13.0 statistical software package was used to perform the data analyses in this study.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis The SPSS 13.0 statistical software package was used to perform the data analyses in this study."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The Ethical Review Committee of the Fourth Hospital of Hebei Medical University granted approval for this study.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Ethical Review Committee of the Fourth Hospital of Hebei Medical University granted approval for this study."
+              }]
+          }, {
+            "sentence" : "Each patient signed an informed consent form.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each patient signed an informed consent form."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "The study participants had an average age of 61.6+-8.0 (range, 47-73) years 25 patients were male and 15 were female.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study participants had an average age of 61.6+-8.0 (range, 47-73) years 25 patients were male and 15 were female."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The study participants had an average age of 61.6+-8.0 (range, 47-73) years 25 patients were male and 15 were female.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study participants had an average age of 61.6+-8.0 (range, 47-73) years 25 patients were male and 15 were female."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each reaction was performed in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each reaction was performed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Each reaction was performed in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each reaction was performed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences between two groups were analyzed using the non-parametric Mann-Whitney U test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between two groups were analyzed using the non-parametric Mann-Whitney U test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }, {
+            "sentence" : "Statistically significant differences between four groups were determined through one-way analysis of variance (ANOVA).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistically significant differences between four groups were determined through one-way analysis of variance (ANOVA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }]
+  }
+}

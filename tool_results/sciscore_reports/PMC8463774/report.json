@@ -1,0 +1,142 @@
+{
+  "docIdentifier" : "PMC8463774",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2.3 Analytic strategy To account for the complex survey design , weighted analyses were conducted in STATA 16 using the survey ( svy:set ) suite of commands .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.3 Analytic strategy To account for the complex survey design , weighted analyses were conducted in STATA 16 using the survey ( svy:set ) suite of commands ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata (RRID:SCR_012763)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATA"
+                }],
+              "neText" : "STATA"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Participants signed consent forms prior to any data collection and research procedures were approved by the University of Michigans Institutional Review Board.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants signed consent forms prior to any data collection and research procedures were approved by the University of Michigans Institutional Review Board."
+              }]
+          }, {
+            "sentence" : "Participants signed consent forms prior to any data collection and research procedures were approved by the University of Michigans Institutional Review Board.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants signed consent forms prior to any data collection and research procedures were approved by the University of Michigans Institutional Review Board."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2 Material and methods 2.1 Participants The Health and Retirement Study (HRS) is a nationally representative sample of US men and women aged 51 years and older, with data collected biennially since 1992 (Juster & Suzman, 1995).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Material and methods 2.1 Participants The Health and Retirement Study (HRS) is a nationally representative sample of US men and women aged 51 years and older, with data collected biennially since 1992 (Juster & Suzman, 1995)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "2 Material and methods 2.1 Participants The Health and Retirement Study (HRS) is a nationally representative sample of US men and women aged 51 years and older, with data collected biennially since 1992 (Juster & Suzman, 1995).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Material and methods 2.1 Participants The Health and Retirement Study (HRS) is a nationally representative sample of US men and women aged 51 years and older, with data collected biennially since 1992 (Juster & Suzman, 1995)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "HRS began enhanced face-to-face ( EFTF ) interviews in 2006 with a random half of the sample , with the other half completed in 2008 .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "HRS began enhanced face-to-face ( EFTF ) interviews in 2006 with a random half of the sample , with the other half completed in 2008 ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "2.2.3 County-level crime County-level crime data are available in the HRS CDR , and were linked to participant records using county-level geographic identifiers .",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.2.3 County-level crime County-level crime data are available in the HRS CDR , and were linked to participant records using county-level geographic identifiers ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "docIdentifier" : "PMC8081922",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Protein was also isolated by direct lysis of cells in protein sample buffer and analyzed by Western blot with a b-catenin (Santa Cruz catalogue 7963) and LOX antibody (Abcam, catalogue Ab31238) to examine their respective protein levels.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein was also isolated by direct lysis of cells in protein sample buffer and analyzed by Western blot with a b-catenin (Santa Cruz catalogue 7963) and LOX antibody (Abcam, catalogue Ab31238) to examine their respective protein levels."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "b-catenin"
+                }],
+              "neText" : "b-catenin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LOX"
+                }],
+              "neText" : "LOX"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "2.2 LOX promoter studies The 2.5 kbp mouse lysyl oxidase promoter DNA extending from -2,073 bp upstream from the translation start site to position +434 bp in pGL4.10 luciferase reporter construct (Promega cat E6651) was employed.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.2 LOX promoter studies The 2.5 kbp mouse lysyl oxidase promoter DNA extending from -2,073 bp upstream from the translation start site to position +434 bp in pGL4.10 luciferase reporter construct (Promega cat E6651) was employed."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_72684",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGL4.10"
+                }],
+              "neText" : "pGL4.10"
+            }]
+        }, {
+          "sentence" : "Cells were co-transfected with the renilla luciferase thymidine kinase luciferase reporter construct as a normalization control for the degree of transfection (pRL-TK, Promega catalogue E2241).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were co-transfected with the renilla luciferase thymidine kinase luciferase reporter construct as a normalization control for the degree of transfection (pRL-TK, Promega catalogue E2241)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pRL-TK"
+                }],
+              "neText" : "pRL-TK"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "2.5 Statistical analysis All signaling experiments were run in triplicate and were performed three times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.5 Statistical analysis All signaling experiments were run in triplicate and were performed three times."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "2.5 Statistical analysis All signaling experiments were run in triplicate and were performed three times.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.5 Statistical analysis All signaling experiments were run in triplicate and were performed three times."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "One way ANOVA with Tukeys post-hoc test for specific differences in between groups was employed for all analyses involving multiple groups, and students t-test employed for all other analyses.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One way ANOVA with Tukeys post-hoc test for specific differences in between groups was employed for all analyses involving multiple groups, and students t-test employed for all other analyses."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys post-hoc test"
+                  }],
+                "neText" : "Tukeys post-hoc test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Table 1 Mutated Site Wildtype sequence Mutant sequence Site 1: -913 to -906 AAGCTTTGTTCCC AAGCTTTGGCCCC Site2: -1321 to -1328 CACCTTTGTTTAG CACCTTTGGCTAG Site3: -1392 to -1385 TTTCTTTGAATTT",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Mutated Site Wildtype sequence Mutant sequence Site 1: -913 to -906 AAGCTTTGTTCCC AAGCTTTGGCCCC Site2: -1321 to -1328 CACCTTTGTTTAG CACCTTTGGCTAG Site3: -1392 to -1385 TTTCTTTGAATTT"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AAGCTTTGTTCCC"
+                  }],
+                "neText" : "AAGCTTTGTTCCC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CACCTTTGTTTAG"
+                  }],
+                "neText" : "CACCTTTGTTTAG"
+              }]
+          }]
+      }]
+  }
+}

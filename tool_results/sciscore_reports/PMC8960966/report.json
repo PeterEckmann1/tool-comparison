@@ -1,0 +1,207 @@
+{
+  "docIdentifier" : "PMC8960966",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Experimental procedures AmphL cloning The expression plasmid pQE80L-amphL produces a recombinant AmphL protein containing an N-terminal hexahistidine tag.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Experimental procedures AmphL cloning The expression plasmid pQE80L-amphL produces a recombinant AmphL protein containing an N-terminal hexahistidine tag."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pQE80L-amphL"
+                }],
+              "neText" : "pQE80L-amphL"
+            }]
+        }, {
+          "sentence" : "The amplified amphL gene was cloned between the BamHI and HindIII sites of the Escherichia coli expression plasmid pQE80L.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The amplified amphL gene was cloned between the BamHI and HindIII sites of the Escherichia coli expression plasmid pQE80L."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_196472",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pQE80L"
+                }],
+              "neText" : "pQE80L"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Substrate parameters were assigned using the GAFF force field (21) and AM1-BCC charge scheme (21, 22) as implemented in the antechamber module in Amber.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Substrate parameters were assigned using the GAFF force field (21) and AM1-BCC charge scheme (21, 22) as implemented in the antechamber module in Amber."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "AMBER (RRID:SCR_016151)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Amber"
+                }],
+              "neText" : "Amber"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "This was repeated 30 times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This was repeated 30 times."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "This was repeated 30 times.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This was repeated 30 times."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "To construct this plasmid, the amphL gene was amplified by PCR from S. nodosus genomic DNA using the following primers: AmphL-F (5′ ACGTGGATCCATGGTCAACCCGAC ACCGCCGCC 3′) and AmphL-R (5′ GATCAAGCTTACCAGGTGACGGGC AGTTCG 3′).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To construct this plasmid, the amphL gene was amplified by PCR from S. nodosus genomic DNA using the following primers: AmphL-F (5′ ACGTGGATCCATGGTCAACCCGAC ACCGCCGCC 3′) and AmphL-R (5′ GATCAAGCTTACCAGGTGACGGGC AGTTCG 3′)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′ ACGTGGATCCATGGTCAACCCGAC ACCGCCGCC 3′"
+                  }],
+                "neText" : "5′ ACGTGGATCCATGGTCAACCCGAC ACCGCCGCC 3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′ GATCAAGCTTACCAGGTGACGGGC AGTTCG 3′"
+                  }],
+                "neText" : "5′ GATCAAGCTTACCAGGTGACGGGC AGTTCG 3′"
+              }]
+          }]
+      }]
+  }
+}

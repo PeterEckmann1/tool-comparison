@@ -1,0 +1,185 @@
+{
+  "docIdentifier" : "PMC8922348",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The imaging values were measured using ImageJ 1.51k (available at http:rsbweb.nih.govij National Institutes of Health, Bethesda, MD, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The imaging values were measured using ImageJ 1.51k (available at http:rsbweb.nih.govij National Institutes of Health, Bethesda, MD, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "All statistical analyzes were performed using SPSS statistics software, version 24 (IBM, Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyzes were performed using SPSS statistics software, version 24 (IBM, Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Study population This study was approved by the Ethics Committee at the participating university hospital (No. 20170024).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Study population This study was approved by the Ethics Committee at the participating university hospital (No. 20170024)."
+              }]
+          }, {
+            "sentence" : "All subjects provided informed consent to participate.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All subjects provided informed consent to participate."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Volunteers with a previous history of trauma to the lower leg were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Volunteers with a previous history of trauma to the lower leg were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Seven Japanese healthy volunteers (three males and four females) with a mean age (standard deviation: SD) of 27.1 2.1 years were recruited.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Seven Japanese healthy volunteers (three males and four females) with a mean age (standard deviation: SD) of 27.1 2.1 years were recruited."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "In order to examine the interobserver reliability, we performed a blinded analysis so that the two observers did not see each others ROIs.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In order to examine the interobserver reliability, we performed a blinded analysis so that the two observers did not see each others ROIs."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Statistical analysis The analyses involving independent triplicate analyses on different days were performed to assess the reliability of the calculations.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis The analyses involving independent triplicate analyses on different days were performed to assess the reliability of the calculations."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Statistical analysis The analyses involving independent triplicate analyses on different days were performed to assess the reliability of the calculations.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis The analyses involving independent triplicate analyses on different days were performed to assess the reliability of the calculations."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The Wilcoxon signed-rank test was used to examine the differences between the control and stress groups in each sequence on the TA, SOL, and GM.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Wilcoxon signed-rank test was used to examine the differences between the control and stress groups in each sequence on the TA, SOL, and GM."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed-rank test"
+                  }],
+                "neText" : "Wilcoxon signed-rank test"
+              }]
+          }]
+      }]
+  }
+}

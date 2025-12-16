@@ -1,0 +1,127 @@
+{
+  "docIdentifier" : "PMC8899862",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "For normal eyes, patients who had visited the hospital for visual floater and ocular discomfort and who had undergone detailed examination, including OCTA",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For normal eyes, patients who had visited the hospital for visual floater and ocular discomfort and who had undergone detailed examination, including OCTA"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "OCTA"
+                }],
+              "neText" : "OCTA"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods This cross-sectional study was approved by the Institutional Review Board (IRB) of Yeungnam University Medical Center (IRB number, 2020-09-079) and conducted in accord with the Declaration of Helsinki.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods This cross-sectional study was approved by the Institutional Review Board (IRB) of Yeungnam University Medical Center (IRB number, 2020-09-079) and conducted in accord with the Declaration of Helsinki."
+              }]
+          }, {
+            "sentence" : "The requirement for written consent was waived by the IRB because of the retrospective nature of the study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The requirement for written consent was waived by the IRB because of the retrospective nature of the study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Exclusion criteria included the presence of glaucoma or retinal disorders affecting retinal capillary changes other than DR .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Exclusion criteria included the presence of glaucoma or retinal disorders affecting retinal capillary changes other than DR ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Thus , in total , ( 4 + 381 x 2 ) x 3 = 2298 features were extracted for each patient .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Thus , in total , ( 4 + 381 x 2 ) x 3 = 2298 features were extracted for each patient ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "All data were randomly divided at the patient level , and which data to use for training or testing was also randomly determined , but no data were used for both training and testing .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All data were randomly divided at the patient level , and which data to use for training or testing was also randomly determined , but no data were used for both training and testing ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

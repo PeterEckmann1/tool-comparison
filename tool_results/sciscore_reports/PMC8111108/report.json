@@ -1,0 +1,157 @@
+{
+  "docIdentifier" : "PMC8111108",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Bioinformatics analyses Potential functional effects of novel missense mutations were predicted by PolyPhen-2 (http:genetics.bwh.harvard.edupph2index.shtml), SIFT (http:sift.jcvi.org), PROVEAN (http:provean.jcvi.orgindex.php), MutationTaster (http:mutationtaster.org), FATHMM (http:fathmm.biocompute.org.uk), InterVar (http:wintervar.wglab.org), and MutPred2 (http:mutpred.mutdb.org).",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bioinformatics analyses Potential functional effects of novel missense mutations were predicted by PolyPhen-2 (http:genetics.bwh.harvard.edupph2index.shtml), SIFT (http:sift.jcvi.org), PROVEAN (http:provean.jcvi.orgindex.php), MutationTaster (http:mutationtaster.org), FATHMM (http:fathmm.biocompute.org.uk), InterVar (http:wintervar.wglab.org), and MutPred2 (http:mutpred.mutdb.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PolyPhen-2"
+                }],
+              "neText" : "PolyPhen-2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SIFT (RRID:SCR_012813)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SIFT"
+                }],
+              "neText" : "SIFT"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PROVEAN (RRID:SCR_002182)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PROVEAN"
+                }],
+              "neText" : "PROVEAN"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MutationTaster (RRID:SCR_010777)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MutationTaster"
+                }],
+              "neText" : "MutationTaster"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Ethics Committee of Beijing Youan Hospital, Capital Medical University, and a written informed consent form was obtained from all participants.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Ethics Committee of Beijing Youan Hospital, Capital Medical University, and a written informed consent form was obtained from all participants."
+              }]
+          }, {
+            "sentence" : "This study was approved by the Ethics Committee of Beijing Youan Hospital, Capital Medical University, and a written informed consent form was obtained from all participants.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Ethics Committee of Beijing Youan Hospital, Capital Medical University, and a written informed consent form was obtained from all participants."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

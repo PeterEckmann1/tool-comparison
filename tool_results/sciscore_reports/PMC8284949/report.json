@@ -1,0 +1,183 @@
+{
+  "docIdentifier" : "PMC8284949",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "SPSS 25.0 software was used for the statistical analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "SPSS 25.0 software was used for the statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "On the other hand, 3597respondents undergoing fundus examination in which the pupils were dilated in the past 2 years who refused to answer questions or failed to answer the questions clearly were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "On the other hand, 3597respondents undergoing fundus examination in which the pupils were dilated in the past 2 years who refused to answer questions or failed to answer the questions clearly were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Age (<45 years or ≥45 years), education, race, ethnicity (Hispanic, Latino/a, or Spanish origin or no), and current smoking were categorized according to the original variables in the questionnaire.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Age (<45 years or "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "45 years), education, race, ethnicity (Hispanic, Latino/a, or Spanish origin or no), and current smoking were categorized according to the original variables in the questionnaire."
+              }]
+          }, {
+            "sentence" : "Based on the BMI level, respondents were grouped into the emaciation group (BMI <18.5 kg/m2), the normal weight group (18.5 kg/m2 < BMI <25 kg/m2), the overweight group (BMI ≥25 kg/m2), and the obesity group (BMI ≥30 kg/m2).",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Based on the BMI level, respondents were grouped into the emaciation group (BMI <18.5 kg/m2), the normal weight group (18.5 kg/m2 < BMI <25 kg/m2), the overweight group (BMI "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "25 kg/m2), and the obesity group (BMI "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "30 kg/m2)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The data were publicly available from the US Centers for Disease Control and Prevention website.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The data were publicly available from the US Centers for Disease Control and Prevention website."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Weighted chi-squared test was used to analyze the association between DR prevalence and other factors, such as gender, overweight, obesity and chronic diseases.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Weighted chi-squared test was used to analyze the association between DR prevalence and other factors, such as gender, overweight, obesity and chronic diseases."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared test"
+                  }],
+                "neText" : "chi-squared test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "docIdentifier" : "PMC8828139",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analyses were performed using IBM SPSS Statistics for Windows, version 27 (IBM Japan, Tokyo, Japan).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were performed using IBM SPSS Statistics for Windows, version 27 (IBM Japan, Tokyo, Japan)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Ethics Committee of Tokyo Medical University, Tokyo, Japan (No: T2019-0234).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Ethics Committee of Tokyo Medical University, Tokyo, Japan (No: T2019-0234)."
+              }]
+          }, {
+            "sentence" : "Informed consent was obtained from all respondents.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was obtained from all respondents."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "We aimed to collect data from 3,000 men and women aged 20–79 years from all regions of Japan.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We aimed to collect data from 3,000 men and women aged 20–79 years from all regions of Japan."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "We aimed to collect data from 3,000 men and women aged 20–79 years from all regions of Japan.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We aimed to collect data from 3,000 men and women aged 20–79 years from all regions of Japan."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The Internet research service company randomly chose potential respondents from its registrants (n = 13,191) and invited them to participate in the survey by e-mail on January 14, 2021.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Internet research service company randomly chose potential respondents from its registrants (n = 13,191) and invited them to participate in the survey by e-mail on January 14, 2021."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The McNemar test was performed to compare the proportion of participants with COVID-19 vaccination intent between the baseline and follow-up surveys.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The McNemar test was performed to compare the proportion of participants with COVID-19 vaccination intent between the baseline and follow-up surveys."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "McNemar test"
+                  }],
+                "neText" : "McNemar test"
+              }]
+          }, {
+            "sentence" : "14 These scores were compared between participants with COVID-19 vaccination intent and those who did not, using the t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "14 These scores were compared between participants with COVID-19 vaccination intent and those who did not, using the t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

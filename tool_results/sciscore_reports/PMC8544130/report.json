@@ -1,0 +1,301 @@
+{
+  "docIdentifier" : "PMC8544130",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "UALCAN Transcription expression level variations of TMED2 in different human cancers relative to normal controls were analyzed using UALCAN database ( http:ualcan.path.uab.edu ).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "UALCAN Transcription expression level variations of TMED2 in different human cancers relative to normal controls were analyzed using UALCAN database ( http:ualcan.path.uab.edu )."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "UALCAN (RRID:SCR_015827)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UALCAN"
+                }],
+              "neText" : "UALCAN"
+            }]
+        }, {
+          "sentence" : "GENT2 Database GENT2 ( http:gent2.appex.kr ) web server is developed for the multi-omics analysis of the cancer data acquired from Gene Expression Omnibus (GEO, https:www.ncbi.nlm.nih.govgeo ) database.10 In our study, we utilized GENT2 for the validation of TMED2 expression using new independent cohorts of distinct cancer patients.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GENT2 Database GENT2 ( http:gent2.appex.kr ) web server is developed for the multi-omics analysis of the cancer data acquired from Gene Expression Omnibus (GEO, https:www.ncbi.nlm.nih.govgeo ) database.10 In our study, we utilized GENT2 for the validation of TMED2 expression using new independent cohorts of distinct cancer patients."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Omnibus (GEO) (RRID:SCR_005012)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Omnibus"
+                }],
+              "neText" : "Gene Expression Omnibus"
+            }]
+        }, {
+          "sentence" : "Data Mining Through Human Protein Atlas Database HPA ( https:www.proteinatlas.org ) is a database that aims to quantify and locate all the human proteins in cells, tissues, and organs using the immunohistochemistry (IHC) technique.11 In the current study, HPA was utilized to examine the proteomics expression level of TMED2 in normal tissues and distinct subtypes of cancerous tissues.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data Mining Through Human Protein Atlas Database HPA ( https:www.proteinatlas.org ) is a database that aims to quantify and locate all the human proteins in cells, tissues, and organs using the immunohistochemistry (IHC) technique.11 In the current study, HPA was utilized to examine the proteomics expression level of TMED2 in normal tissues and distinct subtypes of cancerous tissues."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.proteinatlas.org"
+                }],
+              "neText" : "https:www.proteinatlas.org"
+            }]
+        }, {
+          "sentence" : "The OncoPrint option on the cBioPortal provides an overview of genetic mutations and CNVs in the gene(s) of interest above every sample bar.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The OncoPrint option on the cBioPortal provides an overview of genetic mutations and CNVs in the gene(s) of interest above every sample bar."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "cBioPortal (RRID:SCR_014555)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "cBioPortal"
+                }],
+              "neText" : "cBioPortal"
+            }]
+        }, {
+          "sentence" : "TMED2 Protein-Protein Interaction Network Development and Pathway Analysis A PPI network of TMED2-enriched genes was developed via STRING ( https:string-db.org )14 and visualized through Cytoscape software.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "TMED2 Protein-Protein Interaction Network Development and Pathway Analysis A PPI network of TMED2-enriched genes was developed via STRING ( https:string-db.org )14 and visualized through Cytoscape software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }, {
+          "sentence" : "15 Then, the pathway analysis of the TMED2-enriched genes was carried out using DAVID ( http:david.ncifcrf.govsummary.jsp )16 and a p value < 0.05 was considered as significant.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "15 Then, the pathway analysis of the TMED2-enriched genes was carried out using DAVID ( http:david.ncifcrf.govsummary.jsp )16 and a p value < 0.05 was considered as significant."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods Ethics Statement This study was reviewed and approved by the ethical committee of the Islamia University of Bahawalpur, Bahawalpur, Pakistan.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Ethics Statement This study was reviewed and approved by the ethical committee of the Islamia University of Bahawalpur, Bahawalpur, Pakistan."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "9 In UALCAN, the transcription expression level of TMED2 was quantified as transcript per million (TPM) reads, and a Students t-test was employed for statistics purpose.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "9 In UALCAN, the transcription expression level of TMED2 was quantified as transcript per million (TPM) reads, and a Students t-test was employed for statistics purpose."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "MEXPRESS Database MEXPRESS database was utilized to assess the Pearson correlation between TMED2 transcription expression and its promoter methylation levels in 309, 194, 542, 343, 414, and 477 samples of CESC, ESCA, HNSC, KIRC, LIHC, and LUAD, respectively.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MEXPRESS Database MEXPRESS database was utilized to assess the Pearson correlation between TMED2 transcription expression and its promoter methylation levels in 309, 194, 542, 343, 414, and 477 samples of CESC, ESCA, HNSC, KIRC, LIHC, and LUAD, respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }, {
+            "sentence" : "TIMER applied the Spearman correlation method to infer the abundance of immune cells in association with gene expression using TCGA datasets.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "TIMER applied the Spearman correlation method to infer the abundance of immune cells in association with gene expression using TCGA datasets."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman"
+                  }],
+                "neText" : "Spearman"
+              }]
+          }, {
+            "sentence" : "In distinct human cancer subtypes, the Spearman correlation between the TMED2 expression and CD8+ T immune cells was calculated in this study using TIMER.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In distinct human cancer subtypes, the Spearman correlation between the TMED2 expression and CD8+ T immune cells was calculated in this study using TIMER."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman correlation"
+                  }],
+                "neText" : "Spearman correlation"
+              }]
+          }]
+      }]
+  }
+}

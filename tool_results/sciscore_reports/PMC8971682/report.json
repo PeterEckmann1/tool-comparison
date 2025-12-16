@@ -1,0 +1,379 @@
+{
+  "docIdentifier" : "PMC8971682",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "10 Primary antibodies against AKT ( catalog no. 4691",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "10 Primary antibodies against AKT ( catalog no. 4691"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AKT"
+                }],
+              "neText" : "AKT"
+            }]
+        }, {
+          "sentence" : "Anti-rabbit IgG conjugated with horseradish peroxidase ( HRP ) ( catalog no. 7074S Cell Signaling Technology ) was used as a secondary antibody , and the blot was developed using the substrate solution as per the manufacturers instructions ( catalog no. 32106 Thermo Fisher Scientific) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Anti-rabbit IgG conjugated with horseradish peroxidase ( HRP ) ( catalog no. 7074S Cell Signaling Technology ) was used as a secondary antibody , and the blot was developed using the substrate solution as per the manufacturers instructions ( catalog no. 32106 Thermo Fisher Scientific) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-rabbit IgG"
+                }],
+              "neText" : "Anti-rabbit IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Male MCK-miR-486+ mice (hereafter miR-486+ mice) in the C57BL6 background have been described previously 17 and then backcrossed into FVBN background for six generations (Figure 1).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Male MCK-miR-486+ mice (hereafter miR-486+ mice) in the C57BL6 background have been described previously 17 and then backcrossed into FVBN background for six generations (Figure 1)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MCK-miR-486+"
+                }],
+              "neText" : "MCK-miR-486+"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }, {
+          "sentence" : "To generate double-transgenic mice, female miR-486+ mice were crossed with male PyMT+ or Neu+ mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To generate double-transgenic mice, female miR-486+ mice were crossed with male PyMT+ or Neu+ mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "miR-486+"
+                }],
+              "neText" : "miR-486+"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "COX-IV and WGA staining was quantified by measuring labeled area using NIH ImageJ software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "COX-IV and WGA staining was quantified by measuring labeled area using NIH ImageJ software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Finally , samples were run on Eclipse Orbitrap mass spectrometer with FAIMS pro ( Thermo Fisher Scientific ) and searched against reviewed and unreviewed Mus musculus UniProt database plus common contaminants on PD 2.5 ( additional details in Supplemental methods) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Finally , samples were run on Eclipse Orbitrap mass spectrometer with FAIMS pro ( Thermo Fisher Scientific ) and searched against reviewed and unreviewed Mus musculus UniProt database plus common contaminants on PD 2.5 ( additional details in Supplemental methods) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Data were analyzed using two-factor ( miR-486+ and Neu+ ) analysis of variance or one-way ANOVA with Tukeys multiple-comparisons test for comparisons between multiple groups with GraphPad Prism version 9 software ( GraphPad , San Diego , CA)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Data were analyzed using two-factor ( miR-486+ and Neu+ ) analysis of variance or one-way ANOVA with Tukeys multiple-comparisons test for comparisons between multiple groups with GraphPad Prism version 9 software ( GraphPad , San Diego , CA)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and methods Animals and functional tests Animal protocols were approved by the Institutional Animal Care and Use Committee at the Indiana University School of Medicine and were in accordance with guidelines from the National Institutes of Health regarding the use and care of experimental animals.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Animals and functional tests Animal protocols were approved by the Institutional Animal Care and Use Committee at the Indiana University School of Medicine and were in accordance with guidelines from the National Institutes of Health regarding the use and care of experimental animals."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Male MCK-miR-486+ mice (hereafter miR-486+ mice) in the C57BL6 background have been described previously 17 and then backcrossed into FVBN background for six generations (Figure 1).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male MCK-miR-486+ mice (hereafter miR-486+ mice) in the C57BL6 background have been described previously 17 and then backcrossed into FVBN background for six generations (Figure 1)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "69 , 70 Briefly, at the end of experiment (28-week-old mice), intact isolated extensor digitorum longus muscles from four groups of mice were attached to an isometric force transducer (model 407A Aurora Scientific) between platinum stimulating electrodes in a glass chamber containing modified Tyrode solution.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "69 , 70 Briefly, at the end of experiment (28-week-old mice), intact isolated extensor digitorum longus muscles from four groups of mice were attached to an isometric force transducer (model 407A Aurora Scientific) between platinum stimulating electrodes in a glass chamber containing modified Tyrode solution."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each amplification reaction was performed in duplicate in a final volume of 20 mL with 4 mL cDNA .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each amplification reaction was performed in duplicate in a final volume of 20 mL with 4 mL cDNA ."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Each amplification reaction was performed in duplicate in a final volume of 20 mL with 4 mL cDNA .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each amplification reaction was performed in duplicate in a final volume of 20 mL with 4 mL cDNA ."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Proteome data are deposited with ProteomeXchange Consortium ( project accession number PXD028554) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Proteome data are deposited with ProteomeXchange Consortium ( project accession number PXD028554) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }, {
+            "sentence" : "Proteome data are deposited with ProteomeXchange Consortium ( project accession number PXD028554) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Proteome data are deposited with ProteomeXchange Consortium ( project accession number PXD028554) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PXD028554"
+                  }],
+                "neText" : "PXD028554"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis was performed by one-way ANOVA or nonparametric t test using GraphPad Prism at each time point, and data are presented as mean +- SEM.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis was performed by one-way ANOVA or nonparametric t test using GraphPad Prism at each time point, and data are presented as mean +- SEM."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }, {
+            "sentence" : "Statistical analysis Data were analyzed using two-factor ( miR-486+ and Neu+ ) analysis of variance or one-way ANOVA with Tukeys multiple-comparisons test for comparisons between multiple groups with GraphPad Prism version 9 software ( GraphPad , San Diego , CA)",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Data were analyzed using two-factor ( miR-486+ and Neu+ ) analysis of variance or one-way ANOVA with Tukeys multiple-comparisons test for comparisons between multiple groups with GraphPad Prism version 9 software ( GraphPad , San Diego , CA)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys multiple-comparisons test"
+                  }],
+                "neText" : "Tukeys multiple-comparisons test"
+              }]
+          }, {
+            "sentence" : "Unpaired parametric t tests were used for comparisons between two groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Unpaired parametric t tests were used for comparisons between two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t tests"
+                  }],
+                "neText" : "t tests"
+              }]
+          }]
+      }]
+  }
+}

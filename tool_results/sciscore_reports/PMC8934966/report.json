@@ -1,0 +1,137 @@
+{
+  "docIdentifier" : "PMC8934966",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "From these event markers, the pressure intervals used for deriving Pmax from a distribution function (the 4-parameter Weibull peak fit) applied within the Dynamic Fit Wizard of SigmaPlot (version 13, Systat Software, Inc., San Jose, CA) were defined and a curve delineating Pmax calculated.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "From these event markers, the pressure intervals used for deriving Pmax from a distribution function (the 4-parameter Weibull peak fit) applied within the Dynamic Fit Wizard of SigmaPlot (version 13, Systat Software, Inc., San Jose, CA) were defined and a curve delineating Pmax calculated."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SigmaPlot"
+                }],
+              "neText" : "SigmaPlot"
+            }]
+        }, {
+          "sentence" : "These peaks were then used to define the up and down pressure segments (open circles) for prediction of Pmax, the maximal pressure achieved if the contraction remained isovolumic, as the intervals from half of the first peak (end-diastolic pressure or EDP) to the second peak (the first inflection point or Pi), and from the third peak (end-systolic pressure or ESP) to the fourth (end).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These peaks were then used to define the up and down pressure segments (open circles) for prediction of Pmax, the maximal pressure achieved if the contraction remained isovolumic, as the intervals from half of the first peak (end-diastolic pressure or EDP) to the second peak (the first inflection point or Pi), and from the third peak (end-systolic pressure or ESP) to the fourth (end)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Pi"
+                }],
+              "neText" : "Pi"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Three investigators blinded to the cardiac MRI data analysed the same RV pressure sequences with the mean of their RVEF predictions regarded as the final value.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three investigators blinded to the cardiac MRI data analysed the same RV pressure sequences with the mean of their RVEF predictions regarded as the final value."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

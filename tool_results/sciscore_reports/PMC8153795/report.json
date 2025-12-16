@@ -1,0 +1,337 @@
+{
+  "docIdentifier" : "PMC8153795",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "2.4 Immunological Validation Western blotting (WB) was performed by fractionation of 20 μg of proteins by 12% SDS-PAGE followed by transfer to a nitrocellulose membrane, blocking with 5% BSA, and incubation with the primary rabbit polyclonal antibody to the tubulin beta 2C chain (1:500 dilution, PA5-25050, Invitrogen)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.4 Immunological Validation Western blotting (WB) was performed by fractionation of 20 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "g of proteins by 12% SDS-PAGE followed by transfer to a nitrocellulose membrane, blocking with 5% BSA, and incubation with the primary rabbit polyclonal antibody to the tubulin beta 2C chain (1:500 dilution, PA5-25050, Invitrogen)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "tubulin beta 2C chain"
+                }],
+              "neText" : "tubulin beta 2C chain"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PA5-25050"
+                }],
+              "neText" : "PA5-25050"
+            }]
+        }, {
+          "sentence" : ", vimentin ( 1:500 dilution , SAB 4503083 , Sigma-Aldrich) , and the anti-rabbit IgG horseradish peroxidase ( HRP)-conjugated goat secondary antibody ( 1:6000 dilution , A6154 , Sigma-Aldrich)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", vimentin ( 1:500 dilution , SAB 4503083 , Sigma-Aldrich) , and the anti-rabbit IgG horseradish peroxidase ( HRP)-conjugated goat secondary antibody ( 1:6000 dilution , A6154 , Sigma-Aldrich)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "vimentin"
+                }],
+              "neText" : "vimentin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "20 2.3 Gene Ontology Enrichment, Molecular Pathway, and Network Analysis The proteins exhibiting differential expression in OC were further categorized by gene ontology (GO) (www.geneontology.com) according to their molecular functions and biological processes and ingenuity pathway analysis (IPA, QIAGEN, www.qiagen.com/ingenuity) to identify molecular networks, canonical pathways, and the diseases and disorders associated with data set proteins.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "20 2.3 Gene Ontology Enrichment, Molecular Pathway, and Network Analysis The proteins exhibiting differential expression in OC were further categorized by gene ontology (GO) (www.geneontology.com) according to their molecular functions and biological processes and ingenuity pathway analysis (IPA, QIAGEN, www.qiagen.com/ingenuity) to identify molecular networks, canonical pathways, and the diseases and disorders associated with data set proteins."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Ingenuity Pathway Analysis (RRID:SCR_008653)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ingenuity pathway analysis"
+                }],
+              "neText" : "ingenuity pathway analysis"
+            }]
+        }, {
+          "sentence" : "Finally, IPA findings were validated by interacting protein network construction using STRING v10.0 (string.db.org) and Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Finally, IPA findings were validated by interacting protein network construction using STRING v10.0 (string.db.org) and Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "STRING (RRID:SCR_005223)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "KEGG (RRID:SCR_012773)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "Protein bands were developed using a TMB (3,3′,5,5′-tetramethylbenzidine, Sigma) peroxidase substrate system.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein bands were developed using a TMB (3,3′,5,5′-tetramethylbenzidine, Sigma) peroxidase substrate system."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "2.5 Statistical Analysis Statistical analyses were done using SPSS version 15.0 (IBM Corporation, Armonk, NY) and/or GraphPad Prism 8.30.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.5 Statistical Analysis Statistical analyses were done using SPSS version 15.0 (IBM Corporation, Armonk, NY) and/or GraphPad Prism 8.30."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2 Materials and Methods 2.1 Sample Collection and Protein Extraction The blood and resected ovarian biopsies were taken from 34 females diagnosed with OC and 20 with benign ovarian disease (Table S1, Section S1.1) after the approval of the University Ethical Review Board [ref No. 873/12].",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Materials and Methods 2.1 Sample Collection and Protein Extraction The blood and resected ovarian biopsies were taken from 34 females diagnosed with OC and 20 with benign ovarian disease (Table S1, Section S1.1) after the approval of the University Ethical Review Board [ref No. 873/12]."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2 Materials and Methods 2.1 Sample Collection and Protein Extraction The blood and resected ovarian biopsies were taken from 34 females diagnosed with OC and 20 with benign ovarian disease (Table S1, Section S1.1) after the approval of the University Ethical Review Board [ref No. 873/12].",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Materials and Methods 2.1 Sample Collection and Protein Extraction The blood and resected ovarian biopsies were taken from 34 females diagnosed with OC and 20 with benign ovarian disease (Table S1, Section S1.1) after the approval of the University Ethical Review Board [ref No. 873/12]."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All of the assays were performed in duplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All of the assays were performed in duplicate."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }, {
+            "sentence" : "All of the assays were performed in duplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All of the assays were performed in duplicate."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "For selection of differentially stained 2D gel spots, the nonparametric Mann–Whitney U test was applied on summed-up intensities of the multiple spots of the same protein followed by false discovery rate (FDR) determination. 19 The proteins in 2D gel differential spots were digested in 20 ng/μL sequencing-grade trypsin (Promega, Southampton, UK).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For selection of differentially stained 2D gel spots, the nonparametric Mann–Whitney U test was applied on summed-up intensities of the multiple spots of the same protein followed by false discovery rate (FDR) determination. 19 The proteins in 2D gel differential spots were digested in 20 ng/"
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "L sequencing-grade trypsin (Promega, Southampton, UK)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann–Whitney U test"
+                  }],
+                "neText" : "Mann–Whitney U test"
+              }]
+          }, {
+            "sentence" : "The Kruskal Wallace one-way analysis of variance (ANOVA) test was used for comparative analysis of the antibody titer among study cohorts with the significance level set at p-value < 0.05.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Kruskal Wallace one-way analysis of variance (ANOVA) test was used for comparative analysis of the antibody titer among study cohorts with the significance level set at p-value < 0.05."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }]
+  }
+}

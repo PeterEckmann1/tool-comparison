@@ -1,0 +1,208 @@
+{
+  "docIdentifier" : "PMC8363827",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Each segment was manually reoriented , realigned to the mean BOLD volume , resampled to 2 mm isotropic voxels , and normalized to a 32-week fetal brain template ( Serag et al. , 2012 ) using Statistical Parametric Mapping ( SPM12 ) ( Statistical Parametric Mapping 8 from the Wellcome Trust Centre for Neuroimaging , 2009 ) software implemented in MATLAB .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Each segment was manually reoriented , realigned to the mean BOLD volume , resampled to 2 mm isotropic voxels , and normalized to a 32-week fetal brain template ( Serag et al. , 2012 ) using Statistical Parametric Mapping ( SPM12 ) ( Statistical Parametric Mapping 8 from the Wellcome Trust Centre for Neuroimaging , 2009 ) software implemented in MATLAB ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Spatial Statistical Parametric Mapping (RRID:SCR_002592)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Statistical Parametric Mapping"
+                }],
+              "neText" : "Statistical Parametric Mapping"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Inclusionary criteria for the larger project included maternal age >=18 years old, native English speaking, singleton pregnancy, and normal fetal brain anatomy as assessed by ultrasound and MRI examination.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusionary criteria for the larger project included maternal age >=18 years old, native English speaking, singleton pregnancy, and normal fetal brain anatomy as assessed by ultrasound and MRI examination."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Forty-three percent of children in the N = 115 sample were female and MRI studies occurred when fetuses were between 22- and 39-weeks gestational age (GA).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Forty-three percent of children in the N = 115 sample were female and MRI studies occurred when fetuses were between 22- and 39-weeks gestational age (GA)."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2 Materials and methods 2.1 Participants This study included data from 115 pregnant, second-and third-trimester mothers from a larger ongoing project on fetal brain development who had available urine toxicology data (1-5 urine toxicology tests, mean = 1.83).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Materials and methods 2.1 Participants This study included data from 115 pregnant, second-and third-trimester mothers from a larger ongoing project on fetal brain development who had available urine toxicology data (1-5 urine toxicology tests, mean = 1.83)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Inclusionary criteria for the larger project included maternal age >=18 years old, native English speaking, singleton pregnancy, and normal fetal brain anatomy as assessed by ultrasound and MRI examination.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusionary criteria for the larger project included maternal age >=18 years old, native English speaking, singleton pregnancy, and normal fetal brain anatomy as assessed by ultrasound and MRI examination."
+              }]
+          }, {
+            "sentence" : "Additional exclusion criteria were applied to neuroimaging data, including exclusion of fetuses scanned before 27 weeks (n = 4) those with health concerns, such as delivery before 33 weeks, birth weight less than 2500 g (n = 18) lack of sufficient low-motion fMRI data (n = 11) or presence of multi-drug or other drugs in the drug toxicology screen (n = 14), resulting in a PCEnon-PCE neuroimaging sample of N = 68.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Additional exclusion criteria were applied to neuroimaging data, including exclusion of fetuses scanned before 27 weeks (n = 4) those with health concerns, such as delivery before 33 weeks, birth weight less than 2500 g (n = 18) lack of sufficient low-motion fMRI data (n = 11) or presence of multi-drug or other drugs in the drug toxicology screen (n = 14), resulting in a PCEnon-PCE neuroimaging sample of N = 68."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : ") 0.651 Rotational drift ( degrees ) 1.18 ( 0.4 ) 1.24 ( 0.4 ) 0.502 Note: Chi-square tests compared raceethnicity , marital status , income , education , and child sex between groups .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : ") 0.651 Rotational drift ( degrees ) 1.18 ( 0.4 ) 1.24 ( 0.4 ) 0.502 Note: Chi-square tests compared raceethnicity , marital status , income , education , and child sex between groups ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-square tests"
+                  }],
+                "neText" : "Chi-square tests"
+              }]
+          }, {
+            "sentence" : "Two-sample t tests compared all other variables .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two-sample t tests compared all other variables ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t tests"
+                  }],
+                "neText" : "t tests"
+              }]
+          }, {
+            "sentence" : "2.7 Statistical analyses Demographic and questionnaire data were analyzed using standard Chi-squared test statistics or two-tailed independent samples t-tests",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.7 Statistical analyses Demographic and questionnaire data were analyzed using standard Chi-squared test statistics or two-tailed independent samples t-tests"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-squared test"
+                  }],
+                "neText" : "Chi-squared test"
+              }]
+          }, {
+            "sentence" : "Hippocampal RSFC was compared between PCE and non-PCE groups using a two-sample t-test , controlling for gestational age at scan .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Hippocampal RSFC was compared between PCE and non-PCE groups using a two-sample t-test , controlling for gestational age at scan ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

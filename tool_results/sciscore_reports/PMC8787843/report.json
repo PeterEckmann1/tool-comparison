@@ -1,0 +1,207 @@
+{
+  "docIdentifier" : "PMC8787843",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "25 Psychotropic drugs included antipsychotic (N05A), anxiolytic (N05B), hypnotic and sedative (N05C), antidepressant (N06A) and antiementia drugs (N06D) by ATC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "25 Psychotropic drugs included antipsychotic (N05A), anxiolytic (N05B), hypnotic and sedative (N05C), antidepressant (N06A) and antiementia drugs (N06D) by ATC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ATC"
+                }],
+              "neText" : "ATC"
+            }]
+        }, {
+          "sentence" : "We used Stata/IC, release V.16 (StataCorp) for all analyses.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We used Stata/IC, release V.16 (StataCorp) for all analyses."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata, RRID:SCR_012763",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StataCorp"
+                }],
+              "neText" : "StataCorp"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Dyads gave informed spoken and written consent for participation in the parent trial as described in the protocol.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Dyads gave informed spoken and written consent for participation in the parent trial as described in the protocol."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Participants Dyads were eligible for inclusion in the parent trial if the persons with dementia were: ≥65 years, diagnosed with dementia (with Mini-Mental Status Examination (MMSE) score 15–26 or Functional Assessment Staging (FAST) score 3–7)14 15; home-dwelling in one of three Norwegian municipalities; and had weekly face-to-face contact with the informal carer.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants Dyads were eligible for inclusion in the parent trial if the persons with dementia were: "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "65 years, diagnosed with dementia (with Mini-Mental Status Examination (MMSE) score 15–26 or Functional Assessment Staging (FAST) score 3–7)14 15; home-dwelling in one of three Norwegian municipalities; and had weekly face-to-face contact with the informal carer."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Participants Dyads were eligible for inclusion in the parent trial if the persons with dementia were: ≥65 years, diagnosed with dementia (with Mini-Mental Status Examination (MMSE) score 15–26 or Functional Assessment Staging (FAST) score 3–7)14 15; home-dwelling in one of three Norwegian municipalities; and had weekly face-to-face contact with the informal carer.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants Dyads were eligible for inclusion in the parent trial if the persons with dementia were: "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "65 years, diagnosed with dementia (with Mini-Mental Status Examination (MMSE) score 15–26 or Functional Assessment Staging (FAST) score 3–7)14 15; home-dwelling in one of three Norwegian municipalities; and had weekly face-to-face contact with the informal carer."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Setting The parent trial is a stepped-wedge randomised controlled trial.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Setting The parent trial is a stepped-wedge randomised controlled trial."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Trained data collectors blindly assessed all dyads in direct conversation every 6 months for 2 years (2019–2021).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Trained data collectors blindly assessed all dyads in direct conversation every 6 months for 2 years (2019–2021)."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "10.1136/bmjopen-2021-050628.supp1 Supplementary data Figure 1 The parent trial, LIVE@Home.Path, including PAN.DEM.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "10.1136/bmjopen-2021-050628.supp1 Supplementary data Figure 1 The parent trial, LIVE@Home.Path, including PAN.DEM."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "10.1136/bmjopen-2021-050628.supp1"
+                  }],
+                "neText" : "10.1136/bmjopen-2021-050628.supp1"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "We used the Wilcoxon matched-pairs signed-rank test to assess change between the prepandemic and pandemic assessments.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We used the Wilcoxon matched-pairs signed-rank test to assess change between the prepandemic and pandemic assessments."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon matched-pairs signed-rank test"
+                  }],
+                "neText" : "Wilcoxon matched-pairs signed-rank test"
+              }]
+          }, {
+            "sentence" : "Selected models were then checked for multicollinearity, robustness and goodness-of-fit by Pearson and Hosmer-Lemeshow test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Selected models were then checked for multicollinearity, robustness and goodness-of-fit by Pearson and Hosmer-Lemeshow test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson and Hosmer-Lemeshow test"
+                  }],
+                "neText" : "Pearson and Hosmer-Lemeshow test"
+              }]
+          }]
+      }]
+  }
+}

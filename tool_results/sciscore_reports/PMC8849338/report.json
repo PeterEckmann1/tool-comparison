@@ -1,0 +1,173 @@
+{
+  "docIdentifier" : "PMC8849338",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "SPSS version 27 was used for all statistical analysis .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "SPSS version 27 was used for all statistical analysis ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Exclusion criteria included absence of photograph images, absence of significant data in the medical record, and mini, fleur-de-lis, circumferential and floating umbilicus abdominoplasties.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Exclusion criteria included absence of photograph images, absence of significant data in the medical record, and mini, fleur-de-lis, circumferential and floating umbilicus abdominoplasties."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "We compared a group of 179 patients, who underwent biplanar lipoabdominoplasty (with SLAS preservation, elevation and tightening), with a group of 65 patients who underwent standard lipoabdominoplasty.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We compared a group of 179 patients, who underwent biplanar lipoabdominoplasty (with SLAS preservation, elevation and tightening), with a group of 65 patients who underwent standard lipoabdominoplasty."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "+- 9.01 42.8 +- 9.5 0.62 Gender 0.61 Men 3 ( 2 ) 2 ( 3 ) Women 176 ( 98 ) 63 ( 97",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "+- 9.01 42.8 +- 9.5 0.62 Gender 0.61 Men 3 ( 2 ) 2 ( 3 ) Women 176 ( 98 ) 63 ( 97"
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Preoperative and postoperative images of a 50-year-old patient after biplanar lipoabdominoplasty .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Preoperative and postoperative images of a 50-year-old patient after biplanar lipoabdominoplasty ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Aesthetic outcomes were evaluated blindly, on a five-point Likert scale, by an external observer, based on patients images.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Aesthetic outcomes were evaluated blindly, on a five-point Likert scale, by an external observer, based on patients images."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "For quantitative variables such as age and BMI , T test or Mann Whitney U tests were used to compare the groups .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For quantitative variables such as age and BMI , T test or Mann Whitney U tests were used to compare the groups ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "T test"
+                  }],
+                "neText" : "T test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann Whitney U tests"
+                  }],
+                "neText" : "Mann Whitney U tests"
+              }]
+          }, {
+            "sentence" : "For categorical parameters such as marital status and complications , Fisher exact test or Pearson chi squared test were used to compare the groups .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For categorical parameters such as marital status and complications , Fisher exact test or Pearson chi squared test were used to compare the groups ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher exact test"
+                  }],
+                "neText" : "Fisher exact test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson chi squared test"
+                  }],
+                "neText" : "Pearson chi squared test"
+              }]
+          }]
+      }]
+  }
+}

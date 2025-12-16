@@ -1,0 +1,252 @@
+{
+  "docIdentifier" : "PMC8287907",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Eluted proteins were analyzed by SDS-PAGE and western blot analysis using a His-HRP antibody ( Sigma-Aldrich , A7058)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Eluted proteins were analyzed by SDS-PAGE and western blot analysis using a His-HRP antibody ( Sigma-Aldrich , A7058)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A7058"
+                }],
+              "neText" : "A7058"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Escherichia coli BL21 ( DE23)pDIA17 ( 56 ) were transformed by the constructed pET28a plasmids and grown at 30degC in 2YT medium under kanamycin and chloramphenicol selection .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Escherichia coli BL21 ( DE23)pDIA17 ( 56 ) were transformed by the constructed pET28a plasmids and grown at 30degC in 2YT medium under kanamycin and chloramphenicol selection ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DE23)pDIA17"
+                }],
+              "neText" : "DE23)pDIA17"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "The quadruple mutation MutA ( G489A , G490A , T491A , K497A ) was introduced on the pET28a WT SUD-NM plasmid using designed oligonucleotides and the QuikChange II XL Site-Directed Mutagenesis kit ( Agilent Technologies)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The quadruple mutation MutA ( G489A , G490A , T491A , K497A ) was introduced on the pET28a WT SUD-NM plasmid using designed oligonucleotides and the QuikChange II XL Site-Directed Mutagenesis kit ( Agilent Technologies)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pET28a WT SUD-NM"
+                }],
+              "neText" : "pET28a WT SUD-NM"
+            }]
+        }, {
+          "sentence" : "pET28a SUD-NM Mut4 ( K589A , K592A , E595A ) was synthesized by TwistBioscience.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "pET28a SUD-NM Mut4 ( K589A , K592A , E595A ) was synthesized by TwistBioscience."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_26094",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pET28a"
+                }],
+              "neText" : "pET28a"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "IC50 values were calculated from the experimental data using the KaleidaGraph software ( Synergy Software)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "IC50 values were calculated from the experimental data using the KaleidaGraph software ( Synergy Software)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KaleidaGraph"
+                }],
+              "neText" : "KaleidaGraph"
+            }]
+        }, {
+          "sentence" : "Computational modeling of the SARS-CoV-2 SUD-NM The three-dimensional structure of SARS-CoV-2 SUD-NM was computed with the Modeller software (61).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Computational modeling of the SARS-CoV-2 SUD-NM The three-dimensional structure of SARS-CoV-2 SUD-NM was computed with the Modeller software (61)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Modeller"
+                }],
+              "neText" : "Modeller"
+            }]
+        }, {
+          "sentence" : "All figures were made with PyMOL (66).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All figures were made with PyMOL (66)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PyMOL, RRID:SCR_000305",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PyMOL"
+                }],
+              "neText" : "PyMOL"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Serially diluted SUD-NM samples ( 7.8-1000 nM ) were then injected one at a time in triplicate for 2 min at a flow rate of 30 mlmin over the oligonucleotide-derivatized surfaces ( association phase) , after which buffer was flowed at 30 mlmin for 3 min ( dissociation phase) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Serially diluted SUD-NM samples ( 7.8-1000 nM ) were then injected one at a time in triplicate for 2 min at a flow rate of 30 mlmin over the oligonucleotide-derivatized surfaces ( association phase) , after which buffer was flowed at 30 mlmin for 3 min ( dissociation phase) ."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Serially diluted SUD-NM samples ( 7.8-1000 nM ) were then injected one at a time in triplicate for 2 min at a flow rate of 30 mlmin over the oligonucleotide-derivatized surfaces ( association phase) , after which buffer was flowed at 30 mlmin for 3 min ( dissociation phase) .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Serially diluted SUD-NM samples ( 7.8-1000 nM ) were then injected one at a time in triplicate for 2 min at a flow rate of 30 mlmin over the oligonucleotide-derivatized surfaces ( association phase) , after which buffer was flowed at 30 mlmin for 3 min ( dissociation phase) ."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

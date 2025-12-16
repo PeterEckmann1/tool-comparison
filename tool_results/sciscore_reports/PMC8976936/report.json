@@ -1,0 +1,171 @@
+{
+  "docIdentifier" : "PMC8976936",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The circumferential extent of MvD was measured using ImageJ software (http:rsb.info.nih.govijindex.html).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The circumferential extent of MvD was measured using ImageJ software (http:rsb.info.nih.govijindex.html)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "All statistical analyses were performed using SPSS Statistics software (ver. 16.0 IBM Corp.,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were performed using SPSS Statistics software (ver. 16.0 IBM Corp.,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study followed the Declaration of Helsinki and guidelines for experimental investigation in human subjects laid down by the Institutional Review Board of Seoul St.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study followed the Declaration of Helsinki and guidelines for experimental investigation in human subjects laid down by the Institutional Review Board of Seoul St."
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained from consecutive patients who met the eligibility criteria.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from consecutive patients who met the eligibility criteria."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients with IOP of more than 21 mm Hg, or family history of glaucoma were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients with IOP of more than 21 mm Hg, or family history of glaucoma were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Interobserver difference in measuring MvD angle was calculated as the intraclass correlation coefficients (ICCs) and their confidence intervals (CIs) in 30 randomly selected images.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Interobserver difference in measuring MvD angle was calculated as the intraclass correlation coefficients (ICCs) and their confidence intervals (CIs) in 30 randomly selected images."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Two independent observers (H.Y.P and S.A.K.) blinded to the clinical data identified MvD.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two independent observers (H.Y.P and S.A.K.) blinded to the clinical data identified MvD."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Data Analysis Students t-test and the kh2 test were used to compare continuous and categorical variables, respectively.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data Analysis Students t-test and the kh2 test were used to compare continuous and categorical variables, respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

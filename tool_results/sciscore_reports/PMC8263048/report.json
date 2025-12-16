@@ -1,0 +1,211 @@
+{
+  "docIdentifier" : "PMC8263048",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Regionalized interview modelling To simulate the potential CO2 emission reductions if interviews were regionalized, we constructed two models in which candidates flew to one (Toronto, ON) or two cities (Toronto and Calgary, AB) for their interviews, using city of origin data submitted in each applicants CaRMS application.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Regionalized interview modelling To simulate the potential CO2 emission reductions if interviews were regionalized, we constructed two models in which candidates flew to one (Toronto, ON) or two cities (Toronto and Calgary, AB) for their interviews, using city of origin data submitted in each applicants CaRMS application."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:ZFIN_ZDB-GENO-960809-7",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AB"
+                }],
+              "neText" : "AB"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Cost, distance, and CO2 emissions calculation Respondents reported a cost range for each spending category (see Figure 2).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cost, distance, and CO2 emissions calculation Respondents reported a cost range for each spending category (see Figure 2)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "COST (RRID:SCR_014098)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cost"
+                }],
+              "neText" : "Cost"
+            }]
+        }, {
+          "sentence" : "IBM SPSS Statistics for Windows, Version 26.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "IBM SPSS Statistics for Windows, Version 26.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "As the majority of general surgery applicants apply and interview at most programs across Canada, this sample captures the majority of general surgery applicants in Canada. 4 Informed consent was detailed in the survey description.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "As the majority of general surgery applicants apply and interview at most programs across Canada, this sample captures the majority of general surgery applicants in Canada. 4 Informed consent was detailed in the survey description."
+              }]
+          }, {
+            "sentence" : ") Ethics approval: Our institutional review board granted a waiver for this study as it falls within the context of quality improvement and program evaluation.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : ") Ethics approval: Our institutional review board granted a waiver for this study as it falls within the context of quality improvement and program evaluation."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Surveys with incomplete data were analyzed on a case-by-case basis and were excluded if more than two items were incomplete.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Surveys with incomplete data were analyzed on a case-by-case basis and were excluded if more than two items were incomplete."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis A one-way ANOVA was used to compare costs and CO2 emissions by region of origin.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis A one-way ANOVA was used to compare costs and CO2 emissions by region of origin."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "An independent-samples t-test was used to compare CO2 emissions between the Current Model and the One-City Model, and the Current Model and the Two-City Model.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "An independent-samples t-test was used to compare CO2 emissions between the Current Model and the One-City Model, and the Current Model and the Two-City Model."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

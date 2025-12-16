@@ -1,0 +1,223 @@
+{
+  "docIdentifier" : "PMC8257855",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "2.1.2 General clinical data The age, gender, preoperative albumin, transaminase, total bilirubin, hepatitis B surface antigen, hepatitis C antibody, AFP index, operation time, and intraoperative blood loss of the patients above were recorded.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.1.2 General clinical data The age, gender, preoperative albumin, transaminase, total bilirubin, hepatitis B surface antigen, hepatitis C antibody, AFP index, operation time, and intraoperative blood loss of the patients above were recorded."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "albumin, transaminase, total bilirubin, hepatitis B surface antigen, hepatitis C"
+                }],
+              "neText" : "albumin, transaminase, total bilirubin, hepatitis B surface antigen, hepatitis C"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2.1.4 Statistical analysis All data were analyzed with SPSS (version 22.0, IBM SPSS Inc.).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.1.4 Statistical analysis All data were analyzed with SPSS (version 22.0, IBM SPSS Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2 Methods 2.1 Ethics approval and consent to participate The study was approved by the Ethics Committee of Beijing Chaoyang Hospital (No.2019-D.-305).",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Methods 2.1 Ethics approval and consent to participate The study was approved by the Ethics Committee of Beijing Chaoyang Hospital (No.2019-D.-305)."
+              }]
+          }, {
+            "sentence" : "2 Methods 2.1 Ethics approval and consent to participate The study was approved by the Ethics Committee of Beijing Chaoyang Hospital (No.2019-D.-305).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Methods 2.1 Ethics approval and consent to participate The study was approved by the Ethics Committee of Beijing Chaoyang Hospital (No.2019-D.-305)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients with distant tumor metastasis and suffered other treatments were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients with distant tumor metastasis and suffered other treatments were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All the results were repeated three times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the results were repeated three times."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "All the results were repeated three times.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the results were repeated three times."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Chi-square test or Fisher exact test was used for classification data.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Chi-square test or Fisher exact test was used for classification data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-square test"
+                  }],
+                "neText" : "Chi-square test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher exact test"
+                  }],
+                "neText" : "Fisher exact test"
+              }]
+          }, {
+            "sentence" : "Normally distributed data was analyzed by t test and non-normally distributed data was analyzed by Wilcoxon rank sum test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Normally distributed data was analyzed by t test and non-normally distributed data was analyzed by Wilcoxon rank sum test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank sum test"
+                  }],
+                "neText" : "Wilcoxon rank sum test"
+              }]
+          }]
+      }]
+  }
+}

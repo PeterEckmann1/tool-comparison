@@ -1,0 +1,913 @@
+{
+  "docIdentifier" : "PMC8096253",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Antibodies used for immunofluorescence analysis are as follows: anti-SOX2 ( Santa Cruz , sc-17320) , anti-OCT4 ( Santa Cruz , sc-5279) , anti-NANOG ( Abcam , ab21624) , anti-Ki67 ( ZSGB-BIO , ZM-0166) , anti-gH2AX ( Millipore , 05-636) , anti-53BP1 ( BETYHL , A300-273A) , anti-Lamin",
+          "rowSpan" : 7,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibodies used for immunofluorescence analysis are as follows: anti-SOX2 ( Santa Cruz , sc-17320) , anti-OCT4 ( Santa Cruz , sc-5279) , anti-NANOG ( Abcam , ab21624) , anti-Ki67 ( ZSGB-BIO , ZM-0166) , anti-gH2AX ( Millipore , 05-636) , anti-53BP1 ( BETYHL , A300-273A) , anti-Lamin"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-SOX2"
+                }],
+              "neText" : "anti-SOX2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-OCT4"
+                }],
+              "neText" : "anti-OCT4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-NANOG"
+                }],
+              "neText" : "anti-NANOG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Ki67"
+                }],
+              "neText" : "anti-Ki67"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-gH2AX"
+                }],
+              "neText" : "anti-gH2AX"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-53BP1"
+                }],
+              "neText" : "anti-53BP1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Lamin"
+                }],
+              "neText" : "anti-Lamin"
+            }]
+        }, {
+          "sentence" : "Antibodies used for western blot analysis are as follows: anti-SIRT3 ( Cell Signaling Technology , 2627) , anti-SIRT3 ( Cell Signaling Technology , 5490) , anti-SIRT3 ( Abcam , ab189860) , anti-SIRT3 ( Sigma , S4072) , anti-SIRT3 ( Abgent , AP6242a) , anti-P16 ( BD Bioscience , 550834) , anti-P21 ( Cell Signaling Technology , 2947) , anti-b-Tubulin ( Immunoway , YM3030) ,",
+          "rowSpan" : 7,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibodies used for western blot analysis are as follows: anti-SIRT3 ( Cell Signaling Technology , 2627) , anti-SIRT3 ( Cell Signaling Technology , 5490) , anti-SIRT3 ( Abcam , ab189860) , anti-SIRT3 ( Sigma , S4072) , anti-SIRT3 ( Abgent , AP6242a) , anti-P16 ( BD Bioscience , 550834) , anti-P21 ( Cell Signaling Technology , 2947) , anti-b-Tubulin ( Immunoway , YM3030) ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-SIRT3 ( Cell Signaling Technology , 2627"
+                }],
+              "neText" : "anti-SIRT3 ( Cell Signaling Technology , 2627"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-SIRT3 ( Cell Signaling Technology , 5490"
+                }],
+              "neText" : "anti-SIRT3 ( Cell Signaling Technology , 5490"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-SIRT3"
+                }],
+              "neText" : "anti-SIRT3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "S4072"
+                }],
+              "neText" : "S4072"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-P16"
+                }],
+              "neText" : "anti-P16"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-P21 ( Cell Signaling Technology , 2947)"
+                }],
+              "neText" : "anti-P21 ( Cell Signaling Technology , 2947)"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-b-Tubulin"
+                }],
+              "neText" : "anti-b-Tubulin"
+            }]
+        }, {
+          "sentence" : "Primary antibodies used were anti-FLAG ( Sigma , F1804 ) and anti-Lamin B1 ( Abcam , ab16048) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Primary antibodies used were anti-FLAG ( Sigma , F1804 ) and anti-Lamin B1 ( Abcam , ab16048) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-FLAG"
+                }],
+              "neText" : "anti-FLAG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Lamin B1"
+                }],
+              "neText" : "anti-Lamin B1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "In brief , HEK293T cells transfected with plasmids expressing SIRT3-FLAG or Luc-FLAG were lysed in CHAPS lysis buffer ( 120 mM NaCl , 0.3 CHAPS ( Sigma , C900480) , 1 mM EDTA , 40 mM HEPES , pH 7.5 , and cOmpleteTM protease inhibitor cocktail ( Roche) ) at 4degC for 2 h with rotation , and then centrifuged at 12 000 g at 4degC for 30 min to collect the supernatants .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In brief , HEK293T cells transfected with plasmids expressing SIRT3-FLAG or Luc-FLAG were lysed in CHAPS lysis buffer ( 120 mM NaCl , 0.3 CHAPS ( Sigma , C900480) , 1 mM EDTA , 40 mM HEPES , pH 7.5 , and cOmpleteTM protease inhibitor cocktail ( Roche) ) at 4degC for 2 h with rotation , and then centrifuged at 12 000 g at 4degC for 30 min to collect the supernatants ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293T"
+                }],
+              "neText" : "HEK293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Then, the mixture was injected subcutaneously into the inguinal region of NODSCID mice (male, 6 weeks old).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then, the mixture was injected subcutaneously into the inguinal region of NODSCID mice (male, 6 weeks old)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_ARC:NODSCID",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NODSCID"
+                }],
+              "neText" : "NODSCID"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Sequences representing sgRNAs targeting exon 1 or exon 3 of SIRT3 were cloned into pCAG-mCherry-sgRNA vector (Addgene, 87110).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Sequences representing sgRNAs targeting exon 1 or exon 3 of SIRT3 were cloned into pCAG-mCherry-sgRNA vector (Addgene, 87110)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCAG-mCherry-sgRNA"
+                }],
+              "neText" : "pCAG-mCherry-sgRNA"
+            }]
+        }, {
+          "sentence" : "After treatment with ROCK inhibitor (Y-27632, TOCRIS) for 24 h, pCAG-mCherry-SIRT3 sgRNAs and pCAG-1BPNLS-Cas9-1BPNLS-2AGFP were simultaneously electroporated into SIRT3++ hESCs by 4D-Nucleofector (Lonza).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After treatment with ROCK inhibitor (Y-27632, TOCRIS) for 24 h, pCAG-mCherry-SIRT3 sgRNAs and pCAG-1BPNLS-Cas9-1BPNLS-2AGFP were simultaneously electroporated into SIRT3++ hESCs by 4D-Nucleofector (Lonza)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCAG-mCherry-SIRT3"
+                }],
+              "neText" : "pCAG-mCherry-SIRT3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_87109",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCAG-1BPNLS-Cas9-1BPNLS-2AGFP"
+                }],
+              "neText" : "pCAG-1BPNLS-Cas9-1BPNLS-2AGFP"
+            }]
+        }, {
+          "sentence" : "Genomic DNA fragment of the OCT4 promoter region was amplified using LA Taq DNA Polymerase Hot-Start Version ( TaKaRa) , and subsequently cloned into the pMD20 T vector ( TaKaRa) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Genomic DNA fragment of the OCT4 promoter region was amplified using LA Taq DNA Polymerase Hot-Start Version ( TaKaRa) , and subsequently cloned into the pMD20 T vector ( TaKaRa) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMD20 T"
+                }],
+              "neText" : "pMD20 T"
+            }]
+        }, {
+          "sentence" : "Lentivirus production HEK293T cells were co-transfected with indicated lentiviral overexpression plasmids and lentiviral packing vectors including psPAX2 ( Addgene , 12260 ) and pMD2 . G ( Addgene , 12259) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Lentivirus production HEK293T cells were co-transfected with indicated lentiviral overexpression plasmids and lentiviral packing vectors including psPAX2 ( Addgene , 12260 ) and pMD2 . G ( Addgene , 12259) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "psPAX2"
+                }],
+              "neText" : "psPAX2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMD2 . G"
+                }],
+              "neText" : "pMD2 . G"
+            }]
+        }, {
+          "sentence" : "Plasmid construction SIRT3-FLAG cDNA was generated from the cDNA of SIRT3++ hMSCs via PCR amplification and then cloned into the pLE4 empty vector ( a kind gift from Dr. Tomoaki Hishida ) by using NovoRec(r ) plus One-step PCR Cloning Kit ( Novoprotein , NR005 ) according to the manufacturers instructions and confirmed by DNA sequencing .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Plasmid construction SIRT3-FLAG cDNA was generated from the cDNA of SIRT3++ hMSCs via PCR amplification and then cloned into the pLE4 empty vector ( a kind gift from Dr. Tomoaki Hishida ) by using NovoRec(r ) plus One-step PCR Cloning Kit ( Novoprotein , NR005 ) according to the manufacturers instructions and confirmed by DNA sequencing ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLE4"
+                }],
+              "neText" : "pLE4"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Mitochondrial number per cell and individual mitochondrial size were analyzed from 30 to 40 electron micrographs using ImageJ-based Fiji software ( https:imagej . netFiji ) ( 42) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Mitochondrial number per cell and individual mitochondrial size were analyzed from 30 to 40 electron micrographs using ImageJ-based Fiji software ( https:imagej . netFiji ) ( 42) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji"
+                }],
+              "neText" : "Fiji"
+            }]
+        }, {
+          "sentence" : "The relative cell density was quantified using ImageJ .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The relative cell density was quantified using ImageJ ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Raw data were processed with the MaxQuant ( Version 1.3 ) and Proteome Discoverer ( Version 1.4) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Raw data were processed with the MaxQuant ( Version 1.3 ) and Proteome Discoverer ( Version 1.4) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Proteome Discoverer, RRID:SCR_014477",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Proteome Discoverer"
+                }],
+              "neText" : "Proteome Discoverer"
+            }]
+        }, {
+          "sentence" : "False discovery rate ( FDR ) was analyzed with Percolator and set to 1 as the threshold of the peptide confidence parameter .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "False discovery rate ( FDR ) was analyzed with Percolator and set to 1 as the threshold of the peptide confidence parameter ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Percolator"
+                }],
+              "neText" : "Percolator"
+            }]
+        }, {
+          "sentence" : "Gene Ontology Cellular Component ( GO-CC ) terms analysis was performed using Metascape ( 45) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gene Ontology Cellular Component ( GO-CC ) terms analysis was performed using Metascape ( 45) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Metascape"
+                }],
+              "neText" : "Metascape"
+            }]
+        }, {
+          "sentence" : "Using Imaris software , the Surfaces tool was used to create a 3D rendering of each channel .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Using Imaris software , the Surfaces tool was used to create a 3D rendering of each channel ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Imaris"
+                }],
+              "neText" : "Imaris"
+            }]
+        }, {
+          "sentence" : "First , low-quality reads and adaptors were removed using TrimGalore ( v0.4.4_dev ) ( 54) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "First , low-quality reads and adaptors were removed using TrimGalore ( v0.4.4_dev ) ( 54) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TrimGalore"
+                }],
+              "neText" : "TrimGalore"
+            }]
+        }, {
+          "sentence" : "Clean reads were aligned to the UCSC human hg19 genome using HISAT2 software ( v2.1.0 ) ( 54) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Clean reads were aligned to the UCSC human hg19 genome using HISAT2 software ( v2.1.0 ) ( 54) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HISAT2"
+                }],
+              "neText" : "HISAT2"
+            }]
+        }, {
+          "sentence" : "Counts for annotated genes were generated using HTSeq ( v0.6.1 ) ( 55) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Counts for annotated genes were generated using HTSeq ( v0.6.1 ) ( 55) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HTSeq"
+                }],
+              "neText" : "HTSeq"
+            }]
+        }, {
+          "sentence" : "The RBioconductor package DESeq2 ( 56 ) was used to identify differentially expressed genes with a cutoff Benjamini-Hochberg adjust P-value less than 0.05 and log2 ( fold change ) > 0.58 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The RBioconductor package DESeq2 ( 56 ) was used to identify differentially expressed genes with a cutoff Benjamini-Hochberg adjust P-value less than 0.05 and log2 ( fold change ) > 0.58 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq2"
+                }],
+              "neText" : "DESeq2"
+            }]
+        }, {
+          "sentence" : "Enrichment analysis was performed using Toppgene ( 57 ) ( https:toppgene.cchmc . org ) with adjusted P-value < 0.05 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Enrichment analysis was performed using Toppgene ( 57 ) ( https:toppgene.cchmc . org ) with adjusted P-value < 0.05 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Toppgene"
+                }],
+              "neText" : "Toppgene"
+            }]
+        }, {
+          "sentence" : "Unique and multi-mapped reads were assigned to repetitive elements using RepEnrich2",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Unique and multi-mapped reads were assigned to repetitive elements using RepEnrich2"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RepEnrich2"
+                }],
+              "neText" : "RepEnrich2"
+            }]
+        }, {
+          "sentence" : "Differentially expressed repetitive elements were analyzed with edgeR ( 58 ) on the fractional counts data .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Differentially expressed repetitive elements were analyzed with edgeR ( 58 ) on the fractional counts data ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "edgeR"
+                }],
+              "neText" : "edgeR"
+            }]
+        }, {
+          "sentence" : "Duplicate reads were also removed using Picard for future analysis .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Duplicate reads were also removed using Picard for future analysis ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Picard"
+                }],
+              "neText" : "Picard"
+            }]
+        }, {
+          "sentence" : "Briefly , the annotations of repetitive elements ( from HOMER ) or protein-coding genes were intersected with LAD regions using the findOverlapPairs function in RBioconductor package GenomicRanges ( v1.36.0)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly , the annotations of repetitive elements ( from HOMER ) or protein-coding genes were intersected with LAD regions using the findOverlapPairs function in RBioconductor package GenomicRanges ( v1.36.0)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RBioconductor"
+                }],
+              "neText" : "RBioconductor"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GenomicRanges"
+                }],
+              "neText" : "GenomicRanges"
+            }]
+        }, {
+          "sentence" : "Determination of expression levels of LAD-localized repetitive elements To determine the expression levels of repetitive elements within LAD regions , cleaned reads from RNA-seq were realigned to the human hg19 genome using STAR ( v5.21 ) as previously described ( 61) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Determination of expression levels of LAD-localized repetitive elements To determine the expression levels of repetitive elements within LAD regions , cleaned reads from RNA-seq were realigned to the human hg19 genome using STAR ( v5.21 ) as previously described ( 61) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STAR"
+                }],
+              "neText" : "STAR"
+            }]
+        }, {
+          "sentence" : "Clean reads were then aligned to the human hg19 genome using Bowtie2 ( v2.2.9 ) with default parameters .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Clean reads were then aligned to the human hg19 genome using Bowtie2 ( v2.2.9 ) with default parameters ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bowtie2"
+                }],
+              "neText" : "Bowtie2"
+            }]
+        }, {
+          "sentence" : "Reads aligned to mitochondrial DNA ( chrM ) or with low mapping quality ( MAPQ score < 10 ) were removed using samtools ( v1.9 ) ( 62) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Reads aligned to mitochondrial DNA ( chrM ) or with low mapping quality ( MAPQ score < 10 ) were removed using samtools ( v1.9 ) ( 62) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "samtools"
+                }],
+              "neText" : "samtools"
+            }]
+        }, {
+          "sentence" : "Each read was extended by 250 bp and normalized by RPKM for each 10-bp using bamCoverage function in deepTools ( v3.3.0 ) software ( 63) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Each read was extended by 250 bp and normalized by RPKM for each 10-bp using bamCoverage function in deepTools ( v3.3.0 ) software ( 63) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "deepTools"
+                }],
+              "neText" : "deepTools"
+            }]
+        }, {
+          "sentence" : "Genome annotations for ATAC-seq peaks were performed using the annotatePeaks function in HOMER software (65).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Genome annotations for ATAC-seq peaks were performed using the annotatePeaks function in HOMER software (65)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HOMER"
+                }],
+              "neText" : "HOMER"
+            }]
+        }, {
+          "sentence" : "The RBioconductor package DiffBind (v2.12.0) (66) was used to identify differential peaks occupancy with the DESeq2 method.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The RBioconductor package DiffBind (v2.12.0) (66) was used to identify differential peaks occupancy with the DESeq2 method."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DiffBind"
+                }],
+              "neText" : "DiffBind"
+            }]
+        }, {
+          "sentence" : "Two-tailed Students t-test was conducted using the GraphPad Prism 8 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Two-tailed Students t-test was conducted using the GraphPad Prism 8 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "MATERIALS AND METHODS Animal experiments Animal experiments performed in this study were approved by the Chinese Academy of Sciences Institutional Animal Care and Use Committee.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MATERIALS AND METHODS Animal experiments Animal experiments performed in this study were approved by the Chinese Academy of Sciences Institutional Animal Care and Use Committee."
+              }]
+          }, {
+            "sentence" : "In brief , primary hMSCs were isolated under the approval of the ethics committee of 306th Hospital of PLA in Beijing .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In brief , primary hMSCs were isolated under the approval of the ethics committee of 306th Hospital of PLA in Beijing ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Then, the mixture was injected subcutaneously into the inguinal region of NODSCID mice (male, 6 weeks old).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Then, the mixture was injected subcutaneously into the inguinal region of NODSCID mice (male, 6 weeks old)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Then, the mixture was injected subcutaneously into the inguinal region of NODSCID mice (male, 6 weeks old).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Then, the mixture was injected subcutaneously into the inguinal region of NODSCID mice (male, 6 weeks old)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "To eliminate bias introduced by sequencing depth , replicates for each sample were merged and the same numbers of high-quality reads were randomly sampled for merged bams .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To eliminate bias introduced by sequencing depth , replicates for each sample were merged and the same numbers of high-quality reads were randomly sampled for merged bams ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each point of the standard curve and the cell samples were measured in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each point of the standard curve and the cell samples were measured in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Each point of the standard curve and the cell samples were measured in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each point of the standard curve and the cell samples were measured in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The RBioconductor package DESeq2 ( 56 ) was used to identify differentially expressed genes with a cutoff Benjamini-Hochberg adjust P-value less than 0.05 and log2 ( fold change ) > 0.58 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The RBioconductor package DESeq2 ( 56 ) was used to identify differentially expressed genes with a cutoff Benjamini-Hochberg adjust P-value less than 0.05 and log2 ( fold change ) > 0.58 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }]
+          }, {
+            "sentence" : "Two-tailed Students t-test was conducted using the GraphPad Prism 8 software.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two-tailed Students t-test was conducted using the GraphPad Prism 8 software."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t-test"
+                  }],
+                "neText" : "Students t-test"
+              }]
+          }]
+      }]
+  }
+}

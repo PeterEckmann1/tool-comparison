@@ -1,0 +1,328 @@
+{
+  "docIdentifier" : "PMC8232908",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "MATERIALS AND METHODS Acquisition and processing of sequencing datasets Raw sequences were downloaded and extracted using the Sequence Read Archive (SRA) Toolkit.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MATERIALS AND METHODS Acquisition and processing of sequencing datasets Raw sequences were downloaded and extracted using the Sequence Read Archive (SRA) Toolkit."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DDBJ Sequence Read Archive (RRID:SCR_001370)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sequence Read Archive"
+                }],
+              "neText" : "Sequence Read Archive"
+            }]
+        }, {
+          "sentence" : "Reads were trimmed and quality-filtered by TrimGalore!",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Reads were trimmed and quality-filtered by TrimGalore!"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TrimGalore"
+                }],
+              "neText" : "TrimGalore"
+            }]
+        }, {
+          "sentence" : "Methylation levels were extracted using Bismark v0.22.2 ( 68 ) in two separate processes: (i) For rDNA clocks, reads were mapped to the mouse rDNA sequence (BK000964.3), and (ii) for genomic clocks, reads were mapped to the complete mouse genome sequence (mm10GRCm38.p6).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Methylation levels were extracted using Bismark v0.22.2 ( 68 ) in two separate processes: (i) For rDNA clocks, reads were mapped to the mouse rDNA sequence (BK000964.3), and (ii) for genomic clocks, reads were mapped to the complete mouse genome sequence (mm10GRCm38.p6)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Bismark (RRID:SCR_005604)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bismark"
+                }],
+              "neText" : "Bismark"
+            }]
+        }, {
+          "sentence" : "In the case of dataset 6, we directly used the available BED (browser extensible data) files URLs were extracted from Gene Expression Omnibus (GEO) files.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In the case of dataset 6, we directly used the available BED (browser extensible data) files URLs were extracted from Gene Expression Omnibus (GEO) files."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Omnibus (GEO) (RRID:SCR_005012)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Omnibus"
+                }],
+              "neText" : "Gene Expression Omnibus"
+            }]
+        }, {
+          "sentence" : "Then, fivefold cross-validations were performed on all of the 166 samples for different l parameters of ElasticNet (Scikit-learn v0.23.2) to find the optimal l parameter (fig.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then, fivefold cross-validations were performed on all of the 166 samples for different l parameters of ElasticNet (Scikit-learn v0.23.2) to find the optimal l parameter (fig."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "scikit-learn (RRID:SCR_002577)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Scikit-learn"
+                }],
+              "neText" : "Scikit-learn"
+            }]
+        }, {
+          "sentence" : "Statistical analysis We used the Python packages SciPy (v1.3.1) and Scikit-learn (v0.23.2) for statistical analysis.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis We used the Python packages SciPy (v1.3.1) and Scikit-learn (v0.23.2) for statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "python-bx (RRID:SCR_024202)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SciPy (RRID:SCR_008058)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SciPy"
+                }],
+              "neText" : "SciPy"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "In the case of pluripotent stem cell datasets, we only analyzed ESCs derived from normal fertilized blastocysts and iPSCs derived from normal cells (i.e., immortalized cells were excluded).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In the case of pluripotent stem cell datasets, we only analyzed ESCs derived from normal fertilized blastocysts and iPSCs derived from normal cells (i.e., immortalized cells were excluded)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Then, we randomly assigned cells to two groups for each embryo stage (eight cell groups in total).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Then, we randomly assigned cells to two groups for each embryo stage (eight cell groups in total)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Methylated and unmethylated cytosines of technical repeats were summed for each position.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methylated and unmethylated cytosines of technical repeats were summed for each position."
+              }],
+            "mention" : {
+              "neText" : "repeats",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeats"
+                }]
+            }
+          }, {
+            "sentence" : "Methylated and unmethylated cytosines of technical repeats were summed for each position.",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methylated and unmethylated cytosines of technical repeats were summed for each position."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Development of a mouse multi-tissue rDNA clock A multi-tissue mouse RRBS dataset (GSE120132) was used for training and testing the clock by cross-validation.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Development of a mouse multi-tissue rDNA clock A multi-tissue mouse RRBS dataset (GSE120132) was used for training and testing the clock by cross-validation."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE120132"
+                  }],
+                "neText" : "GSE120132"
+              }]
+          }, {
+            "sentence" : "An additional blood mouse RRBS dataset (GSE80672) was used for testing samples of an independent study.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "An additional blood mouse RRBS dataset (GSE80672) was used for testing samples of an independent study."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE80672"
+                  }],
+                "neText" : "GSE80672"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Two-sided t test was calculated for comparing two groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two-sided t test was calculated for comparing two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }, {
+            "sentence" : "Correlations were evaluated by Pearson correlation coefficient (r) or Spearman rank correlation coefficient (Rho).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Correlations were evaluated by Pearson correlation coefficient (r) or Spearman rank correlation coefficient (Rho)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman rank correlation"
+                  }],
+                "neText" : "Spearman rank correlation"
+              }]
+          }]
+      }]
+  }
+}

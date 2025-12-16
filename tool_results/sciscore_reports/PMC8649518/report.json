@@ -1,0 +1,188 @@
+{
+  "docIdentifier" : "PMC8649518",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All statistical analyses were performed using STATA MP Software for macOS 13 (StatCorp, College Station, TX, version 13.1).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were performed using STATA MP Software for macOS 13 (StatCorp, College Station, TX, version 13.1)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata (RRID:SCR_012763)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATA"
+                }],
+              "neText" : "STATA"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study protocol was approved by Cleveland Clinic Institutional Review Board.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol was approved by Cleveland Clinic Institutional Review Board."
+              }]
+          }, {
+            "sentence" : "The requirement for informed consent was waived given the retrospective nature of this study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The requirement for informed consent was waived given the retrospective nature of this study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients without confirmed PE by imaging and without Doppler assessment of PASP or LVSV evaluated by PERT were excluded from analysis.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients without confirmed PE by imaging and without Doppler assessment of PASP or LVSV evaluated by PERT were excluded from analysis."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Normality was evaluated by the Shapiro-Wilks test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Normality was evaluated by the Shapiro-Wilks test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilks test"
+                  }],
+                "neText" : "Shapiro-Wilks test"
+              }]
+          }, {
+            "sentence" : "Categorical variables were evaluated by kh2, and continuous variables were evaluated by the Student t test for mean values or Wilcoxon rank-sum or Mann-Whitney U tests to compare medians.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Categorical variables were evaluated by kh2, and continuous variables were evaluated by the Student t test for mean values or Wilcoxon rank-sum or Mann-Whitney U tests to compare medians."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank-sum"
+                  }],
+                "neText" : "Wilcoxon rank-sum"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U tests"
+                  }],
+                "neText" : "Mann-Whitney U tests"
+              }]
+          }]
+      }]
+  }
+}

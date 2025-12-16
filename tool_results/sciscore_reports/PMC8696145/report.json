@@ -1,0 +1,177 @@
+{
+  "docIdentifier" : "PMC8696145",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data analysis was performed using SPSS version 24.0 (IBM Corp., Armonk, NY, USA), and a P-value ≤0.05 was considered to indicate statistical significance.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data analysis was performed using SPSS version 24.0 (IBM Corp., Armonk, NY, USA), and a P-value "
+            }, {
+              "f" : "symbol",
+              "c" : "≤"
+            }, {
+              "f" : "default",
+              "c" : "0.05 was considered to indicate statistical significance."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Compliance with Ethical Standards The ethics review board of the authors’ hospital (KBSMC, IRB No. 2020-07-049) approved this study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Compliance with Ethical Standards The ethics review board of the authors’ hospital (KBSMC, IRB No. 2020-07-049) approved this study."
+              }]
+          }, {
+            "sentence" : "The requirement for informed consent was waived because the study was retrospective in design.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The requirement for informed consent was waived because the study was retrospective in design."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Cases without SE images were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cases without SE images were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "A total of 38 cases (21 men and 17 women) involving ruptured epidermal cysts and 21 patients (7 men and 14 women) with superficial abscesses were enrolled in this study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 38 cases (21 men and 17 women) involving ruptured epidermal cysts and 21 patients (7 men and 14 women) with superficial abscesses were enrolled in this study."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Analysis of US Images Two musculoskeletal radiologists independently evaluated US images retrospectively, blinded to the pathology results.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Analysis of US Images Two musculoskeletal radiologists independently evaluated US images retrospectively, blinded to the pathology results."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "SE was obtained at least twice for each lesion to collect reproducible images.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "SE was obtained at least twice for each lesion to collect reproducible images."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Height, length, the ratio of height to length, and SE scores were compared between ruptured epidermal cysts and superficial abscesses using the Mann-Whitney U test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Height, length, the ratio of height to length, and SE scores were compared between ruptured epidermal cysts and superficial abscesses using the Mann-Whitney U test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }, {
+            "sentence" : "The more-than-half-depth sign and submarine sign were compared using the chi-square test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The more-than-half-depth sign and submarine sign were compared using the chi-square test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "docIdentifier" : "PMC8583180",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Five hundred base pairs upstream and downstream of SHOxi, including small overhangs (30 bp), were PCR amplified, the overhangs were annealed together, and then cloned into the integration vector pTA131 to build the knockout plasmid construct.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Five hundred base pairs upstream and downstream of SHOxi, including small overhangs (30 bp), were PCR amplified, the overhangs were annealed together, and then cloned into the integration vector pTA131 to build the knockout plasmid construct."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pTA131"
+                }],
+              "neText" : "pTA131"
+            }]
+        }, {
+          "sentence" : "Overexpression experiments A variant of the overexpression plasmid pTA1228 45 was built to prevent the introduction of an ATG at the beginning of SHOxi.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Overexpression experiments A variant of the overexpression plasmid pTA1228 45 was built to prevent the introduction of an ATG at the beginning of SHOxi."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pTA1228"
+                }],
+              "neText" : "pTA1228"
+            }]
+        }, {
+          "sentence" : "Binding site mutagenesis experiments Mutations within the stem-loop binding site of SHOxi were constructed using the Q5 Site-directed Mutagenesis kit (NEB) standard protocol on the previously described SHOxi overexpression construct (in pTA1300).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Binding site mutagenesis experiments Mutations within the stem-loop binding site of SHOxi were constructed using the Q5 Site-directed Mutagenesis kit (NEB) standard protocol on the previously described SHOxi overexpression construct (in pTA1300)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pTA1300"
+                }],
+              "neText" : "pTA1300"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Strand-specific libraries were prepared using the SMART-seq Ultralow RNA input kit (Takara), insert sizes checked with the Bioanalyzer RNA pico kit (Agilent), and either paired-end sequenced (2 x 150 bp) or single-end sequenced (100 bp) on the Illumina HiSeq 2500 platform at the Johns Hopkins University Genetic Resources Core Facility (GRCF).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Strand-specific libraries were prepared using the SMART-seq Ultralow RNA input kit (Takara), insert sizes checked with the Bioanalyzer RNA pico kit (Agilent), and either paired-end sequenced (2 x 150 bp) or single-end sequenced (100 bp) on the Illumina HiSeq 2500 platform at the Johns Hopkins University Genetic Resources Core Facility (GRCF)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Agilent 4100 MP-AES (RRID:SCR_019390)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Agilent"
+                }],
+              "neText" : "Agilent"
+            }]
+        }, {
+          "sentence" : "The program featureCounts was used to rapidly count reads that map to the NCBI H. volcanii annotation. featureCounts was run with strand-specific options on, paired-end mode on or off, multi-mapping off.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The program featureCounts was used to rapidly count reads that map to the NCBI H. volcanii annotation. featureCounts was run with strand-specific options on, paired-end mode on or off, multi-mapping off."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "featureCounts (RRID:SCR_012919)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "featureCounts"
+                }],
+              "neText" : "featureCounts"
+            }]
+        }, {
+          "sentence" : "The read counts were then used in the R differential expression software package DESeq2 46.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The read counts were then used in the R differential expression software package DESeq2 46."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq2"
+                }],
+              "neText" : "DESeq2"
+            }]
+        }, {
+          "sentence" : "Differential expression was calculated using ImageJ.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Differential expression was calculated using ImageJ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Options used were no-seed, 42degC temperature, no START.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Options used were no-seed, 42degC temperature, no START."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "START (RRID:SCR_009394)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "START"
+                }],
+              "neText" : "START"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "For SHOxi, we probed with g-P32 dATP randomly primed amplicons generated with custom primers.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For SHOxi, we probed with g-P32 dATP randomly primed amplicons generated with custom primers."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Counts were averaged and standard deviation calculated between replicates.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Counts were averaged and standard deviation calculated between replicates."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "RNA-seq data All raw reads and processed data from these experiments are available at the National Center for Biotechnology Information under GEO accession number GSE158891.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RNA-seq data All raw reads and processed data from these experiments are available at the National Center for Biotechnology Information under GEO accession number GSE158891."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "Samples were harvested at 0,15,30, and 60 minutes post-actD, extracted for RNA, and malic enzyme mRNA levels were measured with qRT-PCR at 0, 15, 30, and 60 minutes post-actD, in DSHOxi and wild type, under oxidative stress.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Samples were harvested at 0,15,30, and 60 minutes post-actD, extracted for RNA, and malic enzyme mRNA levels were measured with qRT-PCR at 0, 15, 30, and 60 minutes post-actD, in DSHOxi and wild type, under oxidative stress."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "0,15,30"
+                  }],
+                "neText" : "0,15,30"
+              }]
+          }, {
+            "sentence" : "RNA-seq data All raw reads and processed data from these experiments are available at the National Center for Biotechnology Information under GEO accession number GSE158891.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RNA-seq data All raw reads and processed data from these experiments are available at the National Center for Biotechnology Information under GEO accession number GSE158891."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE158891"
+                  }],
+                "neText" : "GSE158891"
+              }]
+          }]
+      }]
+  }
+}

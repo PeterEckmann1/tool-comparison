@@ -1,0 +1,170 @@
+{
+  "docIdentifier" : "PMC8203480",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Signal attenuation ratio The signal attenuation ratio was calculated as the signal intensity of the image obtained in the presence of the titanium mesh divided by the signal intensity obtained in the absence of the mesh on assessing these images directly using ImageJ ( Version 1.52a; National Institute of Health , Bethesda , MD , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Signal attenuation ratio The signal attenuation ratio was calculated as the signal intensity of the image obtained in the presence of the titanium mesh divided by the signal intensity obtained in the absence of the mesh on assessing these images directly using ImageJ ( Version 1.52a; National Institute of Health , Bethesda , MD , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Ethical consideration This study was approved by the Ethics Committee of Osaka Red Cross Hospital and performed using the opt-out method of the hospital website.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Ethical consideration This study was approved by the Ethics Committee of Osaka Red Cross Hospital and performed using the opt-out method of the hospital website."
+              }]
+          }, {
+            "sentence" : "A cubic bottle filled with 33 mg/L of manganese chloride tetrahydrate and 3.6 g/L of sodium chloride was used as a phantom (T1 relaxation time, 726.7 ms; T2 relaxation time, 92.6 ms) to mimic the human brain.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A cubic bottle filled with 33 mg/L of manganese chloride tetrahydrate and 3.6 g/L of sodium chloride was used as a phantom (T1 relaxation time, 726.7 ms; T2 relaxation time, 92.6 ms) to mimic the human brain."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis The Friedman test, Steel–Dwass multiple comparison test (for NAAD of four sequences in Table 1 and FA dependency in SE), and Wilcoxon signed-rank test (for NAAD of the area of excitation dependency) were used for statistical analyses (EZR Version 1.4.2; Jichi Medical University Saitama Medical Center, Saitama, Japan). 22 A P-value <0.05 was considered statistically significant.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis The Friedman test, Steel–Dwass multiple comparison test (for NAAD of four sequences in Table 1 and FA dependency in SE), and Wilcoxon signed-rank test (for NAAD of the area of excitation dependency) were used for statistical analyses (EZR Version 1.4.2; Jichi Medical University Saitama Medical Center, Saitama, Japan). 22 A P-value <0.05 was considered statistically significant."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Friedman test"
+                  }],
+                "neText" : "Friedman test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Steel–Dwass multiple comparison test"
+                  }],
+                "neText" : "Steel–Dwass multiple comparison test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed-rank test"
+                  }],
+                "neText" : "Wilcoxon signed-rank test"
+              }]
+          }]
+      }]
+  }
+}

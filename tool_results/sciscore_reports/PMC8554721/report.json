@@ -1,0 +1,190 @@
+{
+  "docIdentifier" : "PMC8554721",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Neoadjuvant treatment was administered increasingly as evidence supporting its usage evolved, in the form of MAGIC protocol8 chemotherapy for oesophageal adenocarcinoma in the form of epirubicin, cisplatin, and either fluorouracil or capecitabine.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Neoadjuvant treatment was administered increasingly as evidence supporting its usage evolved, in the form of MAGIC protocol8 chemotherapy for oesophageal adenocarcinoma in the form of epirubicin, cisplatin, and either fluorouracil or capecitabine."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Magic (RRID:SCR_006406)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MAGIC"
+                }],
+              "neText" : "MAGIC"
+            }]
+        }, {
+          "sentence" : "Statistical analysis SPSS V24 (IBM Corp, NY) was utilized for statistical analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis SPSS V24 (IBM Corp, NY) was utilized for statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients were excluded if they underwent procedures in addition to oesophagectomy at the time of operation.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were excluded if they underwent procedures in addition to oesophagectomy at the time of operation."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Non parametric continuous data were analyzed with the Mann-Whitney U test for dual variables, or Kruskal-Wallis test for multiple variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Non parametric continuous data were analyzed with the Mann-Whitney U test for dual variables, or Kruskal-Wallis test for multiple variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis test"
+                  }],
+                "neText" : "Kruskal-Wallis test"
+              }]
+          }, {
+            "sentence" : "Analyses of survival outcomes were assessed with the Kaplan-Meier method, and curves representing survival outcomes were assessed with the Breslow (Wilcoxon) test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Analyses of survival outcomes were assessed with the Kaplan-Meier method, and curves representing survival outcomes were assessed with the Breslow (Wilcoxon) test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon) test"
+                  }],
+                "neText" : "Wilcoxon) test"
+              }]
+          }]
+      }]
+  }
+}

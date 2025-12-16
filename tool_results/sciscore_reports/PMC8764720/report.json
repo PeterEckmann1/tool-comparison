@@ -1,0 +1,334 @@
+{
+  "docIdentifier" : "PMC8764720",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Analysis of the expression level of host genes observed in chimeric reads Gene expression profiles for two SARS-CoV-2 infected Caco-2 cell line samples (GSM4477888, GSM4477889), two SARS-CoV-2 infected Calu-3 cell line samples (GSM4477962, GSM4477963), and three SARS-CoV-2 infected Vero-6 cell line samples (GSM4916368, GSM4916369, GSM4916370) were downloaded from the GEO database.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Analysis of the expression level of host genes observed in chimeric reads Gene expression profiles for two SARS-CoV-2 infected Caco-2 cell line samples (GSM4477888, GSM4477889), two SARS-CoV-2 infected Calu-3 cell line samples (GSM4477962, GSM4477963), and three SARS-CoV-2 infected Vero-6 cell line samples (GSM4916368, GSM4916369, GSM4916370) were downloaded from the GEO database."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0025",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Caco-2"
+                }],
+              "neText" : "Caco-2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0609",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Calu-3"
+                }],
+              "neText" : "Calu-3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Vero-6"
+                }],
+              "neText" : "Vero-6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "METHODS Identification of host-virus chimeric reads in SARS-CoV-2 direct-RNA seq data The nanopore direct RNA-seq data from SARS-CoV-2 infected cell lines were downloaded from the NCBI SRA database (Supplementary Table 1).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "METHODS Identification of host-virus chimeric reads in SARS-CoV-2 direct-RNA seq data The nanopore direct RNA-seq data from SARS-CoV-2 infected cell lines were downloaded from the NCBI SRA database (Supplementary Table 1)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NCBI SRA"
+                }],
+              "neText" : "NCBI SRA"
+            }]
+        }, {
+          "sentence" : "All reads were quality trimmed using NanoFilt v2.8.0 (41), to remove the first 50 nucleotides of each read and require an average quality score of at least 10 over the length of the read.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All reads were quality trimmed using NanoFilt v2.8.0 (41), to remove the first 50 nucleotides of each read and require an average quality score of at least 10 over the length of the read."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "NanoFilt (RRID:SCR_016966)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NanoFilt"
+                }],
+              "neText" : "NanoFilt"
+            }]
+        }, {
+          "sentence" : "The short reads were first preprocessed with fastp v0.23.1 (44) and then mapped to the chimeric reads from the same samples by using Minimap2 v2.23 (42) with options -ax sr -w 5 to tolerate the high error rate of the Nanopore direct RNA-sequencing reads (45).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The short reads were first preprocessed with fastp v0.23.1 (44) and then mapped to the chimeric reads from the same samples by using Minimap2 v2.23 (42) with options -ax sr -w 5 to tolerate the high error rate of the Nanopore direct RNA-sequencing reads (45)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Minimap2 (RRID:SCR_018550)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Minimap2"
+                }],
+              "neText" : "Minimap2"
+            }]
+        }, {
+          "sentence" : "They were searched in the NCBI non-redundant nucleotide database and a collection of coronavirus genomes with BLASTN (E-value<=1e-2) (32) to explore their possible origins.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "They were searched in the NCBI non-redundant nucleotide database and a collection of coronavirus genomes with BLASTN (E-value<=1e-2) (32) to explore their possible origins."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLASTN"
+                }],
+              "neText" : "BLASTN"
+            }]
+        }, {
+          "sentence" : "The raw sequencing reads were processed for quality control using fastp v0.23.1 (44) with default parameters and mapped to the SARS-CoV-2 reference genome using BWA mem v0.7.17 (52).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The raw sequencing reads were processed for quality control using fastp v0.23.1 (44) with default parameters and mapped to the SARS-CoV-2 reference genome using BWA mem v0.7.17 (52)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BWA (RRID:SCR_010910)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BWA"
+                }],
+              "neText" : "BWA"
+            }]
+        }, {
+          "sentence" : "The alignment files were converted to FASTQ format using samtools fastq command v1.14 (54) and re-aligned to the consensus genomes with or without the insertion using bowtie v2.4.4 (45) (parameter: --xeq).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The alignment files were converted to FASTQ format using samtools fastq command v1.14 (54) and re-aligned to the consensus genomes with or without the insertion using bowtie v2.4.4 (45) (parameter: --xeq)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "samtools"
+                }],
+              "neText" : "samtools"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "bowtie"
+                }],
+              "neText" : "bowtie"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "To investigate if junctions tend to happen in non-stem regions, the number of junctions occurring in base-paired positions were calculated and compared with a background distribution for the numbers of junctions located in stems derived from a 1000-time random sampling of the same number of sites along the viral RNA strand.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To investigate if junctions tend to happen in non-stem regions, the number of junctions occurring in base-paired positions were calculated and compared with a background distribution for the numbers of junctions located in stems derived from a 1000-time random sampling of the same number of sites along the viral RNA strand."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Identification of insertions in SARS-CoV-2 genomes The SARS-CoV-2 genomes available at GISAID (https:www.gisaid.org) on 2021-12-17 were downloaded for analysis (n=6,163,073).",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Identification of insertions in SARS-CoV-2 genomes The SARS-CoV-2 genomes available at GISAID (https:www.gisaid.org) on 2021-12-17 were downloaded for analysis (n=6,163,073)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "To further examine which types of structural elements are over- or under-presented at junction sites in virus-host chimeric reads and in host-virus chimeric reads, one-sided Fishers exact test was performed.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To further examine which types of structural elements are over- or under-presented at junction sites in virus-host chimeric reads and in host-virus chimeric reads, one-sided Fishers exact test was performed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }, {
+            "sentence" : "To evaluate whether the expression level of the host protein-coding genes in chimeric reads is significantly greater than the expression level of the background gene set, a one-sided Mann-Whitney U test was performed for each sample.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To evaluate whether the expression level of the host protein-coding genes in chimeric reads is significantly greater than the expression level of the background gene set, a one-sided Mann-Whitney U test was performed for each sample."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "docIdentifier" : "PMC8321645",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data Analysis We analyzed fMRI data using the functional MRI of the brain (FMRIB) Software Library version 5.0.1, tool FEAT 6.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data Analysis We analyzed fMRI data using the functional MRI of the brain (FMRIB) Software Library version 5.0.1, tool FEAT 6.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FSL, RRID:SCR_002823",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FMRIB"
+                }],
+              "neText" : "FMRIB"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods The institutional ethics committee of Clinical Hospital of Sao Paulo University approved this study, clinical trial number U1111-1144-8754.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods The institutional ethics committee of Clinical Hospital of Sao Paulo University approved this study, clinical trial number U1111-1144-8754."
+              }]
+          }, {
+            "sentence" : "All participants provided written informed consent before undertaking any investigational procedures.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants provided written informed consent before undertaking any investigational procedures."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients with other neurologic conditions including migraine, as well as other otologic, psychiatric, cardiac, or unstable systemic diseases, motor limitations, uncorrected visual impairments, implanted metallic objects, history of claustrophobia, and those taking psychotropic drugs for any reason were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients with other neurologic conditions including migraine, as well as other otologic, psychiatric, cardiac, or unstable systemic diseases, motor limitations, uncorrected visual impairments, implanted metallic objects, history of claustrophobia, and those taking psychotropic drugs for any reason were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "31 Patients who had persistent dizziness despite initial treatment and met the Barany Societys definition for PPPD, 2 which was available in draft form at the start of this investigation, constituted the pool of potential subjects with PPPD.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "31 Patients who had persistent dizziness despite initial treatment and met the Barany Societys definition for PPPD, 2 which was available in draft form at the start of this investigation, constituted the pool of potential subjects with PPPD."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Female, right-handed subjects, 18 to 60 years old, were recruited from Neurotology Division of ENT Department of Clinical Hospital of Sao Paulo University if they were diagnosed with PPPD or had recovered fully from a disorder that manifested with acute vestibular symptoms or disturbance of balance.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Female, right-handed subjects, 18 to 60 years old, were recruited from Neurotology Division of ENT Department of Clinical Hospital of Sao Paulo University if they were diagnosed with PPPD or had recovered fully from a disorder that manifested with acute vestibular symptoms or disturbance of balance."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Female, right-handed subjects, 18 to 60 years old, were recruited from Neurotology Division of ENT Department of Clinical Hospital of Sao Paulo University if they were diagnosed with PPPD or had recovered fully from a disorder that manifested with acute vestibular symptoms or disturbance of balance.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Female, right-handed subjects, 18 to 60 years old, were recruited from Neurotology Division of ENT Department of Clinical Hospital of Sao Paulo University if they were diagnosed with PPPD or had recovered fully from a disorder that manifested with acute vestibular symptoms or disturbance of balance."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "We used the Student t -test to compare the average BOLD signal within each group for each block type and for block differences.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We used the Student t -test to compare the average BOLD signal within each group for each block type and for block differences."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t -test"
+                  }],
+                "neText" : "t -test"
+              }]
+          }]
+      }]
+  }
+}

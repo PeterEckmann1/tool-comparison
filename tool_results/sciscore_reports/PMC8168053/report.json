@@ -1,0 +1,398 @@
+{
+  "docIdentifier" : "PMC8168053",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Duplicate reads were marked by the Picard toolkit ( version 2.1.0 , Welcome Trust Sanger Institute , Welcome Trust Genome Campus , Cambridge , CB10 1SA , UK ) and then realigned using the Genome Analysis ToolKit ( version 3.7 , Program in Medical and Population Genetics , Broad Institute of Harvard and MIT , Cambridge , MA , USA) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Duplicate reads were marked by the Picard toolkit ( version 2.1.0 , Welcome Trust Sanger Institute , Welcome Trust Genome Campus , Cambridge , CB10 1SA , UK ) and then realigned using the Genome Analysis ToolKit ( version 3.7 , Program in Medical and Population Genetics , Broad Institute of Harvard and MIT , Cambridge , MA , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Picard"
+                }],
+              "neText" : "Picard"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Genome Analysis ToolKit"
+                }],
+              "neText" : "Genome Analysis ToolKit"
+            }]
+        }, {
+          "sentence" : ", AstraZeneca , Waltham , MA , USA) , and the variants were annotated using ANNOVAR ( Center for Applied Genomics , Childrens Hospital of Philadelphia , Philadelphia , PA , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", AstraZeneca , Waltham , MA , USA) , and the variants were annotated using ANNOVAR ( Center for Applied Genomics , Childrens Hospital of Philadelphia , Philadelphia , PA , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ANNOVAR (RRID:SCR_012821)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ANNOVAR"
+                }],
+              "neText" : "ANNOVAR"
+            }]
+        }, {
+          "sentence" : "Compound heterozygous mutations were merged with FreeBayes ( version 1.2.0 , Department of Biology , Boston College , Chestnut Hill , MA , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Compound heterozygous mutations were merged with FreeBayes ( version 1.2.0 , Department of Biology , Boston College , Chestnut Hill , MA , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FreeBayes (RRID:SCR_010761)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FreeBayes"
+                }],
+              "neText" : "FreeBayes"
+            }]
+        }, {
+          "sentence" : "Driver gene mutations and hotspot mutations included in the ExACCOSMIC database were filtered out .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Driver gene mutations and hotspot mutations included in the ExACCOSMIC database were filtered out ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ExACCOSMIC"
+                }],
+              "neText" : "ExACCOSMIC"
+            }]
+        }, {
+          "sentence" : "Reference genes and genome annotation files were available from the ENSEMBL website (http:www.ensembl.orgindex.html), and clean data were aligned to the reference genome by HISAT2 (http:ccb.jhu.edusoftwarehisat2index.shtml).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Reference genes and genome annotation files were available from the ENSEMBL website (http:www.ensembl.orgindex.html), and clean data were aligned to the reference genome by HISAT2 (http:ccb.jhu.edusoftwarehisat2index.shtml)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Ensembl (RRID:SCR_002344)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ENSEMBL"
+                }],
+              "neText" : "ENSEMBL"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HISAT2"
+                }],
+              "neText" : "HISAT2"
+            }]
+        }, {
+          "sentence" : "HTSeq (http:www.huber.embl.deusersandersHTSeqdocoverview.html) was used to determine the expression level of each gene.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HTSeq (http:www.huber.embl.deusersandersHTSeqdocoverview.html) was used to determine the expression level of each gene."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HTSeq"
+                }],
+              "neText" : "HTSeq"
+            }]
+        }, {
+          "sentence" : "Identification and functional enrichment analysis of differentially expressed genes (DEGs) Differential expression analysis of transcriptome sequencing data was performed using the DESeq2 package in R (www.r-project.org) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Identification and functional enrichment analysis of differentially expressed genes (DEGs) Differential expression analysis of transcriptome sequencing data was performed using the DESeq2 package in R (www.r-project.org) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq2"
+                }],
+              "neText" : "DESeq2"
+            }]
+        }, {
+          "sentence" : "Selected DEGs were compared with Gene ontology and Kyoto Encyclopedia of Genes and Genomes databases, and the enrichment analysis of DEGs was conducted using Metascape (http:metascape.org).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Selected DEGs were compared with Gene ontology and Kyoto Encyclopedia of Genes and Genomes databases, and the enrichment analysis of DEGs was conducted using Metascape (http:metascape.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Genomes"
+                }],
+              "neText" : "Genomes"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Metascape"
+                }],
+              "neText" : "Metascape"
+            }]
+        }, {
+          "sentence" : "Statistical analysis The data were analyzed using R 3.5.1 and IBM SPSS Statistics for Windows, Version 22.0 (IBM Corp., Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis The data were analyzed using R 3.5.1 and IBM SPSS Statistics for Windows, Version 22.0 (IBM Corp., Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The present study was approved by the Ethics Committee of Sichuan Cancer Hospital (SCCHEC-02-2018-021), and all participants signed written informed consent forms.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The present study was approved by the Ethics Committee of Sichuan Cancer Hospital (SCCHEC-02-2018-021), and all participants signed written informed consent forms."
+              }]
+          }, {
+            "sentence" : "The present study was approved by the Ethics Committee of Sichuan Cancer Hospital (SCCHEC-02-2018-021), and all participants signed written informed consent forms.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The present study was approved by the Ethics Committee of Sichuan Cancer Hospital (SCCHEC-02-2018-021), and all participants signed written informed consent forms."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The following patients were excluded: (1) those treated with chemotherapy or radiotherapy prior to surgery, (2) those with prior history of other malignant tumors, and (3) those treated without radical surgery for tumor removal.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The following patients were excluded: (1) those treated with chemotherapy or radiotherapy prior to surgery, (2) those with prior history of other malignant tumors, and (3) those treated without radical surgery for tumor removal."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The following patients were excluded: (1) those treated with chemotherapy or radiotherapy prior to surgery, (2) those with prior history of other malignant tumors, and (3) those treated without radical surgery for tumor removal.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The following patients were excluded: (1) those treated with chemotherapy or radiotherapy prior to surgery, (2) those with prior history of other malignant tumors, and (3) those treated without radical surgery for tumor removal."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Included patients in this study met the following criteria: (1) age <70 years, (2) diagnosed as pT3N0M0 ESCC, and (3) undergoing right thoracic radical resection.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Included patients in this study met the following criteria: (1) age <70 years, (2) diagnosed as pT3N0M0 ESCC, and (3) undergoing right thoracic radical resection."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The quantity and quality of the extracted DNA were determined using a Qubit 3.0 Fluorometer (Thermo Fisher Scientific, Waltham, MA, USA, Q33217) and Agilent 2100 Bioanalyzer (Agilent Technologies, Palo Alto, CA, USA, G2939A), respectively.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The quantity and quality of the extracted DNA were determined using a Qubit 3.0 Fluorometer (Thermo Fisher Scientific, Waltham, MA, USA, Q33217) and Agilent 2100 Bioanalyzer (Agilent Technologies, Palo Alto, CA, USA, G2939A), respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Q33217"
+                  }],
+                "neText" : "Q33217"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The Kaplan-Meier method and log-rank test were used for survival analysis and comparison, respectively.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Kaplan-Meier method and log-rank test were used for survival analysis and comparison, respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }, {
+            "sentence" : "The differences in SNV, CNV, TMB, MATH, and CNI between the different patient groups were analyzed by the Wilcoxon rank-sum test or Fishers exact test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The differences in SNV, CNV, TMB, MATH, and CNI between the different patient groups were analyzed by the Wilcoxon rank-sum test or Fishers exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank-sum test"
+                  }],
+                "neText" : "Wilcoxon rank-sum test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The captured library was further amplified using Illumina p5 ( 5 AAT GAT ACG GCG ACC ACC GA 3 ) and p7 ( 5 CAA GCA GAA GAC GGC ATA CGA GAT 3 ) primers in the KAPA Hifi HotStart ReadyMix ( KAPA Biosystems , KK2602 ) and purified with Agencourt AMPure XP beads .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The captured library was further amplified using Illumina p5 ( 5 AAT GAT ACG GCG ACC ACC GA 3 ) and p7 ( 5 CAA GCA GAA GAC GGC ATA CGA GAT 3 ) primers in the KAPA Hifi HotStart ReadyMix ( KAPA Biosystems , KK2602 ) and purified with Agencourt AMPure XP beads ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5 AAT GAT ACG GCG ACC ACC GA 3"
+                  }],
+                "neText" : "5 AAT GAT ACG GCG ACC ACC GA 3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAA GCA GAA GAC GGC ATA CGA GAT 3"
+                  }],
+                "neText" : "CAA GCA GAA GAC GGC ATA CGA GAT 3"
+              }]
+          }]
+      }]
+  }
+}

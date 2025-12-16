@@ -1,0 +1,362 @@
+{
+  "docIdentifier" : "PMC8365334",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The efficiency of these isolations was routinely higher than 90 as assessed by flow cytometry using antibodies for CD4 and CD8 .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The efficiency of these isolations was routinely higher than 90 as assessed by flow cytometry using antibodies for CD4 and CD8 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD4"
+                }],
+              "neText" : "CD4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD8"
+                }],
+              "neText" : "CD8"
+            }]
+        }, {
+          "sentence" : "CFSE-labeled CD8+ cells stained with CFSE and the APCs were plated with anti-CD3e antibody ( clone 145-2C11 , TONBO Biosciences , USA ) at 0.5 mgmL .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "CFSE-labeled CD8+ cells stained with CFSE and the APCs were plated with anti-CD3e antibody ( clone 145-2C11 , TONBO Biosciences , USA ) at 0.5 mgmL ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD3e"
+                }],
+              "neText" : "anti-CD3e"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Mice (n = 10 per group) were injected into the right flank s.c. with 5 x 104 B16F10 cells in 100 mL of PBS, then treated on days 1, 4, and 7 post-implantation with 1 x 106 irradiated B16F10-GVAX cells (50 Gy) on the left flank of the animals and intraperitoneal (i.p.) injection of aptamers (250 pmol).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Mice (n = 10 per group) were injected into the right flank s.c. with 5 x 104 B16F10 cells in 100 mL of PBS, then treated on days 1, 4, and 7 post-implantation with 1 x 106 irradiated B16F10-GVAX cells (50 Gy) on the left flank of the animals and intraperitoneal (i.p.) injection of aptamers (250 pmol)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0159",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "B16F10"
+                }],
+              "neText" : "B16F10"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "B16F10-GVAX"
+                }],
+              "neText" : "B16F10-GVAX"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Animal studies The animals used in this work were 6- to 8-week-old male C57BL6 mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Animal studies The animals used in this work were 6- to 8-week-old male C57BL6 mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Viral production and titration Viral vectors were generated from a pLKO backbone with the reporter CD90.1",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Viral production and titration Viral vectors were generated from a pLKO backbone with the reporter CD90.1"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_21964",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLKO"
+                }],
+              "neText" : "pLKO"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "55 The RNAi candidates with high affinity for the chosen regions were analyzed by BLAT 56 and checked for low predicted off-target effects.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "55 The RNAi candidates with high affinity for the chosen regions were analyzed by BLAT 56 and checked for low predicted off-target effects."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BLAT (RRID:SCR_011919)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLAT"
+                }],
+              "neText" : "BLAT"
+            }]
+        }, {
+          "sentence" : "The methylation analyses were done with the Bisulfite sequencing DNA Methylation Analysis ( BISMA ) tool .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The methylation analyses were done with the Bisulfite sequencing DNA Methylation Analysis ( BISMA ) tool ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BISMA (RRID:SCR_000688)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BISMA"
+                }],
+              "neText" : "BISMA"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Data were analyzed with Prism 7.0 (GraphPad).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Data were analyzed with Prism 7.0 (GraphPad)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prism"
+                }],
+              "neText" : "Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Approval of the ethics and biosafety committees This study was approved by the Commission for Ethics in the Use of Animals of UNICAMP ( protocol no. 2661-1 ) and the Internal Commission of Biosafety of CNPEM ( file no. MCB3-090114)",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Approval of the ethics and biosafety committees This study was approved by the Commission for Ethics in the Use of Animals of UNICAMP ( protocol no. 2661-1 ) and the Internal Commission of Biosafety of CNPEM ( file no. MCB3-090114)"
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Immunomagnetic isolation of primary CD4 and CD8 T cells Isolation of CD4 and CD8 was performed from spleens of 8- to 12-week-old C57BL6 male mice.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Immunomagnetic isolation of primary CD4 and CD8 T cells Isolation of CD4 and CD8 was performed from spleens of 8- to 12-week-old C57BL6 male mice."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Immunomagnetic isolation of primary CD4 and CD8 T cells Isolation of CD4 and CD8 was performed from spleens of 8- to 12-week-old C57BL6 male mice.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Immunomagnetic isolation of primary CD4 and CD8 T cells Isolation of CD4 and CD8 was performed from spleens of 8- to 12-week-old C57BL6 male mice."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Mean similarity was calculated using Pearsons correlation coefficient .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mean similarity was calculated using Pearsons correlation coefficient ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearsons correlation"
+                  }],
+                "neText" : "Pearsons correlation"
+              }]
+          }, {
+            "sentence" : "Statistical significance was determined by unidirectional ANOVA and Dunnetts multiple comparison test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical significance was determined by unidirectional ANOVA and Dunnetts multiple comparison test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnetts multiple comparison test"
+                  }],
+                "neText" : "Dunnetts multiple comparison test"
+              }]
+          }, {
+            "sentence" : "The Mantel-Cox log-rank test was used to compare survival curves for different groups (*p <= 0.05, **p <= 0.005, ***p <= 0.001).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Mantel-Cox log-rank test was used to compare survival curves for different groups (*p <= 0.05, **p <= 0.005, ***p <= 0.001)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mantel-Cox log-rank test"
+                  }],
+                "neText" : "Mantel-Cox log-rank test"
+              }]
+          }]
+      }]
+  }
+}

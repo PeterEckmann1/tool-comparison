@@ -1,0 +1,231 @@
+{
+  "docIdentifier" : "PMC8862423",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The demographic and clinical variables analyzed were: sex, age at onset, AChR and MuSK antibody positivity, severity and distribution of muscle weakness according to the Myasthenia Gravis Foundation of America (MGFA) clinical classification 12 at onset and at maximal worsening, frequency of life-threatening events (defined as MGFA IVB and V) and myasthenic crises (MGFA V) at onset and at maximal worsening, generalization--defined as patients with a focal ocular form of the disease at onset (MGFA I) but later generalized (MGFA II or higher), thymoma defined by pathologic study in patients undergoing thymectomy and by thoracic CT in the others, thymectomy, follow-up time defined as the difference between the follow-up deadline or date of death and the date of diagnosis, and clinical outcome according to the MGFA post-intervention status (MGFA-PIS) 12 at the end of follow-up.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The demographic and clinical variables analyzed were: sex, age at onset, AChR and MuSK antibody positivity, severity and distribution of muscle weakness according to the Myasthenia Gravis Foundation of America (MGFA) clinical classification 12 at onset and at maximal worsening, frequency of life-threatening events (defined as MGFA IVB and V) and myasthenic crises (MGFA V) at onset and at maximal worsening, generalization--defined as patients with a focal ocular form of the disease at onset (MGFA I) but later generalized (MGFA II or higher), thymoma defined by pathologic study in patients undergoing thymectomy and by thoracic CT in the others, thymectomy, follow-up time defined as the difference between the follow-up deadline or date of death and the date of diagnosis, and clinical outcome according to the MGFA post-intervention status (MGFA-PIS) 12 at the end of follow-up."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MuSK"
+                }],
+              "neText" : "MuSK"
+            }]
+        }, {
+          "sentence" : "MG standard of care in Spain The current Standard of care to treat MG in Spain includes: (1) acetylcholinesterase inhibitors as symptomatic therapy (2) immunosuppressive drugs, being steroids the first-line immunosuppressive treatment, azathioprine and mycophenolate mofetil as second line immunosuppressors or steroid-sparing agents, and others (cyclosporine, tacrolimus, rituximab, methotrexate, and cyclophosphamide) in case of side effects or lack of response (3) thymectomy, performed in patients with thymoma and also in patients younger than 65 years with anti-AChR antibodies and no thymoma and (4) immunomodulatory therapies (intravenous immunoglobulin and plasma exchange), predominantly used in acute worsening or MG crisis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MG standard of care in Spain The current Standard of care to treat MG in Spain includes: (1) acetylcholinesterase inhibitors as symptomatic therapy (2) immunosuppressive drugs, being steroids the first-line immunosuppressive treatment, azathioprine and mycophenolate mofetil as second line immunosuppressors or steroid-sparing agents, and others (cyclosporine, tacrolimus, rituximab, methotrexate, and cyclophosphamide) in case of side effects or lack of response (3) thymectomy, performed in patients with thymoma and also in patients younger than 65 years with anti-AChR antibodies and no thymoma and (4) immunomodulatory therapies (intravenous immunoglobulin and plasma exchange), predominantly used in acute worsening or MG crisis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-AChR"
+                }],
+              "neText" : "anti-AChR"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data analysis was carried out using the STATA 13 software for Windows (StataCorp LP, College Station, TX).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data analysis was carried out using the STATA 13 software for Windows (StataCorp LP, College Station, TX)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata (RRID:SCR_012763)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATA"
+                }],
+              "neText" : "STATA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata, RRID:SCR_012763",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StataCorp"
+                }],
+              "neText" : "StataCorp"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "7 Standard protocol approvals and patient consents All participating centers obtained approval from their corresponding ethics committees to participate in the NMD-ES Registry, and all patients signed an informed consent form for use of their data for scientific purposes.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "7 Standard protocol approvals and patient consents All participating centers obtained approval from their corresponding ethics committees to participate in the NMD-ES Registry, and all patients signed an informed consent form for use of their data for scientific purposes."
+              }]
+          }, {
+            "sentence" : "7 Standard protocol approvals and patient consents All participating centers obtained approval from their corresponding ethics committees to participate in the NMD-ES Registry, and all patients signed an informed consent form for use of their data for scientific purposes.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "7 Standard protocol approvals and patient consents All participating centers obtained approval from their corresponding ethics committees to participate in the NMD-ES Registry, and all patients signed an informed consent form for use of their data for scientific purposes."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "We excluded patients lost to follow-up and patients for whom relevant information was missing.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We excluded patients lost to follow-up and patients for whom relevant information was missing."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Data availability statement The data that support the findings of this study are available upon request from the corresponding author.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data availability statement The data that support the findings of this study are available upon request from the corresponding author."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences in baseline characteristics between patient subgroups were evaluated using the chi-squared test to compare categorical variables, and Students t test to compare quantitative variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences in baseline characteristics between patient subgroups were evaluated using the chi-squared test to compare categorical variables, and Students t test to compare quantitative variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared test"
+                  }],
+                "neText" : "chi-squared test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }]
+      }]
+  }
+}

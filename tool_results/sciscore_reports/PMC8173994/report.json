@@ -1,0 +1,154 @@
+{
+  "docIdentifier" : "PMC8173994",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis was performed using Matlab R2020a (The MathWorks Inc., Natick, MA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis was performed using Matlab R2020a (The MathWorks Inc., Natick, MA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB (RRID:SCR_001622)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Matlab"
+                }],
+              "neText" : "Matlab"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Patient Population This retrospective study was approved by the institutional review board, with waiver of informed consent.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Patient Population This retrospective study was approved by the institutional review board, with waiver of informed consent."
+              }]
+          }, {
+            "sentence" : "Materials and Methods Patient Population This retrospective study was approved by the institutional review board, with waiver of informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Patient Population This retrospective study was approved by the institutional review board, with waiver of informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Inclusion criteria were the following: patients age >18 years, liver fat content <5.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria were the following: patients age >18 years, liver fat content <5."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Inclusion criteria were the following: patients age >18 years, liver fat content <5.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria were the following: patients age >18 years, liver fat content <5."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The comparison among the mean values of VIC extracted from ROIs on the non-enhanced scan and on the 3 different post-contrast scans was performed using the Friedmans test followed by Bonferroni-adjusted Wilcoxon signed-rank test for post-hoc analysis, carrying out a separate analysis of the values obtained in the left and right lobes.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The comparison among the mean values of VIC extracted from ROIs on the non-enhanced scan and on the 3 different post-contrast scans was performed using the Friedmans test followed by Bonferroni-adjusted Wilcoxon signed-rank test for post-hoc analysis, carrying out a separate analysis of the values obtained in the left and right lobes."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Friedmans test"
+                  }],
+                "neText" : "Friedmans test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed-rank test"
+                  }],
+                "neText" : "Wilcoxon signed-rank test"
+              }]
+          }]
+      }]
+  }
+}

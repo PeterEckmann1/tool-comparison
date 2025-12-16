@@ -1,0 +1,528 @@
+{
+  "docIdentifier" : "PMC8201472",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "After the membranes were blocked with 5 skimmed milk for 2 h at room temperature, they were cultured with anti-FOXO3 (cat. no. ab70315 1:2,000 Abcam) and anti-GAPDH (cat. no. ab9485 1:2,500 Abcam) antibodies overnight at 4degC.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After the membranes were blocked with 5 skimmed milk for 2 h at room temperature, they were cultured with anti-FOXO3 (cat. no. ab70315 1:2,000 Abcam) and anti-GAPDH (cat. no. ab9485 1:2,500 Abcam) antibodies overnight at 4degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-FOXO3"
+                }],
+              "neText" : "anti-FOXO3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GAPDH"
+                }],
+              "neText" : "anti-GAPDH"
+            }]
+        }, {
+          "sentence" : "Then, the membrane was incubated with a goat anti-rabbit HRP-conjugated secondary antibody (cat. no. ab205718 1:2,000 Abcam) at room temperature for 1 h.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then, the membrane was incubated with a goat anti-rabbit HRP-conjugated secondary antibody (cat. no. ab205718 1:2,000 Abcam) at room temperature for 1 h."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "N2a cells (2x107) after indicated transfection were cross-linked with 0.75 formaldehyde.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "N2a cells (2x107) after indicated transfection were cross-linked with 0.75 formaldehyde."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "N2a"
+                }],
+              "neText" : "N2a"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "The Experimental Animal Center of the Chinese Academy of Medical Sciences (Beijing, China) provided 90 male C57BL6J mice (age, 8-10 weeks body weight, 22-30 g) for the current experiments.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Experimental Animal Center of the Chinese Academy of Medical Sciences (Beijing, China) provided 90 male C57BL6J mice (age, 8-10 weeks body weight, 22-30 g) for the current experiments."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6J"
+                }],
+              "neText" : "C57BL6J"
+            }]
+        }, {
+          "sentence" : "The mouse neuroblastoma cell line N2a was obtained from the American Type Culture Collection , and was cultured in DMEM ( Gibco Thermo Fisher Scientific , Inc . ) containing 10 FBS ( Gibco Thermo Fisher Scientific , Inc . ) , 1 penicillinstreptomycin ( Gibco Thermo Fisher Scientific , Inc . ) at 37degC with 5 CO2 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The mouse neuroblastoma cell line N2a was obtained from the American Type Culture Collection , and was cultured in DMEM ( Gibco Thermo Fisher Scientific , Inc . ) containing 10 FBS ( Gibco Thermo Fisher Scientific , Inc . ) , 1 penicillinstreptomycin ( Gibco Thermo Fisher Scientific , Inc . ) at 37degC with 5 CO2 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "N2a"
+                }],
+              "neText" : "N2a"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Ltd. miR-27a-3p mimics and inhibitors , as well as their corresponding NCs ( NC mimics , NC inhibitor at a concentration of 5 uM) , pcDNA3.1FOXO3 , pcDNA3.1 and pcDNA3.1XIST were purchased from Shanghai GenePharma Co . , Ltd.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Ltd. miR-27a-3p mimics and inhibitors , as well as their corresponding NCs ( NC mimics , NC inhibitor at a concentration of 5 uM) , pcDNA3.1FOXO3 , pcDNA3.1 and pcDNA3.1XIST were purchased from Shanghai GenePharma Co . , Ltd."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_100544",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1"
+                }],
+              "neText" : "pcDNA3.1"
+            }]
+        }, {
+          "sentence" : "miR-27a-3p mimics and inhibitor , NC mimics , NC inhibitor , pcDNA3.1FOXO3 , pcDNA3.1 and pcDNA3.1XIST are provided in Tables I-III .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "miR-27a-3p mimics and inhibitor , NC mimics , NC inhibitor , pcDNA3.1FOXO3 , pcDNA3.1 and pcDNA3.1XIST are provided in Tables I-III ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1FOXO3"
+                }],
+              "neText" : "pcDNA3.1FOXO3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1XIST"
+                }],
+              "neText" : "pcDNA3.1XIST"
+            }]
+        }, {
+          "sentence" : "Luciferase reporter assay The sequences of XIST or FOXO3 were inserted into the luciferase reporter vector pmirGLO (Promega Corporation) to construct pmirGLO-XIST-wild-type (WT) or pmirGLO-FOXO3-WT reporters.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Luciferase reporter assay The sequences of XIST or FOXO3 were inserted into the luciferase reporter vector pmirGLO (Promega Corporation) to construct pmirGLO-XIST-wild-type (WT) or pmirGLO-FOXO3-WT reporters."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pmirGLO"
+                }],
+              "neText" : "pmirGLO"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pmirGLO-XIST-wild-type"
+                }],
+              "neText" : "pmirGLO-XIST-wild-type"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pmirGLO-FOXO3-WT"
+                }],
+              "neText" : "pmirGLO-FOXO3-WT"
+            }]
+        }, {
+          "sentence" : "The reporters of pmirGLO-XIST-mutant (MUT) or pmirGLO-FOXO3-MUT were generated by site-directed mutagenesis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The reporters of pmirGLO-XIST-mutant (MUT) or pmirGLO-FOXO3-MUT were generated by site-directed mutagenesis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pmirGLO-FOXO3-MUT"
+                }],
+              "neText" : "pmirGLO-FOXO3-MUT"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Stained images were captured with a camera , and the infarct area was measured with ImageJ version 6.0 software ( National Institutes of Health) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Stained images were captured with a camera , and the infarct area was measured with ImageJ version 6.0 software ( National Institutes of Health) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "The target genes of miR-27a-3p were identified using the TargetScan database ( version 7.2 http:www.targetscan.org).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The target genes of miR-27a-3p were identified using the TargetScan database ( version 7.2 http:www.targetscan.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }]
+        }, {
+          "sentence" : "The data of flow cytometry were analyzed using Flowing version 2.5.1 software (Turku Bioscience) and Origin version 8 software (OriginLab).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The data of flow cytometry were analyzed using Flowing version 2.5.1 software (Turku Bioscience) and Origin version 8 software (OriginLab)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Flowing"
+                }],
+              "neText" : "Flowing"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Origin"
+                }],
+              "neText" : "Origin"
+            }]
+        }, {
+          "sentence" : "The Quantity One software (4.5.0 basic Bio-Rad Laboratories, Inc.) was used for the semi-quantification of protein expression.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Quantity One software (4.5.0 basic Bio-Rad Laboratories, Inc.) was used for the semi-quantification of protein expression."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Quantity One"
+                }],
+              "neText" : "Quantity One"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Bio-Rad Laboratories (RRID:SCR_008426)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bio-Rad Laboratories"
+                }],
+              "neText" : "Bio-Rad Laboratories"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Statistical analysis was performed with GraphPad Prism 5 software (GraphPad Software, Inc.).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Statistical analysis was performed with GraphPad Prism 5 software (GraphPad Software, Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and methods Experimental animals and middle cerebral artery occlusion (MCAO) model All animal experiments were performed with the approval and in accordance with standard principles approved by the Institutional Animal Care and Use Committee of China Resources & WISCO General Hospital (approval no. 2020-005 Hubei, China).",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Experimental animals and middle cerebral artery occlusion (MCAO) model All animal experiments were performed with the approval and in accordance with standard principles approved by the Institutional Animal Care and Use Committee of China Resources & WISCO General Hospital (approval no. 2020-005 Hubei, China)."
+              }]
+          }, {
+            "sentence" : "After anesthesia with pentobarbital sodium (45 mgkg), a monofilament nylon suture was inserted into the internal carotid artery through the external carotid artery, followed by occluding the origin of the MCA.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After anesthesia with pentobarbital sodium (45 mgkg), a monofilament nylon suture was inserted into the internal carotid artery through the external carotid artery, followed by occluding the origin of the MCA."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Mice that died or failed to show an 80 reduction in cerebral blood flow after occlusion were excluded from the following experiments.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice that died or failed to show an 80 reduction in cerebral blood flow after occlusion were excluded from the following experiments."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The Experimental Animal Center of the Chinese Academy of Medical Sciences (Beijing, China) provided 90 male C57BL6J mice (age, 8-10 weeks body weight, 22-30 g) for the current experiments.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Experimental Animal Center of the Chinese Academy of Medical Sciences (Beijing, China) provided 90 male C57BL6J mice (age, 8-10 weeks body weight, 22-30 g) for the current experiments."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The Experimental Animal Center of the Chinese Academy of Medical Sciences (Beijing, China) provided 90 male C57BL6J mice (age, 8-10 weeks body weight, 22-30 g) for the current experiments.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Experimental Animal Center of the Chinese Academy of Medical Sciences (Beijing, China) provided 90 male C57BL6J mice (age, 8-10 weeks body weight, 22-30 g) for the current experiments."
+              }]
+          }, {
+            "sentence" : "The Experimental Animal Center of the Chinese Academy of Medical Sciences (Beijing, China) provided 90 male C57BL6J mice (age, 8-10 weeks body weight, 22-30 g) for the current experiments.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Experimental Animal Center of the Chinese Academy of Medical Sciences (Beijing, China) provided 90 male C57BL6J mice (age, 8-10 weeks body weight, 22-30 g) for the current experiments."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "In total, five wells were randomly selected for each treatment group.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In total, five wells were randomly selected for each treatment group."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Neurological scores were assessed at 24 , 48 and 72 h after MCAO by technicians blinded to the treatment groups .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Neurological scores were assessed at 24 , 48 and 72 h after MCAO by technicians blinded to the treatment groups ."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Western blot analysis Western blot analysis was repeated three times in this study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Western blot analysis Western blot analysis was repeated three times in this study."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "Western blot analysis Western blot analysis was repeated three times in this study.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Western blot analysis Western blot analysis was repeated three times in this study."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical significance between two different groups was evaluated using an unpaired Students t-tests, while differences among >2 groups were determined according to one-way ANOVA followed by Tukeys post hoc test.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical significance between two different groups was evaluated using an unpaired Students t-tests, while differences among >2 groups were determined according to one-way ANOVA followed by Tukeys post hoc test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys post hoc test"
+                  }],
+                "neText" : "Tukeys post hoc test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "miR-27a-3p F , 5-TTCACAGTGGCTAAGTTCCGC- 3 and R , 5-CTCTACAGCTATATTGCCAGCC AC-3 FOXO3 F , 5-ATCTACGAGTGGATGGTGC-3 and R , 5-CCGGATGGAGTTCTTCCAG-3 GAPDH F , 5-GATCATCAGCAATGCCTCC-3 and R , 5-TCCACGATACCAAAGTTGTC-3 and U6 F , 5-CAATACAGAGAAAGTTAGCACG -3 and R , 5-AATGCTTCAAAGAGTTGTGC-3 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "miR-27a-3p F , 5-TTCACAGTGGCTAAGTTCCGC- 3 and R , 5-CTCTACAGCTATATTGCCAGCC AC-3 FOXO3 F , 5-ATCTACGAGTGGATGGTGC-3 and R , 5-CCGGATGGAGTTCTTCCAG-3 GAPDH F , 5-GATCATCAGCAATGCCTCC-3 and R , 5-TCCACGATACCAAAGTTGTC-3 and U6 F , 5-CAATACAGAGAAAGTTAGCACG -3 and R , 5-AATGCTTCAAAGAGTTGTGC-3 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CCGGATGGAGTTCTTCCAG-3 GAPDH F ,"
+                  }],
+                "neText" : "5-CCGGATGGAGTTCTTCCAG-3 GAPDH F ,"
+              }]
+          }]
+      }]
+  }
+}

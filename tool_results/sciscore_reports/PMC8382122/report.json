@@ -1,0 +1,297 @@
+{
+  "docIdentifier" : "PMC8382122",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Following three washes with PBS-T, 100 mL of HRP-labelled Rabbit Anti-Deer IgG (H+L) secondary antibody (95058-328, VWR, Batavia, IL, USA) diluted 1:1000 (100ngmL) was added to each well and incubated for 1 hour at RT.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Following three washes with PBS-T, 100 mL of HRP-labelled Rabbit Anti-Deer IgG (H+L) secondary antibody (95058-328, VWR, Batavia, IL, USA) diluted 1:1000 (100ngmL) was added to each well and incubated for 1 hour at RT."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-Deer IgG"
+                }],
+              "neText" : "Anti-Deer IgG"
+            }]
+        }, {
+          "sentence" : "Indirect ELISA was used to detect Bovine Coronavirus (BCoV) antibodies in sera with Spike (S) recombinant viral protein (LSBio, LS-G64076-20, Seattle, WA, USA) using the methods described above.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Indirect ELISA was used to detect Bovine Coronavirus (BCoV) antibodies in sera with Spike (S) recombinant viral protein (LSBio, LS-G64076-20, Seattle, WA, USA) using the methods described above."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BCoV"
+                }],
+              "neText" : "BCoV"
+            }]
+        }, {
+          "sentence" : "SARS-CoV-2-specific immunohistochemistry (IHC) IHC was performed as previously described 11 on four-micron sections of formalin-fixed paraffin-embedded tissue mounted on positively charged Superfrost(r) Plus slides and subjected to IHC using a SARS-CoV-2-specific anti-nucleocapsid rabbit polyclonal antibody (3A, developed by our laboratory) with the method previously described 12 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "SARS-CoV-2-specific immunohistochemistry (IHC) IHC was performed as previously described 11 on four-micron sections of formalin-fixed paraffin-embedded tissue mounted on positively charged Superfrost(r) Plus slides and subjected to IHC using a SARS-CoV-2-specific anti-nucleocapsid rabbit polyclonal antibody (3A, developed by our laboratory) with the method previously described 12 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-nucleocapsid"
+                }],
+              "neText" : "anti-nucleocapsid"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "To determine infectious virus titers of virus stocks and study samples, 10-fold serial dilutions were performed on Vero-E6TMPRSS2 cells.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To determine infectious virus titers of virus stocks and study samples, 10-fold serial dilutions were performed on Vero-E6TMPRSS2 cells."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Vero-E6TMPRSS2"
+                }],
+              "neText" : "Vero-E6TMPRSS2"
+            }]
+        }, {
+          "sentence" : "Selected swab and tissue homogenate samples were tested for viable virus by culture on Vero E6TMPRRS2 cells.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Selected swab and tissue homogenate samples were tested for viable virus by culture on Vero E6TMPRRS2 cells."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Vero E6TMPRRS2"
+                }],
+              "neText" : "Vero E6TMPRRS2"
+            }]
+        }, {
+          "sentence" : "Susceptibility of cervid cells to SARS-CoV-2 The SARS-CoV-2 USA-WA12020 strain was passaged 3 times in Vero-E6 cells to establish a stock virus for infection experiments.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Susceptibility of cervid cells to SARS-CoV-2 The SARS-CoV-2 USA-WA12020 strain was passaged 3 times in Vero-E6 cells to establish a stock virus for infection experiments."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0574",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Vero-E6"
+                }],
+              "neText" : "Vero-E6"
+            }]
+        }, {
+          "sentence" : "Cell supernatants were titrated on Vero E6 cells to determine TCID50mL.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell supernatants were titrated on Vero E6 cells to determine TCID50mL."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0574",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Vero E6"
+                }],
+              "neText" : "Vero E6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Swabs were placed in 2mL of viral transport medium (DMEM, Corning combined with 1 antibiotic-antimycotic, ThermoFisher), vortexed, and aliquoted directly into cryovials and RNA stabilizationlysis Buffer RLT (Qiagen, Germantown, MD, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Swabs were placed in 2mL of viral transport medium (DMEM, Corning combined with 1 antibiotic-antimycotic, ThermoFisher), vortexed, and aliquoted directly into cryovials and RNA stabilizationlysis Buffer RLT (Qiagen, Germantown, MD, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ThermoFisher Connect Platform  (RRID:SCR_023441)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ThermoFisher"
+                }],
+              "neText" : "ThermoFisher"
+            }]
+        }, {
+          "sentence" : "A word size of 40 was used for the BLAST analysis in order to exclude reads where the target mutation fell at the end of a read or reads that partially covered the target sequence.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A word size of 40 was used for the BLAST analysis in order to exclude reads where the target mutation fell at the end of a read or reads that partially covered the target sequence."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "WU-BLAST (RRID:SCR_011824)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLAST"
+                }],
+              "neText" : "BLAST"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Ethics statement All animal studies and experiments were approved and performed under the Kansas State University (KSU) Institutional Biosafety Committee (IBC, Protocol 1460) and the Institutional Animal Care and Use Committee (IACUC, Protocol 4468) in compliance with the Animal Welfare Act.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ethics statement All animal studies and experiments were approved and performed under the Kansas State University (KSU) Institutional Biosafety Committee (IBC, Protocol 1460) and the Institutional Animal Care and Use Committee (IACUC, Protocol 4468) in compliance with the Animal Welfare Act."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "A word size of 40 was used for the BLAST analysis in order to exclude reads where the target mutation fell at the end of a read or reads that partially covered the target sequence.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A word size of 40 was used for the BLAST analysis in order to exclude reads where the target mutation fell at the end of a read or reads that partially covered the target sequence."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Five of the six deer were pregnant the number of fetuses per deer are indicated in Table 1.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Five of the six deer were pregnant the number of fetuses per deer are indicated in Table 1."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Virus challenge of animals Six female white-tailed deer (WTD), approximately 2 years of age, were acquired from a Kansas deer farm (Muddy Creek Whitetails, KS) and acclimated for ten days in BSL-3Ag biocontainment with feed and water ad libitum prior to experimental procedures.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Virus challenge of animals Six female white-tailed deer (WTD), approximately 2 years of age, were acquired from a Kansas deer farm (Muddy Creek Whitetails, KS) and acclimated for ten days in BSL-3Ag biocontainment with feed and water ad libitum prior to experimental procedures."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Virus challenge of animals Six female white-tailed deer (WTD), approximately 2 years of age, were acquired from a Kansas deer farm (Muddy Creek Whitetails, KS) and acclimated for ten days in BSL-3Ag biocontainment with feed and water ad libitum prior to experimental procedures.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Virus challenge of animals Six female white-tailed deer (WTD), approximately 2 years of age, were acquired from a Kansas deer farm (Muddy Creek Whitetails, KS) and acclimated for ten days in BSL-3Ag biocontainment with feed and water ad libitum prior to experimental procedures."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Two independent veterinary pathologists (blinded to the treatment groups) examined the slides and morphological descriptions were provided.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two independent veterinary pathologists (blinded to the treatment groups) examined the slides and morphological descriptions were provided."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Briefly, heat inactivated (56degC 30 min) serum samples were subjected to 2-fold serial dilutions starting at 1:20 and tested in duplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Briefly, heat inactivated (56degC 30 min) serum samples were subjected to 2-fold serial dilutions starting at 1:20 and tested in duplicate."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Briefly, heat inactivated (56degC 30 min) serum samples were subjected to 2-fold serial dilutions starting at 1:20 and tested in duplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Briefly, heat inactivated (56degC 30 min) serum samples were subjected to 2-fold serial dilutions starting at 1:20 and tested in duplicate."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

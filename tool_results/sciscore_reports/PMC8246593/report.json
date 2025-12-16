@@ -1,0 +1,525 @@
+{
+  "docIdentifier" : "PMC8246593",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "NH4HCO3 Sigma Aldrich CatA6141",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NH4HCO3 Sigma Aldrich CatA6141"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NH4HCO3 Sigma Aldrich"
+                }],
+              "neText" : "NH4HCO3 Sigma Aldrich"
+            }]
+        }, {
+          "sentence" : "kit Biognosys Ki-3002-2 Software and algorithms SPSS Statistics IBM version 25 RStudio RStudio Team https:www.rstudio.com RStudio version 1.4.1106 R R Core Team https:www.r-project.org R version 4.0.54 ProteinPilot software AB SCIEX Paragon algorithm ( v4.5",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "kit Biognosys Ki-3002-2 Software and algorithms SPSS Statistics IBM version 25 RStudio RStudio Team https:www.rstudio.com RStudio version 1.4.1106 R R Core Team https:www.r-project.org R version 4.0.54 ProteinPilot software AB SCIEX Paragon algorithm ( v4.5"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.rstudio.com"
+                }],
+              "neText" : "https:www.rstudio.com"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RStudio"
+                }],
+              "neText" : "RStudio"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.r-project.org"
+                }],
+              "neText" : "https:www.r-project.org"
+            }]
+        }, {
+          "sentence" : "Agilent 3100 OFFGEL fractionator Agilent Technologies RRID:SCR_019388 TripleTOF(r",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Agilent 3100 OFFGEL fractionator Agilent Technologies RRID:SCR_019388 TripleTOF(r"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "Agilent 3100 OFFGEL Fractionator ( RRID:SCR_018433)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Agilent OFFGEL fractionator Agilent"
+                }],
+              "neText" : "Agilent OFFGEL fractionator Agilent"
+            }]
+        }, {
+          "sentence" : ") 6600 Quadrupole Time-Of-Flight instrument Sciex TripleTOF 6600 Eksigent nanoLC with a Turbo V Source Sciex Turbo V Source Q Exactive ESI-quadrupole-orbitrap mass spectrometer Thermo Fisher Scientific RRID:SCR_020571 EASY-nLC",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ") 6600 Quadrupole Time-Of-Flight instrument Sciex TripleTOF 6600 Eksigent nanoLC with a Turbo V Source Sciex Turbo V Source Q Exactive ESI-quadrupole-orbitrap mass spectrometer Thermo Fisher Scientific RRID:SCR_020571 EASY-nLC"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "Thermo Scientific Q Exactive UHMR Hybrid Quadrupole-Orbitrap Mass Spectrometer ( RRID:SCR_020571)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Q Exactive"
+                }],
+              "neText" : "Q Exactive"
+            }]
+        }, {
+          "sentence" : "1000 nanoflow LC Thermo Fisher Scientific RRID:SCR_014993 zirconia beads BioSpec Products 1 mm beads IPG strips GE Healthcare 24 cm pH 3-10 C18 microspin columns Nest Group HUM",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "1000 nanoflow LC Thermo Fisher Scientific RRID:SCR_014993 zirconia beads BioSpec Products 1 mm beads IPG strips GE Healthcare 24 cm pH 3-10 C18 microspin columns Nest Group HUM"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "EASY-nLC 1000 Liquid Chromatograph ( RRID:SCR_014993)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "The proteins were reduced with Tris(2-carboxyethyl)phosphine ( TCEP Sigma Aldrich)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The proteins were reduced with Tris(2-carboxyethyl)phosphine ( TCEP Sigma Aldrich)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TCEP Sigma Aldrich"
+                }],
+              "neText" : "TCEP Sigma Aldrich"
+            }]
+        }, {
+          "sentence" : "The raw MS data were processed with ProteinPilot software using Paragon algorithm ( v4.5 , AB SCIEX Shilov et al. , 2007) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The raw MS data were processed with ProteinPilot software using Paragon algorithm ( v4.5 , AB SCIEX Shilov et al. , 2007) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ProteinPilot"
+                }],
+              "neText" : "ProteinPilot"
+            }]
+        }, {
+          "sentence" : "Blood glucose concentration ( participants 1-50 ) was analyzed by glucose dehydrogenase method ( Precision-G Blood Glucose Testing System , Medisense , Abbott , IL , USA) , and plasma glucose concentration ( participants 51-148 ) was analyzed by hexokinase method ( Roche Modular , F . Hoffman-La Roche Ltd , Rotkreuz , Switzerland) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Blood glucose concentration ( participants 1-50 ) was analyzed by glucose dehydrogenase method ( Precision-G Blood Glucose Testing System , Medisense , Abbott , IL , USA) , and plasma glucose concentration ( participants 51-148 ) was analyzed by hexokinase method ( Roche Modular , F . Hoffman-La Roche Ltd , Rotkreuz , Switzerland) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Abbott"
+                }],
+              "neText" : "Abbott"
+            }]
+        }, {
+          "sentence" : "The LC-MSMS analysis of phosphorylated peptides was performed on a Q Exactive ESI-quadrupole-orbitrap mass spectrometer coupled to an EASY-nLC 1000 nanoflow LC ( Thermo Fisher Scientific) , using Xcalibur version 3.1.66.10 ( Thermo Fisher Scientific) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The LC-MSMS analysis of phosphorylated peptides was performed on a Q Exactive ESI-quadrupole-orbitrap mass spectrometer coupled to an EASY-nLC 1000 nanoflow LC ( Thermo Fisher Scientific) , using Xcalibur version 3.1.66.10 ( Thermo Fisher Scientific) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Xcalibur"
+                }],
+              "neText" : "Xcalibur"
+            }]
+        }, {
+          "sentence" : "The ten most abundant ions with charge states from 2+ to 7+ were selected for subsequent fragmentation ( HCD) , and MSMS spectra were acquired with a resolution of 17,500 , with an AGC target value of 5000 , a maximal injection time of 120 ms and the lowest mass fixed at mz 120 in centroid mode.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The ten most abundant ions with charge states from 2+ to 7+ were selected for subsequent fragmentation ( HCD) , and MSMS spectra were acquired with a resolution of 17,500 , with an AGC target value of 5000 , a maximal injection time of 120 ms and the lowest mass fixed at mz 120 in centroid mode."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MSMS (RRID:SCR_003532)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MSMS"
+                }],
+              "neText" : "MSMS"
+            }]
+        }, {
+          "sentence" : "Raw data were processed with MaxQuant version 1.6.0.16 ( Cox and Mann , 2008 ) against the human component of the Uniprot Database ( release 01_2020 with 20,303 entries ) using the Andromeda search engine ( Cox et al. , 2011) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Raw data were processed with MaxQuant version 1.6.0.16 ( Cox and Mann , 2008 ) against the human component of the Uniprot Database ( release 01_2020 with 20,303 entries ) using the Andromeda search engine ( Cox et al. , 2011) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MaxQuant"
+                }],
+              "neText" : "MaxQuant"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Uniprot"
+                }],
+              "neText" : "Uniprot"
+            }]
+        }, {
+          "sentence" : "Functional annotations Gene Ontology annotations were obtained from DAVID bioinformatics resources ( Huang et al. , 2009 Huang et al. , 2008) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Functional annotations Gene Ontology annotations were obtained from DAVID bioinformatics resources ( Huang et al. , 2009 Huang et al. , 2008) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }, {
+          "sentence" : "Kinase prediction was made using NetworKIN software ( Horn et al. , 2014) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Kinase prediction was made using NetworKIN software ( Horn et al. , 2014) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NetworKIN"
+                }],
+              "neText" : "NetworKIN"
+            }]
+        }, {
+          "sentence" : "Potential differences in clinical variables between the study groups were analyzed by one-way ANOVA followed by Sidaks post hoc test for multiple comparisons ( IBM SPSS Statistics , version 25) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Potential differences in clinical variables between the study groups were analyzed by one-way ANOVA followed by Sidaks post hoc test for multiple comparisons ( IBM SPSS Statistics , version 25) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Experimental model and subject details Subjects The study protocol was reviewed and approved by the Ethics Committee of the Department of Medicine , Helsinki University Hospital , and written informed consent was obtained from all subjects before participation .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Experimental model and subject details Subjects The study protocol was reviewed and approved by the Ethics Committee of the Department of Medicine , Helsinki University Hospital , and written informed consent was obtained from all subjects before participation ."
+              }]
+          }, {
+            "sentence" : "Experimental model and subject details Subjects The study protocol was reviewed and approved by the Ethics Committee of the Department of Medicine , Helsinki University Hospital , and written informed consent was obtained from all subjects before participation .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Experimental model and subject details Subjects The study protocol was reviewed and approved by the Ethics Committee of the Department of Medicine , Helsinki University Hospital , and written informed consent was obtained from all subjects before participation ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Extracted Ion Chromatogram ) retention time window , 10 mz tolerance , 75 ppm shared and modified peptides were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Extracted Ion Chromatogram ) retention time window , 10 mz tolerance , 75 ppm shared and modified peptides were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Seven men were found to have a previously undiagnosed T2D , had not yet received antihyperglycemic treatment , and are considered here as diet-treated.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Seven men were found to have a previously undiagnosed T2D , had not yet received antihyperglycemic treatment , and are considered here as diet-treated."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "We obtained muscle biopsies from 148 men ( aged 20-70 years): 24 men with T2D , 14 men with impaired glucose tolerance ( either isolated IGT , or a combination of IFG and IGT) , 25 men with impaired fasting glucose ( IFG) , and 85 men with normal glucose tolerance ( NGT ) ( Table 1) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We obtained muscle biopsies from 148 men ( aged 20-70 years): 24 men with T2D , 14 men with impaired glucose tolerance ( either isolated IGT , or a combination of IFG and IGT) , 25 men with impaired fasting glucose ( IFG) , and 85 men with normal glucose tolerance ( NGT ) ( Table 1) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "At the time of his first examination his weight was 76 kg , BMI 25.2 kgm2 , his T2D was managed with metformin only , and his HbA1c was 5.9 .",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "At the time of his first examination his weight was 76 kg , BMI 25.2 kgm2 , his T2D was managed with metformin only , and his HbA1c was 5.9 ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Six fully independent replicates were performed for each glucose tolerance category .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Six fully independent replicates were performed for each glucose tolerance category ."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request .",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }, {
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Data and code availability Raw mass spectrometry data reported in this study cannot be deposited in a public repository because of the EU-GDPR regulations .",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data and code availability Raw mass spectrometry data reported in this study cannot be deposited in a public repository because of the EU-GDPR regulations ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Data are given as mean +- SEM , one-way ANOVA followed by Sidaks post hoc test for multiple comparisons .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data are given as mean +- SEM , one-way ANOVA followed by Sidaks post hoc test for multiple comparisons ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Sidaks post hoc test"
+                  }],
+                "neText" : "Sidaks post hoc test"
+              }]
+          }, {
+            "sentence" : "Students t-test was used to detect statistically significant changes between sample groups , and differences with p-value < 0.05 were considered significant .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Students t-test was used to detect statistically significant changes between sample groups , and differences with p-value < 0.05 were considered significant ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t-test"
+                  }],
+                "neText" : "Students t-test"
+              }]
+          }, {
+            "sentence" : "The ANOVA p-values were multiple hypothesis corrected with FDR ( Benjamini-Hochberg ) correction , and the proteins for which q-value < 0.05 were subjected to Dunnetts post hoc test with the NGT group as the reference group .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The ANOVA p-values were multiple hypothesis corrected with FDR ( Benjamini-Hochberg ) correction , and the proteins for which q-value < 0.05 were subjected to Dunnetts post hoc test with the NGT group as the reference group ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnetts post hoc test"
+                  }],
+                "neText" : "Dunnetts post hoc test"
+              }]
+          }, {
+            "sentence" : "When analyzing the effect of glucose tolerance status on phosphoproteome ( Figure 6 and Table S3) , 2-sided t-tests with Welch approximation for unequal variances were used and differences with a p-value < 0.05 were considered significant .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "When analyzing the effect of glucose tolerance status on phosphoproteome ( Figure 6 and Table S3) , 2-sided t-tests with Welch approximation for unequal variances were used and differences with a p-value < 0.05 were considered significant ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }]
+      }]
+  }
+}

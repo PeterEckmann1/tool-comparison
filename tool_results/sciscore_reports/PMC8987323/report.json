@@ -1,0 +1,174 @@
+{
+  "docIdentifier" : "PMC8987323",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "CT image analysis was performed using SYNAPSE VINCENT software version 5.0 ( Fujifilm , Tokyo , Japan)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "CT image analysis was performed using SYNAPSE VINCENT software version 5.0 ( Fujifilm , Tokyo , Japan)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SYNAPSE VINCENT"
+                }],
+              "neText" : "SYNAPSE VINCENT"
+            }]
+        }, {
+          "sentence" : "Statistical analyses were conducted in SPSS for Windows , Version 25 (",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were conducted in SPSS for Windows , Version 25 ("
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2 Methods 2.1 Study design and patients After approval by the ethics committee of Kobe City Medical Center General Hospital",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Methods 2.1 Study design and patients After approval by the ethics committee of Kobe City Medical Center General Hospital"
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Of the 67 patients identified , 9 were excluded because they lacked information on their height ( 8 patients ) or the date of injury ( 1 patient) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Of the 67 patients identified , 9 were excluded because they lacked information on their height ( 8 patients ) or the date of injury ( 1 patient) ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "As a result , 10 and 24 patients were classified as non-displaced FFP type I ( Ia: 10 ) and type II ( IIa: 2 IIb: 5 IIc: 17) , respectively .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "As a result , 10 and 24 patients were classified as non-displaced FFP type I ( Ia: 10 ) and type II ( IIa: 2 IIb: 5 IIc: 17) , respectively ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Fig . 1 From epidemiologic studies , the majority of patients with FFP were females 19 .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fig . 1 From epidemiologic studies , the majority of patients with FFP were females 19 ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "By careful evaluation of injury mechanism and radiological data , FFP patients who were >= 65 years of age were identified from the electronic medical records between October 2011 and October 2019 .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "By careful evaluation of injury mechanism and radiological data , FFP patients who were >= 65 years of age were identified from the electronic medical records between October 2011 and October 2019 ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "2.3 Statistical analysis After Shapiro-Wilk test of normality , data were compared between the 2 groups by t test and Mann-Whitney U test for parametric and nonparametric tests , respectively .",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.3 Statistical analysis After Shapiro-Wilk test of normality , data were compared between the 2 groups by t test and Mann-Whitney U test for parametric and nonparametric tests , respectively ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk test"
+                  }],
+                "neText" : "Shapiro-Wilk test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }]
+      }]
+  }
+}

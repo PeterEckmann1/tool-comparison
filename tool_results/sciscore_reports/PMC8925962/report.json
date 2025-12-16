@@ -1,0 +1,255 @@
+{
+  "docIdentifier" : "PMC8925962",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Human SARS-CoV-2 immunoglobulin G (IgG) antibodies were measured using an in-house-developed enzyme-linked immunosorbent assay (ELISA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Human SARS-CoV-2 immunoglobulin G (IgG) antibodies were measured using an in-house-developed enzyme-linked immunosorbent assay (ELISA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IgG"
+                }],
+              "neText" : "IgG"
+            }]
+        }, {
+          "sentence" : "Horseradish peroxidase-conjugated anti-human IgG (Jackson Immunoresearch, West Grove, PA, USA) was used as secondary antibody.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Horseradish peroxidase-conjugated anti-human IgG (Jackson Immunoresearch, West Grove, PA, USA) was used as secondary antibody."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human IgG"
+                }],
+              "neText" : "anti-human IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The data were analyzed using SPSS version 24.0 (IBM Corp., Armonk, NY, USA), and graph plotting was performed using GraphPad Prism version 9 (GraphPad Software, San Diego, CA, USA).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The data were analyzed using SPSS version 24.0 (IBM Corp., Armonk, NY, USA), and graph plotting was performed using GraphPad Prism version 9 (GraphPad Software, San Diego, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was reviewed and approved by the Institutional Review Board of Asan Medical Center (IRB No. 2020-0297 and 2021-0170) and written informed consent was obtained from all participants..",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was reviewed and approved by the Institutional Review Board of Asan Medical Center (IRB No. 2020-0297 and 2021-0170) and written informed consent was obtained from all participants.."
+              }]
+          }, {
+            "sentence" : "This study was reviewed and approved by the Institutional Review Board of Asan Medical Center (IRB No. 2020-0297 and 2021-0170) and written informed consent was obtained from all participants..",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was reviewed and approved by the Institutional Review Board of Asan Medical Center (IRB No. 2020-0297 and 2021-0170) and written informed consent was obtained from all participants.."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis Categorical variables were compared using the chi-square or Fishers exact test, and continuous variables using Students t test or the Mann-Whitney U test, as appropriate.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Categorical variables were compared using the chi-square or Fishers exact test, and continuous variables using Students t test or the Mann-Whitney U test, as appropriate."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square"
+                  }],
+                "neText" : "chi-square"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }, {
+            "sentence" : "According to the normality of the data, paired samples such as antibody responses after the first and second doses of the COVID-19 vaccines were compared using the paired t test or Wilcoxon rank-sum test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "According to the normality of the data, paired samples such as antibody responses after the first and second doses of the COVID-19 vaccines were compared using the paired t test or Wilcoxon rank-sum test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank-sum test"
+                  }],
+                "neText" : "Wilcoxon rank-sum test"
+              }]
+          }]
+      }]
+  }
+}

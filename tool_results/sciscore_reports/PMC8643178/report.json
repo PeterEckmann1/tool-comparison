@@ -1,0 +1,390 @@
+{
+  "docIdentifier" : "PMC8643178",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Each sample was acquired using the American Illumina HiSeq 2000 RNA sequencing platform, and the ENSEMBL system was used for gene annotation.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Each sample was acquired using the American Illumina HiSeq 2000 RNA sequencing platform, and the ENSEMBL system was used for gene annotation."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Ensembl (RRID:SCR_002344)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ENSEMBL"
+                }],
+              "neText" : "ENSEMBL"
+            }]
+        }, {
+          "sentence" : "Using the edgeR package in the R software, RNA-seq data of 552 UCEC samples and 35 normal endometrial samples were utilized to screen out differentially expressed genes (DEGs) with the cut-off criteria of log2FC>=1 and false discovery rate (FDR) <0.05.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Using the edgeR package in the R software, RNA-seq data of 552 UCEC samples and 35 normal endometrial samples were utilized to screen out differentially expressed genes (DEGs) with the cut-off criteria of log2FC>=1 and false discovery rate (FDR) <0.05."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "edgeR"
+                }],
+              "neText" : "edgeR"
+            }]
+        }, {
+          "sentence" : "Furthermore , DE miRNAs were combined to construct a ceRNA regulatory network by the following steps: ( 1 ) predicting the interaction between DE lncRNAs and DE miRNAs using miRcode ( http:www.mircode.org ) database ( 2 ) predicting the interaction between DE miRNAs and DE mRNAs using TargetScan ( http:www.targetscan.org )",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Furthermore , DE miRNAs were combined to construct a ceRNA regulatory network by the following steps: ( 1 ) predicting the interaction between DE lncRNAs and DE miRNAs using miRcode ( http:www.mircode.org ) database ( 2 ) predicting the interaction between DE miRNAs and DE mRNAs using TargetScan ( http:www.targetscan.org )"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "TargetScan (RRID:SCR_010845)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }]
+        }, {
+          "sentence" : "), miRTarBase ( http:miRTarBase.cuhk.edu.cn ), and miRBase ( http:www.mirbase.org ) databases (3) selecting duplicate DE miRNAs as common connections.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "), miRTarBase ( http:miRTarBase.cuhk.edu.cn ), and miRBase ( http:www.mirbase.org ) databases (3) selecting duplicate DE miRNAs as common connections."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http:www.mirbase.org"
+                }],
+              "neText" : "http:www.mirbase.org"
+            }]
+        }, {
+          "sentence" : "Finally, we constructed ceRNA regulatory networks and visualized them using Cytoscape software (version 3.7.0).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Finally, we constructed ceRNA regulatory networks and visualized them using Cytoscape software (version 3.7.0)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }, {
+          "sentence" : "Construction of Protein-Protein Interaction (PPI) Network and Screening of Key Genes We uploaded DE mRNAs related to pathological tissue subtypes of UCEC identified in WGCNA to the Search Tool for the Retrieval of Interacting Genes (STRING, http:string-db.org ) online analysis software to identify the potential relationship between proteins encoded by DE mRNAs.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Construction of Protein-Protein Interaction (PPI) Network and Screening of Key Genes We uploaded DE mRNAs related to pathological tissue subtypes of UCEC identified in WGCNA to the Search Tool for the Retrieval of Interacting Genes (STRING, http:string-db.org ) online analysis software to identify the potential relationship between proteins encoded by DE mRNAs."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }]
+        }, {
+          "sentence" : "Molecular Complex Detection algorithm was performed using MCODE plug-in to filter out highly relevant modules from the entire PPI network and assigned each molecule to the MCODE value to calculate clustering seed genes and clustered genes in the module.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Molecular Complex Detection algorithm was performed using MCODE plug-in to filter out highly relevant modules from the entire PPI network and assigned each molecule to the MCODE value to calculate clustering seed genes and clustered genes in the module."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MCODE"
+                }],
+              "neText" : "MCODE"
+            }]
+        }, {
+          "sentence" : "The CyTargetLinker plug-in based on Wikipathways database ( https:www.wikipathways.orgindex.phpWikiPathways ) was used to perform the functional pathway enrichment analysis of DE mRNAs in the constructed PPI network.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The CyTargetLinker plug-in based on Wikipathways database ( https:www.wikipathways.orgindex.phpWikiPathways ) was used to perform the functional pathway enrichment analysis of DE mRNAs in the constructed PPI network."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "WikiPathways (RRID:SCR_002134)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Wikipathways"
+                }],
+              "neText" : "Wikipathways"
+            }]
+        }, {
+          "sentence" : "In addition, to verify whether Wnt signaling pathway-related molecules predicted by the metabolic pathway analysis in PPI network had reliable biological significance, we used TCGA data in Oncomine ( https:www.oncomine.org ) database to observe the expression levels of genes related to Wnt signaling pathways in type I and type II UCEC, respectively.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In addition, to verify whether Wnt signaling pathway-related molecules predicted by the metabolic pathway analysis in PPI network had reliable biological significance, we used TCGA data in Oncomine ( https:www.oncomine.org ) database to observe the expression levels of genes related to Wnt signaling pathways in type I and type II UCEC, respectively."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Oncomine"
+                }],
+              "neText" : "Oncomine"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.oncomine.org"
+                }],
+              "neText" : "https:www.oncomine.org"
+            }]
+        }, {
+          "sentence" : "The Human Protein Atlas ( http:www.proteinatlas.org )23 was employed to map the tissue protein expression pattern for the key RNAs.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Human Protein Atlas ( http:www.proteinatlas.org )23 was employed to map the tissue protein expression pattern for the key RNAs."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http:www.proteinatlas.org"
+                }],
+              "neText" : "http:www.proteinatlas.org"
+            }]
+        }, {
+          "sentence" : "Statistical Methods The data were presented as mean +- standard deviation, and GraphPad Prism software was used for statistical analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Methods The data were presented as mean +- standard deviation, and GraphPad Prism software was used for statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Second, based on their clinical stages, UCEC samples can be divided into 375 patients with early stage (stage I and II) and 145 patients with advanced stage (stage III and IV), and then the relationship between expression and clinical stages was determined.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Second, based on their clinical stages, UCEC samples can be divided into 375 patients with early stage (stage I and II) and 145 patients with advanced stage (stage III and IV), and then the relationship between expression and clinical stages was determined."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "An unsupervised co-expression relationship between genes was established using Pearson correlation coefficients .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "An unsupervised co-expression relationship between genes was established using Pearson correlation coefficients ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }, {
+            "sentence" : "Five hundred and twenty UCEC cases were divided into high- and low-expression groups to perform overall survival (OS) analysis by using the Log rank test method, determining the associations between key RNAs and OS rate.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Five hundred and twenty UCEC cases were divided into high- and low-expression groups to perform overall survival (OS) analysis by using the Log rank test method, determining the associations between key RNAs and OS rate."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Log rank test"
+                  }],
+                "neText" : "Log rank test"
+              }]
+          }, {
+            "sentence" : "The comparison between the two groups was performed by t test, and the comparison between multiple groups was performed by one-way analysis of variance (ANOVA).",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The comparison between the two groups was performed by t test, and the comparison between multiple groups was performed by one-way analysis of variance (ANOVA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }]
+  }
+}

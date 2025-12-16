@@ -1,0 +1,496 @@
+{
+  "docIdentifier" : "PMC8212781",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Primary antibodies used were: chicken anti-GFAP ( Abcam ab4674AB-304558 1:500) , rat anti-GFAP ( Life Technologies 13-0300AB-86543 1:500) , rabbit anti-PDGFRb ( Abcam ab32570AB-777165 1:200) , goat anti-OSMR ( R&D Systems AF-662-SPAB-355511 1:100) , goat anti-Podocalyxin ( R&D Systems AF1556AB-354858 1:200) , rabbit anti-APOE ( Abcam ab183597AB-2832971 1:100) , CD63 ( PEDazzle 594 Biolegend 1439132565503 1:100) , and rat anti-CD11b ( BioRad MCA74GAAB-324660 1:500) .",
+          "rowSpan" : 7,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Primary antibodies used were: chicken anti-GFAP ( Abcam ab4674AB-304558 1:500) , rat anti-GFAP ( Life Technologies 13-0300AB-86543 1:500) , rabbit anti-PDGFRb ( Abcam ab32570AB-777165 1:200) , goat anti-OSMR ( R&D Systems AF-662-SPAB-355511 1:100) , goat anti-Podocalyxin ( R&D Systems AF1556AB-354858 1:200) , rabbit anti-APOE ( Abcam ab183597AB-2832971 1:100) , CD63 ( PEDazzle 594 Biolegend 1439132565503 1:100) , and rat anti-CD11b ( BioRad MCA74GAAB-324660 1:500) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GFAP"
+                }],
+              "neText" : "anti-GFAP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-PDGFRb"
+                }],
+              "neText" : "anti-PDGFRb"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-OSMR"
+                }],
+              "neText" : "anti-OSMR"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Podocalyxin"
+                }],
+              "neText" : "anti-Podocalyxin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-APOE"
+                }],
+              "neText" : "anti-APOE"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD63"
+                }],
+              "neText" : "CD63"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD11b"
+                }],
+              "neText" : "anti-CD11b"
+            }]
+        }, {
+          "sentence" : "After centrifugation at 300 g for 10 min , supernatant was aspirated , and the cells were incubated in blocking buffer mixture for 5 min at 4degC ( 1 ml anti-mouse CD1632 TruStain Fcx RRID: AB-1574975 Biolegend cat 101320 and 99 ml FACS buffer 1 BSA + 0.05 sodium azide in HBSS wo Ca2+Mg2+) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After centrifugation at 300 g for 10 min , supernatant was aspirated , and the cells were incubated in blocking buffer mixture for 5 min at 4degC ( 1 ml anti-mouse CD1632 TruStain Fcx RRID: AB-1574975 Biolegend cat 101320 and 99 ml FACS buffer 1 BSA + 0.05 sodium azide in HBSS wo Ca2+Mg2+) ."
+            }],
+          "mentions" : [{
+              "source" : "BioLegend",
+              "rrid" : "(BioLegend Cat# 101320, RRID:AB_1574975)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse CD1632 TruStain Fcx"
+                }],
+              "neText" : "anti-mouse CD1632 TruStain Fcx"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Materials and methods Mice and SCIs For sequencing, flow cytometry, and histological validation of tip cells, female C57BL6J mice 8-10 wk of age were purchased from Jackson Laboratory (stock 000664).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Mice and SCIs For sequencing, flow cytometry, and histological validation of tip cells, female C57BL6J mice 8-10 wk of age were purchased from Jackson Laboratory (stock 000664)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6J"
+                }],
+              "neText" : "C57BL6J"
+            }]
+        }, {
+          "sentence" : "For histological validation of activated fibroblasts, Postn-CreER mice (Jackson Laboratory stock 029645) were bred to Rosa26-EYFP mice (Jackson Laboratory stock 006148) to generate PostnEYFP mice.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For histological validation of activated fibroblasts, Postn-CreER mice (Jackson Laboratory stock 029645) were bred to Rosa26-EYFP mice (Jackson Laboratory stock 006148) to generate PostnEYFP mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Postn-CreER"
+                }],
+              "neText" : "Postn-CreER"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Rosa26-EYFP"
+                }],
+              "neText" : "Rosa26-EYFP"
+            }]
+        }, {
+          "sentence" : "All PostnEYFP mice were of the C57BL6 background.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All PostnEYFP mice were of the C57BL6 background."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Individual particle areas were restricted to an area of 2 um2 or larger using the Analyze Particles function in ImageJ .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Individual particle areas were restricted to an area of 2 um2 or larger using the Analyze Particles function in ImageJ ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "In brief, base call files for each sample were demultiplexed into FASTQ reads and then aligned to the mouse mm10 reference genome using the STAR splice-aware aligner.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In brief, base call files for each sample were demultiplexed into FASTQ reads and then aligned to the mouse mm10 reference genome using the STAR splice-aware aligner."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STAR"
+                }],
+              "neText" : "STAR"
+            }]
+        }, {
+          "sentence" : "To further distinguish cells from data below the knee, we used the emptyDrops function from the DropletUtils R package (Lun et al., 2019) using the following fixed parameters for all samples: lower = 250 maximum fit.bounds = 1e06 false discovery rate = 0.001 ignore = 10.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To further distinguish cells from data below the knee, we used the emptyDrops function from the DropletUtils R package (Lun et al., 2019) using the following fixed parameters for all samples: lower = 250 maximum fit.bounds = 1e06 false discovery rate = 0.001 ignore = 10."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DropletUtils"
+                }],
+              "neText" : "DropletUtils"
+            }]
+        }, {
+          "sentence" : "To remove potential doublets, we applied the Scrublet Python package (Wolock et al., 2019) for each individual sample.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To remove potential doublets, we applied the Scrublet Python package (Wolock et al., 2019) for each individual sample."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }]
+        }, {
+          "sentence" : "In brief, the SingleR package performs a Spearman rank correlation between each query cell and assigned cell-type labels of a reference dataset.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In brief, the SingleR package performs a Spearman rank correlation between each query cell and assigned cell-type labels of a reference dataset."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SingleR"
+                }],
+              "neText" : "SingleR"
+            }]
+        }, {
+          "sentence" : "To identify DEGs for GO analysis, we used the MAST framework as implemented in the Seurat FindMarkers() function and set the latent.vars argument to nFeature_RNA, which is equivalent to adjusting for the cellular detection rate (Finak et al., 2015).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To identify DEGs for GO analysis, we used the MAST framework as implemented in the Seurat FindMarkers() function and set the latent.vars argument to nFeature_RNA, which is equivalent to adjusting for the cellular detection rate (Finak et al., 2015)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MAST"
+                }],
+              "neText" : "MAST"
+            }]
+        }, {
+          "sentence" : "For GO analysis, we used Fishers exact test as implemented in the topGO package (Rahnenfuhrer, 2020).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For GO analysis, we used Fishers exact test as implemented in the topGO package (Rahnenfuhrer, 2020)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "topGO"
+                }],
+              "neText" : "topGO"
+            }]
+        }, {
+          "sentence" : "We first pulled a reference list of human ligand-receptor pairs published previously (Ramilowski et al., 2015) and converted the genes into mouse orthologues using the Ensembl biomaRt package (Durinck et al., 2009).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We first pulled a reference list of human ligand-receptor pairs published previously (Ramilowski et al., 2015) and converted the genes into mouse orthologues using the Ensembl biomaRt package (Durinck et al., 2009)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ensembl"
+                }],
+              "neText" : "Ensembl"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Briefly, mice were anesthetized using ketaminexylazine (100 mg15 mgkg i.p.) and received a 65-kilodyne mid-thoracic (T8) contusion injury.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Briefly, mice were anesthetized using ketaminexylazine (100 mg15 mgkg i.p.) and received a 65-kilodyne mid-thoracic (T8) contusion injury."
+              }]
+          }, {
+            "sentence" : "All procedures were in accordance with University of Miami Institutional Animal Care and Use Committee and National Institutes of Health guidelines.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All procedures were in accordance with University of Miami Institutional Animal Care and Use Committee and National Institutes of Health guidelines."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "After selecting for viable CD45+ leukocytes , neutrophils were excluded based on Ly6G expression .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After selecting for viable CD45+ leukocytes , neutrophils were excluded based on Ly6G expression ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and methods Mice and SCIs For sequencing, flow cytometry, and histological validation of tip cells, female C57BL6J mice 8-10 wk of age were purchased from Jackson Laboratory (stock 000664).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Mice and SCIs For sequencing, flow cytometry, and histological validation of tip cells, female C57BL6J mice 8-10 wk of age were purchased from Jackson Laboratory (stock 000664)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and methods Mice and SCIs For sequencing, flow cytometry, and histological validation of tip cells, female C57BL6J mice 8-10 wk of age were purchased from Jackson Laboratory (stock 000664).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Mice and SCIs For sequencing, flow cytometry, and histological validation of tip cells, female C57BL6J mice 8-10 wk of age were purchased from Jackson Laboratory (stock 000664)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "For each of 1,000 permutations, we randomly shuffled the cell-type and time point labels and calculated an interaction scores for all possible <ligand cell, receptor cell, time point> combinations.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For each of 1,000 permutations, we randomly shuffled the cell-type and time point labels and calculated an interaction scores for all possible <ligand cell, receptor cell, time point> combinations."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "We enriched our second set (and third set for uninjured and 1-dpi samples) of replicates with astrocytes by pooling from two spinal cord samples.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We enriched our second set (and third set for uninjured and 1-dpi samples) of replicates with astrocytes by pooling from two spinal cord samples."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : ", Zombie Aqua Dye , CD45.2 , CD11b , and Ly6G were the same as above P2RY12 ( PE Biolegend 8480032721644 1:100 ) and MSR1 ( Alexa Fluor 700 BioRad MCA1322A7002251086 1:50) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : ", Zombie Aqua Dye , CD45.2 , CD11b , and Ly6G were the same as above P2RY12 ( PE Biolegend 8480032721644 1:100 ) and MSR1 ( Alexa Fluor 700 BioRad MCA1322A7002251086 1:50) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "P2RY12"
+                  }],
+                "neText" : "P2RY12"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "In brief, the SingleR package performs a Spearman rank correlation between each query cell and assigned cell-type labels of a reference dataset.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In brief, the SingleR package performs a Spearman rank correlation between each query cell and assigned cell-type labels of a reference dataset."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman rank correlation"
+                  }],
+                "neText" : "Spearman rank correlation"
+              }]
+          }, {
+            "sentence" : "Differential expression testing and GO To identify marker genes for each cluster, we used the FindAllMarkers() function using default parameters, which implements a Wilcoxon rank-sum test comparing gene expression of cells within a given cluster versus all other cells.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differential expression testing and GO To identify marker genes for each cluster, we used the FindAllMarkers() function using default parameters, which implements a Wilcoxon rank-sum test comparing gene expression of cells within a given cluster versus all other cells."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank-sum test"
+                  }],
+                "neText" : "Wilcoxon rank-sum test"
+              }]
+          }, {
+            "sentence" : "For GO analysis, we used Fishers exact test as implemented in the topGO package (Rahnenfuhrer, 2020).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For GO analysis, we used Fishers exact test as implemented in the topGO package (Rahnenfuhrer, 2020)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }]
+      }]
+  }
+}

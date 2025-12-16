@@ -1,0 +1,223 @@
+{
+  "docIdentifier" : "PMC8154418",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "35 Data Analysis All data analyses were performed with the R statistical environment ( http:www.r-project.org , R versions 3.6.0 , 3.6.1) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "35 Data Analysis All data analyses were performed with the R statistical environment ( http:www.r-project.org , R versions 3.6.0 , 3.6.1) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http:www.r-project.org"
+                }],
+              "neText" : "http:www.r-project.org"
+            }]
+        }, {
+          "sentence" : "To dissect an optimal subset of metabolites , we used a regression approach , namely , the DIABLO ( Data Integration Analysis for Biomarker discovery using Latent variable approaches for Omics studies ) tool of the mixOmics package ( version 6.10.1) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To dissect an optimal subset of metabolites , we used a regression approach , namely , the DIABLO ( Data Integration Analysis for Biomarker discovery using Latent variable approaches for Omics studies ) tool of the mixOmics package ( version 6.10.1) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "mixOmics (RRID:SCR_016889)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "mixOmics"
+                }],
+              "neText" : "mixOmics"
+            }]
+        }, {
+          "sentence" : "For data visualization the ggplot2 package (version 3.2.1) was used.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For data visualization the ggplot2 package (version 3.2.1) was used."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ggplot2 (RRID:SCR_014601)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ggplot2"
+                }],
+              "neText" : "ggplot2"
+            }]
+        }, {
+          "sentence" : "Metabolic network enrichment analysis was performed in the MetExplore v2.23.15 environment, using the KEGG global network for a Chinese hamster (Cricetulus griseus) (a network for a golden Syrian hamster (Mesocricetus auratus) is not available currently). 36,37 The metabolites selected by the multiblock regression modeling were used for the pathway enrichment on each block separately.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Metabolic network enrichment analysis was performed in the MetExplore v2.23.15 environment, using the KEGG global network for a Chinese hamster (Cricetulus griseus) (a network for a golden Syrian hamster (Mesocricetus auratus) is not available currently). 36,37 The metabolites selected by the multiblock regression modeling were used for the pathway enrichment on each block separately."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MetExplore"
+                }],
+              "neText" : "MetExplore"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods Ethics Statement All procedures with animals were carried out according to the recommendations of the national guidelines for animal caring: 12.08.1977 N 755 On measures to further improve the organizational forms of work using experimental animals and approved by the Siberian State Medical University (license number 5786 issued on February 26, 2018).",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Ethics Statement All procedures with animals were carried out according to the recommendations of the national guidelines for animal caring: 12.08.1977 N 755 On measures to further improve the organizational forms of work using experimental animals and approved by the Siberian State Medical University (license number 5786 issued on February 26, 2018)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Four NMR experiments were performed on each serum sample: 1D NOESY , CPMG , diffusion edited , and 2D JRES.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Four NMR experiments were performed on each serum sample: 1D NOESY , CPMG , diffusion edited , and 2D JRES."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Parasites, Experimental Opisthorchiasis Model, and Experimental Design Twenty golden Syrian hamsters (Mesocricetus auratus) of both genders were purchased from the animal facility of the Institute of Bioorganic Chemistry Academicians M. M. Shemyakin and U. A. Ovchinnikov.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Parasites, Experimental Opisthorchiasis Model, and Experimental Design Twenty golden Syrian hamsters (Mesocricetus auratus) of both genders were purchased from the animal facility of the Institute of Bioorganic Chemistry Academicians M. M. Shemyakin and U. A. Ovchinnikov."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "After 1 week of acclimatization, at the age of 6 weeks old, 10 animals (5 males and 5 females) were infected orally with 50 O. felineus metacercariae in phosphate-buffered saline (PBS) (infected group).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After 1 week of acclimatization, at the age of 6 weeks old, 10 animals (5 males and 5 females) were infected orally with 50 O. felineus metacercariae in phosphate-buffered saline (PBS) (infected group)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Buffer solution B was a disodium phosphate buffer in D2O (pH = 7.4) containing 1.5 M K2HPO4, 2 mM NaN3, and 4 mM TSP.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Buffer solution B was a disodium phosphate buffer in D2O (pH = 7.4) containing 1.5 M K2HPO4, 2 mM NaN3, and 4 mM TSP."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "K2HPO4"
+                  }],
+                "neText" : "K2HPO4"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Only the pathways with p < 0.05 after Bonferroni correction were included in the resulting graphs.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Only the pathways with p < 0.05 after Bonferroni correction were included in the resulting graphs."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }]
+      }]
+  }
+}

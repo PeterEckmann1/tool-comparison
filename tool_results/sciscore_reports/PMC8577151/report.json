@@ -1,0 +1,137 @@
+{
+  "docIdentifier" : "PMC8577151",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "A first Python 3 script has been developed to quantify this latter tracked vertex drift at frame level and correct it (see https:github.comfabdamcc_paperrefocus.py). c. We then use the Image Stabilizer Fiji plugin (https:imagej.netImage_Stabilizer), which implements the Lucas-Kanade algorithm to further stabilize the movie (Figure 2 and Methods video S1).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A first Python 3 script has been developed to quantify this latter tracked vertex drift at frame level and correct it (see https:github.comfabdamcc_paperrefocus.py). c. We then use the Image Stabilizer Fiji plugin (https:imagej.netImage_Stabilizer), which implements the Lucas-Kanade algorithm to further stabilize the movie (Figure 2 and Methods video S1)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }]
+        }, {
+          "sentence" : "The centroid of each cell is manually tracked with manual tracking Fiji plugin throughout each movie to analyze the migratory behavior of MCCs.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The centroid of each cell is manually tracked with manual tracking Fiji plugin throughout each movie to analyze the migratory behavior of MCCs."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji"
+                }],
+              "neText" : "Fiji"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "To obtain X. laevis eggs, stimulate ovulation in X. laevis adult females by subcutaneous injection of (800 unitsanimal",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To obtain X. laevis eggs, stimulate ovulation in X. laevis adult females by subcutaneous injection of (800 unitsanimal"
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Since MCCs randomly migrate laterally , some MCCs may exit the region of interest , while others may enter it .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Since MCCs randomly migrate laterally , some MCCs may exit the region of interest , while others may enter it ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

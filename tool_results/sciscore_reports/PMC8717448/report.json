@@ -1,0 +1,269 @@
+{
+  "docIdentifier" : "PMC8717448",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The second strategy was the profile-profile comparison method which is implemented in the HHpred program 56.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The second strategy was the profile-profile comparison method which is implemented in the HHpred program 56."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "HHpred (RRID:SCR_010276)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HHpred"
+                }],
+              "neText" : "HHpred"
+            }]
+        }, {
+          "sentence" : "2.3 Sequence similarity-based clustering For the sequences collected from the previous series of searches, similarity based clustering was performed to eliminate highly similar sequences by using CD-HIT, based on various sequence identity thresholds (0.4-0.7), and the BLASTCLUST program which adjusts the length of aligned regions and bit-score density threshold empirically (ftp:ftp.ncbi.nih.govblastdocumentsblastclust.html).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.3 Sequence similarity-based clustering For the sequences collected from the previous series of searches, similarity based clustering was performed to eliminate highly similar sequences by using CD-HIT, based on various sequence identity thresholds (0.4-0.7), and the BLASTCLUST program which adjusts the length of aligned regions and bit-score density threshold empirically (ftp:ftp.ncbi.nih.govblastdocumentsblastclust.html)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "CD-HIT (RRID:SCR_007105)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD-HIT"
+                }],
+              "neText" : "CD-HIT"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BLASTClust (RRID:SCR_016641)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLASTCLUST"
+                }],
+              "neText" : "BLASTCLUST"
+            }]
+        }, {
+          "sentence" : "The revised collection of the representative sequences from all major globin families was subjected to all-against-all BLASTP comparisons, and clustered based on the sequence similarity using the force-directed graph drawing (Fruchterman and Reingold) algorithm 57 implemented in the CLANS program 58.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The revised collection of the representative sequences from all major globin families was subjected to all-against-all BLASTP comparisons, and clustered based on the sequence similarity using the force-directed graph drawing (Fruchterman and Reingold) algorithm 57 implemented in the CLANS program 58."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BLASTP (RRID:SCR_001010)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLASTP"
+                }],
+              "neText" : "BLASTP"
+            }]
+        }, {
+          "sentence" : "The alignment was colored using an in-house alignment visualization program written in Perl and further modified using Adobe Illustrator.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The alignment was colored using an in-house alignment visualization program written in Perl and further modified using Adobe Illustrator."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Adobe Illustrator, RRID:SCR_010279",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Adobe Illustrator"
+                }],
+              "neText" : "Adobe Illustrator"
+            }]
+        }, {
+          "sentence" : "Structure comparisons were conducted by using the DALI program, which generates an optimal pairwise structural alignment based on the similarity of local patterns extracted from contact maps 63.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Structure comparisons were conducted by using the DALI program, which generates an optimal pairwise structural alignment based on the similarity of local patterns extracted from contact maps 63."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DALI"
+                }],
+              "neText" : "DALI"
+            }]
+        }, {
+          "sentence" : "Other structural analysis operations were conducted using the molecular visualization program PyMOL 64.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Other structural analysis operations were conducted using the molecular visualization program PyMOL 64."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PyMOL, RRID:SCR_000305",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PyMOL"
+                }],
+              "neText" : "PyMOL"
+            }]
+        }, {
+          "sentence" : "We detected protein domains using the HMMER package which searches against the Pfam database and a local collection of profile HMMs.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We detected protein domains using the HMMER package which searches against the Pfam database and a local collection of profile HMMs."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HMMER"
+                }],
+              "neText" : "HMMER"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Pfam"
+                }],
+              "neText" : "Pfam"
+            }]
+        }, {
+          "sentence" : "We determined the conserved co-occurring genes based on 1) the frequency of common domains identified in the neighborhood, 2) the presence of such co-occurring genes in at least two phylogenetically distinct lineages (phylum in NCBI Taxonomy database), and 3) complete conservation in a particular lineage (phylum).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We determined the conserved co-occurring genes based on 1) the frequency of common domains identified in the neighborhood, 2) the presence of such co-occurring genes in at least two phylogenetically distinct lineages (phylum in NCBI Taxonomy database), and 3) complete conservation in a particular lineage (phylum)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NCBI Taxonomy"
+                }],
+              "neText" : "NCBI Taxonomy"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

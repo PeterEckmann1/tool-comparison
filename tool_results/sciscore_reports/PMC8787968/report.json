@@ -1,0 +1,139 @@
+{
+  "docIdentifier" : "PMC8787968",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Definitions Heart failure was defined according to the American College of CardiologyAmerican Heart Association guidelines, as the presence of HF signs and symptoms and confirmed left ventricular systolic or diastolic dysfunction.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Definitions Heart failure was defined according to the American College of CardiologyAmerican Heart Association guidelines, as the presence of HF signs and symptoms and confirmed left ventricular systolic or diastolic dysfunction."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CardiologyAmerican Heart Association"
+                }],
+              "neText" : "CardiologyAmerican Heart Association"
+            }]
+        }, {
+          "sentence" : "Statistical analysis SAS software (Version 27 SAS Institute, Inc. Cary, NC, USA) was used for statistical analyses.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis SAS software (Version 27 SAS Institute, Inc. Cary, NC, USA) was used for statistical analyses."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study protocol complied with the Declaration of Helsinki and was approved by the Committee on Ethics of Kasugai Municipal Hospital.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol complied with the Declaration of Helsinki and was approved by the Committee on Ethics of Kasugai Municipal Hospital."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients undergoing haemodialysis, those who were hospitalized multiple times for HF during the study period, and those who with HF caused by acute myocardial infarction were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients undergoing haemodialysis, those who were hospitalized multiple times for HF during the study period, and those who with HF caused by acute myocardial infarction were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Methods In this retrospective study, 314 patients who were hospitalized for acute decompensated HF at Kasugai Municipal Hospital from August 2019 to October 2020 were enrolled.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods In this retrospective study, 314 patients who were hospitalized for acute decompensated HF at Kasugai Municipal Hospital from August 2019 to October 2020 were enrolled."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "9 Anaemia was defined as haemoglobin levels < 13 gdL for males and <12 gdL for females according to the World Health Organization committee.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "9 Anaemia was defined as haemoglobin levels < 13 gdL for males and <12 gdL for females according to the World Health Organization committee."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Among the phenotypic components, non-volitional weight loss > 5 within the past 6 months and body mass index < 18.5 kgm2 for age < 70 years and <20 kgm2 for age >= 70 years were used as cut-offs.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Among the phenotypic components, non-volitional weight loss > 5 within the past 6 months and body mass index < 18.5 kgm2 for age < 70 years and <20 kgm2 for age >= 70 years were used as cut-offs."
+              }]
+          }, {
+            "sentence" : "Among the phenotypic components, non-volitional weight loss > 5 within the past 6 months and body mass index < 18.5 kgm2 for age < 70 years and <20 kgm2 for age >= 70 years were used as cut-offs.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Among the phenotypic components, non-volitional weight loss > 5 within the past 6 months and body mass index < 18.5 kgm2 for age < 70 years and <20 kgm2 for age >= 70 years were used as cut-offs."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

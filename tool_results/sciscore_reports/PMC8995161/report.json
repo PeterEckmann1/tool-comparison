@@ -1,0 +1,581 @@
+{
+  "docIdentifier" : "PMC8995161",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Antibodies against F4/80 , NLRP3 , PYCARD ( ASC)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibodies against F4/80 , NLRP3 , PYCARD ( ASC)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "F4/80"
+                }],
+              "neText" : "F4/80"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NLRP3"
+                }],
+              "neText" : "NLRP3"
+            }]
+        }, {
+          "sentence" : "In contrast , α-tubulin , horseradish peroxidase ( HRP)-labeled secondary antibodies , and CoraLite488 and 555-conjugated secondary antibodies were purchased from Proteintech Group ( Chicago , USA) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In contrast , "
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : "-tubulin , horseradish peroxidase ( HRP)-labeled secondary antibodies , and CoraLite488 and 555-conjugated secondary antibodies were purchased from Proteintech Group ( Chicago , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "symbol",
+                  "c" : "α"
+                }, {
+                  "f" : "default",
+                  "c" : "-tubulin"
+                }],
+              "neText" : "α-tubulin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HRP)-labeled secondary antibodies ,"
+                }],
+              "neText" : "HRP)-labeled secondary antibodies ,"
+            }]
+        }, {
+          "sentence" : ", Caspase-1 , and Cleaved-Caspase-1 antibodies at 4°C overnight .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", Caspase-1 , and Cleaved-Caspase-1 antibodies at 4°C overnight ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cleaved-Caspase-1"
+                }],
+              "neText" : "Cleaved-Caspase-1"
+            }]
+        }, {
+          "sentence" : "The slides were then washed with PBS three times and incubated in Coralite488 or Coralite594 conjugated secondary antibodies ( Proteintech , USA ) for 2 h at room temperature.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The slides were then washed with PBS three times and incubated in Coralite488 or Coralite594 conjugated secondary antibodies ( Proteintech , USA ) for 2 h at room temperature."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Coralite594"
+                }],
+              "neText" : "Coralite594"
+            }]
+        }, {
+          "sentence" : "The PVDF membranes were then incubated with primary antibodies against NLRP3 , ASC , Caspase-1 , cleaved-Caspase-1 ,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The PVDF membranes were then incubated with primary antibodies against NLRP3 , ASC , Caspase-1 , cleaved-Caspase-1 ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Caspase-1 , cleaved-Caspase-1 ,"
+                }],
+              "neText" : "Caspase-1 , cleaved-Caspase-1 ,"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell Culture The RAW264.7 and MLE-12 (",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell Culture The RAW264.7 and MLE-12 ("
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0493",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RAW264.7"
+                }],
+              "neText" : "RAW264.7"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Animal Studies The C57BL/6 mice were used to develop the seawater aspiration lung injury model .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Animal Studies The C57BL/6 mice were used to develop the seawater aspiration lung injury model ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6"
+                }],
+              "neText" : "C57BL/6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "30–50 % protein content ) and lipopolysaccharide ( LPS , compound from Pseudomonas aeruginosa ) were purchased from Sigma ( San Diego , MO , USA)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "30–50 % protein content ) and lipopolysaccharide ( LPS , compound from Pseudomonas aeruginosa ) were purchased from Sigma ( San Diego , MO , USA)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "Cell culture reagents , including Dulbecco’s Modified Eagle Medium , fetal bovine serum ( FBS) , Penicillin-Streptomycin , and Trypsin-EDTA ( 0.25 % ) , were purchased from Gibco Life Technologies ( Waltham , MA , USA)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture reagents , including Dulbecco’s Modified Eagle Medium , fetal bovine serum ( FBS) , Penicillin-Streptomycin , and Trypsin-EDTA ( 0.25 % ) , were purchased from Gibco Life Technologies ( Waltham , MA , USA)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }, {
+          "sentence" : "The optical density of the protein bands was analyzed using ImageJ software ( NIH , Bethesda ,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The optical density of the protein bands was analyzed using ImageJ software ( NIH , Bethesda ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "The analysis was done using CytExpert software V2.3.0.84.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The analysis was done using CytExpert software V2.3.0.84."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CytExpert"
+                }],
+              "neText" : "CytExpert"
+            }]
+        }, {
+          "sentence" : "All analyses were performed using GraphPad Prism software version 8.0 (La Jolla, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All analyses were performed using GraphPad Prism software version 8.0 (La Jolla, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All animal experiments were approved by the ethics committee of Zhejiang Ocean University .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All animal experiments were approved by the ethics committee of Zhejiang Ocean University ."
+              }]
+          }, {
+            "sentence" : "After 7 days of continuous administration , the whole blood of mice in each group was obtained by eyeball extraction and mice were euthanized by cervical dislocation , and the serum was separated by centrifugation .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After 7 days of continuous administration , the whole blood of mice in each group was obtained by eyeball extraction and mice were euthanized by cervical dislocation , and the serum was separated by centrifugation ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "A total of 36 male , 6–8 weeks old C57BL/6 mice , weighing between 18–22 g , were purchased from Zi yuan Laboratory Animal Technology Co . , Ltd ( Hangzhou , China) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 36 male , 6–8 weeks old C57BL/6 mice , weighing between 18–22 g , were purchased from Zi yuan Laboratory Animal Technology Co . , Ltd ( Hangzhou , China) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "A total of 36 male , 6–8 weeks old C57BL/6 mice , weighing between 18–22 g , were purchased from Zi yuan Laboratory Animal Technology Co . , Ltd ( Hangzhou , China) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 36 male , 6–8 weeks old C57BL/6 mice , weighing between 18–22 g , were purchased from Zi yuan Laboratory Animal Technology Co . , Ltd ( Hangzhou , China) ."
+              }]
+          }, {
+            "sentence" : "A total of 36 male , 6–8 weeks old C57BL/6 mice , weighing between 18–22 g , were purchased from Zi yuan Laboratory Animal Technology Co . , Ltd ( Hangzhou , China) .",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 36 male , 6–8 weeks old C57BL/6 mice , weighing between 18–22 g , were purchased from Zi yuan Laboratory Animal Technology Co . , Ltd ( Hangzhou , China) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "After one week of acclimation , the mice were randomly assigned to six groups: control group , LPS + 25 % SW group as the model group ( intratracheally administration of 5mg/kg LPS and 25 % SW) , model + dexamethasone ( Dex ) group ( intraperitoneal administration of 5mg/kg dexamethasone) , model + C-PC low , medium , and high-dose groups ( intraperitoneal administration of 100 , 200 and 400 mg/kg C-PC) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After one week of acclimation , the mice were randomly assigned to six groups: control group , LPS + 25 % SW group as the model group ( intratracheally administration of 5mg/kg LPS and 25 % SW) , model + dexamethasone ( Dex ) group ( intraperitoneal administration of 5mg/kg dexamethasone) , model + C-PC low , medium , and high-dose groups ( intraperitoneal administration of 100 , 200 and 400 mg/kg C-PC) ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences between groups were determined using Student’s t-test or one-way ANOVA, and multiple comparisons among groups using the Tukey method were made.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between groups were determined using Student’s t-test or one-way ANOVA, and multiple comparisons among groups using the Tukey method were made."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey method"
+                  }],
+                "neText" : "Tukey method"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Table 1 Primer Sequences and Conditions Used in the Present Study Gene Primer Sequence (5’-3’) Tm (°C) IL-1β F: 5’-GAAATGCCACCTTTTGACAGT G-3’ 61 R: 5’-TGGATGCTCTCATCAGGACAG -3’ TNF -α F: 5’-CCTGTAGCCCACGTCGTAG-3 ’ 61.5 R: 5’-GGGAGTAGACAAGGTACAACC C-3’ MCP-1 F: 5’-TTAAAAACCTGGATCGGAACC AA-3’ 60.7 R: 5’-GCATTAGCTTCAGATTTACGG GT-3’ IL-6 F: 5’-CTGCAAGAGACTTCCATCCAG -3’ 60.8 R: 5’-AGTGGTATAGACAGGTCTGTT GG-3’ MIF F: 5’- GCCAGAGGGGTTTCTGTCG-3’ 62.3 R: 5’- GTTCGTGCCGCTAAAAGTCA-3’ 18srna F: 5’- GTAACCCGTTGAACCCCATT-3’ 70.3 R: 5’- CCATCCAATCGGTAGTAGCG-3’ Abbreviations: Tm, melting temperature; IL-1β, interleukin-1 β; TNF -α, tumor necrosis factor α; MCP-1, macrophage chemoattractant protein-1; IL-6, interleukin-6; MIF, macrophage migration inhibitory factor.",
+            "rowSpan" : 13,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Primer Sequences and Conditions Used in the Present Study Gene Primer Sequence (5’-3’) Tm (°C) IL-1"
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : " F: 5’-GAAATGCCACCTTTTGACAGT G-3’ 61 R: 5’-TGGATGCTCTCATCAGGACAG -3’ TNF -"
+              }, {
+                "f" : "symbol",
+                "c" : "α"
+              }, {
+                "f" : "default",
+                "c" : " F: 5’-CCTGTAGCCCACGTCGTAG-3 ’ 61.5 R: 5’-GGGAGTAGACAAGGTACAACC C-3’ MCP-1 F: 5’-TTAAAAACCTGGATCGGAACC AA-3’ 60.7 R: 5’-GCATTAGCTTCAGATTTACGG GT-3’ IL-6 F: 5’-CTGCAAGAGACTTCCATCCAG -3’ 60.8 R: 5’-AGTGGTATAGACAGGTCTGTT GG-3’ MIF F: 5’- GCCAGAGGGGTTTCTGTCG-3’ 62.3 R: 5’- GTTCGTGCCGCTAAAAGTCA-3’ 18srna F: 5’- GTAACCCGTTGAACCCCATT-3’ 70.3 R: 5’- CCATCCAATCGGTAGTAGCG-3’ Abbreviations: Tm, melting temperature; IL-1"
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : ", interleukin-1 "
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : "; TNF -"
+              }, {
+                "f" : "symbol",
+                "c" : "α"
+              }, {
+                "f" : "default",
+                "c" : ", tumor necrosis factor "
+              }, {
+                "f" : "symbol",
+                "c" : "α"
+              }, {
+                "f" : "default",
+                "c" : "; MCP-1, macrophage chemoattractant protein-1; IL-6, interleukin-6; MIF, macrophage migration inhibitory factor."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-3’"
+                  }],
+                "neText" : "5’-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-GAAATGCCACCTTTTGACAGT G-3’"
+                  }],
+                "neText" : "5’-GAAATGCCACCTTTTGACAGT G-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-TGGATGCTCTCATCAGGACAG -3’"
+                  }],
+                "neText" : "5’-TGGATGCTCTCATCAGGACAG -3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-CCTGTAGCCCACGTCGTAG-3 ’"
+                  }],
+                "neText" : "5’-CCTGTAGCCCACGTCGTAG-3 ’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-GGGAGTAGACAAGGTACAACC C-3’"
+                  }],
+                "neText" : "5’-GGGAGTAGACAAGGTACAACC C-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-TTAAAAACCTGGATCGGAACC AA-3’"
+                  }],
+                "neText" : "5’-TTAAAAACCTGGATCGGAACC AA-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-GCATTAGCTTCAGATTTACGG GT-3’"
+                  }],
+                "neText" : "5’-GCATTAGCTTCAGATTTACGG GT-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-CTGCAAGAGACTTCCATCCAG -3’"
+                  }],
+                "neText" : "5’-CTGCAAGAGACTTCCATCCAG -3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-AGTGGTATAGACAGGTCTGTT GG-3’"
+                  }],
+                "neText" : "5’-AGTGGTATAGACAGGTCTGTT GG-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’- GCCAGAGGGGTTTCTGTCG-3’"
+                  }],
+                "neText" : "5’- GCCAGAGGGGTTTCTGTCG-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’- GTTCGTGCCGCTAAAAGTCA-3’"
+                  }],
+                "neText" : "5’- GTTCGTGCCGCTAAAAGTCA-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’- GTAACCCGTTGAACCCCATT-3’"
+                  }],
+                "neText" : "5’- GTAACCCGTTGAACCCCATT-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’- CCATCCAATCGGTAGTAGCG-3’"
+                  }],
+                "neText" : "5’- CCATCCAATCGGTAGTAGCG-3’"
+              }]
+          }]
+      }]
+  }
+}

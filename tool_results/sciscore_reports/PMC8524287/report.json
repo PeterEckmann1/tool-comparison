@@ -1,0 +1,282 @@
+{
+  "docIdentifier" : "PMC8524287",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "H&E and immunohistochemical staining was performed using the CD8 (Thermo Scientific, cat MS457S), CD45RO (Leica Microsystems, cat PA0146), FOXP3 (Bio Legend, cat 320108), and CD68 (Agilent-Dako, cat M0876) antibodies.",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "H&E and immunohistochemical staining was performed using the CD8 (Thermo Scientific, cat MS457S), CD45RO (Leica Microsystems, cat PA0146), FOXP3 (Bio Legend, cat 320108), and CD68 (Agilent-Dako, cat M0876) antibodies."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD8"
+                }],
+              "neText" : "CD8"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(Innovative Research Cat# MHCD45RO004, RRID:AB_1477565)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD45RO"
+                }],
+              "neText" : "CD45RO"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FOXP3"
+                }],
+              "neText" : "FOXP3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD68"
+                }],
+              "neText" : "CD68"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All clinical analyses were performed in SAS V.9.4 (SAS Institute) and Kaplan-Meier figures were generated in Stata V.16 (StataCorp LLC).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All clinical analyses were performed in SAS V.9.4 (SAS Institute) and Kaplan-Meier figures were generated in Stata V.16 (StataCorp LLC)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata, RRID:SCR_012763",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StataCorp"
+                }],
+              "neText" : "StataCorp"
+            }]
+        }, {
+          "sentence" : "NanoString Bone marrow aspirates (BMAs) from patients were collected in Vacutainer or Cell Preparation Tubes (CPTs) containing sodium heparin (BD Vacutainer, Franklin Lakes, New Jersey, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NanoString Bone marrow aspirates (BMAs) from patients were collected in Vacutainer or Cell Preparation Tubes (CPTs) containing sodium heparin (BD Vacutainer, Franklin Lakes, New Jersey, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BD Vacutainer"
+                }],
+              "neText" : "BD Vacutainer"
+            }]
+        }, {
+          "sentence" : "22 23 Data were plotted using GraphPad Prism 8 (GraphPad Software V.8.4.3).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "22 23 Data were plotted using GraphPad Prism 8 (GraphPad Software V.8.4.3)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Key inclusion criteria included age 18 years or older histologically or cytologically confirmed adenocarcinoma of the prostate with evidence of metastatic disease to the bone on radionuclide bone scan, CT scan or MRI scan tumor progression on gonadotropin-releasing hormone analog with castrate levels serum testosterone (<=1.7 nmolL or 50 ngdL) with prostate-specific antigen (PSA) andor radiographic progression according to Prostate Cancer Working Group 3 (PCWG3) criteria asymptomatic or minimally symptomatic disease Eastern Cooperative Oncology Group performance status of 0 or 1, and adequate hematologic (including hemoglobin >=110 gL), renal, and hepatic function.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Key inclusion criteria included age 18 years or older histologically or cytologically confirmed adenocarcinoma of the prostate with evidence of metastatic disease to the bone on radionuclide bone scan, CT scan or MRI scan tumor progression on gonadotropin-releasing hormone analog with castrate levels serum testosterone (<=1.7 nmolL or 50 ngdL) with prostate-specific antigen (PSA) andor radiographic progression according to Prostate Cancer Working Group 3 (PCWG3) criteria asymptomatic or minimally symptomatic disease Eastern Cooperative Oncology Group performance status of 0 or 1, and adequate hematologic (including hemoglobin >=110 gL), renal, and hepatic function."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Key inclusion criteria included age 18 years or older histologically or cytologically confirmed adenocarcinoma of the prostate with evidence of metastatic disease to the bone on radionuclide bone scan, CT scan or MRI scan tumor progression on gonadotropin-releasing hormone analog with castrate levels serum testosterone (<=1.7 nmolL or 50 ngdL) with prostate-specific antigen (PSA) andor radiographic progression according to Prostate Cancer Working Group 3 (PCWG3) criteria asymptomatic or minimally symptomatic disease Eastern Cooperative Oncology Group performance status of 0 or 1, and adequate hematologic (including hemoglobin >=110 gL), renal, and hepatic function.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Key inclusion criteria included age 18 years or older histologically or cytologically confirmed adenocarcinoma of the prostate with evidence of metastatic disease to the bone on radionuclide bone scan, CT scan or MRI scan tumor progression on gonadotropin-releasing hormone analog with castrate levels serum testosterone (<=1.7 nmolL or 50 ngdL) with prostate-specific antigen (PSA) andor radiographic progression according to Prostate Cancer Working Group 3 (PCWG3) criteria asymptomatic or minimally symptomatic disease Eastern Cooperative Oncology Group performance status of 0 or 1, and adequate hematologic (including hemoglobin >=110 gL), renal, and hepatic function."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Statistical analyses The full statistical analysis plan is available in the protocol in online supplemental appendix 1.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analyses The full statistical analysis plan is available in the protocol in online supplemental appendix 1."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Exploratory subgroup comparisons used the log-rank test and are reported with median time and 95 CIs.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Exploratory subgroup comparisons used the log-rank test and are reported with median time and 95 CIs."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }, {
+            "sentence" : "Statistical analysis was performed using the two-tailed Students t-test to compare two groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis was performed using the two-tailed Students t-test to compare two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

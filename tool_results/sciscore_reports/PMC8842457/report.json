@@ -1,0 +1,199 @@
+{
+  "docIdentifier" : "PMC8842457",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The study protocol was approved by the UCSF Human Research Protection Program Institutional Review Board (18-24261).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The study protocol was approved by the UCSF Human Research Protection Program Institutional Review Board (18-24261)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UCSF Human Research Protection Program"
+                }],
+              "neText" : "UCSF Human Research Protection Program"
+            }]
+        }, {
+          "sentence" : "Instruments Upon enrollment, participants were asked to complete questionnaires in REDCap 38 (link sent via email).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Instruments Upon enrollment, participants were asked to complete questionnaires in REDCap 38 (link sent via email)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "REDCap (RRID:SCR_003445)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "REDCap"
+                }],
+              "neText" : "REDCap"
+            }]
+        }, {
+          "sentence" : "The instruments included in the symptoms and wellbeing survey were: the National Comprehensive Cancer Network Distress thermometer (NCCN DT) 40,41  National Institutes of Health Patient Reported Outcomes Measurement Information System (NIH PROMIS) Anxiety 4a, Depression 6a, Global Health--Mental 2a, Self-Efficacy for Managing Emotions 4a (baseline only), and Sleep Disturbance 4a Five Facet Mindfulness Questionnaire Short Form (FFMQ-SF) and the Are You at Peace? one-item spiritual probe.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The instruments included in the symptoms and wellbeing survey were: the National Comprehensive Cancer Network Distress thermometer (NCCN DT) 40,41  National Institutes of Health Patient Reported Outcomes Measurement Information System (NIH PROMIS) Anxiety 4a, Depression 6a, Global Health--Mental 2a, Self-Efficacy for Managing Emotions 4a (baseline only), and Sleep Disturbance 4a Five Facet Mindfulness Questionnaire Short Form (FFMQ-SF) and the Are You at Peace? one-item spiritual probe."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PROMIS 2 MY Health (RRID:SCR_021215)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PROMIS"
+                }],
+              "neText" : "PROMIS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study protocol was approved by the UCSF Human Research Protection Program Institutional Review Board (18-24261).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol was approved by the UCSF Human Research Protection Program Institutional Review Board (18-24261)."
+              }]
+          }, {
+            "sentence" : "Participants provided written informed consent prior to study procedures (Supplementary Table S2).",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants provided written informed consent prior to study procedures (Supplementary Table S2)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Caregivers (i.e., a family member or friend) were eligible if paired with a participating patient.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Caregivers (i.e., a family member or friend) were eligible if paired with a participating patient."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "All tracks were recorded in a female and a male voice and were engineered for uniform length per track.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All tracks were recorded in a female and a male voice and were engineered for uniform length per track."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "For the sample size calculation, an attrition rate of 23 was anticipated based on BP1.0 16 and feasibility was based on a retention rate of >=70 (i.e., >=70 of participants completing any follow-up assessment).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the sample size calculation, an attrition rate of 23 was anticipated based on BP1.0 16 and feasibility was based on a retention rate of >=70 (i.e., >=70 of participants completing any follow-up assessment)."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Transcripts of the pre- and post-intervention interviews were coded using Atlas. ti software for qualitative data analysis by at least two investigators.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Transcripts of the pre- and post-intervention interviews were coded using Atlas. ti software for qualitative data analysis by at least two investigators."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Baseline characteristics of evaluable and non-evaluable participants were compared using t-tests for continuous and Fishers exact tests for categorical measures.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Baseline characteristics of evaluable and non-evaluable participants were compared using t-tests for continuous and Fishers exact tests for categorical measures."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact tests"
+                  }],
+                "neText" : "Fishers exact tests"
+              }]
+          }]
+      }]
+  }
+}

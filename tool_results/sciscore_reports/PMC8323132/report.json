@@ -1,0 +1,157 @@
+{
+  "docIdentifier" : "PMC8323132",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analyses were performed using SAS version 9.3 (SAS Institute, Cary, NC, USA) and SPSS version 23 (IBM, Armonk, NY, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were performed using SAS version 9.3 (SAS Institute, Cary, NC, USA) and SPSS version 23 (IBM, Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Patients Patients >=18 years of age on maintenance (>3 months of haemodialysis) dialysis with a standard regimen (three dialysis sessions per week, dialysis duration 4 h) and treated in the nephrology unit of the University Hospitals Leuven (Belgium) were considered to be eligible to participate after providing signed and dated informed consent according to good clinical practice guidelines.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients Patients >=18 years of age on maintenance (>3 months of haemodialysis) dialysis with a standard regimen (three dialysis sessions per week, dialysis duration 4 h) and treated in the nephrology unit of the University Hospitals Leuven (Belgium) were considered to be eligible to participate after providing signed and dated informed consent according to good clinical practice guidelines."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients Patients >=18 years of age on maintenance (>3 months of haemodialysis) dialysis with a standard regimen (three dialysis sessions per week, dialysis duration 4 h) and treated in the nephrology unit of the University Hospitals Leuven (Belgium) were considered to be eligible to participate after providing signed and dated informed consent according to good clinical practice guidelines.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients Patients >=18 years of age on maintenance (>3 months of haemodialysis) dialysis with a standard regimen (three dialysis sessions per week, dialysis duration 4 h) and treated in the nephrology unit of the University Hospitals Leuven (Belgium) were considered to be eligible to participate after providing signed and dated informed consent according to good clinical practice guidelines."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Patients Patients >=18 years of age on maintenance (>3 months of haemodialysis) dialysis with a standard regimen (three dialysis sessions per week, dialysis duration 4 h) and treated in the nephrology unit of the University Hospitals Leuven (Belgium) were considered to be eligible to participate after providing signed and dated informed consent according to good clinical practice guidelines.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients Patients >=18 years of age on maintenance (>3 months of haemodialysis) dialysis with a standard regimen (three dialysis sessions per week, dialysis duration 4 h) and treated in the nephrology unit of the University Hospitals Leuven (Belgium) were considered to be eligible to participate after providing signed and dated informed consent according to good clinical practice guidelines."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Patients were randomized by the envelope method to start one of two study arms and were crossed to the other study arm after six haemodialysis sessions.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were randomized by the envelope method to start one of two study arms and were crossed to the other study arm after six haemodialysis sessions."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences between reduction ratios were analysed using paired t-test or Wilcoxon signed-rank test, depending on the distribution of variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between reduction ratios were analysed using paired t-test or Wilcoxon signed-rank test, depending on the distribution of variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed-rank test"
+                  }],
+                "neText" : "Wilcoxon signed-rank test"
+              }]
+          }]
+      }]
+  }
+}

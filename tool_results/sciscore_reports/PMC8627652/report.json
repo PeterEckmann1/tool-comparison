@@ -1,0 +1,258 @@
+{
+  "docIdentifier" : "PMC8627652",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "MS survey scans were performed for mass-to-charge ratios ranging from 350-1,800, and the 20 most intense ions from the survey scans were analyzed by MSMS spectra in the LTQ, which were determined using Xcalibur mass spectrometer software in real-time.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MS survey scans were performed for mass-to-charge ratios ranging from 350-1,800, and the 20 most intense ions from the survey scans were analyzed by MSMS spectra in the LTQ, which were determined using Xcalibur mass spectrometer software in real-time."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MSMS (RRID:SCR_003532)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MSMS"
+                }],
+              "neText" : "MSMS"
+            }]
+        }, {
+          "sentence" : "Processing of MS data Raw files were processed using MaxQuant (version 1.2.2.5) (Cox & Mann, 2008) and searched against the UniProt Staphylococcus NCTC8325 protein database (20151213 UniProtKB: UP000008816 2,889 sequences).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Processing of MS data Raw files were processed using MaxQuant (version 1.2.2.5) (Cox & Mann, 2008) and searched against the UniProt Staphylococcus NCTC8325 protein database (20151213 UniProtKB: UP000008816 2,889 sequences)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MaxQuant (RRID:SCR_014485)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MaxQuant"
+                }],
+              "neText" : "MaxQuant"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "UniProt (RRID:SCR_002380)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }]
+        }, {
+          "sentence" : "Bioinformatics analysis of the endogenous peptidome To annotate the features of the peptidome, EMBOSS (Rice, Longden & Bleasby, 2000) was used to calculate the isoelectric point (pI) and molecular weight (Mw) of the peptide sequences.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bioinformatics analysis of the endogenous peptidome To annotate the features of the peptidome, EMBOSS (Rice, Longden & Bleasby, 2000) was used to calculate the isoelectric point (pI) and molecular weight (Mw) of the peptide sequences."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "EMBOSS (RRID:SCR_008493)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EMBOSS"
+                }],
+              "neText" : "EMBOSS"
+            }]
+        }, {
+          "sentence" : "To analyze the sequence patterns of proteases to generate endogenous peptides, the amino acid sequences surrounding the termini of peptides were extracted, and overrepresented amino acids were analyzed using iceLogo (Colaert et al., 2009).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To analyze the sequence patterns of proteases to generate endogenous peptides, the amino acid sequences surrounding the termini of peptides were extracted, and overrepresented amino acids were analyzed using iceLogo (Colaert et al., 2009)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "iceLogo (RRID:SCR_012137)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "iceLogo"
+                }],
+              "neText" : "iceLogo"
+            }]
+        }, {
+          "sentence" : "Interactions among precursor proteins were annotated by the STRING database (Szklarczyk et al., 2017), and the protein-protein interaction network was constructed using Cytoscape software (Kohl, Wiese & Warscheid, 2011).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Interactions among precursor proteins were annotated by the STRING database (Szklarczyk et al., 2017), and the protein-protein interaction network was constructed using Cytoscape software (Kohl, Wiese & Warscheid, 2011)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "STRING (RRID:SCR_005223)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }, {
+          "sentence" : "The database for annotation, visualization, and integrated discovery (DAVID) (version 6.8) (Huang da, Sherman & Lempicki, 2009) was used to identify significantly enriched gene ontology terms in biological processes (BP), molecular function (MF), and cellular component (CC) categories for the precursor proteins of the DE endogenous peptidome.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The database for annotation, visualization, and integrated discovery (DAVID) (version 6.8) (Huang da, Sherman & Lempicki, 2009) was used to identify significantly enriched gene ontology terms in biological processes (BP), molecular function (MF), and cellular component (CC) categories for the precursor proteins of the DE endogenous peptidome."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DAVID (RRID:SCR_001881)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "One-way ANOVA was performed to analyze the differential expression of peptides among groups, and a peptide was considered differentially expressed if the FDR-q value was less than 0.01.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way ANOVA was performed to analyze the differential expression of peptides among groups, and a peptide was considered differentially expressed if the FDR-q value was less than 0.01."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "docIdentifier" : "PMC8353912",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Anti-mouse-CD44 antibody (IM7) was purchased from Bio X Cell (West Lebanon, NH, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Anti-mouse-CD44 antibody (IM7) was purchased from Bio X Cell (West Lebanon, NH, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-mouse-CD44"
+                }],
+              "neText" : "Anti-mouse-CD44"
+            }]
+        }, {
+          "sentence" : "To confirm the specific binding of the anti-CD44-IR700, a 10-fold excess of unconjugated anti-CD44 antibody was added to some samples 30 min prior to the administration of the APC.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To confirm the specific binding of the anti-CD44-IR700, a 10-fold excess of unconjugated anti-CD44 antibody was added to some samples 30 min prior to the administration of the APC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD44-IR700"
+                }],
+              "neText" : "anti-CD44-IR700"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD44"
+                }],
+              "neText" : "anti-CD44"
+            }]
+        }, {
+          "sentence" : "The cells were stained with antibodies anti-CD31(clone 390 BioLegend, San Diego, CA, USA), anti-CD44 (clone IM7 Thermo Fisher Scientific), anti-CD45 (clone 30-F11 Thermo Fisher Scientific), and anti-CD140a (clone 135 905 BioLegend).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The cells were stained with antibodies anti-CD31(clone 390 BioLegend, San Diego, CA, USA), anti-CD44 (clone IM7 Thermo Fisher Scientific), anti-CD45 (clone 30-F11 Thermo Fisher Scientific), and anti-CD140a (clone 135 905 BioLegend)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD31"
+                }],
+              "neText" : "anti-CD31"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD45"
+                }],
+              "neText" : "anti-CD45"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD140a"
+                }],
+              "neText" : "anti-CD140a"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "2.3 Cell culture The MOC2 cell line (murine oral cancer) was purchased from Kerafast (Boston, MA, USA) and luciferase was transduced with RediFect Red-Fluc lentivirus (PerkinElmer, Waltham, MA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.3 Cell culture The MOC2 cell line (murine oral cancer) was purchased from Kerafast (Boston, MA, USA) and luciferase was transduced with RediFect Red-Fluc lentivirus (PerkinElmer, Waltham, MA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_ZD33)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MOC2"
+                }],
+              "neText" : "MOC2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Six- to eight-wk-old female C57BL6 mice were purchased from the Jackson Laboratory (Bar Harbor, ME, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Six- to eight-wk-old female C57BL6 mice were purchased from the Jackson Laboratory (Bar Harbor, ME, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The cells were cultured in a mixture of Iscoves Modified Dulbeccos Medium (IMDM) and Hams Nutrient Mixture F12 Medium (at a ratio of 2:1, GE Health Healthcare Life Sciences) supplemented with 5 fetal bovine serum (Thermo Fisher Scientific, Rockford, IL, USA), 1 penicillinstreptomycin (Thermo Fisher Scientific), 5 ngmL insulin (Millipore Sigma, Burlington, MA, USA), 40 ngmL hydrocortisone (Millipore Sigma), and 3.5 ngmL human recombinant epidermal growth factor (EGF) (Millipore Sigma).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The cells were cultured in a mixture of Iscoves Modified Dulbeccos Medium (IMDM) and Hams Nutrient Mixture F12 Medium (at a ratio of 2:1, GE Health Healthcare Life Sciences) supplemented with 5 fetal bovine serum (Thermo Fisher Scientific, Rockford, IL, USA), 1 penicillinstreptomycin (Thermo Fisher Scientific), 5 ngmL insulin (Millipore Sigma, Burlington, MA, USA), 40 ngmL hydrocortisone (Millipore Sigma), and 3.5 ngmL human recombinant epidermal growth factor (EGF) (Millipore Sigma)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Health Healthcare"
+                }],
+              "neText" : "Health Healthcare"
+            }]
+        }, {
+          "sentence" : "After washing with PBS, the fluorescence of the cells was analyzed using a flow cytometer (FACSLyric, BD Biosciences, San Jose, CA, USA) and FlowJo software (BD Biosciences).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After washing with PBS, the fluorescence of the cells was analyzed using a flow cytometer (FACSLyric, BD Biosciences, San Jose, CA, USA) and FlowJo software (BD Biosciences)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "Statistical analysis was performed using GraphPad Prism software (GraphPad Software, La Jolla, CA, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis was performed using GraphPad Prism software (GraphPad Software, La Jolla, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2.6 Animals and tumor models All in vivo procedures were conducted in compliance with the Guide for the Care and Use of Laboratory Animal Resources (1996), US National Research Council, and approved by the local Animal Care and Use Committee.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.6 Animals and tumor models All in vivo procedures were conducted in compliance with the Guide for the Care and Use of Laboratory Animal Resources (1996), US National Research Council, and approved by the local Animal Care and Use Committee."
+              }]
+          }, {
+            "sentence" : "All in vivo procedures were performed under anesthesia using inhaled 2-5 isoflurane andor intraperitoneal injection of 0.75 mg of sodium pentobarbital (Ovation Pharmaceuticals, Deerfield, IL, USA).",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All in vivo procedures were performed under anesthesia using inhaled 2-5 isoflurane andor intraperitoneal injection of 0.75 mg of sodium pentobarbital (Ovation Pharmaceuticals, Deerfield, IL, USA)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Six- to eight-wk-old female C57BL6 mice were purchased from the Jackson Laboratory (Bar Harbor, ME, USA).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Six- to eight-wk-old female C57BL6 mice were purchased from the Jackson Laboratory (Bar Harbor, ME, USA)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Six- to eight-wk-old female C57BL6 mice were purchased from the Jackson Laboratory (Bar Harbor, ME, USA).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Six- to eight-wk-old female C57BL6 mice were purchased from the Jackson Laboratory (Bar Harbor, ME, USA)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "RFI was calculated from mean fluorescence intensity (MFI) as (MFI of measured time point)(MFI of pre-injection status). 2.9 In vivo NIR-PIT Tumor bearing mice were randomized into 3 experimental groups: (1) no-treatment (control group), (2) intravenous (IV) injection of anti-CD44-IR700 (100 mg) without NIR light exposure (APC-IV group), and (3) IV injection of anti-CD44-IR700 (100 mg) followed by NIR light exposure (NIR-PIT group).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RFI was calculated from mean fluorescence intensity (MFI) as (MFI of measured time point)(MFI of pre-injection status). 2.9 In vivo NIR-PIT Tumor bearing mice were randomized into 3 experimental groups: (1) no-treatment (control group), (2) intravenous (IV) injection of anti-CD44-IR700 (100 mg) without NIR light exposure (APC-IV group), and (3) IV injection of anti-CD44-IR700 (100 mg) followed by NIR light exposure (NIR-PIT group)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "For one-time measurements, a one-way ANOVA followed by Tukey test was used.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For one-time measurements, a one-way ANOVA followed by Tukey test was used."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey test"
+                  }],
+                "neText" : "Tukey test"
+              }]
+          }]
+      }]
+  }
+}

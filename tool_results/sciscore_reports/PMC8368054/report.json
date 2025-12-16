@@ -1,0 +1,148 @@
+{
+  "docIdentifier" : "PMC8368054",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "We obtained additional time-varying covariates for each state and year that were likely related to changes in policies affecting SNAP eligibility or the number of new HIV diagnoses: gross domestic product (GDP) 29, average cost of a meal for a food-secure household 30, unemployment rate 31, health expenditures per capita 32, housing price index 33, high school graduation rate 34, health uninsured rate 35, federal and state TANF spending (assistance and nonassistance) 36, state spending on SNAP outreach projects 37, and other policies affecting SNAP access included as components of the SNAP Policy Index of the Economic Research Service of the Department of Agriculture: Stigma Index (proportion of SNAP benefits in the state redeemed through electronic benefit transfer, whether there was a fingerprint requirement for SNAP), Outreach Index (whether the state had a federally funded radio or TV ad to raise awareness about SNAP among nonparticipants), and Transaction Cost Index (whether SNAP application can be submitted online, length of recertification periods, and whether there was a simplified reporting option to report change in household circumstances) 38.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We obtained additional time-varying covariates for each state and year that were likely related to changes in policies affecting SNAP eligibility or the number of new HIV diagnoses: gross domestic product (GDP) 29, average cost of a meal for a food-secure household 30, unemployment rate 31, health expenditures per capita 32, housing price index 33, high school graduation rate 34, health uninsured rate 35, federal and state TANF spending (assistance and nonassistance) 36, state spending on SNAP outreach projects 37, and other policies affecting SNAP access included as components of the SNAP Policy Index of the Economic Research Service of the Department of Agriculture: Stigma Index (proportion of SNAP benefits in the state redeemed through electronic benefit transfer, whether there was a fingerprint requirement for SNAP), Outreach Index (whether the state had a federally funded radio or TV ad to raise awareness about SNAP among nonparticipants), and Transaction Cost Index (whether SNAP application can be submitted online, length of recertification periods, and whether there was a simplified reporting option to report change in household circumstances) 38."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SNAP (RRID:SCR_007936)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SNAP"
+                }],
+              "neText" : "SNAP"
+            }]
+        }, {
+          "sentence" : "We performed statistical analysis using SAS, version 9.4, and R, version 3.5.2, using the ggplot2 package.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We performed statistical analysis using SAS, version 9.4, and R, version 3.5.2, using the ggplot2 package."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS"
+                }],
+              "neText" : "SAS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ggplot2 (RRID:SCR_014601)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ggplot2"
+                }],
+              "neText" : "ggplot2"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Finally, we excluded the District of Columbia, which was an outlier both in terms of high HIV incidence and average meal cost.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Finally, we excluded the District of Columbia, which was an outlier both in terms of high HIV incidence and average meal cost."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

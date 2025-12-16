@@ -1,0 +1,163 @@
+{
+  "docIdentifier" : "PMC8896485",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "28 2.6 Statistical analysis SPSS 20.0 was used for statistical analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "28 2.6 Statistical analysis SPSS 20.0 was used for statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was reviewed and approved by the Medical Ethical Committee of Affiliated Hospital of Guangdong Medical University",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was reviewed and approved by the Medical Ethical Committee of Affiliated Hospital of Guangdong Medical University"
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained from each enrolled patient .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from each enrolled patient ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Exclusion criteria: patients who have withdrawn from hydrogen-oxygen therapy patients accompanied with liver, kidney, and heart diseases.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Exclusion criteria: patients who have withdrawn from hydrogen-oxygen therapy patients accompanied with liver, kidney, and heart diseases."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The patients recruited in this study meet any of the following criteria: patients were diagnosed as COVID-19 patients were aged between 18 and 80 years patients were treated with nebulized hydrogen-oxygen mixture.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The patients recruited in this study meet any of the following criteria: patients were diagnosed as COVID-19 patients were aged between 18 and 80 years patients were treated with nebulized hydrogen-oxygen mixture."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The difference of continuous variables before and after treatment was compared by Mann-Whitney U test, and the difference of classified variables was compared by chi square test and Fisher exact test.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The difference of continuous variables before and after treatment was compared by Mann-Whitney U test, and the difference of classified variables was compared by chi square test and Fisher exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi square test"
+                  }],
+                "neText" : "chi square test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher exact test"
+                  }],
+                "neText" : "Fisher exact test"
+              }]
+          }]
+      }]
+  }
+}

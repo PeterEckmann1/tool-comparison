@@ -1,0 +1,209 @@
+{
+  "docIdentifier" : "PMC8339417",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis was performed using StatSoft Statistica software version 13.0 (",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis was performed using StatSoft Statistica software version 13.0 ("
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "STATISTICA  (RRID:SCR_014213)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StatSoft Statistica"
+                }],
+              "neText" : "StatSoft Statistica"
+            }]
+        }, {
+          "sentence" : ", Palo Alto, CA, USA) and Microsoft Excel for MAC ver. 16.24.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", Palo Alto, CA, USA) and Microsoft Excel for MAC ver. 16.24."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was approved by the Institutional Review Board of Ryazan State Medical University (No. 01/2017).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the Institutional Review Board of Ryazan State Medical University (No. 01/2017)."
+              }]
+          }, {
+            "sentence" : "All subjects gave informed consent to the work.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All subjects gave informed consent to the work."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were as follows: (1) males or females aged ≥40 years old and (2) presence of PAD.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were as follows: (1) males or females aged "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "40 years old and (2) presence of PAD."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were as follows: (1) males or females aged ≥40 years old and (2) presence of PAD.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were as follows: (1) males or females aged "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "40 years old and (2) presence of PAD."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were as follows: (1) males or females aged ≥40 years old and (2) presence of PAD.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were as follows: (1) males or females aged "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "40 years old and (2) presence of PAD."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Comparisons were made using the Mann–Whitney U-test, as a non-parametric alternative test to the independent sample t-test, Wilcoxon test for paired samples, and Spearman rank correlation for determining any associations between two ranked variables.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons were made using the Mann–Whitney U-test, as a non-parametric alternative test to the independent sample t-test, Wilcoxon test for paired samples, and Spearman rank correlation for determining any associations between two ranked variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann–Whitney U-test"
+                  }],
+                "neText" : "Mann–Whitney U-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon test"
+                  }],
+                "neText" : "Wilcoxon test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman rank correlation"
+                  }],
+                "neText" : "Spearman rank correlation"
+              }]
+          }]
+      }]
+  }
+}

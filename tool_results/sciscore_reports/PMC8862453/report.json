@@ -1,0 +1,131 @@
+{
+  "docIdentifier" : "PMC8862453",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "30 Online supplemental table 1 lists the ICD, ATC and NOMESCO codes that were used.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "30 Online supplemental table 1 lists the ICD, ATC and NOMESCO codes that were used."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ATC"
+                }],
+              "neText" : "ATC"
+            }]
+        }, {
+          "sentence" : "Statistical analyses were performed using SAS software (V.9.4 SAS Institute).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were performed using SAS software (V.9.4 SAS Institute)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "20 This age was chosen to include most patients with type 2 diabetes while also excluding most patients with type 1 diabetes, gestational diabetes and polycystic ovary syndrome.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "20 This age was chosen to include most patients with type 2 diabetes while also excluding most patients with type 1 diabetes, gestational diabetes and polycystic ovary syndrome."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "21 We excluded patients with a history of diverticular disease, inflammatory bowel disease and colorectal cancer before the index date, the last two due to the colonoscopic surveillance associated with these conditions.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "21 We excluded patients with a history of diverticular disease, inflammatory bowel disease and colorectal cancer before the index date, the last two due to the colonoscopic surveillance associated with these conditions."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Patients with and without type 2 diabetes We assembled a cohort of patients with type 2 diabetes by identifying patients that before the index date had a hospital-based diagnosis of diabetes or a redeemed prescription for glucose-lowering medication at or above 40 years of age.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients with and without type 2 diabetes We assembled a cohort of patients with type 2 diabetes by identifying patients that before the index date had a hospital-based diagnosis of diabetes or a redeemed prescription for glucose-lowering medication at or above 40 years of age."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

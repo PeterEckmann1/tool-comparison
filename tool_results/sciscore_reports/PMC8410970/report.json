@@ -1,0 +1,162 @@
+{
+  "docIdentifier" : "PMC8410970",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis A database was established using Excel 2007.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis A database was established using Excel 2007."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Excel"
+                }],
+              "neText" : "Excel"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Medical Ethics Committee of our hospital, and all participants signed informed consent forms and voluntarily participated in the study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Medical Ethics Committee of our hospital, and all participants signed informed consent forms and voluntarily participated in the study."
+              }]
+          }, {
+            "sentence" : "This study was approved by the Medical Ethics Committee of our hospital, and all participants signed informed consent forms and voluntarily participated in the study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Medical Ethics Committee of our hospital, and all participants signed informed consent forms and voluntarily participated in the study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "In terms of histopathological type, the 122 patients included 79 patients with ovarian serous cystadenocarcinoma, 28 patients with ovarian mucinous cystadenocarcinoma, and 15 patients with ovarian endometrioid carcinoma; in terms of clinical staging according to the criteria released by the International Federation of Gynecology and Obstetrics (FIGO), there were 10 patients at stage I, 36 patients at stage II, 64 patients at stage III, and 12 patients at stage IV; in terms of differentiation according to grading criteria released by the WHO, there were 15 patients with high differentiation, 33 patients with moderate differentiation, and 74 patients without differentiation.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In terms of histopathological type, the 122 patients included 79 patients with ovarian serous cystadenocarcinoma, 28 patients with ovarian mucinous cystadenocarcinoma, and 15 patients with ovarian endometrioid carcinoma; in terms of clinical staging according to the criteria released by the International Federation of Gynecology and Obstetrics (FIGO), there were 10 patients at stage I, 36 patients at stage II, 64 patients at stage III, and 12 patients at stage IV; in terms of differentiation according to grading criteria released by the WHO, there were 15 patients with high differentiation, 33 patients with moderate differentiation, and 74 patients without differentiation."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "They were between 25 and 81 years old, with a median age of 56.82 years, treated for the first time, without any radiotherapy, chemotherapy and endocrinotherapy before.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "They were between 25 and 81 years old, with a median age of 56.82 years, treated for the first time, without any radiotherapy, chemotherapy and endocrinotherapy before."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "SPSS17.0 (Chicago, IL, USA), t test, and χ2 test were adopted.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "SPSS17.0 (Chicago, IL, USA), t test, and "
+              }, {
+                "f" : "symbol",
+                "c" : "χ"
+              }, {
+                "f" : "default",
+                "c" : "2 test were adopted."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "symbol",
+                    "c" : "χ"
+                  }, {
+                    "f" : "default",
+                    "c" : "2 test"
+                  }],
+                "neText" : "χ2 test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "docIdentifier" : "PMC8798196",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The membrane was sealed with 5 skim milk for 1 hour at room temperature and incubated with anti-E-cadherin antibody (ab76055, Abcam, USA) overnight at 4 degC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membrane was sealed with 5 skim milk for 1 hour at room temperature and incubated with anti-E-cadherin antibody (ab76055, Abcam, USA) overnight at 4 degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-E-cadherin"
+                }],
+              "neText" : "anti-E-cadherin"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell culture and transfection The NSCLC cell lines A549 and PC9 and the human normal lung epithelial cells BEAS-2B were supplied by American Type Culture Collection (ATCC Manassas, VA, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture and transfection The NSCLC cell lines A549 and PC9 and the human normal lung epithelial cells BEAS-2B were supplied by American Type Culture Collection (ATCC Manassas, VA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0168",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BEAS-2B"
+                }],
+              "neText" : "BEAS-2B"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Luciferase reporter assay The pmirGLO vector was used to construct pmirGLO-ZNF674-AS1-wt ( wild type) , pmirGLO- ZNF674-AS1-mut ( Mutant) , pmirGLO-E-Cadherin 3UTR ( three prime untranslated region)-wt , and pmirGLO-E-cadherin 3UTR-mut fluorescence reporter gene plasmids .",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Luciferase reporter assay The pmirGLO vector was used to construct pmirGLO-ZNF674-AS1-wt ( wild type) , pmirGLO- ZNF674-AS1-mut ( Mutant) , pmirGLO-E-Cadherin 3UTR ( three prime untranslated region)-wt , and pmirGLO-E-cadherin 3UTR-mut fluorescence reporter gene plasmids ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pmirGLO"
+                }],
+              "neText" : "pmirGLO"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pmirGLO-ZNF674-AS1-wt"
+                }],
+              "neText" : "pmirGLO-ZNF674-AS1-wt"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pmirGLO-E-Cadherin 3UTR"
+                }],
+              "neText" : "pmirGLO-E-Cadherin 3UTR"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pmirGLO-E-cadherin 3UTR-mut fluorescence reporter"
+                }],
+              "neText" : "pmirGLO-E-cadherin 3UTR-mut fluorescence reporter"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis Data were analyzed using SPSS18.0 software (IBM, IL, USA) and GraphPad Prism 5 (GraphPad Software, CA, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Data were analyzed using SPSS18.0 software (IBM, IL, USA) and GraphPad Prism 5 (GraphPad Software, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Written informed consent was obtained from each patient.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from each patient."
+              }]
+          }, {
+            "sentence" : "Approval for the collection and application of patient specimens was granted by the ethics committee of the First Affiliated Hospital of Hainan Medical University (No.: 2019-57).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Approval for the collection and application of patient specimens was granted by the ethics committee of the First Affiliated Hospital of Hainan Medical University (No.: 2019-57)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each experiment was repeated at least three times independently, and the data were expressed as average +- standard deviation.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each experiment was repeated at least three times independently, and the data were expressed as average +- standard deviation."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "Each experiment was repeated at least three times independently, and the data were expressed as average +- standard deviation.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each experiment was repeated at least three times independently, and the data were expressed as average +- standard deviation."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences between two groups were analyzed by Students t-test, and single-factor variance analysis was used for comparisons between two groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between two groups were analyzed by Students t-test, and single-factor variance analysis was used for comparisons between two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

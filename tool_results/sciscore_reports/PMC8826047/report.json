@@ -1,0 +1,142 @@
+{
+  "docIdentifier" : "PMC8826047",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "We then converted video files filmed at 30 frames per second to AVI using Ubuntu ( v . 2004.2021.222.0 ) and imported them into ImageJ ( version 1.52i ) for visual analysis .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We then converted video files filmed at 30 frames per second to AVI using Ubuntu ( v . 2004.2021.222.0 ) and imported them into ImageJ ( version 1.52i ) for visual analysis ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "We also excluded the data from hive E in the per-protocol analysis: we had begun the experiment the day before and had to stop the trial prematurely .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We also excluded the data from hive E in the per-protocol analysis: we had begun the experiment the day before and had to stop the trial prematurely ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "One feeder was placed on the north tripod and the other was placed on the south tripod, and we randomly assigned the color cue background (yellow or blue, alternating between trials).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One feeder was placed on the north tripod and the other was placed on the south tripod, and we randomly assigned the color cue background (yellow or blue, alternating between trials)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The feeder was placed at each successive position until every forager demonstrated that they had learned the current position by visiting the feeder at least three times.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The feeder was placed at each successive position until every forager demonstrated that they had learned the current position by visiting the feeder at least three times."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "We will present here the results of the ( more philosophically correct ) Bayesian models , and the Maximum Likelihood Models are available upon request .",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We will present here the results of the ( more philosophically correct ) Bayesian models , and the Maximum Likelihood Models are available upon request ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  }
+}

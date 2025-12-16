@@ -1,0 +1,431 @@
+{
+  "docIdentifier" : "PMC8762459",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Bodyweight and food consumption were measured weekly. 2.3 Rodent in vivo RCT studies Labeled J774.2 macrophages (European Collection of Cell Cultures) (∼2 × 106 cells/4 × 106 dpm/mouse) were injected into C57BL/6J mice in the intraperitoneal cavity; the mice were housed individually in metabolic cages (Tecniplast, PA, USA) from 12 to 24 h post-injection and fed respective diets ad libitum.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bodyweight and food consumption were measured weekly. 2.3 Rodent in vivo RCT studies Labeled J774.2 macrophages (European Collection of Cell Cultures) ("
+            }, {
+              "f" : "symbol",
+              "c" : "∼"
+            }, {
+              "f" : "default",
+              "c" : "2 × 106 cells/4 × 106 dpm/mouse) were injected into C57BL/6J mice in the intraperitoneal cavity; the mice were housed individually in metabolic cages (Tecniplast, PA, USA) from 12 to 24 h post-injection and fed respective diets ad libitum."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6J"
+                }],
+              "neText" : "C57BL/6J"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All other reagents, unless otherwise stated, were obtained from Sigma Aldrich Ltd. 2.2 Animals Animal care, procedures, and ethical approval were obtained from UCD, Ireland and UCC Ethics Committee.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All other reagents, unless otherwise stated, were obtained from Sigma Aldrich Ltd. 2.2 Animals Animal care, procedures, and ethical approval were obtained from UCD, Ireland and UCC Ethics Committee."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Sigma-Aldrich (RRID:SCR_008988)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma Aldrich"
+                }],
+              "neText" : "Sigma Aldrich"
+            }]
+        }, {
+          "sentence" : "Peptides and proteins were matched to the UniProt Human database and label-free quantitative ( LFQ ) ion intensities were generated using the default setting of MaxQuant , a quantitative proteomics software package.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Peptides and proteins were matched to the UniProt Human database and label-free quantitative ( LFQ ) ion intensities were generated using the default setting of MaxQuant , a quantitative proteomics software package."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MaxQuant (RRID:SCR_014485)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MaxQuant"
+                }],
+              "neText" : "MaxQuant"
+            }]
+        }, {
+          "sentence" : "Perseus statistical software was used to analyze the LFQ intensities .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Perseus statistical software was used to analyze the LFQ intensities ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Perseus (RRID:SCR_015753)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Perseus"
+                }],
+              "neText" : "Perseus"
+            }]
+        }, {
+          "sentence" : "Differentially expressed proteins were inputted for pathway analysis through Ingenuity Pathway Analysis ( IPA ) and Cytoscape software.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Differentially expressed proteins were inputted for pathway analysis through Ingenuity Pathway Analysis ( IPA ) and Cytoscape software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Ingenuity Pathway Analysis, RRID:SCR_008653",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ingenuity Pathway Analysis"
+                }],
+              "neText" : "Ingenuity Pathway Analysis"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }, {
+          "sentence" : "GraphPad Prism version 5 ( GraphPad Software Inc . , CA ) was used for statistical analyses .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GraphPad Prism version 5 ( GraphPad Software Inc . , CA ) was used for statistical analyses ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All other reagents, unless otherwise stated, were obtained from Sigma Aldrich Ltd. 2.2 Animals Animal care, procedures, and ethical approval were obtained from UCD, Ireland and UCC Ethics Committee.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All other reagents, unless otherwise stated, were obtained from Sigma Aldrich Ltd. 2.2 Animals Animal care, procedures, and ethical approval were obtained from UCD, Ireland and UCC Ethics Committee."
+              }]
+          }, {
+            "sentence" : "After 48 h, the mice were euthanized by cervical dislocation.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After 48 h, the mice were euthanized by cervical dislocation."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Male C57BL/6J (6–8 weeks old, Harlan Laboratories, UK) were randomized into cages (n = 4/cage) and housed using 12 h dark/light cycles provided with water and fed ad libitum.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male C57BL/6J (6–8 weeks old, Harlan Laboratories, UK) were randomized into cages (n = 4/cage) and housed using 12 h dark/light cycles provided with water and fed ad libitum."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Male C57BL/6J (6–8 weeks old, Harlan Laboratories, UK) were randomized into cages (n = 4/cage) and housed using 12 h dark/light cycles provided with water and fed ad libitum.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male C57BL/6J (6–8 weeks old, Harlan Laboratories, UK) were randomized into cages (n = 4/cage) and housed using 12 h dark/light cycles provided with water and fed ad libitum."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Male C57BL/6J (6–8 weeks old, Harlan Laboratories, UK) were randomized into cages (n = 4/cage) and housed using 12 h dark/light cycles provided with water and fed ad libitum.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male C57BL/6J (6–8 weeks old, Harlan Laboratories, UK) were randomized into cages (n = 4/cage) and housed using 12 h dark/light cycles provided with water and fed ad libitum."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Sample size calculations were based on previous variance ( ∼15 % ) between lean and obese mice in plasma 3H-cholesterol levels at 4h during RCT studies; μ1 = 0.458; μ2 = 0.389 and pooled variance σ = 0.07 , where N = 2σ2 ( zα/2 + zβ)2/ ( μ1 – μ2)2 .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sample size calculations were based on previous variance ( "
+              }, {
+                "f" : "symbol",
+                "c" : "∼"
+              }, {
+                "f" : "default",
+                "c" : "15 % ) between lean and obese mice in plasma 3H-cholesterol levels at 4h during RCT studies; "
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "1 = 0.458; "
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "2 = 0.389 and pooled variance "
+              }, {
+                "f" : "symbol",
+                "c" : "σ"
+              }, {
+                "f" : "default",
+                "c" : " = 0.07 , where N = 2"
+              }, {
+                "f" : "symbol",
+                "c" : "σ"
+              }, {
+                "f" : "default",
+                "c" : "2 ( z"
+              }, {
+                "f" : "symbol",
+                "c" : "α"
+              }, {
+                "f" : "default",
+                "c" : "/2 + z"
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : ")2/ ( "
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "1 – "
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "2)2 ."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Cells were mycoplasma tested and IMPACT (IDEXX Laboratories, Inc., Maine, USA)-tested prior to injection.",
+            "title" : "Contamination",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cells were mycoplasma tested and IMPACT (IDEXX Laboratories, Inc., Maine, USA)-tested prior to injection."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "2.7 Laboratory methods Detailed description of methodologies including glucose and insulin tolerance testing , lipoprotein analysis , acylcarnitine measurement , FPLC , real-time PCR , energy expenditure studies , stromal vascular fraction ( SVF ) isolation , and immunoblot analysis are available in the Supplemental Section .",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.7 Laboratory methods Detailed description of methodologies including glucose and insulin tolerance testing , lipoprotein analysis , acylcarnitine measurement , FPLC , real-time PCR , energy expenditure studies , stromal vascular fraction ( SVF ) isolation , and immunoblot analysis are available in the Supplemental Section ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "For comparison across multiple groups , data were tested for normal Gaussian distribution by the Shapiro–Wilk test .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For comparison across multiple groups , data were tested for normal Gaussian distribution by the Shapiro–Wilk test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro–Wilk test"
+                  }],
+                "neText" : "Shapiro–Wilk test"
+              }]
+          }, {
+            "sentence" : "Normally distributed raw or log-transformed data ( n ≥ 8) , were tested by one-way or two-way analysis of variance ( ANOVA ) as appropriate and when significant Bonferroni post-hoc tests were applied.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Normally distributed raw or log-transformed data ( n "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : " 8) , were tested by one-way or two-way analysis of variance ( ANOVA ) as appropriate and when significant Bonferroni post-hoc tests were applied."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }, {
+            "sentence" : "Data-sets with n < 8 or non-normally distributed data underwent Kruskal–Wallis testing with Dunn 's post-hoc test .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data-sets with n < 8 or non-normally distributed data underwent Kruskal–Wallis testing with Dunn 's post-hoc test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal–Wallis testing"
+                  }],
+                "neText" : "Kruskal–Wallis testing"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunn 's post-hoc test"
+                  }],
+                "neText" : "Dunn 's post-hoc test"
+              }]
+          }]
+      }]
+  }
+}

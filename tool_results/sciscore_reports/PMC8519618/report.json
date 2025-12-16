@@ -1,0 +1,312 @@
+{
+  "docIdentifier" : "PMC8519618",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The MP concentration of the PPP samples was quantitatively determined through flow cytometry equipped with a forward scatter ( FSC ) photomultiplier tube , using specific anti-human CD31-FITC , CD41a-PE , CD62E-PE , and CD144-PE monoclonal antibodies ( eBioscience Inc . , San Diego , CA , USA) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The MP concentration of the PPP samples was quantitatively determined through flow cytometry equipped with a forward scatter ( FSC ) photomultiplier tube , using specific anti-human CD31-FITC , CD41a-PE , CD62E-PE , and CD144-PE monoclonal antibodies ( eBioscience Inc . , San Diego , CA , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human CD31-FITC"
+                }],
+              "neText" : "anti-human CD31-FITC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD144-PE"
+                }],
+              "neText" : "CD144-PE"
+            }]
+        }, {
+          "sentence" : "Then , 300 µl of PPP was added to 3 special tubes ( D-51588; SARSTEDT AG & Co . KG , Germany ) equally ( 100 µl per tube) , and each tube was separately incubated in the dark with either CD144-PE , CD62E-PE , or both CD31-FITC and CD41a-PE antibodies at 4 °C for 45 minutes .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then , 300 µl of PPP was added to 3 special tubes ( D-51588; SARSTEDT AG & Co . KG , Germany ) equally ( 100 µl per tube) , and each tube was separately incubated in the dark with either CD144-PE , CD62E-PE , or both CD31-FITC and CD41a-PE antibodies at 4 °C for 45 minutes ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD62E-PE"
+                }],
+              "neText" : "CD62E-PE"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD41a-PE"
+                }],
+              "neText" : "CD41a-PE"
+            }]
+        }, {
+          "sentence" : "Two distinct tubes containing anti-mouse PE-conjugated and FITC-conjugated IgG1 antibodies ( eBioscience Inc . , San Diego , CA , USA ) were employed as isotype controls in parallel with the test .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Two distinct tubes containing anti-mouse PE-conjugated and FITC-conjugated IgG1 antibodies ( eBioscience Inc . , San Diego , CA , USA ) were employed as isotype controls in parallel with the test ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FITC-conjugated IgG1"
+                }],
+              "neText" : "FITC-conjugated IgG1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "cholesterol , triglyceride ( TG) , high-density lipoprotein ( HDL)-c , and low-density lipoprotein ( LDL)-c level measurements were performed using commercially available kits ( Pars Azmoon Co . , Tehran , Iran ) in an automated analyzer ( model ALCYON 300; Abbott Laboratories , Chicago , IL , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "cholesterol , triglyceride ( TG) , high-density lipoprotein ( HDL)-c , and low-density lipoprotein ( LDL)-c level measurements were performed using commercially available kits ( Pars Azmoon Co . , Tehran , Iran ) in an automated analyzer ( model ALCYON 300; Abbott Laboratories , Chicago , IL , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Abbott Laboratories"
+                }],
+              "neText" : "Abbott Laboratories"
+            }]
+        }, {
+          "sentence" : "Data were analyzed using SPSS software (version 19; SPSS Co., Chicago, IL, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analyzed using SPSS software (version 19; SPSS Co., Chicago, IL, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All participants signed informed consent forms.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants signed informed consent forms."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The exclusion criteria included CVD (except CSX), diabetes, any endothelial dysfunction diseases, asthma, pulmonary-renal disorders, active infection, and malignant disease.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The exclusion criteria included CVD (except CSX), diabetes, any endothelial dysfunction diseases, asthma, pulmonary-renal disorders, active infection, and malignant disease."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and Methods The present study was conducted on 40 patients with CSX (51.7 ± 10.7 years of age) referring to the Department of Cardiology of Urmia University of Medical Sciencesý, Urmia, Iran, due to chest pain.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods The present study was conducted on 40 patients with CSX (51.7 ± 10.7 years of age) referring to the Department of Cardiology of Urmia University of Medical Sciencesý, Urmia, Iran, due to chest pain."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "First, the Kolmogorov-Smirnov normality test was performed.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "First, the Kolmogorov-Smirnov normality test was performed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kolmogorov-Smirnov normality test"
+                  }],
+                "neText" : "Kolmogorov-Smirnov normality test"
+              }]
+          }, {
+            "sentence" : "The age effect, as a confounding factor, was checked for each quantitative variable, and mean of values was compared between patient and healthy groups using independent t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The age effect, as a confounding factor, was checked for each quantitative variable, and mean of values was compared between patient and healthy groups using independent t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Nominal variables were examined using chi-square or Fisher’s exact tests.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Nominal variables were examined using chi-square or Fisher’s exact tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square"
+                  }],
+                "neText" : "chi-square"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher’s exact tests"
+                  }],
+                "neText" : "Fisher’s exact tests"
+              }]
+          }, {
+            "sentence" : "The association between the variables was detected using the Pearson and Spearman correlation tests.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The association between the variables was detected using the Pearson and Spearman correlation tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson"
+                  }],
+                "neText" : "Pearson"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman correlation"
+                  }],
+                "neText" : "Spearman correlation"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "docIdentifier" : "PMC8638725",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "A customized Matlab program ( MatLab , R2019a ) was used to calculate the percentage of contractile material for at least 50 of the total cross-sectional area of each muscle ( 33) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A customized Matlab program ( MatLab , R2019a ) was used to calculate the percentage of contractile material for at least 50 of the total cross-sectional area of each muscle ( 33) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB (RRID:SCR_001622)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MatLab"
+                }],
+              "neText" : "MatLab"
+            }]
+        }, {
+          "sentence" : "Data analysis The data were analysed using Proc GLM in SAS ( SAS for Windows 9.4 , SAS Institute , Inc .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data analysis The data were analysed using Proc GLM in SAS ( SAS for Windows 9.4 , SAS Institute , Inc ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All procedures were approved by the Animal Care Committee of the University of Calgary.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All procedures were approved by the Animal Care Committee of the University of Calgary."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "METHODS Experimental design A total of 21 female NZW rabbits (43 weeks old) (Covance Research Products, Inc., Greenfield, IN, USA) were used in this study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHODS Experimental design A total of 21 female NZW rabbits (43 weeks old) (Covance Research Products, Inc., Greenfield, IN, USA) were used in this study."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "METHODS Experimental design A total of 21 female NZW rabbits (43 weeks old) (Covance Research Products, Inc., Greenfield, IN, USA) were used in this study.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHODS Experimental design A total of 21 female NZW rabbits (43 weeks old) (Covance Research Products, Inc., Greenfield, IN, USA) were used in this study."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Injections were randomized to either the right or left quadriceps .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Injections were randomized to either the right or left quadriceps ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "A 1-way analysis of variance (ANOVA) model was used with the main effect of treatment.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A 1-way analysis of variance (ANOVA) model was used with the main effect of treatment."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }]
+  }
+}

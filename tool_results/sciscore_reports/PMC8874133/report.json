@@ -1,0 +1,180 @@
+{
+  "docIdentifier" : "PMC8874133",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Allocation Initially, clinics were allocated to one of the three arms of the intervention trial using a random number generator in Microsoft Excel.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Allocation Initially, clinics were allocated to one of the three arms of the intervention trial using a random number generator in Microsoft Excel."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Clinics were excluded if they joined the corporate group after the initial programme materials were distributed in October 2018 (n = 5), if they were staffed only by casuallocum veterinarians (n = 10), or if the clinic was closed for a period of time greater than 4 months during the trial (n = 2) (Figure 1).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Clinics were excluded if they joined the corporate group after the initial programme materials were distributed in October 2018 (n = 5), if they were staffed only by casuallocum veterinarians (n = 10), or if the clinic was closed for a period of time greater than 4 months during the trial (n = 2) (Figure 1)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Clinics were excluded if they joined the corporate group after the initial programme materials were distributed in October 2018 (n = 5), if they were staffed only by casuallocum veterinarians (n = 10), or if the clinic was closed for a period of time greater than 4 months during the trial (n = 2) (Figure 1).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Clinics were excluded if they joined the corporate group after the initial programme materials were distributed in October 2018 (n = 5), if they were staffed only by casuallocum veterinarians (n = 10), or if the clinic was closed for a period of time greater than 4 months during the trial (n = 2) (Figure 1)."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Allocation Initially, clinics were allocated to one of the three arms of the intervention trial using a random number generator in Microsoft Excel.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Allocation Initially, clinics were allocated to one of the three arms of the intervention trial using a random number generator in Microsoft Excel."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Two-way ANOVA was performed to evaluate the effect of the intervention on prescribing rates in high-prescribing clinics compared with low-prescribing clinics.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two-way ANOVA was performed to evaluate the effect of the intervention on prescribing rates in high-prescribing clinics compared with low-prescribing clinics."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Data were tested for normality using the Shapiro-Wilks test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data were tested for normality using the Shapiro-Wilks test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilks test"
+                  }],
+                "neText" : "Shapiro-Wilks test"
+              }]
+          }, {
+            "sentence" : "Homogeneity of variances across the six groups was tested using Levenes test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Homogeneity of variances across the six groups was tested using Levenes test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Levenes test"
+                  }],
+                "neText" : "Levenes test"
+              }]
+          }]
+      }]
+  }
+}

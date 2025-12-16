@@ -1,0 +1,161 @@
+{
+  "docIdentifier" : "PMC8577665",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Of note, all analyses were performed using STATA 15.1 (College Station, TX) software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Of note, all analyses were performed using STATA 15.1 (College Station, TX) software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata (RRID:SCR_012763)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATA"
+                }],
+              "neText" : "STATA"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "MATERIALS AND METHODS C4 Project Trial Design The Johns Hopkins Medicine Institutional Review Board (Study Number: NA_00071963), Johns Hopkins Bayview Medical Center (JHBMC) Patient Safety Board, and the Directors of the Medical ICU (MICU) and Cardiac ICU (CICU) all reviewed and approved the C4 Project.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MATERIALS AND METHODS C4 Project Trial Design The Johns Hopkins Medicine Institutional Review Board (Study Number: NA_00071963), Johns Hopkins Bayview Medical Center (JHBMC) Patient Safety Board, and the Directors of the Medical ICU (MICU) and Cardiac ICU (CICU) all reviewed and approved the C4 Project."
+              }]
+          }, {
+            "sentence" : "Patients were approached by our staff to provide informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were approached by our staff to provide informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Randomization and Patient Characteristics All patients admitted to the CICU and MICU were eligible for this trial, and there were no exclusion criteria.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Randomization and Patient Characteristics All patients admitted to the CICU and MICU were eligible for this trial, and there were no exclusion criteria."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The C4 Project was a randomized, nonblinded controlled trial to evaluate the utility of a chaplain PN, who served as a health liaison for patients and their families, elicited their values and preferences, and organized admission, follow-up, and ad hoc family meetings.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The C4 Project was a randomized, nonblinded controlled trial to evaluate the utility of a chaplain PN, who served as a health liaison for patients and their families, elicited their values and preferences, and organized admission, follow-up, and ad hoc family meetings."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Intervention and control group characteristics were compared using Wilcoxon signed rank tests for continuous variables and Fisher exact test for categorical variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Intervention and control group characteristics were compared using Wilcoxon signed rank tests for continuous variables and Fisher exact test for categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed rank tests"
+                  }],
+                "neText" : "Wilcoxon signed rank tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher exact test"
+                  }],
+                "neText" : "Fisher exact test"
+              }]
+          }]
+      }]
+  }
+}

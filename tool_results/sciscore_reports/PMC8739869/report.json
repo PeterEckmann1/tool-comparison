@@ -1,0 +1,319 @@
+{
+  "docIdentifier" : "PMC8739869",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Six-week-old male BALBcAJcl-nunu mice ( Nippon Bio-Supp .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Six-week-old male BALBcAJcl-nunu mice ( Nippon Bio-Supp ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALBcAJcl-nunu"
+                }],
+              "neText" : "BALBcAJcl-nunu"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Microscopic observation of the cells was performed using a Leica DM IL ( Leica Microsystems K . K . ) . 2.3 Selective isolation of target cells CFSE-labeled chondrocytes were sorted on day 2 or 4 of P2 culture using a BD FACSAria(tm )",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Microscopic observation of the cells was performed using a Leica DM IL ( Leica Microsystems K . K . ) . 2.3 Selective isolation of target cells CFSE-labeled chondrocytes were sorted on day 2 or 4 of P2 culture using a BD FACSAria(tm )"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BD FACSAria(tm"
+                }],
+              "neText" : "BD FACSAria(tm"
+            }]
+        }, {
+          "sentence" : "Mice were anesthetized by inhalation of 2 isoflurane ( AbbVie) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Mice were anesthetized by inhalation of 2 isoflurane ( AbbVie) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "AbbVie (RRID:SCR_010484)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AbbVie"
+                }],
+              "neText" : "AbbVie"
+            }]
+        }, {
+          "sentence" : "Grafts were collected and halved at 2 , 4 , and 8 weeks after implantation and used for GAG measurements and histological analyses .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Grafts were collected and halved at 2 , 4 , and 8 weeks after implantation and used for GAG measurements and histological analyses ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAG"
+                }],
+              "neText" : "GAG"
+            }]
+        }, {
+          "sentence" : "Gene Ontology ( GO ) ( http:geneontology . org ) and Kyoto Encyclopedia of Genes and Genomes ( KEGG ) ( http:kegg . jp ) were used to analyze the significant probe list for gene enrichment and functional annotation .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gene Ontology ( GO ) ( http:geneontology . org ) and Kyoto Encyclopedia of Genes and Genomes ( KEGG ) ( http:kegg . jp ) were used to analyze the significant probe list for gene enrichment and functional annotation ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2 Materials and methods 2.1 Isolation of human auricular chondrocytes The use of human auricular chondrocytes for research was approved by the Research Ethics Committee of The University of Tokyo Hospital (ethical approval numbers: 622, 2573, and 2019094NI).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Materials and methods 2.1 Isolation of human auricular chondrocytes The use of human auricular chondrocytes for research was approved by the Research Ethics Committee of The University of Tokyo Hospital (ethical approval numbers: 622, 2573, and 2019094NI)."
+              }]
+          }, {
+            "sentence" : "Patients with microtia provided informed consent for the harvest of human auricular cartilages during surgery at Nagata Microtia and Reconstructive Plastic Surgery Clinic.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients with microtia provided informed consent for the harvest of human auricular cartilages during surgery at Nagata Microtia and Reconstructive Plastic Surgery Clinic."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Six-week-old male BALBcAJcl-nunu mice ( Nippon Bio-Supp .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Six-week-old male BALBcAJcl-nunu mice ( Nippon Bio-Supp ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Six-week-old male BALBcAJcl-nunu mice ( Nippon Bio-Supp .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Six-week-old male BALBcAJcl-nunu mice ( Nippon Bio-Supp ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "For GO analysis , we used gProfiler to calculate the GO term corresponding to a false discovery rate ( FDR ) < 5 that was controlled by adjusting p-values using the Benjamini-Hochberg algorithm .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For GO analysis , we used gProfiler to calculate the GO term corresponding to a false discovery rate ( FDR ) < 5 that was controlled by adjusting p-values using the Benjamini-Hochberg algorithm ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }]
+          }, {
+            "sentence" : "For KEGG analysis , p-values were calculated using a modified fishers exact test and all FDR and Bonferroni values were calculated.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For KEGG analysis , p-values were calculated using a modified fishers exact test and all FDR and Bonferroni values were calculated."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "exact test"
+                  }],
+                "neText" : "exact test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }, {
+            "sentence" : "Comparisons between the four groups at the same time point were performed by Tukeys test from one-way analysis of variance (ANOVA) using the EZR software, version 1.54 19.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons between the four groups at the same time point were performed by Tukeys test from one-way analysis of variance (ANOVA) using the EZR software, version 1.54 19."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys test"
+                  }],
+                "neText" : "Tukeys test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "The multiplicity of tests for the number of time points was corrected by the Bonferronis test data obtained at one time point, three time points, and four time points were considered significantly different at P < 0.05, P < 0.0167, and P < 0.0125, respectively.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The multiplicity of tests for the number of time points was corrected by the Bonferronis test data obtained at one time point, three time points, and four time points were considered significantly different at P < 0.05, P < 0.0167, and P < 0.0125, respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferronis test"
+                  }],
+                "neText" : "Bonferronis test"
+              }]
+          }, {
+            "sentence" : "Statistical significance of the gene expression data was determined using a Students t-test and fold change (FC).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical significance of the gene expression data was determined using a Students t-test and fold change (FC)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

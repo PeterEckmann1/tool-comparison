@@ -1,0 +1,188 @@
+{
+  "docIdentifier" : "PMC8605610",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The data obtained from documentation analysis were analyzed statistically using STATISTICA software version 13.2 (Tibco Software Inc., Palo Alto, CA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The data obtained from documentation analysis were analyzed statistically using STATISTICA software version 13.2 (Tibco Software Inc., Palo Alto, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "STATISTICA  (RRID:SCR_014213)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATISTICA"
+                }],
+              "neText" : "STATISTICA"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study protocol was submitted to the Bioethics Committee of the Medical University of Warsaw in Poland, which confirmed that this study did not require consent owing to its retrospective nature (AKBE182021).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol was submitted to the Bioethics Committee of the Medical University of Warsaw in Poland, which confirmed that this study did not require consent owing to its retrospective nature (AKBE182021)."
+              }]
+          }, {
+            "sentence" : "The study protocol was submitted to the Bioethics Committee of the Medical University of Warsaw in Poland, which confirmed that this study did not require consent owing to its retrospective nature (AKBE182021).",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol was submitted to the Bioethics Committee of the Medical University of Warsaw in Poland, which confirmed that this study did not require consent owing to its retrospective nature (AKBE182021)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Cases where the transport order had been canceled or the mission had not been performed due to weather conditions or technical problems were excluded from the analysis.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cases where the transport order had been canceled or the mission had not been performed due to weather conditions or technical problems were excluded from the analysis."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Ultimately, based on the established criteria, 443 cases of missions concerning pregnant patients that were completed by Polish Medical Air Rescue crews were included in the analysis.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ultimately, based on the established criteria, 443 cases of missions concerning pregnant patients that were completed by Polish Medical Air Rescue crews were included in the analysis."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Material and Methods The study involved a retrospective analysis of missions by HEMS and EMS crews of the Polish Medical Air Rescue concerning pregnant women in Poland.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Material and Methods The study involved a retrospective analysis of missions by HEMS and EMS crews of the Polish Medical Air Rescue concerning pregnant women in Poland."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Distribution normality for quantitative variables was tested using the Kolmogorov-Smirnov test and the Lilliefors test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Distribution normality for quantitative variables was tested using the Kolmogorov-Smirnov test and the Lilliefors test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kolmogorov-Smirnov test"
+                  }],
+                "neText" : "Kolmogorov-Smirnov test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Lilliefors test"
+                  }],
+                "neText" : "Lilliefors test"
+              }]
+          }, {
+            "sentence" : "Statistically significant differences between qualitative variables were tested using the chi-squared test, and differences between 2 independent groups were tested using the non-parametric Mann-Whitney U test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistically significant differences between qualitative variables were tested using the chi-squared test, and differences between 2 independent groups were tested using the non-parametric Mann-Whitney U test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared test"
+                  }],
+                "neText" : "chi-squared test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }]
+      }]
+  }
+}

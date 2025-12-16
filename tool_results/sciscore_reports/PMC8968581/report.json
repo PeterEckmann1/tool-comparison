@@ -1,0 +1,301 @@
+{
+  "docIdentifier" : "PMC8968581",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Complexes containing integrins a2 and b1 were recovered from lysed cell pellets by co-immunoprecipitation (co-IP) using 1 mg of CD49b (integrin a2) monoclonal antibody (HMa2, eBioscience) for 50 mg of lysate.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Complexes containing integrins a2 and b1 were recovered from lysed cell pellets by co-immunoprecipitation (co-IP) using 1 mg of CD49b (integrin a2) monoclonal antibody (HMa2, eBioscience) for 50 mg of lysate."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HMa2"
+                }],
+              "neText" : "HMa2"
+            }]
+        }, {
+          "sentence" : "Integrin b1 was characterized in 110 of the co-IP eluate by Western blot using a 1:2000 solution of mouse anti-CD29 (integrin b1, BD Biosciences) and a 1:4000 solution of anti-mouse IgG HRP-linked (Cell Signaling Technology) as primary and secondary antibody, respectively.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Integrin b1 was characterized in 110 of the co-IP eluate by Western blot using a 1:2000 solution of mouse anti-CD29 (integrin b1, BD Biosciences) and a 1:4000 solution of anti-mouse IgG HRP-linked (Cell Signaling Technology) as primary and secondary antibody, respectively."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD29"
+                }],
+              "neText" : "anti-CD29"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG"
+                }],
+              "neText" : "anti-mouse IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Recombinant mouse integrin a2b1 protein expressed in CHO cells (R&D Systems) was used as a mass spectrometry standard.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Recombinant mouse integrin a2b1 protein expressed in CHO cells (R&D Systems) was used as a mass spectrometry standard."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CHO"
+                }],
+              "neText" : "CHO"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "JAK2V617F Transgenic Mice Vav1-hJAK2V617F (JAK2V617F) mice were gift from Dr Zhizhuang Joe Zhao (University of Oklahoma).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "JAK2V617F Transgenic Mice Vav1-hJAK2V617F (JAK2V617F) mice were gift from Dr Zhizhuang Joe Zhao (University of Oklahoma)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "JAK2V617F"
+                }],
+              "neText" : "JAK2V617F"
+            }]
+        }, {
+          "sentence" : "In addition to HCD, electron-transferhigher-energy collision-induced dissociation (EThcD) MSMS spectra of integrins a2 and b1 obtained from recombinant mouse integrin a2b1 protein (R&D Systems) were collected.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In addition to HCD, electron-transferhigher-energy collision-induced dissociation (EThcD) MSMS spectra of integrins a2 and b1 obtained from recombinant mouse integrin a2b1 protein (R&D Systems) were collected."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "b1"
+                }],
+              "neText" : "b1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Glycopeptiform identification result files were combined manually (only upper and lower 100-150 kDa were used for integrin a2), Log2-fold change (FC) values were calculated using Excel spreadsheets, and the mean of relative integrated areas for glycopeptiforms was calculated using Prism GraphPad software.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Glycopeptiform identification result files were combined manually (only upper and lower 100-150 kDa were used for integrin a2), Log2-fold change (FC) values were calculated using Excel spreadsheets, and the mean of relative integrated areas for glycopeptiforms was calculated using Prism GraphPad software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Excel"
+                }],
+              "neText" : "Excel"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prism GraphPad"
+                }],
+              "neText" : "Prism GraphPad"
+            }]
+        }, {
+          "sentence" : "Acquisition of EThcD data was triggered by the detection of at least two glycan oxonium ions in MSMS spectra generated by HCD (35  normalized collision energy).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Acquisition of EThcD data was triggered by the detection of at least two glycan oxonium ions in MSMS spectra generated by HCD (35  normalized collision energy)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MSMS (RRID:SCR_003532)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MSMS"
+                }],
+              "neText" : "MSMS"
+            }]
+        }, {
+          "sentence" : "Protein search results were filtered with a -10 logP minimum score of 20 and two unique peptides peptide search results were filtered at 0.1 FDR.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein search results were filtered with a -10 logP minimum score of 20 and two unique peptides peptide search results were filtered at 0.1 FDR."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Protein"
+                }],
+              "neText" : "Protein"
+            }]
+        }, {
+          "sentence" : "For each LC-MSMS run, data were searched against the UniProt protein database for M. musculus (54,424 validated proteins, May 2019) and sequences for mouse integrins a2 and b1 in three separate searches.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For each LC-MSMS run, data were searched against the UniProt protein database for M. musculus (54,424 validated proteins, May 2019) and sequences for mouse integrins a2 and b1 in three separate searches."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All studies involving mice were approved by the Boston University Institutional Animal Care and Use Committee.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All studies involving mice were approved by the Boston University Institutional Animal Care and Use Committee."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Three biological replicate experiments, in each case involving the analysis of 3.08 x 105 to 1.80 x 106 MKs obtained after culture of cells from the BM obtained from the hind limbs of three to five mice, age 12 to 16 weeks, were performed at approximately 4-month intervals no technical replicate was acquired for the mass spectrometric data due to the limited amount of these samples, and the resulting very small pools of integrins isolated from the mouse MKs.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three biological replicate experiments, in each case involving the analysis of 3.08 x 105 to 1.80 x 106 MKs obtained after culture of cells from the BM obtained from the hind limbs of three to five mice, age 12 to 16 weeks, were performed at approximately 4-month intervals no technical replicate was acquired for the mass spectrometric data due to the limited amount of these samples, and the resulting very small pools of integrins isolated from the mouse MKs."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The second and third replicates were analyzed using an Acquity M-Class UPLC (Waters) system coupled to a TriVersa NanoMate ion source mounted on a Fusion Lumos Tribrid Orbitrap mass spectrometer (ThermoFisher).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The second and third replicates were analyzed using an Acquity M-Class UPLC (Waters) system coupled to a TriVersa NanoMate ion source mounted on a Fusion Lumos Tribrid Orbitrap mass spectrometer (ThermoFisher)."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

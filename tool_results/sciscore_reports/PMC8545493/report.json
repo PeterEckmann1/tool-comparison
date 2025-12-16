@@ -1,0 +1,415 @@
+{
+  "docIdentifier" : "PMC8545493",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The following antibodies and dilutions were used: mouse anti-Brn3a ( diluted 1:125 , Millipore) , rabbit anti-RFP ( diluted 1:500 , Rockland) , rabbit anti-Opn4 diluted 1:2,000 , Dr. C . K . Chens laboratory ( 67)",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following antibodies and dilutions were used: mouse anti-Brn3a ( diluted 1:125 , Millipore) , rabbit anti-RFP ( diluted 1:500 , Rockland) , rabbit anti-Opn4 diluted 1:2,000 , Dr. C . K . Chens laboratory ( 67)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Brn3a"
+                }],
+              "neText" : "anti-Brn3a"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-RFP"
+                }],
+              "neText" : "anti-RFP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Opn4"
+                }],
+              "neText" : "anti-Opn4"
+            }]
+        }, {
+          "sentence" : ", mouse anti- SMI32 ( diluted 1:1,000 , Covance) , rabbit anti-RBPMS ( diluted 1:500 , PhosphoSolutions) , rabbit anti-GFP ( diluted 1:250 , Invitrogen)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", mouse anti- SMI32 ( diluted 1:1,000 , Covance) , rabbit anti-RBPMS ( diluted 1:500 , PhosphoSolutions) , rabbit anti-GFP ( diluted 1:250 , Invitrogen)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GFP"
+                }],
+              "neText" : "anti-GFP"
+            }]
+        }, {
+          "sentence" : ", mouse anti-NeuN ( diluted 1:200 , Millipore) , rabbit anti-GFAP ( 1:1,000 , DAkoCytomation) , rabbit anti-Iba1 ( 1:500 , Wako) , mouse anti-GAD67 ( diluted 1:500 , Millipore) , rabbit anti-calbindin ( diluted 1:2,500 , Swant) , rabbit anti-calretinin ( diluted 1:2,000 , Swant) , mouse anti-synaptophysin ( diluted 1:500 , SySy) , and goat anti-NPNT ( diluted 1:40 , R&D systems) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", mouse anti-NeuN ( diluted 1:200 , Millipore) , rabbit anti-GFAP ( 1:1,000 , DAkoCytomation) , rabbit anti-Iba1 ( 1:500 , Wako) , mouse anti-GAD67 ( diluted 1:500 , Millipore) , rabbit anti-calbindin ( diluted 1:2,500 , Swant) , rabbit anti-calretinin ( diluted 1:2,000 , Swant) , mouse anti-synaptophysin ( diluted 1:500 , SySy) , and goat anti-NPNT ( diluted 1:40 , R&D systems) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GFAP"
+                }],
+              "neText" : "anti-GFAP"
+            }]
+        }, {
+          "sentence" : "We immunopanned RGCs from retinal suspension using Thy1.2 antibody ( CD90 , 1:800 , Bio-RAD ) and 0.02 BSA ( Sigma-Aldrich ) for at least 2 h at room temperature ( positive panning dish) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We immunopanned RGCs from retinal suspension using Thy1.2 antibody ( CD90 , 1:800 , Bio-RAD ) and 0.02 BSA ( Sigma-Aldrich ) for at least 2 h at room temperature ( positive panning dish) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Thy1.2"
+                }],
+              "neText" : "Thy1.2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD90"
+                }],
+              "neText" : "CD90"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "C57BL6 mice were obtained from Charles River Laboratories.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "C57BL6 mice were obtained from Charles River Laboratories."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }, {
+          "sentence" : "Pvalb-Cre, Nes-Cre, Gad2-Cre, Calb2-Cre, Vglut2-Cre, Sst-Cre, Rosa-Stop-tdT, and Thy1-stop-YFP mice were obtained from Jackson Labs (stock nos. 008069, 003771, 010802, 010774, 016963, 013044, 007909).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Pvalb-Cre, Nes-Cre, Gad2-Cre, Calb2-Cre, Vglut2-Cre, Sst-Cre, Rosa-Stop-tdT, and Thy1-stop-YFP mice were obtained from Jackson Labs (stock nos. 008069, 003771, 010802, 010774, 016963, 013044, 007909)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Pvalb-Cre, Nes-Cre"
+                }],
+              "neText" : "Pvalb-Cre, Nes-Cre"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Thy1-stop-YFP"
+                }],
+              "neText" : "Thy1-stop-YFP"
+            }]
+        }, {
+          "sentence" : "Conditional allele of Itgb1 ( Itgb1flfl ) and Aldh1l1-EGFP mice were provided by Dr. Stefanie Robel ( Virginia Tech ) ( 82 , 83) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Conditional allele of Itgb1 ( Itgb1flfl ) and Aldh1l1-EGFP mice were provided by Dr. Stefanie Robel ( Virginia Tech ) ( 82 , 83) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Aldh1l1-EGFP"
+                }],
+              "neText" : "Aldh1l1-EGFP"
+            }]
+        }, {
+          "sentence" : "AAV1-Cre was a gift from James M.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "AAV1-Cre was a gift from James M."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AAV1-Cre"
+                }],
+              "neText" : "AAV1-Cre"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Antisense riboprobes were generated against a 599-base pair ( bp ) fragment of Sst ( corresponding to nucleotides nt 1 to 599 of NM_009215.1) , a 973-bp fragment of Spp1 ( corresponding to nt 309 to 1279 of NM_001204201.1) , a 625-bp fragment of Gda ( corresponding to nt 1884 to 2508 of NM_010266.1) , a 580-bp fragment of Vglut2 ( corresponding to nt 2190 to 2769 of NM_080853.2) , and a 982-bp fragment of Gad1 ( corresponding to nt 1015 to 1996 of NM_008077.2) , which were PCR-cloned into pGEM Easy T vector ( Promega) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antisense riboprobes were generated against a 599-base pair ( bp ) fragment of Sst ( corresponding to nucleotides nt 1 to 599 of NM_009215.1) , a 973-bp fragment of Spp1 ( corresponding to nt 309 to 1279 of NM_001204201.1) , a 625-bp fragment of Gda ( corresponding to nt 1884 to 2508 of NM_010266.1) , a 580-bp fragment of Vglut2 ( corresponding to nt 2190 to 2769 of NM_080853.2) , and a 982-bp fragment of Gad1 ( corresponding to nt 1015 to 1996 of NM_008077.2) , which were PCR-cloned into pGEM Easy T vector ( Promega) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGEM Easy"
+                }],
+              "neText" : "pGEM Easy"
+            }]
+        }, {
+          "sentence" : "viral prep no. 105553-AAV1 RRID: Addgene_105553) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "viral prep no. 105553-AAV1 RRID: Addgene_105553) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "RRID:Addgene_105553",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The animals behavior was scored manually during 10 s of looming stimulus using ANY-maze software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The animals behavior was scored manually during 10 s of looming stimulus using ANY-maze software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ANY-maze"
+                }],
+              "neText" : "ANY-maze"
+            }]
+        }, {
+          "sentence" : "For RGC immunopanning, fluorescent signals (of either Et33+ or NF+ RGC neurites) were binarized in ImageJ, and the fraction of the total area of the field of view they occupied was quantified.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For RGC immunopanning, fluorescent signals (of either Et33+ or NF+ RGC neurites) were binarized in ImageJ, and the fraction of the total area of the field of view they occupied was quantified."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "When comparing measurements between mutants and controls, we determined statistical significance either by Students t test (when comparing means between two groups) or by ANOVA or Mann-Whitney U test (when comparing means between three or more groups) using GraphPad Prism (version 8.0. RRID: SCR_002798), and we indicate which test was used in the figure legends.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "When comparing measurements between mutants and controls, we determined statistical significance either by Students t test (when comparing means between two groups) or by ANOVA or Mann-Whitney U test (when comparing means between three or more groups) using GraphPad Prism (version 8.0. RRID: SCR_002798), and we indicate which test was used in the figure legends."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "GraphPad Prism ( RRID:SCR_002798)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All experiments were performed in compliance with NIH guidelines and protocols and were approved by the Virginia Polytechnic Institute and State University Institutional Animal Care and Use Committee.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were performed in compliance with NIH guidelines and protocols and were approved by the Virginia Polytechnic Institute and State University Institutional Animal Care and Use Committee."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "No data or animals were excluded from any of the analyses.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "No data or animals were excluded from any of the analyses."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "No data or animals were excluded from any of the analyses.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "No data or animals were excluded from any of the analyses."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "P0 mice were anesthetized with hypothermia , and the skin overlying the SC was opened and reflected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "P0 mice were anesthetized with hypothermia , and the skin overlying the SC was opened and reflected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "When comparing measurements between mutants and controls, we determined statistical significance either by Students t test (when comparing means between two groups) or by ANOVA or Mann-Whitney U test (when comparing means between three or more groups) using GraphPad Prism (version 8.0. RRID: SCR_002798), and we indicate which test was used in the figure legends.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "When comparing measurements between mutants and controls, we determined statistical significance either by Students t test (when comparing means between two groups) or by ANOVA or Mann-Whitney U test (when comparing means between three or more groups) using GraphPad Prism (version 8.0. RRID: SCR_002798), and we indicate which test was used in the figure legends."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t test"
+                  }],
+                "neText" : "Students t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "docIdentifier" : "PMC8154366",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Searches were performed until March 2020 using search engines Scopus and Google Scholar, and only studies reporting original concentration data were reviewed.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Searches were performed until March 2020 using search engines Scopus and Google Scholar, and only studies reporting original concentration data were reviewed."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Google Scholar (RRID:SCR_008878)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Google Scholar"
+                }],
+              "neText" : "Google Scholar"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Most studies investigating MP occurrence in fish were conducted to understand if plastic was ingested by the species.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Most studies investigating MP occurrence in fish were conducted to understand if plastic was ingested by the species."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Green histogram: child ( 1–18 years); pink histogram: adults ( 19–70 years) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Green histogram: child ( 1–18 years); pink histogram: adults ( 19–70 years) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "Compiled databases from literature ( Data S1–S6 ) are accessible in the following data depository: https://github.com/nhazimah/heasi.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Compiled databases from literature ( Data S1–S6 ) are accessible in the following data depository: https://github.com/nhazimah/heasi."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "https://github.com/nhazimah/heasi"
+                  }],
+                "neText" : "https://github.com/nhazimah/heasi"
+              }]
+          }]
+      }, {
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "A fraction of inhaled particles is assumed to be deposited in the nasopharyngeal cavity (f dep) and then swallowed in the GI tract.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A fraction of inhaled particles is assumed to be deposited in the nasopharyngeal cavity (f dep) and then swallowed in the GI tract."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }, {
+            "sentence" : "A positive change reflects an increased chemical concentration in the tissue due to chemical desorption from ingested MPs, whereas a negative change reflects a reduced concentration due to absorption of chemical from the GI tract by ingested MP. 30,71,88,89",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A positive change reflects an increased chemical concentration in the tissue due to chemical desorption from ingested MPs, whereas a negative change reflects a reduced concentration due to absorption of chemical from the GI tract by ingested MP. 30,71,88,89"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "30,71,88,89"
+                  }],
+                "neText" : "30,71,88,89"
+              }]
+          }]
+      }]
+  }
+}

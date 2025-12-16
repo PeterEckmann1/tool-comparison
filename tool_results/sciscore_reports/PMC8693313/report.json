@@ -1,0 +1,358 @@
+{
+  "docIdentifier" : "PMC8693313",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Coimmunoprecipitation of RNA with Ago2 antibody 3T3-L1 cells were lysed using IP buffer (Thermo Fisher Scientific) and then immunoprecipitated with an anti-Ago2 antibody (Abnova, Taiwan, China) or IgG (Santa Cruz Biotechnology, Santa Cruz, CA, USA) binding to the agarose beads with protein A.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Coimmunoprecipitation of RNA with Ago2 antibody 3T3-L1 cells were lysed using IP buffer (Thermo Fisher Scientific) and then immunoprecipitated with an anti-Ago2 antibody (Abnova, Taiwan, China) or IgG (Santa Cruz Biotechnology, Santa Cruz, CA, USA) binding to the agarose beads with protein A."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Ago2"
+                }],
+              "neText" : "anti-Ago2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IgG"
+                }],
+              "neText" : "IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell culture and treatments 3T3-L1 and AD293 cells were obtained from the Chinese Academy of Sciences Cell Bank.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture and treatments 3T3-L1 and AD293 cells were obtained from the Chinese Academy of Sciences Cell Bank."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_9804",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AD293"
+                }],
+              "neText" : "AD293"
+            }]
+        }, {
+          "sentence" : "Preadipocyte differentiation medium (ScienCell Research Laboratories, Carlsbad, CA, USA) was used to induce 3T3-L1 cell differentiation into mature adipocytes. miRNA mimics (100 nM), miRNA inhibitors (100 nM), and their controls (RiboBio, Guangzhou, China) were transfected into 3T3-L1 cells using X-tremeGENE HP DNA Transfection Reagent (Sigma, St. Louis, MO, USA), following the manufacturer’s protocol.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Preadipocyte differentiation medium (ScienCell Research Laboratories, Carlsbad, CA, USA) was used to induce 3T3-L1 cell differentiation into mature adipocytes. miRNA mimics (100 nM), miRNA inhibitors (100 nM), and their controls (RiboBio, Guangzhou, China) were transfected into 3T3-L1 cells using X-tremeGENE HP DNA Transfection Reagent (Sigma, St. Louis, MO, USA), following the manufacturer’s protocol."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0123",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "3T3-L1"
+                }],
+              "neText" : "3T3-L1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "7 Animals Male C57BL/6 mice (8–10 weeks old) were purchased from the Nanjing Model Animal Center (Nanjing, China).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "7 Animals Male C57BL/6 mice (8–10 weeks old) were purchased from the Nanjing Model Animal Center (Nanjing, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6"
+                }],
+              "neText" : "C57BL/6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "To construct luciferase reporter plasmids, we inserted the 3′ UTR and mutant 3′ UTR of the HDAC9 gene into the pmiR-RB-Report (RiboBio).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To construct luciferase reporter plasmids, we inserted the 3′ UTR and mutant 3′ UTR of the HDAC9 gene into the pmiR-RB-Report (RiboBio)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pmiR-RB-Report"
+                }],
+              "neText" : "pmiR-RB-Report"
+            }]
+        }, {
+          "sentence" : "The CDS region of mmu-miR-574 was inserted into the pcDNA3.1-tGFP vector (Promega, Beijing, China).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The CDS region of mmu-miR-574 was inserted into the pcDNA3.1-tGFP vector (Promega, Beijing, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1-tGFP"
+                }],
+              "neText" : "pcDNA3.1-tGFP"
+            }]
+        }, {
+          "sentence" : "The mmu-miR-574 promoter vector and the mutated promoter vector were cloned into the pGL3 plasmids.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The mmu-miR-574 promoter vector and the mutated promoter vector were cloned into the pGL3 plasmids."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_44264",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGL3"
+                }],
+              "neText" : "pGL3"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Preadipocyte differentiation medium (ScienCell Research Laboratories, Carlsbad, CA, USA) was used to induce 3T3-L1 cell differentiation into mature adipocytes. miRNA mimics (100 nM), miRNA inhibitors (100 nM), and their controls (RiboBio, Guangzhou, China) were transfected into 3T3-L1 cells using X-tremeGENE HP DNA Transfection Reagent (Sigma, St. Louis, MO, USA), following the manufacturer’s protocol.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Preadipocyte differentiation medium (ScienCell Research Laboratories, Carlsbad, CA, USA) was used to induce 3T3-L1 cell differentiation into mature adipocytes. miRNA mimics (100 nM), miRNA inhibitors (100 nM), and their controls (RiboBio, Guangzhou, China) were transfected into 3T3-L1 cells using X-tremeGENE HP DNA Transfection Reagent (Sigma, St. Louis, MO, USA), following the manufacturer’s protocol."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "The binding position of HDAC9 and miR-574-5p was predicted by Database: miRWalk, and the seed sequence of miR-574-5p targeted HDAC9 in its CDS regions in both humans and mice, as shown in Figure 3D.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The binding position of HDAC9 and miR-574-5p was predicted by Database: miRWalk, and the seed sequence of miR-574-5p targeted HDAC9 in its CDS regions in both humans and mice, as shown in Figure 3D."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "miRWalk (RRID:SCR_016509)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "miRWalk"
+                }],
+              "neText" : "miRWalk"
+            }]
+        }, {
+          "sentence" : "All statistical analyses were performed using the SPSS version 24.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were performed using the SPSS version 24.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and methods Ethics The use of human tissue samples and animal studies was approved by the Clinical Research Committee and the Institutional Animal Care and Use Committee of the General Hospital of Northern Theater Command, respectively.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Ethics The use of human tissue samples and animal studies was approved by the Clinical Research Committee and the Institutional Animal Care and Use Committee of the General Hospital of Northern Theater Command, respectively."
+              }]
+          }, {
+            "sentence" : "Materials and methods Ethics The use of human tissue samples and animal studies was approved by the Clinical Research Committee and the Institutional Animal Care and Use Committee of the General Hospital of Northern Theater Command, respectively.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Ethics The use of human tissue samples and animal studies was approved by the Clinical Research Committee and the Institutional Animal Care and Use Committee of the General Hospital of Northern Theater Command, respectively."
+              }]
+          }, {
+            "sentence" : "All human studies adhered to the guidelines of the Declaration of Helsinki, and all participants provided informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All human studies adhered to the guidelines of the Declaration of Helsinki, and all participants provided informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "7 Animals Male C57BL/6 mice (8–10 weeks old) were purchased from the Nanjing Model Animal Center (Nanjing, China).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "7 Animals Male C57BL/6 mice (8–10 weeks old) were purchased from the Nanjing Model Animal Center (Nanjing, China)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Patients above 18 years of age, with or without T2DM and recommended and implanted with an implantable cardioverter defibrillator (ICD) without heart failure as per the guidelines, were considered eligible.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients above 18 years of age, with or without T2DM and recommended and implanted with an implantable cardioverter defibrillator (ICD) without heart failure as per the guidelines, were considered eligible."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The mice were fed HFD (Research Diets, New Brunswick, NJ) for 12 weeks and then divided into two groups at random (n = 8 per group).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mice were fed HFD (Research Diets, New Brunswick, NJ) for 12 weeks and then divided into two groups at random (n = 8 per group)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Between-group comparisons were performed using Student’s t test, whereas one-way analysis of variance was used for comparisons of more than two groups.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Between-group comparisons were performed using Student’s t test, whereas one-way analysis of variance was used for comparisons of more than two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "docIdentifier" : "PMC8855411",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Ethnicity categorization American Indian/Alaska native Asian Black/African American Pacific Islander White Hispanic/Latino Upon completion of bedside assessments , responses were securely stored in a database referred to as REDCap ( Research Electronic Data Capture) , a clinical research workflow-optimized , HIPAA compliant data storage platform ( 30) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Ethnicity categorization American Indian/Alaska native Asian Black/African American Pacific Islander White Hispanic/Latino Upon completion of bedside assessments , responses were securely stored in a database referred to as REDCap ( Research Electronic Data Capture) , a clinical research workflow-optimized , HIPAA compliant data storage platform ( 30) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "REDCap (RRID:SCR_003445)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "REDCap"
+                }],
+              "neText" : "REDCap"
+            }]
+        }, {
+          "sentence" : "Analyses were performed using SAS , Copyright I 2002-2012 by SAS Institute Inc .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Analyses were performed using SAS , Copyright I 2002-2012 by SAS Institute Inc ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The protocol was submitted to the institutional review board (IRB) and was determined to be exempt from full IRB review.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The protocol was submitted to the institutional review board (IRB) and was determined to be exempt from full IRB review."
+              }]
+          }, {
+            "sentence" : "Ability to provide informed consent to Q . I . personnel at all segments of assessment battery administration Q . I . personnel would ensure that collected data was given with fully informed consent , and patient consent status did not change throughout the assessment period.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ability to provide informed consent to Q . I . personnel at all segments of assessment battery administration Q . I . personnel would ensure that collected data was given with fully informed consent , and patient consent status did not change throughout the assessment period."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients unable to read or speak English or Spanish at any fluency were excluded from the study , as the TOFHLA tool is validated only in English and Spanish .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients unable to read or speak English or Spanish at any fluency were excluded from the study , as the TOFHLA tool is validated only in English and Spanish ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical Analysis Two sample t-tests were used to compare continuous variables between groups , and Fisher 's exact test was used to compare categorical variables .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical Analysis Two sample t-tests were used to compare continuous variables between groups , and Fisher 's exact test was used to compare categorical variables ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher 's exact test"
+                  }],
+                "neText" : "Fisher 's exact test"
+              }]
+          }, {
+            "sentence" : "To evaluate whether TOFHLA adds predictive value to LACE + score predicting 30-day readmission ( y/n) , the area under the curve ( AUC ) from the receiver operating characteristic ( ROC ) curves of the 2 logistic models using LACE + score and combined LACE + score and TOFHLA , were compared using DeLong’s test .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To evaluate whether TOFHLA adds predictive value to LACE + score predicting 30-day readmission ( y/n) , the area under the curve ( AUC ) from the receiver operating characteristic ( ROC ) curves of the 2 logistic models using LACE + score and combined LACE + score and TOFHLA , were compared using DeLong’s test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "DeLong’s test"
+                  }],
+                "neText" : "DeLong’s test"
+              }]
+          }]
+      }]
+  }
+}

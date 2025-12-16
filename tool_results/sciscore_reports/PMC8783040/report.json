@@ -1,0 +1,285 @@
+{
+  "docIdentifier" : "PMC8783040",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The primary antibodies, including anti-NFATc1 and anti-TRAF3, were purchased from Abcam (Cambridge, UK).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The primary antibodies, including anti-NFATc1 and anti-TRAF3, were purchased from Abcam (Cambridge, UK)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-NFATc1"
+                }],
+              "neText" : "anti-NFATc1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TRAF3"
+                }],
+              "neText" : "anti-TRAF3"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "2.8 Cell culture NIH3T3 cells (ATCC), 143B cells (ATCC) and U2OS cells (ATCC) were cultured in DMEM medium (GIBCO) with 10 FBS (GIBCO) and 5 CO2 at 37 degC.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.8 Cell culture NIH3T3 cells (ATCC), 143B cells (ATCC) and U2OS cells (ATCC) were cultured in DMEM medium (GIBCO) with 10 FBS (GIBCO) and 5 CO2 at 37 degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0594",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NIH3T3"
+                }],
+              "neText" : "NIH3T3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_2270",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "143B"
+                }],
+              "neText" : "143B"
+            }]
+        }, {
+          "sentence" : "2.10 AOEB staining assay The 143B and U2OS cells were seeded in a 96-well plate and treated with different treatments incubating for 48 h, then stained by AOEB dye for 5 min.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.10 AOEB staining assay The 143B and U2OS cells were seeded in a 96-well plate and treated with different treatments incubating for 48 h, then stained by AOEB dye for 5 min."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0042",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "U2OS"
+                }],
+              "neText" : "U2OS"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Four-week-old BALBc nude mice purchasing from SLAC (Shanghai, China) were injected with 143B-Luc cells in the cavum medullare of tibias.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Four-week-old BALBc nude mice purchasing from SLAC (Shanghai, China) were injected with 143B-Luc cells in the cavum medullare of tibias."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALBc nude"
+                }],
+              "neText" : "BALBc nude"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2.8 Cell culture NIH3T3 cells (ATCC), 143B cells (ATCC) and U2OS cells (ATCC) were cultured in DMEM medium (GIBCO) with 10 FBS (GIBCO) and 5 CO2 at 37 degC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.8 Cell culture NIH3T3 cells (ATCC), 143B cells (ATCC) and U2OS cells (ATCC) were cultured in DMEM medium (GIBCO) with 10 FBS (GIBCO) and 5 CO2 at 37 degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GIBCO"
+                }],
+              "neText" : "GIBCO"
+            }]
+        }, {
+          "sentence" : "Repeat the administration and irradiation twice in the following four days.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Repeat the administration and irradiation twice in the following four days."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Repeat"
+                }],
+              "neText" : "Repeat"
+            }]
+        }, {
+          "sentence" : "2.19 Statistical analysis The data presented as the mean +- SD were analyzed by Prism 7 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.19 Statistical analysis The data presented as the mean +- SD were analyzed by Prism 7 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Meta-Prism (RRID:SCR_021836)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prism"
+                }],
+              "neText" : "Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Finally, the membranes were detected by Odyssey Infrared Imaging System. 2.14 MRI of PDAFe and PDA-ALNFe in bone tumor mice All animal experiments were approved by the Ethics Committee of the General Hospital of the Chinese Peoples Liberation Army and followed the National Institutes of Health guidelines.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Finally, the membranes were detected by Odyssey Infrared Imaging System. 2.14 MRI of PDAFe and PDA-ALNFe in bone tumor mice All animal experiments were approved by the Ethics Committee of the General Hospital of the Chinese Peoples Liberation Army and followed the National Institutes of Health guidelines."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Four-week-old BALBc nude mice purchasing from SLAC (Shanghai, China) were injected with 143B-Luc cells in the cavum medullare of tibias.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Four-week-old BALBc nude mice purchasing from SLAC (Shanghai, China) were injected with 143B-Luc cells in the cavum medullare of tibias."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical significance between two samples was determined with two-tailed Students t-tests.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical significance between two samples was determined with two-tailed Students t-tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t-tests"
+                  }],
+                "neText" : "Students t-tests"
+              }]
+          }]
+      }]
+  }
+}

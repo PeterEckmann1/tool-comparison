@@ -1,0 +1,541 @@
+{
+  "docIdentifier" : "PMC8609164",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "The MaxQuant search results of the phosphoproteomic data from HeLa cell protein extract used to train and test AutoRT base_phospho model were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD015087.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The MaxQuant search results of the phosphoproteomic data from HeLa cell protein extract used to train and test AutoRT base_phospho model were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD015087."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0030",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa"
+                }],
+              "neText" : "HeLa"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "In our study, we used only a subset of data including 11 raw files (03275_A4_P038189_U09 - 03275_H3_P038189_U08), which were the phosphopeptides analyzed by a nano-flow LC-MS/MS system.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In our study, we used only a subset of data including 11 raw files (03275_A4_P038189_U09 - 03275_H3_P038189_U08), which were the phosphopeptides analyzed by a nano-flow LC-MS/MS system."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "03275_A4_P038189_U09 - 03275_H3_P038189_U08"
+                }],
+              "neText" : "03275_A4_P038189_U09 - 03275_H3_P038189_U08"
+            }]
+        }, {
+          "sentence" : "One experiment with six fractions was downloaded (02277_A01_P024190_S00_U01_R1 - 02277_F01_P024190_S00_U06_R1).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "One experiment with six fractions was downloaded (02277_A01_P024190_S00_U01_R1 - 02277_F01_P024190_S00_U06_R1)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "02277_A01_P024190_S00_U01_R1 - 02277_F01_P024190_S00_U06_R1"
+                }],
+              "neText" : "02277_A01_P024190_S00_U01_R1 - 02277_F01_P024190_S00_U06_R1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "For pDeep2 base_phospho model , there were 7205 PSMs for training and 2506 PSMs for testing .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For pDeep2 base_phospho model , there were 7205 PSMs for training and 2506 PSMs for testing ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pDeep2"
+                }],
+              "neText" : "pDeep2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The raw files of a label-free quantification phosphoproteomic dataset from human cell cultures (human_LFQ) were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD007145.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The raw files of a label-free quantification phosphoproteomic dataset from human cell cultures (human_LFQ) were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD007145."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Pride-asap (RRID:SCR_012052)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PRIDE"
+                }],
+              "neText" : "PRIDE"
+            }]
+        }, {
+          "sentence" : "The second one is MS-GF+ v2017.01.27 combined with a localization tool PhosphoRS, which we referred to as CDAP.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The second one is MS-GF+ v2017.01.27 combined with a localization tool PhosphoRS, which we referred to as CDAP."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MS-GF+ (RRID:SCR_015646)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MS-GF+"
+                }],
+              "neText" : "MS-GF+"
+            }]
+        }, {
+          "sentence" : "56,431 Peptide Identification and Phosphosite Localization For phosphoproteomic data used to train and test AutoRT base_phospho model , search results were downloaded from PRIDE ( https://www.ebi.ac.uk/pride/ ) with accession number PXD015087 ( MaxQuant v1.6.2.352",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "56,431 Peptide Identification and Phosphosite Localization For phosphoproteomic data used to train and test AutoRT base_phospho model , search results were downloaded from PRIDE ( https://www.ebi.ac.uk/pride/ ) with accession number PXD015087 ( MaxQuant v1.6.2.352"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://www.ebi.ac.uk/pride/"
+                }],
+              "neText" : "https://www.ebi.ac.uk/pride/"
+            }]
+        }, {
+          "sentence" : "UniProtKB Human Reference Proteome database v22.07.13) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "UniProtKB Human Reference Proteome database v22.07.13) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Human Reference Proteome"
+                }],
+              "neText" : "Human Reference Proteome"
+            }]
+        }, {
+          "sentence" : "Besides , all the three benchmarking datasets were processed by FragPipe pipeline.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Besides , all the three benchmarking datasets were processed by FragPipe pipeline."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FragPipe"
+                }],
+              "neText" : "FragPipe"
+            }]
+        }, {
+          "sentence" : "We followed the data preparation rules of AutoRT: when a peptide has multiple PSMs , which means this peptide has multiple RTs , only the peptide with the RT range smaller than 3 min would be kept , and there should be no peptide sequence overlaps between training and test data to avoid overfitting problem .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We followed the data preparation rules of AutoRT: when a peptide has multiple PSMs , which means this peptide has multiple RTs , only the peptide with the RT range smaller than 3 min would be kept , and there should be no peptide sequence overlaps between training and test data to avoid overfitting problem ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AutoRT"
+                }],
+              "neText" : "AutoRT"
+            }]
+        }, {
+          "sentence" : "General Phosphorylation Probability We provided RefSeq human and UniProtKB mouse reference peptide libraries described above as input for the MusiteDeep server ( https://www.musite.net) , which returned the general phosphosite probabilities of serine , threonine , and tyrosine in the peptide sequences ( 44) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "General Phosphorylation Probability We provided RefSeq human and UniProtKB mouse reference peptide libraries described above as input for the MusiteDeep server ( https://www.musite.net) , which returned the general phosphosite probabilities of serine , threonine , and tyrosine in the peptide sequences ( 44) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RefSeq"
+                }],
+              "neText" : "RefSeq"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProtKB"
+                }],
+              "neText" : "UniProtKB"
+            }]
+        }, {
+          "sentence" : "Experimental Design and Statistical Rationale For UCEC, global phosphoproteomics data including 16 experiments were processed by MaxQuant as one batch.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Experimental Design and Statistical Rationale For UCEC, global phosphoproteomics data including 16 experiments were processed by MaxQuant as one batch."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MaxQuant (RRID:SCR_014485)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MaxQuant"
+                }],
+              "neText" : "MaxQuant"
+            }]
+        }, {
+          "sentence" : "Data analysis was performed using Python language (Jupyter Notebook v 5.6.0, Python 3).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data analysis was performed using Python language (Jupyter Notebook v 5.6.0, Python 3)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "python-bx (RRID:SCR_024202)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "For each positive PSM in which the peptide included two or more Ser/Thr/Tyrs , we kept the retention time and the ion intensity unchanged and moved the correctly localized phosphate group to a randomly chosen wrong localization to create the M_Sim1_LocF group .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For each positive PSM in which the peptide included two or more Ser/Thr/Tyrs , we kept the retention time and the ion intensity unchanged and moved the correctly localized phosphate group to a randomly chosen wrong localization to create the M_Sim1_LocF group ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "Experimental Procedures Data Sources Preprepared data for AutoRT base model training and testing were downloaded from the GitHub website (https://github.com/bzhanglab/AutoRT/tree/master/example/data).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Experimental Procedures Data Sources Preprepared data for AutoRT base model training and testing were downloaded from the GitHub website (https://github.com/bzhanglab/AutoRT/tree/master/example/data)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "https://github.com/bzhanglab/AutoRT/tree/master/example/data"
+                  }],
+                "neText" : "https://github.com/bzhanglab/AutoRT/tree/master/example/data"
+              }]
+          }]
+      }, {
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The MaxQuant search results of the phosphoproteomic data from HeLa cell protein extract used to train and test AutoRT base_phospho model were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD015087.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The MaxQuant search results of the phosphoproteomic data from HeLa cell protein extract used to train and test AutoRT base_phospho model were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD015087."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PXD015087"
+                  }],
+                "neText" : "PXD015087"
+              }]
+          }, {
+            "sentence" : "The MaxQuant search results of the synthetic dataset used to evaluate Delta RT and spectral similarity were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD000138, which included 96 peptide libraries generated from 96 seed peptides.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The MaxQuant search results of the synthetic dataset used to evaluate Delta RT and spectral similarity were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD000138, which included 96 peptide libraries generated from 96 seed peptides."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PXD000138"
+                  }],
+                "neText" : "PXD000138"
+              }]
+          }, {
+            "sentence" : "The raw files of an MS3-based TMT10-labeled phosphoproteomic dataset from murine cell lines (mouse_TMT) were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD015284.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The raw files of an MS3-based TMT10-labeled phosphoproteomic dataset from murine cell lines (mouse_TMT) were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD015284."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PXD015284"
+                  }],
+                "neText" : "PXD015284"
+              }]
+          }, {
+            "sentence" : "The raw files of a label-free quantification phosphoproteomic dataset from human cell cultures (human_LFQ) were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD007145.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The raw files of a label-free quantification phosphoproteomic dataset from human cell cultures (human_LFQ) were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD007145."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PXD007145"
+                  }],
+                "neText" : "PXD007145"
+              }]
+          }, {
+            "sentence" : "RT Data Preparation and AutoRT AutoRT base model was trained on unmodified peptides from the PXD006109 dataset ( 37 , 49) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RT Data Preparation and AutoRT AutoRT base model was trained on unmodified peptides from the PXD006109 dataset ( 37 , 49) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PXD006109"
+                  }],
+                "neText" : "PXD006109"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "We considered PCC , Spearman’s Correlation Coefficients ( SPC) , cosine similarity ( cos) , Kendal rank correlation coefficient ( kdt) , and spectral angle ( SA ) as possible measurements of spectral similarity , and they led to similar conclusions .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We considered PCC , Spearman’s Correlation Coefficients ( SPC) , cosine similarity ( cos) , Kendal rank correlation coefficient ( kdt) , and spectral angle ( SA ) as possible measurements of spectral similarity , and they led to similar conclusions ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman’s Correlation"
+                  }],
+                "neText" : "Spearman’s Correlation"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kendal rank correlation"
+                  }],
+                "neText" : "Kendal rank correlation"
+              }]
+          }, {
+            "sentence" : "Two-sided Wilcoxon rank sum test was performed, and p-values were corrected with Bonferroni correction.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two-sided Wilcoxon rank sum test was performed, and p-values were corrected with Bonferroni correction."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank sum test"
+                  }],
+                "neText" : "Wilcoxon rank sum test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }]
+      }]
+  }
+}

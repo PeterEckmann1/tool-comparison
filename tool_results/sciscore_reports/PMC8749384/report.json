@@ -1,0 +1,227 @@
+{
+  "docIdentifier" : "PMC8749384",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Fig. 1 For Task 2, participants were shown NFP label generated with Genesis R&D software (Salem, OR, USA) with no accompanying packaging and were told it was a label for a package of donuts.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Fig. 1 For Task 2, participants were shown NFP label generated with Genesis R&D software (Salem, OR, USA) with no accompanying packaging and were told it was a label for a package of donuts."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Genesis R&D"
+                }],
+              "neText" : "Genesis R&D"
+            }]
+        }, {
+          "sentence" : "All images were edited using Adobe Photoshop.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All images were edited using Adobe Photoshop."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Adobe Photoshop, RRID:SCR_014199",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Adobe Photoshop"
+                }],
+              "neText" : "Adobe Photoshop"
+            }]
+        }, {
+          "sentence" : "2.7 Statistical analysis Data were analyzed using STATA (Stata Corp., College Station, TX, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.7 Statistical analysis Data were analyzed using STATA (Stata Corp., College Station, TX, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata (RRID:SCR_012763)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATA"
+                }],
+              "neText" : "STATA"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2 Materials and methods The protocol used in this study was approved by the Institutional Review Board (IRB; STUDY00005146) of the University of Georgia (Athens, GA, U.S.A).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Materials and methods The protocol used in this study was approved by the Institutional Review Board (IRB; STUDY00005146) of the University of Georgia (Athens, GA, U.S.A)."
+              }]
+          }, {
+            "sentence" : "After signing the consent form, the participants were led through a short five-point calibration test in which participants followed a dot with their eyes as it bounced around the screen.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After signing the consent form, the participants were led through a short five-point calibration test in which participants followed a dot with their eyes as it bounced around the screen."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Additionally, participants with eye surgery (such as corneal, cataract, or intraocular implants) or eye movement abnormalities (such as lazy eye, strabismus, or nystagmus) were excluded from the study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Additionally, participants with eye surgery (such as corneal, cataract, or intraocular implants) or eye movement abnormalities (such as lazy eye, strabismus, or nystagmus) were excluded from the study."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "For Task-2, 287 participants were selected, and approximately 17 participants were eliminated from this analysis because of an error in the survey.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For Task-2, 287 participants were selected, and approximately 17 participants were eliminated from this analysis because of an error in the survey."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The flyer was published and distributed using emails, social media, and in-person with detailed directions for program participants (minimum 18-years or older) to a website that would allow them to sign up for a 15-min time screening slot to participate and complete the study.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The flyer was published and distributed using emails, social media, and in-person with detailed directions for program participants (minimum 18-years or older) to a website that would allow them to sign up for a 15-min time screening slot to participate and complete the study."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Participants were placed into complete randomized experimental groups.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants were placed into complete randomized experimental groups."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "One-way ANOVA and Pearson's Chi-square tests were conducted to test for significant differences among goal and label groups for the distribution of age, gender, education level, and ethnicity.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way ANOVA and Pearson's Chi-square tests were conducted to test for significant differences among goal and label groups for the distribution of age, gender, education level, and ethnicity."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson's Chi-square tests"
+                  }],
+                "neText" : "Pearson's Chi-square tests"
+              }]
+          }, {
+            "sentence" : "One-way analysis of variance (ANOVA) was used to determine any statistically significant differences among the mean values of two or more independent groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way analysis of variance (ANOVA) was used to determine any statistically significant differences among the mean values of two or more independent groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }, {
+            "sentence" : "Pearson's Chi-Square Test, which tests sets of categorical variables to evaluate how likely differences occur by chance, was used to analyze the larger sets of data with no dependent variables.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pearson's Chi-Square Test, which tests sets of categorical variables to evaluate how likely differences occur by chance, was used to analyze the larger sets of data with no dependent variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson's Chi-Square Test"
+                  }],
+                "neText" : "Pearson's Chi-Square Test"
+              }]
+          }]
+      }]
+  }
+}

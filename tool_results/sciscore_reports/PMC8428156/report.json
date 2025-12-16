@@ -1,0 +1,264 @@
+{
+  "docIdentifier" : "PMC8428156",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The membranes were then incubated with primary antibodies, including anti-NF-kB (1: 2000, Proteintech, 66535-1-lg), anti-TLR4 (3.5 mgmL, Abcam, ab13867), anti-CPT-1 (1: 1000, Proteintech,15184-1-AP), anti-PPAR-a (1 mgmL, Abcam, ab126285), anti-Claudin1 (1: 5000, Abcam, ab180158), anti-occludin (1: 1000, Abcam, ab167161), and anti-GAPDH (1: 25000, Proteintech, 60004-1-lg) for 16 h at 4degC.",
+          "rowSpan" : 7,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membranes were then incubated with primary antibodies, including anti-NF-kB (1: 2000, Proteintech, 66535-1-lg), anti-TLR4 (3.5 mgmL, Abcam, ab13867), anti-CPT-1 (1: 1000, Proteintech,15184-1-AP), anti-PPAR-a (1 mgmL, Abcam, ab126285), anti-Claudin1 (1: 5000, Abcam, ab180158), anti-occludin (1: 1000, Abcam, ab167161), and anti-GAPDH (1: 25000, Proteintech, 60004-1-lg) for 16 h at 4degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-NF-kB"
+                }],
+              "neText" : "anti-NF-kB"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TLR4"
+                }],
+              "neText" : "anti-TLR4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CPT-1"
+                }],
+              "neText" : "anti-CPT-1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(MyBioSource Cat# MBS617039, RRID:AB_10887251)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-PPAR-a (1 mgmL,"
+                }],
+              "neText" : "anti-PPAR-a (1 mgmL,"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Claudin1"
+                }],
+              "neText" : "anti-Claudin1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-occludin"
+                }],
+              "neText" : "anti-occludin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GAPDH"
+                }],
+              "neText" : "anti-GAPDH"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Male C57BL6J mice (5 weeks old) were procured from Shanghai Silaike Experimental Animal Co. Ltd. (Shanghai, China).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Male C57BL6J mice (5 weeks old) were procured from Shanghai Silaike Experimental Animal Co. Ltd. (Shanghai, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6J"
+                }],
+              "neText" : "C57BL6J"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Densitometry analysis of each band was conducted using ImageJ software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Densitometry analysis of each band was conducted using ImageJ software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Statistical Analysis All data are expressed as means+-standard deviations (SD) for each group, and data analysis was performed using SPSS software version 20.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis All data are expressed as means+-standard deviations (SD) for each group, and data analysis was performed using SPSS software version 20.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Material and Methods Animals and Experimental Design All experimental procedures were conducted in accordance with the guidelines of the National Research Council Guide for Care and Use of Laboratory Animals and were approved by the Committee on Care and Use of Laboratory Animals of the Medical College of Tongji University, China (TJHBLAC-2020-72).",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Material and Methods Animals and Experimental Design All experimental procedures were conducted in accordance with the guidelines of the National Research Council Guide for Care and Use of Laboratory Animals and were approved by the Committee on Care and Use of Laboratory Animals of the Medical College of Tongji University, China (TJHBLAC-2020-72)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Male C57BL6J mice (5 weeks old) were procured from Shanghai Silaike Experimental Animal Co. Ltd. (Shanghai, China).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male C57BL6J mice (5 weeks old) were procured from Shanghai Silaike Experimental Animal Co. Ltd. (Shanghai, China)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Male C57BL6J mice (5 weeks old) were procured from Shanghai Silaike Experimental Animal Co. Ltd. (Shanghai, China).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male C57BL6J mice (5 weeks old) were procured from Shanghai Silaike Experimental Animal Co. Ltd. (Shanghai, China)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "After 1 week of acclimation, the mice were randomly allocated into 3 groups: (1) chow group (the mice received a chow diet, n=5) (2) HFD group (the mice received an HFD, n=5) and (3) LCBE group (the mice received an HFD and LCBE by gavage once daily, n=6).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After 1 week of acclimation, the mice were randomly allocated into 3 groups: (1) chow group (the mice received a chow diet, n=5) (2) HFD group (the mice received an HFD, n=5) and (3) LCBE group (the mice received an HFD and LCBE by gavage once daily, n=6)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The differences among groups were determined by one-way analysis of variance (ANOVA), and P<0.05 was considered to indicate a significant difference.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The differences among groups were determined by one-way analysis of variance (ANOVA), and P<0.05 was considered to indicate a significant difference."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }]
+  }
+}

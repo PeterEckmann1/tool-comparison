@@ -1,0 +1,664 @@
+{
+  "docIdentifier" : "PMC8185505",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The membrane was blocked in 5 bovine serum albumin at 4degC ( Sigma-Aldrich Merck KGaA ) for 1 h , and then incubated with primary antibodies at 4degC overnight against mouse Hoxa11 ( 1:5,000 cat. no.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membrane was blocked in 5 bovine serum albumin at 4degC ( Sigma-Aldrich Merck KGaA ) for 1 h , and then incubated with primary antibodies at 4degC overnight against mouse Hoxa11 ( 1:5,000 cat. no."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Hoxa11"
+                }],
+              "neText" : "Hoxa11"
+            }]
+        }, {
+          "sentence" : "NBP1-80228 Novus Biologicals , Ltd.) , b-actin or Gapdh ( 1:10,000 cat. nos . sc-47778 or sc-32233 Santa Cruz Biotechnology , Inc . ) , followed by incubation for 2 h at room temperature with horseradish peroxidase-conjugated anti-mouse or anti-rabbit IgG secondary antibodies ( 1:5,000 cat. nos . C04001 or C04003 Croyez Bioscience Co . , Ltd.) .",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NBP1-80228 Novus Biologicals , Ltd.) , b-actin or Gapdh ( 1:10,000 cat. nos . sc-47778 or sc-32233 Santa Cruz Biotechnology , Inc . ) , followed by incubation for 2 h at room temperature with horseradish peroxidase-conjugated anti-mouse or anti-rabbit IgG secondary antibodies ( 1:5,000 cat. nos . C04001 or C04003 Croyez Bioscience Co . , Ltd.) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gapdh"
+                }],
+              "neText" : "Gapdh"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C04001"
+                }],
+              "neText" : "C04001"
+            }]
+        }, {
+          "sentence" : "For immunophenotypic analysis , cells were stained at 4degC for 15 min with phycoerythrin-macrophage-1 antigen ( Mac-1) , phycoerythrin-CD115 and allophycocyanine-Ki-67 antibodies ( cat. nos . RM2804-3 , 12-1152-82 and 17-5698-82 eBioscience Thermo Fisher ) followed by flow cytometric analysis using FACSCanto II Cell Analyzer and FACSDiva software version 5.0 ( BD Biosciences) .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For immunophenotypic analysis , cells were stained at 4degC for 15 min with phycoerythrin-macrophage-1 antigen ( Mac-1) , phycoerythrin-CD115 and allophycocyanine-Ki-67 antibodies ( cat. nos . RM2804-3 , 12-1152-82 and 17-5698-82 eBioscience Thermo Fisher ) followed by flow cytometric analysis using FACSCanto II Cell Analyzer and FACSDiva software version 5.0 ( BD Biosciences) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "antigen ( Mac-1)"
+                }],
+              "neText" : "antigen ( Mac-1)"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "phycoerythrin-CD115"
+                }],
+              "neText" : "phycoerythrin-CD115"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "allophycocyanine-Ki-67"
+                }],
+              "neText" : "allophycocyanine-Ki-67"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Plasmid DNAs of pMSCV-Hoxa11 and pMSCVpuro were transfected into EcoPack2-293 cells ( Invitrogen Thermo Fisher Scientific , Inc . ) to package retroviruses .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Plasmid DNAs of pMSCV-Hoxa11 and pMSCVpuro were transfected into EcoPack2-293 cells ( Invitrogen Thermo Fisher Scientific , Inc . ) to package retroviruses ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EcoPack2-293"
+                }],
+              "neText" : "EcoPack2-293"
+            }]
+        }, {
+          "sentence" : "Viral titer was determined by infection of NIH3T3 ( American Type Culture Collection ATCC(r ) CRL-1658 ( tm)) , a murine fibroblast cell line , with serial diluted supernatant to generate puromycin-resistant colonies .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Viral titer was determined by infection of NIH3T3 ( American Type Culture Collection ATCC(r ) CRL-1658 ( tm)) , a murine fibroblast cell line , with serial diluted supernatant to generate puromycin-resistant colonies ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0594",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NIH3T3"
+                }],
+              "neText" : "NIH3T3"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Materials and methods Cell culture The mouse MLLAF10(OM-LZ) leukemia cell line (12G) and MLLAF10(OM-LZ) cells harboring wild-type or activating KRAS (KRASG12C ) and wild-type or activating PTPN11 (PTPN11G503A ) were generated by the retroviral transduction of genes to 5-fluorouracil (5-FU)-enriched C57BL6J (B6) mouse bone marrow (BM) cells.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Cell culture The mouse MLLAF10(OM-LZ) leukemia cell line (12G) and MLLAF10(OM-LZ) cells harboring wild-type or activating KRAS (KRASG12C ) and wild-type or activating PTPN11 (PTPN11G503A ) were generated by the retroviral transduction of genes to 5-fluorouracil (5-FU)-enriched C57BL6J (B6) mouse bone marrow (BM) cells."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6J"
+                }],
+              "neText" : "C57BL6J"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Cells stably transfected with blank lentiviral vector pLKO_025 were used as negative controls .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells stably transfected with blank lentiviral vector pLKO_025 were used as negative controls ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLKO_025"
+                }],
+              "neText" : "pLKO_025"
+            }]
+        }, {
+          "sentence" : "Plasmid DNAs of pMSCV-Hoxa11 and pMSCVpuro were transfected into EcoPack2-293 cells ( Invitrogen Thermo Fisher Scientific , Inc . ) to package retroviruses .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Plasmid DNAs of pMSCV-Hoxa11 and pMSCVpuro were transfected into EcoPack2-293 cells ( Invitrogen Thermo Fisher Scientific , Inc . ) to package retroviruses ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMSCV-Hoxa11"
+                }],
+              "neText" : "pMSCV-Hoxa11"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMSCVpuro"
+                }],
+              "neText" : "pMSCVpuro"
+            }]
+        }, {
+          "sentence" : "To amplify 300-bp DNA fragments of the pMSCVpuro vector ( from 12G-V ) or the region spanning the pMSCVpuro-Hoxa11 junction ( from 12G-H11 ) from genomic DNA , PCR was performed using the following primers: MSCV 5 primer 5-CCCTTGAACCTCCTCGTTCAGC C-3 in combination with MSCV 3 primer 5-GAGACGTGCTACTTCCATTTGT C-3 or Hoxa11 primer 5-GAGTAGCAGTGGGCCAGATTGC -3 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To amplify 300-bp DNA fragments of the pMSCVpuro vector ( from 12G-V ) or the region spanning the pMSCVpuro-Hoxa11 junction ( from 12G-H11 ) from genomic DNA , PCR was performed using the following primers: MSCV 5 primer 5-CCCTTGAACCTCCTCGTTCAGC C-3 in combination with MSCV 3 primer 5-GAGACGTGCTACTTCCATTTGT C-3 or Hoxa11 primer 5-GAGTAGCAGTGGGCCAGATTGC -3 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMSCVpuro-Hoxa11"
+                }],
+              "neText" : "pMSCVpuro-Hoxa11"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Microarray data are available at the NCBI Gene Expression Omnibus ( GEO ) website ( https:www.ncbi.nlm.nih.govgeo accession nos .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Microarray data are available at the NCBI Gene Expression Omnibus ( GEO ) website ( https:www.ncbi.nlm.nih.govgeo accession nos ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Omnibus (GEO) (RRID:SCR_005012)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Omnibus"
+                }],
+              "neText" : "Gene Expression Omnibus"
+            }]
+        }, {
+          "sentence" : "A heat map was obtained using Cluster version 3.0 ( http:bonsai.hgc . jpmdehoonsoftwarecluster ) and Java TreeView version 1.1.6r4 ( http:jtreeview . sourceforge.net) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A heat map was obtained using Cluster version 3.0 ( http:bonsai.hgc . jpmdehoonsoftwarecluster ) and Java TreeView version 1.1.6r4 ( http:jtreeview . sourceforge.net) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cluster (RRID:SCR_013505)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cluster"
+                }],
+              "neText" : "Cluster"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "TreeView (RRID:SCR_013503)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TreeView"
+                }],
+              "neText" : "TreeView"
+            }]
+        }, {
+          "sentence" : "DEGs with >1.5-fold-change in paired MLLAF10 leukemia cells harboring wild-type and oncogenic KRAS or PTPN11 were then functionally annotated with GO enrichment analysis using online Database for Annotation , Visualization and Integrated Discovery ( DAVID ) version 6.8 annotation tools ( https:david.ncifcrf . gov) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "DEGs with >1.5-fold-change in paired MLLAF10 leukemia cells harboring wild-type and oncogenic KRAS or PTPN11 were then functionally annotated with GO enrichment analysis using online Database for Annotation , Visualization and Integrated Discovery ( DAVID ) version 6.8 annotation tools ( https:david.ncifcrf . gov) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DAVID (RRID:SCR_001881)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }, {
+          "sentence" : "Validation of HOXA11 expression in patients with AML To validate the differential expression and drug responsiveness of HOXA11 in MLL-t AML , a meta-analysis was performed using the Oncomine(tm ) database ( https:www.oncomine.org) ,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Validation of HOXA11 expression in patients with AML To validate the differential expression and drug responsiveness of HOXA11 in MLL-t AML , a meta-analysis was performed using the Oncomine(tm ) database ( https:www.oncomine.org) ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.oncomine.org"
+                }],
+              "neText" : "https:www.oncomine.org"
+            }]
+        }, {
+          "sentence" : "All lentiviruses were obtained from the National RNAi Core Facility at the Institute of Molecular BiologyGenomic Research Center , Academia Sinica ( Taiwan)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All lentiviruses were obtained from the National RNAi Core Facility at the Institute of Molecular BiologyGenomic Research Center , Academia Sinica ( Taiwan)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Molecular BiologyGenomic"
+                }],
+              "neText" : "Molecular BiologyGenomic"
+            }]
+        }, {
+          "sentence" : "For immunophenotypic analysis , cells were stained at 4degC for 15 min with phycoerythrin-macrophage-1 antigen ( Mac-1) , phycoerythrin-CD115 and allophycocyanine-Ki-67 antibodies ( cat. nos . RM2804-3 , 12-1152-82 and 17-5698-82 eBioscience Thermo Fisher ) followed by flow cytometric analysis using FACSCanto II Cell Analyzer and FACSDiva software version 5.0 ( BD Biosciences) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For immunophenotypic analysis , cells were stained at 4degC for 15 min with phycoerythrin-macrophage-1 antigen ( Mac-1) , phycoerythrin-CD115 and allophycocyanine-Ki-67 antibodies ( cat. nos . RM2804-3 , 12-1152-82 and 17-5698-82 eBioscience Thermo Fisher ) followed by flow cytometric analysis using FACSCanto II Cell Analyzer and FACSDiva software version 5.0 ( BD Biosciences) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BD FACSDiva Software, RRID:SCR_001456",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FACSDiva"
+                }],
+              "neText" : "FACSDiva"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Statistical analyses were performed using SPSS software version 20.0 (SPSS, Inc).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Statistical analyses were performed using SPSS software version 20.0 (SPSS, Inc)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Mice were euthanized by an i.p. injection of Zoletil ( 50 mgkg ) and Rompun ( xylazine , 10 mgkg ) or by inhalation of isoflurane ( 3-5) , followed by cervical dislocation ( 32) .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice were euthanized by an i.p. injection of Zoletil ( 50 mgkg ) and Rompun ( xylazine , 10 mgkg ) or by inhalation of isoflurane ( 3-5) , followed by cervical dislocation ( 32) ."
+              }]
+          }, {
+            "sentence" : "Ethics statement All animal experiments were performed in accordance with the Guide for the Care and Use of Laboratory Animals published by National Institutes of Health ( publication no. 85-23 , revised 1996 ) and were carried out according to the protocol approved by the Animal Research Committee of Chang Gung Memorial Hospital",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ethics statement All animal experiments were performed in accordance with the Guide for the Care and Use of Laboratory Animals published by National Institutes of Health ( publication no. 85-23 , revised 1996 ) and were carried out according to the protocol approved by the Animal Research Committee of Chang Gung Memorial Hospital"
+              }]
+          }, {
+            "sentence" : "Human sample collection was conducted in accordance with the Declaration of Helsinki and was approved by the Chang Gung Memorial Hospital Research Ethics Committee (IRB No. 96-1748B).",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Human sample collection was conducted in accordance with the Declaration of Helsinki and was approved by the Chang Gung Memorial Hospital Research Ethics Committee (IRB No. 96-1748B)."
+              }]
+          }, {
+            "sentence" : "Human sample collection was conducted in accordance with the Declaration of Helsinki and was approved by the Chang Gung Memorial Hospital Research Ethics Committee (IRB No. 96-1748B).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Human sample collection was conducted in accordance with the Declaration of Helsinki and was approved by the Chang Gung Memorial Hospital Research Ethics Committee (IRB No. 96-1748B)."
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained from all patients.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from all patients."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were as follows: Adults and children with AML with MLL-t .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were as follows: Adults and children with AML with MLL-t ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Among the 114 cases with MLL-t AML ( 56 men and 58 women , age range 0-84 years , median 27 years) , it was determined that eight cases with MLLAF10 or MLLAF9 had sufficient remaining specimens available for HOXA11 expression level analysis .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Among the 114 cases with MLL-t AML ( 56 men and 58 women , age range 0-84 years , median 27 years) , it was determined that eight cases with MLLAF10 or MLLAF9 had sufficient remaining specimens available for HOXA11 expression level analysis ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Among the 114 cases with MLL-t AML ( 56 men and 58 women , age range 0-84 years , median 27 years) , it was determined that eight cases with MLLAF10 or MLLAF9 had sufficient remaining specimens available for HOXA11 expression level analysis .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Among the 114 cases with MLL-t AML ( 56 men and 58 women , age range 0-84 years , median 27 years) , it was determined that eight cases with MLLAF10 or MLLAF9 had sufficient remaining specimens available for HOXA11 expression level analysis ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Among the 114 cases with MLL-t AML ( 56 men and 58 women , age range 0-84 years , median 27 years) , it was determined that eight cases with MLLAF10 or MLLAF9 had sufficient remaining specimens available for HOXA11 expression level analysis .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Among the 114 cases with MLL-t AML ( 56 men and 58 women , age range 0-84 years , median 27 years) , it was determined that eight cases with MLLAF10 or MLLAF9 had sufficient remaining specimens available for HOXA11 expression level analysis ."
+              }]
+          }, {
+            "sentence" : "In vivo leukemogenesis The in vivo leukemogenic potential of the leukemia cell lines was determined by BM transplantation assay using male B6 mice ( n=45 , age , 6-8 weeks weight , 20-24 g) .",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In vivo leukemogenesis The in vivo leukemogenic potential of the leukemia cell lines was determined by BM transplantation assay using male B6 mice ( n=45 , age , 6-8 weeks weight , 20-24 g) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Microarray data are available at the NCBI Gene Expression Omnibus ( GEO ) website ( https:www.ncbi.nlm.nih.govgeo accession nos .",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Microarray data are available at the NCBI Gene Expression Omnibus ( GEO ) website ( https:www.ncbi.nlm.nih.govgeo accession nos ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "These different cell types were either generated in the current study (AKw1G) or in previous studies (AK2G, AK3G, APw1 and APm1) (21,22,26) (Fig. 1A).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "These different cell types were either generated in the current study (AKw1G) or in previous studies (AK2G, AK3G, APw1 and APm1) (21,22,26) (Fig. 1A)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "21,22,26"
+                  }],
+                "neText" : "21,22,26"
+              }]
+          }, {
+            "sentence" : "GSE82156 and GSE134586 ) or can be downloaded from Chang Gung University website ( 21)",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "GSE82156 and GSE134586 ) or can be downloaded from Chang Gung University website ( 21)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE82156"
+                  }],
+                "neText" : "GSE82156"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE134586"
+                  }],
+                "neText" : "GSE134586"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical significance was evaluated using Fishers exact test and corrected by Bonferroni correction for multiple testing .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical significance was evaluated using Fishers exact test and corrected by Bonferroni correction for multiple testing ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }, {
+            "sentence" : "The statistical significance of differences in gene expression levels of the two groups was compared using a Mann-Whitney test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The statistical significance of differences in gene expression levels of the two groups was compared using a Mann-Whitney test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney test"
+                  }],
+                "neText" : "Mann-Whitney test"
+              }]
+          }, {
+            "sentence" : "Survival analysis was conducted according to the Kaplan-Meier method, and differences in survival were assessed using the log-rank test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Survival analysis was conducted according to the Kaplan-Meier method, and differences in survival were assessed using the log-rank test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }, {
+            "sentence" : "Drug sensitivity was compared using an unpaired two-sample Students t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Drug sensitivity was compared using an unpaired two-sample Students t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

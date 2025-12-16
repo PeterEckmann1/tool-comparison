@@ -1,0 +1,346 @@
+{
+  "docIdentifier" : "PMC8129858",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Standard immunohistochemistry (IHC) was performed using the Dako Omnis automated staining system with primary antibodies against alpha-synuclein (a- syn Thermo Scientific 1:10,000 after microwave antigen retrieval), Ab (DAKO 1:100 with initial incubation for 3 hours at room temperature), hyperphosphorylated tau (clone AT-8 Innogenetics 1:2000 after microwave antigen retrieval), phosphorylation-independent TDP-43 (ProteinTech 1:1000 after microwave antigen retrieval), and ubiquitin (DAKO 1:500 after microwave antigen retrieval).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Standard immunohistochemistry (IHC) was performed using the Dako Omnis automated staining system with primary antibodies against alpha-synuclein (a- syn Thermo Scientific 1:10,000 after microwave antigen retrieval), Ab (DAKO 1:100 with initial incubation for 3 hours at room temperature), hyperphosphorylated tau (clone AT-8 Innogenetics 1:2000 after microwave antigen retrieval), phosphorylation-independent TDP-43 (ProteinTech 1:1000 after microwave antigen retrieval), and ubiquitin (DAKO 1:500 after microwave antigen retrieval)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "antibodies against alpha-synuclein"
+                }],
+              "neText" : "antibodies against alpha-synuclein"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "phosphorylation-independent TDP-43"
+                }],
+              "neText" : "phosphorylation-independent TDP-43"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ubiquitin"
+                }],
+              "neText" : "ubiquitin"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "RESEARCH IN CONTEXT Systematic review: The authors reviewed the literature using traditional databases (e.g., PubMed) for articles and presentation at meetings.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RESEARCH IN CONTEXT Systematic review: The authors reviewed the literature using traditional databases (e.g., PubMed) for articles and presentation at meetings."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PubMed (RRID:SCR_004846)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PubMed"
+                }],
+              "neText" : "PubMed"
+            }]
+        }, {
+          "sentence" : "The severity of senile neuritic plaque pathology was staged according to Consortium to Establish a Registry for Alzheimers Disease (CERAD) recommendations. 10 Extent of tau pathology was staged according to Braak et al. 11 , 12 The severity of ADNC was semi-quantitatively categorized as mild, moderate, and severe as described in Table 1.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The severity of senile neuritic plaque pathology was staged according to Consortium to Establish a Registry for Alzheimers Disease (CERAD) recommendations. 10 Extent of tau pathology was staged according to Braak et al. 11 , 12 The severity of ADNC was semi-quantitatively categorized as mild, moderate, and severe as described in Table 1."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "CERAD - Consortium to Establish a Registry for Alzheimer's Disease (RRID:SCR_003016)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CERAD"
+                }],
+              "neText" : "CERAD"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Criteria for inclusion in the study were (1) presence of ADNC, (2) presence of LBP, or (3) a combination of both pathologies on neuropathological evaluation (ADLBP).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Criteria for inclusion in the study were (1) presence of ADNC, (2) presence of LBP, or (3) a combination of both pathologies on neuropathological evaluation (ADLBP)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "One hundred patients were excluded, and we included 37 patients with pure ADNC, 7 patients with pure LBP, and 37 patients with ADLBP (Table 1) in the final sample.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One hundred patients were excluded, and we included 37 patients with pure ADNC, 7 patients with pure LBP, and 37 patients with ADLBP (Table 1) in the final sample."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The severity of a-syn pathology was compared between patients with and without autonomic dysfunction using a t test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The severity of a-syn pathology was compared between patients with and without autonomic dysfunction using a t test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }, {
+            "sentence" : "The prevalence of LBP was compared between the two groups with Chi-square test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The prevalence of LBP was compared between the two groups with Chi-square test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-square test"
+                  }],
+                "neText" : "Chi-square test"
+              }]
+          }, {
+            "sentence" : "We used analysis of variance (ANOVA) to compare continuous variables and Pearsons Chi-square test to compare categorical variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We used analysis of variance (ANOVA) to compare continuous variables and Pearsons Chi-square test to compare categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "MMSE scores at presentation were compared using analysis of covariance (ANCOVA) with the age of onset of cognitive symptoms as a covariate.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MMSE scores at presentation were compared using analysis of covariance (ANCOVA) with the age of onset of cognitive symptoms as a covariate."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of covariance"
+                  }],
+                "neText" : "analysis of covariance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANCOVA"
+                  }],
+                "neText" : "ANCOVA"
+              }]
+          }, {
+            "sentence" : "For ANOVA and ANCOVA analyses, we used Bonferroni correction for multiple comparisons.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For ANOVA and ANCOVA analyses, we used Bonferroni correction for multiple comparisons."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }, {
+            "sentence" : "We performed pairwise comparisons with Tukeys post hoc test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We performed pairwise comparisons with Tukeys post hoc test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys post hoc test"
+                  }],
+                "neText" : "Tukeys post hoc test"
+              }]
+          }, {
+            "sentence" : "Pairwise comparisons of survival between groups were performed using log-rank test with Bonferroni correction for multiple comparisons.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pairwise comparisons of survival between groups were performed using log-rank test with Bonferroni correction for multiple comparisons."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }, {
+            "sentence" : "We compared the frequency of LBP and the severity of a-syn deposition in brainstem nuclei between patients with autonomic dysfunction and matched controls using Pearsons Chi-square test and unpaired t test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We compared the frequency of LBP and the severity of a-syn deposition in brainstem nuclei between patients with autonomic dysfunction and matched controls using Pearsons Chi-square test and unpaired t test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearsons Chi-square test"
+                  }],
+                "neText" : "Pearsons Chi-square test"
+              }]
+          }]
+      }]
+  }
+}

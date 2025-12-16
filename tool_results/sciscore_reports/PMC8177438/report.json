@@ -1,0 +1,234 @@
+{
+  "docIdentifier" : "PMC8177438",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Demographic predictors included age (in 10-year increments), sex, race and ethnicity (categories: (i) Non-Hispanic Black or African American, (ii) Non-Hispanic White, (iii) Hispanic or Latino with any race, and (iv) Non-Hispanic Other which includes Non-Hispanic American Indian or Alaskan Native, Non-Hispanic Asian or Pacific Islander, Non-Hispanic: other, unknown, or mixed race), type of insurance held (categories: (i) Private, (ii) Medicaid, (iii) Medicare, and (iv) Other which includes Other GovernmentMisc, Self-Pay, and Missing), and U.S. geographic region (defined by one-digit zip code) including (i) Northeast: 0 (Connecticut, Massachusetts, Maine, New Hampshire, New Jersey, Rhode Island, Vermont), 1 (Delaware, New York, Pennsylvania) (ii) Southeast: 2 (DC, Maryland, North Carolina, South Carolina, Virginia, West Virginia), 3 (Alabama, Florida, Georgia, Mississippi, Tennessee) (iii) Midwest: 4 (Indiana, Kentucky, Michigan, Ohio), 5 (Iowa, Minnesota, Montana, North Dakota, South Dakota, Wisconsin), 6 (Illinois, Kansas, Missouri, Nebraska), 7 (Arkansas, Louisiana, Oklahoma, Texas) (iv) West: 8 (Arizona, Colorado, Idaho, New Mexico, Nevada, Utah, Wyoming), 9 (Alaska, California, Hawaii, Oregon, Washington), and (v) Missing.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Demographic predictors included age (in 10-year increments), sex, race and ethnicity (categories: (i) Non-Hispanic Black or African American, (ii) Non-Hispanic White, (iii) Hispanic or Latino with any race, and (iv) Non-Hispanic Other which includes Non-Hispanic American Indian or Alaskan Native, Non-Hispanic Asian or Pacific Islander, Non-Hispanic: other, unknown, or mixed race), type of insurance held (categories: (i) Private, (ii) Medicaid, (iii) Medicare, and (iv) Other which includes Other GovernmentMisc, Self-Pay, and Missing), and U.S. geographic region (defined by one-digit zip code) including (i) Northeast: 0 (Connecticut, Massachusetts, Maine, New Hampshire, New Jersey, Rhode Island, Vermont), 1 (Delaware, New York, Pennsylvania) (ii) Southeast: 2 (DC, Maryland, North Carolina, South Carolina, Virginia, West Virginia), 3 (Alabama, Florida, Georgia, Mississippi, Tennessee) (iii) Midwest: 4 (Indiana, Kentucky, Michigan, Ohio), 5 (Iowa, Minnesota, Montana, North Dakota, South Dakota, Wisconsin), 6 (Illinois, Kansas, Missouri, Nebraska), 7 (Arkansas, Louisiana, Oklahoma, Texas) (iv) West: 8 (Arizona, Colorado, Idaho, New Mexico, Nevada, Utah, Wyoming), 9 (Alaska, California, Hawaii, Oregon, Washington), and (v) Missing."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Non-Hispanic White"
+                }],
+              "neText" : "Non-Hispanic White"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The University of Utah Institutional Review Board (IRB 136,696) has determined that this study does not meet the definitions of Human Subjects Research for using secondary data with no intervention or interaction with an individual, and for not having identifiable private information in the data.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The University of Utah Institutional Review Board (IRB 136,696) has determined that this study does not meet the definitions of Human Subjects Research for using secondary data with no intervention or interaction with an individual, and for not having identifiable private information in the data."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Table 1 Characteristic Total n (1) Opioid use disorder indication n (1) No opioid use disorder indication n (1) p-value10 Total 52,3122 1013 (1.93) 51,299 (98.13) Demographic Characteristics Age (Years)4 53 (35-68) 60 (48-70) 53 (35-68) <0.001 11 Sex 0.90 Female 26,512 (50.7) 511 (50.4) 26,001 (50.7) Male 25,800 (49.3) 502 (49.6) 25,298 (49.3) Race and Ethnicity <0.001 Non-Hispanic Black or African American 10,617 (20.3) 226 (22.3) 10,391 (20.3) Non-Hispanic White 15,027 (28.7) 572 (56.5) 14,455 (28.2) Non-Hispanic Other5 8257 (15.8) 71 (7.0) 8186 (16.0) Hispanic or Latino 18,411 (35.2) 144 (14.2) 18,267 (35.6) Insurance Type <0.001 Private 17,969 (34.3) 150 (14.8) 17,819 (34.7) Medicaid 8587 (16.4) 225 (22.2) 8362 (16.3) Medicare 11,768 (22.5) 401 (39.6) 11,367 (22.2) Other6 13,988 (26.7) 237 (23.4) 13,751 (26.8) Region7 <0.001 Northeast 11,794 (22.5) 216 (21.3) 11,578 (22.6) Southeast 17,935 (34.3) 306 (30.2) 17,629 (34.4) Midwest 7699 (14.7) 149 (14.7) 7550 (14.7) West 12,323 (23.6) 237 (23.4) 12,086 (23.6) Missing 2561 (4.9) 105 (10.4) 2456 (4.8) Clinical Characteristics OUD Indication8 1013 (1.9) - - History of chronic disease9 Type 2 Diabetes (DM) 14,119 (27.0) 474 (46.8) 13,645 (26.6) <0.001 Hypertension 23,218 (44.4) 739 (73.0) 22,479 (43.8) <0.001 Cardiovascular Disease (CVD) 27,682 (52.9) 861 (85.0) 26,821 (52.3) <0.001 Coronary Heart Disease (CHD) 4360 (8.3) 207 (20.4) 4153 (8.1) <0.001 Asthma 9165 (17.5) 438 (43.2) 8727 (17.0) <0.001 Chronic Kidney Disease (CKD) 7014 (13.4) 315 (31.1) 6699 (13.1) <0.001 Acute Respiratory Distress Syndrome (ARDS) 1880 (3.6) 105 (10.4) 1775 (3.5) <0.001 Chronic Obstructive Pulmonary Disease (COPD) 6529 (12.5) 392 (38.7) 6137 (12.0) <0.001 Medications Hydroxychloroquine 7468 (14.3) 152 (15.0) 7316 (14.3) 0.53 Remdesivir 399 (0.8) 5 (0.5) 394 (0.8) 0.4612 Decadron or Prednisone 4166 (8.0) 154 (15.2) 4012 (7.8) <0.001 Aspirin and Plavix 894 (1.7) 37 (3.7) 857 (1.7) <0.001 Anticoagulant 17,756 (33.9) 533 (52.6) 17,223 (33.6) <0.001 1 n (column) except when otherwise noted.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Characteristic Total n (1) Opioid use disorder indication n (1) No opioid use disorder indication n (1) p-value10 Total 52,3122 1013 (1.93) 51,299 (98.13) Demographic Characteristics Age (Years)4 53 (35-68) 60 (48-70) 53 (35-68) <0.001 11 Sex 0.90 Female 26,512 (50.7) 511 (50.4) 26,001 (50.7) Male 25,800 (49.3) 502 (49.6) 25,298 (49.3) Race and Ethnicity <0.001 Non-Hispanic Black or African American 10,617 (20.3) 226 (22.3) 10,391 (20.3) Non-Hispanic White 15,027 (28.7) 572 (56.5) 14,455 (28.2) Non-Hispanic Other5 8257 (15.8) 71 (7.0) 8186 (16.0) Hispanic or Latino 18,411 (35.2) 144 (14.2) 18,267 (35.6) Insurance Type <0.001 Private 17,969 (34.3) 150 (14.8) 17,819 (34.7) Medicaid 8587 (16.4) 225 (22.2) 8362 (16.3) Medicare 11,768 (22.5) 401 (39.6) 11,367 (22.2) Other6 13,988 (26.7) 237 (23.4) 13,751 (26.8) Region7 <0.001 Northeast 11,794 (22.5) 216 (21.3) 11,578 (22.6) Southeast 17,935 (34.3) 306 (30.2) 17,629 (34.4) Midwest 7699 (14.7) 149 (14.7) 7550 (14.7) West 12,323 (23.6) 237 (23.4) 12,086 (23.6) Missing 2561 (4.9) 105 (10.4) 2456 (4.8) Clinical Characteristics OUD Indication8 1013 (1.9) - - History of chronic disease9 Type 2 Diabetes (DM) 14,119 (27.0) 474 (46.8) 13,645 (26.6) <0.001 Hypertension 23,218 (44.4) 739 (73.0) 22,479 (43.8) <0.001 Cardiovascular Disease (CVD) 27,682 (52.9) 861 (85.0) 26,821 (52.3) <0.001 Coronary Heart Disease (CHD) 4360 (8.3) 207 (20.4) 4153 (8.1) <0.001 Asthma 9165 (17.5) 438 (43.2) 8727 (17.0) <0.001 Chronic Kidney Disease (CKD) 7014 (13.4) 315 (31.1) 6699 (13.1) <0.001 Acute Respiratory Distress Syndrome (ARDS) 1880 (3.6) 105 (10.4) 1775 (3.5) <0.001 Chronic Obstructive Pulmonary Disease (COPD) 6529 (12.5) 392 (38.7) 6137 (12.0) <0.001 Medications Hydroxychloroquine 7468 (14.3) 152 (15.0) 7316 (14.3) 0.53 Remdesivir 399 (0.8) 5 (0.5) 394 (0.8) 0.4612 Decadron or Prednisone 4166 (8.0) 154 (15.2) 4012 (7.8) <0.001 Aspirin and Plavix 894 (1.7) 37 (3.7) 857 (1.7) <0.001 Anticoagulant 17,756 (33.9) 533 (52.6) 17,223 (33.6) <0.001 1 n (column) except when otherwise noted."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Stratified data were compared using Chi-Square tests for categorical variables with sufficient sample size, Fishers Exact tests for those with small sample size, and non-parametric continuous variables were compared using Wilcoxon Rank-Sum tests.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Stratified data were compared using Chi-Square tests for categorical variables with sufficient sample size, Fishers Exact tests for those with small sample size, and non-parametric continuous variables were compared using Wilcoxon Rank-Sum tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-Square tests"
+                  }],
+                "neText" : "Chi-Square tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers Exact tests"
+                  }],
+                "neText" : "Fishers Exact tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon Rank-Sum tests"
+                  }],
+                "neText" : "Wilcoxon Rank-Sum tests"
+              }]
+          }, {
+            "sentence" : "Median maximum LOS was compared with a Wilcoxon Rank-Sum test and percentages of hospitalization, death, and invasive ventilator dependence were compared with Chi-Square tests.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Median maximum LOS was compared with a Wilcoxon Rank-Sum test and percentages of hospitalization, death, and invasive ventilator dependence were compared with Chi-Square tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon Rank-Sum test"
+                  }],
+                "neText" : "Wilcoxon Rank-Sum test"
+              }]
+          }, {
+            "sentence" : "10 Chi-Square test (unless otherwise noted).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "10 Chi-Square test (unless otherwise noted)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-Square test"
+                  }],
+                "neText" : "Chi-Square test"
+              }]
+          }, {
+            "sentence" : "12 Fishers Exact test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "12 Fishers Exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers Exact test"
+                  }],
+                "neText" : "Fishers Exact test"
+              }]
+          }, {
+            "sentence" : "Unadjusted maximum LOS was compared between the four groups with a Kruskall-Wallis test, and fit with an exponential regression model for the adjusted results.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Unadjusted maximum LOS was compared between the four groups with a Kruskall-Wallis test, and fit with an exponential regression model for the adjusted results."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskall-Wallis test"
+                  }],
+                "neText" : "Kruskall-Wallis test"
+              }]
+          }]
+      }]
+  }
+}

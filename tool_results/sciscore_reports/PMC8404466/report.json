@@ -1,0 +1,893 @@
+{
+  "docIdentifier" : "PMC8404466",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Briefly , lyophilized beads were resuspended in 0.1 M sodium phosphate buffer ( pH 7.4 ) and vortexed for 30 s After being washed with sodium phosphate buffer three times , anti-TDP-43 antibodies and the same volume of 3 M ammonium sulfate were added to the beads .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly , lyophilized beads were resuspended in 0.1 M sodium phosphate buffer ( pH 7.4 ) and vortexed for 30 s After being washed with sodium phosphate buffer three times , anti-TDP-43 antibodies and the same volume of 3 M ammonium sulfate were added to the beads ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TDP-43"
+                }],
+              "neText" : "anti-TDP-43"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "HEK293 cells were first transfected with two PX459 vectors , which targeted 5-AAT CAA GGT AGT AAT ATG GG-3 and 5-TCG GGT AAT AAC CAA AAC CA-3 of the TARDBP gene to delete the coding sequence of TDP-43 from aa 307 to 355 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HEK293 cells were first transfected with two PX459 vectors , which targeted 5-AAT CAA GGT AGT AAT ATG GG-3 and 5-TCG GGT AAT AAC CAA AAC CA-3 of the TARDBP gene to delete the coding sequence of TDP-43 from aa 307 to 355 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0045",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293"
+                }],
+              "neText" : "HEK293"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Two independent targeted clones were injected into C57BL6N mouse blastocysts to generate TDPDCR chimeric mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Two independent targeted clones were injected into C57BL6N mouse blastocysts to generate TDPDCR chimeric mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_MOP1804018",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6N"
+                }],
+              "neText" : "C57BL6N"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "In the targeting vector, the 5 arm harboring exons 3-5 (4.5 kb), the 3 arm harboring the 3 UTR of the Tardbp gene (4.6 kb), and the neomycin resistance gene were inserted into the pDTA-down-ABC vector.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In the targeting vector, the 5 arm harboring exons 3-5 (4.5 kb), the 3 arm harboring the 3 UTR of the Tardbp gene (4.6 kb), and the neomycin resistance gene were inserted into the pDTA-down-ABC vector."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pDTA-down-ABC"
+                }],
+              "neText" : "pDTA-down-ABC"
+            }]
+        }, {
+          "sentence" : "The coding sequences of TDP-43 WT or mutations with a resistance sequence to single-guide RNA 5-ATT CTC CAC GCT CCT GAC GCA GGA-3 ( codon optimization by online tool at https:www.idtdna.compages ) were cloned into the plenti6-LVP lentiviral vector ( Thermo Fisher Scientific) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The coding sequences of TDP-43 WT or mutations with a resistance sequence to single-guide RNA 5-ATT CTC CAC GCT CCT GAC GCA GGA-3 ( codon optimization by online tool at https:www.idtdna.compages ) were cloned into the plenti6-LVP lentiviral vector ( Thermo Fisher Scientific) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "plenti6-LVP"
+                }],
+              "neText" : "plenti6-LVP"
+            }]
+        }, {
+          "sentence" : "IP pcDNA3.1+ ( Invitrogen ) plasmid was modified to express Strep-Flag-tagged proteins at their N termini containing the following sequence 5-ATG AGA TCT GAC TAC AAG GAC GAC GAC GAC AAG GGA TCT GAT TAT AAA GAT GAC GAT GAT AAG GGA TCT GAC TAC AAA GAC GAT GAT GAC AAA GGA TCT GAT TAC AAG GAT GAT GAC GAT AAA GGA TCT GCA TGG AGC CAT CCC CAG TTT GAG AAA GGT GGC GGA TCA GGC GGG GGT TCT GGT GGA TCT GCA TGG AGC CAT CCC CAG TTT GAG AAA GGT GGC GGA TCA GGC GGG GGT TCT GGT-3 ( pcDNA-Strep-Flag) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "IP pcDNA3.1+ ( Invitrogen ) plasmid was modified to express Strep-Flag-tagged proteins at their N termini containing the following sequence 5-ATG AGA TCT GAC TAC AAG GAC GAC GAC GAC AAG GGA TCT GAT TAT AAA GAT GAC GAT GAT AAG GGA TCT GAC TAC AAA GAC GAT GAT GAC AAA GGA TCT GAT TAC AAG GAT GAT GAC GAT AAA GGA TCT GCA TGG AGC CAT CCC CAG TTT GAG AAA GGT GGC GGA TCA GGC GGG GGT TCT GGT GGA TCT GCA TGG AGC CAT CCC CAG TTT GAG AAA GGT GGC GGA TCA GGC GGG GGT TCT GGT-3 ( pcDNA-Strep-Flag) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1+"
+                }],
+              "neText" : "pcDNA3.1+"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA-Strep-Flag"
+                }],
+              "neText" : "pcDNA-Strep-Flag"
+            }]
+        }, {
+          "sentence" : "SunTag fluorescence imaging HEK293 WT and TDP-43DCR cells were seeded in a 35-mm glass-bottomed dish and transfected with SunTag labeling plasmids, including pcDNA4TO-24xGCN4_v4-BFP-24xPP7 (Addgene identifier 74929), pHR-scFv-GCN4-sfGFP-GB1-NLS (Addgene identifier 60906), and pHR-tdPP7-3xmCherry (Addgene identifier 74926).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "SunTag fluorescence imaging HEK293 WT and TDP-43DCR cells were seeded in a 35-mm glass-bottomed dish and transfected with SunTag labeling plasmids, including pcDNA4TO-24xGCN4_v4-BFP-24xPP7 (Addgene identifier 74929), pHR-scFv-GCN4-sfGFP-GB1-NLS (Addgene identifier 60906), and pHR-tdPP7-3xmCherry (Addgene identifier 74926)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA4TO-24xGCN4_v4-BFP-24xPP7"
+                }],
+              "neText" : "pcDNA4TO-24xGCN4_v4-BFP-24xPP7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pHR-scFv-GCN4-sfGFP-GB1-NLS"
+                }],
+              "neText" : "pHR-scFv-GCN4-sfGFP-GB1-NLS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pHR-tdPP7-3xmCherry"
+                }],
+              "neText" : "pHR-tdPP7-3xmCherry"
+            }]
+        }, {
+          "sentence" : "Blue light illumination After PCR amplification, Cry2oligo (Addgene identifier 60032) and TDP-43TDP-43DCR were cloned into pcDNA3.1-cmCherry (generated in our laboratory) by Gibson assembly.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Blue light illumination After PCR amplification, Cry2oligo (Addgene identifier 60032) and TDP-43TDP-43DCR were cloned into pcDNA3.1-cmCherry (generated in our laboratory) by Gibson assembly."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1-cmCherry"
+                }],
+              "neText" : "pcDNA3.1-cmCherry"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Materials and methods Conservation analyses of TDP-43 Amino acid conservation scores were calculated by Jalview software with default parameters, and the results were plotted as a 5-aa moving average using GraphPad Prism.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Conservation analyses of TDP-43 Amino acid conservation scores were calculated by Jalview software with default parameters, and the results were plotted as a 5-aa moving average using GraphPad Prism."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Jalview (RRID:SCR_006459)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Jalview"
+                }],
+              "neText" : "Jalview"
+            }]
+        }, {
+          "sentence" : "All the protein sequences from 50 eukaryotic species were automatically extracted from the UniProt database by Jalview software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All the protein sequences from 50 eukaryotic species were automatically extracted from the UniProt database by Jalview software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }]
+        }, {
+          "sentence" : "The field was digitally divided into an inner area ( 30 x 30 cm ) and the periphery ( 10-cm-wide gallery ) using ANY-maze software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The field was digitally divided into an inner area ( 30 x 30 cm ) and the periphery ( 10-cm-wide gallery ) using ANY-maze software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ANY-maze (RRID:SCR_014289)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ANY-maze"
+                }],
+              "neText" : "ANY-maze"
+            }]
+        }, {
+          "sentence" : "All data were acquired using an Axopatch 200B amplifier , Digidata 1440A , and pClamp 10.6 software ( Molecular Devices) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All data were acquired using an Axopatch 200B amplifier , Digidata 1440A , and pClamp 10.6 software ( Molecular Devices) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "pClamp Software, RRID:SCR_011323",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pClamp"
+                }],
+              "neText" : "pClamp"
+            }]
+        }, {
+          "sentence" : "The acquired images were processed with deconvolution ( regularized inverse filter ) by ZEN software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The acquired images were processed with deconvolution ( regularized inverse filter ) by ZEN software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ZEN"
+                }],
+              "neText" : "ZEN"
+            }]
+        }, {
+          "sentence" : "All images were processed using Zen software and Fiji ( ImageJ) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All images were processed using Zen software and Fiji ( ImageJ) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji"
+                }],
+              "neText" : "Fiji"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Neuron , microglia , and astrocyte quantification Digitized images acquired with all the parameters ( contrast and brightness ) kept constant were transformed into TIFF files and thresholded using Image-Pro Plus 6.0",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Neuron , microglia , and astrocyte quantification Digitized images acquired with all the parameters ( contrast and brightness ) kept constant were transformed into TIFF files and thresholded using Image-Pro Plus 6.0"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Neuron"
+                }],
+              "neText" : "Neuron"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image-Pro Plus"
+                }],
+              "neText" : "Image-Pro Plus"
+            }]
+        }, {
+          "sentence" : "After IP with MagStrep Type 3 XT beads , proteins were eluted with BXT buffer ( IBA Lifesciences ) and subjected to SDS-PAGE 1 cm into a 4-20 Mini-PROTEAN TGX precast protein gel ( Bio-Rad Laboratories) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After IP with MagStrep Type 3 XT beads , proteins were eluted with BXT buffer ( IBA Lifesciences ) and subjected to SDS-PAGE 1 cm into a 4-20 Mini-PROTEAN TGX precast protein gel ( Bio-Rad Laboratories) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Bio-Rad Laboratories (RRID:SCR_008426)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bio-Rad Laboratories"
+                }],
+              "neText" : "Bio-Rad Laboratories"
+            }]
+        }, {
+          "sentence" : "Full MS scanning was performed at 70,000 resolution between mass-to-charge ratios 380 and 1,300 , and MSMS spectra were collected at 17,500 resolution .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Full MS scanning was performed at 70,000 resolution between mass-to-charge ratios 380 and 1,300 , and MSMS spectra were collected at 17,500 resolution ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MSMS (RRID:SCR_003532)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MSMS"
+                }],
+              "neText" : "MSMS"
+            }]
+        }, {
+          "sentence" : "Proteins were identified by comparing all of the experimental peptide MSMS spectra against the UniProt human database using the Andromeda search engine integrated into MaxQuant version 1.6.3.3 software ( Cox and Mann , 2008 Cox et al. , 2011) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Proteins were identified by comparing all of the experimental peptide MSMS spectra against the UniProt human database using the Andromeda search engine integrated into MaxQuant version 1.6.3.3 software ( Cox and Mann , 2008 Cox et al. , 2011) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MaxQuant"
+                }],
+              "neText" : "MaxQuant"
+            }]
+        }, {
+          "sentence" : "Sequence alignment was performed by STAR software to align for RNA-seq data analysis and for the junction reads against the UCSC mm10 assembly .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Sequence alignment was performed by STAR software to align for RNA-seq data analysis and for the junction reads against the UCSC mm10 assembly ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STAR"
+                }],
+              "neText" : "STAR"
+            }]
+        }, {
+          "sentence" : "Expression values were calculated with featureCounts version 1.4.6-p2 , differential expression analysis was determined by DESeq2 ( Love et al. , 2014) , and the downstream statistical analyses and plots were made in R ( version 3.1.1 http:www.r-project.org).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Expression values were calculated with featureCounts version 1.4.6-p2 , differential expression analysis was determined by DESeq2 ( Love et al. , 2014) , and the downstream statistical analyses and plots were made in R ( version 3.1.1 http:www.r-project.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "featureCounts"
+                }],
+              "neText" : "featureCounts"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq2"
+                }],
+              "neText" : "DESeq2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http:www.r-project.org"
+                }],
+              "neText" : "http:www.r-project.org"
+            }]
+        }, {
+          "sentence" : "The images were analyzed by Zen software, and relative fluorescence intensity was plotted in GraphPad Prism 8 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The images were analyzed by Zen software, and relative fluorescence intensity was plotted in GraphPad Prism 8 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Statistical analyses were performed with Students t test, one-way ANOVA, and two-way ANOVA by GraphPad Prism 8 software (GraphPad Software).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Statistical analyses were performed with Students t test, one-way ANOVA, and two-way ANOVA by GraphPad Prism 8 software (GraphPad Software)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }, {
+          "sentence" : "Accession numbers The raw data for the high-throughput sequencing results have been deposited in the National Center for Biotechnology Information Sequence Read Archive database with accession number PRJNA748406.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Accession numbers The raw data for the high-throughput sequencing results have been deposited in the National Center for Biotechnology Information Sequence Read Archive database with accession number PRJNA748406."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Read Archive"
+                }],
+              "neText" : "Read Archive"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Mouse surgery and procedures were performed according to National Institutes of Health guidelines and were approved by the institutional animal care and use committee at Case Western Reserve University and the University of Nebraska Medical Center",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mouse surgery and procedures were performed according to National Institutes of Health guidelines and were approved by the institutional animal care and use committee at Case Western Reserve University and the University of Nebraska Medical Center"
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Ions with the charge state of 1 and >6 were excluded from MSMS analyses .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ions with the charge state of 1 and >6 were excluded from MSMS analyses ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Embryonic primary hippocampal neuron and HEK293 cell culture and transfection Primary hippocampal neurons were isolated from hippocampal tissue of embryonic day 18 mouse embryos from female TDPDCR+- mice mated with male TDPDCR+- mice.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Embryonic primary hippocampal neuron and HEK293 cell culture and transfection Primary hippocampal neurons were isolated from hippocampal tissue of embryonic day 18 mouse embryos from female TDPDCR+- mice mated with male TDPDCR+- mice."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Behavior tests 3-4-mo-old TDPDCR mice and age-matched littermates were subjected to behavior assessment batteries .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Behavior tests 3-4-mo-old TDPDCR mice and age-matched littermates were subjected to behavior assessment batteries ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "cDNA was synthesized by using High-Capacity cDNA Reverse Transcription kits (Applied Biosystems) with a random primer.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "cDNA was synthesized by using High-Capacity cDNA Reverse Transcription kits (Applied Biosystems) with a random primer."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "All tests were performed at the Case Western Reserve University Mouse Behavioral Phenotyping Core , with the investigator blinded to mouse genotype.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All tests were performed at the Case Western Reserve University Mouse Behavioral Phenotyping Core , with the investigator blinded to mouse genotype."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Classifying and analyzing differential alternative splicing from RNA-seq data were performed by rMATS ( replicate multivariate analysis of transcript splicing ) and Integrative Genomics Viewer ( version 2.6.0 )",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Classifying and analyzing differential alternative splicing from RNA-seq data were performed by rMATS ( replicate multivariate analysis of transcript splicing ) and Integrative Genomics Viewer ( version 2.6.0 )"
+              }],
+            "mention" : {
+              "neText" : "replicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "HEK293 cells were tested and confirmed to be free of mycoplasma contamination.",
+            "title" : "Contamination",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "HEK293 cells were tested and confirmed to be free of mycoplasma contamination."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Accession numbers The raw data for the high-throughput sequencing results have been deposited in the National Center for Biotechnology Information Sequence Read Archive database with accession number PRJNA748406.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Accession numbers The raw data for the high-throughput sequencing results have been deposited in the National Center for Biotechnology Information Sequence Read Archive database with accession number PRJNA748406."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }, {
+            "sentence" : "Accession numbers The raw data for the high-throughput sequencing results have been deposited in the National Center for Biotechnology Information Sequence Read Archive database with accession number PRJNA748406.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Accession numbers The raw data for the high-throughput sequencing results have been deposited in the National Center for Biotechnology Information Sequence Read Archive database with accession number PRJNA748406."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PRJNA748406"
+                  }],
+                "neText" : "PRJNA748406"
+              }]
+          }, {
+            "sentence" : "MS raw files and MaxQuant output results have been deposited to the ProteomeXchange Consortium via the Proteomics Identifications Database partner repository with the dataset identifier PXD027494.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MS raw files and MaxQuant output results have been deposited to the ProteomeXchange Consortium via the Proteomics Identifications Database partner repository with the dataset identifier PXD027494."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PXD027494"
+                  }],
+                "neText" : "PXD027494"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Open field test The open field test consisted of a 50-cm-long square plastic apparatus closed with 50-cm-high walls , and activity was recorded using ANY-maze video tracking software ( Stoelting) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Open field test The open field test consisted of a 50-cm-long square plastic apparatus closed with 50-cm-high walls , and activity was recorded using ANY-maze video tracking software ( Stoelting) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Open field test"
+                  }],
+                "neText" : "Open field test"
+              }]
+          }, {
+            "sentence" : "Nestlet-shredding test The cotton fiber nestlets ( 5 x 5 cm , 5 mm thick ) were weighed on an analytical balance , and one nestlet was placed in each test cage.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Nestlet-shredding test The cotton fiber nestlets ( 5 x 5 cm , 5 mm thick ) were weighed on an analytical balance , and one nestlet was placed in each test cage."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Nestlet-shredding test"
+                  }],
+                "neText" : "Nestlet-shredding test"
+              }]
+          }, {
+            "sentence" : "Statistical analysis Statistical analyses were performed with Students t test, one-way ANOVA, and two-way ANOVA by GraphPad Prism 8 software (GraphPad Software).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Statistical analyses were performed with Students t test, one-way ANOVA, and two-way ANOVA by GraphPad Prism 8 software (GraphPad Software)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t test"
+                  }],
+                "neText" : "Students t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The linearized targeting vector was electroporated into C57BL6N embryonic stem cells, and targeted clones were screened by Southern blot analysis using 5 and 3 probes generated by PCR using mouse genomic DNA via primers 5-CTG ATA CAC CAA GAA ATT CCA ACC-3, 5-TAA CTT TGA TCT GCA AAA TGG TCC-3 and 5-TAG TTT GAC CCA GCA ACA AGA C-3, 5-TAA ATC ATA GTT CCT GCT TTC CCA G-3.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The linearized targeting vector was electroporated into C57BL6N embryonic stem cells, and targeted clones were screened by Southern blot analysis using 5 and 3 probes generated by PCR using mouse genomic DNA via primers 5-CTG ATA CAC CAA GAA ATT CCA ACC-3, 5-TAA CTT TGA TCT GCA AAA TGG TCC-3 and 5-TAG TTT GAC CCA GCA ACA AGA C-3, 5-TAA ATC ATA GTT CCT GCT TTC CCA G-3."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CTG ATA CAC CAA GAA ATT CCA ACC-3"
+                  }],
+                "neText" : "5-CTG ATA CAC CAA GAA ATT CCA ACC-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TAA CTT TGA TCT GCA AAA TGG TCC-3"
+                  }],
+                "neText" : "5-TAA CTT TGA TCT GCA AAA TGG TCC-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TAG TTT GAC CCA GCA ACA AGA C-3"
+                  }],
+                "neText" : "5-TAG TTT GAC CCA GCA ACA AGA C-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TAA ATC ATA GTT CCT GCT TTC CCA G-3"
+                  }],
+                "neText" : "5-TAA ATC ATA GTT CCT GCT TTC CCA G-3"
+              }]
+          }, {
+            "sentence" : "For genotyping of TDPDCR mice, the following set of primers was used: 5-GGC TGC TGG TTG GGT TTA AGT AAA TT-3 and 5-GGC ACC AGA ATT AGA ACC ACT GTA G-3.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For genotyping of TDPDCR mice, the following set of primers was used: 5-GGC TGC TGG TTG GGT TTA AGT AAA TT-3 and 5-GGC ACC AGA ATT AGA ACC ACT GTA G-3."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GGC TGC TGG TTG GGT TTA AGT AAA TT-3"
+                  }],
+                "neText" : "5-GGC TGC TGG TTG GGT TTA AGT AAA TT-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GGC ACC AGA ATT AGA ACC ACT GTA G-3"
+                  }],
+                "neText" : "5-GGC ACC AGA ATT AGA ACC ACT GTA G-3"
+              }]
+          }, {
+            "sentence" : "HEK293 cells were first transfected with two PX459 vectors , which targeted 5-AAT CAA GGT AGT AAT ATG GG-3 and 5-TCG GGT AAT AAC CAA AAC CA-3 of the TARDBP gene to delete the coding sequence of TDP-43 from aa 307 to 355 .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "HEK293 cells were first transfected with two PX459 vectors , which targeted 5-AAT CAA GGT AGT AAT ATG GG-3 and 5-TCG GGT AAT AAC CAA AAC CA-3 of the TARDBP gene to delete the coding sequence of TDP-43 from aa 307 to 355 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-AAT CAA GGT AGT AAT ATG GG-3"
+                  }],
+                "neText" : "5-AAT CAA GGT AGT AAT ATG GG-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TCG GGT AAT AAC CAA AAC CA-3"
+                  }],
+                "neText" : "5-TCG GGT AAT AAC CAA AAC CA-3"
+              }]
+          }, {
+            "sentence" : "To generate TDP-43-knockout and rescued cell lines , HEK293 cells were first transfected with PX459 vectors , which targeted 5-ATT CTG CAT GCC CCA GAT GC-3 of the TARDBP gene.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To generate TDP-43-knockout and rescued cell lines , HEK293 cells were first transfected with PX459 vectors , which targeted 5-ATT CTG CAT GCC CCA GAT GC-3 of the TARDBP gene."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ATT CTG CAT GCC CCA GAT GC-3"
+                  }],
+                "neText" : "5-ATT CTG CAT GCC CCA GAT GC-3"
+              }]
+          }, {
+            "sentence" : "The coding sequences of TDP-43 WT or mutations with a resistance sequence to single-guide RNA 5-ATT CTC CAC GCT CCT GAC GCA GGA-3 ( codon optimization by online tool at https:www.idtdna.compages ) were cloned into the plenti6-LVP lentiviral vector ( Thermo Fisher Scientific) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The coding sequences of TDP-43 WT or mutations with a resistance sequence to single-guide RNA 5-ATT CTC CAC GCT CCT GAC GCA GGA-3 ( codon optimization by online tool at https:www.idtdna.compages ) were cloned into the plenti6-LVP lentiviral vector ( Thermo Fisher Scientific) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ATT CTC CAC GCT CCT GAC GCA GGA-3"
+                  }],
+                "neText" : "5-ATT CTC CAC GCT CCT GAC GCA GGA-3"
+              }]
+          }, {
+            "sentence" : "IP pcDNA3.1+ ( Invitrogen ) plasmid was modified to express Strep-Flag-tagged proteins at their N termini containing the following sequence 5-ATG AGA TCT GAC TAC AAG GAC GAC GAC GAC AAG GGA TCT GAT TAT AAA GAT GAC GAT GAT AAG GGA TCT GAC TAC AAA GAC GAT GAT GAC AAA GGA TCT GAT TAC AAG GAT GAT GAC GAT AAA GGA TCT GCA TGG AGC CAT CCC CAG TTT GAG AAA GGT GGC GGA TCA GGC GGG GGT TCT GGT GGA TCT GCA TGG AGC CAT CCC CAG TTT GAG AAA GGT GGC GGA TCA GGC GGG GGT TCT GGT-3 ( pcDNA-Strep-Flag) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "IP pcDNA3.1+ ( Invitrogen ) plasmid was modified to express Strep-Flag-tagged proteins at their N termini containing the following sequence 5-ATG AGA TCT GAC TAC AAG GAC GAC GAC GAC AAG GGA TCT GAT TAT AAA GAT GAC GAT GAT AAG GGA TCT GAC TAC AAA GAC GAT GAT GAC AAA GGA TCT GAT TAC AAG GAT GAT GAC GAT AAA GGA TCT GCA TGG AGC CAT CCC CAG TTT GAG AAA GGT GGC GGA TCA GGC GGG GGT TCT GGT GGA TCT GCA TGG AGC CAT CCC CAG TTT GAG AAA GGT GGC GGA TCA GGC GGG GGT TCT GGT-3 ( pcDNA-Strep-Flag) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ATG AGA TCT GAC TAC AAG GAC GAC GAC GAC AAG GGA TCT GAT TAT AAA GAT GAC GAT GAT AAG GGA TCT GAC TAC AAA GAC GAT GAT GAC AAA GGA TCT GAT TAC AAG GAT GAT GAC GAT AAA GGA TCT GCA TGG AGC CAT CCC CAG TTT GAG AAA GGT GGC GGA TCA GGC GGG GGT TCT GGT GGA TCT GCA TGG AGC CAT CCC CAG TTT GAG AAA GGT GGC GGA TCA GGC GGG GGT TCT GGT-3"
+                  }],
+                "neText" : "5-ATG AGA TCT GAC TAC AAG GAC GAC GAC GAC AAG GGA TCT GAT TAT AAA GAT GAC GAT GAT AAG GGA TCT GAC TAC AAA GAC GAT GAT GAC AAA GGA TCT GAT TAC AAG GAT GAT GAC GAT AAA GGA TCT GCA TGG AGC CAT CCC CAG TTT GAG AAA GGT GGC GGA TCA GGC GGG GGT TCT GGT GGA TCT GCA TGG AGC CAT CCC CAG TTT GAG AAA GGT GGC GGA TCA GGC GGG GGT TCT GGT-3"
+              }]
+          }]
+      }]
+  }
+}

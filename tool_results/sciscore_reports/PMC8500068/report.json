@@ -1,0 +1,177 @@
+{
+  "docIdentifier" : "PMC8500068",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "13 Statistical Analysis SPSS version 13 for Windows (SPSS, Chicago, IL, USA) was used for statistical analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "13 Statistical Analysis SPSS version 13 for Windows (SPSS, Chicago, IL, USA) was used for statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Informed consent was obtained from each patient included in the study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was obtained from each patient included in the study."
+              }]
+          }, {
+            "sentence" : "Approval for the study was granted by the Turkish Ministry of Health (permission form no. 2020–05–27T09_54_22) and the local ethical committee (no. 2019/8–22).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Approval for the study was granted by the Turkish Ministry of Health (permission form no. 2020–05–27T09_54_22) and the local ethical committee (no. 2019/8–22)."
+              }]
+          }, {
+            "sentence" : "The study protocol conformed to the ethical guidelines of the 1975 Declaration of Helsinki (6th revision, 2008), as reflected in a priori approval by the institution's human research committee.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol conformed to the ethical guidelines of the 1975 Declaration of Helsinki (6th revision, 2008), as reflected in a priori approval by the institution's human research committee."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Twenty-nine patients were included in the study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Twenty-nine patients were included in the study."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The Kolmogorov–Smirnov test applied to determine the distribution of variables during data comparison revealed that the variables were normally distributed ( p > 0.05).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Kolmogorov–Smirnov test applied to determine the distribution of variables during data comparison revealed that the variables were normally distributed ( p > 0.05)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kolmogorov–Smirnov test"
+                  }],
+                "neText" : "Kolmogorov–Smirnov test"
+              }]
+          }, {
+            "sentence" : "Data were therefore compared using the independent samples t -test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data were therefore compared using the independent samples t -test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t -test"
+                  }],
+                "neText" : "t -test"
+              }]
+          }]
+      }]
+  }
+}

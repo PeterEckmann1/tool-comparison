@@ -1,0 +1,285 @@
+{
+  "docIdentifier" : "PMC8520797",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Flow cytometry To analyze the composition of the immune cells in the peripheral blood , we resuscitated the frozen PBMCs and labeled them as the following antibodies: PE anti-human CD56 ( NCAM BioLegend , catalog number: 318306",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Flow cytometry To analyze the composition of the immune cells in the peripheral blood , we resuscitated the frozen PBMCs and labeled them as the following antibodies: PE anti-human CD56 ( NCAM BioLegend , catalog number: 318306"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(Human Immune Monitoring Center Icahn School of Medicine at Mt. Sinai Cat# 555513_161, RRID:AB_2661829)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human CD56"
+                }],
+              "neText" : "anti-human CD56"
+            }]
+        }, {
+          "sentence" : "CD4 Monoclonal Antibody ( OKT4 OKT-4) , PerCP-Cyanine5.5 , eBioscience ( Invitrogen , catalog number: 45-0048-42",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "CD4 Monoclonal Antibody ( OKT4 OKT-4) , PerCP-Cyanine5.5 , eBioscience ( Invitrogen , catalog number: 45-0048-42"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD4"
+                }],
+              "neText" : "CD4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PerCP-Cyanine5.5"
+                }],
+              "neText" : "PerCP-Cyanine5.5"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Samples were acquired using the BD FACSCanto instrument ( BD Biosciences) , and the results were analyzed using the FlowJo software V10 ( BD Life Sciences , Ashland , OR , USA)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Samples were acquired using the BD FACSCanto instrument ( BD Biosciences) , and the results were analyzed using the FlowJo software V10 ( BD Life Sciences , Ashland , OR , USA)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "Statistical analysis All statistics were analyzed using SPSS version 27.0 (SPSS) and graphed using Prism software version 9 (GraphPad).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis All statistics were analyzed using SPSS version 27.0 (SPSS) and graphed using Prism software version 9 (GraphPad)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Meta-Prism (RRID:SCR_021836)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prism"
+                }],
+              "neText" : "Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "MATERIALS AND METHODS Ethical considerations All patients gave written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MATERIALS AND METHODS Ethical considerations All patients gave written informed consent."
+              }]
+          }, {
+            "sentence" : "Our work with human biological samples was approved by the ethics committee of the Peking University Health Science Center and complies with the World Medical Association Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Subjects.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Our work with human biological samples was approved by the ethics committee of the Peking University Health Science Center and complies with the World Medical Association Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Subjects."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criteria for the patients studied were as follows: (1) histopathological diagnosed non-small-cell lung carcinoma (NSCLC) or small-cell lung carcinoma (SCLC) with a survival expectancy not less than 3 months from the time of diagnosis (2) tumor stage and ultimate efficacy evaluated using imaging data, including that obtained by cranial magnetic resonance imaging and computed tomography (CT) of the chest and abdomen (3) routine blood tests performed at the Clinical Laboratory Department of Peking University Third Hospital from which peripheral blood cell composition could be determined, with eligible blood samples having been collected a week prior to treatment in patients with no history of hormone therapy or co-infections with infectious fever (4) eligibility for chemotherapy based on indices obtained through blood routine tests and biochemistry, such as electrolytes, liver and kidney function, and myocardial enzymes (5) an Eastern Cooperative Oncology Group performance status of <=2 and (6) written informed consent for voluntary participation in chemotherapy and regular follow-up.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria for the patients studied were as follows: (1) histopathological diagnosed non-small-cell lung carcinoma (NSCLC) or small-cell lung carcinoma (SCLC) with a survival expectancy not less than 3 months from the time of diagnosis (2) tumor stage and ultimate efficacy evaluated using imaging data, including that obtained by cranial magnetic resonance imaging and computed tomography (CT) of the chest and abdomen (3) routine blood tests performed at the Clinical Laboratory Department of Peking University Third Hospital from which peripheral blood cell composition could be determined, with eligible blood samples having been collected a week prior to treatment in patients with no history of hormone therapy or co-infections with infectious fever (4) eligibility for chemotherapy based on indices obtained through blood routine tests and biochemistry, such as electrolytes, liver and kidney function, and myocardial enzymes (5) an Eastern Cooperative Oncology Group performance status of <=2 and (6) written informed consent for voluntary participation in chemotherapy and regular follow-up."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "TABLE 1 Patient information Clinical features Cases Percentages Age <62 50 46.7 >=62 57 53.3 Gender Male 84 78.5 Female 23 21.5 Diagnose Squamous carcinoma 25 23.6 Adenocarcinoma 43 40.6 Small cell lung cancer 33 31.1 Clinical stage I 3 2.9 II 2 4.8 III 36 34.3 IV 64 61.0 Distant metastasis Yes 68 23.6 No 21 76.4 Liver metastasis Yes 18 20.2 No 71 79.8 Brain metastasis Yes 11 12.4 No 78 87.6 Family history Yes 32 36.0 No 57 64.0 Smoking history Yes 66 67.3 None 32 32.7 Drinking history Yes 49 50.5 None 48 49.5 We collected and recorded the clinical and treatment data of all patients.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "TABLE 1 Patient information Clinical features Cases Percentages Age <62 50 46.7 >=62 57 53.3 Gender Male 84 78.5 Female 23 21.5 Diagnose Squamous carcinoma 25 23.6 Adenocarcinoma 43 40.6 Small cell lung cancer 33 31.1 Clinical stage I 3 2.9 II 2 4.8 III 36 34.3 IV 64 61.0 Distant metastasis Yes 68 23.6 No 21 76.4 Liver metastasis Yes 18 20.2 No 71 79.8 Brain metastasis Yes 11 12.4 No 78 87.6 Family history Yes 32 36.0 No 57 64.0 Smoking history Yes 66 67.3 None 32 32.7 Drinking history Yes 49 50.5 None 48 49.5 We collected and recorded the clinical and treatment data of all patients."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "For data with normal distributions, the t-test was used if the data were non-normally distributed or variances were not homogeneous, the nonparametric test method was used.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For data with normal distributions, the t-test was used if the data were non-normally distributed or variances were not homogeneous, the nonparametric test method was used."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Enumeration data were expressed as rates () and analyzed using either the chi-square or Fishers exact test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Enumeration data were expressed as rates () and analyzed using either the chi-square or Fishers exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square"
+                  }],
+                "neText" : "chi-square"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }, {
+            "sentence" : "The Pearson correlation test was used to analyze the dependency between variables.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Pearson correlation test was used to analyze the dependency between variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation test"
+                  }],
+                "neText" : "Pearson correlation test"
+              }]
+          }]
+      }]
+  }
+}

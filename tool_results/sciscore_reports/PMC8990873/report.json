@@ -1,0 +1,551 @@
+{
+  "docIdentifier" : "PMC8990873",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "After the membranes had been blocked with 5 skim milk at room temperature for 30 minutes , they were incubated overnight with anti-WNT1 antibody ( 1:1000 ab228526 Abcam) , anti-SMAD2 antibody ( 1:1000 ab40855 Abcam)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After the membranes had been blocked with 5 skim milk at room temperature for 30 minutes , they were incubated overnight with anti-WNT1 antibody ( 1:1000 ab228526 Abcam) , anti-SMAD2 antibody ( 1:1000 ab40855 Abcam)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-WNT1"
+                }],
+              "neText" : "anti-WNT1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-SMAD2"
+                }],
+              "neText" : "anti-SMAD2"
+            }]
+        }, {
+          "sentence" : "anti-GAPDH antibody ( 1:1000 ab9485 Abcam) , and anti-TGF-b antibody ( 1:1000 ab179695 Abcam ) at 4degC overnight .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "anti-GAPDH antibody ( 1:1000 ab9485 Abcam) , and anti-TGF-b antibody ( 1:1000 ab179695 Abcam ) at 4degC overnight ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GAPDH"
+                }],
+              "neText" : "anti-GAPDH"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TGF-b"
+                }],
+              "neText" : "anti-TGF-b"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Following the Actinomycin D and RNase R treatment , circ_0002623 and GAPDH expression levels were determined by qRT-PCR , respectively . 2.6 Cell Counting Kit-8 ( CCK-8 ) assay J82 and 5637 cells were harvested , and resuspended , and the cell density was adjusted to 1 x 104 cellsmL .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Following the Actinomycin D and RNase R treatment , circ_0002623 and GAPDH expression levels were determined by qRT-PCR , respectively . 2.6 Cell Counting Kit-8 ( CCK-8 ) assay J82 and 5637 cells were harvested , and resuspended , and the cell density was adjusted to 1 x 104 cellsmL ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "5637"
+                }],
+              "neText" : "5637"
+            }]
+        }, {
+          "sentence" : "The right flank of the mice (n = 3 in each group) was subcutaneously injected with 1 x 107 T24 cells (with circ_0002623 overexpression or not), and every week the tumor size was measured.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The right flank of the mice (n = 3 in each group) was subcutaneously injected with 1 x 107 T24 cells (with circ_0002623 overexpression or not), and every week the tumor size was measured."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "T24"
+                }],
+              "neText" : "T24"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "From the Slac Laboratory Animals Ltd., 4-week-old male BALBc nude mice were bought.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "From the Slac Laboratory Animals Ltd., 4-week-old male BALBc nude mice were bought."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALBc nude"
+                }],
+              "neText" : "BALBc nude"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Circ_0002623 overexpression plasmids ( pLV-circ-puro VL3531 , Figure S1 ) were designed and provided by Inovogen Tech .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Circ_0002623 overexpression plasmids ( pLV-circ-puro VL3531 , Figure S1 ) were designed and provided by Inovogen Tech ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLV-circ-puro"
+                }],
+              "neText" : "pLV-circ-puro"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The right flank of the mice (n = 3 in each group) was subcutaneously injected with 1 x 107 T24 cells (with circ_0002623 overexpression or not), and every week the tumor size was measured.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The right flank of the mice (n = 3 in each group) was subcutaneously injected with 1 x 107 T24 cells (with circ_0002623 overexpression or not), and every week the tumor size was measured."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "circ_0002623"
+                }],
+              "neText" : "circ_0002623"
+            }]
+        }, {
+          "sentence" : "2.13 Statistical analysis All of the experiments were performed in triplicate, the data were expressed as mean +- standard deviation, and statistical analysis was performed with GraphPad Prism 8 (GraphPad Software, Inc.).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.13 Statistical analysis All of the experiments were performed in triplicate, the data were expressed as mean +- standard deviation, and statistical analysis was performed with GraphPad Prism 8 (GraphPad Software, Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The current study was endorsed by the ethics committee of Qilu Hospital of Shandong University, and each patient signed a written informed consent.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The current study was endorsed by the ethics committee of Qilu Hospital of Shandong University, and each patient signed a written informed consent."
+              }]
+          }, {
+            "sentence" : "The current study was endorsed by the ethics committee of Qilu Hospital of Shandong University, and each patient signed a written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The current study was endorsed by the ethics committee of Qilu Hospital of Shandong University, and each patient signed a written informed consent."
+              }]
+          }, {
+            "sentence" : "2.3 Cell culture and transfection Human BCa cell lines ( J82 , RT4 , T24 , 5637 , and HT-1376 ) and immortalized bladder epithelial cells ( SV-HUC-1 ) were bought from the American Type Culture Collection ( ATCC ) and the Chinese Academy of Sciences .",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.3 Cell culture and transfection Human BCa cell lines ( J82 , RT4 , T24 , 5637 , and HT-1376 ) and immortalized bladder epithelial cells ( SV-HUC-1 ) were bought from the American Type Culture Collection ( ATCC ) and the Chinese Academy of Sciences ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "From the Slac Laboratory Animals Ltd., 4-week-old male BALBc nude mice were bought.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "From the Slac Laboratory Animals Ltd., 4-week-old male BALBc nude mice were bought."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Finally , five visual fields were randomly selected under the microscope , and the BCa cells which had passed through the membrane were counted.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Finally , five visual fields were randomly selected under the microscope , and the BCa cells which had passed through the membrane were counted."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "2.13 Statistical analysis All of the experiments were performed in triplicate, the data were expressed as mean +- standard deviation, and statistical analysis was performed with GraphPad Prism 8 (GraphPad Software, Inc.).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.13 Statistical analysis All of the experiments were performed in triplicate, the data were expressed as mean +- standard deviation, and statistical analysis was performed with GraphPad Prism 8 (GraphPad Software, Inc.)."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "2.13 Statistical analysis All of the experiments were performed in triplicate, the data were expressed as mean +- standard deviation, and statistical analysis was performed with GraphPad Prism 8 (GraphPad Software, Inc.).",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.13 Statistical analysis All of the experiments were performed in triplicate, the data were expressed as mean +- standard deviation, and statistical analysis was performed with GraphPad Prism 8 (GraphPad Software, Inc.)."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "2.2 Analysis of gene expression profile From the GEO database (http:www.ncbi.nlm.nih.govgeo), with the keywords (circRNA and bladder cancer), the dataset GSE92675 was obtained.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.2 Analysis of gene expression profile From the GEO database (http:www.ncbi.nlm.nih.govgeo), with the keywords (circRNA and bladder cancer), the dataset GSE92675 was obtained."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE92675"
+                  }],
+                "neText" : "GSE92675"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "One-way ANOVA was utilized for the comparison of the differences among multiple groups, and t test was conducted to make the comparisons between two groups.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way ANOVA was utilized for the comparison of the differences among multiple groups, and t test was conducted to make the comparisons between two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }, {
+            "sentence" : "The correlation between the patients pathological factors and circ_0002623 expression was analyzed using Fishers exact test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The correlation between the patients pathological factors and circ_0002623 expression was analyzed using Fishers exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }, {
+            "sentence" : "Pearsons correlation coefficient was applied for the correlation analysis.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pearsons correlation coefficient was applied for the correlation analysis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearsons correlation"
+                  }],
+                "neText" : "Pearsons correlation"
+              }]
+          }, {
+            "sentence" : "The survival analysis was performed by the Kaplan-Meier method and analyzed by log-rank test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The survival analysis was performed by the Kaplan-Meier method and analyzed by log-rank test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Circ_0002623 siRNA ( si-circ_00026231: 5-GACACCTGAGGGAAAGAACTA- 3 and si-circ_00026232: 5-GGACACCTGAGGGAAAGAACT- 3 , designed according to CircInteractome database)",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Circ_0002623 siRNA ( si-circ_00026231: 5-GACACCTGAGGGAAAGAACTA- 3 and si-circ_00026232: 5-GGACACCTGAGGGAAAGAACT- 3 , designed according to CircInteractome database)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GACACCTGAGGGAAAGAACTA- 3"
+                  }],
+                "neText" : "5-GACACCTGAGGGAAAGAACTA- 3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GGACACCTGAGGGAAAGAACT- 3"
+                  }],
+                "neText" : "5-GGACACCTGAGGGAAAGAACT- 3"
+              }]
+          }, {
+            "sentence" : "TABLE 1 Primer sequences Name Primer sequence circ_0002623 Forward: 5-CGAGTCCCGCTTCTACAGC-3 Reverse: 5-CTCTCCAGTGGGAGGTTGAA-3 miR-1276 Forward: 5-TAGGTAAAGAGCCCTGTGGAGA -3 Reverse: 5-CATCAAGGCCCAAGTGCTCAG- 3 SMAD2 Forward: 5-ACTAACTTCCCAGCAGGAAT-3 Reverse:",
+            "rowSpan" : 5,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "TABLE 1 Primer sequences Name Primer sequence circ_0002623 Forward: 5-CGAGTCCCGCTTCTACAGC-3 Reverse: 5-CTCTCCAGTGGGAGGTTGAA-3 miR-1276 Forward: 5-TAGGTAAAGAGCCCTGTGGAGA -3 Reverse: 5-CATCAAGGCCCAAGTGCTCAG- 3 SMAD2 Forward: 5-ACTAACTTCCCAGCAGGAAT-3 Reverse:"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CGAGTCCCGCTTCTACAGC-3"
+                  }],
+                "neText" : "5-CGAGTCCCGCTTCTACAGC-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CTCTCCAGTGGGAGGTTGAA-3"
+                  }],
+                "neText" : "5-CTCTCCAGTGGGAGGTTGAA-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TAGGTAAAGAGCCCTGTGGAGA -3"
+                  }],
+                "neText" : "5-TAGGTAAAGAGCCCTGTGGAGA -3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CATCAAGGCCCAAGTGCTCAG- 3"
+                  }],
+                "neText" : "5-CATCAAGGCCCAAGTGCTCAG- 3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ACTAACTTCCCAGCAGGAAT-3"
+                  }],
+                "neText" : "5-ACTAACTTCCCAGCAGGAAT-3"
+              }]
+          }, {
+            "sentence" : "5-GTTGGTCACTTGTTTCTCCA-3 U6 Forward: 5-CTCGCTTCGGCAGCACATATAC T-3 Reverse: 5-ACGCTTCACGAATTT-GCGTGT C-3 GAPDH Forward: 5-CATGAGAAGTATGACAACAGCC T-3 Reverse: 5-AGTCCTTCCACGATACCAAAGT -3 John Wiley & Sons , Ltd 2.5 Actinomycin D and RNase R treatment The cell culture medium was added with 2 mgmL Actinomycin D or dimethylsulphoxide ( DMSO ) ( Sigma-Aldrich ) as a negative control to block transcription of BCa cells .",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "5-GTTGGTCACTTGTTTCTCCA-3 U6 Forward: 5-CTCGCTTCGGCAGCACATATAC T-3 Reverse: 5-ACGCTTCACGAATTT-GCGTGT C-3 GAPDH Forward: 5-CATGAGAAGTATGACAACAGCC T-3 Reverse: 5-AGTCCTTCCACGATACCAAAGT -3 John Wiley & Sons , Ltd 2.5 Actinomycin D and RNase R treatment The cell culture medium was added with 2 mgmL Actinomycin D or dimethylsulphoxide ( DMSO ) ( Sigma-Aldrich ) as a negative control to block transcription of BCa cells ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CTCGCTTCGGCAGCACATATAC T-3"
+                  }],
+                "neText" : "5-CTCGCTTCGGCAGCACATATAC T-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ACGCTTCACGAATTT-GCGTGT C-3"
+                  }],
+                "neText" : "5-ACGCTTCACGAATTT-GCGTGT C-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CATGAGAAGTATGACAACAGCC T-3"
+                  }],
+                "neText" : "5-CATGAGAAGTATGACAACAGCC T-3"
+              }]
+          }]
+      }]
+  }
+}

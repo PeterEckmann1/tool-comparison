@@ -1,0 +1,186 @@
+{
+  "docIdentifier" : "PMC8884847",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis All statistical analyses were performed using SPSS 22.0 software (IBM Corp., Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis All statistical analyses were performed using SPSS 22.0 software (IBM Corp., Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Informed consent was obtained from all subjects involved in the study, or their parents.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was obtained from all subjects involved in the study, or their parents."
+              }]
+          }, {
+            "sentence" : "The study was conducted according to the guidelines of the Declaration of Helsinki, and approved by the Ethics Committee of the Republic of Slovenia (reference number KME 510311).",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was conducted according to the guidelines of the Declaration of Helsinki, and approved by the Ethics Committee of the Republic of Slovenia (reference number KME 510311)."
+              }]
+          }, {
+            "sentence" : "The study was conducted according to the guidelines of the Declaration of Helsinki, and approved by the Ethics Committee of the Republic of Slovenia (reference number KME 510311).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was conducted according to the guidelines of the Declaration of Helsinki, and approved by the Ethics Committee of the Republic of Slovenia (reference number KME 510311)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "For four patients, there was no sufficient material available to perform the multiplex ligation-dependent probe amplification (MLPA) assay, 3 samples contained less than 40 of blasts and were excluded from analysis, and for an additional four, the assay failed due to poor sample quality.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For four patients, there was no sufficient material available to perform the multiplex ligation-dependent probe amplification (MLPA) assay, 3 samples contained less than 40 of blasts and were excluded from analysis, and for an additional four, the assay failed due to poor sample quality."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Event-free survival (EFS defined as the time between diagnosis and relapse or death) and overall survival (OS defined as time between diagnosis and death or last follow-up) were analysed using the Kaplan-Meier method and the differences between multiple groups were analysed using the log-rank test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Event-free survival (EFS defined as the time between diagnosis and relapse or death) and overall survival (OS defined as time between diagnosis and death or last follow-up) were analysed using the Kaplan-Meier method and the differences between multiple groups were analysed using the log-rank test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }, {
+            "sentence" : "Comparisons of categorical values were carried out using the Fischers exact test, and for the comparison of numerical values, the Mann-Whitney U-test was used.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons of categorical values were carried out using the Fischers exact test, and for the comparison of numerical values, the Mann-Whitney U-test was used."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fischers exact test"
+                  }],
+                "neText" : "Fischers exact test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U-test"
+                  }],
+                "neText" : "Mann-Whitney U-test"
+              }]
+          }]
+      }]
+  }
+}

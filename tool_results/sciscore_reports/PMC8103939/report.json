@@ -1,0 +1,420 @@
+{
+  "docIdentifier" : "PMC8103939",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Endogenous peroxidase was blocked with 3 H2O2 for 10 min followed by incubation with PR (1:500) primary antibody for 30 min (PR), followed by Mach 2 HRP Polymer (Biocare Medical) for 30 min and DAB+chromogen (Dako) for 5 min.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Endogenous peroxidase was blocked with 3 H2O2 for 10 min followed by incubation with PR (1:500) primary antibody for 30 min (PR), followed by Mach 2 HRP Polymer (Biocare Medical) for 30 min and DAB+chromogen (Dako) for 5 min."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PR"
+                }],
+              "neText" : "PR"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "E0771-vec and E0771-mPR cell lines were generated through lentiviral transduction using mouse progesterone receptor ( mPR ) or empty control vectors using pLenti-CMV-Hygro ( Addgene 17454 , cloning details available on request ) backbone.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "E0771-vec and E0771-mPR cell lines were generated through lentiviral transduction using mouse progesterone receptor ( mPR ) or empty control vectors using pLenti-CMV-Hygro ( Addgene 17454 , cloning details available on request ) backbone."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "E0771-mPR"
+                }],
+              "neText" : "E0771-mPR"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "70 71 E0771 tumor growth experiments P4 and placebo pellets (30mg, 30 day Innovative Research of America) were implanted into 8-week old C57BL6 mice obtained from the Jackson Laboratory (strain 000664).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "70 71 E0771 tumor growth experiments P4 and placebo pellets (30mg, 30 day Innovative Research of America) were implanted into 8-week old C57BL6 mice obtained from the Jackson Laboratory (strain 000664)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "E0771-vec and E0771-mPR cell lines were generated through lentiviral transduction using mouse progesterone receptor ( mPR ) or empty control vectors using pLenti-CMV-Hygro ( Addgene 17454 , cloning details available on request ) backbone.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "E0771-vec and E0771-mPR cell lines were generated through lentiviral transduction using mouse progesterone receptor ( mPR ) or empty control vectors using pLenti-CMV-Hygro ( Addgene 17454 , cloning details available on request ) backbone."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLenti-CMV-Hygro"
+                }],
+              "neText" : "pLenti-CMV-Hygro"
+            }]
+        }, {
+          "sentence" : "Luciferase assays E0771 cell line variants were transiently transfected with a PRE-luciferase reporter construct ( described in Faivre and Lange72 ) and pRL-TK , a Renilla luciferase construct used for normalizing transfection efficiency .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Luciferase assays E0771 cell line variants were transiently transfected with a PRE-luciferase reporter construct ( described in Faivre and Lange72 ) and pRL-TK , a Renilla luciferase construct used for normalizing transfection efficiency ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pRL-TK"
+                }],
+              "neText" : "pRL-TK"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The tumor cells were then pelleted, supernatant was aspirated, and 2-5 mL of ACK Red Blood Cell Lysis Buffer (Gibco) was added to each sample.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The tumor cells were then pelleted, supernatant was aspirated, and 2-5 mL of ACK Red Blood Cell Lysis Buffer (Gibco) was added to each sample."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }, {
+          "sentence" : "Analysis: Gene Ontology ( GO ) and Gene Set Enrichment Analysis ( GSEA ) RNA sequences were aligned against mouse genome mm10 by STAR V.2.7.3 , and RNA expression was calculated by RNA-sequencing ( RNA-Seq ) by expectation maximization .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Analysis: Gene Ontology ( GO ) and Gene Set Enrichment Analysis ( GSEA ) RNA sequences were aligned against mouse genome mm10 by STAR V.2.7.3 , and RNA expression was calculated by RNA-sequencing ( RNA-Seq ) by expectation maximization ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STAR"
+                }],
+              "neText" : "STAR"
+            }]
+        }, {
+          "sentence" : "The differentially expressed genes were found by using DESeq2 to compare RNA expression between controls and PR-overexpressing samples .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The differentially expressed genes were found by using DESeq2 to compare RNA expression between controls and PR-overexpressing samples ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq2"
+                }],
+              "neText" : "DESeq2"
+            }]
+        }, {
+          "sentence" : "Based on the statistics from the DESeq2 analysis , the significant HallMark pathways and GO pathways were found by GSEA.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Based on the statistics from the DESeq2 analysis , the significant HallMark pathways and GO pathways were found by GSEA."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GSEA"
+                }],
+              "neText" : "GSEA"
+            }]
+        }, {
+          "sentence" : "The merged data were normalized by using the R limma package , and the batch effects between PAM50 and mouse data were removed by using SVA package.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The merged data were normalized by using the R limma package , and the batch effects between PAM50 and mouse data were removed by using SVA package."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LIMMA (RRID:SCR_010943)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "limma"
+                }],
+              "neText" : "limma"
+            }]
+        }, {
+          "sentence" : "Statistical software R or Prism V.6 (GraphPad Software) were used for all the analyses.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical software R or Prism V.6 (GraphPad Software) were used for all the analyses."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prism"
+                }],
+              "neText" : "Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Only mice that became pregnant three times were included in subsequent analyses.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Only mice that became pregnant three times were included in subsequent analyses."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Exogenous P4 treatment study For P4 treatment studies, 12-week-old ovariectomized FVBn mice were purchased from the Jackson Laboratory (strain 001800).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Exogenous P4 treatment study For P4 treatment studies, 12-week-old ovariectomized FVBn mice were purchased from the Jackson Laboratory (strain 001800)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Briefly, mRNA was enriched using oligo(dT) beads, which was followed by two rounds of purification, and was fragmented randomly by adding fragmentation buffer.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Briefly, mRNA was enriched using oligo(dT) beads, which was followed by two rounds of purification, and was fragmented randomly by adding fragmentation buffer."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "PR transgenic mouse model The PR transgenic mouse model, initially created by Shyamala et al,57 was resurrected from frozen embryos deposited at the Mutant Mouse Resource and Research Center (strain 032089-UCD) by the Lange and Hagan Labs.57 For immunophenotyping of mammary glands, inguinal lymph nodes, and spleens in 6-month-old transgenic mice and controls, mice were bred and aged for 6 months before they were sacrificed for tissue collection.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "PR transgenic mouse model The PR transgenic mouse model, initially created by Shyamala et al,57 was resurrected from frozen embryos deposited at the Mutant Mouse Resource and Research Center (strain 032089-UCD) by the Lange and Hagan Labs.57 For immunophenotyping of mammary glands, inguinal lymph nodes, and spleens in 6-month-old transgenic mice and controls, mice were bred and aged for 6 months before they were sacrificed for tissue collection."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis For tumor-free interval and overall survival comparison between the groups, Kaplan-Meier analyses followed by log-rank tests were carried out.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis For tumor-free interval and overall survival comparison between the groups, Kaplan-Meier analyses followed by log-rank tests were carried out."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank tests"
+                  }],
+                "neText" : "log-rank tests"
+              }]
+          }, {
+            "sentence" : "Differences in the biomarkers between the two groups were assessed using two-sample t-tests or the Mann-Whitney test, depending on whether the data satisfied normality assumption or not.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences in the biomarkers between the two groups were assessed using two-sample t-tests or the Mann-Whitney test, depending on whether the data satisfied normality assumption or not."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney test"
+                  }],
+                "neText" : "Mann-Whitney test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "E0771-vec and E0771-mPR cell lines were generated through lentiviral transduction using mouse progesterone receptor ( mPR ) or empty control vectors using pLenti-CMV-Hygro ( Addgene 17454 , cloning details available on request ) backbone.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "E0771-vec and E0771-mPR cell lines were generated through lentiviral transduction using mouse progesterone receptor ( mPR ) or empty control vectors using pLenti-CMV-Hygro ( Addgene 17454 , cloning details available on request ) backbone."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 17454 "
+                  }],
+                "neText" : "Addgene 17454 "
+              }]
+          }]
+      }]
+  }
+}

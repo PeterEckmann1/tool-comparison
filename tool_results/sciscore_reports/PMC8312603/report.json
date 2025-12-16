@@ -1,0 +1,317 @@
+{
+  "docIdentifier" : "PMC8312603",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Briefly , human cervical carcinoma cells ( HeLa ) were cultured in DMEM ( In vitro , Mexico) , 1 inoculation into 96-well microtiter plates and allowed to reach 70 of confluency before testing , which was typically 24 h at 37degC with 5 CO2 atmosphere.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly , human cervical carcinoma cells ( HeLa ) were cultured in DMEM ( In vitro , Mexico) , 1 inoculation into 96-well microtiter plates and allowed to reach 70 of confluency before testing , which was typically 24 h at 37degC with 5 CO2 atmosphere."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0030",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa"
+                }],
+              "neText" : "HeLa"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Whole-genome sequencing ( WGS ) was done using Illumina HiSeq 2000 with PE 150 plus index read ( Illumina , San Diego , CA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Whole-genome sequencing ( WGS ) was done using Illumina HiSeq 2000 with PE 150 plus index read ( Illumina , San Diego , CA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Whole Genome Shotgun (WGS) Project (RRID:SCR_016637)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "WGS"
+                }],
+              "neText" : "WGS"
+            }]
+        }, {
+          "sentence" : "Adapters and phiX Illumina standards were informatically removed before quality control of the reads was done using FastQC .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Adapters and phiX Illumina standards were informatically removed before quality control of the reads was done using FastQC ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FastQC (RRID:SCR_014583)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FastQC"
+                }],
+              "neText" : "FastQC"
+            }]
+        }, {
+          "sentence" : "Automated gene annotation was done with Prokka v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Automated gene annotation was done with Prokka v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Prokka (RRID:SCR_014732)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prokka"
+                }],
+              "neText" : "Prokka"
+            }]
+        }, {
+          "sentence" : "The tree was edited and annotated with iTOL v4 (Interactive Tree of Life) 32. 16S rRNA gene phylogenetic analysis The 16S rRNA genes were extracted from 24 Hungatella genomes using the gene prediction with Prokka annotation before aligning the sequences with MEGA 10.0 to construct a 16S rRNA phylogenetic tree.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The tree was edited and annotated with iTOL v4 (Interactive Tree of Life) 32. 16S rRNA gene phylogenetic analysis The 16S rRNA genes were extracted from 24 Hungatella genomes using the gene prediction with Prokka annotation before aligning the sequences with MEGA 10.0 to construct a 16S rRNA phylogenetic tree."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MEGA (RRID:SCR_023017)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MEGA"
+                }],
+              "neText" : "MEGA"
+            }]
+        }, {
+          "sentence" : "It was also identified by the Human Microbiome Project as the reference strain for this organism.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "It was also identified by the Human Microbiome Project as the reference strain for this organism."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Human Microbiome Project (RRID:SCR_012956)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Human Microbiome Project"
+                }],
+              "neText" : "Human Microbiome Project"
+            }]
+        }, {
+          "sentence" : "Determination of the pan- and core-genome of the 23 H. hathewayi and the H. effluvii reported strains The ORFs annotated using Prokka (v.1.14.5) for all of the public Hungatella genomes (24 total) were used as input for pan-genome analysis using Roary v3.13.0 (https:github.comsanger-pathogensRoary) (37).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Determination of the pan- and core-genome of the 23 H. hathewayi and the H. effluvii reported strains The ORFs annotated using Prokka (v.1.14.5) for all of the public Hungatella genomes (24 total) were used as input for pan-genome analysis using Roary v3.13.0 (https:github.comsanger-pathogensRoary) (37)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Roary (RRID:SCR_018172)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Roary"
+                }],
+              "neText" : "Roary"
+            }]
+        }, {
+          "sentence" : "The core genes were extracted and converted to protein sequences for an all-against-all comparison using BLASTP with by setting the sequence identity to 95.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The core genes were extracted and converted to protein sequences for an all-against-all comparison using BLASTP with by setting the sequence identity to 95."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BLASTP (RRID:SCR_001010)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLASTP"
+                }],
+              "neText" : "BLASTP"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The patient was included in a protocol to study C. difficile infection in children, approved by the ethical committee of the hospital de Pediatria, IMSS, Mexico.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The patient was included in a protocol to study C. difficile infection in children, approved by the ethical committee of the hospital de Pediatria, IMSS, Mexico."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and methods A 12-year-old girl with a history of partial epilepsy since the age of four presented to the hospital with a persistent two-year episode of chronic abdominal pain and loss of appetite, but no diarrhea.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods A 12-year-old girl with a history of partial epilepsy since the age of four presented to the hospital with a persistent two-year episode of chronic abdominal pain and loss of appetite, but no diarrhea."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "The 16S rRNA gene of Clostridium bolteae and Faecalicatena contorta were also included based on results of the phylogenetic analyses and virtual fingerprint (see above).",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The 16S rRNA gene of Clostridium bolteae and Faecalicatena contorta were also included based on results of the phylogenetic analyses and virtual fingerprint (see above)."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "DNA was extracted using DNeasy Mini Kit ( Qiagen , Hilden Germany ) as previously described 15,26,27 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "DNA was extracted using DNeasy Mini Kit ( Qiagen , Hilden Germany ) as previously described 15,26,27 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "15,26,27"
+                  }],
+                "neText" : "15,26,27"
+              }]
+          }, {
+            "sentence" : "The genome sequences were assembled and annotated as previously described 15,16,26 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The genome sequences were assembled and annotated as previously described 15,16,26 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "15,16,26"
+                  }],
+                "neText" : "15,16,26"
+              }]
+          }, {
+            "sentence" : "49.1 6348 6275 IMSS-269 SRR9298911 6,757,988 48.9 5920 5847 MGYG-HGUT-00032 NZ_CABIXC010000001.1 6,979,496 48.9 6130 5916 OM02-1 NZ_QSVU01000001.1 7,603,944",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "49.1 6348 6275 IMSS-269 SRR9298911 6,757,988 48.9 5920 5847 MGYG-HGUT-00032 NZ_CABIXC010000001.1 6,979,496 48.9 6130 5916 OM02-1 NZ_QSVU01000001.1 7,603,944"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "SRR9298911"
+                  }],
+                "neText" : "SRR9298911"
+              }]
+          }]
+      }]
+  }
+}

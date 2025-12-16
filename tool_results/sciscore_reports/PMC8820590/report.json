@@ -1,0 +1,515 @@
+{
+  "docIdentifier" : "PMC8820590",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Striatal brain slices were stained using a Rabbit anti-TH antibody ( Abcam , No. AB112 , 1:250 ) followed by either Alexa Fluor 633 goat anti-rabbit secondary antibody ( Invitrogen , No. A21070 , 1:500) , or Biotinylated goat anti-rabbit antibody ( Vector PK-6101 , 1:400) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Striatal brain slices were stained using a Rabbit anti-TH antibody ( Abcam , No. AB112 , 1:250 ) followed by either Alexa Fluor 633 goat anti-rabbit secondary antibody ( Invitrogen , No. A21070 , 1:500) , or Biotinylated goat anti-rabbit antibody ( Vector PK-6101 , 1:400) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TH"
+                }],
+              "neText" : "anti-TH"
+            }]
+        }, {
+          "sentence" : "To quantify the specificity of tdTomato expression in PVs and CHIs , we used antibodies against PV ( rabbit anti-PV , SWANT PV25 , 1:1,000 ) or Chat ( goat anti-Chat antibody , Abcam , No. ab254118 1:500) , followed by either Alexa Fluor 633 goat anti-rabbit secondary antibody ( Invitrogen , No. A21070 , 1:1000",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To quantify the specificity of tdTomato expression in PVs and CHIs , we used antibodies against PV ( rabbit anti-PV , SWANT PV25 , 1:1,000 ) or Chat ( goat anti-Chat antibody , Abcam , No. ab254118 1:500) , followed by either Alexa Fluor 633 goat anti-rabbit secondary antibody ( Invitrogen , No. A21070 , 1:1000"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-PV , SWANT PV25"
+                }],
+              "neText" : "anti-PV , SWANT PV25"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Chat"
+                }],
+              "neText" : "anti-Chat"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }]
+        }, {
+          "sentence" : ") for PV staining or Alexa Fluor 633 donkey anti-goat secondary antibody ( Thermo Fisher , No. A21082 , 1:200",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ") for PV staining or Alexa Fluor 633 donkey anti-goat secondary antibody ( Thermo Fisher , No. A21082 , 1:200"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-goat"
+                }],
+              "neText" : "anti-goat"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request EXPERIMENTAL MODEL AND SUBJECT DETAILS Adult GM24Gsat (Chat-cre, MMRRC Stock Number: 017269-UCD), B6 129P2-Pvalbtm1 (cre)ArbrJ (PV-cre, Jax Stock Number: 017320) and C57B6 mice (Charles River Laboratories, Cat C57BL6) were purchased from Charles River Laboratories,",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request EXPERIMENTAL MODEL AND SUBJECT DETAILS Adult GM24Gsat (Chat-cre, MMRRC Stock Number: 017269-UCD), B6 129P2-Pvalbtm1 (cre)ArbrJ (PV-cre, Jax Stock Number: 017320) and C57B6 mice (Charles River Laboratories, Cat C57BL6) were purchased from Charles River Laboratories,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GM24Gsat"
+                }],
+              "neText" : "GM24Gsat"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "017269-UCD), B6 129P2-Pvalbtm1 (cre)ArbrJ"
+                }],
+              "neText" : "017269-UCD), B6 129P2-Pvalbtm1 (cre)ArbrJ"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57B6"
+                }],
+              "neText" : "C57B6"
+            }]
+        }, {
+          "sentence" : "B6 129P2-Pvalbtm1 ( cre)ArbrJ ( PV-cre , Jax Stock Number: 017320 , n = 6 ) transgenic mice were used to examine PVs and their interactions with SPNs .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "B6 129P2-Pvalbtm1 ( cre)ArbrJ ( PV-cre , Jax Stock Number: 017320 , n = 6 ) transgenic mice were used to examine PVs and their interactions with SPNs ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "B6 129P2-Pvalbtm1 ( cre)ArbrJ"
+                }],
+              "neText" : "B6 129P2-Pvalbtm1 ( cre)ArbrJ"
+            }]
+        }, {
+          "sentence" : "These 13 transgenic mice , and another 3 C57BL6 mice were used to examine SPNs .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These 13 transgenic mice , and another 3 C57BL6 mice were used to examine SPNs ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All original code has been deposited at GitHub https:github.comHanLabBUDopamine-Depletion-CellReportsreleasestagv1.0 and Zenodo https:doi.org10.5281zenodo.5786809 and is publicly available as of the date of publication.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All original code has been deposited at GitHub https:github.comHanLabBUDopamine-Depletion-CellReportsreleasestagv1.0 and Zenodo https:doi.org10.5281zenodo.5786809 and is publicly available as of the date of publication."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ZENODO (RRID:SCR_004129)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Zenodo"
+                }],
+              "neText" : "Zenodo"
+            }]
+        }, {
+          "sentence" : "Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request EXPERIMENTAL MODEL AND SUBJECT DETAILS Adult GM24Gsat (Chat-cre, MMRRC Stock Number: 017269-UCD), B6 129P2-Pvalbtm1 (cre)ArbrJ (PV-cre, Jax Stock Number: 017320) and C57B6 mice (Charles River Laboratories, Cat C57BL6) were purchased from Charles River Laboratories,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request EXPERIMENTAL MODEL AND SUBJECT DETAILS Adult GM24Gsat (Chat-cre, MMRRC Stock Number: 017269-UCD), B6 129P2-Pvalbtm1 (cre)ArbrJ (PV-cre, Jax Stock Number: 017320) and C57B6 mice (Charles River Laboratories, Cat C57BL6) were purchased from Charles River Laboratories,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Charles River Laboratories (RRID:SCR_003792)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Charles River Laboratories"
+                }],
+              "neText" : "Charles River Laboratories"
+            }]
+        }, {
+          "sentence" : "A custom multi-threaded Python script was used to send packaged < dx , dy > motion sensor data at 100 Hz to the image acquisition computer via a RS232 serial link .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A custom multi-threaded Python script was used to send packaged < dx , dy > motion sensor data at 100 Hz to the image acquisition computer via a RS232 serial link ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "python-bx (RRID:SCR_024202)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }]
+        }, {
+          "sentence" : "For the multi-taper calculation , we converted the mtspecgramc function and its dependency functions from the MATLAB chronux package ( Chronux Home , n",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For the multi-taper calculation , we converted the mtspecgramc function and its dependency functions from the MATLAB chronux package ( Chronux Home , n"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }, {
+          "sentence" : "Neuron pairs with correlation values within 95 of the shuffled distributions were deemed randomly correlated (random pairs).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Neuron pairs with correlation values within 95 of the shuffled distributions were deemed randomly correlated (random pairs)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Neuron"
+                }],
+              "neText" : "Neuron"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All animal procedures used in this study were approved by Boston University Institutional Animal Care and Use Committee ( IACUC)",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All animal procedures used in this study were approved by Boston University Institutional Animal Care and Use Committee ( IACUC)"
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Both female and male mice were used , and all mice were 8-12 weeks old at the start of the study .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Both female and male mice were used , and all mice were 8-12 weeks old at the start of the study ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Both female and male mice were used , and all mice were 8-12 weeks old at the start of the study .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Both female and male mice were used , and all mice were 8-12 weeks old at the start of the study ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "To determine whether a correlation coefficient value observed between a neuron pair was significantly higher than that expected from random overlap of calcium events in that neuron pair, we used a shuffling procedure to estimate the baseline distribution of correlation values.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To determine whether a correlation coefficient value observed between a neuron pair was significantly higher than that expected from random overlap of calcium events in that neuron pair, we used a shuffling procedure to estimate the baseline distribution of correlation values."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Through manual inspection we noted that calcium events are associated with increased low frequency (<2Hz) power, therefore, we calculated the power trace as the mean Z scoreZ-score of the power across frequencies below 2Hz.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Through manual inspection we noted that calcium events are associated with increased low frequency (<2Hz) power, therefore, we calculated the power trace as the mean Z scoreZ-score of the power across frequencies below 2Hz."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "This procedure was repeated 1000 times to build the distribution of the shuffled baseline distribution.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This procedure was repeated 1000 times to build the distribution of the shuffled baseline distribution."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "This procedure was repeated 1000 times to build the distribution of the shuffled baseline distribution.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This procedure was repeated 1000 times to build the distribution of the shuffled baseline distribution."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request EXPERIMENTAL MODEL AND SUBJECT DETAILS Adult GM24Gsat (Chat-cre, MMRRC Stock Number: 017269-UCD), B6 129P2-Pvalbtm1 (cre)ArbrJ (PV-cre, Jax Stock Number: 017320) and C57B6 mice (Charles River Laboratories, Cat C57BL6) were purchased from Charles River Laboratories,",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request EXPERIMENTAL MODEL AND SUBJECT DETAILS Adult GM24Gsat (Chat-cre, MMRRC Stock Number: 017269-UCD), B6 129P2-Pvalbtm1 (cre)ArbrJ (PV-cre, Jax Stock Number: 017320) and C57B6 mice (Charles River Laboratories, Cat C57BL6) were purchased from Charles River Laboratories,"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }, {
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "All original code has been deposited at GitHub https:github.comHanLabBUDopamine-Depletion-CellReportsreleasestagv1.0 and Zenodo https:doi.org10.5281zenodo.5786809 and is publicly available as of the date of publication.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All original code has been deposited at GitHub https:github.comHanLabBUDopamine-Depletion-CellReportsreleasestagv1.0 and Zenodo https:doi.org10.5281zenodo.5786809 and is publicly available as of the date of publication."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Calcium event Pearson correlation calculation Correlation coefficient between a neuron pair was estimated as the Pearson correlation of the two binarized calcium event vectors of the neuron pair.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Calcium event Pearson correlation calculation Correlation coefficient between a neuron pair was estimated as the Pearson correlation of the two binarized calcium event vectors of the neuron pair."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }, {
+            "sentence" : "To compare changes in Pearson correlation coefficient values between different time periods before and after 6-OHDA injury, we first computed the average correlation coefficient of all neuron pairs in a session, and then performed ANOVA and mixed effect model as detailed below.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To compare changes in Pearson correlation coefficient values between different time periods before and after 6-OHDA injury, we first computed the average correlation coefficient of all neuron pairs in a session, and then performed ANOVA and mixed effect model as detailed below."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "To compare the correlation coefficients pre- and post- L-Dopa injection, we used a Wilcoxon signed rank test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To compare the correlation coefficients pre- and post- L-Dopa injection, we used a Wilcoxon signed rank test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed rank test"
+                  }],
+                "neText" : "Wilcoxon signed rank test"
+              }]
+          }, {
+            "sentence" : "To determine if a cell population responded to movement or rotation onset, we performed two-sided paired t test, comparing the Z-scores of the normalized fluorescence across all sessions of a given cell type.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To determine if a cell population responded to movement or rotation onset, we performed two-sided paired t test, comparing the Z-scores of the normalized fluorescence across all sessions of a given cell type."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }, {
+            "sentence" : "Additionally, we used Fishers exact test, and Wilcoxon signed rank test as specified in each Figure.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Additionally, we used Fishers exact test, and Wilcoxon signed rank test as specified in each Figure."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "Striatal brain slices were stained using a Rabbit anti-TH antibody ( Abcam , No. AB112 , 1:250 ) followed by either Alexa Fluor 633 goat anti-rabbit secondary antibody ( Invitrogen , No. A21070 , 1:500) , or Biotinylated goat anti-rabbit antibody ( Vector PK-6101 , 1:400) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Striatal brain slices were stained using a Rabbit anti-TH antibody ( Abcam , No. AB112 , 1:250 ) followed by either Alexa Fluor 633 goat anti-rabbit secondary antibody ( Invitrogen , No. A21070 , 1:500) , or Biotinylated goat anti-rabbit antibody ( Vector PK-6101 , 1:400) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AB112 "
+                  }],
+                "neText" : "AB112 "
+              }]
+          }]
+      }]
+  }
+}

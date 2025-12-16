@@ -1,0 +1,212 @@
+{
+  "docIdentifier" : "PMC8141609",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "2 Materials and methods 2.1 Nucleic acid preparation The synthetic DNA fragment of ORF1ab or N gene was ligated into a pUC19 vector (BIOLIGO, Shanghai, China) and amplified in E.coli. system.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2 Materials and methods 2.1 Nucleic acid preparation The synthetic DNA fragment of ORF1ab or N gene was ligated into a pUC19 vector (BIOLIGO, Shanghai, China) and amplified in E.coli. system."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_99351",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pUC19"
+                }],
+              "neText" : "pUC19"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All statistical analysis was performed using GraphPad Prism software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analysis was performed using GraphPad Prism software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2.11 Ethical statement The research on rapid diagnostic technique for HPVs using clinical samples was approved by the ethical committee of Shenzhen Luohu Peoples Hospital.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.11 Ethical statement The research on rapid diagnostic technique for HPVs using clinical samples was approved by the ethical committee of Shenzhen Luohu Peoples Hospital."
+              }]
+          }, {
+            "sentence" : "Oral consent was obtained from all enrolled patients.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Oral consent was obtained from all enrolled patients."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2.8 Specimen collection and DNA extraction for HPV detection A conventional cytological scrape was taken with a cytobrush from women visiting the gynecological outpatient clinic of the Shenzhen Luohu Peoples Hospital in China .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.8 Specimen collection and DNA extraction for HPV detection A conventional cytological scrape was taken with a cytobrush from women visiting the gynecological outpatient clinic of the Shenzhen Luohu Peoples Hospital in China ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "5 2.10 Statistical analyses P values were calculated using one-way ANOVA (multiple groups).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "5 2.10 Statistical analyses P values were calculated using one-way ANOVA (multiple groups)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Table 1 Oligo name Oligo Sequence(5-3 ) Usage STD-N-F1 CCAGGCAGCAGTAGGGGAACTTCT CCTGCTAGAAT Fig .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Oligo name Oligo Sequence(5-3 ) Usage STD-N-F1 CCAGGCAGCAGTAGGGGAACTTCT CCTGCTAGAAT Fig ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCAGGCAGCAGTAGGGGAACTTCT CCTGCTAGAAT"
+                  }],
+                "neText" : "CCAGGCAGCAGTAGGGGAACTTCT CCTGCTAGAAT"
+              }]
+          }, {
+            "sentence" : "1a STD-N-F2 CAGGCAGCAGTAGGGGAACTTCTC CTGCTAGAAT Fig .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "1a STD-N-F2 CAGGCAGCAGTAGGGGAACTTCTC CTGCTAGAAT Fig ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAGGCAGCAGTAGGGGAACTTCTC CTGCTAGAAT"
+                  }],
+                "neText" : "CAGGCAGCAGTAGGGGAACTTCTC CTGCTAGAAT"
+              }]
+          }]
+      }]
+  }
+}

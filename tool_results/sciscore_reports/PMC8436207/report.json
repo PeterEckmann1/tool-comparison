@@ -1,0 +1,234 @@
+{
+  "docIdentifier" : "PMC8436207",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "After blocking in 5 non-fat dry milk for 1 h at 25degC , membranes were incubated with antibodies against IL-6 ( 1:500 cat. no. sc-1265) ,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After blocking in 5 non-fat dry milk for 1 h at 25degC , membranes were incubated with antibodies against IL-6 ( 1:500 cat. no. sc-1265) ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IL-6"
+                }],
+              "neText" : "IL-6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "The DNA sequences encoding B19-VP1, VP1u and truncated B19V-VP1uA (residues 1-60), B (residues 61-129), C (residues 130-195) and D (residues 196-227) were ligated into a pET-32a vector-Novagene (MilliporeSigma).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The DNA sequences encoding B19-VP1, VP1u and truncated B19V-VP1uA (residues 1-60), B (residues 61-129), C (residues 130-195) and D (residues 196-227) were ligated into a pET-32a vector-Novagene (MilliporeSigma)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_120288",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pET-32a"
+                }],
+              "neText" : "pET-32a"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "For immunoblotting , extracted proteins ( 25 uglane ) were separated using 12 or 15 SDS-gels , and transferred to nitrocellulose membranes ( Bio-Rad Laboratories , Inc . )",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For immunoblotting , extracted proteins ( 25 uglane ) were separated using 12 or 15 SDS-gels , and transferred to nitrocellulose membranes ( Bio-Rad Laboratories , Inc . )"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bio-Rad Laboratories"
+                }],
+              "neText" : "Bio-Rad Laboratories"
+            }]
+        }, {
+          "sentence" : "Signals were visualized using Immobilon Western Chemiluminescent HRP Substrate ( MilliporeSigma) , and densitometry analysis was performed using an imaging analyzer ( GE ImageQuant TL 8.1 GE Healthcare Life Sciences) . H&E staining For H&E staining , the left ventricle tissues of mice were immersed in 10 formalin at 25degC for 24 h and embedded in paraffin .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Signals were visualized using Immobilon Western Chemiluminescent HRP Substrate ( MilliporeSigma) , and densitometry analysis was performed using an imaging analyzer ( GE ImageQuant TL 8.1 GE Healthcare Life Sciences) . H&E staining For H&E staining , the left ventricle tissues of mice were immersed in 10 formalin at 25degC for 24 h and embedded in paraffin ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageQuant"
+                }],
+              "neText" : "ImageQuant"
+            }]
+        }, {
+          "sentence" : "Statistical analysis GraphPad Prism 5 software (GraphPad Software, Inc.) was used to calculate the significant differences among groups using a one-way ANOVA followed by Tukeys multiple-comparisons test.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis GraphPad Prism 5 software (GraphPad Software, Inc.) was used to calculate the significant differences among groups using a one-way ANOVA followed by Tukeys multiple-comparisons test."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Ethics and animal Animal experiments were performed in accordance with the principles of replacement , refinement and reduction and were approved by the Institutional Animal Care and Use Committee ( IACUC ) of Chung Shan Medical University , Taichung ( approval no. 1676 approved on December 2015) .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ethics and animal Animal experiments were performed in accordance with the principles of replacement , refinement and reduction and were approved by the Institutional Animal Care and Use Committee ( IACUC ) of Chung Shan Medical University , Taichung ( approval no. 1676 approved on December 2015) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "A total of 32 BALBc BYJNarl female mice ( age , 7 weeks weight , 19-21 g ) were obtained from the National Laboratory Animal Center and administrated under the IACUC at Chung Shan Medical University ( Taichung , Taiwan) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 32 BALBc BYJNarl female mice ( age , 7 weeks weight , 19-21 g ) were obtained from the National Laboratory Animal Center and administrated under the IACUC at Chung Shan Medical University ( Taichung , Taiwan) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "A total of 32 BALBc BYJNarl female mice ( age , 7 weeks weight , 19-21 g ) were obtained from the National Laboratory Animal Center and administrated under the IACUC at Chung Shan Medical University ( Taichung , Taiwan) .",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 32 BALBc BYJNarl female mice ( age , 7 weeks weight , 19-21 g ) were obtained from the National Laboratory Animal Center and administrated under the IACUC at Chung Shan Medical University ( Taichung , Taiwan) ."
+              }]
+          }, {
+            "sentence" : "After 1 week of acclimation , the 8-week-old animals were randomly divided into eight groups ( n=4 per group ) as follows: i ) Control group ( PBS ) ii ) B19V-VP1 group iii ) B19V-NS1 group iv ) B19V-VP1u group v ) VP1u-A group vi ) VP1u-B group vii ) VP1u-C group and viii ) VP1u-D group .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After 1 week of acclimation , the 8-week-old animals were randomly divided into eight groups ( n=4 per group ) as follows: i ) Control group ( PBS ) ii ) B19V-VP1 group iii ) B19V-NS1 group iv ) B19V-VP1u group v ) VP1u-A group vi ) VP1u-B group vii ) VP1u-C group and viii ) VP1u-D group ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "After 1 week of acclimation , the 8-week-old animals were randomly divided into eight groups ( n=4 per group ) as follows: i ) Control group ( PBS ) ii ) B19V-VP1 group iii ) B19V-NS1 group iv ) B19V-VP1u group v ) VP1u-A group vi ) VP1u-B group vii ) VP1u-C group and viii ) VP1u-D group .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After 1 week of acclimation , the 8-week-old animals were randomly divided into eight groups ( n=4 per group ) as follows: i ) Control group ( PBS ) ii ) B19V-VP1 group iii ) B19V-NS1 group iv ) B19V-VP1u group v ) VP1u-A group vi ) VP1u-B group vii ) VP1u-C group and viii ) VP1u-D group ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The mice were then boosted with 20 ug recombinant proteins or PBS mixed 1:1 ( vv ) with Freunds incomplete adjuvant ( MillporeSigma ) twice times each on days 14 and 28 .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mice were then boosted with 20 ug recombinant proteins or PBS mixed 1:1 ( vv ) with Freunds incomplete adjuvant ( MillporeSigma ) twice times each on days 14 and 28 ."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis GraphPad Prism 5 software (GraphPad Software, Inc.) was used to calculate the significant differences among groups using a one-way ANOVA followed by Tukeys multiple-comparisons test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis GraphPad Prism 5 software (GraphPad Software, Inc.) was used to calculate the significant differences among groups using a one-way ANOVA followed by Tukeys multiple-comparisons test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys multiple-comparisons test"
+                  }],
+                "neText" : "Tukeys multiple-comparisons test"
+              }]
+          }]
+      }]
+  }
+}

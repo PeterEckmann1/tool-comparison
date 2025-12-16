@@ -1,0 +1,274 @@
+{
+  "docIdentifier" : "PMC8476158",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The previously established consensus were obtained by extracting all Drosophila consensus from Dfam and Repbase databases (release 2016-2018 for both) (Hubley et al. 2016 https:www.girinst.orgrepbase, last accessed December 01, 2019).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The previously established consensus were obtained by extracting all Drosophila consensus from Dfam and Repbase databases (release 2016-2018 for both) (Hubley et al. 2016 https:www.girinst.orgrepbase, last accessed December 01, 2019)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Repbase (RRID:SCR_021169)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Repbase"
+                }],
+              "neText" : "Repbase"
+            }]
+        }, {
+          "sentence" : "Graphical visualization of the results was produced using Circos ( Krzywinski et al. 2009) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Graphical visualization of the results was produced using Circos ( Krzywinski et al. 2009) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Circos (RRID:SCR_011798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Circos"
+                }],
+              "neText" : "Circos"
+            }]
+        }, {
+          "sentence" : "Evaluation of Population Genetics Statistics We estimated Wattersons theta ( th w ) and Tajimas D statistics in nonoverlapping 1,000 bp windows using PoPoolation ( v1.2.2 ) ( Kofler et al. 2011) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Evaluation of Population Genetics Statistics We estimated Wattersons theta ( th w ) and Tajimas D statistics in nonoverlapping 1,000 bp windows using PoPoolation ( v1.2.2 ) ( Kofler et al. 2011) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PoPoolation (RRID:SCR_003495)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PoPoolation"
+                }],
+              "neText" : "PoPoolation"
+            }]
+        }, {
+          "sentence" : "Reads were filtered for a minimum mapping quality of 20 and a pileup file generated with samtools ( v1.7 ) ( Li et al. 2009) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Reads were filtered for a minimum mapping quality of 20 and a pileup file generated with samtools ( v1.7 ) ( Li et al. 2009) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "samtools"
+                }],
+              "neText" : "samtools"
+            }]
+        }, {
+          "sentence" : "For each region , we looked for overlapping TEs using the RepeatMasker annotation ( gff file , see Annotation of the reference genome) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For each region , we looked for overlapping TEs using the RepeatMasker annotation ( gff file , see Annotation of the reference genome) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RepeatMasker (RRID:SCR_012954)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RepeatMasker"
+                }],
+              "neText" : "RepeatMasker"
+            }]
+        }, {
+          "sentence" : "Second , we retrieved homologous regions in the D . melanogaster genome using BLAT against the D . melanogaster masked assembly downloaded from UCSC Genome Browser ( http:hgdownload.soe.ucsc.edugoldenPathdm6bigZips , last accessed December 01",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Second , we retrieved homologous regions in the D . melanogaster genome using BLAT against the D . melanogaster masked assembly downloaded from UCSC Genome Browser ( http:hgdownload.soe.ucsc.edugoldenPathdm6bigZips , last accessed December 01"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BLAT (RRID:SCR_011919)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLAT"
+                }],
+              "neText" : "BLAT"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UCSC Genome Browser"
+                }],
+              "neText" : "UCSC Genome Browser"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Six samples were collected in the native Asian area , more precisely in four Chinese and two Japanese localities .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Six samples were collected in the native Asian area , more precisely in four Chinese and two Japanese localities ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "To test whether the candidate regions were enriched in TEs, we generated random expectations by applying the above to 1,000 randomly selected SNPs 250 times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To test whether the candidate regions were enriched in TEs, we generated random expectations by applying the above to 1,000 randomly selected SNPs 250 times."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Correlation between Climatic Variables and TE Family Abundance Partial Mantel tests were used to test the correlation between bioclimatic variables and TE family abundance correcting for population structure (as in Quadrana et al. 2016).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Correlation between Climatic Variables and TE Family Abundance Partial Mantel tests were used to test the correlation between bioclimatic variables and TE family abundance correcting for population structure (as in Quadrana et al. 2016)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mantel tests"
+                  }],
+                "neText" : "Mantel tests"
+              }]
+          }, {
+            "sentence" : "P values were further adjusted to account for multiple testing applying the Benjamini-Hochberg correction (Benjamini and Hochberg 1995).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "P values were further adjusted to account for multiple testing applying the Benjamini-Hochberg correction (Benjamini and Hochberg 1995)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini and Hochberg"
+                  }],
+                "neText" : "Benjamini and Hochberg"
+              }]
+          }]
+      }]
+  }
+}

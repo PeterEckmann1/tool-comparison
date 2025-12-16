@@ -1,0 +1,377 @@
+{
+  "docIdentifier" : "PMC8762141",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Methods Antibodies and flow cytometry Human peripheral blood mononuclear cells (PBMCs) and T cells were analyzed by flow cytometry after staining with fluorochrome-conjugated monoclonal antibodies (mAbs) against CD3 (clone Leu-4), CD4 (clone SK3), CD8 (clone RPA-T8)",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Methods Antibodies and flow cytometry Human peripheral blood mononuclear cells (PBMCs) and T cells were analyzed by flow cytometry after staining with fluorochrome-conjugated monoclonal antibodies (mAbs) against CD3 (clone Leu-4), CD4 (clone SK3), CD8 (clone RPA-T8)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD3"
+                }],
+              "neText" : "CD3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD4"
+                }],
+              "neText" : "CD4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD8"
+                }],
+              "neText" : "CD8"
+            }]
+        }, {
+          "sentence" : "Antibodies against killer cell lectin-like receptor G1 ( KLRG1 ) ( clone 2F1) , Tim3 ( clone F38-2E2 ) and epidermal growth factor receptor ( EGFR ) ( clone AY13 ) were purchased from BioLegend.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibodies against killer cell lectin-like receptor G1 ( KLRG1 ) ( clone 2F1) , Tim3 ( clone F38-2E2 ) and epidermal growth factor receptor ( EGFR ) ( clone AY13 ) were purchased from BioLegend."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KLRG1"
+                }],
+              "neText" : "KLRG1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Tim3"
+                }],
+              "neText" : "Tim3"
+            }]
+        }, {
+          "sentence" : "The anti-LAG3 ( Catalog No. LS-C130398 ) and anti-PD1 ( MIH4 ) antibodies were from Lifespan Biosciences and eBiosciences , respectively .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The anti-LAG3 ( Catalog No. LS-C130398 ) and anti-PD1 ( MIH4 ) antibodies were from Lifespan Biosciences and eBiosciences , respectively ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-LAG3"
+                }],
+              "neText" : "anti-LAG3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-PD1"
+                }],
+              "neText" : "anti-PD1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MIH4"
+                }],
+              "neText" : "MIH4"
+            }]
+        }, {
+          "sentence" : "The cell mixture was stained with either anti-CD8 and anti-EGFR antibodies or biotinylated cetuximab and streptavidin to analyze surface expression of CD8 and CAR , respectively .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The cell mixture was stained with either anti-CD8 and anti-EGFR antibodies or biotinylated cetuximab and streptavidin to analyze surface expression of CD8 and CAR , respectively ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-EGFR"
+                }],
+              "neText" : "anti-EGFR"
+            }]
+        }, {
+          "sentence" : "After fixation , the cells were stained with an anti-IFNg antibody and analyzed using multicolor flow cytometry on MACSQuant ( Miltenyi Biotec)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After fixation , the cells were stained with an anti-IFNg antibody and analyzed using multicolor flow cytometry on MACSQuant ( Miltenyi Biotec)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-IFNg"
+                }],
+              "neText" : "anti-IFNg"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell lines EBV-transformed lymphoblastoid cell lines ( LCLs ) were made from PBMCs as previously described.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell lines EBV-transformed lymphoblastoid cell lines ( LCLs ) were made from PBMCs as previously described."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "lymphoblastoid"
+                }],
+              "neText" : "lymphoblastoid"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "17 To generate muromonab-CD3 ( OKT3)-expressing LCLs , LCLs were resuspended in nucleofection solution using the Amaxa Nucleofector kit T , OKT3-2A-Hygromycin_pEK plasmid was added to 5 ug107 cells , the cells were electroporated using the Amaxa Nucleofector I , and the resulting cells were grown in Roswell Park Memorial Institute (",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "17 To generate muromonab-CD3 ( OKT3)-expressing LCLs , LCLs were resuspended in nucleofection solution using the Amaxa Nucleofector kit T , OKT3-2A-Hygromycin_pEK plasmid was added to 5 ug107 cells , the cells were electroporated using the Amaxa Nucleofector I , and the resulting cells were grown in Roswell Park Memorial Institute ("
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "OKT3-2A-Hygromycin_pEK"
+                }],
+              "neText" : "OKT3-2A-Hygromycin_pEK"
+            }]
+        }, {
+          "sentence" : "Standards were made for VSV-G using pCMV-G plasmid at the concentrations 1x105, 1x104, 1x103, 1x102, and 10 copiesuL.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Standards were made for VSV-G using pCMV-G plasmid at the concentrations 1x105, 1x104, 1x103, 1x102, and 10 copiesuL."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "VSV-G"
+                }],
+              "neText" : "VSV-G"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCMV-G"
+                }],
+              "neText" : "pCMV-G"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "CliniMACS Prodigy immunomagnetic CMV-specific T cell enrichment after CMVpp65 stimulation Leukapheresis products were obtained from healthy donors using protocols approved by the City of Hope Institutional Review Board or purchased from StemCell Technologies .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "CliniMACS Prodigy immunomagnetic CMV-specific T cell enrichment after CMVpp65 stimulation Leukapheresis products were obtained from healthy donors using protocols approved by the City of Hope Institutional Review Board or purchased from StemCell Technologies ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Statistical analysis Mean+-SD of replicate samples are presented.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Mean+-SD of replicate samples are presented."
+              }],
+            "mention" : {
+              "neText" : "replicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Banks of all cell lines were authenticated for the desired antigenmarker expression by flow cytometry prior to cryopreservation and thawed cells were cultured for less than 6 weeks prior to use in assays .",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Banks of all cell lines were authenticated for the desired antigenmarker expression by flow cytometry prior to cryopreservation and thawed cells were cultured for less than 6 weeks prior to use in assays ."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Protocol Information",
+        "srList" : [{
+            "sentence" : "Generation of CMV-CD19CAR T cells After overnight incubation in RPMI medium containing 10 human AB serum ( Gemini Bio Products) , IL-2 ( 50 UmL ) and IL-15 ( 1 ngmL) , recovered IFNg+cells ( 1 x 106 ) were transduced at multiplicity of infection ( MOI ) 3 with current good manufacturing practice ( cGMP ) grade CD19CAR lentivirus that is used in current clinical trials ( NCT02146924 and NCT02153580) .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Generation of CMV-CD19CAR T cells After overnight incubation in RPMI medium containing 10 human AB serum ( Gemini Bio Products) , IL-2 ( 50 UmL ) and IL-15 ( 1 ngmL) , recovered IFNg+cells ( 1 x 106 ) were transduced at multiplicity of infection ( MOI ) 3 with current good manufacturing practice ( cGMP ) grade CD19CAR lentivirus that is used in current clinical trials ( NCT02146924 and NCT02153580) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT02146924"
+                  }],
+                "neText" : "NCT02146924"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT02153580"
+                  }],
+                "neText" : "NCT02153580"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "We used unpaired T tests for statistical analysis of cytokine production and cytolytic activity assays.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We used unpaired T tests for statistical analysis of cytokine production and cytolytic activity assays."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "T tests"
+                  }],
+                "neText" : "T tests"
+              }]
+          }]
+      }]
+  }
+}

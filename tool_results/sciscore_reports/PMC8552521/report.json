@@ -1,0 +1,165 @@
+{
+  "docIdentifier" : "PMC8552521",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The study was approved by our institutional review board, National Healthcare Group Domain Specific Review Board (",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The study was approved by our institutional review board, National Healthcare Group Domain Specific Review Board ("
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "National Healthcare"
+                }],
+              "neText" : "National Healthcare"
+            }]
+        }, {
+          "sentence" : "Data analysis All analyses were undertaken using SPSS Statistics for Windows, version 25.0 (IBM Corp., Armonk, NY).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data analysis All analyses were undertaken using SPSS Statistics for Windows, version 25.0 (IBM Corp., Armonk, NY)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was approved by our institutional review board, National Healthcare Group Domain Specific Review Board (",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by our institutional review board, National Healthcare Group Domain Specific Review Board ("
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Only cases performed as open surgery were included and surgeries carried out using laparoscopy were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Only cases performed as open surgery were included and surgeries carried out using laparoscopy were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The integrated ELAP pathway included the following components: early warning score assessed within 30 min of admission, arterial lactate measurement and antibiotics initiated within 1 h of admission for patients with suspected sepsis, general surgical review within 2 h of referral, preoperative risk assessment using Portsmouth Physiological and Operative Severity Score for the enumeration of Mortality and Morbidity (P-POSSUM), the patient receiving surgery within 6 h of admission with consultant-led perioperative care, admission of high-risk patients to critical care, and postoperative geriatric assessment of patients aged 65 years or older.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The integrated ELAP pathway included the following components: early warning score assessed within 30 min of admission, arterial lactate measurement and antibiotics initiated within 1 h of admission for patients with suspected sepsis, general surgical review within 2 h of referral, preoperative risk assessment using Portsmouth Physiological and Operative Severity Score for the enumeration of Mortality and Morbidity (P-POSSUM), the patient receiving surgery within 6 h of admission with consultant-led perioperative care, admission of high-risk patients to critical care, and postoperative geriatric assessment of patients aged 65 years or older."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences were assessed using the Mann-Whitney U-test for continuous data and Fishers exact test for categorical data.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences were assessed using the Mann-Whitney U-test for continuous data and Fishers exact test for categorical data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U-test"
+                  }],
+                "neText" : "Mann-Whitney U-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }]
+      }]
+  }
+}

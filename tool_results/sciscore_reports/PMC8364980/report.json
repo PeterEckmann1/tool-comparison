@@ -1,0 +1,177 @@
+{
+  "docIdentifier" : "PMC8364980",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Race categories were defined as American Indian/Alaskan Native, Asian, Black, Hawaiian/Pacific Islander, White, and other.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Race categories were defined as American Indian/Alaskan Native, Asian, Black, Hawaiian/Pacific Islander, White, and other."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Islander (RRID:SCR_007758)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Islander"
+                }],
+              "neText" : "Islander"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "These patients were eligible for inclusion in the analysis if they met the eligibility criteria for mAb treatment (Table 1).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "These patients were eligible for inclusion in the analysis if they met the eligibility criteria for mAb treatment (Table 1)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The target population for this evaluation was patients with positive results of SARS-CoV-2 viral testing who were ≥12 years of age, ≥40 kg in weight, and at high risk for progressing to severe COVID-19 or hospitalization.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The target population for this evaluation was patients with positive results of SARS-CoV-2 viral testing who were "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "12 years of age, "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "40 kg in weight, and at high risk for progressing to severe COVID-19 or hospitalization."
+              }]
+          }, {
+            "sentence" : "The target population for this evaluation was patients with positive results of SARS-CoV-2 viral testing who were ≥12 years of age, ≥40 kg in weight, and at high risk for progressing to severe COVID-19 or hospitalization.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The target population for this evaluation was patients with positive results of SARS-CoV-2 viral testing who were "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "12 years of age, "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "40 kg in weight, and at high risk for progressing to severe COVID-19 or hospitalization."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Characteristics of patients were compared using Welch t tests for continuous variables and the chi-square test for categorical variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Characteristics of patients were compared using Welch t tests for continuous variables and the chi-square test for categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Welch t tests"
+                  }],
+                "neText" : "Welch t tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }]
+          }]
+      }]
+  }
+}

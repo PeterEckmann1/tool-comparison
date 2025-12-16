@@ -1,0 +1,265 @@
+{
+  "docIdentifier" : "PMC8555535",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Briefly, a fresh WAT biopsy (median: 2–3 g) was cut into small pieces, washed with phosphate-buffered saline (PBS, Life Technologies, USA) and transferred to a sterile digestion solution, containing HAM- DMEM/F12 medium (Life Technologies, CA, USA), 1 mg/ml collagenase II (Sigma–Aldrich, St. Louis, MO), and 10 mg/ml bovine serum albumin (BSA, Sigma-Aldrich, St. Louis, MO).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly, a fresh WAT biopsy (median: 2–3 g) was cut into small pieces, washed with phosphate-buffered saline (PBS, Life Technologies, USA) and transferred to a sterile digestion solution, containing HAM- DMEM/F12 medium (Life Technologies, CA, USA), 1 mg/ml collagenase II (Sigma–Aldrich, St. Louis, MO), and 10 mg/ml bovine serum albumin (BSA, Sigma-Aldrich, St. Louis, MO)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma–Aldrich"
+                }],
+              "neText" : "Sigma–Aldrich"
+            }]
+        }, {
+          "sentence" : "USA) , streptomycin ( 10,000 μg/ml , Gibco , Fisher Scientific , USA) , and penicillin ( 10,000 units/ml , Gibco , Fisher Scientific , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "USA) , streptomycin ( 10,000 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "g/ml , Gibco , Fisher Scientific , USA) , and penicillin ( 10,000 units/ml , Gibco , Fisher Scientific , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }, {
+          "sentence" : "Methylation data were visualized and analysed with Genome Studio software version 2011.1 (Illumina) and the Methylation Module.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Methylation data were visualized and analysed with Genome Studio software version 2011.1 (Illumina) and the Methylation Module."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Genome Studio"
+                }],
+              "neText" : "Genome Studio"
+            }]
+        }, {
+          "sentence" : "The ChAMP package was used to perform the control quality (C) evaluation and QC included detection of p-value cut-offs (>0.01), the raw intensities normalization of DNA methylation and Single Variation Deviation analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The ChAMP package was used to perform the control quality (C) evaluation and QC included detection of p-value cut-offs (>0.01), the raw intensities normalization of DNA methylation and Single Variation Deviation analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ChAMP (RRID:SCR_012891)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ChAMP"
+                }],
+              "neText" : "ChAMP"
+            }]
+        }, {
+          "sentence" : "The oligo package was used to normalize the intensity of the gene expression [70].",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The oligo package was used to normalize the intensity of the gene expression [70]."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "oligo (RRID:SCR_015729)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "oligo"
+                }],
+              "neText" : "oligo"
+            }]
+        }, {
+          "sentence" : "Pathway analyses DAVID V.6.8 was used to analyse potentially altered pathways from the list of genes that were differentially methylated between OD and OND samples [71].",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Pathway analyses DAVID V.6.8 was used to analyse potentially altered pathways from the list of genes that were differentially methylated between OD and OND samples [71]."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DAVID (RRID:SCR_001881)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients with hypothyroidism were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients with hypothyroidism were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and methods Subject recruitment and clinical evaluation We included 17 women with a BMI ≥35 kg/m2 that were undergoing bariatric surgery at the Integral Clinics for Obesity and Metabolic Diseases in Tláhuac Hospital, Mexico City.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Subject recruitment and clinical evaluation We included 17 women with a BMI "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "35 kg/m2 that were undergoing bariatric surgery at the Integral Clinics for Obesity and Metabolic Diseases in Tláhuac Hospital, Mexico City."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and methods Subject recruitment and clinical evaluation We included 17 women with a BMI ≥35 kg/m2 that were undergoing bariatric surgery at the Integral Clinics for Obesity and Metabolic Diseases in Tláhuac Hospital, Mexico City.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Subject recruitment and clinical evaluation We included 17 women with a BMI "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "35 kg/m2 that were undergoing bariatric surgery at the Integral Clinics for Obesity and Metabolic Diseases in Tláhuac Hospital, Mexico City."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Similar to the methylation analysis , 22 culture plates were prepared to analyse the gene expression profile at the beginning ( day 0 , n = 11 ) and at the end ( day 18 , n = 11 ) of the differentiation process , corresponding to 11 patients randomly selected ( 6 OD and 5 OND) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Similar to the methylation analysis , 22 culture plates were prepared to analyse the gene expression profile at the beginning ( day 0 , n = 11 ) and at the end ( day 18 , n = 11 ) of the differentiation process , corresponding to 11 patients randomly selected ( 6 OD and 5 OND) ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences in biochemical and anthropometric data between OND and OD groups were tested with the unpaired Wilcox test (Table 1).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences in biochemical and anthropometric data between OND and OD groups were tested with the unpaired Wilcox test (Table 1)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcox test"
+                  }],
+                "neText" : "Wilcox test"
+              }]
+          }, {
+            "sentence" : "The Pearson’s correlation between DNA methylation and gene expression was performed comparing the Beta values of CpGs and the gene expression where the CpGs were located.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Pearson’s correlation between DNA methylation and gene expression was performed comparing the Beta values of CpGs and the gene expression where the CpGs were located."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson’s correlation"
+                  }],
+                "neText" : "Pearson’s correlation"
+              }]
+          }]
+      }]
+  }
+}

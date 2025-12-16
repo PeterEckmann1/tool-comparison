@@ -1,0 +1,203 @@
+{
+  "docIdentifier" : "PMC8204545",
+  "sciscore" : 7,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "MIA-PACA , H449 or MCF-7 positive control cells were grown in T-75 cm2 culture flasks with glucose and sodium pyruvate-free DMEM containing 10 % FBS , 1 % penicillin /streptomycin , 180 mg/dL , of which 50 % of total final glucose was derived from the [ 1,2-13C2]-D-glucose tracer ( Isotec , Miamisburg , OH) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MIA-PACA , H449 or MCF-7 positive control cells were grown in T-75 cm2 culture flasks with glucose and sodium pyruvate-free DMEM containing 10 % FBS , 1 % penicillin /streptomycin , 180 mg/dL , of which 50 % of total final glucose was derived from the [ 1,2-13C2]-D-glucose tracer ( Isotec , Miamisburg , OH) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_A565)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "H449"
+                }],
+              "neText" : "H449"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0031",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MCF-7"
+                }],
+              "neText" : "MCF-7"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Patients were evaluated on approved EU compliant Institutional Review Board ( IRB ) protocol ( Clinical Trials Identifier: HYDPACA1995-2020 for this report; Principal Investigator: Somlyai",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were evaluated on approved EU compliant Institutional Review Board ( IRB ) protocol ( Clinical Trials Identifier: HYDPACA1995-2020 for this report; Principal Investigator: Somlyai"
+              }]
+          }, {
+            "sentence" : "Patients started the DDW treatment at different time points at their consent after the diagnosis , which was recorded , and the median lengths between diagnosis and entering the trial ( DG_to_DDWstart ) was 1.7 months ( SD: 12.2 months) .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients started the DDW treatment at different time points at their consent after the diagnosis , which was recorded , and the median lengths between diagnosis and entering the trial ( DG_to_DDWstart ) was 1.7 months ( SD: 12.2 months) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Regarding the length of DDW treatment , patients who continued taking DDW for at least 91 days were eligible.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Regarding the length of DDW treatment , patients who continued taking DDW for at least 91 days were eligible."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Two of these patients , 1 female and 1 male were operated before entering the study , the other patients were inoperable.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two of these patients , 1 female and 1 male were operated before entering the study , the other patients were inoperable."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Clinical Study Design and Eligibility Criteria A total of 86 ( 36 males and 50 females ) patients with histologically confirmed pancreatic carcinoma were continually enrolled ( DDW group = 56 , control group = 30 ) from March 1995 to January 2020 .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Clinical Study Design and Eligibility Criteria A total of 86 ( 36 males and 50 females ) patients with histologically confirmed pancreatic carcinoma were continually enrolled ( DDW group = 56 , control group = 30 ) from March 1995 to January 2020 ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "All patients underwent conventional treatments with chemotherapeutic agents except one 69-year-old female patient .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients underwent conventional treatments with chemotherapeutic agents except one 69-year-old female patient ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Data download was performed in triplicate manual peak integrations using modified ( background subtracted ) spectra under the overlapping isotopomer peaks of the total ion chromatogram ( TIC ) window displayed by the Chemstation ( Agilent , Palo Alto , CA ) software by spectral chemistry technicians , who were blinded to sample identities , blanks and natural 13C abundance internal standard study samples .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data download was performed in triplicate manual peak integrations using modified ( background subtracted ) spectra under the overlapping isotopomer peaks of the total ion chromatogram ( TIC ) window displayed by the Chemstation ( Agilent , Palo Alto , CA ) software by spectral chemistry technicians , who were blinded to sample identities , blanks and natural 13C abundance internal standard study samples ."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All experiments were conducted in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were conducted in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "All experiments were conducted in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were conducted in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "A 2-tailed independent sample t-test was used to test for significance ( p<0.05 ,  p<0.01 ) between control ( 150 ppm DDW ) and the treated groups ( 100 ppm , 50 ppm and 25 ppm D for DDW responsive metabolic flux surrogates .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A 2-tailed independent sample t-test was used to test for significance ( p<0.05 ,  p<0.01 ) between control ( 150 ppm DDW ) and the treated groups ( 100 ppm , 50 ppm and 25 ppm D for DDW responsive metabolic flux surrogates ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "For correlation analysis , the Pearson method was used.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For correlation analysis , the Pearson method was used."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson method"
+                  }],
+                "neText" : "Pearson method"
+              }]
+          }]
+      }]
+  }
+}

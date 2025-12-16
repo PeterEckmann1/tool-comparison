@@ -1,0 +1,204 @@
+{
+  "docIdentifier" : "PMC8494445",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Dimensionality reduction was performed through a pPCA ( 34 ) , implemented using the Phytools package for R ( 51 )",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Dimensionality reduction was performed through a pPCA ( 34 ) , implemented using the Phytools package for R ( 51 )"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pPCA"
+                }],
+              "neText" : "pPCA"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Dimensionality reduction was performed through a pPCA ( 34 ) , implemented using the Phytools package for R ( 51 )",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Dimensionality reduction was performed through a pPCA ( 34 ) , implemented using the Phytools package for R ( 51 )"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "phytools (RRID:SCR_015502)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Phytools"
+                }],
+              "neText" : "Phytools"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Growth rate and cessation To determine whether the rate at which space is made available in the jaw coupled with the duration of jaw growth determine the timing of molar emergence, pairwise comparisons of MAL growth trajectories were performed between taxa that differ in adult MAL andor molar emergence timing.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Growth rate and cessation To determine whether the rate at which space is made available in the jaw coupled with the duration of jaw growth determine the timing of molar emergence, pairwise comparisons of MAL growth trajectories were performed between taxa that differ in adult MAL andor molar emergence timing."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Resultant molar was compared to zero, which represents the position of the muscle resultant, using one-sided two sample t tests to determine whether molars emerge significantly anterior to the point at which the muscle resultant intersects the TOS.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Resultant molar was compared to zero, which represents the position of the muscle resultant, using one-sided two sample t tests to determine whether molars emerge significantly anterior to the point at which the muscle resultant intersects the TOS."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t tests"
+                  }],
+                "neText" : "t tests"
+              }]
+          }, {
+            "sentence" : "These data were then used in an ordinary least squares regression with age as the predictor variable and MAL as the response variable , and the resulting slopes ( extracted as the variable MAL growth rate ) were compared between sets of taxa using an ANCOVA to determine whether the interaction between species and age is significantly different from zero in other words , if the slopes of the two species are significantly different from each other .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "These data were then used in an ordinary least squares regression with age as the predictor variable and MAL as the response variable , and the resulting slopes ( extracted as the variable MAL growth rate ) were compared between sets of taxa using an ANCOVA to determine whether the interaction between species and age is significantly different from zero in other words , if the slopes of the two species are significantly different from each other ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANCOVA"
+                  }],
+                "neText" : "ANCOVA"
+              }]
+          }]
+      }]
+  }
+}

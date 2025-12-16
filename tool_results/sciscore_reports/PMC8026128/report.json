@@ -1,0 +1,236 @@
+{
+  "docIdentifier" : "PMC8026128",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Thereafter, blocking was performed using 3 bovine serum albumin for 30 min followed by incubation with primary antibodies, NKX2-5 (rabbit anti-NKX2-5 A25974) and TNNT2 (mouse anti-TNNT2 A25969), diluted 1:1000 in the blocking solution for 3 hours at room temperature.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Thereafter, blocking was performed using 3 bovine serum albumin for 30 min followed by incubation with primary antibodies, NKX2-5 (rabbit anti-NKX2-5 A25974) and TNNT2 (mouse anti-TNNT2 A25969), diluted 1:1000 in the blocking solution for 3 hours at room temperature."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-NKX2-5"
+                }],
+              "neText" : "anti-NKX2-5"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TNNT2"
+                }],
+              "neText" : "anti-TNNT2"
+            }]
+        }, {
+          "sentence" : "After washing three times with wash buffer, the cells were incubated for 1 hour at room temperature with secondary antibodies (Alexa Fluor 488 donkey anti-mouse and Alexa Fluor 555 donkey anti-rabbit) diluted 1:250 in blocking solution.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After washing three times with wash buffer, the cells were incubated for 1 hour at room temperature with secondary antibodies (Alexa Fluor 488 donkey anti-mouse and Alexa Fluor 555 donkey anti-rabbit) diluted 1:250 in blocking solution."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "A LabVIEW program handled both the acquisition of the electrophysiological signals and the laser stimulation by controlling with a transistor-transistor logic ( TTL ) signal a mechanical shutter placed on the optical path of the laser .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A LabVIEW program handled both the acquisition of the electrophysiological signals and the laser stimulation by controlling with a transistor-transistor logic ( TTL ) signal a mechanical shutter placed on the optical path of the laser ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LabView  (RRID:SCR_014325)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LabVIEW"
+                }],
+              "neText" : "LabVIEW"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Quantification was performed across four replicates ( for both test and control samples ) and five images per sample.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Quantification was performed across four replicates ( for both test and control samples ) and five images per sample."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "Quantification was performed across four replicates ( for both test and control samples ) and five images per sample.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Quantification was performed across four replicates ( for both test and control samples ) and five images per sample."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "After the synthesis , 100-nm SiO2 film was deposited on the chips using PECVD ( Trion Orion ) at 375degC , 60 W of power , and 900 mtorr of pressure under 75 sccm of SiH4 and 70 sccm of N2O .",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After the synthesis , 100-nm SiO2 film was deposited on the chips using PECVD ( Trion Orion ) at 375degC , 60 W of power , and 900 mtorr of pressure under 75 sccm of SiH4 and 70 sccm of N2O ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis was performed using Students t test ( two-tailed ) ( 35",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis was performed using Students t test ( two-tailed ) ( 35"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }]
+      }]
+  }
+}

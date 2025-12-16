@@ -1,0 +1,223 @@
+{
+  "docIdentifier" : "PMC8724682",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The sections were incubated overnight at 4degC with mouse monoclonal primary antibodies (Table 1) treated with biotinylated anti-mouse secondary antibody++++++++++++++ for 30 minutes at RT and followed by incubation in avidin-biotinylated peroxidase complex for 30 minutes at RT.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The sections were incubated overnight at 4degC with mouse monoclonal primary antibodies (Table 1) treated with biotinylated anti-mouse secondary antibody++++++++++++++ for 30 minutes at RT and followed by incubation in avidin-biotinylated peroxidase complex for 30 minutes at RT."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }, {
+          "sentence" : "TABLE 1 Primary antibodies used for immunohistochemical staining Antibody Dilution Clone Isotype Keratin 17 a 1:50 E-4 IgG1 Keratin 19 a 1:50 A-3 IgG1 Involucrin a 1:20 SY5 IgG1 Vimentin a 1:1000 E-5 IgG1 a Santa Cruz Biotechnology Inc., Santa Cruz, CA.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "TABLE 1 Primary antibodies used for immunohistochemical staining Antibody Dilution Clone Isotype Keratin 17 a 1:50 E-4 IgG1 Keratin 19 a 1:50 A-3 IgG1 Involucrin a 1:20 SY5 IgG1 Vimentin a 1:1000 E-5 IgG1 a Santa Cruz Biotechnology Inc., Santa Cruz, CA."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "E-4 IgG1"
+                }],
+              "neText" : "E-4 IgG1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A-3 IgG1"
+                }],
+              "neText" : "A-3 IgG1"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All donors provided written informed consent, and the investigators were not able to ascertain the identity of the donors.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All donors provided written informed consent, and the investigators were not able to ascertain the identity of the donors."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2.2 2D model 2.2.1 hGF cell culture Primary hGFSS (27 years, Caucasian, female, lot number 313 x 100401) were used.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.2 2D model 2.2.1 hGF cell culture Primary hGFSS (27 years, Caucasian, female, lot number 313 x 100401) were used."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "2.2.2 Treatment with the MIM A blind study was performed using the vehicle and two treatments containing LD BMP2 and BMP4.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.2.2 Treatment with the MIM A blind study was performed using the vehicle and two treatments containing LD BMP2 and BMP4."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The experiment was run in six sample replicates (n = 6) for each group.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The experiment was run in six sample replicates (n = 6) for each group."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The Shapiro-Wilk test was done to assume parametric or non-parametric distribution for the normality tests.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Shapiro-Wilk test was done to assume parametric or non-parametric distribution for the normality tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk test"
+                  }],
+                "neText" : "Shapiro-Wilk test"
+              }]
+          }, {
+            "sentence" : "Differences between groups were assessed, depending on their normal distribution, by the Mann-Whitney U test or the two-way analysis of variance (ANOVA) test, followed by post-hoc pairwise comparisons using the LSD test.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between groups were assessed, depending on their normal distribution, by the Mann-Whitney U test or the two-way analysis of variance (ANOVA) test, followed by post-hoc pairwise comparisons using the LSD test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "LSD test"
+                  }],
+                "neText" : "LSD test"
+              }]
+          }]
+      }]
+  }
+}

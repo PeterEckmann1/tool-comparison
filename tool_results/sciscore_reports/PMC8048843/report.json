@@ -1,0 +1,156 @@
+{
+  "docIdentifier" : "PMC8048843",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Medication was classified using the Anatomical Therapeutic Chemical (ATC) classification system.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Medication was classified using the Anatomical Therapeutic Chemical (ATC) classification system."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ATC"
+                }],
+              "neText" : "ATC"
+            }]
+        }, {
+          "sentence" : "2.6 Statistical analysis The statistical analyses were performed with IBM SPSS Statistics Version 22.0 and R Statistical Software Version 3.6.1.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.6 Statistical analysis The statistical analyses were performed with IBM SPSS Statistics Version 22.0 and R Statistical Software Version 3.6.1."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "R Project for Statistical Computing (RRID:SCR_001905)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "R Statistical"
+                }],
+              "neText" : "R Statistical"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All university medical ethical committees approved this study (reference number NL27783.029.09).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All university medical ethical committees approved this study (reference number NL27783.029.09)."
+              }]
+          }, {
+            "sentence" : "All participants provided written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants provided written informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Further details on the design of the Dutch Diabetes Pearl have been published previously. 22 People were eligible for participation if they were diagnosed with type 2 diabetes and received secondary or tertiary care in one of the academic medical centres of Amsterdam, Utrecht, Nijmegen, Rotterdam, Leiden or Groningen, if they received primary medical care in the area of Hoorn, or if they received primary, secondary or tertiary care in the area of Maastricht.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Further details on the design of the Dutch Diabetes Pearl have been published previously. 22 People were eligible for participation if they were diagnosed with type 2 diabetes and received secondary or tertiary care in one of the academic medical centres of Amsterdam, Utrecht, Nijmegen, Rotterdam, Leiden or Groningen, if they received primary medical care in the area of Hoorn, or if they received primary, secondary or tertiary care in the area of Maastricht."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "We included 6759 people in the current study, after exclusion of 197 participants whose data regarding medication use were unavailable and 57 participants from Maastricht whose line of care was unavailable.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We included 6759 people in the current study, after exclusion of 197 participants whose data regarding medication use were unavailable and 57 participants from Maastricht whose line of care was unavailable."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2.3 Sociodemographic characteristics Age (years), sex (men/women) and line of care (primary care/academic care) were collected from hospital information systems.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.3 Sociodemographic characteristics Age (years), sex (men/women) and line of care (primary care/academic care) were collected from hospital information systems."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

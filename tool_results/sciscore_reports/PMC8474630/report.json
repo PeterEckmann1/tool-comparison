@@ -1,0 +1,204 @@
+{
+  "docIdentifier" : "PMC8474630",
+  "sciscore" : 7,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Analyses and figures were conducted and prepared using R 3.5.3 (Team RDC) and the following packages: nlme, lme4 (Bates et al., 2015), lsmeans (Lenth, 2016), and ggplot2 (Wickham, 2016).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Analyses and figures were conducted and prepared using R 3.5.3 (Team RDC) and the following packages: nlme, lme4 (Bates et al., 2015), lsmeans (Lenth, 2016), and ggplot2 (Wickham, 2016)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ggplot2 (RRID:SCR_014601)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ggplot2"
+                }],
+              "neText" : "ggplot2"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Each participant completed informed consent and received modest compensation.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each participant completed informed consent and received modest compensation."
+              }]
+          }, {
+            "sentence" : "Prior to beginning the study approval was obtained from the Ohio State University Biomedical Institutional Review Board.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Prior to beginning the study approval was obtained from the Ohio State University Biomedical Institutional Review Board."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Two women were excluded due to having only one time point with adiponectin and leptin data, and two women were excluded as outliers for weight change (losses of 49 and 14 pounds), resulting in a final sample size of 80. 2.2 Participants All women were born and raised in the United States.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two women were excluded due to having only one time point with adiponectin and leptin data, and two women were excluded as outliers for weight change (losses of 49 and 14 pounds), resulting in a final sample size of 80. 2.2 Participants All women were born and raised in the United States."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Two women were excluded due to having only one time point with adiponectin and leptin data, and two women were excluded as outliers for weight change (losses of 49 and 14 pounds), resulting in a final sample size of 80. 2.2 Participants All women were born and raised in the United States.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two women were excluded due to having only one time point with adiponectin and leptin data, and two women were excluded as outliers for weight change (losses of 49 and 14 pounds), resulting in a final sample size of 80. 2.2 Participants All women were born and raised in the United States."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2 Methods 2.1 Study design This study included 84 pregnant women who were recruited from the Ohio State University Medical Center (OSUMC) Prenatal Clinic.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Methods 2.1 Study design This study included 84 pregnant women who were recruited from the Ohio State University Medical Center (OSUMC) Prenatal Clinic."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "For models focused on infant birth weight, low birth weights <2500g were excluded from analysis (n  =  5), as these may be indicative of pathological states (such as intrauterine growth restriction), and gestational age at delivery was included as a control variable.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For models focused on infant birth weight, low birth weights <2500g were excluded from analysis (n  =  5), as these may be indicative of pathological states (such as intrauterine growth restriction), and gestational age at delivery was included as a control variable."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The model included main effects for race, BMI group, and study visit, all two-way interactions between BMI group, race, and study visit as well as the three-way interaction between these factors, and a random subject effect to account for correlation among measures from the same subject.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The model included main effects for race, BMI group, and study visit, all two-way interactions between BMI group, race, and study visit as well as the three-way interaction between these factors, and a random subject effect to account for correlation among measures from the same subject."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Total GWG and infant birth weight were determined via medical record review after delivery. 2.3 Adiponectin and leptin assays Serum levels of adiponectin were measured by diluting samples 1:1000 and assaying in duplicate using human adiponectin kits from Meso Scale Discovery (1601 Research Blvd.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Total GWG and infant birth weight were determined via medical record review after delivery. 2.3 Adiponectin and leptin assays Serum levels of adiponectin were measured by diluting samples 1:1000 and assaying in duplicate using human adiponectin kits from Meso Scale Discovery (1601 Research Blvd."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Total GWG and infant birth weight were determined via medical record review after delivery. 2.3 Adiponectin and leptin assays Serum levels of adiponectin were measured by diluting samples 1:1000 and assaying in duplicate using human adiponectin kits from Meso Scale Discovery (1601 Research Blvd.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Total GWG and infant birth weight were determined via medical record review after delivery. 2.3 Adiponectin and leptin assays Serum levels of adiponectin were measured by diluting samples 1:1000 and assaying in duplicate using human adiponectin kits from Meso Scale Discovery (1601 Research Blvd."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "To evaluate demographic similarity between groups, participant characteristics were compared between groups utilizing either a two-tailed student T test for continuous variables with two groups, an ANOVA omnibus for continuous variables with more than two groups (with Tukey HSD post-hoc tests for paired compairsons), or an extended exact Fisher omnibus for percentages with more than two groups (with Fisher exact tests for paired comparisons).",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To evaluate demographic similarity between groups, participant characteristics were compared between groups utilizing either a two-tailed student T test for continuous variables with two groups, an ANOVA omnibus for continuous variables with more than two groups (with Tukey HSD post-hoc tests for paired compairsons), or an extended exact Fisher omnibus for percentages with more than two groups (with Fisher exact tests for paired comparisons)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "T test"
+                  }],
+                "neText" : "T test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey HSD post-hoc tests"
+                  }],
+                "neText" : "Tukey HSD post-hoc tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher exact tests"
+                  }],
+                "neText" : "Fisher exact tests"
+              }]
+          }, {
+            "sentence" : "Analysis of variance tables were subsequently calculated for each model to determine the significance of main effects and interactions.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Analysis of variance tables were subsequently calculated for each model to determine the significance of main effects and interactions."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Analysis of variance"
+                  }],
+                "neText" : "Analysis of variance"
+              }]
+          }]
+      }]
+  }
+}

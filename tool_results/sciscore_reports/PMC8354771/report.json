@@ -1,0 +1,170 @@
+{
+  "docIdentifier" : "PMC8354771",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "8 All data were analyzed once normality was assumed using IBM SPSS Statistics 25 (IBM Corporation, Armonk, NY).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "8 All data were analyzed once normality was assumed using IBM SPSS Statistics 25 (IBM Corporation, Armonk, NY)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Prior to testing, each participant provided informed consent which was approved and performed in accordance with the ethical standards of the Reynolda Campus Institutional Review Board.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Prior to testing, each participant provided informed consent which was approved and performed in accordance with the ethical standards of the Reynolda Campus Institutional Review Board."
+              }]
+          }, {
+            "sentence" : "Prior to testing, each participant provided informed consent which was approved and performed in accordance with the ethical standards of the Reynolda Campus Institutional Review Board.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Prior to testing, each participant provided informed consent which was approved and performed in accordance with the ethical standards of the Reynolda Campus Institutional Review Board."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Those that did not meet these inclusion criteria were excluded from the study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Those that did not meet these inclusion criteria were excluded from the study."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "All participants performed the SLHD, SLVJ, and the Keiser Air420 leg press in random order as determined by a random sequence generator.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants performed the SLHD, SLVJ, and the Keiser Air420 leg press in random order as determined by a random sequence generator."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Repeated measures ANOVA, with an alpha level of 0.05, was used to quantify differences between dependent means.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Repeated measures ANOVA, with an alpha level of 0.05, was used to quantify differences between dependent means."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Pearson Product-Moment correlation coefficients were calculated for each testing pair and on each leg (dominant and nondominant scores for the correlation between the SLHD, SLVJ and the Keiser).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pearson Product-Moment correlation coefficients were calculated for each testing pair and on each leg (dominant and nondominant scores for the correlation between the SLHD, SLVJ and the Keiser)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson Product-Moment correlation"
+                  }],
+                "neText" : "Pearson Product-Moment correlation"
+              }]
+          }]
+      }]
+  }
+}

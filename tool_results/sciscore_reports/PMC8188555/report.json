@@ -1,0 +1,187 @@
+{
+  "docIdentifier" : "PMC8188555",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "We synthesized the target gene through DNA synthesis (Integrated DNA Technologies, Inc., USA) whose codon was optimized for E. coli, and introduced Nde I and Not I restriction sites to use the enzymes (New England BioLabs, USA) to clone the DNA into pKA001 (placUV promoter of pMS 107) expression vector.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We synthesized the target gene through DNA synthesis (Integrated DNA Technologies, Inc., USA) whose codon was optimized for E. coli, and introduced Nde I and Not I restriction sites to use the enzymes (New England BioLabs, USA) to clone the DNA into pKA001 (placUV promoter of pMS 107) expression vector."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pKA001"
+                }],
+              "neText" : "pKA001"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "This was repeated three times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This was repeated three times."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "This was repeated three times.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This was repeated three times."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Q9F7P4.1 thermal rhodopsin National Center for Biotechnology Information GenBank accession no.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Q9F7P4.1 thermal rhodopsin National Center for Biotechnology Information GenBank accession no."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Q9F7P4.1"
+                  }],
+                "neText" : "Q9F7P4.1"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "WP_014629850.1 Oligonucleotides Primer: Tara76- Forward: GCACGACTTCTTCAAGTCCGCCAT GCC This paper NA Primer: Tara76- Reverse: AGGGCGGCCGCCTAGTGATGATGG TGGTGATGAGCAGTTGA This paper NA Software and Algorithms Origin.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "WP_014629850.1 Oligonucleotides Primer: Tara76- Forward: GCACGACTTCTTCAAGTCCGCCAT GCC This paper NA Primer: Tara76- Reverse: AGGGCGGCCGCCTAGTGATGATGG TGGTGATGAGCAGTTGA This paper NA Software and Algorithms Origin."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCACGACTTCTTCAAGTCCGCCAT GCC"
+                  }],
+                "neText" : "GCACGACTTCTTCAAGTCCGCCAT GCC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AGGGCGGCCGCCTAGTGATGATGG TGGTGATGAGCAGTTGA"
+                  }],
+                "neText" : "AGGGCGGCCGCCTAGTGATGATGG TGGTGATGAGCAGTTGA"
+              }]
+          }]
+      }]
+  }
+}

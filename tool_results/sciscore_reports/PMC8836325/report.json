@@ -1,0 +1,152 @@
+{
+  "docIdentifier" : "PMC8836325",
+  "sciscore" : 2,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "In particular , we considered a radius of 25 m around nest exact location each year ( to account for GPS nominal error ) and a threshold of 10 min of time difference to exclude excursions outside this radius ( Bracis et al. 2018) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In particular , we considered a radius of 25 m around nest exact location each year ( to account for GPS nominal error ) and a threshold of 10 min of time difference to exclude excursions outside this radius ( Bracis et al. 2018) ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The Bonellis eagle is a dimorphic bird of prey with females being slightly larger than males.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Bonellis eagle is a dimorphic bird of prey with females being slightly larger than males."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Further details on description of the study area are available in Lopez-Lopez et al. (2007).",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Further details on description of the study area are available in Lopez-Lopez et al. (2007)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "To account for the effect of multiple comparisons, we computed corrected P-values using the Benjamini-Hochberg multiple comparisons procedure for controlling the false discovery rate (Benjamini and Hochberg 1995).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To account for the effect of multiple comparisons, we computed corrected P-values using the Benjamini-Hochberg multiple comparisons procedure for controlling the false discovery rate (Benjamini and Hochberg 1995)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini and Hochberg"
+                  }],
+                "neText" : "Benjamini and Hochberg"
+              }]
+          }]
+      }]
+  }
+}

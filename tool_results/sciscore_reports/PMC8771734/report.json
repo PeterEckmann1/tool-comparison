@@ -1,0 +1,149 @@
+{
+  "docIdentifier" : "PMC8771734",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The ActiGraph accelerometery software generated tri-axial activity data, which we then summarized via minute-level activity counts.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The ActiGraph accelerometery software generated tri-axial activity data, which we then summarized via minute-level activity counts."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ActiGraph Activity Monitor Devices (RRID:SCR_008399)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ActiGraph"
+                }],
+              "neText" : "ActiGraph"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All participants gave written informed consent prior to participation, and the Institutional Review Boards at Johns Hopkins Medical Institutes and Kennedy Krieger Institute approved all procedures.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants gave written informed consent prior to participation, and the Institutional Review Boards at Johns Hopkins Medical Institutes and Kennedy Krieger Institute approved all procedures."
+              }]
+          }, {
+            "sentence" : "All participants gave written informed consent prior to participation, and the Institutional Review Boards at Johns Hopkins Medical Institutes and Kennedy Krieger Institute approved all procedures.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants gave written informed consent prior to participation, and the Institutional Review Boards at Johns Hopkins Medical Institutes and Kennedy Krieger Institute approved all procedures."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Participants were excluded from the study if they were not medically stable, had other neurological deficits, cancer, or other diagnoses that prevented them from participating in the study tests, or had plans that would significantly alter their activity during the study ( time off work, vacation, etc.).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants were excluded from the study if they were not medically stable, had other neurological deficits, cancer, or other diagnoses that prevented them from participating in the study tests, or had plans that would significantly alter their activity during the study ( time off work, vacation, etc.)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "20,21 Timed 25 Foot Walk (T25FW): The average of two trials, reported in seconds, is used in the analysis. 22,23 Timed Up and Go (TUG): The second trial, reported in seconds, is used in the analysis. 24,25,26 Accelerometry Immediately following in-person informed consent the clinical measures were completed and the accelerometer was placed on the participant.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "20,21 Timed 25 Foot Walk (T25FW): The average of two trials, reported in seconds, is used in the analysis. 22,23 Timed Up and Go (TUG): The second trial, reported in seconds, is used in the analysis. 24,25,26 Accelerometry Immediately following in-person informed consent the clinical measures were completed and the accelerometer was placed on the participant."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "24,25,26"
+                  }],
+                "neText" : "24,25,26"
+              }]
+          }]
+      }]
+  }
+}

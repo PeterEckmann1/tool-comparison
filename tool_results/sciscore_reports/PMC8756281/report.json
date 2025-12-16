@@ -1,0 +1,181 @@
+{
+  "docIdentifier" : "PMC8756281",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "16 Data analysis The data collected was analysed using IBM SPSS Statistics for Windows, V.27.0 (IBM Corp).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "16 Data analysis The data collected was analysed using IBM SPSS Statistics for Windows, V.27.0 (IBM Corp)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "After explaining the researchs aims, methodology and expected results, the students were invited to participate voluntarily in the study and they gave their consent, filling out the form themselves.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After explaining the researchs aims, methodology and expected results, the students were invited to participate voluntarily in the study and they gave their consent, filling out the form themselves."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The exclusion criterion was not answering more than one item of the questionnaire.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The exclusion criterion was not answering more than one item of the questionnaire."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Fisher test was used when an expected value was less than 5.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fisher test was used when an expected value was less than 5."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher test"
+                  }],
+                "neText" : "Fisher test"
+              }]
+          }, {
+            "sentence" : "Taking into account the possible effect of sex on the relation between academic year and the score of the short version of the Spanish HLS-EU-Q, stratification by sex was accomplished during the analysis, the OR was calculated with their respective 95 CI, and the OR was corrected with the Mantel-Haenszel test (ORM-H).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Taking into account the possible effect of sex on the relation between academic year and the score of the short version of the Spanish HLS-EU-Q, stratification by sex was accomplished during the analysis, the OR was calculated with their respective 95 CI, and the OR was corrected with the Mantel-Haenszel test (ORM-H)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mantel-Haenszel test"
+                  }],
+                "neText" : "Mantel-Haenszel test"
+              }]
+          }, {
+            "sentence" : "The Hosmer-Lemeshow test was used to assess the goodness of fit for the model.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Hosmer-Lemeshow test was used to assess the goodness of fit for the model."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Hosmer-Lemeshow test"
+                  }],
+                "neText" : "Hosmer-Lemeshow test"
+              }]
+          }]
+      }]
+  }
+}

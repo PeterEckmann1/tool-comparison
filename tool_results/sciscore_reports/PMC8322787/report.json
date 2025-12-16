@@ -1,0 +1,225 @@
+{
+  "docIdentifier" : "PMC8322787",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "A 3-dimensional electroanatomic mapping ( EAM ) system ( EnSite Velocity(tm) , since 2018 PrecisionTM Abbott , St Paul , MN ) was used for catheter positioning , mapping , and ablation in all procedures .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A 3-dimensional electroanatomic mapping ( EAM ) system ( EnSite Velocity(tm) , since 2018 PrecisionTM Abbott , St Paul , MN ) was used for catheter positioning , mapping , and ablation in all procedures ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Abbott (RRID:SCR_010477)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Abbott"
+                }],
+              "neText" : "Abbott"
+            }]
+        }, {
+          "sentence" : "m) (Medtronic, Minneapolis, MN) and Therapy(tm) (large or X-large curve Abbott) were used for temperature-controlled ablation (50-60 W, 50-60degC) in 56 (61) and 36 patients (39), respectively.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "m) (Medtronic, Minneapolis, MN) and Therapy(tm) (large or X-large curve Abbott) were used for temperature-controlled ablation (50-60 W, 50-60degC) in 56 (61) and 36 patients (39), respectively."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Medtronic (RRID:SCR_003988)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Medtronic"
+                }],
+              "neText" : "Medtronic"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All patients provided informed consent for the intervention and data documentation.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients provided informed consent for the intervention and data documentation."
+              }]
+          }, {
+            "sentence" : "The study was performed according to the requirements for obtaining the medical degree (Dr med.), is approved by the responsible ethics committee, adhered to the Declaration of Helsinki, and is registered at the German Registry for Clinical Trials (DRKS00020533).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was performed according to the requirements for obtaining the medical degree (Dr med.), is approved by the responsible ethics committee, adhered to the Declaration of Helsinki, and is registered at the German Registry for Clinical Trials (DRKS00020533)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients with implanted cardiac devices (n = 21), previous CTI ablation (n = 18), nonconvertible atrial fibrillation (n = 1), concomitant pulmonary vein isolation (n = 43), and a different catheter setting (n = 33) were excluded from this analysis.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients with implanted cardiac devices (n = 21), previous CTI ablation (n = 18), nonconvertible atrial fibrillation (n = 1), concomitant pulmonary vein isolation (n = 43), and a different catheter setting (n = 33) were excluded from this analysis."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Patients with implanted cardiac devices (n = 21), previous CTI ablation (n = 18), nonconvertible atrial fibrillation (n = 1), concomitant pulmonary vein isolation (n = 43), and a different catheter setting (n = 33) were excluded from this analysis.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients with implanted cardiac devices (n = 21), previous CTI ablation (n = 18), nonconvertible atrial fibrillation (n = 1), concomitant pulmonary vein isolation (n = 43), and a different catheter setting (n = 33) were excluded from this analysis."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Statistical analysis A minimum sample size of 59 patients per group was required to detect a 35 difference in cumulative ablation duration between both ablation strategies (main hypothesis) with a statistical power of 90 at a 2-sided 5 significance level, including an addition of 15 owing to planned use of a nonparametric test.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis A minimum sample size of 59 patients per group was required to detect a 35 difference in cumulative ablation duration between both ablation strategies (main hypothesis) with a statistical power of 90 at a 2-sided 5 significance level, including an addition of 15 owing to planned use of a nonparametric test."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Continuous variables were compared by unpaired t test or Mann-Whitney U test for normally and non-normally distributed data, respectively.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Continuous variables were compared by unpaired t test or Mann-Whitney U test for normally and non-normally distributed data, respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }, {
+            "sentence" : "The kh2 test or Fisher exact test was used for nominal variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The kh2 test or Fisher exact test was used for nominal variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "kh2 test"
+                  }],
+                "neText" : "kh2 test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher exact test"
+                  }],
+                "neText" : "Fisher exact test"
+              }]
+          }, {
+            "sentence" : "Correlation of continuous variables was assessed by Pearson correlation coefficient.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Correlation of continuous variables was assessed by Pearson correlation coefficient."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }]
+      }]
+  }
+}

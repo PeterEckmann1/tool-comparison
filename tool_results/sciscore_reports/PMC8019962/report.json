@@ -1,0 +1,287 @@
+{
+  "docIdentifier" : "PMC8019962",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "After blocking with 5 skim milk in tris buffered saline with Tween 20 for 1 hour at ambient, the membranes underwent successive incubations with rabbit primary antibodies against IL-1R, IL-6R, and TNFR1 (1:500 Neuromics, Edina, MN or Abcam), and horseradish peroxidase-conjugated anti-rabbit immunoglobulin G (1:250).",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After blocking with 5 skim milk in tris buffered saline with Tween 20 for 1 hour at ambient, the membranes underwent successive incubations with rabbit primary antibodies against IL-1R, IL-6R, and TNFR1 (1:500 Neuromics, Edina, MN or Abcam), and horseradish peroxidase-conjugated anti-rabbit immunoglobulin G (1:250)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IL-1R"
+                }],
+              "neText" : "IL-1R"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IL-6R"
+                }],
+              "neText" : "IL-6R"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TNFR1"
+                }],
+              "neText" : "TNFR1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit immunoglobulin G"
+                }],
+              "neText" : "anti-rabbit immunoglobulin G"
+            }]
+        }, {
+          "sentence" : "In a similar fashion, p-PI3K, p-Akt, and p-mTOR amounts as well as the levels of their non-phosphorylated forms were determined by immunoblot, with primary antibodies from Neuromics or Abcam. 7.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In a similar fashion, p-PI3K, p-Akt, and p-mTOR amounts as well as the levels of their non-phosphorylated forms were determined by immunoblot, with primary antibodies from Neuromics or Abcam. 7."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p-PI3K,"
+                }],
+              "neText" : "p-PI3K,"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p-PI3K"
+                }],
+              "neText" : "p-PI3K"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p-Akt"
+                }],
+              "neText" : "p-Akt"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Animals Specific-pathogen-free male Sprague-Dawley rats (200-250 g) were provided by Shanghai SLAC Laboratory Animal Center, Co. Ltd. (Shanghai, China).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Animals Specific-pathogen-free male Sprague-Dawley rats (200-250 g) were provided by Shanghai SLAC Laboratory Animal Center, Co. Ltd. (Shanghai, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_70508",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sprague-Dawley"
+                }],
+              "neText" : "Sprague-Dawley"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Autoradiography was employed for detection and the NIH Scion image software (NIH, Bethesda, MA) was utilized for quantifying immunoreactive bands by densitometry.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Autoradiography was employed for detection and the NIH Scion image software (NIH, Bethesda, MA) was utilized for quantifying immunoreactive bands by densitometry."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Scion image"
+                }],
+              "neText" : "Scion image"
+            }]
+        }, {
+          "sentence" : "Statistical analyses GraphPad Prism 8 (GraphPad Software, San Diego, CA) was employed for data analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses GraphPad Prism 8 (GraphPad Software, San Diego, CA) was employed for data analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The animal protocols followed the guidelines of the International Association of the Study of Pain (in accordance with the UK Animal Act) and had approval from the Ethics Committee of Shaoxing Peoples Hospital (Shaoxing Hospital, Zhejiang University School of Medicine) (approval number: 2020-79).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The animal protocols followed the guidelines of the International Association of the Study of Pain (in accordance with the UK Animal Act) and had approval from the Ethics Committee of Shaoxing Peoples Hospital (Shaoxing Hospital, Zhejiang University School of Medicine) (approval number: 2020-79)."
+              }]
+          }, {
+            "sentence" : "Central cannulation and microinjection Rats underwent anesthesia by sodium pentobarbital injection (45 mgkg, i.p.) and fixation in a stereotaxic apparatus for central cannulation and microinjection 20.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Central cannulation and microinjection Rats underwent anesthesia by sodium pentobarbital injection (45 mgkg, i.p.) and fixation in a stereotaxic apparatus for central cannulation and microinjection 20."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Animals Specific-pathogen-free male Sprague-Dawley rats (200-250 g) were provided by Shanghai SLAC Laboratory Animal Center, Co. Ltd. (Shanghai, China).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals Specific-pathogen-free male Sprague-Dawley rats (200-250 g) were provided by Shanghai SLAC Laboratory Animal Center, Co. Ltd. (Shanghai, China)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Animals Specific-pathogen-free male Sprague-Dawley rats (200-250 g) were provided by Shanghai SLAC Laboratory Animal Center, Co. Ltd. (Shanghai, China).",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals Specific-pathogen-free male Sprague-Dawley rats (200-250 g) were provided by Shanghai SLAC Laboratory Animal Center, Co. Ltd. (Shanghai, China)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "One- or two-way analysis of variance and post-hoc Bonferroni, Tukeys, or Dunnetts tests were performed for comparisons.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One- or two-way analysis of variance and post-hoc Bonferroni, Tukeys, or Dunnetts tests were performed for comparisons."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnetts tests"
+                  }],
+                "neText" : "Dunnetts tests"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "docIdentifier" : "PMC8283774",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "These PM lysates ( 5000 mg protein ) were incubated with 150 mL Protein A Dynabeads ( ThermoFisher , 10001D ) cross-linked to 15 mg of N-terminal a1 antibody ( Abcam , ab33299 ) overnight at 4*C .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These PM lysates ( 5000 mg protein ) were incubated with 150 mL Protein A Dynabeads ( ThermoFisher , 10001D ) cross-linked to 15 mg of N-terminal a1 antibody ( Abcam , ab33299 ) overnight at 4*C ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "a1"
+                }],
+              "neText" : "a1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Graphs were plotted as mean +- SEM. Immunocytochemistry ( ICC ) DIV21 primary hippocampal WT and Gabra1-2 cells were washed once in PBS and fixed for 20 minutes in a solution of 4 ( wv ) sucrose and 4 ( vv ) paraformaldehyde in PBS.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Graphs were plotted as mean +- SEM. Immunocytochemistry ( ICC ) DIV21 primary hippocampal WT and Gabra1-2 cells were washed once in PBS and fixed for 20 minutes in a solution of 4 ( wv ) sucrose and 4 ( vv ) paraformaldehyde in PBS."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gabra1-2"
+                }],
+              "neText" : "Gabra1-2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "After founder Gabra1-2 mice were received from Genoway , mice were backcrossed onto the C57Bl6J line for at least 10 generations prior to experiments .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After founder Gabra1-2 mice were received from Genoway , mice were backcrossed onto the C57Bl6J line for at least 10 generations prior to experiments ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57Bl6J"
+                }],
+              "neText" : "C57Bl6J"
+            }]
+        }, {
+          "sentence" : "Western blotting 8-12-week-old male WT and Gabra1-2 mice were anaesthetized with isofluorane and their brains were rapidly removed.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Western blotting 8-12-week-old male WT and Gabra1-2 mice were anaesthetized with isofluorane and their brains were rapidly removed."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gabra1-2"
+                }],
+              "neText" : "Gabra1-2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Images were acquired with a Nikon A1 confocal scanning laser microscope coupled with NIS Elements software v.4.20 ( Nikon) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images were acquired with a Nikon A1 confocal scanning laser microscope coupled with NIS Elements software v.4.20 ( Nikon) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "NIS-Elements (RRID:SCR_014329)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NIS Elements"
+                }],
+              "neText" : "NIS Elements"
+            }]
+        }, {
+          "sentence" : "Immunostaining density ( the number of puncta per 10 mm of neuritesoma ) and area were quantified using MetaMorph software ( Molecular Devices) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Immunostaining density ( the number of puncta per 10 mm of neuritesoma ) and area were quantified using MetaMorph software ( Molecular Devices) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MetaMorph Microscopy Automation and Image Analysis Software (RRID:SCR_002368)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MetaMorph"
+                }],
+              "neText" : "MetaMorph"
+            }]
+        }, {
+          "sentence" : "Co-localization analysis ( calculation of the Pearsons correlation coefficient ) between single-channel images was achieved with the Coloc2 macro on ImageJ v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Co-localization analysis ( calculation of the Pearsons correlation coefficient ) between single-channel images was achieved with the Coloc2 macro on ImageJ v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Results were analyzed on GraphPad Prism v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Results were analyzed on GraphPad Prism v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }, {
+          "sentence" : "Baseline analysis Power analysis was performed using LabChart software v.7.3.8",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Baseline analysis Power analysis was performed using LabChart software v.7.3.8"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LabChart"
+                }],
+              "neText" : "LabChart"
+            }]
+        }, {
+          "sentence" : "Seizure analysis The latency to the first seizure event and the latency to the onset of status epilepticus ( SE ) was measured with pClamp software v.10.3 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Seizure analysis The latency to the first seizure event and the latency to the onset of status epilepticus ( SE ) was measured with pClamp software v.10.3 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "pClamp Software, RRID:SCR_011323",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pClamp"
+                }],
+              "neText" : "pClamp"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "EXPERIMENTAL MODEL AND SUBJECT DETAILS Animal Studies Animals were cared for in accordance with the NIH Guide for the Care and Use of Laboratory Animals , and all protocols were approved by the Institutional Animal Care and Use Committee ( IACUC ) of Tufts University School of Medicine.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "EXPERIMENTAL MODEL AND SUBJECT DETAILS Animal Studies Animals were cared for in accordance with the NIH Guide for the Care and Use of Laboratory Animals , and all protocols were approved by the Institutional Animal Care and Use Committee ( IACUC ) of Tufts University School of Medicine."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Two of the screws served as EEG leads in the frontal cortex , 1 as a reference ground , and 1 as an animal ground.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two of the screws served as EEG leads in the frontal cortex , 1 as a reference ground , and 1 as an animal ground."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "All experiments save cell culture immunocytochemistry ( ICC ) and co-immunoprecipitation employed only male mice , aged 8-12 weeks .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments save cell culture immunocytochemistry ( ICC ) and co-immunoprecipitation employed only male mice , aged 8-12 weeks ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "All experiments save cell culture immunocytochemistry ( ICC ) and co-immunoprecipitation employed only male mice , aged 8-12 weeks .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments save cell culture immunocytochemistry ( ICC ) and co-immunoprecipitation employed only male mice , aged 8-12 weeks ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Images were taken at a 512 x 512 resolution ( 17 nmpixel ) with a 60x ( oil , numerical aperture: 1.00 ) objective , with the imager blind to genotype.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Images were taken at a 512 x 512 resolution ( 17 nmpixel ) with a 60x ( oil , numerical aperture: 1.00 ) objective , with the imager blind to genotype."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Baseline analysis Power analysis was performed using LabChart software v.7.3.8",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Baseline analysis Power analysis was performed using LabChart software v.7.3.8"
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Cells were washed with PBS 10 times and mounted on glass slides ( Electron Microscopy Sciences , 71864 ) using ProLong Gold Antifade mounting media ( ThermoFisher , P36930) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cells were washed with PBS 10 times and mounted on glass slides ( Electron Microscopy Sciences , 71864 ) using ProLong Gold Antifade mounting media ( ThermoFisher , P36930) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "P36930"
+                  }],
+                "neText" : "P36930"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Unpaired t tests with Welchs correction were performed on GraphPad Prism v.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Unpaired t tests with Welchs correction were performed on GraphPad Prism v."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t tests"
+                  }],
+                "neText" : "t tests"
+              }]
+          }, {
+            "sentence" : "Co-localization analysis ( calculation of the Pearsons correlation coefficient ) between single-channel images was achieved with the Coloc2 macro on ImageJ v.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Co-localization analysis ( calculation of the Pearsons correlation coefficient ) between single-channel images was achieved with the Coloc2 macro on ImageJ v."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearsons correlation"
+                  }],
+                "neText" : "Pearsons correlation"
+              }]
+          }, {
+            "sentence" : "Statistical analysis for mean mIPSC kinetics was performed using a Mann-Whitney test , where p < 0.05 is considered significant .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis for mean mIPSC kinetics was performed using a Mann-Whitney test , where p < 0.05 is considered significant ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney test"
+                  }],
+                "neText" : "Mann-Whitney test"
+              }]
+          }, {
+            "sentence" : "Tonic current was analyzed with a Students t test , where p < 0.05 is considered significant .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Tonic current was analyzed with a Students t test , where p < 0.05 is considered significant ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t test"
+                  }],
+                "neText" : "Students t test"
+              }]
+          }, {
+            "sentence" : "All results were analyzed on GraphPad Prism v.7.10 with one-way analysis of variance ( ANOVA) , with posthoc testing comparing the means between WT and Gabra1-2 hetero- and homozygotes .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All results were analyzed on GraphPad Prism v.7.10 with one-way analysis of variance ( ANOVA) , with posthoc testing comparing the means between WT and Gabra1-2 hetero- and homozygotes ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Mortality data was plotted as a survival curve and analyzed with a log-rank ( Mantel-Cox ) test .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mortality data was plotted as a survival curve and analyzed with a log-rank ( Mantel-Cox ) test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank"
+                  }],
+                "neText" : "log-rank"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mantel-Cox ) test"
+                  }],
+                "neText" : "Mantel-Cox ) test"
+              }]
+          }]
+      }]
+  }
+}

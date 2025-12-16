@@ -1,0 +1,1110 @@
+{
+  "docIdentifier" : "PMC8184506",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "STAR★METHODS Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies FITC anti-mouse CD3ε (clone: 145-2C11) BioLegend Cat#100306; RRID:AB_312671 Pacific BlueTM anti-mouse CD4 (clone: RM4-4) BioLegend Cat#116008; RRID:AB_11149680 PE-Cy7TM or PerCP anti-mouse CD8a (clone: 53-6.7) BD Bioscience Cat#552877; RRID:AB_394506 or Cat#553036; RRID:AB_394573 Pacific BlueTM anti-mouse CD45 (clone: 30-F11) BioLegend Cat#103126; RRID:AB_493535 PE anti-human/mouse CD11b (clone: M1/70) BioLegend Cat#101208;",
+          "rowSpan" : 9,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STAR★METHODS Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies FITC anti-mouse CD3"
+            }, {
+              "f" : "symbol",
+              "c" : "ε"
+            }, {
+              "f" : "default",
+              "c" : " (clone: 145-2C11) BioLegend Cat#100306; RRID:AB_312671 Pacific BlueTM anti-mouse CD4 (clone: RM4-4) BioLegend Cat#116008; RRID:AB_11149680 PE-Cy7TM or PerCP anti-mouse CD8a (clone: 53-6.7) BD Bioscience Cat#552877; RRID:AB_394506 or Cat#553036; RRID:AB_394573 Pacific BlueTM anti-mouse CD45 (clone: 30-F11) BioLegend Cat#103126; RRID:AB_493535 PE anti-human/mouse CD11b (clone: M1/70) BioLegend Cat#101208;"
+            }],
+          "mentions" : [{
+              "source" : "BioLegend",
+              "rrid" : "(BioLegend Cat# 100306, RRID:AB_312671)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse CD3"
+                }, {
+                  "f" : "symbol",
+                  "c" : "ε"
+                }],
+              "neText" : "anti-mouse CD3ε"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(C. Birchmeier - Max Delbruck Center for Molecular Medicine, Berlin, Germany Cat# Guinea pig anti-mouse Lbx1 polyclonal antibody, RRID:AB_2532144)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse CD4"
+                }],
+              "neText" : "anti-mouse CD4"
+            }, {
+              "source" : "BioLegend",
+              "rrid" : "(BioLegend Cat# 116008, RRID:AB_11149680)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Pacific BlueTM anti-mouse CD4"
+                }],
+              "neText" : "Pacific BlueTM anti-mouse CD4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse CD8a"
+                }],
+              "neText" : "anti-mouse CD8a"
+            }, {
+              "source" : "BD Biosciences",
+              "rrid" : "(BD Biosciences Cat# 552877, RRID:AB_394506)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD8a"
+                }],
+              "neText" : "CD8a"
+            }, {
+              "source" : "",
+              "rrid" : "(BD Biosciences Cat# 553036, RRID:AB_394573)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse CD45"
+                }],
+              "neText" : "anti-mouse CD45"
+            }, {
+              "source" : "BioLegend",
+              "rrid" : "(BioLegend Cat# 103126, RRID:AB_493535)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Pacific BlueTM anti-mouse CD45"
+                }],
+              "neText" : "Pacific BlueTM anti-mouse CD45"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human/mouse CD11b"
+                }],
+              "neText" : "anti-human/mouse CD11b"
+            }]
+        }, {
+          "sentence" : "RRID:AB_312791 PE/Cyanine7",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RRID:AB_312791 PE/Cyanine7"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(BioLegend Cat# 101208, RRID:AB_312791)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "RRID:AB_493568",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RRID:AB_493568"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(BioLegend Cat# 117318, RRID:AB_493568)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "RRID:AB_394958",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RRID:AB_394958"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(BD Biosciences Cat# 553623, RRID:AB_394958)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "PerCP anti-mouse Ly6C ( clone: HK1.4 ) BioLegend Cat#128028; RRID:AB_10897805",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "PerCP anti-mouse Ly6C ( clone: HK1.4 ) BioLegend Cat#128028; RRID:AB_10897805"
+            }],
+          "mentions" : [{
+              "source" : "BioLegend",
+              "rrid" : "(BioLegend Cat# 128028, RRID:AB_10897805)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PerCP anti-mouse Ly6C"
+                }],
+              "neText" : "PerCP anti-mouse Ly6C"
+            }]
+        }, {
+          "sentence" : "RRID:AB_2561340 APC anti-mouse IFN-γ ( clone: XM 61.2 ) BioLegend",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RRID:AB_2561340 APC anti-mouse IFN-"
+            }, {
+              "f" : "symbol",
+              "c" : "γ"
+            }, {
+              "f" : "default",
+              "c" : " ( clone: XM 61.2 ) BioLegend"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(BioLegend Cat# 127626, RRID:AB_2561340)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "Cat#505810; RRID:AB_315404 APC anti-human/mouse IL-1β ( pro-form ) ( clone: NJTEN3 ) eBioscience Cat#17-7114-80;",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cat#505810; RRID:AB_315404 APC anti-human/mouse IL-1"
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : " ( pro-form ) ( clone: NJTEN3 ) eBioscience Cat#17-7114-80;"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(BioLegend Cat# 505810, RRID:AB_315404)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "RRID:AB_10670739",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RRID:AB_10670739"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(Thermo Fisher Scientific Cat# 17-7114-80, RRID:AB_10670739)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "PE anti-mouse Perforin ( clone: eBioOMAK-D ) eBioscience Cat#12-9392-82; RRID:AB_466242",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "PE anti-mouse Perforin ( clone: eBioOMAK-D ) eBioscience Cat#12-9392-82; RRID:AB_466242"
+            }],
+          "mentions" : [{
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# 12-9392-80, RRID:AB_466242)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Perforin clone: eBioOMAK-D eBioscience"
+                }],
+              "neText" : "Perforin clone: eBioOMAK-D eBioscience"
+            }]
+        }, {
+          "sentence" : "RRID:AB_2294995",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RRID:AB_2294995"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(BioLegend Cat# 515405, RRID:AB_2294995)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "RRID:AB_2565310 Rabbit polyclonal to IL-1β Abcam Cat#ab9722; RRID:AB_308765",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RRID:AB_2565310 Rabbit polyclonal to IL-1"
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : " Abcam Cat#ab9722; RRID:AB_308765"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(BioLegend Cat# 149704, RRID:AB_2565310)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab9722, RRID:AB_308765)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IL-1"
+                }, {
+                  "f" : "symbol",
+                  "c" : "β"
+                }],
+              "neText" : "IL-1β"
+            }]
+        }, {
+          "sentence" : "RRID:AB_2068887",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RRID:AB_2068887"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(Santa Cruz Biotechnology Cat# sc-1597, RRID:AB_2068887)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "RRID:AB_631831",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RRID:AB_631831"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(Santa Cruz Biotechnology Cat# sc-650, RRID:AB_631831)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "RRID:AB_477105",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RRID:AB_477105"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(Sigma-Aldrich Cat# I3767, RRID:AB_477105)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "RRID:AB_10891784",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RRID:AB_10891784"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(Cell Signaling Technology Cat# 8592, RRID:AB_10891784)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "Rabbit polyclonal anti-beta Actin Abcam Cat#ab8227; RRID:AB_2305186 InVivoMAb",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Rabbit polyclonal anti-beta Actin Abcam Cat#ab8227; RRID:AB_2305186 InVivoMAb"
+            }],
+          "mentions" : [{
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab8227, RRID:AB_2305186)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-beta Actin"
+                }],
+              "neText" : "anti-beta Actin"
+            }]
+        }, {
+          "sentence" : "IL-1β ( clone:B122 ) BioXCell Cat#BE0246; RRID:AB_2687727",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "IL-1"
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : " ( clone:B122 ) BioXCell Cat#BE0246; RRID:AB_2687727"
+            }],
+          "mentions" : [{
+              "source" : "Bio X Cell",
+              "rrid" : "(Bio X Cell Cat# BE0246, RRID:AB_2687727)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IL-1"
+                }, {
+                  "f" : "symbol",
+                  "c" : "β"
+                }],
+              "neText" : "IL-1β"
+            }]
+        }, {
+          "sentence" : "Immunohistochemistry Lung sections ( 5μm ) obtained at 7 dpi were incubated with primary antibodies to IL-1β ( 1:250; abcam 9722) , caspase-1 ( 1:250; sc-1597 ) and nos2 ( 1:400; sc-650 ) diluted in PBS 0.01 % saponin .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Immunohistochemistry Lung sections ( 5"
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "m ) obtained at 7 dpi were incubated with primary antibodies to IL-1"
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : " ( 1:250; abcam 9722) , caspase-1 ( 1:250; sc-1597 ) and nos2 ( 1:400; sc-650 ) diluted in PBS 0.01 % saponin ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "caspase-1"
+                }],
+              "neText" : "caspase-1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "nos2"
+                }],
+              "neText" : "nos2"
+            }]
+        }, {
+          "sentence" : "The following antibodies were used: CD3 ( 1:100; clone: 145-2C11); CD4 ( 1:100; clone: RM4-4); CD8 ( 1:100; clone: 53-6.7); CD45 ( 1:100; clone: 30-F11); CD11b ( 1:100; clone: M1/70); CD11c ( 1:100; clone: N418); I-A/I-E ( 1:100; clone: M5/114.5.2); Ly6C ( 1:100; clone: HK1.4); Ly6G ( 1:100; clone 1A8); IFN-γ ( 1:200; clone: XM 61.2);",
+          "rowSpan" : 7,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following antibodies were used: CD3 ( 1:100; clone: 145-2C11); CD4 ( 1:100; clone: RM4-4); CD8 ( 1:100; clone: 53-6.7); CD45 ( 1:100; clone: 30-F11); CD11b ( 1:100; clone: M1/70); CD11c ( 1:100; clone: N418); I-A/I-E ( 1:100; clone: M5/114.5.2); Ly6C ( 1:100; clone: HK1.4); Ly6G ( 1:100; clone 1A8); IFN-"
+            }, {
+              "f" : "symbol",
+              "c" : "γ"
+            }, {
+              "f" : "default",
+              "c" : " ( 1:200; clone: XM 61.2);"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD3"
+                }],
+              "neText" : "CD3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD4"
+                }],
+              "neText" : "CD4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD8"
+                }],
+              "neText" : "CD8"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD45"
+                }],
+              "neText" : "CD45"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD11b"
+                }],
+              "neText" : "CD11b"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "I-A/I-E"
+                }],
+              "neText" : "I-A/I-E"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ly6C"
+                }],
+              "neText" : "Ly6C"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Cell lines L-929 ATCC ATCC CCL-1 Experimental models: Organisms/strains C57BL/6J mice Jackson Laboratory 000664 NLRP3 knockout mice Mariathasan et al. , 2006 N/A",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell lines L-929 ATCC ATCC CCL-1 Experimental models: Organisms/strains C57BL/6J mice Jackson Laboratory 000664 NLRP3 knockout mice Mariathasan et al. , 2006 N/A"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6J"
+                }],
+              "neText" : "C57BL/6J"
+            }]
+        }, {
+          "sentence" : "NLRC4 knockout mice Lara-Tejero et al. , 2006 N/A ASC knockout mice Sutterwala et al. , 2006 N/A NLRC4 and ASC double-knockout mice ( Nlrc4 -/- Asc -/- ) This paper N/A Paracoccidioides brasiliensis Pb18 strain Figueiredo et al. ( 1993 ) N/A",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NLRC4 knockout mice Lara-Tejero et al. , 2006 N/A ASC knockout mice Sutterwala et al. , 2006 N/A NLRC4 and ASC double-knockout mice ( Nlrc4 -/- Asc -/- ) This paper N/A Paracoccidioides brasiliensis Pb18 strain Figueiredo et al. ( 1993 ) N/A"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Nlrc4 -/- Asc -/-"
+                }],
+              "neText" : "Nlrc4 -/- Asc -/-"
+            }]
+        }, {
+          "sentence" : "Experimental model and subject details Animals Male 6- to 8-week-old C57BL/6 ( WT ) ( Jackson Laboratory , stock number 000664 ) and Nlrc4 -/- ( Lara-Tejero et al. , 2006) , Nlrp3 -/- ( Mariathasan et al. , 2006 ) and Asc -/- ( Sutterwala et al. , 2006 ) mice were obtained from the Isogenic Breeding Unit at Ribeirão Preto Medical School , USP , Brazil .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Experimental model and subject details Animals Male 6- to 8-week-old C57BL/6 ( WT ) ( Jackson Laboratory , stock number 000664 ) and Nlrc4 -/- ( Lara-Tejero et al. , 2006) , Nlrp3 -/- ( Mariathasan et al. , 2006 ) and Asc -/- ( Sutterwala et al. , 2006 ) mice were obtained from the Isogenic Breeding Unit at Ribeirão Preto Medical School , USP , Brazil ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6"
+                }],
+              "neText" : "C57BL/6"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Nlrp3 -/-"
+                }],
+              "neText" : "Nlrp3 -/-"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Asc -/-"
+                }],
+              "neText" : "Asc -/-"
+            }]
+        }, {
+          "sentence" : "To obtain the Nlrc4 -/- Asc -/- mice ( double Knockout mice) , Nlrc4 -/- and Asc -/- knockout mice were backcrossed.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To obtain the Nlrc4 -/- Asc -/- mice ( double Knockout mice) , Nlrc4 -/- and Asc -/- knockout mice were backcrossed."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Nlrc4 -/-"
+                }],
+              "neText" : "Nlrc4 -/-"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Asc -/- knockout"
+                }],
+              "neText" : "Asc -/- knockout"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Rat monoclonal anti-Caspase-1 p20 Genentech Clone:4B4",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Rat monoclonal anti-Caspase-1 p20 Genentech Clone:4B4"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Genentech"
+                }],
+              "neText" : "Genentech"
+            }]
+        }, {
+          "sentence" : "GraphPad Prism 8.0 GraphPad Software https://www.graphpad.com/scientific-software/prism/ FlowJo software ( v10.0.7",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GraphPad Prism 8.0 GraphPad Software https://www.graphpad.com/scientific-software/prism/ FlowJo software ( v10.0.7"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : ") Tree Star , Inc , Ashland , OR , USA https://www.flowjo.com/solutions/flowjo/downloads FACSDiva",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ") Tree Star , Inc , Ashland , OR , USA https://www.flowjo.com/solutions/flowjo/downloads FACSDiva"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BD FACSDiva Software, RRID:SCR_001456",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FACSDiva"
+                }],
+              "neText" : "FACSDiva"
+            }]
+        }, {
+          "sentence" : "The data acquisition and bands were densitometrically quantified using iBrightTM CL1500 Imaging System ( Thermo Fisher Scientific , Waltham , MA , EUA ) or ImageJ software ( V1.51 ) ( Schneider et al. , 2012) , and the results were expressed as arbitrary units .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The data acquisition and bands were densitometrically quantified using iBrightTM CL1500 Imaging System ( Thermo Fisher Scientific , Waltham , MA , EUA ) or ImageJ software ( V1.51 ) ( Schneider et al. , 2012) , and the results were expressed as arbitrary units ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "All primers were designed using the Primer Express software package v2.0",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All primers were designed using the Primer Express software package v2.0"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Primer Express"
+                }],
+              "neText" : "Primer Express"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All experiments were approved and carried out in accordance with the Animal Ethics Committee from Ribeirão Preto Medical School ( protocol no.046/2015) .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were approved and carried out in accordance with the Animal Ethics Committee from Ribeirão Preto Medical School ( protocol no.046/2015) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Experimental model and subject details Animals Male 6- to 8-week-old C57BL/6 ( WT ) ( Jackson Laboratory , stock number 000664 ) and Nlrc4 -/- ( Lara-Tejero et al. , 2006) , Nlrp3 -/- ( Mariathasan et al. , 2006 ) and Asc -/- ( Sutterwala et al. , 2006 ) mice were obtained from the Isogenic Breeding Unit at Ribeirão Preto Medical School , USP , Brazil .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Experimental model and subject details Animals Male 6- to 8-week-old C57BL/6 ( WT ) ( Jackson Laboratory , stock number 000664 ) and Nlrc4 -/- ( Lara-Tejero et al. , 2006) , Nlrp3 -/- ( Mariathasan et al. , 2006 ) and Asc -/- ( Sutterwala et al. , 2006 ) mice were obtained from the Isogenic Breeding Unit at Ribeirão Preto Medical School , USP , Brazil ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Experimental model and subject details Animals Male 6- to 8-week-old C57BL/6 ( WT ) ( Jackson Laboratory , stock number 000664 ) and Nlrc4 -/- ( Lara-Tejero et al. , 2006) , Nlrp3 -/- ( Mariathasan et al. , 2006 ) and Asc -/- ( Sutterwala et al. , 2006 ) mice were obtained from the Isogenic Breeding Unit at Ribeirão Preto Medical School , USP , Brazil .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Experimental model and subject details Animals Male 6- to 8-week-old C57BL/6 ( WT ) ( Jackson Laboratory , stock number 000664 ) and Nlrc4 -/- ( Lara-Tejero et al. , 2006) , Nlrp3 -/- ( Mariathasan et al. , 2006 ) and Asc -/- ( Sutterwala et al. , 2006 ) mice were obtained from the Isogenic Breeding Unit at Ribeirão Preto Medical School , USP , Brazil ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Histopathological analyses Animals were randomly selected from each group at 30 dpi.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Histopathological analyses Animals were randomly selected from each group at 30 dpi."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The mean cycle threshold ( Ct ) values of triplicate measurements were used to calculate the expression of the target genes , which were normalized to the housekeeping gene β2m and analyzed with the 2–ΔΔCt method.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mean cycle threshold ( Ct ) values of triplicate measurements were used to calculate the expression of the target genes , which were normalized to the housekeeping gene "
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : "2m and analyzed with the 2–"
+              }, {
+                "f" : "symbol",
+                "c" : "ΔΔ"
+              }, {
+                "f" : "default",
+                "c" : "Ct method."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "The mean cycle threshold ( Ct ) values of triplicate measurements were used to calculate the expression of the target genes , which were normalized to the housekeeping gene β2m and analyzed with the 2–ΔΔCt method.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mean cycle threshold ( Ct ) values of triplicate measurements were used to calculate the expression of the target genes , which were normalized to the housekeeping gene "
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : "2m and analyzed with the 2–"
+              }, {
+                "f" : "symbol",
+                "c" : "ΔΔ"
+              }, {
+                "f" : "default",
+                "c" : "Ct method."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Significant differences between experimental groups were evaluated with one-way ANOVA and Bonferroni multicomparison test or student’s t-test .",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Significant differences between experimental groups were evaluated with one-way ANOVA and Bonferroni multicomparison test or student’s t-test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni multicomparison test"
+                  }],
+                "neText" : "Bonferroni multicomparison test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "student’s t-test"
+                  }],
+                "neText" : "student’s t-test"
+              }]
+          }, {
+            "sentence" : "The log-rank test ( Mantel–Cox ) was used to evaluate survival curves .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The log-rank test ( Mantel–Cox ) was used to evaluate survival curves ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mantel–Cox"
+                  }],
+                "neText" : "Mantel–Cox"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Oligonucleotides Mouse Beta-2 microglobulin forward Ketelut-Carneiro et al. ( 2019 ) 5’ – CAC CCC CAC TGA GAC TGA TAC ATA –",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Oligonucleotides Mouse Beta-2 microglobulin forward Ketelut-Carneiro et al. ( 2019 ) 5’ – CAC CCC CAC TGA GAC TGA TAC ATA –"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAC CCC CAC TGA GAC TGA TAC ATA –"
+                  }],
+                "neText" : "CAC CCC CAC TGA GAC TGA TAC ATA –"
+              }]
+          }, {
+            "sentence" : "Mouse Beta-2 microglobulin reverse Ketelut-Carneiro et al. ( 2019 ) 3’- TCA CAT GTC TCG ATC CCA GTA",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mouse Beta-2 microglobulin reverse Ketelut-Carneiro et al. ( 2019 ) 3’- TCA CAT GTC TCG ATC CCA GTA"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "3’- TCA CAT GTC TCG ATC CCA GTA"
+                  }],
+                "neText" : "3’- TCA CAT GTC TCG ATC CCA GTA"
+              }]
+          }, {
+            "sentence" : "Mouse Nlrp3 reverse This article 3’-CGG TGG TTG CTA GGA GAT GG-5’ Mouse Ptgs2 forward This article 5’",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mouse Nlrp3 reverse This article 3’-CGG TGG TTG CTA GGA GAT GG-5’ Mouse Ptgs2 forward This article 5’"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "3’-CGG TGG TTG CTA GGA GAT GG-5’"
+                  }],
+                "neText" : "3’-CGG TGG TTG CTA GGA GAT GG-5’"
+              }]
+          }, {
+            "sentence" : "– GTG GAA AAA CCT CGT CCA GA–",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "– GTG GAA AAA CCT CGT CCA GA–"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GTG GAA AAA CCT CGT CCA GA–"
+                  }],
+                "neText" : "GTG GAA AAA CCT CGT CCA GA–"
+              }]
+          }, {
+            "sentence" : "Mouse Ptgs2 reverse This article 3’- GCT CGG CTT CCA GTA TTG AG-5’ Mouse iNos forward Ketelut-Carneiro et al. ( 2019 ) 5’ CGA AAC GCT TCA CTT CCA A 3’ Mouse iNos reverse Ketelut-Carneiro et al. ( 2019 ) 3’ – TGA GCC TAT ATT GCT GTG GCT-5’ Software and algorithms Image J ( v1.51 ) Schneider et al. ( 2012 )",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mouse Ptgs2 reverse This article 3’- GCT CGG CTT CCA GTA TTG AG-5’ Mouse iNos forward Ketelut-Carneiro et al. ( 2019 ) 5’ CGA AAC GCT TCA CTT CCA A 3’ Mouse iNos reverse Ketelut-Carneiro et al. ( 2019 ) 3’ – TGA GCC TAT ATT GCT GTG GCT-5’ Software and algorithms Image J ( v1.51 ) Schneider et al. ( 2012 )"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCT CGG CTT CCA GTA TTG AG-5’"
+                  }],
+                "neText" : "GCT CGG CTT CCA GTA TTG AG-5’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’ CGA AAC GCT TCA CTT CCA A 3’"
+                  }],
+                "neText" : "5’ CGA AAC GCT TCA CTT CCA A 3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TGA GCC TAT ATT GCT GTG GCT-5’"
+                  }],
+                "neText" : "TGA GCC TAT ATT GCT GTG GCT-5’"
+              }]
+          }, {
+            "sentence" : "Thus , were used for the quantitative PCR with the following primers: mouse Beta-2 microglobulin forward 5’-CAC CCC CAC TGA GAC TGA TAC ATA-3’ and reverse 3’-TCA CAT GTC TCG ATC CCA GTA GA-5’ ; mouse Nlrp3 forward 5’-GCA GCG CAT CGC CTT CTA TC-3’ and reverse 3’-CGG TGG TTG CTA GGA GAT GG-5’; mouse Ptgs2 forward 5’-GTG GAA AAA CCT CGT CCA GA-3’ and reverse 3’-GCT CGG CTT CCA GTA TTG AG-5’; mouse iNos forward 5’-CGA AAC GCT TCA CTT CCA A-3’ and reverse 3’-TGA GCC TAT ATT GCT GTG GCT-5’ .",
+            "rowSpan" : 7,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Thus , were used for the quantitative PCR with the following primers: mouse Beta-2 microglobulin forward 5’-CAC CCC CAC TGA GAC TGA TAC ATA-3’ and reverse 3’-TCA CAT GTC TCG ATC CCA GTA GA-5’ ; mouse Nlrp3 forward 5’-GCA GCG CAT CGC CTT CTA TC-3’ and reverse 3’-CGG TGG TTG CTA GGA GAT GG-5’; mouse Ptgs2 forward 5’-GTG GAA AAA CCT CGT CCA GA-3’ and reverse 3’-GCT CGG CTT CCA GTA TTG AG-5’; mouse iNos forward 5’-CGA AAC GCT TCA CTT CCA A-3’ and reverse 3’-TGA GCC TAT ATT GCT GTG GCT-5’ ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-CAC CCC CAC TGA GAC TGA TAC ATA-3’"
+                  }],
+                "neText" : "5’-CAC CCC CAC TGA GAC TGA TAC ATA-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "3’-TCA CAT GTC TCG ATC CCA GTA GA-5’"
+                  }],
+                "neText" : "3’-TCA CAT GTC TCG ATC CCA GTA GA-5’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-GCA GCG CAT CGC CTT CTA TC-3’"
+                  }],
+                "neText" : "5’-GCA GCG CAT CGC CTT CTA TC-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-GTG GAA AAA CCT CGT CCA GA-3’"
+                  }],
+                "neText" : "5’-GTG GAA AAA CCT CGT CCA GA-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "3’-GCT CGG CTT CCA GTA TTG AG-5’"
+                  }],
+                "neText" : "3’-GCT CGG CTT CCA GTA TTG AG-5’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-CGA AAC GCT TCA CTT CCA A-3’"
+                  }],
+                "neText" : "5’-CGA AAC GCT TCA CTT CCA A-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "3’-TGA GCC TAT ATT GCT GTG GCT-5’"
+                  }],
+                "neText" : "3’-TGA GCC TAT ATT GCT GTG GCT-5’"
+              }]
+          }]
+      }]
+  }
+}

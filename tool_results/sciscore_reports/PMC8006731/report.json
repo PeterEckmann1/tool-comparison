@@ -1,0 +1,211 @@
+{
+  "docIdentifier" : "PMC8006731",
+  "sciscore" : 3,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was approved by the local ethics committee of the University Medical Centre Utrecht (UMCU), the Netherlands (METC: 20-195).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the local ethics committee of the University Medical Centre Utrecht (UMCU), the Netherlands (METC: 20-195)."
+              }]
+          }, {
+            "sentence" : "The need for informed consent was waived, and this study was conducted in accordance with Good Clinical Practice and the 2002 Declaration of Helsinki.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The need for informed consent was waived, and this study was conducted in accordance with Good Clinical Practice and the 2002 Declaration of Helsinki."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "All patients who underwent primary implantation of HVAD or HM3 until December 2019 at the UMCU were eligible.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients who underwent primary implantation of HVAD or HM3 until December 2019 at the UMCU were eligible."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Because the type of LVAD device was not assigned in a randomized controlled manner , we performed PS matching to obtain two comparable groups .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Because the type of LVAD device was not assigned in a randomized controlled manner , we performed PS matching to obtain two comparable groups ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "RV function was classified as 1 ( poor) , 2 ( intermediate) , or 3 ( good ) by two independent cardiologists who were blinded for the type of LVAD .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RV function was classified as 1 ( poor) , 2 ( intermediate) , or 3 ( good ) by two independent cardiologists who were blinded for the type of LVAD ."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences in both groups were tested using Fishers exact test for categorical variables and the t-test or Mann-Whitney U test for continuous variables as appropriate.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences in both groups were tested using Fishers exact test for categorical variables and the t-test or Mann-Whitney U test for continuous variables as appropriate."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }, {
+            "sentence" : "Baseline differences between both groups were tested using the Wilcoxon signed-rank test or McNemar test .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Baseline differences between both groups were tested using the Wilcoxon signed-rank test or McNemar test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed-rank test"
+                  }],
+                "neText" : "Wilcoxon signed-rank test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "McNemar test"
+                  }],
+                "neText" : "McNemar test"
+              }]
+          }, {
+            "sentence" : "Cox regression was performed within the PS-matched group with survival as dependent variable and device type and the interaction between each of the three main surgeons and device type as independent variables .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cox regression was performed within the PS-matched group with survival as dependent variable and device type and the interaction between each of the three main surgeons and device type as independent variables ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Cox regression"
+                  }],
+                "neText" : "Cox regression"
+              }]
+          }, {
+            "sentence" : "Difference in survival was assessed by log-rank testing .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Difference in survival was assessed by log-rank testing ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank testing"
+                  }],
+                "neText" : "log-rank testing"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "docIdentifier" : "PMC8320599",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Histological and immunohistochemical analyses Paraffin-embedded mouse liver blocks were cut into sections of 5 mm thickness and stained with hematoxylin and eosin (H&E) andor stained for F480 expression with rabbit anti-F480 antibodies (1:100) (AbD Serotec, Raleigh, NC, USA). 6,23 The fraction of F480-expressing cells for each sample is calculated as the sum of the number of nuclei of F480-expressing cells divided by the total number of nuclei in sections of a sample.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Histological and immunohistochemical analyses Paraffin-embedded mouse liver blocks were cut into sections of 5 mm thickness and stained with hematoxylin and eosin (H&E) andor stained for F480 expression with rabbit anti-F480 antibodies (1:100) (AbD Serotec, Raleigh, NC, USA). 6,23 The fraction of F480-expressing cells for each sample is calculated as the sum of the number of nuclei of F480-expressing cells divided by the total number of nuclei in sections of a sample."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-F480"
+                }],
+              "neText" : "anti-F480"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Animal experiments Wild-type (WT) C57BL6J mice were obtained from The Jackson Laboratory (Bar Harbor, ME, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Animal experiments Wild-type (WT) C57BL6J mice were obtained from The Jackson Laboratory (Bar Harbor, ME, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6J"
+                }],
+              "neText" : "C57BL6J"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The maximum intensity of each band was quantified using Image J software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The maximum intensity of each band was quantified using Image J software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image J"
+                }],
+              "neText" : "Image J"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Ethical approval All study protocols were reviewed and approved by the Institutional Animal Care and Use Committee of Texas A&M University. 2.2.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ethical approval All study protocols were reviewed and approved by the Institutional Animal Care and Use Committee of Texas A&M University. 2.2."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Study 1 (global Pfkfb3 disruption on NAFLD phenotype): male Pfkfb3 +- mice and WT littermates, at 5-6 weeks of age, were fed an HFD (60 fat calories, 20 carbohydrate calories, and 20 protein calories Research Diets, Inc.) or low-fat diet (LFD,10 fat calories, 70 carbohydrate calories, and 20 protein calories) for 12 weeks as previously described.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Study 1 (global Pfkfb3 disruption on NAFLD phenotype): male Pfkfb3 +- mice and WT littermates, at 5-6 weeks of age, were fed an HFD (60 fat calories, 20 carbohydrate calories, and 20 protein calories Research Diets, Inc.) or low-fat diet (LFD,10 fat calories, 70 carbohydrate calories, and 20 protein calories) for 12 weeks as previously described."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Study 1 (global Pfkfb3 disruption on NAFLD phenotype): male Pfkfb3 +- mice and WT littermates, at 5-6 weeks of age, were fed an HFD (60 fat calories, 20 carbohydrate calories, and 20 protein calories Research Diets, Inc.) or low-fat diet (LFD,10 fat calories, 70 carbohydrate calories, and 20 protein calories) for 12 weeks as previously described.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Study 1 (global Pfkfb3 disruption on NAFLD phenotype): male Pfkfb3 +- mice and WT littermates, at 5-6 weeks of age, were fed an HFD (60 fat calories, 20 carbohydrate calories, and 20 protein calories Research Diets, Inc.) or low-fat diet (LFD,10 fat calories, 70 carbohydrate calories, and 20 protein calories) for 12 weeks as previously described."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "22,25,26 Study 2 (hematopoietic cell-specific Pfkfb3 disruption on NAFLD phenotype): to generate chimeric mice in which Pfkfb3 was disrupted only in hematopoietic cells, male WT mice, at 5-6 weeks of age, were subjected to bone marrow transplantation (BMT) as described below.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "22,25,26 Study 2 (hematopoietic cell-specific Pfkfb3 disruption on NAFLD phenotype): to generate chimeric mice in which Pfkfb3 was disrupted only in hematopoietic cells, male WT mice, at 5-6 weeks of age, were subjected to bone marrow transplantation (BMT) as described below."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "22,25,26"
+                  }],
+                "neText" : "22,25,26"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical significance was determined using unpaired, two-tailed ANOVA or Students t tests.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical significance was determined using unpaired, two-tailed ANOVA or Students t tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t tests"
+                  }],
+                "neText" : "Students t tests"
+              }]
+          }]
+      }]
+  }
+}

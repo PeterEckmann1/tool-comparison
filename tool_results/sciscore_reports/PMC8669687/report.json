@@ -1,0 +1,604 @@
+{
+  "docIdentifier" : "PMC8669687",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The membranes were incubated overnight at 4°C with primary antibodies ( 1:1,000 ) against Col-1 ( cat. no. ab34710) , α-SMA ( cat. no. ab5694) , SMAD4 ( cat. no. ab40759 ) and GAPDH ( cat. no. ab9485 ( all purchased from Abcam) .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membranes were incubated overnight at 4°C with primary antibodies ( 1:1,000 ) against Col-1 ( cat. no. ab34710) , "
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : "-SMA ( cat. no. ab5694) , SMAD4 ( cat. no. ab40759 ) and GAPDH ( cat. no. ab9485 ( all purchased from Abcam) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Col-1"
+                }],
+              "neText" : "Col-1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "symbol",
+                  "c" : "α"
+                }, {
+                  "f" : "default",
+                  "c" : "-SMA"
+                }],
+              "neText" : "α-SMA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAPDH"
+                }],
+              "neText" : "GAPDH"
+            }]
+        }, {
+          "sentence" : "Following the primary antibody incubation , membranes were incubated with goat anti-rabbit antibody ( cat. no. ab205718; 1:2,000; Abcam ) at room temperature for 2 h .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Following the primary antibody incubation , membranes were incubated with goat anti-rabbit antibody ( cat. no. ab205718; 1:2,000; Abcam ) at room temperature for 2 h ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }]
+        }, {
+          "sentence" : "Proteins of the RNA-protein complexes were eluted from the magnetic beads by boiling (8 min at 100°C), and SMAD4 protein expression was examined as aforementioned via western blotting using the antibody against SMAD4 (1:5,000).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Proteins of the RNA-protein complexes were eluted from the magnetic beads by boiling (8 min at 100°C), and SMAD4 protein expression was examined as aforementioned via western blotting using the antibody against SMAD4 (1:5,000)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SMAD4"
+                }],
+              "neText" : "SMAD4"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "TGF-β1 (5 ng/ml; PeproTech, Inc.) was used to induce LX-2 cells and cultured 24 h before transfection.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "TGF-"
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "1 (5 ng/ml; PeproTech, Inc.) was used to induce LX-2 cells and cultured 24 h before transfection."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_5792",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LX-2"
+                }],
+              "neText" : "LX-2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "C57BL/6 J male mice ( n=12; 6 weeks old,18–22 g ) were obtained from the Institute of Laboratory Animal Sciences ( Chinese Academy of Medical Sciences; Peking Union Medical College) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "C57BL/6 J male mice ( n=12; 6 weeks old,18–22 g ) were obtained from the Institute of Laboratory Animal Sciences ( Chinese Academy of Medical Sciences; Peking Union Medical College) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6 J"
+                }],
+              "neText" : "C57BL/6 J"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "HSCs ( 6×105 cells ) were transfected with si-lnc-MBI-52 1# ( 5′-GCAGAACCATAAAGATGGTCC A-3′) , si-lnc-MBI-52 2# ( 5′-UGGUAAUGGUGGAGGAAGAUU -3′) , si-NC ( 5′-UUCUCCGAACGUGUCACGUTT -3′) , lnc-MBI-52 overexpression ( lnc-MBI-52 ) plasmids ( lnc-MBI-52) , pcDNA3.1 ( vector ) ( 5′-UCACAACCUCCUAGAAAGAGU AGA-3′) ,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HSCs ( 6×105 cells ) were transfected with si-lnc-MBI-52 1# ( 5′-GCAGAACCATAAAGATGGTCC A-3′) , si-lnc-MBI-52 2# ( 5′-UGGUAAUGGUGGAGGAAGAUU -3′) , si-NC ( 5′-UUCUCCGAACGUGUCACGUTT -3′) , lnc-MBI-52 overexpression ( lnc-MBI-52 ) plasmids ( lnc-MBI-52) , pcDNA3.1 ( vector ) ( 5′-UCACAACCUCCUAGAAAGAGU AGA-3′) ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_100544",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1"
+                }],
+              "neText" : "pcDNA3.1"
+            }]
+        }, {
+          "sentence" : "The pGL3 vectors containing SMAD4 and lnc-MBI-52 WT or MUT predicted binding regions were co-transfected with the WT or MUT 3′-untranslated region of lnc-MBI-52 ( or SMAD4 ) and miR-466g mimics or mimic NC into HSCs using Lipofectamine® 2000 reagent ( Invitrogen; Thermo Fisher Scientific , Inc . ) at 37°C for 48 h .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The pGL3 vectors containing SMAD4 and lnc-MBI-52 WT or MUT predicted binding regions were co-transfected with the WT or MUT 3′-untranslated region of lnc-MBI-52 ( or SMAD4 ) and miR-466g mimics or mimic NC into HSCs using Lipofectamine® 2000 reagent ( Invitrogen; Thermo Fisher Scientific , Inc . ) at 37°C for 48 h ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_44264",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGL3"
+                }],
+              "neText" : "pGL3"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Dual-luciferase reporter assay The targets of lnc-MBI-52 and miR-466g were predicted using miRDB ( http://mirdb.org ) and TargetScan 7.2 ( http://www.targetscan.org/vert_72).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Dual-luciferase reporter assay The targets of lnc-MBI-52 and miR-466g were predicted using miRDB ( http://mirdb.org ) and TargetScan 7.2 ( http://www.targetscan.org/vert_72)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }]
+        }, {
+          "sentence" : "Data were analyzed using SPSS 22.0 software (IBM Corp.) and presented as the mean ± SEM.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analyzed using SPSS 22.0 software (IBM Corp.) and presented as the mean ± SEM."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "CCl4 liver injury model The present study was approved by the Animal Care and Use Committee of Tangdu Hospital of Air Force Medical University [ approval no. TDYY(2019)033; Xi ' an , China] .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "CCl4 liver injury model The present study was approved by the Animal Care and Use Committee of Tangdu Hospital of Air Force Medical University [ approval no. TDYY(2019)033; Xi ' an , China] ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "C57BL/6 J male mice ( n=12; 6 weeks old,18–22 g ) were obtained from the Institute of Laboratory Animal Sciences ( Chinese Academy of Medical Sciences; Peking Union Medical College) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "C57BL/6 J male mice ( n=12; 6 weeks old,18–22 g ) were obtained from the Institute of Laboratory Animal Sciences ( Chinese Academy of Medical Sciences; Peking Union Medical College) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "C57BL/6 J male mice ( n=12; 6 weeks old,18–22 g ) were obtained from the Institute of Laboratory Animal Sciences ( Chinese Academy of Medical Sciences; Peking Union Medical College) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "C57BL/6 J male mice ( n=12; 6 weeks old,18–22 g ) were obtained from the Institute of Laboratory Animal Sciences ( Chinese Academy of Medical Sciences; Peking Union Medical College) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Statistical analysis All experiments were performed in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis All experiments were performed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Statistical analysis All experiments were performed in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis All experiments were performed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "One-way ANOVA followed by Tukey's post hoc test were used to compare differences between multiple groups.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way ANOVA followed by Tukey's post hoc test were used to compare differences between multiple groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey's post hoc test"
+                  }],
+                "neText" : "Tukey's post hoc test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "HSCs ( 6×105 cells ) were transfected with si-lnc-MBI-52 1# ( 5′-GCAGAACCATAAAGATGGTCC A-3′) , si-lnc-MBI-52 2# ( 5′-UGGUAAUGGUGGAGGAAGAUU -3′) , si-NC ( 5′-UUCUCCGAACGUGUCACGUTT -3′) , lnc-MBI-52 overexpression ( lnc-MBI-52 ) plasmids ( lnc-MBI-52) , pcDNA3.1 ( vector ) ( 5′-UCACAACCUCCUAGAAAGAGU AGA-3′) ,",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "HSCs ( 6×105 cells ) were transfected with si-lnc-MBI-52 1# ( 5′-GCAGAACCATAAAGATGGTCC A-3′) , si-lnc-MBI-52 2# ( 5′-UGGUAAUGGUGGAGGAAGAUU -3′) , si-NC ( 5′-UUCUCCGAACGUGUCACGUTT -3′) , lnc-MBI-52 overexpression ( lnc-MBI-52 ) plasmids ( lnc-MBI-52) , pcDNA3.1 ( vector ) ( 5′-UCACAACCUCCUAGAAAGAGU AGA-3′) ,"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GCAGAACCATAAAGATGGTCC A-3′"
+                  }],
+                "neText" : "5′-GCAGAACCATAAAGATGGTCC A-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-UGGUAAUGGUGGAGGAAGAUU -3′"
+                  }],
+                "neText" : "5′-UGGUAAUGGUGGAGGAAGAUU -3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-UUCUCCGAACGUGUCACGUTT -3′"
+                  }],
+                "neText" : "5′-UUCUCCGAACGUGUCACGUTT -3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-UCACAACCUCCUAGAAAGAGU AGA-3′"
+                  }],
+                "neText" : "5′-UCACAACCUCCUAGAAAGAGU AGA-3′"
+              }]
+          }, {
+            "sentence" : "miR-466g mimic ( 5′-UAUGUGUGUGUACAUGUACAUA-3′)",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "miR-466g mimic ( 5′-UAUGUGUGUGUACAUGUACAUA-3′)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-UAUGUGUGUGUACAUGUACAUA-3′"
+                  }],
+                "neText" : "5′-UAUGUGUGUGUACAUGUACAUA-3′"
+              }]
+          }, {
+            "sentence" : "miR-466g inhibitor ( 5′-GTGTTGCGTGTATGTGTA-3′ ) or miRNA inhibitor NC ( 5′-GTGTAACACGTCTATACGCCC A-3′ ( Shanghai GenePharma Co . , Ltd. ) at a final concentration of 50 nM using Lipofectamine® 2000 reagent ( Invitrogen; Thermo Fisher Scientific , Inc . ) at 37°C for 48 h .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "miR-466g inhibitor ( 5′-GTGTTGCGTGTATGTGTA-3′ ) or miRNA inhibitor NC ( 5′-GTGTAACACGTCTATACGCCC A-3′ ( Shanghai GenePharma Co . , Ltd. ) at a final concentration of 50 nM using Lipofectamine® 2000 reagent ( Invitrogen; Thermo Fisher Scientific , Inc . ) at 37°C for 48 h ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GTGTTGCGTGTATGTGTA-3′"
+                  }],
+                "neText" : "5′-GTGTTGCGTGTATGTGTA-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GTGTAACACGTCTATACGCCC A-3′"
+                  }],
+                "neText" : "5′-GTGTAACACGTCTATACGCCC A-3′"
+              }]
+          }, {
+            "sentence" : "The primer sequences used were as follows: lnc-MBI-52 forward ( F) , 5′-GTCCAGGGACCTCTGACCTA- 3′ and reverse ( R) ,",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The primer sequences used were as follows: lnc-MBI-52 forward ( F) , 5′-GTCCAGGGACCTCTGACCTA- 3′ and reverse ( R) ,"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GTCCAGGGACCTCTGACCTA- 3′"
+                  }],
+                "neText" : "5′-GTCCAGGGACCTCTGACCTA- 3′"
+              }]
+          }, {
+            "sentence" : "miR-466g F , 5′-CACTAGTGGTTCCGTTTAGTA G-3′ and R , 5′-TTGTAGTCACTAGGGCACC-3 ′; α-SMA F , 5′-CACCATCGGGAATGAACGCTT C-3′ and R , 5′-CTGTCAGCAATGCCTGGGTA- 3′; Col-1 F , 5′-GGTCATTCTCTTCGCAGACAG -3′ and R , 5′-CCACCGGATACTTGGTCTCCA -3′; SMAD4 F , 5′-CTCATGTGATCTATGCCCGTC -3′ and R , 5′-AGGTGATACAACTCGTTCGTA GT-3′; U6 F , 5′-CTCGCTTCGGCAGCACA-3′ and R , 5′-AACGCTTCACGAATTTGCGT- 3; and GAPDH F , 5′-AAGGTGAAGGTCGGAGTCA-3 ′ and R , 5′-GGAAGATGGTGATGGGATTT- 3′ .",
+            "rowSpan" : 12,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "miR-466g F , 5′-CACTAGTGGTTCCGTTTAGTA G-3′ and R , 5′-TTGTAGTCACTAGGGCACC-3 ′; "
+              }, {
+                "f" : "symbol",
+                "c" : "α"
+              }, {
+                "f" : "default",
+                "c" : "-SMA F , 5′-CACCATCGGGAATGAACGCTT C-3′ and R , 5′-CTGTCAGCAATGCCTGGGTA- 3′; Col-1 F , 5′-GGTCATTCTCTTCGCAGACAG -3′ and R , 5′-CCACCGGATACTTGGTCTCCA -3′; SMAD4 F , 5′-CTCATGTGATCTATGCCCGTC -3′ and R , 5′-AGGTGATACAACTCGTTCGTA GT-3′; U6 F , 5′-CTCGCTTCGGCAGCACA-3′ and R , 5′-AACGCTTCACGAATTTGCGT- 3; and GAPDH F , 5′-AAGGTGAAGGTCGGAGTCA-3 ′ and R , 5′-GGAAGATGGTGATGGGATTT- 3′ ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CACTAGTGGTTCCGTTTAGTA G-3′"
+                  }],
+                "neText" : "5′-CACTAGTGGTTCCGTTTAGTA G-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-TTGTAGTCACTAGGGCACC-3 ′"
+                  }],
+                "neText" : "5′-TTGTAGTCACTAGGGCACC-3 ′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CACCATCGGGAATGAACGCTT C-3′"
+                  }],
+                "neText" : "5′-CACCATCGGGAATGAACGCTT C-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CTGTCAGCAATGCCTGGGTA- 3′"
+                  }],
+                "neText" : "5′-CTGTCAGCAATGCCTGGGTA- 3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GGTCATTCTCTTCGCAGACAG -3′"
+                  }],
+                "neText" : "5′-GGTCATTCTCTTCGCAGACAG -3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CCACCGGATACTTGGTCTCCA -3′"
+                  }],
+                "neText" : "5′-CCACCGGATACTTGGTCTCCA -3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CTCATGTGATCTATGCCCGTC -3′"
+                  }],
+                "neText" : "5′-CTCATGTGATCTATGCCCGTC -3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-AGGTGATACAACTCGTTCGTA GT-3′"
+                  }],
+                "neText" : "5′-AGGTGATACAACTCGTTCGTA GT-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CTCGCTTCGGCAGCACA-3′"
+                  }],
+                "neText" : "5′-CTCGCTTCGGCAGCACA-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-AACGCTTCACGAATTTGCGT- 3"
+                  }],
+                "neText" : "5′-AACGCTTCACGAATTTGCGT- 3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-AAGGTGAAGGTCGGAGTCA-3 ′"
+                  }],
+                "neText" : "5′-AAGGTGAAGGTCGGAGTCA-3 ′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GGAAGATGGTGATGGGATTT- 3′"
+                  }],
+                "neText" : "5′-GGAAGATGGTGATGGGATTT- 3′"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "docIdentifier" : "PMC8424082",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Goat anti rabbit IgG ( 1:1000 dilution , ab150077 , abcam ) was used as the secondary antibody .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Goat anti rabbit IgG ( 1:1000 dilution , ab150077 , abcam ) was used as the secondary antibody ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti rabbit IgG"
+                }],
+              "neText" : "anti rabbit IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All data were analyzed using SPSS software (v.19.0).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All data were analyzed using SPSS software (v.19.0)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2.12 Surgical procedure All the animal experimental procedures were approved by the Animal Research Committee of Peking University ( Permit number: LA2021190 ) and we confirmed that all methods were performed in accordance with the relevant guidelines and regulations .",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.12 Surgical procedure All the animal experimental procedures were approved by the Animal Research Committee of Peking University ( Permit number: LA2021190 ) and we confirmed that all methods were performed in accordance with the relevant guidelines and regulations ."
+              }]
+          }, {
+            "sentence" : "2.12 Surgical procedure All the animal experimental procedures were approved by the Animal Research Committee of Peking University ( Permit number: LA2021190 ) and we confirmed that all methods were performed in accordance with the relevant guidelines and regulations .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.12 Surgical procedure All the animal experimental procedures were approved by the Animal Research Committee of Peking University ( Permit number: LA2021190 ) and we confirmed that all methods were performed in accordance with the relevant guidelines and regulations ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Finally , the absorbance of sample solution was detected at 450 nm , with 6 replicate holes in each group , and the experiment was repeated 4 times .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Finally , the absorbance of sample solution was detected at 450 nm , with 6 replicate holes in each group , and the experiment was repeated 4 times ."
+              }],
+            "mention" : {
+              "neText" : "replicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicate"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "2.6 Compression test For the compression tests, the tetra-PEG hydrogel was prepared in a cylindroid mold with the diameter of 15 mm and height of 7.5 mm.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.6 Compression test For the compression tests, the tetra-PEG hydrogel was prepared in a cylindroid mold with the diameter of 15 mm and height of 7.5 mm."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Compression test"
+                  }],
+                "neText" : "Compression test"
+              }]
+          }, {
+            "sentence" : "Differences between two groups or multiple groups were statistically compared with unpaired Student t-test and analysis of variance (ANOVA), respectively.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between two groups or multiple groups were statistically compared with unpaired Student t-test and analysis of variance (ANOVA), respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }]
+  }
+}

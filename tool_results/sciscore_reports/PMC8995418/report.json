@@ -1,0 +1,170 @@
+{
+  "docIdentifier" : "PMC8995418",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data were analyzed with Statistical Analysis System version 9.4, considering a statistical significance (p) of 0.05 for all statistic tests performed.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analyzed with Statistical Analysis System version 9.4, considering a statistical significance (p) of 0.05 for all statistic tests performed."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System (RRID:SCR_008567)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Statistical Analysis System"
+                }],
+              "neText" : "Statistical Analysis System"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Patients were asked to participate after the physicians decision for treatment with DMF was made then, their written informed consent was obtained before patients entered the study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were asked to participate after the physicians decision for treatment with DMF was made then, their written informed consent was obtained before patients entered the study."
+              }]
+          }, {
+            "sentence" : "The study received approval from the ethics committee of the Hamburg Medical Association and was reported to the responsible federal authority, German National Association of Statutory Health Insurance Physicians, Central Federal Association of Health Insurance Funds, and Association of Private Health Insurance e.V.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study received approval from the ethics committee of the Hamburg Medical Association and was reported to the responsible federal authority, German National Association of Statutory Health Insurance Physicians, Central Federal Association of Health Insurance Funds, and Association of Private Health Insurance e.V."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "After 52 weeks, data from 257 patients were available for our interim analyses.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After 52 weeks, data from 257 patients were available for our interim analyses."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "A Wilcoxon signed-rank test was used for analyzing the change in BSA, absolute PASI, and PASI reduction from baseline to week 52.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A Wilcoxon signed-rank test was used for analyzing the change in BSA, absolute PASI, and PASI reduction from baseline to week 52."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed-rank test"
+                  }],
+                "neText" : "Wilcoxon signed-rank test"
+              }]
+          }, {
+            "sentence" : "Psoriasis severity at week 52 versus baseline PASI < 3 and PASI < 5, scalp-PGA 01 (clearalmost clear), nail-PGA 01, PP-PGA 01, itch NRS < 3 (mild or no pruritus) was analyzed using the McNemars test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Psoriasis severity at week 52 versus baseline PASI < 3 and PASI < 5, scalp-PGA 01 (clearalmost clear), nail-PGA 01, PP-PGA 01, itch NRS < 3 (mild or no pruritus) was analyzed using the McNemars test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "McNemars test"
+                  }],
+                "neText" : "McNemars test"
+              }]
+          }]
+      }]
+  }
+}

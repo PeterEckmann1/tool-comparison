@@ -1,0 +1,270 @@
+{
+  "docIdentifier" : "PMC8082115",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "17 HEK293T cells were transiently transfected with mini-Gs-Venus and either TGR5-Nluc or ADRB2-Nluc in a 7:3 ratio using Effectene Transfection Reagent (Qiagen, Venlo, The Netherlands) according to the manufacturers instructions.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "17 HEK293T cells were transiently transfected with mini-Gs-Venus and either TGR5-Nluc or ADRB2-Nluc in a 7:3 ratio using Effectene Transfection Reagent (Qiagen, Venlo, The Netherlands) according to the manufacturers instructions."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293T"
+                }],
+              "neText" : "HEK293T"
+            }]
+        }, {
+          "sentence" : "THP-1 cells (TIB-202 ATCC, Manassas, VA) were stably transduced with both vectors and sorted for equal GFP expression.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "THP-1 cells (TIB-202 ATCC, Manassas, VA) were stably transduced with both vectors and sorted for equal GFP expression."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0006",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "THP-1"
+                }],
+              "neText" : "THP-1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "NanoBRET TGR5 plasmid was purchased from Sino Biological (Beijing, China).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NanoBRET TGR5 plasmid was purchased from Sino Biological (Beijing, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TGR5"
+                }],
+              "neText" : "TGR5"
+            }]
+        }, {
+          "sentence" : "17 HEK293T cells were transiently transfected with mini-Gs-Venus and either TGR5-Nluc or ADRB2-Nluc in a 7:3 ratio using Effectene Transfection Reagent (Qiagen, Venlo, The Netherlands) according to the manufacturers instructions.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "17 HEK293T cells were transiently transfected with mini-Gs-Venus and either TGR5-Nluc or ADRB2-Nluc in a 7:3 ratio using Effectene Transfection Reagent (Qiagen, Venlo, The Netherlands) according to the manufacturers instructions."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TGR5-Nluc"
+                }],
+              "neText" : "TGR5-Nluc"
+            }]
+        }, {
+          "sentence" : "pLV-C-GFPSpark (EV, LVCV-01) and pLV-G-protein-coupled bile acid receptor 1-GFPSpark (TGR5 vector, HG11472-ACGLN) were purchased from Sino Biological, Inc.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "pLV-C-GFPSpark (EV, LVCV-01) and pLV-G-protein-coupled bile acid receptor 1-GFPSpark (TGR5 vector, HG11472-ACGLN) were purchased from Sino Biological, Inc."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLV-C-GFPSpark"
+                }],
+              "neText" : "pLV-C-GFPSpark"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Bile Acids Total bile acid levels in serum were quantified by an enzymatic colorimetric kit (Abbott Laboratories, Abbott Park, IL).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bile Acids Total bile acid levels in serum were quantified by an enzymatic colorimetric kit (Abbott Laboratories, Abbott Park, IL)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Abbott Laboratories"
+                }],
+              "neText" : "Abbott Laboratories"
+            }]
+        }, {
+          "sentence" : "Table 6 Primers Used for Quantitative Real-Time Polymerase Chain Reaction Gene name Gene symbol Gene ID Forward primer, 5 to 3 Reverse primer, 5 to 3 Target gene TGR5 GPBAR1 151306 CTCCCAGGCTATCTTCCCAG ACAGAGAGGAAGGCAGCAG Housekeeping genes Calnexin CANX 821 AAGGTTACTTACAAAGCTCC ACTCCTTCATTTCCTCTACC Ubiquitin C UBC 7316 TCGCAGCCGGGATTTGG TCACGAAGATCTGCATTGTCAAG Proteasome 20S subunit b3 PSMB3 5691 GTCCACATCATCGAGAAGGACA GGCTCTGGGAACAGGGTTAG Statistics Statistical analysis was conducted as indicated in the respective figure legends using GraphPad Prism (La Jolla, CA) or SPSS (IBM, Chicago, IL).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Table 6 Primers Used for Quantitative Real-Time Polymerase Chain Reaction Gene name Gene symbol Gene ID Forward primer, 5 to 3 Reverse primer, 5 to 3 Target gene TGR5 GPBAR1 151306 CTCCCAGGCTATCTTCCCAG ACAGAGAGGAAGGCAGCAG Housekeeping genes Calnexin CANX 821 AAGGTTACTTACAAAGCTCC ACTCCTTCATTTCCTCTACC Ubiquitin C UBC 7316 TCGCAGCCGGGATTTGG TCACGAAGATCTGCATTGTCAAG Proteasome 20S subunit b3 PSMB3 5691 GTCCACATCATCGAGAAGGACA GGCTCTGGGAACAGGGTTAG Statistics Statistical analysis was conducted as indicated in the respective figure legends using GraphPad Prism (La Jolla, CA) or SPSS (IBM, Chicago, IL)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Healthy volunteers had no past medical history of cholestatic or liver diseases and were classified according to American Society of Anesthesiology (ASA) physical status classification system as ASA I or II. Study Approval The protocol was approved by the Ethical Committee of the Jena University Hospital.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Healthy volunteers had no past medical history of cholestatic or liver diseases and were classified according to American Society of Anesthesiology (ASA) physical status classification system as ASA I or II. Study Approval The protocol was approved by the Ethical Committee of the Jena University Hospital."
+              }]
+          }, {
+            "sentence" : "All patients or their legal representatives and healthy volunteers provided written informed consent before inclusion in the study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients or their legal representatives and healthy volunteers provided written informed consent before inclusion in the study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Inclusion criteria were as follows: (1) age >=18 years (2) plasma disappearance rate of indocyanine green <10minute (3) plasma bilirubin level >170 mmolL and (4) international normalized ratio >1.5 andor overt hepatic encephalopathy (grades II-IV according to West Haven Criteria).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria were as follows: (1) age >=18 years (2) plasma disappearance rate of indocyanine green <10minute (3) plasma bilirubin level >170 mmolL and (4) international normalized ratio >1.5 andor overt hepatic encephalopathy (grades II-IV according to West Haven Criteria)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Inclusion criteria were as follows: (1) age >=18 years (2) plasma disappearance rate of indocyanine green <10minute (3) plasma bilirubin level >170 mmolL and (4) international normalized ratio >1.5 andor overt hepatic encephalopathy (grades II-IV according to West Haven Criteria).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria were as follows: (1) age >=18 years (2) plasma disappearance rate of indocyanine green <10minute (3) plasma bilirubin level >170 mmolL and (4) international normalized ratio >1.5 andor overt hepatic encephalopathy (grades II-IV according to West Haven Criteria)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each measurement was performed in triplicate and repeated at least 2 times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each measurement was performed in triplicate and repeated at least 2 times."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Each measurement was performed in triplicate and repeated at least 2 times.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each measurement was performed in triplicate and repeated at least 2 times."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

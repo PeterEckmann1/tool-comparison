@@ -1,0 +1,173 @@
+{
+  "docIdentifier" : "PMC8288058",
+  "sciscore" : 2,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Institutional Review Board of Stanford University and adhered to the Declaration of Helsinki and the Health Insurance Portability and Accountability Act Subjects were evaluated and recruited at Byers Eye Institute at Stanford University Medical Center between April and October 2019.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Institutional Review Board of Stanford University and adhered to the Declaration of Helsinki and the Health Insurance Portability and Accountability Act Subjects were evaluated and recruited at Byers Eye Institute at Stanford University Medical Center between April and October 2019."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "For the exclusion criteria, we excluded all subjects with intraocular pressure greater than 21 mm Hg or history of any other optic neuropathies, including glaucoma.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the exclusion criteria, we excluded all subjects with intraocular pressure greater than 21 mm Hg or history of any other optic neuropathies, including glaucoma."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Results are shown as mean fluorescence intensity averaged between duplicates for each sample and normalized against Chex 4 values.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Results are shown as mean fluorescence intensity averaged between duplicates for each sample and normalized against Chex 4 values."
+              }],
+            "mention" : {
+              "neText" : "duplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicates"
+                }]
+            }
+          }, {
+            "sentence" : "Results are shown as mean fluorescence intensity averaged between duplicates for each sample and normalized against Chex 4 values.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Results are shown as mean fluorescence intensity averaged between duplicates for each sample and normalized against Chex 4 values."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "We compared the mean values between control and chronic NAION groups with t-tests and tested the significance of the coefficient of group in multiple linear regressions of protein measurements when sex and age were also covariates.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We compared the mean values between control and chronic NAION groups with t-tests and tested the significance of the coefficient of group in multiple linear regressions of protein measurements when sex and age were also covariates."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }, {
+            "sentence" : "We checked whether the resulting P values were significant after Bonferroni correction for testing 76 proteins (P < 0.176 = 0.0013).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We checked whether the resulting P values were significant after Bonferroni correction for testing 76 proteins (P < 0.176 = 0.0013)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }, {
+            "sentence" : "We then performed principal component analysis (PCA) with subjectively chosen clusters, hierarchical clustering and Spearman correlations of the molecules that had P < 0.05 for status effect in multiple linear regression or P < 0.05 in the permutation test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We then performed principal component analysis (PCA) with subjectively chosen clusters, hierarchical clustering and Spearman correlations of the molecules that had P < 0.05 for status effect in multiple linear regression or P < 0.05 in the permutation test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman correlations"
+                  }],
+                "neText" : "Spearman correlations"
+              }]
+          }]
+      }]
+  }
+}

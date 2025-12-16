@@ -1,0 +1,188 @@
+{
+  "docIdentifier" : "PMC8277202",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical Analysis and Sample Size Statistical analysis was performed using IBM SPSS software for Windows (version 25, 2017, IBM Corporation, Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis and Sample Size Statistical analysis was performed using IBM SPSS software for Windows (version 25, 2017, IBM Corporation, Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study is the 6-month postpartum metabolic subsection of a larger prospective cohort study, the Postpartum Physiology, Psychology and Paediatric follow-up study (P4 study) (18) and was approved by the South-Eastern Sydney Local Health District Human Research Ethics Committee (HREC12POWH395).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study is the 6-month postpartum metabolic subsection of a larger prospective cohort study, the Postpartum Physiology, Psychology and Paediatric follow-up study (P4 study) (18) and was approved by the South-Eastern Sydney Local Health District Human Research Ethics Committee (HREC12POWH395)."
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained from all participants .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from all participants ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "English-speaking women who had given birth to a live singleton at St George Hospital within the preceding 6 months were eligible for inclusion.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "English-speaking women who had given birth to a live singleton at St George Hospital within the preceding 6 months were eligible for inclusion."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "English-speaking women who had given birth to a live singleton at St George Hospital within the preceding 6 months were eligible for inclusion.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "English-speaking women who had given birth to a live singleton at St George Hospital within the preceding 6 months were eligible for inclusion."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "As such, an a priori power calculation was not performed for this substudy.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "As such, an a priori power calculation was not performed for this substudy."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "To identify any significant differences in energy intake and expenditure parameters between previously preeclamptic and normotensive cohorts, 2-tailed, independent samples t tests were conducted.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To identify any significant differences in energy intake and expenditure parameters between previously preeclamptic and normotensive cohorts, 2-tailed, independent samples t tests were conducted."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t tests"
+                  }],
+                "neText" : "t tests"
+              }]
+          }, {
+            "sentence" : "Fishers exact tests were performed to compare proportions between groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fishers exact tests were performed to compare proportions between groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact tests"
+                  }],
+                "neText" : "Fishers exact tests"
+              }]
+          }, {
+            "sentence" : "Pearsons correlations were used to determine the relationship between measures of energy balance and body composition.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pearsons correlations were used to determine the relationship between measures of energy balance and body composition."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearsons correlations"
+                  }],
+                "neText" : "Pearsons correlations"
+              }]
+          }]
+      }]
+  }
+}

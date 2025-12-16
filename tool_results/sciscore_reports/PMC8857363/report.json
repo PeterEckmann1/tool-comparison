@@ -1,0 +1,283 @@
+{
+  "docIdentifier" : "PMC8857363",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The G*Power program (v3.1.9.2 Franz Faul, University of Kiel, Kiel, Germany) was used to calculate the necessary sample size 22.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The G*Power program (v3.1.9.2 Franz Faul, University of Kiel, Kiel, Germany) was used to calculate the necessary sample size 22."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "G*Power, RRID:SCR_013726",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "G*Power"
+                }],
+              "neText" : "G*Power"
+            }]
+        }, {
+          "sentence" : "The fNIRS signal preprocessing , including the motion artifact correction , bandpass filtering , and conversion of HbO and HbR , were processed using the HOMER2 package 30 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The fNIRS signal preprocessing , including the motion artifact correction , bandpass filtering , and conversion of HbO and HbR , were processed using the HOMER2 package 30 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Homer2 (RRID:SCR_009586)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HOMER2"
+                }],
+              "neText" : "HOMER2"
+            }]
+        }, {
+          "sentence" : "The calculation of signal CVs and correlation analyses were performed using homemade scripts developed on MATLAB ( MathWorks , Natick , MA , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The calculation of signal CVs and correlation analyses were performed using homemade scripts developed on MATLAB ( MathWorks , Natick , MA , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }, {
+          "sentence" : "Statistical Analysis Statistical analysis was performed using SPSS 22.0 software (IBM Corp., Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis Statistical analysis was performed using SPSS 22.0 software (IBM Corp., Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All participants provided written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants provided written informed consent."
+              }]
+          }, {
+            "sentence" : "The study protocol was approved by the Institutional Review Board of Taipei Veterans General Hospital (201307011A).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol was approved by the Institutional Review Board of Taipei Veterans General Hospital (201307011A)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Participants were excluded if they had (1) a contraindication for rTMS treatment: presence of cardiac pacemakers or implantable cardioverter defibrillators, metal or magnetic objects in the brain, ear implants, aneurysm clips or coils, metal plates in the headbrain, and medication pumps for people (2) a history of epilepsy (3) visual defect or achromatopsia or (4) the presence of other neurological diseases such as Parkinsons disease or dementia.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants were excluded if they had (1) a contraindication for rTMS treatment: presence of cardiac pacemakers or implantable cardioverter defibrillators, metal or magnetic objects in the brain, ear implants, aneurysm clips or coils, metal plates in the headbrain, and medication pumps for people (2) a history of epilepsy (3) visual defect or achromatopsia or (4) the presence of other neurological diseases such as Parkinsons disease or dementia."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "To be included in the study, participants with stroke had to satisfy the following criteria: (1) experienced a single stroke, with 2 months to 2 years since onset (2) age between 30 and 80 years and (3) hemiparesis with upper limb weakness and functional impairment.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To be included in the study, participants with stroke had to satisfy the following criteria: (1) experienced a single stroke, with 2 months to 2 years since onset (2) age between 30 and 80 years and (3) hemiparesis with upper limb weakness and functional impairment."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The randomization order was computer-generated and concealed in sequentially numbered opaque envelopes by an independent statistician.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The randomization order was computer-generated and concealed in sequentially numbered opaque envelopes by an independent statistician."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Clinical assessment was conducted by an experienced physician blinded to patients group allocation, and rTMS was performed by another investigator who was not involved in clinical assessment, patient follow-up, or data analysis. Fig. 1 CONSORT flowchart fNIRS Imaging System A multichannel wearable fNIRS imaging system (NIRSport, NIRx Medical Technologies, LLC, Glen Head, NY, USA) was used to simultaneously acquire dual-wavelength (760 and 850 nm) signals.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Clinical assessment was conducted by an experienced physician blinded to patients group allocation, and rTMS was performed by another investigator who was not involved in clinical assessment, patient follow-up, or data analysis. Fig. 1 CONSORT flowchart fNIRS Imaging System A multichannel wearable fNIRS imaging system (NIRSport, NIRx Medical Technologies, LLC, Glen Head, NY, USA) was used to simultaneously acquire dual-wavelength (760 and 850 nm) signals."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "In the one-way analysis of variance (ANOVA) test, an a-error of 0.05 and a b of 0.20 (power level of 0.80) were used, indicating a minimum of 39 patients.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In the one-way analysis of variance (ANOVA) test, an a-error of 0.05 and a b of 0.20 (power level of 0.80) were used, indicating a minimum of 39 patients."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Demographic data including sex, involved laterality, type of stroke, and location of lesion were compared by group using a chi-square test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Demographic data including sex, involved laterality, type of stroke, and location of lesion were compared by group using a chi-square test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }]
+          }, {
+            "sentence" : "For intragroup comparison, we used a paired t test to evaluate the group-wise motor improvement.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For intragroup comparison, we used a paired t test to evaluate the group-wise motor improvement."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }, {
+            "sentence" : "To compare the change scores of motor performance among the three groups, we used one-way ANOVA and a post hoc analysis with Bonferronis correction.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To compare the change scores of motor performance among the three groups, we used one-way ANOVA and a post hoc analysis with Bonferronis correction."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferronis"
+                  }],
+                "neText" : "Bonferronis"
+              }]
+          }, {
+            "sentence" : "To clarify the relationship between the distance of the fNIRS-HS from the mean MEP-HS and the motor improvement, we correlated the distance and change scores of motor performance in the fNIRS group using Spearmans correlation analyses.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To clarify the relationship between the distance of the fNIRS-HS from the mean MEP-HS and the motor improvement, we correlated the distance and change scores of motor performance in the fNIRS group using Spearmans correlation analyses."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearmans correlation"
+                  }],
+                "neText" : "Spearmans correlation"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "docIdentifier" : "PMC8653177",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Among patients who received chemotherapy with or without anti-CD20 antibody, immune modulatory drugs (IMIDs) or novel oral agents within the last 12 months, we selected a cohort of 99 patients and evaluated their SARS-CoV-2-specific T-cell response two weeks after the second dose independently from their serological status after vaccination.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Among patients who received chemotherapy with or without anti-CD20 antibody, immune modulatory drugs (IMIDs) or novel oral agents within the last 12 months, we selected a cohort of 99 patients and evaluated their SARS-CoV-2-specific T-cell response two weeks after the second dose independently from their serological status after vaccination."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD20"
+                }],
+              "neText" : "anti-CD20"
+            }]
+        }, {
+          "sentence" : "Briefly, the Roche Elecsys(r) Anti-SARS-CoV-2 S (Roche S tAb, Roche Diagnostics International Ltd, Rotkreuz, Switzerland) was used to measure antibodies directed against the receptor-binding domain (RBD) of the viral spike (S) protein.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly, the Roche Elecsys(r) Anti-SARS-CoV-2 S (Roche S tAb, Roche Diagnostics International Ltd, Rotkreuz, Switzerland) was used to measure antibodies directed against the receptor-binding domain (RBD) of the viral spike (S) protein."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "the Roche Elecsys(r)"
+                }],
+              "neText" : "the Roche Elecsys(r)"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "S (Roche S tAb, Roche Diagnostics International Ltd, Rotkreuz, Switzerland)"
+                }],
+              "neText" : "S (Roche S tAb, Roche Diagnostics International Ltd, Rotkreuz, Switzerland)"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The trial was approved by the Institutional Review Board of Istituto Nazionale dei Tumori, Milan, Italy, and written informed consent was collected from all patients (INT11221).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The trial was approved by the Institutional Review Board of Istituto Nazionale dei Tumori, Milan, Italy, and written informed consent was collected from all patients (INT11221)."
+              }]
+          }, {
+            "sentence" : "The trial was approved by the Institutional Review Board of Istituto Nazionale dei Tumori, Milan, Italy, and written informed consent was collected from all patients (INT11221).",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The trial was approved by the Institutional Review Board of Istituto Nazionale dei Tumori, Milan, Italy, and written informed consent was collected from all patients (INT11221)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients with a positive basal anti-SARS-CoV-2 S titre were excluded from this study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients with a positive basal anti-SARS-CoV-2 S titre were excluded from this study."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

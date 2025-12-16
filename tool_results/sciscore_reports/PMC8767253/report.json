@@ -1,0 +1,147 @@
+{
+  "docIdentifier" : "PMC8767253",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data were analysed using IBM SPSS version 21 ( IBM , Armonk , NY , USA)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analysed using IBM SPSS version 21 ( IBM , Armonk , NY , USA)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "A paper leaflet describing the purpose and nature of the study, consent form, and questionnaire were sent to the parents.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A paper leaflet describing the purpose and nature of the study, consent form, and questionnaire were sent to the parents."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were as follows: boys and girls aged 8–12 years; Saudi ethnic origin, and an eruption of at least one FPM.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were as follows: boys and girls aged 8–12 years; Saudi ethnic origin, and an eruption of at least one FPM."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "2 Materials and methods This was a cross-sectional survey conducted between March and April 2019, targeting 8–12-year-old Saudi schoolchildren in the third, fourth, fifth, and sixth grades attending public and private elementary schools in Riyadh.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Materials and methods This was a cross-sectional survey conducted between March and April 2019, targeting 8–12-year-old Saudi schoolchildren in the third, fourth, fifth, and sixth grades attending public and private elementary schools in Riyadh."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "The sample size was calculated using Java Applets by Lenth (2006–9).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The sample size was calculated using Java Applets by Lenth (2006–9)."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Associations between age and sex and the distribution and severity of MIH/HSPM were tested using chi-squared and Fisher’s exact tests.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Associations between age and sex and the distribution and severity of MIH/HSPM were tested using chi-squared and Fisher’s exact tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared"
+                  }],
+                "neText" : "chi-squared"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher’s exact tests"
+                  }],
+                "neText" : "Fisher’s exact tests"
+              }]
+          }]
+      }]
+  }
+}

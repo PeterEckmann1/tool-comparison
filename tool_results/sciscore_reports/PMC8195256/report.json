@@ -1,0 +1,512 @@
+{
+  "docIdentifier" : "PMC8195256",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Anti-APE1 (ab194), anti-PRMT1 (ab12189), anti-GAPDH (ab9485), anti-COX IV (ab16056), anti-TOM20 (ab56783), anti-Mia40 (ab87033), anti-mono methyl arginine and dimethyl arginine (ab412), and anti-b tubulin (ab6160) antibodies were from Abcam (Cambridge, UK) the anti-Histone H3 antibody was from Cell Signaling Technology (Danvers, MA, USA 4499) anti-b-actin (GTX11003) anti-GFP antibodies were from GeneTex (Irvine, CA, USA 26673) and anti-asymmetric dimethyl-arginine (ASYM24, 07-414), anti-symmetric dimethyl-arginine (SYM10, 07-412), and anti-mitochondrial HSP70 antibodies were from Upstate (Lake Placid, NY, USA H1830-91A).",
+          "rowSpan" : 7,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Anti-APE1 (ab194), anti-PRMT1 (ab12189), anti-GAPDH (ab9485), anti-COX IV (ab16056), anti-TOM20 (ab56783), anti-Mia40 (ab87033), anti-mono methyl arginine and dimethyl arginine (ab412), and anti-b tubulin (ab6160) antibodies were from Abcam (Cambridge, UK) the anti-Histone H3 antibody was from Cell Signaling Technology (Danvers, MA, USA 4499) anti-b-actin (GTX11003) anti-GFP antibodies were from GeneTex (Irvine, CA, USA 26673) and anti-asymmetric dimethyl-arginine (ASYM24, 07-414), anti-symmetric dimethyl-arginine (SYM10, 07-412), and anti-mitochondrial HSP70 antibodies were from Upstate (Lake Placid, NY, USA H1830-91A)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(DSHB Cat# PCRP-PRMT6-1H4, RRID:AB_2619009)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-PRMT1"
+                }],
+              "neText" : "anti-PRMT1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GAPDH"
+                }],
+              "neText" : "anti-GAPDH"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(Karen Menuz, University of Connecticut Cat# anti-Amt, anti-CG6499, RRID:AB_2864754)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-COX"
+                }],
+              "neText" : "anti-COX"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TOM20"
+                }],
+              "neText" : "anti-TOM20"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Mia40"
+                }],
+              "neText" : "anti-Mia40"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(MBL International Cat# PM053-7, RRID:AB_10697035)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-b-actin"
+                }],
+              "neText" : "anti-b-actin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GFP"
+                }],
+              "neText" : "anti-GFP"
+            }]
+        }, {
+          "sentence" : "Immunoprecipitation using APE1 antibody was used to enrich APE1 to detect its methylation status.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Immunoprecipitation using APE1 antibody was used to enrich APE1 to detect its methylation status."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "APE1"
+                }],
+              "neText" : "APE1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Plasmids and recombinant proteins Human APE1 sequence was PCR amplified from HEK293 cell cDNA.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Plasmids and recombinant proteins Human APE1 sequence was PCR amplified from HEK293 cell cDNA."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0045",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293"
+                }],
+              "neText" : "HEK293"
+            }]
+        }, {
+          "sentence" : "SgRNA-plasmids were premixed (1:1:1) and cotransfected into HEK-293 cells with the donor, using Lipofectamine 2000 (Life Technologies, Carlsbad, CA, USA, 1 mg: 0.1 nmol).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "SgRNA-plasmids were premixed (1:1:1) and cotransfected into HEK-293 cells with the donor, using Lipofectamine 2000 (Life Technologies, Carlsbad, CA, USA, 1 mg: 0.1 nmol)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0045",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK-293"
+                }],
+              "neText" : "HEK-293"
+            }]
+        }, {
+          "sentence" : "HEK-293-R301K cell lines were used in APE1 mitochondrial localization experiments and cell survival assays after H2O2 treatment.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HEK-293-R301K cell lines were used in APE1 mitochondrial localization experiments and cell survival assays after H2O2 treatment."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK-293-R301K"
+                }],
+              "neText" : "HEK-293-R301K"
+            }]
+        }, {
+          "sentence" : "Briefly, HeLa cells were washed twice with 1xPBS and resuspended in 500 ml buffer A (10 mM Hepes, 10 mM KCl, 0.1 mM MgCl2, 0.1 mM EDTA, 0.1 mM DTT, 5 mM PMSF, pH = 7.9).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly, HeLa cells were washed twice with 1xPBS and resuspended in 500 ml buffer A (10 mM Hepes, 10 mM KCl, 0.1 mM MgCl2, 0.1 mM EDTA, 0.1 mM DTT, 5 mM PMSF, pH = 7.9)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0030",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa"
+                }],
+              "neText" : "HeLa"
+            }]
+        }, {
+          "sentence" : "HEK293 cells and HEK293-APE1-R301K KI cells were used in this assay.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HEK293 cells and HEK293-APE1-R301K KI cells were used in this assay."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293-APE1-R301K"
+                }],
+              "neText" : "HEK293-APE1-R301K"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "His-tagged APE1 was cloned to pET-14b plasmid.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "His-tagged APE1 was cloned to pET-14b plasmid."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pET-14b"
+                }],
+              "neText" : "pET-14b"
+            }]
+        }, {
+          "sentence" : "APE1 mutant plasmid were PCR generated using wild type pET-14b-His-APE1 as template with TianGen Fast HiFidelity PCR Kit (KP202) following standard protocol.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "APE1 mutant plasmid were PCR generated using wild type pET-14b-His-APE1 as template with TianGen Fast HiFidelity PCR Kit (KP202) following standard protocol."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pET-14b-His-APE1"
+                }],
+              "neText" : "pET-14b-His-APE1"
+            }]
+        }, {
+          "sentence" : "The pCDNA6.1-APE1-R301F plasmid was transfected into R301K KI cells and labeled R301F group.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The pCDNA6.1-APE1-R301F plasmid was transfected into R301K KI cells and labeled R301F group."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCDNA6.1-APE1-R301F"
+                }],
+              "neText" : "pCDNA6.1-APE1-R301F"
+            }]
+        }, {
+          "sentence" : "Cells were transfected with APE1-WT, APE1-R301K, or APE1-R301F plasmids using Lipofectamine 2000.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were transfected with APE1-WT, APE1-R301K, or APE1-R301F plasmids using Lipofectamine 2000."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "APE1-R301F"
+                }],
+              "neText" : "APE1-R301F"
+            }]
+        }, {
+          "sentence" : "MTT cell survival assay Cells were transfected with pCDNA6.1-APE1-WT, APE1-R301K, or APE1-R301F plasmids using Lipofectamine 2000.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MTT cell survival assay Cells were transfected with pCDNA6.1-APE1-WT, APE1-R301K, or APE1-R301F plasmids using Lipofectamine 2000."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCDNA6.1-APE1-WT"
+                }],
+              "neText" : "pCDNA6.1-APE1-WT"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Images were collected and processed using Zeiss blue software and sized in Adobe Photoshop CS5.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images were collected and processed using Zeiss blue software and sized in Adobe Photoshop CS5.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Adobe Photoshop, RRID:SCR_014199",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Adobe Photoshop"
+                }],
+              "neText" : "Adobe Photoshop"
+            }]
+        }, {
+          "sentence" : "We put three replicates of three independent data in Graphpad software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We put three replicates of three independent data in Graphpad software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad (RRID:SCR_000306)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Graphpad"
+                }],
+              "neText" : "Graphpad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "P2012).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "P2012)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "We put three replicates of three independent data in Graphpad software.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We put three replicates of three independent data in Graphpad software."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "We put three replicates of three independent data in Graphpad software.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We put three replicates of three independent data in Graphpad software."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Analysis of mtDNA damage by quantitative PCR (qPCR) mtDNA damage was analyzed by qPCR, as described previously 56,57,70.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Analysis of mtDNA damage by quantitative PCR (qPCR) mtDNA damage was analyzed by qPCR, as described previously 56,57,70."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "56,57,70"
+                  }],
+                "neText" : "56,57,70"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis We used students t-test for all comparisons between untreated and treated groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis We used students t-test for all comparisons between untreated and treated groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Data passed DAgostino-Pearson omnibus normality test and F test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data passed DAgostino-Pearson omnibus normality test and F test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Data passed DAgostino-Pearson omnibus normality test"
+                  }],
+                "neText" : "Data passed DAgostino-Pearson omnibus normality test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "F test"
+                  }],
+                "neText" : "F test"
+              }]
+          }]
+      }]
+  }
+}

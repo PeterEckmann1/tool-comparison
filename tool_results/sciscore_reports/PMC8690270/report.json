@@ -1,0 +1,129 @@
+{
+  "docIdentifier" : "PMC8690270",
+  "sciscore" : 3,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Patient Consent Statement All patients or their legally authorized representatives gave written or oral informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patient Consent Statement All patients or their legally authorized representatives gave written or oral informed consent."
+              }]
+          }, {
+            "sentence" : "This trial was approved by trial sites through a central institutional review board or local institutional review board or ethics committee at the study site.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This trial was approved by trial sites through a central institutional review board or local institutional review board or ethics committee at the study site."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients who were on invasive ventilation >24 hours, on ECMO, in shock, or with multiorgan failure requiring treatment in an intensive care unit were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients who were on invasive ventilation >24 hours, on ECMO, in shock, or with multiorgan failure requiring treatment in an intensive care unit were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "We included patients ≥18 years old hospitalized for moderate to severe COVID-19 pneumonia detected by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)–positive reverse-transcription polymerase chain reaction (RT-PCR) (within 7 days before randomization) and confirmed by chest radiography or computed tomography scan.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We included patients "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "18 years old hospitalized for moderate to severe COVID-19 pneumonia detected by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)–positive reverse-transcription polymerase chain reaction (RT-PCR) (within 7 days before randomization) and confirmed by chest radiography or computed tomography scan."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "METHODS Study Design and Patient Population This phase 2, open-label, randomized study was conducted at 26 sites in the United States.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHODS Study Design and Patient Population This phase 2, open-label, randomized study was conducted at 26 sites in the United States."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The Cochran-Mantel-Haenszel test, stratified by COVID-19 severity at baseline, was used to assess the between-group difference in mortality and incidence of mechanical ventilation by day 28.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Cochran-Mantel-Haenszel test, stratified by COVID-19 severity at baseline, was used to assess the between-group difference in mortality and incidence of mechanical ventilation by day 28."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Cochran-Mantel-Haenszel test"
+                  }],
+                "neText" : "Cochran-Mantel-Haenszel test"
+              }]
+          }]
+      }]
+  }
+}

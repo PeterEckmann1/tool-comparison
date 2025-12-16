@@ -1,0 +1,632 @@
+{
+  "docIdentifier" : "PMC8881631",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Antibodies against GFP ( cat. no. AE012) , VDAC1 ( cat. no. A15735) , and PTEN ( cat. no. A19104 ) were purchased from ABclonal ( Wuhan , China) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibodies against GFP ( cat. no. AE012) , VDAC1 ( cat. no. A15735) , and PTEN ( cat. no. A19104 ) were purchased from ABclonal ( Wuhan , China) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "VDAC1"
+                }],
+              "neText" : "VDAC1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PTEN"
+                }],
+              "neText" : "PTEN"
+            }]
+        }, {
+          "sentence" : "Anti-GAPDH ( cat. no. 60004-1-Ig ) and anti-ANP ( cat no. 27426-1-AP ) were purchased from Proteintech ( Chicago , IL) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Anti-GAPDH ( cat. no. 60004-1-Ig ) and anti-ANP ( cat no. 27426-1-AP ) were purchased from Proteintech ( Chicago , IL) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-GAPDH"
+                }],
+              "neText" : "Anti-GAPDH"
+            }]
+        }, {
+          "sentence" : "Briefly , cells were lysed and the mitochondria were magnetically captured with anti-TOM22 antibody-coated beads .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly , cells were lysed and the mitochondria were magnetically captured with anti-TOM22 antibody-coated beads ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TOM22"
+                }],
+              "neText" : "anti-TOM22"
+            }]
+        }, {
+          "sentence" : "After incubation with the lnccytb probe and Cy3-labeled antisense miR-103-3p , heart sections were washed and treated with anti-DIG antibody ( PerkinElmer , Waltham , MA ) for 1 h at 37degC .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After incubation with the lnccytb probe and Cy3-labeled antisense miR-103-3p , heart sections were washed and treated with anti-DIG antibody ( PerkinElmer , Waltham , MA ) for 1 h at 37degC ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cy3-labeled antisense miR-103-3p"
+                }],
+              "neText" : "Cy3-labeled antisense miR-103-3p"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-DIG"
+                }],
+              "neText" : "anti-DIG"
+            }]
+        }, {
+          "sentence" : "The mitochondrial marker Tom20 antibody ( 1:50 ) and Hoechst were applied to the cardiomyocytes or sectioned heart and processed for confocal imaging .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The mitochondrial marker Tom20 antibody ( 1:50 ) and Hoechst were applied to the cardiomyocytes or sectioned heart and processed for confocal imaging ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Tom20"
+                }],
+              "neText" : "Tom20"
+            }]
+        }, {
+          "sentence" : "Co-immunoprecipitation with anti-GFP antibody HL-1 cells were co-transfected with pcDNA3.1-MS2, pcDNA3.1-MS2-lnccytb, pcDNA3.1-MS2-lnccytb-mut, and pMS2-GFP (Addgene).",
+          "rowSpan" : 5,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Co-immunoprecipitation with anti-GFP antibody HL-1 cells were co-transfected with pcDNA3.1-MS2, pcDNA3.1-MS2-lnccytb, pcDNA3.1-MS2-lnccytb-mut, and pMS2-GFP (Addgene)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GFP"
+                }],
+              "neText" : "anti-GFP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1-MS2"
+                }],
+              "neText" : "pcDNA3.1-MS2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1-MS2-lnccytb"
+                }],
+              "neText" : "pcDNA3.1-MS2-lnccytb"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1-MS2-lnccytb-mut"
+                }],
+              "neText" : "pcDNA3.1-MS2-lnccytb-mut"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMS2-GFP"
+                }],
+              "neText" : "pMS2-GFP"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "To evaluate intracellular ROS production in vitro , AC16 cells were incubated with DHE ( Invitrogen , Carlsbad , CA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To evaluate intracellular ROS production in vitro , AC16 cells were incubated with DHE ( Invitrogen , Carlsbad , CA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_4U18",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AC16"
+                }],
+              "neText" : "AC16"
+            }]
+        }, {
+          "sentence" : "RNA pull-down Biotinylated miR-103-3p mimic or control miRNA was transfected into HL-1 cells for 48 h .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RNA pull-down Biotinylated miR-103-3p mimic or control miRNA was transfected into HL-1 cells for 48 h ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0303",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HL-1"
+                }],
+              "neText" : "HL-1"
+            }]
+        }, {
+          "sentence" : "Dual luciferase assay For the dual luciferase assay, 400 ng of pMIR-PTEN 3 UTR, pMIR-PTEN 3 UTR mutant, or the empty vector was transfected into HEK293T cells with 40 ng of pRL-TK plasmid (Promega, Madison, WI).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Dual luciferase assay For the dual luciferase assay, 400 ng of pMIR-PTEN 3 UTR, pMIR-PTEN 3 UTR mutant, or the empty vector was transfected into HEK293T cells with 40 ng of pRL-TK plasmid (Promega, Madison, WI)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293T"
+                }],
+              "neText" : "HEK293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Male C57BL6 mice ( age , 8 weeks old ) were purchased from the Experimental Animal Center of Hubei ( Wuhan , China) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Male C57BL6 mice ( age , 8 weeks old ) were purchased from the Experimental Animal Center of Hubei ( Wuhan , China) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "76 Moreover , to figure out whether lnccytb could affect the cardiac function under normal condition , mice were randomly divided into the following groups: control , rAAV9-GFP , rAAV9-cytb , rAAV9-lnccytb , AAV9-sh-GFP , and AAV9-sh-lnccytb ( n = 5group) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "76 Moreover , to figure out whether lnccytb could affect the cardiac function under normal condition , mice were randomly divided into the following groups: control , rAAV9-GFP , rAAV9-cytb , rAAV9-lnccytb , AAV9-sh-GFP , and AAV9-sh-lnccytb ( n = 5group) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "rAAV9-GFP"
+                }],
+              "neText" : "rAAV9-GFP"
+            }]
+        }, {
+          "sentence" : "46 Briefly , linear mouse lnccytb and human lnccytb were cloned into the pcDNA3.1 vector with a T7 promoter .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "46 Briefly , linear mouse lnccytb and human lnccytb were cloned into the pcDNA3.1 vector with a T7 promoter ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_100544",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1"
+                }],
+              "neText" : "pcDNA3.1"
+            }]
+        }, {
+          "sentence" : "Dual luciferase assay For the dual luciferase assay, 400 ng of pMIR-PTEN 3 UTR, pMIR-PTEN 3 UTR mutant, or the empty vector was transfected into HEK293T cells with 40 ng of pRL-TK plasmid (Promega, Madison, WI).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Dual luciferase assay For the dual luciferase assay, 400 ng of pMIR-PTEN 3 UTR, pMIR-PTEN 3 UTR mutant, or the empty vector was transfected into HEK293T cells with 40 ng of pRL-TK plasmid (Promega, Madison, WI)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMIR-PTEN"
+                }],
+              "neText" : "pMIR-PTEN"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pRL-TK"
+                }],
+              "neText" : "pRL-TK"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Materials and methods Reagents Dulbeccos modified Eagles medium (DMEM) and fetal bovine serum (FBS) were purchased from Gibco (Grand Island,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Reagents Dulbeccos modified Eagles medium (DMEM) and fetal bovine serum (FBS) were purchased from Gibco (Grand Island,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }, {
+          "sentence" : "Fluorescence intensity was measured under a Nikon DXM1200 fluorescence microscope and analyzed using Image-Pro software ( Media Cybernetics , Bethesda , MD) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Fluorescence intensity was measured under a Nikon DXM1200 fluorescence microscope and analyzed using Image-Pro software ( Media Cybernetics , Bethesda , MD) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image-Pro"
+                }],
+              "neText" : "Image-Pro"
+            }]
+        }, {
+          "sentence" : "82 The intensities of individual bands were analyzed by densitometry using ImageJ ( National Institutes of Health Software , Bethesda , MD ) and normalized to the level of GAPDH .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "82 The intensities of individual bands were analyzed by densitometry using ImageJ ( National Institutes of Health Software , Bethesda , MD ) and normalized to the level of GAPDH ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Images were captured with a Nikon DXM1200 fluorescence microscope , and quantification was performed using Image-Pro Plus v.6.0 software ( Media Cybernetics , Bethesda ,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images were captured with a Nikon DXM1200 fluorescence microscope , and quantification was performed using Image-Pro Plus v.6.0 software ( Media Cybernetics , Bethesda ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image-Pro Plus"
+                }],
+              "neText" : "Image-Pro Plus"
+            }]
+        }, {
+          "sentence" : "All calculations were performed using Prism (v.8 GraphPad Software, La Jolla, CA). p < 0.05 was considered significant.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All calculations were performed using Prism (v.8 GraphPad Software, La Jolla, CA). p < 0.05 was considered significant."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prism"
+                }],
+              "neText" : "Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All procedures involving human specimens were authorized by the ethics committee of Tongji Hospital and Tongji Medical College.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All procedures involving human specimens were authorized by the ethics committee of Tongji Hospital and Tongji Medical College."
+              }]
+          }, {
+            "sentence" : "All participants were aware of the nature of the study and gave written consent for their participation .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants were aware of the nature of the study and gave written consent for their participation ."
+              }]
+          }, {
+            "sentence" : "Animals The research was approved by the Institutional Animal Research Committee of Tongji Medical College.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals The research was approved by the Institutional Animal Research Committee of Tongji Medical College."
+              }]
+          }, {
+            "sentence" : "For preventative effect , 2 weeks after virus injection , mice were anesthetized with pentobarbital ( 60 mgkg , intraperitoneal injection ) and mechanically ventilated with a tidal volume of 0.2 mL and a respiratory rate of 100 breaths per minute , and then TAC was applied to induce pressure-overload-induced cardiac hypertrophy as previously reported.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For preventative effect , 2 weeks after virus injection , mice were anesthetized with pentobarbital ( 60 mgkg , intraperitoneal injection ) and mechanically ventilated with a tidal volume of 0.2 mL and a respiratory rate of 100 breaths per minute , and then TAC was applied to induce pressure-overload-induced cardiac hypertrophy as previously reported."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "The left ventricular tissues from eight patients diagnosed with end-stage HF were collected during heart transplantation .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The left ventricular tissues from eight patients diagnosed with end-stage HF were collected during heart transplantation ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Male C57BL6 mice ( age , 8 weeks old ) were purchased from the Experimental Animal Center of Hubei ( Wuhan , China) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male C57BL6 mice ( age , 8 weeks old ) were purchased from the Experimental Animal Center of Hubei ( Wuhan , China) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Male C57BL6 mice ( age , 8 weeks old ) were purchased from the Experimental Animal Center of Hubei ( Wuhan , China) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male C57BL6 mice ( age , 8 weeks old ) were purchased from the Experimental Animal Center of Hubei ( Wuhan , China) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "To manipulate the expression levels of cytb mRNA and lnccytb , mice were randomly divided into the following groups: sham , TAC , TAC + rAAV9-GFP , TAC + rAAV9-cytb , and TAC + rAAV9-lnccytb ( n = 10group) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To manipulate the expression levels of cytb mRNA and lnccytb , mice were randomly divided into the following groups: sham , TAC , TAC + rAAV9-GFP , TAC + rAAV9-cytb , and TAC + rAAV9-lnccytb ( n = 10group) ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each sample had three replicate measurements .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each sample had three replicate measurements ."
+              }],
+            "mention" : {
+              "neText" : "replicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicate"
+                }]
+            }
+          }, {
+            "sentence" : "Each sample had three replicate measurements .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each sample had three replicate measurements ."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical comparisons were made by two-tailed unpaired Students t test for two groups or one-way analysis of variance (ANOVA) followed by the Tukey post hoc analysis for three groups or more.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical comparisons were made by two-tailed unpaired Students t test for two groups or one-way analysis of variance (ANOVA) followed by the Tukey post hoc analysis for three groups or more."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey post hoc"
+                  }],
+                "neText" : "Tukey post hoc"
+              }]
+          }, {
+            "sentence" : "If the data distribution failed normality by the Shapiro-Wilk test, the Mann-Whitney U test for two groups was performed.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "If the data distribution failed normality by the Shapiro-Wilk test, the Mann-Whitney U test for two groups was performed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk test"
+                  }],
+                "neText" : "Shapiro-Wilk test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }]
+      }]
+  }
+}

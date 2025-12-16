@@ -1,0 +1,282 @@
+{
+  "docIdentifier" : "PMC8039634",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Gender, tumor characteristics, lymph node status, distant metastases, biochemical profile (e.g., thyroglobulin (Tg), thyroglobulin antibody (TgAb), and thyroid-stimulating hormone (TSH) levels), and imaging results were recorded at subsequent follow-up visits.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gender, tumor characteristics, lymph node status, distant metastases, biochemical profile (e.g., thyroglobulin (Tg), thyroglobulin antibody (TgAb), and thyroid-stimulating hormone (TSH) levels), and imaging results were recorded at subsequent follow-up visits."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "thyroglobulin (Tg), thyroglobulin"
+                }],
+              "neText" : "thyroglobulin (Tg), thyroglobulin"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Those with pT1 or pT2 tumors at N0M0 stage without aggressive histology were categorized as low risk, while those with aggressive histology or pT3, or N1 tumors were categorized as intermediate risk.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Those with pT1 or pT2 tumors at N0M0 stage without aggressive histology were categorized as low risk, while those with aggressive histology or pT3, or N1 tumors were categorized as intermediate risk."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pT1"
+                }],
+              "neText" : "pT1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_26557",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pT2"
+                }],
+              "neText" : "pT2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_69123",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pT3"
+                }],
+              "neText" : "pT3"
+            }]
+        }, {
+          "sentence" : "Patients with pT4 tumors or tumors at any T or N stage with M1 progression were considered high risk.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Patients with pT4 tumors or tumors at any T or N stage with M1 progression were considered high risk."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_108352",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pT4"
+                }],
+              "neText" : "pT4"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data were analyzed using the (IBM SPSS Statistics for Windows, Version 20.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analyzed using the (IBM SPSS Statistics for Windows, Version 20.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Research Ethics Committee of Royal Hospital.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Research Ethics Committee of Royal Hospital."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patient with incomplete information regarding disease status during the follow-up period were excluded from the study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patient with incomplete information regarding disease status during the follow-up period were excluded from the study."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "All Omani patients aged 18 years and above who were diagnosed with DTC and followed up at the NDEC thyroid oncology clinic during this period were included in the study.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All Omani patients aged 18 years and above who were diagnosed with DTC and followed up at the NDEC thyroid oncology clinic during this period were included in the study."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Associations were tested using univariate or multivariate tests.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Associations were tested using univariate or multivariate tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "multivariate tests"
+                  }],
+                "neText" : "multivariate tests"
+              }]
+          }, {
+            "sentence" : "For the univariate analysis, chi-square or independent t-tests were performed according to the nature of the variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the univariate analysis, chi-square or independent t-tests were performed according to the nature of the variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square"
+                  }],
+                "neText" : "chi-square"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }, {
+            "sentence" : "For the multivariate analysis, binary logistic regression was used to adjust for potential confounders.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the multivariate analysis, binary logistic regression was used to adjust for potential confounders."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "binary logistic regression"
+                  }],
+                "neText" : "binary logistic regression"
+              }]
+          }, {
+            "sentence" : "Kaplan-Meier curves were plotted, and log-rank tests conducted to compare prognostic factors for DFS.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Kaplan-Meier curves were plotted, and log-rank tests conducted to compare prognostic factors for DFS."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank tests"
+                  }],
+                "neText" : "log-rank tests"
+              }]
+          }]
+      }]
+  }
+}

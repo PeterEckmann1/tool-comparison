@@ -1,0 +1,174 @@
+{
+  "docIdentifier" : "PMC8695745",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "IBM SPSS Statistics , version 25 was used for PCA and IBM SPSS AMOS 24 for CFA and SEM ( SPSS Inc , Chicago , IL , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "IBM SPSS Statistics , version 25 was used for PCA and IBM SPSS AMOS 24 for CFA and SEM ( SPSS Inc , Chicago , IL , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "General written consent of parents for such type of educational research is collected in advance at the beginning of each school year .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "General written consent of parents for such type of educational research is collected in advance at the beginning of each school year ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Initial number of components was extracted by criterium Eigenvalue >1; Statements with component loading below 0.50 were excluded from the poll .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Initial number of components was extracted by criterium Eigenvalue >1; Statements with component loading below 0.50 were excluded from the poll ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Average age of children in seventh and ninth grade is 12 to 13 and 14 to 15 years, respectively.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Average age of children in seventh and ninth grade is 12 to 13 and 14 to 15 years, respectively."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Spearman’s correlations among statements were examined and statements that correlated with all other statements less than 0.4 and more than 0.8 were deleted from further analysis to prevent error , unreliability , and multicollinearity . 30 Following Kaiser–Meyer–Olkin ( KMO ) measure of sampling adequacy ( >0.70 ) and Barlett’s test of sphericity ( P < .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Spearman’s correlations among statements were examined and statements that correlated with all other statements less than 0.4 and more than 0.8 were deleted from further analysis to prevent error , unreliability , and multicollinearity . 30 Following Kaiser–Meyer–Olkin ( KMO ) measure of sampling adequacy ( >0.70 ) and Barlett’s test of sphericity ( P < ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman’s correlations"
+                  }],
+                "neText" : "Spearman’s correlations"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Barlett’s test"
+                  }],
+                "neText" : "Barlett’s test"
+              }]
+          }, {
+            "sentence" : "To estimate measurement invariance across 2 cohorts (boys and girls; 7th and 9th grade; previous attendance to BLS and AED courses) Wilcoxon signed ranks test was applied in addition to Mann–Whitney U test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To estimate measurement invariance across 2 cohorts (boys and girls; 7th and 9th grade; previous attendance to BLS and AED courses) Wilcoxon signed ranks test was applied in addition to Mann–Whitney U test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed ranks test"
+                  }],
+                "neText" : "Wilcoxon signed ranks test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann–Whitney U test"
+                  }],
+                "neText" : "Mann–Whitney U test"
+              }]
+          }]
+      }]
+  }
+}

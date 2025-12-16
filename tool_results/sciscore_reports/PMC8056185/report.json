@@ -1,0 +1,315 @@
+{
+  "docIdentifier" : "PMC8056185",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "C57BL6 female mice ( 5-6 weeks old ) were purchased from Beijing Huafukang Biotechnology Co . Ltd. ( Beijing , China) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "C57BL6 female mice ( 5-6 weeks old ) were purchased from Beijing Huafukang Biotechnology Co . Ltd. ( Beijing , China) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "The pCKb11 or pvax was then added to this solution to obtain the F-PPPDpCKb11 or F-PPPDpvax complex via self-assembly .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The pCKb11 or pvax was then added to this solution to obtain the F-PPPDpCKb11 or F-PPPDpvax complex via self-assembly ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCKb11"
+                }],
+              "neText" : "pCKb11"
+            }]
+        }, {
+          "sentence" : "First , pCKb11 was added to the F-PPPD nanoparticles at different weight ratios ( pCKb11:F-PPPD ) of 1:0 , 1:12.5 , 1:25 and 1:50 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "First , pCKb11 was added to the F-PPPD nanoparticles at different weight ratios ( pCKb11:F-PPPD ) of 1:0 , 1:12.5 , 1:25 and 1:50 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCKb11:F-PPPD"
+                }],
+              "neText" : "pCKb11:F-PPPD"
+            }]
+        }, {
+          "sentence" : "2.7 In vitro gene transfection efficiency Since the green fluorescence protein ( GFP ) is the most frequently used reporter , the plasmids encoding enhanced GFP ( pEGFP ) were used as the reporting system for analyzing the transfection efficiency in our study .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.7 In vitro gene transfection efficiency Since the green fluorescence protein ( GFP ) is the most frequently used reporter , the plasmids encoding enhanced GFP ( pEGFP ) were used as the reporting system for analyzing the transfection efficiency in our study ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_58345",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pEGFP"
+                }],
+              "neText" : "pEGFP"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2.3 Molecular dynamics of the interaction between FA-PEG-PCL-PEG-FA and DOTAP The structure of DOTAP was first established with Marvin Sketch ( http:www.chemaxon.com) , followed by being refinement at the molecular mechanical level via the MMFF94 method 22 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.3 Molecular dynamics of the interaction between FA-PEG-PCL-PEG-FA and DOTAP The structure of DOTAP was first established with Marvin Sketch ( http:www.chemaxon.com) , followed by being refinement at the molecular mechanical level via the MMFF94 method 22 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http:www.chemaxon.com"
+                }],
+              "neText" : "http:www.chemaxon.com"
+            }]
+        }, {
+          "sentence" : "Finally , the gel was photographed using a gel imaging system ( Bio-Rad Laboratories , Hercules , CA , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Finally , the gel was photographed using a gel imaging system ( Bio-Rad Laboratories , Hercules , CA , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Bio-Rad Laboratories (RRID:SCR_008426)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bio-Rad Laboratories"
+                }],
+              "neText" : "Bio-Rad Laboratories"
+            }]
+        }, {
+          "sentence" : "All statistical results were analyzed by using GraphPad Prism software version 7 (GraphPad, San Diego, US).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical results were analyzed by using GraphPad Prism software version 7 (GraphPad, San Diego, US)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "In this study , all experiments about mice were conducted according to the guidelines approved by the Animal Experimental Ethics Committee of SKLB , Sichuan University . 2.2 Synthesis of MPEG-PCL-MPEG and FA-PEG-PCL-PEG-FA polymers The MPEG-PCL-MPEG polymers were synthesized according to the following steps .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In this study , all experiments about mice were conducted according to the guidelines approved by the Animal Experimental Ethics Committee of SKLB , Sichuan University . 2.2 Synthesis of MPEG-PCL-MPEG and FA-PEG-PCL-PEG-FA polymers The MPEG-PCL-MPEG polymers were synthesized according to the following steps ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "C57BL6 female mice ( 5-6 weeks old ) were purchased from Beijing Huafukang Biotechnology Co . Ltd. ( Beijing , China) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "C57BL6 female mice ( 5-6 weeks old ) were purchased from Beijing Huafukang Biotechnology Co . Ltd. ( Beijing , China) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "C57BL6 female mice ( 5-6 weeks old ) were purchased from Beijing Huafukang Biotechnology Co . Ltd. ( Beijing , China) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "C57BL6 female mice ( 5-6 weeks old ) were purchased from Beijing Huafukang Biotechnology Co . Ltd. ( Beijing , China) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "After inoculation , mice were randomly allocated into five groups: ( A ) GS , 5 glucose solution ( B ) F-PPPD nanoparticles ( vehicle ) ( C ) F-PPPDpvax complex ( D ) PPPDpCKb11 complex and ( E ) F-PPPDpCKb11 complex .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After inoculation , mice were randomly allocated into five groups: ( A ) GS , 5 glucose solution ( B ) F-PPPD nanoparticles ( vehicle ) ( C ) F-PPPDpvax complex ( D ) PPPDpCKb11 complex and ( E ) F-PPPDpCKb11 complex ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The ELISA results were shown as the means of triplicate wells .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The ELISA results were shown as the means of triplicate wells ."
+              }],
+            "mention" : {
+              "neText" : "wells",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "wells"
+                }]
+            }
+          }, {
+            "sentence" : "After repeating the aforementioned step for thrice , the obtained product , MPEG-PCL-MPEG , was dialyzed and freeze-dried.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After repeating the aforementioned step for thrice , the obtained product , MPEG-PCL-MPEG , was dialyzed and freeze-dried."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "2.16 Statistical analysis Statistical analysis for comparing two groups was performed by Students test, while One-way analysis of variance (ANOVA) was used for statistical analysis of multiple comparisons.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.16 Statistical analysis Statistical analysis for comparing two groups was performed by Students test, while One-way analysis of variance (ANOVA) was used for statistical analysis of multiple comparisons."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students test"
+                  }],
+                "neText" : "Students test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Survival analysis was performed by the Kaplan-Meier method (Log-rank test).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Survival analysis was performed by the Kaplan-Meier method (Log-rank test)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Log-rank test"
+                  }],
+                "neText" : "Log-rank test"
+              }]
+          }]
+      }]
+  }
+}

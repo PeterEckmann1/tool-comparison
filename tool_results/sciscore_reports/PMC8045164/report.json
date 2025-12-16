@@ -1,0 +1,349 @@
+{
+  "docIdentifier" : "PMC8045164",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Western blotting Anti-GPER rabbit polyclonal antibody ( cat. no. D161727 1:350) , goat anti-rabbit IgG antibody ( cat. no. D111018 1:8,000)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Western blotting Anti-GPER rabbit polyclonal antibody ( cat. no. D161727 1:350) , goat anti-rabbit IgG antibody ( cat. no. D111018 1:8,000)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-GPER"
+                }],
+              "neText" : "Anti-GPER"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }]
+        }, {
+          "sentence" : "anti-matrix metalloproteinase ( MMP)2 ( cat. no. D161447 1:500) , anti-MMP9 ( cat. no. D162000 1:500 ) and anti-GAPDH ( cat. no. D110016 1:500 ) antibodies were purchased from Sangon Biotech Co . , Ltd.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "anti-matrix metalloproteinase ( MMP)2 ( cat. no. D161447 1:500) , anti-MMP9 ( cat. no. D162000 1:500 ) and anti-GAPDH ( cat. no. D110016 1:500 ) antibodies were purchased from Sangon Biotech Co . , Ltd."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-matrix metalloproteinase ( MMP)2"
+                }],
+              "neText" : "anti-matrix metalloproteinase ( MMP)2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-MMP9"
+                }],
+              "neText" : "anti-MMP9"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GAPDH"
+                }],
+              "neText" : "anti-GAPDH"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell transfection MCF-7 cells were incubated for 24 h prior to transfection.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell transfection MCF-7 cells were incubated for 24 h prior to transfection."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0031",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MCF-7"
+                }],
+              "neText" : "MCF-7"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "The CD151 3-untranslated region (UTR) was amplified from human cDNA by Shanghai GenePharma Co., Ltd., cloned into a pGL3 luciferase vector (Promega Corporation).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The CD151 3-untranslated region (UTR) was amplified from human cDNA by Shanghai GenePharma Co., Ltd., cloned into a pGL3 luciferase vector (Promega Corporation)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGL3"
+                }],
+              "neText" : "pGL3"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Protein bands were visualized using an enhanced chemiluminescence system ChemiDoc MP ( Bio-Rad Laboratories , Inc . ) and quantified using ImageJ software ( version 1.46 National Institutes of Health)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein bands were visualized using an enhanced chemiluminescence system ChemiDoc MP ( Bio-Rad Laboratories , Inc . ) and quantified using ImageJ software ( version 1.46 National Institutes of Health)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Bio-Rad Laboratories (RRID:SCR_008426)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bio-Rad Laboratories"
+                }],
+              "neText" : "Bio-Rad Laboratories"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Dual-luciferase reporter assay The target gene of miR-124 was predicted using the TargetScan database (http:www.targetscan.orgvert_71).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Dual-luciferase reporter assay The target gene of miR-124 was predicted using the TargetScan database (http:www.targetscan.orgvert_71)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "TargetScan (RRID:SCR_010845)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Statistical analysis was performed using GraphPad Prism 6.0 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Statistical analysis was performed using GraphPad Prism 6.0 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and methods Cell culture and treatment The human ER-positive breast cancer cell line, MCF-7, was purchased from Type Culture Collection of the Chinese Academy of Sciences (Shanghai, China) and stored in liquid nitrogen.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Cell culture and treatment The human ER-positive breast cancer cell line, MCF-7, was purchased from Type Culture Collection of the Chinese Academy of Sciences (Shanghai, China) and stored in liquid nitrogen."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Stained cells were counted in five randomly selected fields using an inverted light microscope ( Olympus Corporation magnification , x100 ) and the results were analyzed using ImageJ software ( version 1.52r National Institutes of Health)",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Stained cells were counted in five randomly selected fields using an inverted light microscope ( Olympus Corporation magnification , x100 ) and the results were analyzed using ImageJ software ( version 1.52r National Institutes of Health)"
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All experiments were performed in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were performed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "All experiments were performed in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were performed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Unpaired students t-test was used to compare differences between two groups, while one way ANOVA and Tukeys post hoc test were used to compare differences between multiple groups.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Unpaired students t-test was used to compare differences between two groups, while one way ANOVA and Tukeys post hoc test were used to compare differences between multiple groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys post hoc test"
+                  }],
+                "neText" : "Tukeys post hoc test"
+              }]
+          }]
+      }]
+  }
+}

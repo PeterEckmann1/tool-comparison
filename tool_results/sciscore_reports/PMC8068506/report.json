@@ -1,0 +1,265 @@
+{
+  "docIdentifier" : "PMC8068506",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "One slice was stained by standard hematoxylin-eosin staining protocol, and the neighbored slice stained by Ki-67 antibodies to assess tumor cell proliferation.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "One slice was stained by standard hematoxylin-eosin staining protocol, and the neighbored slice stained by Ki-67 antibodies to assess tumor cell proliferation."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ki-67"
+                }],
+              "neText" : "Ki-67"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "After iodine disinfection, 23-gauge Biopsy needles (in-radium 0.2 mm, Mantova, Italy) punctured the VX2 tumor under ultrasound guidance (LOGIQ E9 US scanner GE Healthcare, Pittsburgh, PA) with a 9.0-MHz linear transducer at a low mechanical index (0.10-0.40) Absolute ethanol (Pharmaceutical Secondary Standard, Sigma), or ethanol mixed with a specific dose of PTX (United States Pharmacopeia, Sigma) was slowly injected (0.1 mLS).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After iodine disinfection, 23-gauge Biopsy needles (in-radium 0.2 mm, Mantova, Italy) punctured the VX2 tumor under ultrasound guidance (LOGIQ E9 US scanner GE Healthcare, Pittsburgh, PA) with a 9.0-MHz linear transducer at a low mechanical index (0.10-0.40) Absolute ethanol (Pharmaceutical Secondary Standard, Sigma), or ethanol mixed with a specific dose of PTX (United States Pharmacopeia, Sigma) was slowly injected (0.1 mLS)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "Statistical analyses were performed using SPSS 22.0 (SPSS Inc., Chicago, IL, USA) and GraphPad Prism 6.01 (GraphPad Software, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were performed using SPSS 22.0 (SPSS Inc., Chicago, IL, USA) and GraphPad Prism 6.01 (GraphPad Software, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and Methods VX2 Rabbit Liver Cancer Model for PEPCT This study was approved by our institutional ethics committee (Ethics Committee, Nanchang University, Approved Number: 20-542).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods VX2 Rabbit Liver Cancer Model for PEPCT This study was approved by our institutional ethics committee (Ethics Committee, Nanchang University, Approved Number: 20-542)."
+              }]
+          }, {
+            "sentence" : "All experiments were conducted in conformity with institutional guidelines for the care and use of laboratory animals in Nanchang University, and the National Institutes of Health Guide for Care and Use of Laboratory Animals.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were conducted in conformity with institutional guidelines for the care and use of laboratory animals in Nanchang University, and the National Institutes of Health Guide for Care and Use of Laboratory Animals."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "For each slice we randomly selected three areas and averaged the values as each tumors m-PI value.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For each slice we randomly selected three areas and averaged the values as each tumors m-PI value."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "A Welch analysis of variance was performed to compare the differences of HNR among all the groups and Games-Howell test was performed to make pairwise comparisons between independent groups.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A Welch analysis of variance was performed to compare the differences of HNR among all the groups and Games-Howell test was performed to make pairwise comparisons between independent groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Welch analysis of variance"
+                  }],
+                "neText" : "Welch analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Games-Howell test"
+                  }],
+                "neText" : "Games-Howell test"
+              }]
+          }, {
+            "sentence" : "Kruskal-Wallis H-test and Bonferroni correction method were performed to compare the differences of RNR among all the groups and to make pairwise comparisons between independent groups, respectively.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Kruskal-Wallis H-test and Bonferroni correction method were performed to compare the differences of RNR among all the groups and to make pairwise comparisons between independent groups, respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis H-test"
+                  }],
+                "neText" : "Kruskal-Wallis H-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }, {
+            "sentence" : "One-way ANOVA and Tukeys test were performed to compare the differences of m-PI among all the groups and to make pairwise comparisons between independent groups, respectively.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way ANOVA and Tukeys test were performed to compare the differences of m-PI among all the groups and to make pairwise comparisons between independent groups, respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys test"
+                  }],
+                "neText" : "Tukeys test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "docIdentifier" : "PMC8612740",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "52 Whole genomic IQD-sYFP fusions were prepared by cloning up to 3kb of promoter including downstream genomic region up to the stop codon into the pPLV117 , containing a super Yellow Fluorescent Protein ( sYFP) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "52 Whole genomic IQD-sYFP fusions were prepared by cloning up to 3kb of promoter including downstream genomic region up to the stop codon into the pPLV117 , containing a super Yellow Fluorescent Protein ( sYFP) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pPLV117"
+                }],
+              "neText" : "pPLV117"
+            }]
+        }, {
+          "sentence" : "To generate UAS pro :PHS1DP-mNeonGreen and UAS pro :mNeonGreen-SpvB plasmids , PHS1DP-mNeonGreen and mNeonGreen-SpvB sequences were made by overlapping PCR and introduced into HpaI linearized pPLV32 .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To generate UAS pro :PHS1DP-mNeonGreen and UAS pro :mNeonGreen-SpvB plasmids , PHS1DP-mNeonGreen and mNeonGreen-SpvB sequences were made by overlapping PCR and introduced into HpaI linearized pPLV32 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : ":mNeonGreen-SpvB"
+                }],
+              "neText" : ":mNeonGreen-SpvB"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pPLV32"
+                }],
+              "neText" : "pPLV32"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "IQD6 pro :IQD6-sYFP This study NA Plasmid: IQD7 pro :IQD7-sYFP This study NA Plasmid: IQD8 pro :IQD8-sYFP This study NA Plasmid: UAS pro :PHS1DP-mNeonGreen This study NA Plasmid: UAS pro :mNeonGreen-SpvB This study NA Software and algorithms Fiji Schindelin et al. 49",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "IQD6 pro :IQD6-sYFP This study NA Plasmid: IQD7 pro :IQD7-sYFP This study NA Plasmid: IQD8 pro :IQD8-sYFP This study NA Plasmid: UAS pro :PHS1DP-mNeonGreen This study NA Plasmid: UAS pro :mNeonGreen-SpvB This study NA Software and algorithms Fiji Schindelin et al. 49"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Fiji (RRID:SCR_002285)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji"
+                }],
+              "neText" : "Fiji"
+            }]
+        }, {
+          "sentence" : "https:fiji.sc MorphoGraphX Barbier de Reuille et al. 21",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "https:fiji.sc MorphoGraphX Barbier de Reuille et al. 21"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:fiji.sc"
+                }],
+              "neText" : "https:fiji.sc"
+            }]
+        }, {
+          "sentence" : "https:www.mpipz.mpg.deMorphoGraphX R R Development Core Team 50",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "https:www.mpipz.mpg.deMorphoGraphX R R Development Core Team 50"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "R Project for Statistical Computing, RRID:SCR_001905",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "R Development Core"
+                }],
+              "neText" : "R Development Core"
+            }]
+        }, {
+          "sentence" : "https:www.r-project.org",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "https:www.r-project.org"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.r-project.org"
+                }],
+              "neText" : "https:www.r-project.org"
+            }]
+        }, {
+          "sentence" : "P values were corrected for multiple testing using an optimized false discovery rate (FDR) approach. 62 Quantification and statistical analysis Microsoft Excel was used to analyze the data.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "P values were corrected for multiple testing using an optimized false discovery rate (FDR) approach. 62 Quantification and statistical analysis Microsoft Excel was used to analyze the data."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The stained ovules embryos were mounted in a drop of chloral hydrate in a well generated by SecureSeal round imaging spacers ( 20mm , Thermofisher ) and observed by confocal microscopy taking z stack images .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The stained ovules embryos were mounted in a drop of chloral hydrate in a well generated by SecureSeal round imaging spacers ( 20mm , Thermofisher ) and observed by confocal microscopy taking z stack images ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "For quantification of cytoplasmic Lifeact-tdTomato signal , 4-mm region of interests ( ROIs ) ( n = 30 ) across the confocal sections from the raw image stack of the embryo were selected randomly for fluorescence intensity measurements .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For quantification of cytoplasmic Lifeact-tdTomato signal , 4-mm region of interests ( ROIs ) ( n = 30 ) across the confocal sections from the raw image stack of the embryo were selected randomly for fluorescence intensity measurements ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Materials availability DNA constructs and transgenic Arabidopsis seeds generated in this study are available from the lead contact , Dolf Weijers , upon request .",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials availability DNA constructs and transgenic Arabidopsis seeds generated in this study are available from the lead contact , Dolf Weijers , upon request ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "Deposited data Microarray This study GEO: GSE165986",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Deposited data Microarray This study GEO: GSE165986"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE165986"
+                  }],
+                "neText" : "GSE165986"
+              }]
+          }]
+      }]
+  }
+}

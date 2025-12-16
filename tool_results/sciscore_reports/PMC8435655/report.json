@@ -1,0 +1,161 @@
+{
+  "docIdentifier" : "PMC8435655",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All statistical analyses were performed using R software, version 3.6.3 (R Foundation for Statistical Computing, Vienna, Austria) and IBM SPSS for Windows, version 24.0 (IBM Corp., Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were performed using R software, version 3.6.3 (R Foundation for Statistical Computing, Vienna, Austria) and IBM SPSS for Windows, version 24.0 (IBM Corp., Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "METERIALS AND METHODS This study was approved by the Institutional Review Board of Hanyang University Guri Hospital (IRB No. 2020-08-032) and conformed to the tenets of the Declaration of Helsinki, which waived the need for informed consent because of the retrospective nature of the study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METERIALS AND METHODS This study was approved by the Institutional Review Board of Hanyang University Guri Hospital (IRB No. 2020-08-032) and conformed to the tenets of the Declaration of Helsinki, which waived the need for informed consent because of the retrospective nature of the study."
+              }]
+          }, {
+            "sentence" : "METERIALS AND METHODS This study was approved by the Institutional Review Board of Hanyang University Guri Hospital (IRB No. 2020-08-032) and conformed to the tenets of the Declaration of Helsinki, which waived the need for informed consent because of the retrospective nature of the study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METERIALS AND METHODS This study was approved by the Institutional Review Board of Hanyang University Guri Hospital (IRB No. 2020-08-032) and conformed to the tenets of the Declaration of Helsinki, which waived the need for informed consent because of the retrospective nature of the study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "As we described in the INTRODUCTION, patients with acute cerebral infarction caused by other causes except cardiac embolism, were excluded to reduce the possible effects of heterogeneity on HT after acute cerebral infarction.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "As we described in the INTRODUCTION, patients with acute cerebral infarction caused by other causes except cardiac embolism, were excluded to reduce the possible effects of heterogeneity on HT after acute cerebral infarction."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Overall, 578 patients were initially selected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Overall, 578 patients were initially selected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "All frontal skull HUs were measured by two faculty neurosurgeons who were blinded to the clinical data of all patients.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All frontal skull HUs were measured by two faculty neurosurgeons who were blinded to the clinical data of all patients."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical methods The chi-square and Students t-tests were conducted to assess clinical differences between the two groups, divided by HT or not.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical methods The chi-square and Students t-tests were conducted to assess clinical differences between the two groups, divided by HT or not."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square"
+                  }],
+                "neText" : "chi-square"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }]
+      }]
+  }
+}

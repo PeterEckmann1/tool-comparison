@@ -1,0 +1,120 @@
+{
+  "docIdentifier" : "PMC8601086",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The statistical analyses were performed in Python 3.6.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The statistical analyses were performed in Python 3.6."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Thus, informed consent was waived by the ethics committee of Beth Israel Deaconess Medical Center.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Thus, informed consent was waived by the ethics committee of Beth Israel Deaconess Medical Center."
+              }]
+          }, {
+            "sentence" : "Thus, informed consent was waived by the ethics committee of Beth Israel Deaconess Medical Center.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Thus, informed consent was waived by the ethics committee of Beth Israel Deaconess Medical Center."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Inclusion criteria and definition The patients were extracted based on The International Classification of Diseases, ninth Revision, Clinical Modification code of 008.45, indicating the diagnosis of intestinal infection due to Clostridium difficile at hospital discharge.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria and definition The patients were extracted based on The International Classification of Diseases, ninth Revision, Clinical Modification code of 008.45, indicating the diagnosis of intestinal infection due to Clostridium difficile at hospital discharge."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "We also extracted data for the first ICU stay of patients aged between 16 and 90 years old.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We also extracted data for the first ICU stay of patients aged between 16 and 90 years old."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "RF uses random bootstrap samples of raw data samples to construct a series of decision trees and use them for medical prediction and classification tasks.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RF uses random bootstrap samples of raw data samples to construct a series of decision trees and use them for medical prediction and classification tasks."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

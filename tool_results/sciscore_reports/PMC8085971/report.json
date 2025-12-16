@@ -1,0 +1,340 @@
+{
+  "docIdentifier" : "PMC8085971",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "After blocking with 5 non-fat milk in TBST for 1 h, the membranes for Cra and RpoB were, respectively, incubated with polyclonal anti-DDDDK (FLAG) tag (Abcam, Cambridge, MA, USA) and monoclonal anti-RpoB antibody (BioLegend, San Diego, CA, USA) for 1.5 h, washed 3 times with TBST, subsequently blotting with the goat anti-rabbit IgG and goat anti-mouse IgG HRP-conjugated secondary antibody (Abmart, Berkeley Heights, NJ, USA) for 1.5 h, and washed three times with TBST.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After blocking with 5 non-fat milk in TBST for 1 h, the membranes for Cra and RpoB were, respectively, incubated with polyclonal anti-DDDDK (FLAG) tag (Abcam, Cambridge, MA, USA) and monoclonal anti-RpoB antibody (BioLegend, San Diego, CA, USA) for 1.5 h, washed 3 times with TBST, subsequently blotting with the goat anti-rabbit IgG and goat anti-mouse IgG HRP-conjugated secondary antibody (Abmart, Berkeley Heights, NJ, USA) for 1.5 h, and washed three times with TBST."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-DDDDK"
+                }],
+              "neText" : "anti-DDDDK"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FLAG"
+                }],
+              "neText" : "FLAG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-RpoB"
+                }],
+              "neText" : "anti-RpoB"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "For over-expression of Cra and Fur, full-length cra and fur genes from NCM3722 were amplified by PCR and both cloned into pET24a via Nde IXho I, generating pET24a-cra and pET24a-fur, respectively.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For over-expression of Cra and Fur, full-length cra and fur genes from NCM3722 were amplified by PCR and both cloned into pET24a via Nde IXho I, generating pET24a-cra and pET24a-fur, respectively."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_109422",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pET24a"
+                }],
+              "neText" : "pET24a"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pET24a-cra"
+                }],
+              "neText" : "pET24a-cra"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pET24a-fur"
+                }],
+              "neText" : "pET24a-fur"
+            }]
+        }, {
+          "sentence" : "PCR products obtained by using primers listed in Table S1 were sub-cloned into T-vector pMD19 simple (Takara), and single colonies were picked and subjected to sequencing.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "PCR products obtained by using primers listed in Table S1 were sub-cloned into T-vector pMD19 simple (Takara), and single colonies were picked and subjected to sequencing."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMD19"
+                }],
+              "neText" : "pMD19"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "DEGs between a comparison of randomly picked two transcriptomes among the seven were characterized by DEseq2 twofold cut-off and adjusted P-value (q-value) <0.01 and followed by ANOVA analysis to identify genes that were statistically differentially expressed among the seven growth conditions (degrees_freedom1 = 6 and degrees_freedom2 = 14, P-value < 0.05).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "DEGs between a comparison of randomly picked two transcriptomes among the seven were characterized by DEseq2 twofold cut-off and adjusted P-value (q-value) <0.01 and followed by ANOVA analysis to identify genes that were statistically differentially expressed among the seven growth conditions (degrees_freedom1 = 6 and degrees_freedom2 = 14, P-value < 0.05)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq2 (RRID:SCR_015687)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DEseq2"
+                }],
+              "neText" : "DEseq2"
+            }]
+        }, {
+          "sentence" : "Heatmap visualization and KEGG pathway-enriched analysis Both tools for heatmap visualization and KEGG pathway-enriched analysis of the transcriptome data were conducted with OmicShare online platform ( www.omicshare.comtools ) ( GENE DENOVO) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Heatmap visualization and KEGG pathway-enriched analysis Both tools for heatmap visualization and KEGG pathway-enriched analysis of the transcriptome data were conducted with OmicShare online platform ( www.omicshare.comtools ) ( GENE DENOVO) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "Consensus of Crp and Cra binding sequences were generated by WebLogo 3 (Schneider and Stephens, 1990).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Consensus of Crp and Cra binding sequences were generated by WebLogo 3 (Schneider and Stephens, 1990)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "WEBLOGO (RRID:SCR_010236)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "WebLogo"
+                }],
+              "neText" : "WebLogo"
+            }]
+        }, {
+          "sentence" : "Signals corresponding to each protein were quantified with ImageJ (NIH) and presented as a relative amount to the level of that in Glc.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Signals corresponding to each protein were quantified with ImageJ (NIH) and presented as a relative amount to the level of that in Glc."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "FbP analysis was performed using 10 ml of sample loaded into a Nexera UPLC (SHIMADZU) with an ACQUITY UPLC C18 column (100 x 2.1 mm, 1.7 mm, Waters) and underwent gradient elution procedures then the sample was ionized by ESI and detected by QE high-resolution mass spectrometer (Thermo) with Xcalibur 4.0 workstation in the negative ion mode, scanning precursor ion mz 338.99 for FbP.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "FbP analysis was performed using 10 ml of sample loaded into a Nexera UPLC (SHIMADZU) with an ACQUITY UPLC C18 column (100 x 2.1 mm, 1.7 mm, Waters) and underwent gradient elution procedures then the sample was ionized by ESI and detected by QE high-resolution mass spectrometer (Thermo) with Xcalibur 4.0 workstation in the negative ion mode, scanning precursor ion mz 338.99 for FbP."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Xcalibur"
+                }],
+              "neText" : "Xcalibur"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "DEGs between a comparison of randomly picked two transcriptomes among the seven were characterized by DEseq2 twofold cut-off and adjusted P-value (q-value) <0.01 and followed by ANOVA analysis to identify genes that were statistically differentially expressed among the seven growth conditions (degrees_freedom1 = 6 and degrees_freedom2 = 14, P-value < 0.05).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "DEGs between a comparison of randomly picked two transcriptomes among the seven were characterized by DEseq2 twofold cut-off and adjusted P-value (q-value) <0.01 and followed by ANOVA analysis to identify genes that were statistically differentially expressed among the seven growth conditions (degrees_freedom1 = 6 and degrees_freedom2 = 14, P-value < 0.05)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Two to six independent repeats were performed for each target gene.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two to six independent repeats were performed for each target gene."
+              }],
+            "mention" : {
+              "neText" : "repeats",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeats"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "DEGs between a comparison of randomly picked two transcriptomes among the seven were characterized by DEseq2 twofold cut-off and adjusted P-value (q-value) <0.01 and followed by ANOVA analysis to identify genes that were statistically differentially expressed among the seven growth conditions (degrees_freedom1 = 6 and degrees_freedom2 = 14, P-value < 0.05).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "DEGs between a comparison of randomly picked two transcriptomes among the seven were characterized by DEseq2 twofold cut-off and adjusted P-value (q-value) <0.01 and followed by ANOVA analysis to identify genes that were statistically differentially expressed among the seven growth conditions (degrees_freedom1 = 6 and degrees_freedom2 = 14, P-value < 0.05)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Pearson correlation coefficient R between the expression of all the DEGs identified at the seven carbon substrates and the corresponding GR were then calculated.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pearson correlation coefficient R between the expression of all the DEGs identified at the seven carbon substrates and the corresponding GR were then calculated."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }]
+      }]
+  }
+}

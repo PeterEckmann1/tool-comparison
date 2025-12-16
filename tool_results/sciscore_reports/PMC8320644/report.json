@@ -1,0 +1,327 @@
+{
+  "docIdentifier" : "PMC8320644",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Serum levels of FSH, LH, prolactin were measured using a double-antibody radioimmunoassay with specific kits provided by the National Hormone and Peptide Program (Harbor-University of California at Los Angeles).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Serum levels of FSH, LH, prolactin were measured using a double-antibody radioimmunoassay with specific kits provided by the National Hormone and Peptide Program (Harbor-University of California at Los Angeles)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LH"
+                }],
+              "neText" : "LH"
+            }]
+        }, {
+          "sentence" : "In the next step, the sections were incubated for 30 min with Bovine Serum Albumin (BSA 3) diluted in PBS, and then washed with PBS to be incubated overnight with the primary anti-PCNA antibody (PCNA PC10: sc-56, Monoclonal, Santa Cruz Biotechnology, CA, USA - 1:100).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In the next step, the sections were incubated for 30 min with Bovine Serum Albumin (BSA 3) diluted in PBS, and then washed with PBS to be incubated overnight with the primary anti-PCNA antibody (PCNA PC10: sc-56, Monoclonal, Santa Cruz Biotechnology, CA, USA - 1:100)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-PCNA"
+                }],
+              "neText" : "anti-PCNA"
+            }]
+        }, {
+          "sentence" : "After the incubation period, the sections were washed again with PBS and incubated for 1 h with the secondary antibody (Goat Anti-Mouse peroxidase-labeled IgG, Catalog No. 474-1806",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After the incubation period, the sections were washed again with PBS and incubated for 1 h with the secondary antibody (Goat Anti-Mouse peroxidase-labeled IgG, Catalog No. 474-1806"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-Mouse peroxidase-labeled IgG"
+                }],
+              "neText" : "Anti-Mouse peroxidase-labeled IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "2 Material and methods 2.1 Animals Adult male and female Wistar rats (80 days old) were obtained from the Central Biotherium, Sao Paulo State University (UNESP), campus at BotucatuSP, Brazil, and maintained under controlled conditions (12 h of light12 h of darkness average temperature of 23 degC) in the Small Mammal Biotherium at the UNESP Department of Structural and Functional Biology (Morphology), Institute of Biosciences in Botucatu, with food and water ad libitum.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2 Material and methods 2.1 Animals Adult male and female Wistar rats (80 days old) were obtained from the Central Biotherium, Sao Paulo State University (UNESP), campus at BotucatuSP, Brazil, and maintained under controlled conditions (12 h of light12 h of darkness average temperature of 23 degC) in the Small Mammal Biotherium at the UNESP Department of Structural and Functional Biology (Morphology), Institute of Biosciences in Botucatu, with food and water ad libitum."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_13508588",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Wistar"
+                }],
+              "neText" : "Wistar"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Histological analyses were conducted under light microscopy, with the software packages Leica QWin 3 and ImageJ 1.48.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Histological analyses were conducted under light microscopy, with the software packages Leica QWin 3 and ImageJ 1.48."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Statistical analyses were performed using the software GraphPad Prism (Version 6.0).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were performed using the software GraphPad Prism (Version 6.0)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The project was filed under number 1089 with the Ethics Committee on Animal Experimentation of the UNESP Institute of Biosciences, in Botucatu.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The project was filed under number 1089 with the Ethics Committee on Animal Experimentation of the UNESP Institute of Biosciences, in Botucatu."
+              }]
+          }, {
+            "sentence" : "On GD 20, females were weighed and euthanized by CO2.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "On GD 20, females were weighed and euthanized by CO2."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2 Material and methods 2.1 Animals Adult male and female Wistar rats (80 days old) were obtained from the Central Biotherium, Sao Paulo State University (UNESP), campus at BotucatuSP, Brazil, and maintained under controlled conditions (12 h of light12 h of darkness average temperature of 23 degC) in the Small Mammal Biotherium at the UNESP Department of Structural and Functional Biology (Morphology), Institute of Biosciences in Botucatu, with food and water ad libitum.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Material and methods 2.1 Animals Adult male and female Wistar rats (80 days old) were obtained from the Central Biotherium, Sao Paulo State University (UNESP), campus at BotucatuSP, Brazil, and maintained under controlled conditions (12 h of light12 h of darkness average temperature of 23 degC) in the Small Mammal Biotherium at the UNESP Department of Structural and Functional Biology (Morphology), Institute of Biosciences in Botucatu, with food and water ad libitum."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "2 Material and methods 2.1 Animals Adult male and female Wistar rats (80 days old) were obtained from the Central Biotherium, Sao Paulo State University (UNESP), campus at BotucatuSP, Brazil, and maintained under controlled conditions (12 h of light12 h of darkness average temperature of 23 degC) in the Small Mammal Biotherium at the UNESP Department of Structural and Functional Biology (Morphology), Institute of Biosciences in Botucatu, with food and water ad libitum.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Material and methods 2.1 Animals Adult male and female Wistar rats (80 days old) were obtained from the Central Biotherium, Sao Paulo State University (UNESP), campus at BotucatuSP, Brazil, and maintained under controlled conditions (12 h of light12 h of darkness average temperature of 23 degC) in the Small Mammal Biotherium at the UNESP Department of Structural and Functional Biology (Morphology), Institute of Biosciences in Botucatu, with food and water ad libitum."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "2.2 Experimental design At weaning, on PND 21, female pups were randomly distributed among three experimental groups: control group, which received treatment with saline and rosuvastatin groups, which received the statin at doses of 3 or 10 mgKg.bw-1 (body weight) diluted in saline.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.2 Experimental design At weaning, on PND 21, female pups were randomly distributed among three experimental groups: control group, which received treatment with saline and rosuvastatin groups, which received the statin at doses of 3 or 10 mgKg.bw-1 (body weight) diluted in saline."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The fluid was deposited on a slide and analyzed under light microscopy.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The fluid was deposited on a slide and analyzed under light microscopy."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Shapiro-Wilks normality test was applied in the intragroup values, then results were compared among groups by one-way analysis of variance (ANOVA) followed by Tukeys test, for parametric variables, and by Kruskal-Wallis followed by Dunns test, for nonparametric variables.",
+            "rowSpan" : 6,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Shapiro-Wilks normality test was applied in the intragroup values, then results were compared among groups by one-way analysis of variance (ANOVA) followed by Tukeys test, for parametric variables, and by Kruskal-Wallis followed by Dunns test, for nonparametric variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilks normality test"
+                  }],
+                "neText" : "Shapiro-Wilks normality test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys test"
+                  }],
+                "neText" : "Tukeys test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis"
+                  }],
+                "neText" : "Kruskal-Wallis"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunns test"
+                  }],
+                "neText" : "Dunns test"
+              }]
+          }, {
+            "sentence" : "Then, the proportions were analyzed by the Fisher exact test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Then, the proportions were analyzed by the Fisher exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher exact test"
+                  }],
+                "neText" : "Fisher exact test"
+              }]
+          }]
+      }]
+  }
+}

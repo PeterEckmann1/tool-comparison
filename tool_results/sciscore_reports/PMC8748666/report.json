@@ -1,0 +1,192 @@
+{
+  "docIdentifier" : "PMC8748666",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "METHODS Animals and experimental design To obtain study animals, rats were bred using male and female Sprague-Dawley rats.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "METHODS Animals and experimental design To obtain study animals, rats were bred using male and female Sprague-Dawley rats."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_70508",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sprague-Dawley"
+                }],
+              "neText" : "Sprague-Dawley"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis Data were presented as the mean +- standard deviation, and statistical analyses were performed using SPSS software (v.26.0 SPSS, Inc., Chicago, IL, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Data were presented as the mean +- standard deviation, and statistical analyses were performed using SPSS software (v.26.0 SPSS, Inc., Chicago, IL, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "For this process, truncal blood was collected into ice-cold ethylenediamine tetraacetic acid-containing tubes after decapitation, after which the tubes were centrifuged, and plasma samples were collected and stored at -20degC until analysis.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For this process, truncal blood was collected into ice-cold ethylenediamine tetraacetic acid-containing tubes after decapitation, after which the tubes were centrifuged, and plasma samples were collected and stored at -20degC until analysis."
+              }]
+          }, {
+            "sentence" : "Ethics statement The procedures used and the care of animals were approved by the Institutional Animal Care and Use Committee in Southwest Medi-Chem Institute (approval No. SEMI-20-001).",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ethics statement The procedures used and the care of animals were approved by the Institutional Animal Care and Use Committee in Southwest Medi-Chem Institute (approval No. SEMI-20-001)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "METHODS Animals and experimental design To obtain study animals, rats were bred using male and female Sprague-Dawley rats.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHODS Animals and experimental design To obtain study animals, rats were bred using male and female Sprague-Dawley rats."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The body weight of the animals was measured every 3 days from postnatal day (PND) 18 to the day of vaginal opening (VO).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The body weight of the animals was measured every 3 days from postnatal day (PND) 18 to the day of vaginal opening (VO)."
+              }]
+          }, {
+            "sentence" : "The organ weight was then modified by body weight and presented as tissue weight per 150 g body weight.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The organ weight was then modified by body weight and presented as tissue weight per 150 g body weight."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "On day 18 after birth, we identified 15 immature females and randomly divided them into three groups: olfactory stimulation groups 1 and 2 and a control group (n = 5group).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "On day 18 after birth, we identified 15 immature females and randomly divided them into three groups: olfactory stimulation groups 1 and 2 and a control group (n = 5group)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical significance was determined by Kruskal-Wallis test and one-way analysis of variance for multiple-group comparisons and Mann-Whitney U test for comparisons between two groups.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical significance was determined by Kruskal-Wallis test and one-way analysis of variance for multiple-group comparisons and Mann-Whitney U test for comparisons between two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis test"
+                  }],
+                "neText" : "Kruskal-Wallis test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }]
+      }]
+  }
+}

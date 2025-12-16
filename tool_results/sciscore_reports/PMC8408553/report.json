@@ -1,0 +1,397 @@
+{
+  "docIdentifier" : "PMC8408553",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "The following cell growth media were used for each cell line: SUM149 ( HAMF-12 plus 1 L-glutamine , 5 mgmL insulin , 1 mgmL hydrocortisone , 5 non-heat-inactivated fetal bovine serum FBS) , and MDA-MB-231 ( MEM plus 10 non-heat inactivated FBS) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following cell growth media were used for each cell line: SUM149 ( HAMF-12 plus 1 L-glutamine , 5 mgmL insulin , 1 mgmL hydrocortisone , 5 non-heat-inactivated fetal bovine serum FBS) , and MDA-MB-231 ( MEM plus 10 non-heat inactivated FBS) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0062",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MDA-MB-231"
+                }],
+              "neText" : "MDA-MB-231"
+            }]
+        }, {
+          "sentence" : "These HEK293 cells have been engineered to stably co-express a TLR gene and an NF-kB-inducible SEAP ( secreted embryonic alkaline phosphatase ) reporter gene that can be monitored using SEAP detection media .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These HEK293 cells have been engineered to stably co-express a TLR gene and an NF-kB-inducible SEAP ( secreted embryonic alkaline phosphatase ) reporter gene that can be monitored using SEAP detection media ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0045",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293"
+                }],
+              "neText" : "HEK293"
+            }]
+        }, {
+          "sentence" : "After aspiration of serum-free media from the equilibrated invasion chambers , SUM149 cells were plated into the top chamber at a density of 35,000 cellswell ( 500 mL final volume ) in the presence of serum-free media alone or various combinations of agonists andor PAMAM-G3 ( 25 or 50 mgmL) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After aspiration of serum-free media from the equilibrated invasion chambers , SUM149 cells were plated into the top chamber at a density of 35,000 cellswell ( 500 mL final volume ) in the presence of serum-free media alone or various combinations of agonists andor PAMAM-G3 ( 25 or 50 mgmL) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_3422",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SUM149"
+                }],
+              "neText" : "SUM149"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Male MMTV-PyMT transgenic mice ( stock no: 002374 ) and female FVBNJ mice ( stock no: 001800 ) were purchased from The Jackson Laboratory .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Male MMTV-PyMT transgenic mice ( stock no: 002374 ) and female FVBNJ mice ( stock no: 001800 ) were purchased from The Jackson Laboratory ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:MGI:6143723",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FVBNJ"
+                }],
+              "neText" : "FVBNJ"
+            }]
+        }, {
+          "sentence" : "A breeding colony was established and maintained by crossing male transgenics to congenic FVB female mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A breeding colony was established and maintained by crossing male transgenics to congenic FVB female mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_RJ:FVB",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FVB"
+                }],
+              "neText" : "FVB"
+            }]
+        }, {
+          "sentence" : "Starting 5 weeks post birth , hemizygous MMTV-PyMT females were treated intraperitoneally twice per week with either PAMAM-G3 ( 20 mgkg ) or saline until mice were euthanized at 12 weeks of age.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Starting 5 weeks post birth , hemizygous MMTV-PyMT females were treated intraperitoneally twice per week with either PAMAM-G3 ( 20 mgkg ) or saline until mice were euthanized at 12 weeks of age."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MMTV-PyMT"
+                }],
+              "neText" : "MMTV-PyMT"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Materials and methods Reagents PAMAM-G3 solution was purchased from Sigma Aldrich and used in the in vitro experiments.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Reagents PAMAM-G3 solution was purchased from Sigma Aldrich and used in the in vitro experiments."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Sigma-Aldrich (RRID:SCR_008988)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma Aldrich"
+                }],
+              "neText" : "Sigma Aldrich"
+            }]
+        }, {
+          "sentence" : "The cells in the images were then counted using an ImageJ algorithm unique for each cell line ( https:imagej.netParticle_Analysis) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The cells in the images were then counted using an ImageJ algorithm unique for each cell line ( https:imagej.netParticle_Analysis) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "All data were plotted and statistically analyzed using GraphPad Prism (version 6.0 or 8.3) or JMP software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All data were plotted and statistically analyzed using GraphPad Prism (version 6.0 or 8.3) or JMP software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Genetically engineered breast cancer murine model All animal experiments were performed in compliance with the Duke Institutional Animal Care and Use Committee ( IACUC ) protocols and housed in an animal facility at Duke University ( Durham , NC , USA) .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Genetically engineered breast cancer murine model All animal experiments were performed in compliance with the Duke Institutional Animal Care and Use Committee ( IACUC ) protocols and housed in an animal facility at Duke University ( Durham , NC , USA) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "An additional PAMAM-G3 mouse was excluded due to having red lungs of double the usual mass, and histological evaluation indicating evidence of a hemorrhage.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "An additional PAMAM-G3 mouse was excluded due to having red lungs of double the usual mass, and histological evaluation indicating evidence of a hemorrhage."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Male MMTV-PyMT transgenic mice ( stock no: 002374 ) and female FVBNJ mice ( stock no: 001800 ) were purchased from The Jackson Laboratory .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male MMTV-PyMT transgenic mice ( stock no: 002374 ) and female FVBNJ mice ( stock no: 001800 ) were purchased from The Jackson Laboratory ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Starting 5 weeks post birth , hemizygous MMTV-PyMT females were treated intraperitoneally twice per week with either PAMAM-G3 ( 20 mgkg ) or saline until mice were euthanized at 12 weeks of age.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Starting 5 weeks post birth , hemizygous MMTV-PyMT females were treated intraperitoneally twice per week with either PAMAM-G3 ( 20 mgkg ) or saline until mice were euthanized at 12 weeks of age."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "With blinding as to treatment status, each metastatic lesion was identified, and then associated surface area determined based on the section where the lesion was largest using ImageJ.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "With blinding as to treatment status, each metastatic lesion was identified, and then associated surface area determined based on the section where the lesion was largest using ImageJ."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All data were presented as the mean +- standard error determined from 3-5 technical replicates.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All data were presented as the mean +- standard error determined from 3-5 technical replicates."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "All data were presented as the mean +- standard error determined from 3-5 technical replicates.",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All data were presented as the mean +- standard error determined from 3-5 technical replicates."
+              }]
+          }, {
+            "sentence" : "All conditions were tested in at least duplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All conditions were tested in at least duplicate."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Quantification and statistical analysis For all assays and experiments, statistical comparison between treatment groups was first tested for normality via the Shapiro-Wilk test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Quantification and statistical analysis For all assays and experiments, statistical comparison between treatment groups was first tested for normality via the Shapiro-Wilk test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk test"
+                  }],
+                "neText" : "Shapiro-Wilk test"
+              }]
+          }, {
+            "sentence" : "If normal, the groups were then compared via a two-tailed Students t test or an ANOVA with an appropriate post hoc test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "If normal, the groups were then compared via a two-tailed Students t test or an ANOVA with an appropriate post hoc test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "If normal, data were analyzed by a two-tailed Students t test or an ANOVA with a Holm-Sidak or Tukeys test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "If normal, data were analyzed by a two-tailed Students t test or an ANOVA with a Holm-Sidak or Tukeys test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Holm-Sidak"
+                  }],
+                "neText" : "Holm-Sidak"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys test"
+                  }],
+                "neText" : "Tukeys test"
+              }]
+          }, {
+            "sentence" : "If not normal, the data were then tested with the non-parametric Fishers exact test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "If not normal, the data were then tested with the non-parametric Fishers exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }]
+      }]
+  }
+}

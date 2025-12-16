@@ -1,0 +1,380 @@
+{
+  "docIdentifier" : "PMC8503744",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Specific antibodies against β-actin, p27, phosphorylated (p)ERK1/2, ERK1/2, pJNK, JNK, cyclin B1 and cyclin E were purchased from Santa Cruz Biotechnology, Inc.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Specific antibodies against "
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "-actin, p27, phosphorylated (p)ERK1/2, ERK1/2, pJNK, JNK, cyclin B1 and cyclin E were purchased from Santa Cruz Biotechnology, Inc."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p27, phosphorylated (p)ERK1/2, ERK1/2, pJNK, JNK"
+                }],
+              "neText" : "p27, phosphorylated (p)ERK1/2, ERK1/2, pJNK, JNK"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "cyclin B1"
+                }],
+              "neText" : "cyclin B1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "cyclin E"
+                }],
+              "neText" : "cyclin E"
+            }]
+        }, {
+          "sentence" : "After non-specific blocking in 5 % skimmed milk for 2 h at room temperature , the PVDF membranes were washed with PBS containing 0.1 % Tween-20 three times and incubated at 4°C overnight with specific primary antibodies against β-actin ( cat. no. sc-47778; 1:1,000)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After non-specific blocking in 5 % skimmed milk for 2 h at room temperature , the PVDF membranes were washed with PBS containing 0.1 % Tween-20 three times and incubated at 4°C overnight with specific primary antibodies against "
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "-actin ( cat. no. sc-47778; 1:1,000)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "symbol",
+                  "c" : "β"
+                }, {
+                  "f" : "default",
+                  "c" : "-actin"
+                }],
+              "neText" : "β-actin"
+            }]
+        }, {
+          "sentence" : "Subsequently , the membranes were reacted with the corresponding HRP-conjugated secondary antibody ( goat anti-mouse IgG; cat. no. AP130P; 1:10,000 ) diluted in TBS solution for 2 h at room temperature.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Subsequently , the membranes were reacted with the corresponding HRP-conjugated secondary antibody ( goat anti-mouse IgG; cat. no. AP130P; 1:10,000 ) diluted in TBS solution for 2 h at room temperature."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG"
+                }],
+              "neText" : "anti-mouse IgG"
+            }]
+        }, {
+          "sentence" : "For immunohistochemical staining, the sections(4-µm thick) obtained from the formalin-fixed and paraffin-embedded tissues were blocked with 3% BSA (Beyotime Institute of Biotechnology) diluted in 0.2% Triton X-100/PBS at room temperature for 30 min and stained with a Ki67 specific antibody (cat. no. ZA-0502; OriGene Technologies, Inc.) overnight at 4°C, followed by incubation with HRP-conjugated secondary antibody (cat. no. PV-6001) for 2 h at room temperature and development with a DAB Horseradish Peroxidase Color Development kit (cat. no. ZLI-9018; OriGene Technologies, Inc.).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For immunohistochemical staining, the sections(4-µm thick) obtained from the formalin-fixed and paraffin-embedded tissues were blocked with 3% BSA (Beyotime Institute of Biotechnology) diluted in 0.2% Triton X-100/PBS at room temperature for 30 min and stained with a Ki67 specific antibody (cat. no. ZA-0502; OriGene Technologies, Inc.) overnight at 4°C, followed by incubation with HRP-conjugated secondary antibody (cat. no. PV-6001) for 2 h at room temperature and development with a DAB Horseradish Peroxidase Color Development kit (cat. no. ZLI-9018; OriGene Technologies, Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ki67"
+                }],
+              "neText" : "Ki67"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Following trypsinization , ~2,000 PANC-1 cells in the logarithmic growth phase were prepared as a unicellular suspension to seed in a 96-well cell culture plate with 100 µl volume in triplicate.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Following trypsinization , ~2,000 PANC-1 cells in the logarithmic growth phase were prepared as a unicellular suspension to seed in a 96-well cell culture plate with 100 µl volume in triplicate."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PANC-1"
+                }],
+              "neText" : "PANC-1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Animals A total of 12 male BALB/c nude mice aged 4 weeks (weight, 16.86±9.3 g) for the in vivo study were provided by Beijing Vital River Laboratory Animal Technology Co., Ltd., and reared according to the Animal Research Committee's guidelines of Anhui Medical University (Hefei, China).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Animals A total of 12 male BALB/c nude mice aged 4 weeks (weight, 16.86±9.3 g) for the in vivo study were provided by Beijing Vital River Laboratory Animal Technology Co., Ltd., and reared according to the Animal Research Committee's guidelines of Anhui Medical University (Hefei, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALB/c nude"
+                }],
+              "neText" : "BALB/c nude"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data analysis was performed using FlowJo software ( FlowJo version 10.5.4; FlowJo LLC) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data analysis was performed using FlowJo software ( FlowJo version 10.5.4; FlowJo LLC) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "The signals of the specific bands were identified and detected with the Quantity One analysis software ( version 4.6.6; Bio-Rad Laboratories , Inc . )",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The signals of the specific bands were identified and detected with the Quantity One analysis software ( version 4.6.6; Bio-Rad Laboratories , Inc . )"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Quantity One"
+                }],
+              "neText" : "Quantity One"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bio-Rad Laboratories"
+                }],
+              "neText" : "Bio-Rad Laboratories"
+            }]
+        }, {
+          "sentence" : "Statistical analysis All data were analyzed using SPSS version 15.0 software (SPSS, Inc.).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis All data were analyzed using SPSS version 15.0 software (SPSS, Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Animals A total of 12 male BALB/c nude mice aged 4 weeks (weight, 16.86±9.3 g) for the in vivo study were provided by Beijing Vital River Laboratory Animal Technology Co., Ltd., and reared according to the Animal Research Committee's guidelines of Anhui Medical University (Hefei, China).",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals A total of 12 male BALB/c nude mice aged 4 weeks (weight, 16.86±9.3 g) for the in vivo study were provided by Beijing Vital River Laboratory Animal Technology Co., Ltd., and reared according to the Animal Research Committee's guidelines of Anhui Medical University (Hefei, China)."
+              }]
+          }, {
+            "sentence" : "At day 24 after RO injection, the mice were anesthetized with an intraperitoneal injection of pentobarbital (50 mg/kg) and euthanized via cervical dislocation.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "At day 24 after RO injection, the mice were anesthetized with an intraperitoneal injection of pentobarbital (50 mg/kg) and euthanized via cervical dislocation."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Animals A total of 12 male BALB/c nude mice aged 4 weeks (weight, 16.86±9.3 g) for the in vivo study were provided by Beijing Vital River Laboratory Animal Technology Co., Ltd., and reared according to the Animal Research Committee's guidelines of Anhui Medical University (Hefei, China).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals A total of 12 male BALB/c nude mice aged 4 weeks (weight, 16.86±9.3 g) for the in vivo study were provided by Beijing Vital River Laboratory Animal Technology Co., Ltd., and reared according to the Animal Research Committee's guidelines of Anhui Medical University (Hefei, China)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Following trypsinization , ~2,000 PANC-1 cells in the logarithmic growth phase were prepared as a unicellular suspension to seed in a 96-well cell culture plate with 100 µl volume in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Following trypsinization , ~2,000 PANC-1 cells in the logarithmic growth phase were prepared as a unicellular suspension to seed in a 96-well cell culture plate with 100 µl volume in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Following trypsinization , ~2,000 PANC-1 cells in the logarithmic growth phase were prepared as a unicellular suspension to seed in a 96-well cell culture plate with 100 µl volume in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Following trypsinization , ~2,000 PANC-1 cells in the logarithmic growth phase were prepared as a unicellular suspension to seed in a 96-well cell culture plate with 100 µl volume in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The significant differences between groups were determined using one-way ANOVA followed by a Tukey's post hoc test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The significant differences between groups were determined using one-way ANOVA followed by a Tukey's post hoc test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey's post hoc test"
+                  }],
+                "neText" : "Tukey's post hoc test"
+              }]
+          }]
+      }]
+  }
+}

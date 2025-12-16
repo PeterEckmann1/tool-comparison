@@ -1,0 +1,302 @@
+{
+  "docIdentifier" : "PMC8018676",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "33 Epigenomic context of results Topologically associated domains ( TADs ) were defined for significantly associated loci using the H1-ESC cell line in 3D Genome Browser .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "33 Epigenomic context of results Topologically associated domains ( TADs ) were defined for significantly associated loci using the H1-ESC cell line in 3D Genome Browser ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "H1-ESC"
+                }],
+              "neText" : "H1-ESC"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Samples were genotyped for approximately 580,000 single-nucleotide polymorphic (SNP) markers from the Illumina HumanCore+Exome array, of which approximately 539,000 SNPs passed quality control filters recommended by the Center for Inherited Disease Research (CIDR) and the Genetics Coordinating Center (GCC) at the University of Washington. 2 These data were then phased with SHAPEIT2 23 and imputed with IMPUTE2 24 to the 1000 Genomes Project phase 3 release (September 2014) reference panel.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Samples were genotyped for approximately 580,000 single-nucleotide polymorphic (SNP) markers from the Illumina HumanCore+Exome array, of which approximately 539,000 SNPs passed quality control filters recommended by the Center for Inherited Disease Research (CIDR) and the Genetics Coordinating Center (GCC) at the University of Washington. 2 These data were then phased with SHAPEIT2 23 and imputed with IMPUTE2 24 to the 1000 Genomes Project phase 3 release (September 2014) reference panel."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "1000 Genomes Project and AWS (RRID:SCR_008801)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "1000 Genomes Project"
+                }],
+              "neText" : "1000 Genomes Project"
+            }]
+        }, {
+          "sentence" : "28 , 29 Regional association plots were made with LocusZoom , where the LD blocks and recombination rates were estimated from European populations .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "28 , 29 Regional association plots were made with LocusZoom , where the LD blocks and recombination rates were estimated from European populations ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LOCUSZOOM (RRID:SCR_009257)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LocusZoom"
+                }],
+              "neText" : "LocusZoom"
+            }]
+        }, {
+          "sentence" : "The samples were genotyped for approximately 589,000 SNPs using the Illumina Human610-Quadv.1_B BeadChip , phased using SHAPEIT , and imputed to the 1000 Genomes Project phase I ( June 2011 ) reference panel using IMPUTE2 .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The samples were genotyped for approximately 589,000 SNPs using the Illumina Human610-Quadv.1_B BeadChip , phased using SHAPEIT , and imputed to the 1000 Genomes Project phase I ( June 2011 ) reference panel using IMPUTE2 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "1000 Genomes Project and AWS (RRID:SCR_008801)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "1000 Genomes"
+                }],
+              "neText" : "1000 Genomes"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "IMPUTE2 (RRID:SCR_013055)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IMPUTE2"
+                }],
+              "neText" : "IMPUTE2"
+            }]
+        }, {
+          "sentence" : "Imputed genotype probabilities were converted to most-likely genotype calls with GTOOL .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Imputed genotype probabilities were converted to most-likely genotype calls with GTOOL ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GTOOL (RRID:SCR_009215)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GTOOL"
+                }],
+              "neText" : "GTOOL"
+            }]
+        }, {
+          "sentence" : "Because the replication cohort did not include related individuals , the modifier analyses ( comparing BCL versus UCL and BCLP versus UCLP ) were conducted using logistic regression models in PLINK ( v1.9) , with sex and the first four PCs as quantitative covariates , instead of the mixed-model approach that adjusts for relatedness implemented in GENESIS.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Because the replication cohort did not include related individuals , the modifier analyses ( comparing BCL versus UCL and BCLP versus UCLP ) were conducted using logistic regression models in PLINK ( v1.9) , with sex and the first four PCs as quantitative covariates , instead of the mixed-model approach that adjusts for relatedness implemented in GENESIS."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PLINK (RRID:SCR_001757)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PLINK"
+                }],
+              "neText" : "PLINK"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GENESIS"
+                }],
+              "neText" : "GENESIS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All sites had institutional review board (IRB) approval, both locally and at the University of Pittsburgh or University of Iowa, with written informed consent for genomic studies and data sharing.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All sites had institutional review board (IRB) approval, both locally and at the University of Pittsburgh or University of Iowa, with written informed consent for genomic studies and data sharing."
+              }]
+          }, {
+            "sentence" : "All sites had institutional review board (IRB) approval, both locally and at the University of Pittsburgh or University of Iowa, with written informed consent for genomic studies and data sharing.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All sites had institutional review board (IRB) approval, both locally and at the University of Pittsburgh or University of Iowa, with written informed consent for genomic studies and data sharing."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Subjects where the specific subtype of cleft was not known were excluded from this study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Subjects where the specific subtype of cleft was not known were excluded from this study."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "For the current study, affected individuals were classified as either having a bilateral cleft lip (BCL N = 44), a bilateral cleft lip and palate (BCLP N = 530), a unilateral cleft lip (UCL N = 434), or a unilateral cleft lip and palate (UCLP N = 1,123).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the current study, affected individuals were classified as either having a bilateral cleft lip (BCL N = 44), a bilateral cleft lip and palate (BCLP N = 530), a unilateral cleft lip (UCL N = 434), or a unilateral cleft lip and palate (UCLP N = 1,123)."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Replication cohort To replicate the statistically significant results from our modifier analysis , data from the GENEVA consortium were used , which was described previously . 2 , 4 , 21 Briefly , this cohort recruited affected individual-parent trios , where the affected individual had an oral cleft .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Replication cohort To replicate the statistically significant results from our modifier analysis , data from the GENEVA consortium were used , which was described previously . 2 , 4 , 21 Briefly , this cohort recruited affected individual-parent trios , where the affected individual had an oral cleft ."
+              }],
+            "mention" : {
+              "neText" : "Replication",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Replication"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "A chi-square test was used to determine if the number of SNPs that both had similar CIs and were previously reported in the literature overlapped more than expected by chance.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A chi-square test was used to determine if the number of SNPs that both had similar CIs and were previously reported in the literature overlapped more than expected by chance."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }]
+          }, {
+            "sentence" : "p values less than a Bonferroni correction for the number of SNPs in the region ( 0.05the number of SNPs tested ) were considered to be evidence of significant replication .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "p values less than a Bonferroni correction for the number of SNPs in the region ( 0.05the number of SNPs tested ) were considered to be evidence of significant replication ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }]
+      }]
+  }
+}

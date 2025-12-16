@@ -1,0 +1,383 @@
+{
+  "docIdentifier" : "PMC8760989",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "16S rRNA Gene Sequencing Analysis Paired-end reads were merged and quality filtering , trimming and dereplication of the raw tags were performed under specific conditions to obtain the high-quality clean reads using VSEARCH.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "16S rRNA Gene Sequencing Analysis Paired-end reads were merged and quality filtering , trimming and dereplication of the raw tags were performed under specific conditions to obtain the high-quality clean reads using VSEARCH."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "VSEARCH (RRID:SCR_024494)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "VSEARCH"
+                }],
+              "neText" : "VSEARCH"
+            }]
+        }, {
+          "sentence" : "17 Chimeric sequences were detected by aligning clean reads to the Silva database ( v.132)18 with the UCHIME algorithm .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "17 Chimeric sequences were detected by aligning clean reads to the Silva database ( v.132)18 with the UCHIME algorithm ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SILVA (RRID:SCR_006423)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Silva"
+                }],
+              "neText" : "Silva"
+            }]
+        }, {
+          "sentence" : "Taxonomy assignment was performed on ASVs using USEARCH ( v10 ) against the RDP database ( v 11.5)19 and Greengenes database.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Taxonomy assignment was performed on ASVs using USEARCH ( v10 ) against the RDP database ( v 11.5)19 and Greengenes database."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "USEARCH"
+                }],
+              "neText" : "USEARCH"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Greengenes (RRID:SCR_002830)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Greengenes"
+                }],
+              "neText" : "Greengenes"
+            }]
+        }, {
+          "sentence" : "Statistically significant bacterial differences ( LDA > 2 , P < 0.05 ) associated with different groups were explored using linear discriminant analysis ( LDA ) effect size ( LEfSe) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistically significant bacterial differences ( LDA > 2 , P < 0.05 ) associated with different groups were explored using linear discriminant analysis ( LDA ) effect size ( LEfSe) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LEfSe (RRID:SCR_014609)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LEfSe"
+                }],
+              "neText" : "LEfSe"
+            }]
+        }, {
+          "sentence" : "Data were normalized by the QC group and then auto-scaled using MetaboAnalystR 3.0.26 The normalized data were used for downstream analysis .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were normalized by the QC group and then auto-scaled using MetaboAnalystR 3.0.26 The normalized data were used for downstream analysis ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MetaboAnalystR"
+                }],
+              "neText" : "MetaboAnalystR"
+            }]
+        }, {
+          "sentence" : "Principal component analysis ( PCA ) and orthogonal projections to latent structures discriminant analysis ( OPLS-DA ) were conducted using SIMCA v14.1 ( Umetrics , Sweden)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Principal component analysis ( PCA ) and orthogonal projections to latent structures discriminant analysis ( OPLS-DA ) were conducted using SIMCA v14.1 ( Umetrics , Sweden)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SIMCA"
+                }],
+              "neText" : "SIMCA"
+            }]
+        }, {
+          "sentence" : "DIABLO function from the mixOmics v6.6.2 R package27,28 was used to generate integrated metagenomic and metabolomic signatures.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "DIABLO function from the mixOmics v6.6.2 R package27,28 was used to generate integrated metagenomic and metabolomic signatures."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "mixOmics"
+                }],
+              "neText" : "mixOmics"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Patient Screening, Enrollment, and Clinical Examination Application of the study was submitted to the Ethical Review Committee of Peking University Peoples Hospital (No.2016PHB202-01) and the CAP cohort was registered at ClinicalTrials.gov (NCT03093220).",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Patient Screening, Enrollment, and Clinical Examination Application of the study was submitted to the Ethical Review Committee of Peking University Peoples Hospital (No.2016PHB202-01) and the CAP cohort was registered at ClinicalTrials.gov (NCT03093220)."
+              }]
+          }, {
+            "sentence" : "The study was conducted under the principles of the Helsinki Declaration and patient informed consent was obtained from all participators or their next of kin for incapacitated patients or unconscious subjects who were unable to give informed consents.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was conducted under the principles of the Helsinki Declaration and patient informed consent was obtained from all participators or their next of kin for incapacitated patients or unconscious subjects who were unable to give informed consents."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Possible contaminants were excluded from the present analysis using the R Decontam package.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Possible contaminants were excluded from the present analysis using the R Decontam package."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Twenty-nine patients with CTD-ILD were admitted to Peking University Peoples Hospital and thirty healthy volunteers from the medical center were recruited.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Twenty-nine patients with CTD-ILD were admitted to Peking University Peoples Hospital and thirty healthy volunteers from the medical center were recruited."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Protocol Information",
+        "srList" : [{
+            "sentence" : "Materials and Methods Patient Screening, Enrollment, and Clinical Examination Application of the study was submitted to the Ethical Review Committee of Peking University Peoples Hospital (No.2016PHB202-01) and the CAP cohort was registered at ClinicalTrials.gov (NCT03093220).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Patient Screening, Enrollment, and Clinical Examination Application of the study was submitted to the Ethical Review Committee of Peking University Peoples Hospital (No.2016PHB202-01) and the CAP cohort was registered at ClinicalTrials.gov (NCT03093220)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT03093220"
+                  }],
+                "neText" : "NCT03093220"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Beta diversity was assessed by permutational multivariate analysis of variance ( PERMANOVA ) and ANOSIM based on Bray-Curtis distances .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Beta diversity was assessed by permutational multivariate analysis of variance ( PERMANOVA ) and ANOSIM based on Bray-Curtis distances ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PERMANOVA"
+                  }],
+                "neText" : "PERMANOVA"
+              }]
+          }, {
+            "sentence" : "Students t-test or analysis of variance (ANOVA) with post-hoc Tukey HSD test were used to analyze continuous parametric data, whereas continuous nonparametric data were analyzed using Mann-Whitney U or a Kruskal-Wallis test.",
+            "rowSpan" : 6,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Students t-test or analysis of variance (ANOVA) with post-hoc Tukey HSD test were used to analyze continuous parametric data, whereas continuous nonparametric data were analyzed using Mann-Whitney U or a Kruskal-Wallis test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t-test"
+                  }],
+                "neText" : "Students t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey HSD test"
+                  }],
+                "neText" : "Tukey HSD test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U"
+                  }],
+                "neText" : "Mann-Whitney U"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis test"
+                  }],
+                "neText" : "Kruskal-Wallis test"
+              }]
+          }, {
+            "sentence" : "All categorical data were analyzed using the chi-square or Fishers exact test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All categorical data were analyzed using the chi-square or Fishers exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square"
+                  }],
+                "neText" : "chi-square"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }]
+      }]
+  }
+}

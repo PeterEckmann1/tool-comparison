@@ -1,0 +1,282 @@
+{
+  "docIdentifier" : "PMC8232913",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "To create the diploid xylose-consuming chassis ( XYL +) , a xylose-enabled MATa leu2-3 haploid ( internal strain F258 ) available from the development efforts of Zhou et al. ( 46 ) was transformed with plasmid pJH727 ( GAL::HO LEU2 gift from J . Haber of Brandeis University ) to generate a MATa equivalent ( 46 , 58 ) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To create the diploid xylose-consuming chassis ( XYL +) , a xylose-enabled MATa leu2-3 haploid ( internal strain F258 ) available from the development efforts of Zhou et al. ( 46 ) was transformed with plasmid pJH727 ( GAL::HO LEU2 gift from J . Haber of Brandeis University ) to generate a MATa equivalent ( 46 , 58 ) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pJH727"
+                }],
+              "neText" : "pJH727"
+            }]
+        }, {
+          "sentence" : "Briefly , plasmid pCRSPR , PDC1+5 expressing a Candida albicansS.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly , plasmid pCRSPR , PDC1+5 expressing a Candida albicansS."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCRSPR"
+                }],
+              "neText" : "pCRSPR"
+            }]
+        }, {
+          "sentence" : "Strains containing a p(RS)415 plasmid were maintained in medium lacking leucine and those with a p426 plasmid lacking uracil .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Strains containing a p(RS)415 plasmid were maintained in medium lacking leucine and those with a p426 plasmid lacking uracil ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p(RS)415"
+                }],
+              "neText" : "p(RS)415"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p426"
+                }],
+              "neText" : "p426"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Similarly , ldhA from L . mesenteroides subsp . mesenteroides was produced by Eurofins Genomics ( www.eurofinsgenomics.com ) from the amino acid sequence available from UniProt ( gene entry LEUM_1756) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Similarly , ldhA from L . mesenteroides subsp . mesenteroides was produced by Eurofins Genomics ( www.eurofinsgenomics.com ) from the amino acid sequence available from UniProt ( gene entry LEUM_1756) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }]
+        }, {
+          "sentence" : "Fragmentation patterns from MSMS were matched with reference spectra available in the METLIN online database (metlin.scripps.edu).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Fragmentation patterns from MSMS were matched with reference spectra available in the METLIN online database (metlin.scripps.edu)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "METLIN (RRID:SCR_010500)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "METLIN"
+                }],
+              "neText" : "METLIN"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Calculation of SD, propagation of error, hypothesis testing (two-sample, two-tailed t test, a = 0.05), and P value determination were performed using MATLAB (The MathWorks www.mathworks.com) on independent biological triplicates following standard procedures.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Calculation of SD, propagation of error, hypothesis testing (two-sample, two-tailed t test, a = 0.05), and P value determination were performed using MATLAB (The MathWorks www.mathworks.com) on independent biological triplicates following standard procedures."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Unless indicated otherwise , individual strains were expanded and acclimated to high cell density and high sugar conditions in singlicate YSC-based cultures and divided into triplicate biological samples upon inoculation into fermentation ( Fig . 1 , A to C , 2 , and 3 ) or growth ( Fig . 1D ) media .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Unless indicated otherwise , individual strains were expanded and acclimated to high cell density and high sugar conditions in singlicate YSC-based cultures and divided into triplicate biological samples upon inoculation into fermentation ( Fig . 1 , A to C , 2 , and 3 ) or growth ( Fig . 1D ) media ."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Unless indicated otherwise , individual strains were expanded and acclimated to high cell density and high sugar conditions in singlicate YSC-based cultures and divided into triplicate biological samples upon inoculation into fermentation ( Fig . 1 , A to C , 2 , and 3 ) or growth ( Fig . 1D ) media .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Unless indicated otherwise , individual strains were expanded and acclimated to high cell density and high sugar conditions in singlicate YSC-based cultures and divided into triplicate biological samples upon inoculation into fermentation ( Fig . 1 , A to C , 2 , and 3 ) or growth ( Fig . 1D ) media ."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "Induction of HO in Leu+ transformants was conducted in liquid medium containing 20 gliter of galactose for 6 hours at 30degC ( complete mating type switching protocol , including preinduction , is available from the Haber Lab website: www.bio.brandeis.eduhaberlabjehsiteprotocol.html).",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Induction of HO in Leu+ transformants was conducted in liquid medium containing 20 gliter of galactose for 6 hours at 30degC ( complete mating type switching protocol , including preinduction , is available from the Haber Lab website: www.bio.brandeis.eduhaberlabjehsiteprotocol.html)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis Calculation of SD, propagation of error, hypothesis testing (two-sample, two-tailed t test, a = 0.05), and P value determination were performed using MATLAB (The MathWorks www.mathworks.com) on independent biological triplicates following standard procedures.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Calculation of SD, propagation of error, hypothesis testing (two-sample, two-tailed t test, a = 0.05), and P value determination were performed using MATLAB (The MathWorks www.mathworks.com) on independent biological triplicates following standard procedures."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }]
+      }]
+  }
+}

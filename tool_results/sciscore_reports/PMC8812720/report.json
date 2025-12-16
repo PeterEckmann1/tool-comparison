@@ -1,0 +1,133 @@
+{
+  "docIdentifier" : "PMC8812720",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data sources We created and managed a data abstraction form using Research Electronic Data Capture (REDCap).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data sources We created and managed a data abstraction form using Research Electronic Data Capture (REDCap)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "REDCap (RRID:SCR_003445)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "REDCap"
+                }],
+              "neText" : "REDCap"
+            }]
+        }, {
+          "sentence" : "We used STATA MP version 16.1 for all analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We used STATA MP version 16.1 for all analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata (RRID:SCR_012763)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATA"
+                }],
+              "neText" : "STATA"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Ethics approval The Research Ethics Board of the Centre integre universitaire de sante et de services sociaux (CIUSSS) de lEst-de-lIle-de-Montreal approved our study protocol.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ethics approval The Research Ethics Board of the Centre integre universitaire de sante et de services sociaux (CIUSSS) de lEst-de-lIle-de-Montreal approved our study protocol."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "We excluded patients with a diagnosis of COVID-19 more than 2 weeks before hospital admission.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We excluded patients with a diagnosis of COVID-19 more than 2 weeks before hospital admission."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "We followed the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) reporting guidelines.9 Participants Our analysis included all patients with confirmed SARS-CoV-2 infection aged 18 years or older who had been admitted to our hospital from Mar. 1 to June 30, 2020.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We followed the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) reporting guidelines.9 Participants Our analysis included all patients with confirmed SARS-CoV-2 infection aged 18 years or older who had been admitted to our hospital from Mar. 1 to June 30, 2020."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

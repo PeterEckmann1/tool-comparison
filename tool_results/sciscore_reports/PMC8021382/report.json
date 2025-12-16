@@ -1,0 +1,211 @@
+{
+  "docIdentifier" : "PMC8021382",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All analyses were performed using MATLAB (MathWorks, Natick, MA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All analyses were performed using MATLAB (MathWorks, Natick, MA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study received Institutional Review Board approval and is registered by St.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study received Institutional Review Board approval and is registered by St."
+              }]
+          }, {
+            "sentence" : "Given the retrospective and anonymized nature of the study, signed informed consent was not required.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Given the retrospective and anonymized nature of the study, signed informed consent was not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Inclusion criteria for the study were all mechanically ventilated patients above the age of 18 years old and who were mechanically ventilated for at least 3 days.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria for the study were all mechanically ventilated patients above the age of 18 years old and who were mechanically ventilated for at least 3 days."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "An unpaired t test was used to compare patient ages between the control and intervention groups, and Fisher exact test was used to compare the proportion of males to females in the two groups.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "An unpaired t test was used to compare patient ages between the control and intervention groups, and Fisher exact test was used to compare the proportion of males to females in the two groups."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Inclusion criteria for the study were all mechanically ventilated patients above the age of 18 years old and who were mechanically ventilated for at least 3 days.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria for the study were all mechanically ventilated patients above the age of 18 years old and who were mechanically ventilated for at least 3 days."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Based on the sample size formula for two independent samples with dichotomous outputs, at least 260 total patients (130 in each group) were necessary to show a significant difference in VAE incidence between the groups with 90 power and 5 significance level.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Based on the sample size formula for two independent samples with dichotomous outputs, at least 260 total patients (130 in each group) were necessary to show a significant difference in VAE incidence between the groups with 90 power and 5 significance level."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Protocol Information",
+        "srList" : [{
+            "sentence" : "JosephsCandler Health System on ClinicalTrials.gov (NCT03850340).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "JosephsCandler Health System on ClinicalTrials.gov (NCT03850340)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT03850340"
+                  }],
+                "neText" : "NCT03850340"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "An unpaired t test was used to compare patient ages between the control and intervention groups, and Fisher exact test was used to compare the proportion of males to females in the two groups.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "An unpaired t test was used to compare patient ages between the control and intervention groups, and Fisher exact test was used to compare the proportion of males to females in the two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher exact test"
+                  }],
+                "neText" : "Fisher exact test"
+              }]
+          }, {
+            "sentence" : "Fisher exact tests compared the incidence of VACs, IVACs, and PVAPs between the control and intervention groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fisher exact tests compared the incidence of VACs, IVACs, and PVAPs between the control and intervention groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher exact tests"
+                  }],
+                "neText" : "Fisher exact tests"
+              }]
+          }, {
+            "sentence" : "Wilcoxon rank-sum tests compared the median ventilation duration and hospital length of stay of the patients in the control and intervention groups as well as between patients that did and did not experience a VAE.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Wilcoxon rank-sum tests compared the median ventilation duration and hospital length of stay of the patients in the control and intervention groups as well as between patients that did and did not experience a VAE."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank-sum tests"
+                  }],
+                "neText" : "Wilcoxon rank-sum tests"
+              }]
+          }]
+      }]
+  }
+}

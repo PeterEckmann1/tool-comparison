@@ -1,0 +1,423 @@
+{
+  "docIdentifier" : "PMC8040696",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The membranes were initially blocked with 5 nonfat milk and then incubated with the primary antibodies, including PIGC (novopro, 135229, dilution:1:1000), Cyclin D1 (CST, 55506, dilution:1:1000), CDK2 (CST, 18048, dilution:1:1000), CDK4 (Sanying, Wuhan, 11026-1-AP, dilution:1:1000), and CDK6 (Abcam, ab241554, dilution:1:1000) and finally incubated with specific secondary antibody (HRP-Goat anti Rabbit, ASPEN, AS1107, dilution:1:10000).",
+          "rowSpan" : 6,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membranes were initially blocked with 5 nonfat milk and then incubated with the primary antibodies, including PIGC (novopro, 135229, dilution:1:1000), Cyclin D1 (CST, 55506, dilution:1:1000), CDK2 (CST, 18048, dilution:1:1000), CDK4 (Sanying, Wuhan, 11026-1-AP, dilution:1:1000), and CDK6 (Abcam, ab241554, dilution:1:1000) and finally incubated with specific secondary antibody (HRP-Goat anti Rabbit, ASPEN, AS1107, dilution:1:10000)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cyclin D1"
+                }],
+              "neText" : "Cyclin D1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CDK2"
+                }],
+              "neText" : "CDK2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CDK4"
+                }],
+              "neText" : "CDK4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CDK6"
+                }],
+              "neText" : "CDK6"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti Rabbit, ASPEN"
+                }],
+              "neText" : "anti Rabbit, ASPEN"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AS1107"
+                }],
+              "neText" : "AS1107"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell Culture and Transfection Cancerous human liver cell lines (HepG2, Huh7, Hcclm3, and Hep3B) and a normal hepatocyte cell line (LO2) were obtained from China Center for Type Culture Collection (Wuhan, China).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell Culture and Transfection Cancerous human liver cell lines (HepG2, Huh7, Hcclm3, and Hep3B) and a normal hepatocyte cell line (LO2) were obtained from China Center for Type Culture Collection (Wuhan, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0027",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HepG2"
+                }],
+              "neText" : "HepG2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0336",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Huh7"
+                }],
+              "neText" : "Huh7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0326",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Hep3B"
+                }],
+              "neText" : "Hep3B"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Patients and Methods Bioinformatics Analysis Oncomine database14 ( https:www.oncomine.org ) was mined to determine the expression profiles of PIGC mRNA in human malignant tumors.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Patients and Methods Bioinformatics Analysis Oncomine database14 ( https:www.oncomine.org ) was mined to determine the expression profiles of PIGC mRNA in human malignant tumors."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.oncomine.org"
+                }],
+              "neText" : "https:www.oncomine.org"
+            }]
+        }, {
+          "sentence" : "Gene Expression Profiling Interactive Analysis15 (GEPIA) webpage ( http:gepia.cancer-pku.cn ) was browsed to validate the expression profiles of PIGC mRNA based on the TCGA-LIGC dataset.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gene Expression Profiling Interactive Analysis15 (GEPIA) webpage ( http:gepia.cancer-pku.cn ) was browsed to validate the expression profiles of PIGC mRNA based on the TCGA-LIGC dataset."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Profiling Interactive Analysis (RRID:SCR_018294)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Profiling Interactive"
+                }],
+              "neText" : "Gene Expression Profiling Interactive"
+            }]
+        }, {
+          "sentence" : "The UALCAN website16 ( http:ualcan.path.uab.eduindex.html ) was searched to investigate the relationship between the PIGC mRNA level and common characteristics in HCC. cBioPortal database was logged in to explore the mutation of PIGC in HCC, and the co-expressed genes with significant correlation was identified.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The UALCAN website16 ( http:ualcan.path.uab.eduindex.html ) was searched to investigate the relationship between the PIGC mRNA level and common characteristics in HCC. cBioPortal database was logged in to explore the mutation of PIGC in HCC, and the co-expressed genes with significant correlation was identified."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "UALCAN (RRID:SCR_015827)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UALCAN"
+                }],
+              "neText" : "UALCAN"
+            }]
+        }, {
+          "sentence" : "The ClueGO section in the Cytoscape software19 was used to analyze the biological pathways of PIGC co-expressed genes in HCC.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The ClueGO section in the Cytoscape software19 was used to analyze the biological pathways of PIGC co-expressed genes in HCC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ClueGO (RRID:SCR_005748)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ClueGO"
+                }],
+              "neText" : "ClueGO"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }, {
+          "sentence" : "The above cell lines were cultured in Dulbeccos modified Eagles medium (DMEM, HyClone, Logan, USA) mixed with 10 fetal bovine serum (FBS, Gibco, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The above cell lines were cultured in Dulbeccos modified Eagles medium (DMEM, HyClone, Logan, USA) mixed with 10 fetal bovine serum (FBS, Gibco, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }, {
+          "sentence" : "Statistical Analysis All statistical analyses were conducted via SPSS23.0 software and GraphPad Prism 7.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis All statistical analyses were conducted via SPSS23.0 software and GraphPad Prism 7."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Collection of Cancerous Liver Tissues We collected four pairs of cancerous liver specimens and adjacent normal tissues from the Department of Hepatobiliary Surgery, Renmin Hospital of Wuhan University between January 2021 and February 2021.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Collection of Cancerous Liver Tissues We collected four pairs of cancerous liver specimens and adjacent normal tissues from the Department of Hepatobiliary Surgery, Renmin Hospital of Wuhan University between January 2021 and February 2021."
+              }]
+          }, {
+            "sentence" : "The Institutional Review Board of Renmin Hospital of Wuhan University reviewed and approved our study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Institutional Review Board of Renmin Hospital of Wuhan University reviewed and approved our study."
+              }]
+          }, {
+            "sentence" : "All patients involved in this study provided the written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients involved in this study provided the written informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences of categorical parameters were checked with the chi-square or Fishers exact test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences of categorical parameters were checked with the chi-square or Fishers exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square"
+                  }],
+                "neText" : "chi-square"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }, {
+            "sentence" : "Survival analyses were utilized to reveal the prognostic values of PIGC mRNA and methylation in HCC patients, and log rank test was applied to evaluate the survival difference.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Survival analyses were utilized to reveal the prognostic values of PIGC mRNA and methylation in HCC patients, and log rank test was applied to evaluate the survival difference."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log rank test"
+                  }],
+                "neText" : "log rank test"
+              }]
+          }, {
+            "sentence" : "The correlation between PIGC mRNA expression and DNA methylation was evaluated by the Pearson correlation test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The correlation between PIGC mRNA expression and DNA methylation was evaluated by the Pearson correlation test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation test"
+                  }],
+                "neText" : "Pearson correlation test"
+              }]
+          }]
+      }]
+  }
+}

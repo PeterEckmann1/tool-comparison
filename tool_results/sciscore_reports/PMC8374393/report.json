@@ -1,0 +1,297 @@
+{
+  "docIdentifier" : "PMC8374393",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "We generally favor performing a pre-injection aqueous tap to reduce the intraocular pressure and prevent efflux of cells (or drug). • 1 million WERI-Rb-1 cells were resuspended in 100 µL 1X PBS and injected into the vitreous of either one or both eyes of the rabbit using a 30G needle on a 1 cc syringe, as we have described previously [9,21]. • The rabbit eye(s) were rinsed with sterile balanced salt solution.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We generally favor performing a pre-injection aqueous tap to reduce the intraocular pressure and prevent efflux of cells (or drug). • 1 million WERI-Rb-1 cells were resuspended in 100 µL 1X PBS and injected into the vitreous of either one or both eyes of the rabbit using a 30G needle on a 1 cc syringe, as we have described previously [9,21]. • The rabbit eye(s) were rinsed with sterile balanced salt solution."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_1792)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "WERI-Rb-1"
+                }],
+              "neText" : "WERI-Rb-1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "• Drug concentrations are averaged across rabbits at each time point, and the resulting mean time-concentration data from each matrix are analyzed via non-compartmental analysis (Phoenix® WinNonlin® v6.4, Pharsight/Certara USA Inc., Princeton, NJ) to determine pharmacokinetic (PK) parameters, including half-life.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "• Drug concentrations are averaged across rabbits at each time point, and the resulting mean time-concentration data from each matrix are analyzed via non-compartmental analysis (Phoenix® WinNonlin® v6.4, Pharsight/Certara USA Inc., Princeton, NJ) to determine pharmacokinetic (PK) parameters, including half-life."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Phoenix (RRID:SCR_003163)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Phoenix®"
+                }],
+              "neText" : "Phoenix®"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "WinNonlin (RRID:SCR_024504)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "WinNonlin®"
+                }],
+              "neText" : "WinNonlin®"
+            }]
+        }, {
+          "sentence" : "• Survival curves were graphed with GraphPad, and IC50 and IC90 were calculated.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "• Survival curves were graphed with GraphPad, and IC50 and IC90 were calculated."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }, {
+          "sentence" : "• After completing the regular fundus photography, a rapid bolus injection of fluorescein at a dose of 10–25% in a volume up to 2 mL was given, and serial images were immediately captured with the Pictor Plus fundus camera with the FA attachment.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "• After completing the regular fundus photography, a rapid bolus injection of fluorescein at a dose of 10–25% in a volume up to 2 mL was given, and serial images were immediately captured with the Pictor Plus fundus camera with the FA attachment."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Pictor Plus"
+                }],
+              "neText" : "Pictor Plus"
+            }]
+        }, {
+          "sentence" : "• Hyaluronidase is from Sigma (catalog# H3506), and collagenase is from Sigma (catalog# C0130).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "• Hyaluronidase is from Sigma (catalog# H3506), and collagenase is from Sigma (catalog# C0130)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods Statement of research ethics All animal experiments were performed under the auspices of the Vanderbilt Institutional Animal Care and Use Committee and adhered to the Association for Research in Vision and Ophthalmology (ARVO) Statement on Animal Use and the EU Directive 2010/63/EU for animal experiments.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Statement of research ethics All animal experiments were performed under the auspices of the Vanderbilt Institutional Animal Care and Use Committee and adhered to the Association for Research in Vision and Ophthalmology (ARVO) Statement on Animal Use and the EU Directive 2010/63/EU for animal experiments."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The treatment group is a factor variable, the week is a numeric variable (it would be 0 and 1 if the week is only for pre-treatment and post-treatment), and error term ε is a random (independent) variable representing the deviation of a value of ERG from the predicted value.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The treatment group is a factor variable, the week is a numeric variable (it would be 0 and 1 if the week is only for pre-treatment and post-treatment), and error term "
+              }, {
+                "f" : "symbol",
+                "c" : "ε"
+              }, {
+                "f" : "default",
+                "c" : " is a random (independent) variable representing the deviation of a value of ERG from the predicted value."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Five replicates were plated for each concentration of drug.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Five replicates were plated for each concentration of drug."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "Five replicates were plated for each concentration of drug.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Five replicates were plated for each concentration of drug."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Next , emtrends function is used to estimate and test each treatment group 's trend with the Wald test .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Next , emtrends function is used to estimate and test each treatment group 's trend with the Wald test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wald test"
+                  }],
+                "neText" : "Wald test"
+              }]
+          }, {
+            "sentence" : "The Bonferroni correction was used with a multiple comparisons procedure to control the experiment-wise type I error rate at 5 % for each specific ERG test and each response value.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Bonferroni correction was used with a multiple comparisons procedure to control the experiment-wise type I error rate at 5 % for each specific ERG test and each response value."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }, {
+            "sentence" : "The drug effect can be evaluated by the difference in cell number on the transformed scale between the correlated samples (left saline-treated eyes and right drug-treated eyes) using the paired t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The drug effect can be evaluated by the difference in cell number on the transformed scale between the correlated samples (left saline-treated eyes and right drug-treated eyes) using the paired t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

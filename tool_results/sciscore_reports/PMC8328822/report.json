@@ -1,0 +1,301 @@
+{
+  "docIdentifier" : "PMC8328822",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Mass spectrometry Rat brain lysate was immunoprecipitated with anti-βPIX antibody immobilized onto CNBr-activated sepharose 4B .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Mass spectrometry Rat brain lysate was immunoprecipitated with anti-"
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "PIX antibody immobilized onto CNBr-activated sepharose 4B ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-"
+                }, {
+                  "f" : "symbol",
+                  "c" : "β"
+                }, {
+                  "f" : "default",
+                  "c" : "PIX"
+                }],
+              "neText" : "anti-βPIX"
+            }]
+        }, {
+          "sentence" : "GST-βPIX-immo-bilized beads were incubated with His-tagged FL-KIF5A, motor (aa 1-330), stalk (aa 331-799), or tail (aa 800-1027) in binding buffer (20 mM HEPES, pH 7.4, 0.15 M NaCl, 1 mM DTT, 0.2% Triton X-100, 5 mM MgSO4, and protease inhibitor) for 1 h, and then subjected to immunoblotting with antibodies to His and GST.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GST-"
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "PIX-immo-bilized beads were incubated with His-tagged FL-KIF5A, motor (aa 1-330), stalk (aa 331-799), or tail (aa 800-1027) in binding buffer (20 mM HEPES, pH 7.4, 0.15 M NaCl, 1 mM DTT, 0.2% Triton X-100, 5 mM MgSO4, and protease inhibitor) for 1 h, and then subjected to immunoblotting with antibodies to His and GST."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GST"
+                }],
+              "neText" : "GST"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "MATERIALS AND METHODS Cell culture PC12 cells were grown in Dulbecco’s modified Eagle’s medium (DMEM) supplemented with 10% fetal bovine serum (FBS) and 100 U/ml penicillin/streptomycin (Invitrogen) and were kept at 37°C in a humidified 5% CO2 incubator.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MATERIALS AND METHODS Cell culture PC12 cells were grown in Dulbecco’s modified Eagle’s medium (DMEM) supplemented with 10% fetal bovine serum (FBS) and 100 U/ml penicillin/streptomycin (Invitrogen) and were kept at 37°C in a humidified 5% CO2 incubator."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0481",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PC12"
+                }],
+              "neText" : "PC12"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Hippocampus from the brain of newborn (P1) Sprague-Dawley (SD) rat were dissected and incubated with papain in dissociation medium (pH 7.4) (82 mM Na2SO4, 30 mM K2SO4, 5.8 mM MgCl2, 0.252 mM CaCl2, 1 mM HEPES, 20 mM glucose, 0.5% phenol red) containing L-cystein for 20 min at 37°C and dissociated by pipetting in DMEM containing 10",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Hippocampus from the brain of newborn (P1) Sprague-Dawley (SD) rat were dissected and incubated with papain in dissociation medium (pH 7.4) (82 mM Na2SO4, 30 mM K2SO4, 5.8 mM MgCl2, 0.252 mM CaCl2, 1 mM HEPES, 20 mM glucose, 0.5% phenol red) containing L-cystein for 20 min at 37°C and dissociated by pipetting in DMEM containing 10"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_70508",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sprague-Dawley"
+                }],
+              "neText" : "Sprague-Dawley"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "In vitro binding assay pGEX4T-1-βPIX and pET-FL-KIF5 constructs were expressed in E. coli DH5α or BL21.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In vitro binding assay pGEX4T-1-"
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "PIX and pET-FL-KIF5 constructs were expressed in E. coli DH5"
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : " or BL21."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGEX4T-1-"
+                }, {
+                  "f" : "symbol",
+                  "c" : "β"
+                }, {
+                  "f" : "default",
+                  "c" : "PIX"
+                }],
+              "neText" : "pGEX4T-1-βPIX"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pET-FL-KIF5"
+                }],
+              "neText" : "pET-FL-KIF5"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical significance was assessed using an unpaired t-test (t-test) using GraphPad Prizm software (version 10) for Windows.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical significance was assessed using an unpaired t-test (t-test) using GraphPad Prizm software (version 10) for Windows."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prizm"
+                }],
+              "neText" : "GraphPad Prizm"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical significance was assessed using an unpaired t-test (t-test) using GraphPad Prizm software (version 10) for Windows.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical significance was assessed using an unpaired t-test (t-test) using GraphPad Prizm software (version 10) for Windows."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

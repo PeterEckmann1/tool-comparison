@@ -1,0 +1,170 @@
+{
+  "docIdentifier" : "PMC8940220",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical Analysis The data of the study were analyzed by the IBM SPSS Statistics 20 ( IBM SPSS Corp . , Armonk , NY , USA ) program ( licensed by İstanbul University-Cerrahpaşa) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis The data of the study were analyzed by the IBM SPSS Statistics 20 ( IBM SPSS Corp . , Armonk , NY , USA ) program ( licensed by İstanbul University-Cerrahpaşa) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Informed consent was obtained on the first page by informing healthcare professionals about the purpose of the research and ethical issues.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was obtained on the first page by informing healthcare professionals about the purpose of the research and ethical issues."
+              }]
+          }, {
+            "sentence" : "The data were collected in June 2019 and the ethics committee of a Istinye University was approached for approval to conduct a retrospective review in April 2020 (Decision No:2020/03-03; Date: 17 March 2020).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The data were collected in June 2019 and the ethics committee of a Istinye University was approached for approval to conduct a retrospective review in April 2020 (Decision No:2020/03-03; Date: 17 March 2020)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Healthcare professionals in the 19–62 age group (M = 26.7; SD = 7.6) were mostly female (82.7%), single (68.9%), and graduates of a medical vocational high school (58.9%).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Healthcare professionals in the 19–62 age group (M = 26.7; SD = 7.6) were mostly female (82.7%), single (68.9%), and graduates of a medical vocational high school (58.9%)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Finally, parametric comparative analyses (independent samples t-test, one-way ANOVA, and post hoc Tukey HSD) were used to compare measurements by demographic characteristics.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Finally, parametric comparative analyses (independent samples t-test, one-way ANOVA, and post hoc Tukey HSD) were used to compare measurements by demographic characteristics."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey HSD"
+                  }],
+                "neText" : "Tukey HSD"
+              }]
+          }]
+      }]
+  }
+}

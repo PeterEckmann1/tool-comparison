@@ -1,0 +1,217 @@
+{
+  "docIdentifier" : "PMC8254606",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "According to the American Urological Association (AUA),35 BCR was defined as a PSA value >=0.2 ngmL followed by a subsequent confirmatory value >=0.2 ngmL.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "According to the American Urological Association (AUA),35 BCR was defined as a PSA value >=0.2 ngmL followed by a subsequent confirmatory value >=0.2 ngmL."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "American Urological Association (RRID:SCR_005859)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "American Urological Association"
+                }],
+              "neText" : "American Urological Association"
+            }]
+        }, {
+          "sentence" : "All analyses were performed using Stata version 14 (StataCorp, College Station, Texas).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All analyses were performed using Stata version 14 (StataCorp, College Station, Texas)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata, RRID:SCR_012763",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StataCorp"
+                }],
+              "neText" : "StataCorp"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Institutional Review Board (IRB) was waived by Royal Surrey County Hospital because of its retrospective nature, clinical purpose and no procedure is required.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Institutional Review Board (IRB) was waived by Royal Surrey County Hospital because of its retrospective nature, clinical purpose and no procedure is required."
+              }]
+          }, {
+            "sentence" : "Informed Consent was obtained from all participants prior to the study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed Consent was obtained from all participants prior to the study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "We excluded patients who received neo-adjuvant, adjuvant therapy, hormonal or radiation therapy.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We excluded patients who received neo-adjuvant, adjuvant therapy, hormonal or radiation therapy."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "All specimens were completely sectioned and examined histologically, and for each specimen, the percentage of tumour was estimated by visual inspection and for each slide of prostate the percentage of the area occupied by tumour was estimated.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All specimens were completely sectioned and examined histologically, and for each specimen, the percentage of tumour was estimated by visual inspection and for each slide of prostate the percentage of the area occupied by tumour was estimated."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Chi-square test or the Fishers exact test and paired t-test were calculated for categorical and continuous variables, respectively.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Chi-square test or the Fishers exact test and paired t-test were calculated for categorical and continuous variables, respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-square test"
+                  }],
+                "neText" : "Chi-square test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "One-way ANOVA was used to assess the correlation between the tested parameters.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way ANOVA was used to assess the correlation between the tested parameters."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }]
+  }
+}

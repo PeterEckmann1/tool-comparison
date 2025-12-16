@@ -1,0 +1,359 @@
+{
+  "docIdentifier" : "PMC8580088",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Primary antibodies were diluted as follows: P-SMAD159 1:2000 (13820, SMAD1 1:2000 9743, Cell Signaling) anti-FLAG M2 monoclonal antibody 1:3000 (F1804, Sigma-Aldrich, Merk) anti-GAPDH 1:20000 (MAB374, Millipore).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Primary antibodies were diluted as follows: P-SMAD159 1:2000 (13820, SMAD1 1:2000 9743, Cell Signaling) anti-FLAG M2 monoclonal antibody 1:3000 (F1804, Sigma-Aldrich, Merk) anti-GAPDH 1:20000 (MAB374, Millipore)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SMAD1"
+                }],
+              "neText" : "SMAD1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-FLAG"
+                }],
+              "neText" : "anti-FLAG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GAPDH"
+                }],
+              "neText" : "anti-GAPDH"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "ID1 gene expression and P-SMAD159 proteins levels were evaluated by seeding 3 x 105 U2OS in 6-well plates for transfection with 2 ug of pCMV_ACVR1 constructs using the Lipofectamine 2000 reagent (Invitrogen, Life Technologies).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ID1 gene expression and P-SMAD159 proteins levels were evaluated by seeding 3 x 105 U2OS in 6-well plates for transfection with 2 ug of pCMV_ACVR1 constructs using the Lipofectamine 2000 reagent (Invitrogen, Life Technologies)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0042",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "U2OS"
+                }],
+              "neText" : "U2OS"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "2.2 In silico analysis In order to estimate the impact of the identified variant on ACVR1 receptor function, we performed an in silico analysis by using the Ensembl Variant Effect Predictor (VEP) toolset (available at https:grch37.ensembl.orgToolsVEP) McLaren et al., 2016. 2.3 Expression plasmids Complementary DNA (cDNA) for human, wild-type ACVR1 (Table S1 for oligonucleotides used to generate the product) was obtained by RT-PCR and then subcloned into the expression vector pCMV-3Tag-8 (pCMV_ACVR1) without the native STOP codon, to be in frame with the 3xFLAG tag provided by the vector.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.2 In silico analysis In order to estimate the impact of the identified variant on ACVR1 receptor function, we performed an in silico analysis by using the Ensembl Variant Effect Predictor (VEP) toolset (available at https:grch37.ensembl.orgToolsVEP) McLaren et al., 2016. 2.3 Expression plasmids Complementary DNA (cDNA) for human, wild-type ACVR1 (Table S1 for oligonucleotides used to generate the product) was obtained by RT-PCR and then subcloned into the expression vector pCMV-3Tag-8 (pCMV_ACVR1) without the native STOP codon, to be in frame with the 3xFLAG tag provided by the vector."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCMV-3Tag-8"
+                }],
+              "neText" : "pCMV-3Tag-8"
+            }]
+        }, {
+          "sentence" : "The generation of the pGL4.17 vector containing the BMP-Responsive Element (BRE) upstream the Luciferase reporter gene (indicated as pGL4.17-BRE) was previously described by our group (Cappato et al., 2016).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The generation of the pGL4.17 vector containing the BMP-Responsive Element (BRE) upstream the Luciferase reporter gene (indicated as pGL4.17-BRE) was previously described by our group (Cappato et al., 2016)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGL4.17"
+                }],
+              "neText" : "pGL4.17"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_45126",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGL4.17-BRE"
+                }],
+              "neText" : "pGL4.17-BRE"
+            }]
+        }, {
+          "sentence" : "Transient transfections were performed in 96-well plates, by seeding 5 x 104well U2OS cells directly in the transfection mix, composed by 30 ng of the pGL4.17-BRE, 40 ng of pCMV_ACVR1 constructs and 2.5 ng of pGL4.73hRlucSV40 to normalize toward transfection efficiency, using the Lipofectamine 2000 reagent protocol (Invitrogen, Life Technologies).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Transient transfections were performed in 96-well plates, by seeding 5 x 104well U2OS cells directly in the transfection mix, composed by 30 ng of the pGL4.17-BRE, 40 ng of pCMV_ACVR1 constructs and 2.5 ng of pGL4.73hRlucSV40 to normalize toward transfection efficiency, using the Lipofectamine 2000 reagent protocol (Invitrogen, Life Technologies)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGL4.73hRlucSV40"
+                }],
+              "neText" : "pGL4.73hRlucSV40"
+            }]
+        }, {
+          "sentence" : "ID1 gene expression and P-SMAD159 proteins levels were evaluated by seeding 3 x 105 U2OS in 6-well plates for transfection with 2 ug of pCMV_ACVR1 constructs using the Lipofectamine 2000 reagent (Invitrogen, Life Technologies).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ID1 gene expression and P-SMAD159 proteins levels were evaluated by seeding 3 x 105 U2OS in 6-well plates for transfection with 2 ug of pCMV_ACVR1 constructs using the Lipofectamine 2000 reagent (Invitrogen, Life Technologies)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCMV_ACVR1"
+                }],
+              "neText" : "pCMV_ACVR1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Genomic DNA fragments corresponding to the nine coding exons and flanking intronic sequences of ACVR1 (RefSeq NM_001111067.4 RefSeq NP_001104537.1), were amplified by polymerase chain reaction (PCR the primer sequences are listed in Table S1) using the GoTaq Master mix (Promega) with reactions carried out in a GeneAmp PCR System 2720 Thermocycler (Applied Biosystems).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Genomic DNA fragments corresponding to the nine coding exons and flanking intronic sequences of ACVR1 (RefSeq NM_001111067.4 RefSeq NP_001104537.1), were amplified by polymerase chain reaction (PCR the primer sequences are listed in Table S1) using the GoTaq Master mix (Promega) with reactions carried out in a GeneAmp PCR System 2720 Thermocycler (Applied Biosystems)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RefSeq"
+                }],
+              "neText" : "RefSeq"
+            }]
+        }, {
+          "sentence" : "Sequence variations were described according to the Human Genome Variation Society guidelines (http:www.hgvs.org).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Sequence variations were described according to the Human Genome Variation Society guidelines (http:www.hgvs.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http:www.hgvs.org"
+                }],
+              "neText" : "http:www.hgvs.org"
+            }]
+        }, {
+          "sentence" : "2.2 In silico analysis In order to estimate the impact of the identified variant on ACVR1 receptor function, we performed an in silico analysis by using the Ensembl Variant Effect Predictor (VEP) toolset (available at https:grch37.ensembl.orgToolsVEP) McLaren et al., 2016. 2.3 Expression plasmids Complementary DNA (cDNA) for human, wild-type ACVR1 (Table S1 for oligonucleotides used to generate the product) was obtained by RT-PCR and then subcloned into the expression vector pCMV-3Tag-8 (pCMV_ACVR1) without the native STOP codon, to be in frame with the 3xFLAG tag provided by the vector.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.2 In silico analysis In order to estimate the impact of the identified variant on ACVR1 receptor function, we performed an in silico analysis by using the Ensembl Variant Effect Predictor (VEP) toolset (available at https:grch37.ensembl.orgToolsVEP) McLaren et al., 2016. 2.3 Expression plasmids Complementary DNA (cDNA) for human, wild-type ACVR1 (Table S1 for oligonucleotides used to generate the product) was obtained by RT-PCR and then subcloned into the expression vector pCMV-3Tag-8 (pCMV_ACVR1) without the native STOP codon, to be in frame with the 3xFLAG tag provided by the vector."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ensembl Variant Effect Predictor"
+                }],
+              "neText" : "Ensembl Variant Effect Predictor"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "VARIANT (RRID:SCR_005194)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Variant"
+                }],
+              "neText" : "Variant"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2 MATERIALS AND METHODS 2.1 ACVR1 screening Peripheral blood samples were collected upon informed consent administration.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 MATERIALS AND METHODS 2.1 ACVR1 screening Peripheral blood samples were collected upon informed consent administration."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Samples were measured in duplicate and the results were normalized on the geometric mean of B2M and HPRT genes.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Samples were measured in duplicate and the results were normalized on the geometric mean of B2M and HPRT genes."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Samples were measured in duplicate and the results were normalized on the geometric mean of B2M and HPRT genes.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Samples were measured in duplicate and the results were normalized on the geometric mean of B2M and HPRT genes."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The Unpair t test was applied to verify statistical significance of the observed variations (https:www.graphpad.comquickcalcsttest1.cfm).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Unpair t test was applied to verify statistical significance of the observed variations (https:www.graphpad.comquickcalcsttest1.cfm)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }]
+      }]
+  }
+}

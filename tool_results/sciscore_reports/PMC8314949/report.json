@@ -1,0 +1,158 @@
+{
+  "docIdentifier" : "PMC8314949",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data and Statistical Analyses Descriptive and statistical data analyses were performed using JMP Pro 14 ( SAS Institute , Cary , NC) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data and Statistical Analyses Descriptive and statistical data analyses were performed using JMP Pro 14 ( SAS Institute , Cary , NC) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patient Population and Study Definitions All patient visits in the NAMCS and NHAMCS from 2009 to 2016 were eligible for inclusion.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patient Population and Study Definitions All patient visits in the NAMCS and NHAMCS from 2009 to 2016 were eligible for inclusion."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Eight medications were collected from 2009 to 2011 , 10 medications were collected between 2012 and 2013 , and 30 medications were collected from 2014 to 2016 .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Eight medications were collected from 2009 to 2011 , 10 medications were collected between 2012 and 2013 , and 30 medications were collected from 2014 to 2016 ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Age was presented as a continuous variable and categorized into age group: less than 18 years , 18-64 years , and over 64 years .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Age was presented as a continuous variable and categorized into age group: less than 18 years , 18-64 years , and over 64 years ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The NAMCS collects medical information on a systematic random sample of outpatients seen in community physician offices in the United States, including private practice and free-standing clinics.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The NAMCS collects medical information on a systematic random sample of outpatients seen in community physician offices in the United States, including private practice and free-standing clinics."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Data Statement Data are publicly available from the CDCs National Center for Health Statistics.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data Statement Data are publicly available from the CDCs National Center for Health Statistics."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Baseline characteristics were compared between visits with and without an influenza diagnosis , as well as visits with and without an influenza vaccination using the kh 2 or Wilcoxon rank-sum tests as appropriate.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Baseline characteristics were compared between visits with and without an influenza diagnosis , as well as visits with and without an influenza vaccination using the kh 2 or Wilcoxon rank-sum tests as appropriate."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank-sum tests"
+                  }],
+                "neText" : "Wilcoxon rank-sum tests"
+              }]
+          }]
+      }]
+  }
+}

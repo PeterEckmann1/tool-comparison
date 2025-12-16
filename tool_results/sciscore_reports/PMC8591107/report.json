@@ -1,0 +1,179 @@
+{
+  "docIdentifier" : "PMC8591107",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis was conducted with SAS 9.4 (SAS Institute, Cary, NC).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis was conducted with SAS 9.4 (SAS Institute, Cary, NC)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was approved by the King Abdulaziz University Hospital Institutional Review Board (Number 381-17) and performed in accordance with relevant guidelines and regulations in Saudi Arabia and the Declaration of Helsinki.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the King Abdulaziz University Hospital Institutional Review Board (Number 381-17) and performed in accordance with relevant guidelines and regulations in Saudi Arabia and the Declaration of Helsinki."
+              }]
+          }, {
+            "sentence" : "Because of the type of the study, patient consent to review their medical records was not required by the King Abdulaziz University Hospital IRB.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Because of the type of the study, patient consent to review their medical records was not required by the King Abdulaziz University Hospital IRB."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Women with previous two or more cesarean sections, antenatal intrauterine fetal demise, breech presentation, induction of labor, estimated fetal weight >4 kg, and classical or low vertical uterine incision were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Women with previous two or more cesarean sections, antenatal intrauterine fetal demise, breech presentation, induction of labor, estimated fetal weight >4 kg, and classical or low vertical uterine incision were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The hospital records of all women who were admitted to our hospital between January 1, 2011, and December 30, 2018, who had had a trial of labor after cesarean section were identified and reviewed.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The hospital records of all women who were admitted to our hospital between January 1, 2011, and December 30, 2018, who had had a trial of labor after cesarean section were identified and reviewed."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "We included only women with singleton vertex pregnancies between 24–42 weeks of gestation who had one previous cesarean delivery and had undergone a trial of labor after cesarean section.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We included only women with singleton vertex pregnancies between 24–42 weeks of gestation who had one previous cesarean delivery and had undergone a trial of labor after cesarean section."
+              }]
+          }, {
+            "sentence" : "Women with previous two or more cesarean sections, antenatal intrauterine fetal demise, breech presentation, induction of labor, estimated fetal weight >4 kg, and classical or low vertical uterine incision were excluded.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Women with previous two or more cesarean sections, antenatal intrauterine fetal demise, breech presentation, induction of labor, estimated fetal weight >4 kg, and classical or low vertical uterine incision were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "For a categorical variable, the Cochran-Armitage trend test was used if it had two levels, or the Mantel-Haenszel test was used if it had more than two levels.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For a categorical variable, the Cochran-Armitage trend test was used if it had two levels, or the Mantel-Haenszel test was used if it had more than two levels."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Cochran-Armitage trend test"
+                  }],
+                "neText" : "Cochran-Armitage trend test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mantel-Haenszel test"
+                  }],
+                "neText" : "Mantel-Haenszel test"
+              }]
+          }, {
+            "sentence" : "The normality test was performed for each of the continuous variables since all the variables are not normally distributed (p<0.05); the Jonckheere-Terpstra test was used to test trends.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The normality test was performed for each of the continuous variables since all the variables are not normally distributed (p<0.05); the Jonckheere-Terpstra test was used to test trends."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Jonckheere-Terpstra test"
+                  }],
+                "neText" : "Jonckheere-Terpstra test"
+              }]
+          }]
+      }]
+  }
+}

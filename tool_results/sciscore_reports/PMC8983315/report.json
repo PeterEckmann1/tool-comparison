@@ -1,0 +1,574 @@
+{
+  "docIdentifier" : "PMC8983315",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The following primary antibodies were used: chicken anti-GFP (1:500, ab-13970, Abcam, Cambridge, UK), glial fibrillary acidic protein (polyclonal, 1:1,000, ZO334, Dako-Agilent, Santa Clara, CA, USA monoclonal, 1:1,000, MAB 3402, Millipore, Burlington, MA, USA), rabbit anti Iba1 (1:100, 019-19741, Wako Pure Chemicals Industries, Neuss, Germany), rat anti CD68 (1:200, clone FA-11MCA1957, Bio-Rad, Hercules, CA, USA), rabbit anti LAMP1 (1:200, AB24170 Abcam), rat anti-LAMP1 hybridoma (1:300, 1D4B, Developmental Studies Hybridoma Bank at The University of Iowa), mouse anti-GM2 (1:500, A2576, TCI Europe), and rabbit anti-Calbindin (1:1,000, CB-38A, Swant, Burgdorf, Switzerland).",
+          "rowSpan" : 8,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following primary antibodies were used: chicken anti-GFP (1:500, ab-13970, Abcam, Cambridge, UK), glial fibrillary acidic protein (polyclonal, 1:1,000, ZO334, Dako-Agilent, Santa Clara, CA, USA monoclonal, 1:1,000, MAB 3402, Millipore, Burlington, MA, USA), rabbit anti Iba1 (1:100, 019-19741, Wako Pure Chemicals Industries, Neuss, Germany), rat anti CD68 (1:200, clone FA-11MCA1957, Bio-Rad, Hercules, CA, USA), rabbit anti LAMP1 (1:200, AB24170 Abcam), rat anti-LAMP1 hybridoma (1:300, 1D4B, Developmental Studies Hybridoma Bank at The University of Iowa), mouse anti-GM2 (1:500, A2576, TCI Europe), and rabbit anti-Calbindin (1:1,000, CB-38A, Swant, Burgdorf, Switzerland)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GFP"
+                }],
+              "neText" : "anti-GFP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "glial fibrillary acidic protein"
+                }],
+              "neText" : "glial fibrillary acidic protein"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(Synaptic Systems Cat# 234 308, RRID:AB_2924932)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti Iba1"
+                }],
+              "neText" : "anti Iba1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti CD68"
+                }],
+              "neText" : "anti CD68"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti LAMP1"
+                }],
+              "neText" : "anti LAMP1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-LAMP1"
+                }],
+              "neText" : "anti-LAMP1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GM2"
+                }],
+              "neText" : "anti-GM2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Calbindin"
+                }],
+              "neText" : "anti-Calbindin"
+            }]
+        }, {
+          "sentence" : "The secondary antibodies were from Thermo Fisher Scientific : Alexa 488 (1:1,000, anti-rabbit A11008, anti-mouse A11001, and anti-chicken A11039), Alexa 546 (1:2,000, anti-mouse A11039 and anti-rabbit A11010), and Alexa 633 (1:500, anti-rat A21094 and anti-mouse A21050).",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The secondary antibodies were from Thermo Fisher Scientific : Alexa 488 (1:1,000, anti-rabbit A11008, anti-mouse A11001, and anti-chicken A11039), Alexa 546 (1:2,000, anti-mouse A11039 and anti-rabbit A11010), and Alexa 633 (1:500, anti-rat A21094 and anti-mouse A21050)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-chicken"
+                }],
+              "neText" : "anti-chicken"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rat"
+                }],
+              "neText" : "anti-rat"
+            }]
+        }, {
+          "sentence" : "Primary antibodies were as follows: rabbit anti-LAMP1 (1:100, AB24170, Abcam), rabbit anti-GFAP (1:100,000, ZO334, Dako), mouse anti-MBP (1:4,000, clone SMI 94SMI 99, BioLegend), rabbit anti-MAG (1:1,000, 34-6200, Thermo Fisher Scientific), rabbit anti-calnexin (1:5,000, C4731, Sigma-Aldrich, St. Louis, MO, USA), and mouse anti-actin (1:10,000 sc-1616r, Santa Cruz Biotechnology, Dallas, TX, USA).",
+          "rowSpan" : 5,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Primary antibodies were as follows: rabbit anti-LAMP1 (1:100, AB24170, Abcam), rabbit anti-GFAP (1:100,000, ZO334, Dako), mouse anti-MBP (1:4,000, clone SMI 94SMI 99, BioLegend), rabbit anti-MAG (1:1,000, 34-6200, Thermo Fisher Scientific), rabbit anti-calnexin (1:5,000, C4731, Sigma-Aldrich, St. Louis, MO, USA), and mouse anti-actin (1:10,000 sc-1616r, Santa Cruz Biotechnology, Dallas, TX, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GFAP"
+                }],
+              "neText" : "anti-GFAP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-MBP"
+                }],
+              "neText" : "anti-MBP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-MAG"
+                }],
+              "neText" : "anti-MAG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-calnexin"
+                }],
+              "neText" : "anti-calnexin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-actin"
+                }],
+              "neText" : "anti-actin"
+            }]
+        }, {
+          "sentence" : "Secondary antibodies (Chemicon, Temecula, CA, USA) were as follows: goat anti-rabbit horseradish peroxidase (HRP) (1:10,000, AP132P) and goat anti-mouse HRP (1:10,000, AP124P).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Secondary antibodies (Chemicon, Temecula, CA, USA) were as follows: goat anti-rabbit horseradish peroxidase (HRP) (1:10,000, AP132P) and goat anti-mouse HRP (1:10,000, AP124P)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse HRP"
+                }],
+              "neText" : "anti-mouse HRP"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "CAG GFP transgenic mice (C57BL6-Tg (CAG-EGFP)1OsbJ) were purchased from The Jackson Laboratory (Bar Harbor, ME USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "CAG GFP transgenic mice (C57BL6-Tg (CAG-EGFP)1OsbJ) were purchased from The Jackson Laboratory (Bar Harbor, ME USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6-Tg (CAG-EGFP)1OsbJ"
+                }],
+              "neText" : "C57BL6-Tg (CAG-EGFP)1OsbJ"
+            }]
+        }, {
+          "sentence" : "BMT Total BM was flushed from the tibiae, femora, and humeri of 4- to 8-week-old tgGFP mice as described previously.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "BMT Total BM was flushed from the tibiae, femora, and humeri of 4- to 8-week-old tgGFP mice as described previously."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "tgGFP"
+                }],
+              "neText" : "tgGFP"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data were analyzed with Fiji software (ImageJ, National Institutes of Health, Bethesda, MD, USA), 94 LasX software (Leica Application Suite X, RRID: SCR_013673), and Imaris viewer software (Oxford Instruments, Abingdon-on-Thames, UK).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analyzed with Fiji software (ImageJ, National Institutes of Health, Bethesda, MD, USA), 94 LasX software (Leica Application Suite X, RRID: SCR_013673), and Imaris viewer software (Oxford Instruments, Abingdon-on-Thames, UK)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji"
+                }],
+              "neText" : "Fiji"
+            }, {
+              "source" : "",
+              "rrid" : "Leica Application Suite X ( RRID:SCR_013673)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Imaris"
+                }],
+              "neText" : "Imaris"
+            }]
+        }, {
+          "sentence" : "Images were imported into Adobe Photoshop 2021 for brightness and contrast adjustments and to merge the channels.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images were imported into Adobe Photoshop 2021 for brightness and contrast adjustments and to merge the channels."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Adobe Photoshop, RRID:SCR_014199",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Adobe Photoshop"
+                }],
+              "neText" : "Adobe Photoshop"
+            }]
+        }, {
+          "sentence" : "All data were analyzed using the FlowJo software.phycoerytrin Morphological analysis of the SC and optic nerve Semithin section analysis of SCs was performed as reported previously.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All data were analyzed using the FlowJo software.phycoerytrin Morphological analysis of the SC and optic nerve Semithin section analysis of SCs was performed as reported previously."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "Lipid bands were detected by digital acquisition and quantified using ImageJ software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Lipid bands were detected by digital acquisition and quantified using ImageJ software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Statistics Data were analyzed with GraphPad Prism version 8.0 for Macintosh (GraphPad, San Diego, CA, USA) and expressed as the mean +- standard error of the mean (SEM).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistics Data were analyzed with GraphPad Prism version 8.0 for Macintosh (GraphPad, San Diego, CA, USA) and expressed as the mean +- standard error of the mean (SEM)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Study approval All experiments and procedures described in this study were conducted under an approved protocol of the Institutional Committee for the Good Animal Experimentation of the San Raffaele Scientific Institute and were reported to the Ministry of Health as required by Italian law (Institutional Animal Care and Use Committee - IACUC 791 and 1145).",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Study approval All experiments and procedures described in this study were conducted under an approved protocol of the Institutional Committee for the Good Animal Experimentation of the San Raffaele Scientific Institute and were reported to the Ministry of Health as required by Italian law (Institutional Animal Care and Use Committee - IACUC 791 and 1145)."
+              }]
+          }, {
+            "sentence" : "Study approval All experiments and procedures described in this study were conducted under an approved protocol of the Institutional Committee for the Good Animal Experimentation of the San Raffaele Scientific Institute and were reported to the Ministry of Health as required by Italian law (Institutional Animal Care and Use Committee - IACUC 791 and 1145).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Study approval All experiments and procedures described in this study were conducted under an approved protocol of the Institutional Committee for the Good Animal Experimentation of the San Raffaele Scientific Institute and were reported to the Ministry of Health as required by Italian law (Institutional Animal Care and Use Committee - IACUC 791 and 1145)."
+              }]
+          }, {
+            "sentence" : "Study approval All experiments and procedures described in this study were conducted under an approved protocol of the Institutional Committee for the Good Animal Experimentation of the San Raffaele Scientific Institute and were reported to the Ministry of Health as required by Italian law (Institutional Animal Care and Use Committee - IACUC 791 and 1145).",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Study approval All experiments and procedures described in this study were conducted under an approved protocol of the Institutional Committee for the Good Animal Experimentation of the San Raffaele Scientific Institute and were reported to the Ministry of Health as required by Italian law (Institutional Animal Care and Use Committee - IACUC 791 and 1145)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Mice dying within 2-3 weeks after busulfan conditioning were excluded from subsequent analyses.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice dying within 2-3 weeks after busulfan conditioning were excluded from subsequent analyses."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "BMT Total BM was flushed from the tibiae, femora, and humeri of 4- to 8-week-old tgGFP mice as described previously.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "BMT Total BM was flushed from the tibiae, femora, and humeri of 4- to 8-week-old tgGFP mice as described previously."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "The remaining PB sample aliquots were analyzed using an automated hemocytometer (ProCyte Dx Hematology Analyzer, IDEXX Laboratories, Westbrook, ME, USA) to determine the complete blood count variables.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The remaining PB sample aliquots were analyzed using an automated hemocytometer (ProCyte Dx Hematology Analyzer, IDEXX Laboratories, Westbrook, ME, USA) to determine the complete blood count variables."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Unpaired Students t test and one-way or two-way ANOVA followed by post-tests were used when appropriate (statistical significance: p < 0.05).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Unpaired Students t test and one-way or two-way ANOVA followed by post-tests were used when appropriate (statistical significance: p < 0.05)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Survival curves were analyzed with log rank (Mantel-Cox) test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Survival curves were analyzed with log rank (Mantel-Cox) test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mantel-Cox) test"
+                  }],
+                "neText" : "Mantel-Cox) test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "The following primary antibodies were used: chicken anti-GFP (1:500, ab-13970, Abcam, Cambridge, UK), glial fibrillary acidic protein (polyclonal, 1:1,000, ZO334, Dako-Agilent, Santa Clara, CA, USA monoclonal, 1:1,000, MAB 3402, Millipore, Burlington, MA, USA), rabbit anti Iba1 (1:100, 019-19741, Wako Pure Chemicals Industries, Neuss, Germany), rat anti CD68 (1:200, clone FA-11MCA1957, Bio-Rad, Hercules, CA, USA), rabbit anti LAMP1 (1:200, AB24170 Abcam), rat anti-LAMP1 hybridoma (1:300, 1D4B, Developmental Studies Hybridoma Bank at The University of Iowa), mouse anti-GM2 (1:500, A2576, TCI Europe), and rabbit anti-Calbindin (1:1,000, CB-38A, Swant, Burgdorf, Switzerland).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The following primary antibodies were used: chicken anti-GFP (1:500, ab-13970, Abcam, Cambridge, UK), glial fibrillary acidic protein (polyclonal, 1:1,000, ZO334, Dako-Agilent, Santa Clara, CA, USA monoclonal, 1:1,000, MAB 3402, Millipore, Burlington, MA, USA), rabbit anti Iba1 (1:100, 019-19741, Wako Pure Chemicals Industries, Neuss, Germany), rat anti CD68 (1:200, clone FA-11MCA1957, Bio-Rad, Hercules, CA, USA), rabbit anti LAMP1 (1:200, AB24170 Abcam), rat anti-LAMP1 hybridoma (1:300, 1D4B, Developmental Studies Hybridoma Bank at The University of Iowa), mouse anti-GM2 (1:500, A2576, TCI Europe), and rabbit anti-Calbindin (1:1,000, CB-38A, Swant, Burgdorf, Switzerland)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AB24170 "
+                  }],
+                "neText" : "AB24170 "
+              }]
+          }, {
+            "sentence" : "Primary antibodies were as follows: rabbit anti-LAMP1 (1:100, AB24170, Abcam), rabbit anti-GFAP (1:100,000, ZO334, Dako), mouse anti-MBP (1:4,000, clone SMI 94SMI 99, BioLegend), rabbit anti-MAG (1:1,000, 34-6200, Thermo Fisher Scientific), rabbit anti-calnexin (1:5,000, C4731, Sigma-Aldrich, St. Louis, MO, USA), and mouse anti-actin (1:10,000 sc-1616r, Santa Cruz Biotechnology, Dallas, TX, USA).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Primary antibodies were as follows: rabbit anti-LAMP1 (1:100, AB24170, Abcam), rabbit anti-GFAP (1:100,000, ZO334, Dako), mouse anti-MBP (1:4,000, clone SMI 94SMI 99, BioLegend), rabbit anti-MAG (1:1,000, 34-6200, Thermo Fisher Scientific), rabbit anti-calnexin (1:5,000, C4731, Sigma-Aldrich, St. Louis, MO, USA), and mouse anti-actin (1:10,000 sc-1616r, Santa Cruz Biotechnology, Dallas, TX, USA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AB24170,"
+                  }],
+                "neText" : "AB24170,"
+              }]
+          }]
+      }]
+  }
+}

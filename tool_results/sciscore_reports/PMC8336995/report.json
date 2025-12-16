@@ -1,0 +1,346 @@
+{
+  "docIdentifier" : "PMC8336995",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The PD-L1 antibody–conjugated SPIO nanoparticles were separated using an LS column and washed with PBS at a volume 25 times greater than the column bed volume to remove unconjugated antibodies; the nanoparticles were then eluted in 600 μL of PBS.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The PD-L1 antibody–conjugated SPIO nanoparticles were separated using an LS column and washed with PBS at a volume 25 times greater than the column bed volume to remove unconjugated antibodies; the nanoparticles were then eluted in 600 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "L of PBS."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PD-L1"
+                }],
+              "neText" : "PD-L1"
+            }]
+        }, {
+          "sentence" : "Flow Cytometry To detect the PD-L1 expression on GL161 cells , cells were detached using Accutase ( Thermo Fisher Scientific , USA ) and then stained with PDL1-SPIO nanoparticles , SPIO nanoparticles , PDL1 antibodies , or isotype control antibodies , followed by PE-conjugated anti-rat IgG2b antibodies ( MRG2b-85 , BioLegend , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Flow Cytometry To detect the PD-L1 expression on GL161 cells , cells were detached using Accutase ( Thermo Fisher Scientific , USA ) and then stained with PDL1-SPIO nanoparticles , SPIO nanoparticles , PDL1 antibodies , or isotype control antibodies , followed by PE-conjugated anti-rat IgG2b antibodies ( MRG2b-85 , BioLegend , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rat IgG2b"
+                }],
+              "neText" : "anti-rat IgG2b"
+            }]
+        }, {
+          "sentence" : "The following antibodies conjugated with fluorochrome were used: Ly6G-PB ( RB6-8C5) , Ly6C-FITC ( HK1.4) , CD45-APC-Cy7 , ( 30-F11) , CD11b-PB ( M1/70) , and PD-L1-PE ( 10F.9G2 ) ( BioLegend , USA) .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following antibodies conjugated with fluorochrome were used: Ly6G-PB ( RB6-8C5) , Ly6C-FITC ( HK1.4) , CD45-APC-Cy7 , ( 30-F11) , CD11b-PB ( M1/70) , and PD-L1-PE ( 10F.9G2 ) ( BioLegend , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD45-APC-Cy7"
+                }],
+              "neText" : "CD45-APC-Cy7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD11b-PB"
+                }],
+              "neText" : "CD11b-PB"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PD-L1-PE ( 10F.9G2 )"
+                }],
+              "neText" : "PD-L1-PE ( 10F.9G2 )"
+            }]
+        }, {
+          "sentence" : "Cells were treated with SPIO nanoparticles , PDL1-SPIO nanoparticles , PDL1 antibodies , or isotype control antibodies for 24 h at 37 °C and then fixed with 4 % paraformaldehyde for 30 min .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were treated with SPIO nanoparticles , PDL1-SPIO nanoparticles , PDL1 antibodies , or isotype control antibodies for 24 h at 37 °C and then fixed with 4 % paraformaldehyde for 30 min ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PDL1"
+                }],
+              "neText" : "PDL1"
+            }]
+        }, {
+          "sentence" : "Slides were then stained with AF-488 anti-mouse Rat IgG2b antibody and mounted with a mounting medium containing 4’6-diamidino-2-phenylindole ( DAPI ) ( Vectashield , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Slides were then stained with AF-488 anti-mouse Rat IgG2b antibody and mounted with a mounting medium containing 4’6-diamidino-2-phenylindole ( DAPI ) ( Vectashield , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse Rat IgG2b"
+                }],
+              "neText" : "anti-mouse Rat IgG2b"
+            }]
+        }, {
+          "sentence" : "Next, the secondary antibody, horseradish peroxidase anti-rabbit IgG antibody, was applied to stain the section.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Next, the secondary antibody, horseradish peroxidase anti-rabbit IgG antibody, was applied to stain the section."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "The MRI samples were PDL1-SPIO nanoparticle phantoms and GL261 cells treated with various concentrations of PDL1-SPIO nanoparticles and then suspended in 1% agarose gel.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The MRI samples were PDL1-SPIO nanoparticle phantoms and GL261 cells treated with various concentrations of PDL1-SPIO nanoparticles and then suspended in 1% agarose gel."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_Y003",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GL261"
+                }],
+              "neText" : "GL261"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Brain Tumor Animal Model For the GL261/TMZ-R GBM animal model , C57BL/6JNarl mice were purchased from the National Laboratory Animal Center .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Brain Tumor Animal Model For the GL261/TMZ-R GBM animal model , C57BL/6JNarl mice were purchased from the National Laboratory Animal Center ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:MGI:5699857",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6JNarl"
+                }],
+              "neText" : "C57BL/6JNarl"
+            }]
+        }, {
+          "sentence" : "Briefly, GL261/TMZ-R tumor-bearing mice were sacrificed and transcardially perfused with 5 mL of PBS and 5 mL of formalin.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly, GL261/TMZ-R tumor-bearing mice were sacrificed and transcardially perfused with 5 mL of PBS and 5 mL of formalin."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GL261/TMZ-R tumor-bearing"
+                }],
+              "neText" : "GL261/TMZ-R tumor-bearing"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data were analyzed using FlowJo software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analyzed using FlowJo software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "The T2* value of each voxel was calculated through exponential fitting performed in-house by using MATLAB (version R2020a, MathWorks, Sherborn, MA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The T2* value of each voxel was calculated through exponential fitting performed in-house by using MATLAB (version R2020a, MathWorks, Sherborn, MA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Isolation of Tumor-Infiltrating Leukocytes To isolate brain-infiltrating leukocytes , we anesthetized mice and transcardially perfused them with 5 mL of cold PBS.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Isolation of Tumor-Infiltrating Leukocytes To isolate brain-infiltrating leukocytes , we anesthetized mice and transcardially perfused them with 5 mL of cold PBS."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "docIdentifier" : "PMC8799141",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Reagents The antibodies used: anti-b-actin, anti-ASIC1a were from Abcam (Cambridge, UK), other antibodies were purchased from Beyotime (Shanghai, China).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Reagents The antibodies used: anti-b-actin, anti-ASIC1a were from Abcam (Cambridge, UK), other antibodies were purchased from Beyotime (Shanghai, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-b-actin"
+                }],
+              "neText" : "anti-b-actin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-ASIC1a"
+                }],
+              "neText" : "anti-ASIC1a"
+            }]
+        }, {
+          "sentence" : "The protein blots were visualized using secondary HRP-conjugated anti-rabbit or anti-mouse antibodies and BeyoECL Plus ( P0018 , Beyotime) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The protein blots were visualized using secondary HRP-conjugated anti-rabbit or anti-mouse antibodies and BeyoECL Plus ( P0018 , Beyotime) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Methods Cell lines Breast cancer cell lines MCF-7 and MDA-MB-231were obtained from Cell Bank of Type Culture Collection of Chinese Academy of Sciences (Shanghai, China) and cultured in Dulbeccos Modified Eagles Medium (DMEM, Gibco, USA) supplemented with 10 FBS (HyClone, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Methods Cell lines Breast cancer cell lines MCF-7 and MDA-MB-231were obtained from Cell Bank of Type Culture Collection of Chinese Academy of Sciences (Shanghai, China) and cultured in Dulbeccos Modified Eagles Medium (DMEM, Gibco, USA) supplemented with 10 FBS (HyClone, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0031",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MCF-7"
+                }],
+              "neText" : "MCF-7"
+            }]
+        }, {
+          "sentence" : "For orthotopic implantation, 5x107 MCF-7 cells or MDA-MB-231 cells suspended in 100 uL PBS were injected into the mammary fat pad of nude mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For orthotopic implantation, 5x107 MCF-7 cells or MDA-MB-231 cells suspended in 100 uL PBS were injected into the mammary fat pad of nude mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0062",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MDA-MB-231"
+                }],
+              "neText" : "MDA-MB-231"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Methods Cell lines Breast cancer cell lines MCF-7 and MDA-MB-231were obtained from Cell Bank of Type Culture Collection of Chinese Academy of Sciences (Shanghai, China) and cultured in Dulbeccos Modified Eagles Medium (DMEM, Gibco, USA) supplemented with 10 FBS (HyClone, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Methods Cell lines Breast cancer cell lines MCF-7 and MDA-MB-231were obtained from Cell Bank of Type Culture Collection of Chinese Academy of Sciences (Shanghai, China) and cultured in Dulbeccos Modified Eagles Medium (DMEM, Gibco, USA) supplemented with 10 FBS (HyClone, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MDA-MB-231were"
+                }],
+              "neText" : "MDA-MB-231were"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Methods Cell lines Breast cancer cell lines MCF-7 and MDA-MB-231were obtained from Cell Bank of Type Culture Collection of Chinese Academy of Sciences (Shanghai, China) and cultured in Dulbeccos Modified Eagles Medium (DMEM, Gibco, USA) supplemented with 10 FBS (HyClone, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Methods Cell lines Breast cancer cell lines MCF-7 and MDA-MB-231were obtained from Cell Bank of Type Culture Collection of Chinese Academy of Sciences (Shanghai, China) and cultured in Dulbeccos Modified Eagles Medium (DMEM, Gibco, USA) supplemented with 10 FBS (HyClone, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All the tumor tissue donors knew about the experiment and signed the informed consent .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the tumor tissue donors knew about the experiment and signed the informed consent ."
+              }]
+          }, {
+            "sentence" : "The study was approved by the ethnical committee of Shanghai International Medical Center (SIMC-EC-2019-03) and informed consent was taken from all the patients.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the ethnical committee of Shanghai International Medical Center (SIMC-EC-2019-03) and informed consent was taken from all the patients."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion of patients follows the following principles: Enrollment criteria: ( I ) simple invasive breast cancer patients , no other systemic diseases ( II ) 20-80 years old ( III ) good awareness , able to communicate with researchers ( IV ) preoperative chemotherapy , radiotherapy and other anti-tumor therapy were not performed.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion of patients follows the following principles: Enrollment criteria: ( I ) simple invasive breast cancer patients , no other systemic diseases ( II ) 20-80 years old ( III ) good awareness , able to communicate with researchers ( IV ) preoperative chemotherapy , radiotherapy and other anti-tumor therapy were not performed."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Animals Nude mice (BALBC, female, about 3 weeks of age) were employed and raised under SPF conditions.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals Nude mice (BALBC, female, about 3 weeks of age) were employed and raised under SPF conditions."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The inclusion of patients follows the following principles: Enrollment criteria: ( I ) simple invasive breast cancer patients , no other systemic diseases ( II ) 20-80 years old ( III ) good awareness , able to communicate with researchers ( IV ) preoperative chemotherapy , radiotherapy and other anti-tumor therapy were not performed.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion of patients follows the following principles: Enrollment criteria: ( I ) simple invasive breast cancer patients , no other systemic diseases ( II ) 20-80 years old ( III ) good awareness , able to communicate with researchers ( IV ) preoperative chemotherapy , radiotherapy and other anti-tumor therapy were not performed."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Mice were randomly assigned into three independent groups (4 mice in each group), control group, PcTx-1 group (10 ngkg, tail vein injection, every day for 7 days), ASIC1a siRNA group (MCF-7 cells or MDA-MB-231 cells were transfected with ASIC1a siRNA, and then injected into the mammary fat pad of nude mice).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice were randomly assigned into three independent groups (4 mice in each group), control group, PcTx-1 group (10 ngkg, tail vein injection, every day for 7 days), ASIC1a siRNA group (MCF-7 cells or MDA-MB-231 cells were transfected with ASIC1a siRNA, and then injected into the mammary fat pad of nude mice)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The viability of the cells was assessed from three replicates in three independent experiments by the MTT .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The viability of the cells was assessed from three replicates in three independent experiments by the MTT ."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "The viability of the cells was assessed from three replicates in three independent experiments by the MTT .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The viability of the cells was assessed from three replicates in three independent experiments by the MTT ."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Independent Students t-test was used to analyze differences.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Independent Students t-test was used to analyze differences."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "The relationship between ASIC1a mRNA in control group and testing group were analyzed by the Mann-Whitney test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The relationship between ASIC1a mRNA in control group and testing group were analyzed by the Mann-Whitney test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney test"
+                  }],
+                "neText" : "Mann-Whitney test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "docIdentifier" : "PMC8191638",
+  "sciscore" : 8,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Structural, T 1-weighted magnetic resonance images were processed using FreeSurfer (Dale et al., 1999 Fischl et al., 1999).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Structural, T 1-weighted magnetic resonance images were processed using FreeSurfer (Dale et al., 1999 Fischl et al., 1999)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FreeSurfer, RRID:SCR_001847",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FreeSurfer"
+                }],
+              "neText" : "FreeSurfer"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The data collection , as well as their distribution in anonymized format , was approved by their institutional ethics review board.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The data collection , as well as their distribution in anonymized format , was approved by their institutional ethics review board."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The contrasts used to calculate power were excluded from the fwer calculation.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The contrasts used to calculate power were excluded from the fwer calculation."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "This allowed selection of 278 subjects that successfully finished the FreeSurfer processing, that passed quality control, and further, that had complete data for the variables that we selected to be used in the statistical analysis (described below).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This allowed selection of 278 subjects that successfully finished the FreeSurfer processing, that passed quality control, and further, that had complete data for the variables that we selected to be used in the statistical analysis (described below)."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Age (5-15 years, mean = 9.85, standard deviation = 2.65) and sex (180 males, 98 females) were included as nuisance variables.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Age (5-15 years, mean = 9.85, standard deviation = 2.65) and sex (180 males, 98 females) were included as nuisance variables."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Age (5-15 years, mean = 9.85, standard deviation = 2.65) and sex (180 males, 98 females) were included as nuisance variables.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Age (5-15 years, mean = 9.85, standard deviation = 2.65) and sex (180 males, 98 females) were included as nuisance variables."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "For the unbalanced scenarios, subjects were likewise divided into 4, 5, 7 or 9 groups, for the same respective sample sizes, however with each group consisting of a random number of participants under the constraint that each group had at least 4 subjects.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the unbalanced scenarios, subjects were likewise divided into 4, 5, 7 or 9 groups, for the same respective sample sizes, however with each group consisting of a random number of participants under the constraint that each group had at least 4 subjects."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "By adding a positive signal to group 1 and a negative signal to group 2, both with magnitudes determined by s t , an approximate power of 50 irrespective to the sample size or number of groups can be expected in all simulations for the contrast comparing these two groups before any adjustment has been made for the multiplicity of tests (in this case, multiplicity of contrasts).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "By adding a positive signal to group 1 and a negative signal to group 2, both with magnitudes determined by s t , an approximate power of 50 irrespective to the sample size or number of groups can be expected in all simulations for the contrast comparing these two groups before any adjustment has been made for the multiplicity of tests (in this case, multiplicity of contrasts)."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Real data We used data from the Healthy Brain Network ( hbn ) ( Alexander et al. , 2017 ) made publicly available by the Child Mind Institute ( cmi , New York , ny , usa ) to evaluate how correction over the number of contrasts could affect a realistic data analysis .",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Real data We used data from the Healthy Brain Network ( hbn ) ( Alexander et al. , 2017 ) made publicly available by the Child Mind Institute ( cmi , New York , ny , usa ) to evaluate how correction over the number of contrasts could affect a realistic data analysis ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Tukey, Fisher-Hayter and Wang-Cui correction, however, used critical values pre-calculated with the functions ptukey and qtukey from the r statistical software (R Core Team,",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Tukey, Fisher-Hayter and Wang-Cui correction, however, used critical values pre-calculated with the functions ptukey and qtukey from the r statistical software (R Core Team,"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey"
+                  }],
+                "neText" : "Tukey"
+              }]
+          }, {
+            "sentence" : "Bonferroni and Dunn-Sidak were applied over parametric p-values computed using Students t distribution . 3.2 .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Bonferroni and Dunn-Sidak were applied over parametric p-values computed using Students t distribution . 3.2 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunn-Sidak"
+                  }],
+                "neText" : "Dunn-Sidak"
+              }]
+          }, {
+            "sentence" : "Two analyses of covariance (ancova) designs were considered, one to investigate bsmss and another for ecw.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two analyses of covariance (ancova) designs were considered, one to investigate bsmss and another for ecw."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Two analyses of covariance"
+                  }],
+                "neText" : "Two analyses of covariance"
+              }]
+          }]
+      }]
+  }
+}

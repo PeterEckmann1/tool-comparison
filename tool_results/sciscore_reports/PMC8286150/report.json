@@ -1,0 +1,304 @@
+{
+  "docIdentifier" : "PMC8286150",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "In addition, the miRNA expression profile of GSE64989,17 based on the GPL16384 platform, was downloaded from the Gene Expression Omnibus (GEO, https:www.ncbi.nlm.nih.govgeo ) database, including HCC samples from 8 patients who experienced recurrence after LT and 10 patients who did not experience recurrence after LT.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In addition, the miRNA expression profile of GSE64989,17 based on the GPL16384 platform, was downloaded from the Gene Expression Omnibus (GEO, https:www.ncbi.nlm.nih.govgeo ) database, including HCC samples from 8 patients who experienced recurrence after LT and 10 patients who did not experience recurrence after LT."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Omnibus (GEO) (RRID:SCR_005012)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Omnibus"
+                }],
+              "neText" : "Gene Expression Omnibus"
+            }]
+        }, {
+          "sentence" : "Sequences and symbol of mature miRs were obtained from miRbase version 22 ( http:www.mirbase.org ).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Sequences and symbol of mature miRs were obtained from miRbase version 22 ( http:www.mirbase.org )."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "miRBase (RRID:SCR_003152)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "miRbase"
+                }],
+              "neText" : "miRbase"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http:www.mirbase.org"
+                }],
+              "neText" : "http:www.mirbase.org"
+            }]
+        }, {
+          "sentence" : "Screening of Differentially Expressed miRNAs The limma package18 was used to screen for differentially expressed miRs (DEmiRs) in two comparison-pairs: HCC vs normal liver in the TCGA dataset, or HCC with recurrence after LT vs HCC without recurrence after LT in the GSE64989 dataset.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Screening of Differentially Expressed miRNAs The limma package18 was used to screen for differentially expressed miRs (DEmiRs) in two comparison-pairs: HCC vs normal liver in the TCGA dataset, or HCC with recurrence after LT vs HCC without recurrence after LT in the GSE64989 dataset."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LIMMA (RRID:SCR_010943)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "limma"
+                }],
+              "neText" : "limma"
+            }]
+        }, {
+          "sentence" : "Cytoscape software21 was used to visualize the network.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cytoscape software21 was used to visualize the network."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }, {
+          "sentence" : "Functional Enrichment Analysis In order to further explore the biological processes and pathways involving candidate miRs, we used Metascape22 web tools to analyze gene ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment. P < 0.05 was considered statistically significant.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Functional Enrichment Analysis In order to further explore the biological processes and pathways involving candidate miRs, we used Metascape22 web tools to analyze gene ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment. P < 0.05 was considered statistically significant."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "Statistical Analysis All analyses were performed using R version 4.0.2 ( https:www.r-project.org ).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis All analyses were performed using R version 4.0.2 ( https:www.r-project.org )."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.r-project.org"
+                }],
+              "neText" : "https:www.r-project.org"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "In addition, the miRNA expression profile of GSE64989,17 based on the GPL16384 platform, was downloaded from the Gene Expression Omnibus (GEO, https:www.ncbi.nlm.nih.govgeo ) database, including HCC samples from 8 patients who experienced recurrence after LT and 10 patients who did not experience recurrence after LT.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In addition, the miRNA expression profile of GSE64989,17 based on the GPL16384 platform, was downloaded from the Gene Expression Omnibus (GEO, https:www.ncbi.nlm.nih.govgeo ) database, including HCC samples from 8 patients who experienced recurrence after LT and 10 patients who did not experience recurrence after LT."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The miR symbols in GSE64989 were converted to be consistent with mature miR symbols in the mature miR data in the TCGA.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The miR symbols in GSE64989 were converted to be consistent with mature miR symbols in the mature miR data in the TCGA."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE64989"
+                  }],
+                "neText" : "GSE64989"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The lncRNA and mRNA targeted by the same miR were used to perform Pearson correlation analysis.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The lncRNA and mRNA targeted by the same miR were used to perform Pearson correlation analysis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }, {
+            "sentence" : "The unpaired t-test provided in the limma package was used to screen for DEmiRs.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The unpaired t-test provided in the limma package was used to screen for DEmiRs."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Kaplan-Meier survival analysis and the Log rank test were used to compare survival between low- and high-risk patients.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Kaplan-Meier survival analysis and the Log rank test were used to compare survival between low- and high-risk patients."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Log rank test"
+                  }],
+                "neText" : "Log rank test"
+              }]
+          }]
+      }]
+  }
+}

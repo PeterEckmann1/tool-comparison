@@ -1,0 +1,164 @@
+{
+  "docIdentifier" : "PMC8500070",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All the data was collected in a Microsoft Excel sheet.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All the data was collected in a Microsoft Excel sheet."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }, {
+          "sentence" : "It was then coded, entered, and analyzed using Statistical Package for Social Science (SPSS version 26, Armonk NY).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "It was then coded, entered, and analyzed using Statistical Package for Social Science (SPSS version 26, Armonk NY)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and Methods We conducted a cross-sectional observational study after obtaining formal approval of the institutional human ethics committee of All India Institute of Medical Sciences (AIIMS), Bhopal, India (LOP/2015/STS0045–2015).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods We conducted a cross-sectional observational study after obtaining formal approval of the institutional human ethics committee of All India Institute of Medical Sciences (AIIMS), Bhopal, India (LOP/2015/STS0045–2015)."
+              }]
+          }, {
+            "sentence" : "Patients with LBP of < 6-week duration, chronic LBP combined with other diagnosed musculoskeletal diseases, patients with history of back surgery, individuals who were incapable of understanding and answering the questionnaires, and those who did not consent were excluded.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients with LBP of < 6-week duration, chronic LBP combined with other diagnosed musculoskeletal diseases, patients with history of back surgery, individuals who were incapable of understanding and answering the questionnaires, and those who did not consent were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Fifty patients satisfying the inclusion and exclusion criteria were enrolled.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fifty patients satisfying the inclusion and exclusion criteria were enrolled."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Fifty patients satisfying the inclusion and exclusion criteria were enrolled.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fifty patients satisfying the inclusion and exclusion criteria were enrolled."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Inclusion criteria were 1) age > 18 years and 2) LBP which had failed to improve over past 6 weeks.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria were 1) age > 18 years and 2) LBP which had failed to improve over past 6 weeks."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Association study between the variables was performed, statistical significance was calculated using Fisher’s exact test, and p value of < 0.05 was taken as statistically significant.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Association study between the variables was performed, statistical significance was calculated using Fisher’s exact test, and p value of < 0.05 was taken as statistically significant."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher’s exact test"
+                  }],
+                "neText" : "Fisher’s exact test"
+              }]
+          }]
+      }]
+  }
+}

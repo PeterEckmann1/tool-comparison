@@ -1,0 +1,240 @@
+{
+  "docIdentifier" : "PMC8804256",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "A total of 21 male Wistar rats aged 8-12 weeks and weighing 300-390 g (Charles-River Laboratories, Barcelona, Spain) were used in these experiments: 6 for slices and 15 for in vivo.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A total of 21 male Wistar rats aged 8-12 weeks and weighing 300-390 g (Charles-River Laboratories, Barcelona, Spain) were used in these experiments: 6 for slices and 15 for in vivo."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_13508588",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Wistar"
+                }],
+              "neText" : "Wistar"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : ", FAST Analysis version 6.0, OriginPro 2016, and GraphPad 5.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", FAST Analysis version 6.0, OriginPro 2016, and GraphPad 5.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }, {
+          "sentence" : "The diffusion of H2O2 from a spherical source was modeled using OriginPro 2016, based on equation (1), which describes diffusion from a spherical source 30.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The diffusion of H2O2 from a spherical source was modeled using OriginPro 2016, based on equation (1), which describes diffusion from a spherical source 30."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "OriginPro"
+                }],
+              "neText" : "OriginPro"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Animals: All the procedures in this study were performed in accordance with the European Union Council Directive for the Care and Use of Laboratory animals, 201063EU, and were approved by the local ethics committee (ORBEA) and the Portuguese Directorate-General for Food and Veterinary.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals: All the procedures in this study were performed in accordance with the European Union Council Directive for the Care and Use of Laboratory animals, 201063EU, and were approved by the local ethics committee (ORBEA) and the Portuguese Directorate-General for Food and Veterinary."
+              }]
+          }, {
+            "sentence" : "Preparation of Rat Striatum Slices: Following decapitation under deep anesthesia ( isoflurane) , the brain of the animal was rapidly removed and placed in ice-cold , Carbox bubbled modified aCSF .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Preparation of Rat Striatum Slices: Following decapitation under deep anesthesia ( isoflurane) , the brain of the animal was rapidly removed and placed in ice-cold , Carbox bubbled modified aCSF ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "A total of 21 male Wistar rats aged 8-12 weeks and weighing 300-390 g (Charles-River Laboratories, Barcelona, Spain) were used in these experiments: 6 for slices and 15 for in vivo.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 21 male Wistar rats aged 8-12 weeks and weighing 300-390 g (Charles-River Laboratories, Barcelona, Spain) were used in these experiments: 6 for slices and 15 for in vivo."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "A total of 21 male Wistar rats aged 8-12 weeks and weighing 300-390 g (Charles-River Laboratories, Barcelona, Spain) were used in these experiments: 6 for slices and 15 for in vivo.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 21 male Wistar rats aged 8-12 weeks and weighing 300-390 g (Charles-River Laboratories, Barcelona, Spain) were used in these experiments: 6 for slices and 15 for in vivo."
+              }]
+          }, {
+            "sentence" : "A total of 21 male Wistar rats aged 8-12 weeks and weighing 300-390 g (Charles-River Laboratories, Barcelona, Spain) were used in these experiments: 6 for slices and 15 for in vivo.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 21 male Wistar rats aged 8-12 weeks and weighing 300-390 g (Charles-River Laboratories, Barcelona, Spain) were used in these experiments: 6 for slices and 15 for in vivo."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Argon was provided by Air Liquide, Portugal and Carbox (95 O25CO2) was obtain from Linde Sogas, Portugal.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Argon was provided by Air Liquide, Portugal and Carbox (95 O25CO2) was obtain from Linde Sogas, Portugal."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "O25CO2"
+                  }],
+                "neText" : "O25CO2"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Normality of data was confirmed using the DAgostino and Pearson omnibus normality test (a = 0.05).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Normality of data was confirmed using the DAgostino and Pearson omnibus normality test (a = 0.05)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson omnibus normality test"
+                  }],
+                "neText" : "Pearson omnibus normality test"
+              }]
+          }, {
+            "sentence" : "Calculated parameters were statistically evaluated by using One-way ANOVA followed by Dunnett post-hoc test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Calculated parameters were statistically evaluated by using One-way ANOVA followed by Dunnett post-hoc test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnett post-hoc test"
+                  }],
+                "neText" : "Dunnett post-hoc test"
+              }]
+          }]
+      }]
+  }
+}

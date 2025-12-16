@@ -1,0 +1,138 @@
+{
+  "docIdentifier" : "PMC8179067",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The software ToposPro already performed this task and had been widely used in the field of crystal topology to study the three-dimensional partitioning of zeolite frameworks 26,34 and ideal nets 27 into natural tiles along with molecular crystals into VDP. 32 An additional output format was coded into ToposPro where a text file is produced containing structural information after deconstruction to units of growth.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The software ToposPro already performed this task and had been widely used in the field of crystal topology to study the three-dimensional partitioning of zeolite frameworks 26,34 and ideal nets 27 into natural tiles along with molecular crystals into VDP. 32 An additional output format was coded into ToposPro where a text file is produced containing structural information after deconstruction to units of growth."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ToposPro (RRID:SCR_024496)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ToposPro"
+                }],
+              "neText" : "ToposPro"
+            }]
+        }, {
+          "sentence" : "The ramification of this definition is that the atom-atom connections calculated using AutoCN will determine if a molecule-molecule interaction will appear i.e. if an atom-atom interaction between a molecule and a neighbour is weak, then it will be excluded before a closer and stronger atom-atom connection on another neighbour, regardless of if the centroid of the first neighbour is closer than the second to the reference molecule.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The ramification of this definition is that the atom-atom connections calculated using AutoCN will determine if a molecule-molecule interaction will appear i.e. if an atom-atom interaction between a molecule and a neighbour is weak, then it will be excluded before a closer and stronger atom-atom connection on another neighbour, regardless of if the centroid of the first neighbour is closer than the second to the reference molecule."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AutoCN"
+                }],
+              "neText" : "AutoCN"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "A typical CG run is divided into three main phases: (i) the initialisation phase, concerned with reading in parameters from the user then assembling the crystal structure of the material to be grown and constructing the energy ladders for each species in a system (ii) the growthdissolution loop of the program, where the Monte Carlo selection process occurs and crystal site types are selected by probability weightings to grow or dissolve by a random number generator.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A typical CG run is divided into three main phases: (i) the initialisation phase, concerned with reading in parameters from the user then assembling the crystal structure of the material to be grown and constructing the energy ladders for each species in a system (ii) the growthdissolution loop of the program, where the Monte Carlo selection process occurs and crystal site types are selected by probability weightings to grow or dissolve by a random number generator."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

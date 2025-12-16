@@ -1,0 +1,974 @@
+{
+  "docIdentifier" : "PMC8684732",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Antibodies for staining were used at 1:200 ( paxillin , filamin , and fascin) , respectively , in blocking buffer for 2 h at RT .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibodies for staining were used at 1:200 ( paxillin , filamin , and fascin) , respectively , in blocking buffer for 2 h at RT ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "paxillin , filamin , and fascin"
+                }],
+              "neText" : "paxillin , filamin , and fascin"
+            }]
+        }, {
+          "sentence" : "The following antibodies were used: rabbit anti-filamin-A ( 1:1000 Sigma-Aldrich HPA002925) , rabbit anti-fascin-1 ( 1:1000 Sigma-Aldrich HPA005723)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following antibodies were used: rabbit anti-filamin-A ( 1:1000 Sigma-Aldrich HPA002925) , rabbit anti-fascin-1 ( 1:1000 Sigma-Aldrich HPA005723)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-filamin-A"
+                }],
+              "neText" : "anti-filamin-A"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-fascin-1"
+                }],
+              "neText" : "anti-fascin-1"
+            }]
+        }, {
+          "sentence" : "), rabbit anti-paxillin (1:1000 Invitrogen 10029-1-IG), rabbit anti-cortactin (1:1000 Millipore-Sigma SAB4500766), mouse tropomyosin (1:1000 Millipore-Sigma T2780), rabbit anti-GAPDH (1:2000 Clone 14C10 Cell Signaling 2118S).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "), rabbit anti-paxillin (1:1000 Invitrogen 10029-1-IG), rabbit anti-cortactin (1:1000 Millipore-Sigma SAB4500766), mouse tropomyosin (1:1000 Millipore-Sigma T2780), rabbit anti-GAPDH (1:2000 Clone 14C10 Cell Signaling 2118S)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-cortactin"
+                }],
+              "neText" : "anti-cortactin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GAPDH"
+                }],
+              "neText" : "anti-GAPDH"
+            }]
+        }, {
+          "sentence" : "The secondary antibodies (HRP-conjugated goat anti-rabbit 1:10,000 111-035-003 HRP-conjugated anti-mouse 1:10,000 115-035-003) were from Jackson ImmunoResearch Laboratories. Statistics All statistical analysis was performed in Prism (GraphPad, San Diego, CA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The secondary antibodies (HRP-conjugated goat anti-rabbit 1:10,000 111-035-003 HRP-conjugated anti-mouse 1:10,000 115-035-003) were from Jackson ImmunoResearch Laboratories. Statistics All statistical analysis was performed in Prism (GraphPad, San Diego, CA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "MATERIALS AND METHODS Cell culture and transfection A375M and U2OS cells were obtained from the American Type Culture Collection (cat  CRL-1619 ATCC, Manassas, VA) and maintained for up to 15 passages in DMEM supplemented with 10 fetal bovine serum (FBS, cat  508-540-7100 A3160401 Life Technologies, Carlsbad,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MATERIALS AND METHODS Cell culture and transfection A375M and U2OS cells were obtained from the American Type Culture Collection (cat  CRL-1619 ATCC, Manassas, VA) and maintained for up to 15 passages in DMEM supplemented with 10 fetal bovine serum (FBS, cat  508-540-7100 A3160401 Life Technologies, Carlsbad,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0042",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "U2OS"
+                }],
+              "neText" : "U2OS"
+            }]
+        }, {
+          "sentence" : "AFM A375M melanoma cells were plated on a glass-bottom dish ( Willco Wells ) with culture media solution ( Life Technologies) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "AFM A375M melanoma cells were plated on a glass-bottom dish ( Willco Wells ) with culture media solution ( Life Technologies) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AFM A375M"
+                }],
+              "neText" : "AFM A375M"
+            }]
+        }, {
+          "sentence" : "Five successive force curves were performed on each A375M cell .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Five successive force curves were performed on each A375M cell ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A375M"
+                }],
+              "neText" : "A375M"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "FusionRed-F-Tractin was the gift of Michael Schell ( Uniformed Services University of the Health Sciences ) ( Schell et al. , 2001) . pEGFP-N1 ( Addgene plasmid 13031 http:n2t.netaddgene:13031 RRID:Addgene 13031) . mEmerald-Calnexin-N-14",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "FusionRed-F-Tractin was the gift of Michael Schell ( Uniformed Services University of the Health Sciences ) ( Schell et al. , 2001) . pEGFP-N1 ( Addgene plasmid 13031 http:n2t.netaddgene:13031 RRID:Addgene 13031) . mEmerald-Calnexin-N-14"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_172284",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pEGFP-N1"
+                }],
+              "neText" : "pEGFP-N1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Cells were scored using the Fiji plug-in , Cell counter https:imagej . nih . govijpluginscell-counter . html .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were scored using the Fiji plug-in , Cell counter https:imagej . nih . govijpluginscell-counter . html ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji"
+                }],
+              "neText" : "Fiji"
+            }]
+        }, {
+          "sentence" : "Using the multi-line tool from Metamorph software ( Molecular Devices , Sunnyvale , CA)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Using the multi-line tool from Metamorph software ( Molecular Devices , Sunnyvale , CA)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Metamorph"
+                }],
+              "neText" : "Metamorph"
+            }]
+        }, {
+          "sentence" : "The intensity line profiles for 488 and 561 nm channels for both body and bleb for all time points were stored in an Excel spreadsheet ( Microsoft , Seattle , WA ) that was loaded into Matlab ( Mathworks , Natick , MA ) for analysis with a script that performed the following tasks: 1 ) Extracted the intensities from the spreadsheet and stored them in a structure array where each element corresponded to an imaged cell .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The intensity line profiles for 488 and 561 nm channels for both body and bleb for all time points were stored in an Excel spreadsheet ( Microsoft , Seattle , WA ) that was loaded into Matlab ( Mathworks , Natick , MA ) for analysis with a script that performed the following tasks: 1 ) Extracted the intensities from the spreadsheet and stored them in a structure array where each element corresponded to an imaged cell ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB (RRID:SCR_001622)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Matlab"
+                }],
+              "neText" : "Matlab"
+            }]
+        }, {
+          "sentence" : "Fluorescence intensity was calculated as the mean fluorescence intensity of the cytoplasm minus the background fluorescence calculated in Microsoft Excel .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Fluorescence intensity was calculated as the mean fluorescence intensity of the cytoplasm minus the background fluorescence calculated in Microsoft Excel ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }, {
+          "sentence" : "Statistical analysis and plots were generated using GraphPad Prism .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis and plots were generated using GraphPad Prism ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }, {
+          "sentence" : "The secondary antibodies (HRP-conjugated goat anti-rabbit 1:10,000 111-035-003 HRP-conjugated anti-mouse 1:10,000 115-035-003) were from Jackson ImmunoResearch Laboratories. Statistics All statistical analysis was performed in Prism (GraphPad, San Diego, CA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The secondary antibodies (HRP-conjugated goat anti-rabbit 1:10,000 111-035-003 HRP-conjugated anti-mouse 1:10,000 115-035-003) were from Jackson ImmunoResearch Laboratories. Statistics All statistical analysis was performed in Prism (GraphPad, San Diego, CA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Meta-Prism (RRID:SCR_021836)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prism"
+                }],
+              "neText" : "Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Knockdown and rescue were confirmed by Western blotting of whole-cell lysates for the presence of fascin-1 or filamin-A andor by immunofluorescence for the presence of fascin-1 or filamin-A in adhered or confined cells .",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Knockdown and rescue were confirmed by Western blotting of whole-cell lysates for the presence of fascin-1 or filamin-A andor by immunofluorescence for the presence of fascin-1 or filamin-A in adhered or confined cells ."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Plasmids Most plasmids were a kind gift from Michael Davidson ( Florida State University ) and are available from Addgene , as noted.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Plasmids Most plasmids were a kind gift from Michael Davidson ( Florida State University ) and are available from Addgene , as noted."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "As noted in each figure legend, statistical significance was determined by a two-tailed (unpaired) Students t test, F test, Mann-Whitney (Figure 6K), or one-way analysis of variance (ANOVA).",
+            "rowSpan" : 5,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "As noted in each figure legend, statistical significance was determined by a two-tailed (unpaired) Students t test, F test, Mann-Whitney (Figure 6K), or one-way analysis of variance (ANOVA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t test"
+                  }],
+                "neText" : "Students t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "F test"
+                  }],
+                "neText" : "F test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney"
+                  }],
+                "neText" : "Mann-Whitney"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }, {
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "FusionRed-F-Tractin was the gift of Michael Schell ( Uniformed Services University of the Health Sciences ) ( Schell et al. , 2001) . pEGFP-N1 ( Addgene plasmid 13031 http:n2t.netaddgene:13031 RRID:Addgene 13031) . mEmerald-Calnexin-N-14",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "FusionRed-F-Tractin was the gift of Michael Schell ( Uniformed Services University of the Health Sciences ) ( Schell et al. , 2001) . pEGFP-N1 ( Addgene plasmid 13031 http:n2t.netaddgene:13031 RRID:Addgene 13031) . mEmerald-Calnexin-N-14"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 13031"
+                  }],
+                "neText" : "RRID:Addgene 13031"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54021 https:n2t.netaddgene.54021RRID:Addgene 54021) . pmEmerald-MyosinIIA-C-18",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54021 https:n2t.netaddgene.54021RRID:Addgene 54021) . pmEmerald-MyosinIIA-C-18"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54021"
+                  }],
+                "neText" : "RRID:Addgene 54021"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54190 http:n2t.netaddgene:54190 RRID:Addgene 54190) . pmEmerald-Paxillin-22",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54190 http:n2t.netaddgene:54190 RRID:Addgene 54190) . pmEmerald-Paxillin-22"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54190"
+                  }],
+                "neText" : "RRID:Addgene 54190"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54219 http:n2t.netaddgene:54219 RRID:Addgene 54219) . pmEmerald-H2B-C-10",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54219 http:n2t.netaddgene:54219 RRID:Addgene 54219) . pmEmerald-H2B-C-10"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54219"
+                  }],
+                "neText" : "RRID:Addgene 54219"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54112 http:n2t.netaddgene:54112 RRID:Addgene 54112) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54112 http:n2t.netaddgene:54112 RRID:Addgene 54112) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54112"
+                  }],
+                "neText" : "RRID:Addgene 54112"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 86056 http:n2t.netaddgene:86056 RRID:Addgene 86056) . pmEmerald-Clathrin-15",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 86056 http:n2t.netaddgene:86056 RRID:Addgene 86056) . pmEmerald-Clathrin-15"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 86056"
+                  }],
+                "neText" : "RRID:Addgene 86056"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54040 http:n2t.netaddgene:54040 RRID:Addgene 54040) . pmEmerald-Caveolin-C-10",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54040 http:n2t.netaddgene:54040 RRID:Addgene 54040) . pmEmerald-Caveolin-C-10"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54040"
+                  }],
+                "neText" : "RRID:Addgene 54040"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54025 http:n2t.netaddgene:54025 RRID:Addgene 54025) . pmEmerald-Rab5a-7",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54025 http:n2t.netaddgene:54025 RRID:Addgene 54025) . pmEmerald-Rab5a-7"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54025"
+                  }],
+                "neText" : "RRID:Addgene 54025"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54243 http:n2t.netaddgene:54243 RRID:Addgene 54243) . pmEmerald-Lysosomes-20",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54243 http:n2t.netaddgene:54243 RRID:Addgene 54243) . pmEmerald-Lysosomes-20"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54243"
+                  }],
+                "neText" : "RRID:Addgene 54243"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54149 http:n2t.netaddgene:54149 RRID:Addgene 54149) . pmEmerald-Calreticulin-C-10",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54149 http:n2t.netaddgene:54149 RRID:Addgene 54149) . pmEmerald-Calreticulin-C-10"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54149"
+                  }],
+                "neText" : "RRID:Addgene 54149"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54022 http:n2t.netaddgene:54022 RRID:Addgene 54022) . pmEmerald-SiT",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54022 http:n2t.netaddgene:54022 RRID:Addgene 54022) . pmEmerald-SiT"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54022"
+                  }],
+                "neText" : "RRID:Addgene 54022"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54255 http:n2t.netaddgene:54255 RRID:Addgene 54255) . pmEmerald-PDHA",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54255 http:n2t.netaddgene:54255 RRID:Addgene 54255) . pmEmerald-PDHA"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54255"
+                  }],
+                "neText" : "RRID:Addgene 54255"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54224 http:n2t.netaddgene:54224 RRID:Addgene 54224) . pmEmerald-PMP-C-10",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54224 http:n2t.netaddgene:54224 RRID:Addgene 54224) . pmEmerald-PMP-C-10"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54224"
+                  }],
+                "neText" : "RRID:Addgene 54224"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54235 http:n2t.netaddgene:54235 RRID:Addgene 54235) . pmEmerald-Gamma-Tubulin",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54235 http:n2t.netaddgene:54235 RRID:Addgene 54235) . pmEmerald-Gamma-Tubulin"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54235"
+                  }],
+                "neText" : "RRID:Addgene 54235"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54105 http:n2t.netaddgene:54105 RRID:Addgene 54105) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54105 http:n2t.netaddgene:54105 RRID:Addgene 54105) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54105"
+                  }],
+                "neText" : "RRID:Addgene 54105"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 26742 http:www.addgene.org26742 RRID:Addgene 26742) . pmEmerald-CLIP170-C-18",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 26742 http:www.addgene.org26742 RRID:Addgene 26742) . pmEmerald-CLIP170-C-18"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 26742"
+                  }],
+                "neText" : "RRID:Addgene 26742"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54043 http:n2t.netaddgene:54043 RRID:Addgene 54043) . pmEmerald-Vimentin-C-18",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54043 http:n2t.netaddgene:54043 RRID:Addgene 54043) . pmEmerald-Vimentin-C-18"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54043"
+                  }],
+                "neText" : "RRID:Addgene 54043"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54051 http:n2t.netaddgene:54051 RRID:Addgene 54051) . pmEmerald-ARP3-N-12",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54051 http:n2t.netaddgene:54051 RRID:Addgene 54051) . pmEmerald-ARP3-N-12"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54051"
+                  }],
+                "neText" : "RRID:Addgene 54051"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 53995 http:n2t.netaddgene:53995 RRID:Addgene 53995) . pmEmerald-Cortactin-C-12",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 53995 http:n2t.netaddgene:53995 RRID:Addgene 53995) . pmEmerald-Cortactin-C-12"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 53995"
+                  }],
+                "neText" : "RRID:Addgene 53995"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54156 http:n2t.netaddgene:54156 RRID:Addgene 54156) . pmEmerald-VASP-5",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54156 http:n2t.netaddgene:54156 RRID:Addgene 54156) . pmEmerald-VASP-5"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54156"
+                  }],
+                "neText" : "RRID:Addgene 54156"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54296 http:n2t.netaddgene:54296 RRID:Addgene 54296) . pmEmerald-MyosinIIB-C-18",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54296 http:n2t.netaddgene:54296 RRID:Addgene 54296) . pmEmerald-MyosinIIB-C-18"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54296"
+                  }],
+                "neText" : "RRID:Addgene 54296"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54192 http:n2t.netaddgene:54192 RRID:Addgene 54192) . pmEmerald-alpha-Actinin-C-14",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54192 http:n2t.netaddgene:54192 RRID:Addgene 54192) . pmEmerald-alpha-Actinin-C-14"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54192"
+                  }],
+                "neText" : "RRID:Addgene 54192"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 53989 http:n2t.netaddgene:53989 RRID:Addgene 53989) . pmEmerald-Fascin-C-10",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 53989 http:n2t.netaddgene:53989 RRID:Addgene 53989) . pmEmerald-Fascin-C-10"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 53989"
+                  }],
+                "neText" : "RRID:Addgene 53989"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54094 http:n2t.netaddgene:54094 RRID:Addgene 54094) . pmEmerald-FilaminA-N-9",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54094 http:n2t.netaddgene:54094 RRID:Addgene 54094) . pmEmerald-FilaminA-N-9"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54094"
+                  }],
+                "neText" : "RRID:Addgene 54094"
+              }]
+          }, {
+            "sentence" : "( Addgene plasmid 54098 http:n2t.netaddgene:54098 RRID:Addgene 54098)",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "( Addgene plasmid 54098 http:n2t.netaddgene:54098 RRID:Addgene 54098)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:Addgene 54098"
+                  }],
+                "neText" : "RRID:Addgene 54098"
+              }]
+          }]
+      }]
+  }
+}

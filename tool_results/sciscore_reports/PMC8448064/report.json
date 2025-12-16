@@ -1,0 +1,170 @@
+{
+  "docIdentifier" : "PMC8448064",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2.4 Statistical analysis Statistical analysis was made by software SPSS 20.0 (International Business Machines, corp., Armonk, NY).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.4 Statistical analysis Statistical analysis was made by software SPSS 20.0 (International Business Machines, corp., Armonk, NY)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2 Patients and methods 2.1 Patients This study was approved by the ethics committee of Shaanxi Province Public Hospital.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Patients and methods 2.1 Patients This study was approved by the ethics committee of Shaanxi Province Public Hospital."
+              }]
+          }, {
+            "sentence" : "Each patient signed an informed consent form.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each patient signed an informed consent form."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Inclusion criteria8,9: all patients were confirmed to be malignant tumors by pathology and all patients had no symptoms such as cold, fever, dizziness, and nausea within 2 weeks before the examination.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria8,9: all patients were confirmed to be malignant tumors by pathology and all patients had no symptoms such as cold, fever, dizziness, and nausea within 2 weeks before the examination."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Inclusion criteria8,9: all patients were confirmed to be malignant tumors by pathology and all patients had no symptoms such as cold, fever, dizziness, and nausea within 2 weeks before the examination.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria8,9: all patients were confirmed to be malignant tumors by pathology and all patients had no symptoms such as cold, fever, dizziness, and nausea within 2 weeks before the examination."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "2.2 Diagnostic method The patients were randomly divided into observation group and control group with 50 patients in each group.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.2 Diagnostic method The patients were randomly divided into observation group and control group with 50 patients in each group."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Count data were expressed as percentage (), and kh2 test was used to assess the differences between the 2 groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Count data were expressed as percentage (), and kh2 test was used to assess the differences between the 2 groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "kh2 test"
+                  }],
+                "neText" : "kh2 test"
+              }]
+          }, {
+            "sentence" : "Measurement data were expressed as means +- standard deviation, and t test was used to assess the differences between the 2 groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Measurement data were expressed as means +- standard deviation, and t test was used to assess the differences between the 2 groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }]
+      }]
+  }
+}

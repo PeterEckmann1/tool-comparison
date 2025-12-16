@@ -1,0 +1,180 @@
+{
+  "docIdentifier" : "PMC8601665",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "METHODS This was a retrospective analysis of inpatient data from the Premier Healthcare Database (PHD).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "METHODS This was a retrospective analysis of inpatient data from the Premier Healthcare Database (PHD)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Premier Healthcare"
+                }],
+              "neText" : "Premier Healthcare"
+            }]
+        }, {
+          "sentence" : "The box plot was created in R (v4.1.0) and all analyses were performed using SAS software version v9.4 (SAS, Cary, North Carolina).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The box plot was created in R (v4.1.0) and all analyses were performed using SAS software version v9.4 (SAS, Cary, North Carolina)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS"
+                }],
+              "neText" : "SAS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This research was exempt from Institutional Review Board oversight per Title 45 Code of Federal Regulations, Part 46 of the United States, specifically 45 CFR 46.101(b)(4).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This research was exempt from Institutional Review Board oversight per Title 45 Code of Federal Regulations, Part 46 of the United States, specifically 45 CFR 46.101(b)(4)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "14–16 Study Population Inclusion criteria were data from patients 18 years or older and admitted to a participating hospital between January 1, 2016, and December 31, 2019.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "14–16 Study Population Inclusion criteria were data from patients 18 years or older and admitted to a participating hospital between January 1, 2016, and December 31, 2019."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "14–16 Study Population Inclusion criteria were data from patients 18 years or older and admitted to a participating hospital between January 1, 2016, and December 31, 2019.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "14–16 Study Population Inclusion criteria were data from patients 18 years or older and admitted to a participating hospital between January 1, 2016, and December 31, 2019."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Costs to the hospital for a patient's care were validated against the hospital's own financial reports.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Costs to the hospital for a patient's care were validated against the hospital's own financial reports."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "χ2 tests were used to test for statistical differences between groups for categorical variables; 2 sample comparisons were evaluated using a t test for other continuous variables such as LOS and total cost of care.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "symbol",
+                "c" : "χ"
+              }, {
+                "f" : "default",
+                "c" : "2 tests were used to test for statistical differences between groups for categorical variables; 2 sample comparisons were evaluated using a t test for other continuous variables such as LOS and total cost of care."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "symbol",
+                    "c" : "χ"
+                  }, {
+                    "f" : "default",
+                    "c" : "2 tests"
+                  }],
+                "neText" : "χ2 tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }]
+      }]
+  }
+}

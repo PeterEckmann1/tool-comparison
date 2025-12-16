@@ -1,0 +1,121 @@
+{
+  "docIdentifier" : "PMC8798396",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "From each of the CT contrast-enhanced image, MR cT1-w image and T2-w image, 110 image parameters were computed using an open-source Python package PyRadiomics (12).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "From each of the CT contrast-enhanced image, MR cT1-w image and T2-w image, 110 image parameters were computed using an open-source Python package PyRadiomics (12)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "python-bx (RRID:SCR_024202)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Patients written consent were not needed because this study is a retrospective study, and both CT and MRI were performed as regular examinations in our institution.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients written consent were not needed because this study is a retrospective study, and both CT and MRI were performed as regular examinations in our institution."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Methods Patients and data acquisition Clinical records and functional images of 41 patients were retrieved in this study under the ethical board approval of Shuguang hospital affiliated to Shanghai Traditional Chinese Medical University from June 2018 to April 2019.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Patients and data acquisition Clinical records and functional images of 41 patients were retrieved in this study under the ethical board approval of Shuguang hospital affiliated to Shanghai Traditional Chinese Medical University from June 2018 to April 2019."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Table 1 Characteristics of patients--CT, MR Characteristics Early-stage CRC Late-stage CRC Age (year) 66.67+-6.80 70.83+-7.43 Male 5 (529) 1 (11) Female 1 (129) 7 (729) Tumor pathologic types Chorionic tubular adenoma with intraepithelial neoplasia 2 (229) T3: Adenocarcinoma 21 (2129) Mucinous adenocarcinoma 1 (",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Characteristics of patients--CT, MR Characteristics Early-stage CRC Late-stage CRC Age (year) 66.67+-6.80 70.83+-7.43 Male 5 (529) 1 (11) Female 1 (129) 7 (729) Tumor pathologic types Chorionic tubular adenoma with intraepithelial neoplasia 2 (229) T3: Adenocarcinoma 21 (2129) Mucinous adenocarcinoma 1 ("
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

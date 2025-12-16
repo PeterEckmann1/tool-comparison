@@ -1,0 +1,237 @@
+{
+  "docIdentifier" : "PMC8375452",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Samples were then assayed for SARS-CoV-2 antibodies according to published protocols.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Samples were then assayed for SARS-CoV-2 antibodies according to published protocols."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SARS-CoV-2"
+                }],
+              "neText" : "SARS-CoV-2"
+            }]
+        }, {
+          "sentence" : "Batches were controlled for purity by SDS-PAGE followed by Coomassie staining and ELISA using an anti His-tag monoclonal antibody .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Batches were controlled for purity by SDS-PAGE followed by Coomassie staining and ELISA using an anti His-tag monoclonal antibody ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti His-tag"
+                }],
+              "neText" : "anti His-tag"
+            }]
+        }, {
+          "sentence" : "Samples were tested against IgG , and positive samples were confirmed and then tested with anti-IgM antibodies .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Samples were tested against IgG , and positive samples were confirmed and then tested with anti-IgM antibodies ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IgG"
+                }],
+              "neText" : "IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-IgM"
+                }],
+              "neText" : "anti-IgM"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "18 19 The RBD protein was produced in-house via transfection of HEK293T cells using polyethylenimine ( plasmid was a generous gift from Florian Krammer , Mt . Sinai School of Medicine) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "18 19 The RBD protein was produced in-house via transfection of HEK293T cells using polyethylenimine ( plasmid was a generous gift from Florian Krammer , Mt . Sinai School of Medicine) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293T"
+                }],
+              "neText" : "HEK293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All survey responses were collected and stored in REDCap.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All survey responses were collected and stored in REDCap."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "REDCap (RRID:SCR_003445)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "REDCap"
+                }],
+              "neText" : "REDCap"
+            }]
+        }, {
+          "sentence" : "R version 4.0.3 and SAS version 9.4 (SAS Institute, Inc, Cary, NC, USA) were used for analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "R version 4.0.3 and SAS version 9.4 (SAS Institute, Inc, Cary, NC, USA) were used for analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Both UMass affiliates and their household members had to complete online consent forms in order to participate in the study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Both UMass affiliates and their household members had to complete online consent forms in order to participate in the study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "UMass affiliates were eligible to participate in this study if they were above the age of 18, had been living in Massachusetts for the past 8 weeks, had never received a COVID-19 diagnosis from a medical professional, and did not have a fever greater than 100.4 degF at the time of survey completion.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "UMass affiliates were eligible to participate in this study if they were above the age of 18, had been living in Massachusetts for the past 8 weeks, had never received a COVID-19 diagnosis from a medical professional, and did not have a fever greater than 100.4 degF at the time of survey completion."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "No participants reported a COVID-19 diagnosis between the initial survey and sample collection several weeks later .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "No participants reported a COVID-19 diagnosis between the initial survey and sample collection several weeks later ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Table 1 Demographics of study populations , SARS-CoV-2 serology surveys in university-affiliated populations , Massachusetts July-August 2020 Characteristic Primary sampling group ( n=779 ) Secondary sampling group ( n=292 ) Gender Female 499 ( 64.1 ) 154",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Demographics of study populations , SARS-CoV-2 serology surveys in university-affiliated populations , Massachusetts July-August 2020 Characteristic Primary sampling group ( n=779 ) Secondary sampling group ( n=292 ) Gender Female 499 ( 64.1 ) 154"
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Within the primary sampling group, selection for biosample collection used probability proportional to population size, using the most recent census data aggregated to state-level emergency response regions due to sparse county-level populations (figure 1).17 For the secondary sampling group, selection for biosampling was via simple random sampling.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Within the primary sampling group, selection for biosample collection used probability proportional to population size, using the most recent census data aggregated to state-level emergency response regions due to sparse county-level populations (figure 1).17 For the secondary sampling group, selection for biosampling was via simple random sampling."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "The secondary sampling group ( n=250 ) sample size was based on logistic limitations , but was powered to a precision of 2.8 to 8.8 .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The secondary sampling group ( n=250 ) sample size was based on logistic limitations , but was powered to a precision of 2.8 to 8.8 ."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

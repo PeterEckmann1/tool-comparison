@@ -1,0 +1,337 @@
+{
+  "docIdentifier" : "PMC8006563",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Next, the risk score model was constructed in TCGA-STAD, and the risk score of each individual patient was calculated.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Next, the risk score model was constructed in TCGA-STAD, and the risk score of each individual patient was calculated."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TCGA-STAD"
+                }],
+              "neText" : "TCGA-STAD"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Material and Methods Gastric Cancer Datasets The Gene Expression Omnibus (GEO, https://www.ncbi.nlm.nih.gov/geo/ ) was applied to obtain the discovery and validation datasets.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Material and Methods Gastric Cancer Datasets The Gene Expression Omnibus (GEO, https://www.ncbi.nlm.nih.gov/geo/ ) was applied to obtain the discovery and validation datasets."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Omnibus (GEO) (RRID:SCR_005012)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Omnibus"
+                }],
+              "neText" : "Gene Expression Omnibus"
+            }]
+        }, {
+          "sentence" : "Data Preprocessing The raw probe-level data in this study were downloaded in CEL files, and the robust multi-array average algorithm RMA from the Affy package of R software was employed for processing the raw probe-level data [15].",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data Preprocessing The raw probe-level data in this study were downloaded in CEL files, and the robust multi-array average algorithm RMA from the Affy package of R software was employed for processing the raw probe-level data [15]."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "affy (RRID:SCR_012835)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Affy"
+                }],
+              "neText" : "Affy"
+            }]
+        }, {
+          "sentence" : "Statistical Analysis The identified DEGs were evaluated using the LIMMA package, with bayesian adjusted t-statistics from the linear models for microarray data [17].",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis The identified DEGs were evaluated using the LIMMA package, with bayesian adjusted t-statistics from the linear models for microarray data [17]."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LIMMA (RRID:SCR_010943)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LIMMA"
+                }],
+              "neText" : "LIMMA"
+            }]
+        }, {
+          "sentence" : "We constructed volcano plots and Venn diagrams using ggplot2, and Venn diagram packages of R software were used to visualize the identified DEGs.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We constructed volcano plots and Venn diagrams using ggplot2, and Venn diagram packages of R software were used to visualize the identified DEGs."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ggplot2 (RRID:SCR_014601)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ggplot2"
+                }],
+              "neText" : "ggplot2"
+            }]
+        }, {
+          "sentence" : "The GO and KEGG pathway analyses of functional enrichment analysis for 144 common DEGs was conducted by using the online software Database for Annotation, Visualization, and Integrated Discovery (DAVID, https://david.ncifcrf.gov/ ).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The GO and KEGG pathway analyses of functional enrichment analysis for 144 common DEGs was conducted by using the online software Database for Annotation, Visualization, and Integrated Discovery (DAVID, https://david.ncifcrf.gov/ )."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DAVID (RRID:SCR_001881)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }, {
+          "sentence" : "SPSS software (version 22.0, SPSS, Chicago, IL, USA) was used for statistical analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "SPSS software (version 22.0, SPSS, Chicago, IL, USA) was used for statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "A total of 761 samples were identified, and 333 cases were selected in the survival analysis after removing the normal sample data and the data from patients with insufficient follow-up.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 761 samples were identified, and 333 cases were selected in the survival analysis after removing the normal sample data and the data from patients with insufficient follow-up."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Three independent gastric cancer microarray datasets – GSE13911, GSE79973, and GSE29272 – were used to identify the DEGs, with 206 pairs of gastric tumors and adjacent normal samples.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three independent gastric cancer microarray datasets – GSE13911, GSE79973, and GSE29272 – were used to identify the DEGs, with 206 pairs of gastric tumors and adjacent normal samples."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Three independent gastric cancer microarray datasets – GSE13911, GSE79973, and GSE29272 – were used to identify the DEGs, with 206 pairs of gastric tumors and adjacent normal samples.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three independent gastric cancer microarray datasets – GSE13911, GSE79973, and GSE29272 – were used to identify the DEGs, with 206 pairs of gastric tumors and adjacent normal samples."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE13911"
+                  }],
+                "neText" : "GSE13911"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE79973"
+                  }],
+                "neText" : "GSE79973"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE29272"
+                  }],
+                "neText" : "GSE29272"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The baseline characteristics between groups were compared using Kruskal-Wallis and chi-square tests based on the type of data.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The baseline characteristics between groups were compared using Kruskal-Wallis and chi-square tests based on the type of data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis"
+                  }],
+                "neText" : "Kruskal-Wallis"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square tests"
+                  }],
+                "neText" : "chi-square tests"
+              }]
+          }, {
+            "sentence" : "Kaplan-Meier and log-rank tests were employed for survival analysis.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Kaplan-Meier and log-rank tests were employed for survival analysis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank tests"
+                  }],
+                "neText" : "log-rank tests"
+              }]
+          }]
+      }]
+  }
+}

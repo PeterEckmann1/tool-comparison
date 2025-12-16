@@ -1,0 +1,193 @@
+{
+  "docIdentifier" : "PMC8099981",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical Analysis SPSS version 18.0 software (IBM Corp., Armonk, NY, USA) was used by an independent statistician to analyze the data.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis SPSS version 18.0 software (IBM Corp., Armonk, NY, USA) was used by an independent statistician to analyze the data."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study received ethical approval from the Ethics Committee of the hospital and conformed to the provisions of the Declaration of Helsinki.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study received ethical approval from the Ethics Committee of the hospital and conformed to the provisions of the Declaration of Helsinki."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Exclusion criteria were: malignant disease, serious cardiovascular disease in the previous 6 months, other contraindications for metabolic surgery, drug or alcohol abuse, uncontrolled psychiatric illness, and pregnancy or planned pregnancy.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Exclusion criteria were: malignant disease, serious cardiovascular disease in the previous 6 months, other contraindications for metabolic surgery, drug or alcohol abuse, uncontrolled psychiatric illness, and pregnancy or planned pregnancy."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Methods Patients Patients aged 16–65 years with T2DM and a BMI ≥ 27.5 kg/m2 were included in the present study.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Patients Patients aged 16–65 years with T2DM and a BMI "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : " 27.5 kg/m2 were included in the present study."
+              }]
+          }, {
+            "sentence" : "Methods Patients Patients aged 16–65 years with T2DM and a BMI ≥ 27.5 kg/m2 were included in the present study.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Patients Patients aged 16–65 years with T2DM and a BMI "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : " 27.5 kg/m2 were included in the present study."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Primary endpoint at 1 year, remission of diabetes, and medication usage were assessed by the Chi-squared test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Primary endpoint at 1 year, remission of diabetes, and medication usage were assessed by the Chi-squared test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-squared test"
+                  }],
+                "neText" : "Chi-squared test"
+              }]
+          }, {
+            "sentence" : "Differences between baseline and post-intervention within each treatment group were evaluated using the paired Student's t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between baseline and post-intervention within each treatment group were evaluated using the paired Student's t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Differences between the intervention groups after adjusting for baseline values were evaluated by analysis of covariance.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between the intervention groups after adjusting for baseline values were evaluated by analysis of covariance."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of covariance"
+                  }],
+                "neText" : "analysis of covariance"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "docIdentifier" : "PMC8322489",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The limma software package of R platform was used to screen the differentially expressed lncRNAs ( DELs) , Samples with a P value of <.05 and log fold change ( logFC ) of >1 were considered DELs .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The limma software package of R platform was used to screen the differentially expressed lncRNAs ( DELs) , Samples with a P value of <.05 and log fold change ( logFC ) of >1 were considered DELs ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LIMMA (RRID:SCR_010943)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "limma"
+                }],
+              "neText" : "limma"
+            }]
+        }, {
+          "sentence" : "DAVID v6.8 , https:david.ncifcrf . gov , accessed November 1 , 2019) , which is a widely used bioinformatics resource.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "DAVID v6.8 , https:david.ncifcrf . gov , accessed November 1 , 2019) , which is a widely used bioinformatics resource."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DAVID (RRID:SCR_001881)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }, {
+          "sentence" : "14 GO analysis and KEGG analysis reveals the enriched pathway of co-expressed ERGs .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "14 GO analysis and KEGG analysis reveals the enriched pathway of co-expressed ERGs ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "Gene set enrichment analysis ( GSEA , version 4.0.1 , http:www.broadinstitute.orggseaindex.jsp ) was performed to explore the distinct functional phenotypes between the high- and low-risk groups .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gene set enrichment analysis ( GSEA , version 4.0.1 , http:www.broadinstitute.orggseaindex.jsp ) was performed to explore the distinct functional phenotypes between the high- and low-risk groups ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Set Enrichment Analysis (RRID:SCR_003199)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene set enrichment analysis"
+                }],
+              "neText" : "Gene set enrichment analysis"
+            }]
+        }, {
+          "sentence" : "Statistical analysis was performed using SPSS version 22.0 (IBM Corporation, Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis was performed using SPSS version 22.0 (IBM Corporation, Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Informed consent was obtained from participants before this study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was obtained from participants before this study."
+              }]
+          }, {
+            "sentence" : "The ethics committee of the First Affiliated Hospital of Guangxi Medical University approved the study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The ethics committee of the First Affiliated Hospital of Guangxi Medical University approved the study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each cDNA sample was repeated 3 times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each cDNA sample was repeated 3 times."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The co-expression relationship between DELs and ERGs was evaluated by performing Pearson correlation analysis .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The co-expression relationship between DELs and ERGs was evaluated by performing Pearson correlation analysis ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }, {
+            "sentence" : "2.3 Construction of prognostic signature Univariate Cox regression analysis between the expression levels of ERLs and the survival time of patients with HCC was performed through the survival package ( version 2.44 ) on the R ( version 3.6.1 ) to describe the role of ERLs on HCC survival prediction .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.3 Construction of prognostic signature Univariate Cox regression analysis between the expression levels of ERLs and the survival time of patients with HCC was performed through the survival package ( version 2.44 ) on the R ( version 3.6.1 ) to describe the role of ERLs on HCC survival prediction ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Cox regression"
+                  }],
+                "neText" : "Cox regression"
+              }]
+          }, {
+            "sentence" : "AC023157.3 F primer (5-3) GTCTGTTGTTTGTATGCTGAGTTC R primer (5-3) TTGTCTGACCCAAGTGTTCG AC099850.3 F primer (5-3) AATATGGAAACAGGAACAGGAC R primer (5-3) GGAAATCTCAAAACCCAAAGG AL031985.3 F primer (5-3) ACACCTATTCAACTTCCCCATT R primer (5-3) CCAAGGATTCCCCTAAACATC AL365203.2 F primer (5-3) TTGCCTCATTTCATGGTCTG R primer (5-3) GCCCCTGTTTTGATTCCTAT CYTOR F primer (5-3) TGGGAGATGAAACAGGAAGC R primer (5-3) CAGACAAATGGGAAACCGAC 2.7 Statistical analysis Kaplan-Meier survival analysis by log-rank test was used to compare the survival status of patients with HCC between the high- and low-risk groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "AC023157.3 F primer (5-3) GTCTGTTGTTTGTATGCTGAGTTC R primer (5-3) TTGTCTGACCCAAGTGTTCG AC099850.3 F primer (5-3) AATATGGAAACAGGAACAGGAC R primer (5-3) GGAAATCTCAAAACCCAAAGG AL031985.3 F primer (5-3) ACACCTATTCAACTTCCCCATT R primer (5-3) CCAAGGATTCCCCTAAACATC AL365203.2 F primer (5-3) TTGCCTCATTTCATGGTCTG R primer (5-3) GCCCCTGTTTTGATTCCTAT CYTOR F primer (5-3) TGGGAGATGAAACAGGAAGC R primer (5-3) CAGACAAATGGGAAACCGAC 2.7 Statistical analysis Kaplan-Meier survival analysis by log-rank test was used to compare the survival status of patients with HCC between the high- and low-risk groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "AC023157.3 F primer (5-3) GTCTGTTGTTTGTATGCTGAGTTC R primer (5-3) TTGTCTGACCCAAGTGTTCG AC099850.3 F primer (5-3) AATATGGAAACAGGAACAGGAC R primer (5-3) GGAAATCTCAAAACCCAAAGG AL031985.3 F primer (5-3) ACACCTATTCAACTTCCCCATT R primer (5-3) CCAAGGATTCCCCTAAACATC AL365203.2 F primer (5-3) TTGCCTCATTTCATGGTCTG R primer (5-3) GCCCCTGTTTTGATTCCTAT CYTOR F primer (5-3) TGGGAGATGAAACAGGAAGC R primer (5-3) CAGACAAATGGGAAACCGAC 2.7 Statistical analysis Kaplan-Meier survival analysis by log-rank test was used to compare the survival status of patients with HCC between the high- and low-risk groups.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "AC023157.3 F primer (5-3) GTCTGTTGTTTGTATGCTGAGTTC R primer (5-3) TTGTCTGACCCAAGTGTTCG AC099850.3 F primer (5-3) AATATGGAAACAGGAACAGGAC R primer (5-3) GGAAATCTCAAAACCCAAAGG AL031985.3 F primer (5-3) ACACCTATTCAACTTCCCCATT R primer (5-3) CCAAGGATTCCCCTAAACATC AL365203.2 F primer (5-3) TTGCCTCATTTCATGGTCTG R primer (5-3) GCCCCTGTTTTGATTCCTAT CYTOR F primer (5-3) TGGGAGATGAAACAGGAAGC R primer (5-3) CAGACAAATGGGAAACCGAC 2.7 Statistical analysis Kaplan-Meier survival analysis by log-rank test was used to compare the survival status of patients with HCC between the high- and low-risk groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGAAATCTCAAAACCCAAAGG"
+                  }],
+                "neText" : "GGAAATCTCAAAACCCAAAGG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCAAGGATTCCCCTAAACATC"
+                  }],
+                "neText" : "CCAAGGATTCCCCTAAACATC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TTGCCTCATTTCATGGTCTG"
+                  }],
+                "neText" : "TTGCCTCATTTCATGGTCTG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCCCCTGTTTTGATTCCTAT"
+                  }],
+                "neText" : "GCCCCTGTTTTGATTCCTAT"
+              }]
+          }]
+      }]
+  }
+}

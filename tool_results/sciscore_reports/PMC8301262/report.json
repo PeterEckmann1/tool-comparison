@@ -1,0 +1,210 @@
+{
+  "docIdentifier" : "PMC8301262",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "10 The MATLAB (MathWorks) software code for the heart vector origin definition is provided at https://github.com/Tereshchenkolab/Origin.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "10 The MATLAB (MathWorks) software code for the heart vector origin definition is provided at https://github.com/Tereshchenkolab/Origin."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }, {
+          "sentence" : "Statistical analyses were performed using STATA MP 15.1 (StataCorp LP, College Station, TX); code is provided at https://github.com/Tereshchenkolab/statistics.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were performed using STATA MP 15.1 (StataCorp LP, College Station, TX); code is provided at https://github.com/Tereshchenkolab/statistics."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata (RRID:SCR_012763)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATA"
+                }],
+              "neText" : "STATA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata, RRID:SCR_012763",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StataCorp"
+                }],
+              "neText" : "StataCorp"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods Informed consent was obtained from all study participants.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Informed consent was obtained from all study participants."
+              }]
+          }, {
+            "sentence" : "The study was approved by the Oregon Health & Science University institutional review board.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the Oregon Health & Science University institutional review board."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Excluded were participants who self-identified as nonwhite or nonblack race (n = 48), or as black at the Washington County and Minneapolis field centers (n = 55); those with missing covariates (n = 903); and those with nonsinus median beat (n = 46).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Excluded were participants who self-identified as nonwhite or nonblack race (n = 48), or as black at the Washington County and Minneapolis field centers (n = 55); those with missing covariates (n = 903); and those with nonsinus median beat (n = 46)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Excluded were participants who self-identified as nonwhite or nonblack race (n = 48), or as black at the Washington County and Minneapolis field centers (n = 55); those with missing covariates (n = 903); and those with nonsinus median beat (n = 46).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Excluded were participants who self-identified as nonwhite or nonblack race (n = 48), or as black at the Washington County and Minneapolis field centers (n = 55); those with missing covariates (n = 903); and those with nonsinus median beat (n = 46)."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Study population The ARIC study is a prospective cohort that recruited 15,792 men and women (age 45–64 years) selected as a probability sample from 4 US communities.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Study population The ARIC study is a prospective cohort that recruited 15,792 men and women (age 45–64 years) selected as a probability sample from 4 US communities."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Study population The ARIC study is a prospective cohort that recruited 15,792 men and women (age 45–64 years) selected as a probability sample from 4 US communities.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Study population The ARIC study is a prospective cohort that recruited 15,792 men and women (age 45–64 years) selected as a probability sample from 4 US communities."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "10 The MATLAB (MathWorks) software code for the heart vector origin definition is provided at https://github.com/Tereshchenkolab/Origin.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "10 The MATLAB (MathWorks) software code for the heart vector origin definition is provided at https://github.com/Tereshchenkolab/Origin."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "https://github.com/Tereshchenkolab/Origin"
+                  }],
+                "neText" : "https://github.com/Tereshchenkolab/Origin"
+              }]
+          }, {
+            "sentence" : "Statistical analyses were performed using STATA MP 15.1 (StataCorp LP, College Station, TX); code is provided at https://github.com/Tereshchenkolab/statistics.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analyses were performed using STATA MP 15.1 (StataCorp LP, College Station, TX); code is provided at https://github.com/Tereshchenkolab/statistics."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "https://github.com/Tereshchenkolab/statistics"
+                  }],
+                "neText" : "https://github.com/Tereshchenkolab/statistics"
+              }]
+          }]
+      }, {
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The ARIC (Atherosclerosis Risk in Communities) study data are available through BioLINCC (Biologic Specimen and Data Repository Information Coordinating Center; https://biolincc.nhlbi.nih.gov).",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The ARIC (Atherosclerosis Risk in Communities) study data are available through BioLINCC (Biologic Specimen and Data Repository Information Coordinating Center; https://biolincc.nhlbi.nih.gov)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  }
+}

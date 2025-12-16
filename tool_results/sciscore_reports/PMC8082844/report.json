@@ -1,0 +1,224 @@
+{
+  "docIdentifier" : "PMC8082844",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Next , the detection was carried out using mouse monoclonal antibodies 80C2 ( 218231 , Synaptic Systems , Goettingen , Germany , 20 mgml ) and 82E1 ( IBL International , Hamburg , Germany , 20 mgml) , both detecting full-length Ab starting with Asp-1 , antibody 18H6 ( 1.9 mgml ) 20 detecting truncated Ab starting with Phe-4 and the generic Ab antibody 4G8 ( BioLegend , San Diego , CA , USA , 2 mgml) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Next , the detection was carried out using mouse monoclonal antibodies 80C2 ( 218231 , Synaptic Systems , Goettingen , Germany , 20 mgml ) and 82E1 ( IBL International , Hamburg , Germany , 20 mgml) , both detecting full-length Ab starting with Asp-1 , antibody 18H6 ( 1.9 mgml ) 20 detecting truncated Ab starting with Phe-4 and the generic Ab antibody 4G8 ( BioLegend , San Diego , CA , USA , 2 mgml) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Asp-1 ,"
+                }],
+              "neText" : "Asp-1 ,"
+            }]
+        }, {
+          "sentence" : "Chemiluminescence detection was carried out using peroxidase-labelled anti mouse secondary antibodies ( with 4G8 , 80C2 and 82E1 ) or biotinylated anti-rabbit , anti-mouse or antihuman IgG plus peroxidase-conjugated streptavidin ( in case of 24311 , 18H6 and the humanized biosimilar antibodies Bapineuzumab and Crenezumab) .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Chemiluminescence detection was carried out using peroxidase-labelled anti mouse secondary antibodies ( with 4G8 , 80C2 and 82E1 ) or biotinylated anti-rabbit , anti-mouse or antihuman IgG plus peroxidase-conjugated streptavidin ( in case of 24311 , 18H6 and the humanized biosimilar antibodies Bapineuzumab and Crenezumab) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti mouse secondary antibodies"
+                }],
+              "neText" : "anti mouse secondary antibodies"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "antihuman IgG"
+                }],
+              "neText" : "antihuman IgG"
+            }]
+        }, {
+          "sentence" : ", anti-mouse, anti-rabbit and anti-human antibodies (all DAKO) were used in a 1:200 dilution.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", anti-mouse, anti-rabbit and anti-human antibodies (all DAKO) were used in a 1:200 dilution."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse,"
+                }],
+              "neText" : "anti-mouse,"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human antibodies"
+                }],
+              "neText" : "anti-human antibodies"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Heat maps were plotted using GraphPad Prism 8.3.0 (GraphPad, San Diego, CA, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Heat maps were plotted using GraphPad Prism 8.3.0 (GraphPad, San Diego, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the ethical committee of the University Medical Center Gottingen",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the ethical committee of the University Medical Center Gottingen"
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Human brain samples Paraffin-embedded human brain samples from sporadic AD ( n = 20 mean age 84.45 +- 6.45 , average post mortem interval ( PMI ) = 4:37 +- 0:56 h 14 females , 6 males) , nondemented controls ( NDC n = 11 mean age 84.18 +- 7.17 , average PMI = 8:11 +- 5:54 h 7 females , 4 males ) and Down syndrome ( DS n = 2 mean age 61.0 +- 4.24 , average PMI = 5:12 +- 1:21 h 1 female , 1 male ) were obtained from the Netherlands Brain Bank ( Table 1) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Human brain samples Paraffin-embedded human brain samples from sporadic AD ( n = 20 mean age 84.45 +- 6.45 , average post mortem interval ( PMI ) = 4:37 +- 0:56 h 14 females , 6 males) , nondemented controls ( NDC n = 11 mean age 84.18 +- 7.17 , average PMI = 8:11 +- 5:54 h 7 females , 4 males ) and Down syndrome ( DS n = 2 mean age 61.0 +- 4.24 , average PMI = 5:12 +- 1:21 h 1 female , 1 male ) were obtained from the Netherlands Brain Bank ( Table 1) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "In order to perform a semi-quantitative analysis of the staining, the sections were evaluated in a blinded fashion using a BX51 microscope (Olympus, Hamburg, Germany) equipped with a Moticam Pro 282 camera (Motic, Wetzlar, Germany).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In order to perform a semi-quantitative analysis of the staining, the sections were evaluated in a blinded fashion using a BX51 microscope (Olympus, Hamburg, Germany) equipped with a Moticam Pro 282 camera (Motic, Wetzlar, Germany)."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "docIdentifier" : "PMC8886819",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "AESA02 anti-Ras antibody ( Cytoskeleton , Denver , CO) , and the secondary antibody was 1:2500 715-036-150 peroxidase-conjugated donkey anti-mouse immunoglobulin G ( Jackson ImmunoResearch) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "AESA02 anti-Ras antibody ( Cytoskeleton , Denver , CO) , and the secondary antibody was 1:2500 715-036-150 peroxidase-conjugated donkey anti-mouse immunoglobulin G ( Jackson ImmunoResearch) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Ras"
+                }],
+              "neText" : "anti-Ras"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse immunoglobulin G"
+                }],
+              "neText" : "anti-mouse immunoglobulin G"
+            }]
+        }, {
+          "sentence" : "The cells were fixed and stained as described in Rijal et al. (2019) using a 1:500 dilution of a primary antibody that stains a Ras antigen (AESA02 Cytoskeleton) followed by a 1:1000 dilution of secondary antibody (715-546-150 Alexa Fluor 488 donkey anti-mouse Jackson ImmunoResearch, West Grove, PA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The cells were fixed and stained as described in Rijal et al. (2019) using a 1:500 dilution of a primary antibody that stains a Ras antigen (AESA02 Cytoskeleton) followed by a 1:1000 dilution of secondary antibody (715-546-150 Alexa Fluor 488 donkey anti-mouse Jackson ImmunoResearch, West Grove, PA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Cells were transformed with a pDm115Raf1-RBD construct (Kortholt and Van Haastert, 2008) by electroporation as previously described (Kuspa and Loomis, 1992 Rijal et al., 2019).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were transformed with a pDm115Raf1-RBD construct (Kortholt and Van Haastert, 2008) by electroporation as previously described (Kuspa and Loomis, 1992 Rijal et al., 2019)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pDm115Raf1-RBD"
+                }],
+              "neText" : "pDm115Raf1-RBD"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "A 10x stock solution was made by adding 0.125 g of methylene blue (Sigma, St. Louis, MO) to 50 ml of distilled water.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A 10x stock solution was made by adding 0.125 g of methylene blue (Sigma, St. Louis, MO) to 50 ml of distilled water."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "FIJI ImageJ software (Schindelin et al., 2012) was used to analyze and quantify the staining.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "FIJI ImageJ software (Schindelin et al., 2012) was used to analyze and quantify the staining."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Statistics Statistical analyses were done using Prism version 8.4.1 (GraphPad, San Diego, CA) for t tests and one-way or two-way analysis of variance (ANOVA) with appropriate posttests.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistics Statistical analyses were done using Prism version 8.4.1 (GraphPad, San Diego, CA) for t tests and one-way or two-way analysis of variance (ANOVA) with appropriate posttests."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prism"
+                }],
+              "neText" : "Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "For each individual experiment, Ras antigen and Raf1-RBD-GFP localization were assessed in at least 40 randomly chosen cells at the edge of a colony.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For each individual experiment, Ras antigen and Raf1-RBD-GFP localization were assessed in at least 40 randomly chosen cells at the edge of a colony."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistics Statistical analyses were done using Prism version 8.4.1 (GraphPad, San Diego, CA) for t tests and one-way or two-way analysis of variance (ANOVA) with appropriate posttests.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistics Statistical analyses were done using Prism version 8.4.1 (GraphPad, San Diego, CA) for t tests and one-way or two-way analysis of variance (ANOVA) with appropriate posttests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t tests"
+                  }],
+                "neText" : "t tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "docIdentifier" : "PMC8486205",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Biograph 128",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Biograph 128"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Siemens Biograph mMR 3.0 Tesla scanner (RRID:SCR_025900)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Biograph"
+                }],
+              "neText" : "Biograph"
+            }]
+        }, {
+          "sentence" : "Statistical analyses were performed using SAS, version 9.4 (SAS Institute).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were performed using SAS, version 9.4 (SAS Institute)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS"
+                }],
+              "neText" : "SAS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }, {
+          "sentence" : "Post hoc analysis was performed using GraphPad Prism 8.42 (GraphPad Software).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Post hoc analysis was performed using GraphPad Prism 8.42 (GraphPad Software)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Each institution obtained approval from the local ethical committee board , and each patient provided written informed consent .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each institution obtained approval from the local ethical committee board , and each patient provided written informed consent ."
+              }]
+          }, {
+            "sentence" : "Each institution obtained approval from the local ethical committee board , and each patient provided written informed consent .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each institution obtained approval from the local ethical committee board , and each patient provided written informed consent ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients were eligible for inclusion in this trial if they had received irradiation for brain tumors or tumors located in sites contiguous to the brain .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were eligible for inclusion in this trial if they had received irradiation for brain tumors or tumors located in sites contiguous to the brain ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "To avoid interobserver differences in the histopathological criteria, one (HN) neuro-pathological specialist, who was blinded to all of the clinical and radiological information except the primary diagnosis, diagnosed all cases.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To avoid interobserver differences in the histopathological criteria, one (HN) neuro-pathological specialist, who was blinded to all of the clinical and radiological information except the primary diagnosis, diagnosed all cases."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The sensitivities and diagnostic accuracy of 11C-MET PET and 18F-FDG PET determinations were compared by the McNemar test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The sensitivities and diagnostic accuracy of 11C-MET PET and 18F-FDG PET determinations were compared by the McNemar test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "McNemar test"
+                  }],
+                "neText" : "McNemar test"
+              }]
+          }, {
+            "sentence" : "The Mann-Whitney U test was utilized to compare the median TN ratio in each group of patients.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Mann-Whitney U test was utilized to compare the median TN ratio in each group of patients."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }]
+      }]
+  }
+}

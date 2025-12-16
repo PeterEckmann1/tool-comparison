@@ -1,0 +1,133 @@
+{
+  "docIdentifier" : "PMC8318487",
+  "sciscore" : 2,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "We used HES data from April 2006 to March 2018 to track back 5 years to exclude patients with prior implants.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We used HES data from April 2006 to March 2018 to track back 5 years to exclude patients with prior implants."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "We used HES data from April 2006 to March 2018 to track back 5 years to exclude patients with prior implants.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We used HES data from April 2006 to March 2018 to track back 5 years to exclude patients with prior implants."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Analysis A Kaplan–Meier plot described the 5 year mortality and median survival since the index date for each group, and log‐rank tests compared the curves; due to long survival times, for ICD implants, this could not estimate the median, so a linear survival model was fitted and the mean survival time estimated.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Analysis A Kaplan–Meier plot described the 5 year mortality and median survival since the index date for each group, and log-rank tests compared the curves; due to long survival times, for ICD implants, this could not estimate the median, so a linear survival model was fitted and the mean survival time estimated."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank tests"
+                  }],
+                "neText" : "log‐rank tests"
+              }]
+          }, {
+            "sentence" : "Poisson regression was used to test for changes in hospital use after the index month.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Poisson regression was used to test for changes in hospital use after the index month."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Poisson regression"
+                  }],
+                "neText" : "Poisson regression"
+              }]
+          }]
+      }]
+  }
+}

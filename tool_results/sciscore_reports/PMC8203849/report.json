@@ -1,0 +1,226 @@
+{
+  "docIdentifier" : "PMC8203849",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "17 18 Daily intakes of energy and nutrients ( e.g. , protein , carbohydrate , and fat ) were calculated using Can-Pro 2.0 nutrient assessment software developed by the Korean Nutrition Society.17 The 106 food items in SQFFQ were categorized into 30 predefined food groups ( Supplementary Table 1) , and principal component analysis ( PCA ) was conducted with food groups using proc principal component and proc factor procedure.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "17 18 Daily intakes of energy and nutrients ( e.g. , protein , carbohydrate , and fat ) were calculated using Can-Pro 2.0 nutrient assessment software developed by the Korean Nutrition Society.17 The 106 food items in SQFFQ were categorized into 30 predefined food groups ( Supplementary Table 1) , and principal component analysis ( PCA ) was conducted with food groups using proc principal component and proc factor procedure."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Can-Pro"
+                }],
+              "neText" : "Can-Pro"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Statistical analysis was performed using SAS version 9.4 (SAS Institute, Cary, NC, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Statistical analysis was performed using SAS version 9.4 (SAS Institute, Cary, NC, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Ethics statement The Institutional Review Boards of the Korean National Institute of Health for the Korean Genome and Epidemiology Study (No.: KBP-2015-055) and Hoseo University (No.: 1041231-150811-HR-034-01) approved the study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ethics statement The Institutional Review Boards of the Korean National Institute of Health for the Korean Genome and Epidemiology Study (No.: KBP-2015-055) and Hoseo University (No.: 1041231-150811-HR-034-01) approved the study."
+              }]
+          }, {
+            "sentence" : "All that participated in KoGES provided written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All that participated in KoGES provided written informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "A variable to be analyzed was excluded from the covariates.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A variable to be analyzed was excluded from the covariates."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Definition of MS MS was defined as the presence of a cluster of >= 3 of the following: 1 ) abdominal obesity ( waist circumference >= 90 cm for men and >= 85 cm for women ) 2 ) elevated blood pressure ( average systolic blood pressure >= 130 mmHg or diastolic blood pressure >= 85 mmHg ) 3 ) low HDL-cholesterol level ( < 40 mgdL for men and < 50 mgdL for women ) 4 ) elevated serum triglyceride level ( >= 150 mgdL ) and 5 ) elevated fasting blood glucose level ( >= 110 mgdL).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Definition of MS MS was defined as the presence of a cluster of >= 3 of the following: 1 ) abdominal obesity ( waist circumference >= 90 cm for men and >= 85 cm for women ) 2 ) elevated blood pressure ( average systolic blood pressure >= 130 mmHg or diastolic blood pressure >= 85 mmHg ) 3 ) low HDL-cholesterol level ( < 40 mgdL for men and < 50 mgdL for women ) 4 ) elevated serum triglyceride level ( >= 150 mgdL ) and 5 ) elevated fasting blood glucose level ( >= 110 mgdL)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "METHODS Participant characteristics and biochemical results A total of 40,262 Korean adults aged 51-77 years participated from 2004-2013 in the KoGES, organized by the Korean Center for Disease and Control.13 General characteristics, including socioeconomic factors, were acquired using survey",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHODS Participant characteristics and biochemical results A total of 40,262 Korean adults aged 51-77 years participated from 2004-2013 in the KoGES, organized by the Korean Center for Disease and Control.13 General characteristics, including socioeconomic factors, were acquired using survey"
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "According to MS status, frequency distributions of classification variables were calculated, and statistical analysis was conducted using the chi-squared test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "According to MS status, frequency distributions of classification variables were calculated, and statistical analysis was conducted using the chi-squared test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared test"
+                  }],
+                "neText" : "chi-squared test"
+              }]
+          }, {
+            "sentence" : "Means and standard errors of general characteristics were calculated, and their statistical differences were analyzed with two-way analysis of variance with main effects of ARC and MS.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Means and standard errors of general characteristics were calculated, and their statistical differences were analyzed with two-way analysis of variance with main effects of ARC and MS."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }, {
+            "sentence" : "According to MS and ARC, the significance of MS components was determined by a two-way analysis of covariance (ANCOVA) with covariates adjustments.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "According to MS and ARC, the significance of MS components was determined by a two-way analysis of covariance (ANCOVA) with covariates adjustments."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of covariance"
+                  }],
+                "neText" : "analysis of covariance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANCOVA"
+                  }],
+                "neText" : "ANCOVA"
+              }]
+          }, {
+            "sentence" : "Intergroup multiple comparisons were performed using the Tukey test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Intergroup multiple comparisons were performed using the Tukey test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey test"
+                  }],
+                "neText" : "Tukey test"
+              }]
+          }]
+      }]
+  }
+}

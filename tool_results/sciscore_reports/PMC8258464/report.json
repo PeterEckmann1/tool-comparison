@@ -1,0 +1,315 @@
+{
+  "docIdentifier" : "PMC8258464",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Prediction of target genes Prediction analyses of target genes of miR-106a-5p , −103a-3p and −29a-3p were performed using two databases ( TargetScan version 7.2: http://www.targetscan.org/vert_72/ and miRDB January 2019 version: http://www.mirdb.org/ ) ( 70,71).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Prediction of target genes Prediction analyses of target genes of miR-106a-5p , "
+            }, {
+              "f" : "symbol",
+              "c" : "−"
+            }, {
+              "f" : "default",
+              "c" : "103a-3p and "
+            }, {
+              "f" : "symbol",
+              "c" : "−"
+            }, {
+              "f" : "default",
+              "c" : "29a-3p were performed using two databases ( TargetScan version 7.2: http://www.targetscan.org/vert_72/ and miRDB January 2019 version: http://www.mirdb.org/ ) ( 70,71)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "TargetScan (RRID:SCR_010845)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }]
+        }, {
+          "sentence" : "The most relevant biological processes were visualized using REViGO ( version 2017; revigo . irb . hr/ ) ( 73) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The most relevant biological processes were visualized using REViGO ( version 2017; revigo . irb . hr/ ) ( 73) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "REViGO (RRID:SCR_005825)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "REViGO"
+                }],
+              "neText" : "REViGO"
+            }]
+        }, {
+          "sentence" : "; Microsoft Corporation) and were subsequently exported to the IBM® SPSS program (version 20.0; IBM Corp.) and to the GraphPad Prism 6 statistics software (GraphPad Software, Inc.).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "; Microsoft Corporation) and were subsequently exported to the IBM® SPSS program (version 20.0; IBM Corp.) and to the GraphPad Prism 6 statistics software (GraphPad Software, Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and methods Ethics approval and consent This quasi-experimental study with pre- and post-tests, and with a non-equivalent group design was approved by the Ethics Committee for Research involving Human Beings of the State University of Santa Catarina in 2015 (certificate of presentation for ethical appreciation no. 50032415.1.0000.0118).",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Ethics approval and consent This quasi-experimental study with pre- and post-tests, and with a non-equivalent group design was approved by the Ethics Committee for Research involving Human Beings of the State University of Santa Catarina in 2015 (certificate of presentation for ethical appreciation no. 50032415.1.0000.0118)."
+              }]
+          }, {
+            "sentence" : "Materials and methods Ethics approval and consent This quasi-experimental study with pre- and post-tests, and with a non-equivalent group design was approved by the Ethics Committee for Research involving Human Beings of the State University of Santa Catarina in 2015 (certificate of presentation for ethical appreciation no. 50032415.1.0000.0118).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Ethics approval and consent This quasi-experimental study with pre- and post-tests, and with a non-equivalent group design was approved by the Ethics Committee for Research involving Human Beings of the State University of Santa Catarina in 2015 (certificate of presentation for ethical appreciation no. 50032415.1.0000.0118)."
+              }]
+          }, {
+            "sentence" : "The samples were processed for serum isolation within 2 h of collection .",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The samples were processed for serum isolation within 2 h of collection ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The participants fulfilled the following inclusion criteria: i ) Age ≥50 years old and ≤80 years old; ii ) classification in stages I , II and III of the Hoehn & Yahr scale; iii ) a score ≥24 in the Mini-Mental State Examination ( MMSE); iv ) use of stable medication during the last 3 months; and v ) physical ability to walk 300 m or more during the 6-min walk test ( 6MWT) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The participants fulfilled the following inclusion criteria: i ) Age "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "50 years old and "
+              }, {
+                "f" : "symbol",
+                "c" : "≤"
+              }, {
+                "f" : "default",
+                "c" : "80 years old; ii ) classification in stages I , II and III of the Hoehn & Yahr scale; iii ) a score "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "24 in the Mini-Mental State Examination ( MMSE); iv ) use of stable medication during the last 3 months; and v ) physical ability to walk 300 m or more during the 6-min walk test ( 6MWT) ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The decision to include only men in this study was made given the need to minimize possible sex-specific confounding effects , such as those arising from typical hormonal implications of the menstrual cycle in women , which may cause changes in circulating miRNA expression levels ( 58,59) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The decision to include only men in this study was made given the need to minimize possible sex-specific confounding effects , such as those arising from typical hormonal implications of the menstrual cycle in women , which may cause changes in circulating miRNA expression levels ( 58,59) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The participants fulfilled the following inclusion criteria: i ) Age ≥50 years old and ≤80 years old; ii ) classification in stages I , II and III of the Hoehn & Yahr scale; iii ) a score ≥24 in the Mini-Mental State Examination ( MMSE); iv ) use of stable medication during the last 3 months; and v ) physical ability to walk 300 m or more during the 6-min walk test ( 6MWT) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The participants fulfilled the following inclusion criteria: i ) Age "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "50 years old and "
+              }, {
+                "f" : "symbol",
+                "c" : "≤"
+              }, {
+                "f" : "default",
+                "c" : "80 years old; ii ) classification in stages I , II and III of the Hoehn & Yahr scale; iii ) a score "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "24 in the Mini-Mental State Examination ( MMSE); iv ) use of stable medication during the last 3 months; and v ) physical ability to walk 300 m or more during the 6-min walk test ( 6MWT) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The reactions were performed in triplicate , assuming the geometric mean between the Cq values found for each sample to calculate relative gene expression .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The reactions were performed in triplicate , assuming the geometric mean between the Cq values found for each sample to calculate relative gene expression ."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "The reactions were performed in triplicate , assuming the geometric mean between the Cq values found for each sample to calculate relative gene expression .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The reactions were performed in triplicate , assuming the geometric mean between the Cq values found for each sample to calculate relative gene expression ."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The normality of the data was analyzed using the Shapiro-Wilk test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The normality of the data was analyzed using the Shapiro-Wilk test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk test"
+                  }],
+                "neText" : "Shapiro-Wilk test"
+              }]
+          }, {
+            "sentence" : "The t-test for independent samples was used to compare the groups (EG and CG).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The t-test for independent samples was used to compare the groups (EG and CG)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "The correlation between the variables UPDRS, MMSE, MoCA, 6MWT and the relative expression levels of the miRNAs (before and after training) were evaluated using the Spearman's rank correlation coefficient.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The correlation between the variables UPDRS, MMSE, MoCA, 6MWT and the relative expression levels of the miRNAs (before and after training) were evaluated using the Spearman's rank correlation coefficient."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman's rank correlation"
+                  }],
+                "neText" : "Spearman's rank correlation"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "docIdentifier" : "PMC8248556",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Panels of monoclonal antibodies ( purchased from BD Bioscience unless otherwise stated ) were developed to enable phenotypic characterisation of leucocytes of myeloid: CD45‐PerCP ( clone 30‐F11) , CD11b‐v500 ( clone M1/70) , CD11c‐AF700 ( clone HL3) , CD19‐BV786 ( clone 1D3) , CD103‐PE ( clone M290) , CD301‐PE‐Cy7 ( clone MGL1/MGL2; BioLegend) , F4/80‐FITC ( clone BM8; BioLegend , San Diego) , Ly6G/C‐APC‐Cy7 ( clone RB6‐8C5) , I‐A/I‐E‐AF647 ( clone M5/114.14.2 ) and B220/CD45R‐PE‐CF594 ( clone RA3‐6B2 ) and lymphoid: CD45‐PerCP ( clone 30‐F11) , NKp46‐PE‐Cy7 ( clone 29A1.4; BioLegend) , CD19‐BV786 ( clone 1D3) , CD3‐FITC ( clone 17A2) , CD4‐v500 ( clone RM4‐5) , CD8α‐BV650 ( clone 53‐6.7) , CD25‐APC‐Cy7",
+          "rowSpan" : 5,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Panels of monoclonal antibodies ( purchased from BD Bioscience unless otherwise stated ) were developed to enable phenotypic characterisation of leucocytes of myeloid: CD45-PerCP ( clone 30-F11) , CD11b-v500 ( clone M1/70) , CD11c-AF700 ( clone HL3) , CD19-BV786 ( clone 1D3) , CD103-PE ( clone M290) , CD301-PE-Cy7 ( clone MGL1/MGL2; BioLegend) , F4/80-FITC ( clone BM8; BioLegend , San Diego) , Ly6G/C-APC-Cy7 ( clone RB6-8C5) , I-A/I-E-AF647 ( clone M5/114.14.2 ) and B220/CD45R-PE-CF594 ( clone RA3-6B2 ) and lymphoid: CD45-PerCP ( clone 30-F11) , NKp46-PE-Cy7 ( clone 29A1.4; BioLegend) , CD19-BV786 ( clone 1D3) , CD3-FITC ( clone 17A2) , CD4-v500 ( clone RM4-5) , CD8"
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : "-BV650 ( clone 53-6.7) , CD25-APC-Cy7"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD103-PE"
+                }],
+              "neText" : "CD103‐PE"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD301-PE-Cy7"
+                }],
+              "neText" : "CD301‐PE‐Cy7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ly6G/C-APC-Cy7"
+                }],
+              "neText" : "Ly6G/C‐APC‐Cy7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NKp46-PE-Cy7"
+                }],
+              "neText" : "NKp46‐PE‐Cy7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD8"
+                }, {
+                  "f" : "symbol",
+                  "c" : "α"
+                }, {
+                  "f" : "default",
+                  "c" : "-BV650"
+                }],
+              "neText" : "CD8α‐BV650"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "ozaenae , Staphylococcus aureus and Neisseria catarrhalis) . 78 Based on previously optimised pre‐clinical dosing concentrations in pregnant mice , 29 , 31 time‐mated pregnant BALB/c mice received daily oral feeding of lyophilised OM‐85 reconstituted in phosphate‐buffered saline ( PBS ) at a concentration of 400mg kg−1 ( 17.5 % active pharmaceutical ingredient ) body weight from GD0.5‐17.5 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ozaenae , Staphylococcus aureus and Neisseria catarrhalis) . 78 Based on previously optimised pre-clinical dosing concentrations in pregnant mice , 29 , 31 time-mated pregnant BALB/c mice received daily oral feeding of lyophilised OM-85 reconstituted in phosphate-buffered saline ( PBS ) at a concentration of 400mg kg"
+            }, {
+              "f" : "symbol",
+              "c" : "−"
+            }, {
+              "f" : "default",
+              "c" : "1 ( 17.5 % active pharmaceutical ingredient ) body weight from GD0.5-17.5 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:MGI:2683685",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALB/c"
+                }],
+              "neText" : "BALB/c"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Peripheral lung and brain tissue were collected and stored in either cold PBS + 0.1 % bovine serum albumin ( BSA; Bovogen Biologicals , Melbourne ) for flow cytometric analysis , or RNAlater® Stabilization Solution ( Sigma‐Aldrich , St . Louis ) for analysis of gene expression profiles and viral titres .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Peripheral lung and brain tissue were collected and stored in either cold PBS + 0.1 % bovine serum albumin ( BSA; Bovogen Biologicals , Melbourne ) for flow cytometric analysis , or RNAlater® Stabilization Solution ( Sigma-Aldrich , St . Louis ) for analysis of gene expression profiles and viral titres ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma-Aldrich"
+                }],
+              "neText" : "Sigma‐Aldrich"
+            }]
+        }, {
+          "sentence" : "Immune cell phenotypic characterisation was performed using the FlowJo software ( version 10.6.1; BD Bioscience)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Immune cell phenotypic characterisation was performed using the FlowJo software ( version 10.6.1; BD Bioscience)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Statistical analysis and graphing was performed using the GraphPad Prism (version 8.3.0; GraphPad Software).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Statistical analysis and graphing was performed using the GraphPad Prism (version 8.3.0; GraphPad Software)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Study approval All animal experiments were formally approved by the Telethon Kids Institute Animal Ethics Committee, which operates under guidelines developed by the National Health and Medical Research Council of Australia for the care and use of animals in scientific research.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Study approval All animal experiments were formally approved by the Telethon Kids Institute Animal Ethics Committee, which operates under guidelines developed by the National Health and Medical Research Council of Australia for the care and use of animals in scientific research."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "All mice were housed under specific pathogen‐free conditions with standard food and water ad libitum at the Telethon Kids Institute Bioresources Centre. Time‐mated pregnancies Female BALB/c mice aged 8–12 weeks were time‐mated with male BALB/c studs aged 8–26 weeks.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All mice were housed under specific pathogen-free conditions with standard food and water ad libitum at the Telethon Kids Institute Bioresources Centre. Time-mated pregnancies Female BALB/c mice aged 8–12 weeks were time-mated with male BALB/c studs aged 8–26 weeks."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "All mice were housed under specific pathogen‐free conditions with standard food and water ad libitum at the Telethon Kids Institute Bioresources Centre. Time‐mated pregnancies Female BALB/c mice aged 8–12 weeks were time‐mated with male BALB/c studs aged 8–26 weeks.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All mice were housed under specific pathogen-free conditions with standard food and water ad libitum at the Telethon Kids Institute Bioresources Centre. Time-mated pregnancies Female BALB/c mice aged 8–12 weeks were time-mated with male BALB/c studs aged 8–26 weeks."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Two‐way analyses of variance (ANOVA) followed by uncorrected Fisher’s LSD test or Tukey’s multiple comparisons test and the log‐rank (Mantel–Cox) test were used for analyses as outlined in corresponding figure legends.",
+            "rowSpan" : 5,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two-way analyses of variance (ANOVA) followed by uncorrected Fisher’s LSD test or Tukey’s multiple comparisons test and the log-rank (Mantel–Cox) test were used for analyses as outlined in corresponding figure legends."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Two-way analyses of variance"
+                  }],
+                "neText" : "Two‐way analyses of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher’s LSD test"
+                  }],
+                "neText" : "Fisher’s LSD test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey’s multiple comparisons test"
+                  }],
+                "neText" : "Tukey’s multiple comparisons test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank (Mantel–Cox) test"
+                  }],
+                "neText" : "log‐rank (Mantel–Cox) test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Complementary DNA (cDNA) was prepared via QuantiTect Reverse Transcription Kit (Qiagen, Hilden) and vMC0 viral copy‐number determined using the QuantiFast SYBR Green PCR Kit (Qiagen, Hilden) via the primer sequence: forward primer: 5′‐GCC GAAAGC CAC GTG TGT AA and reverse primer: 5′‐AGA TCC CAG CCA GTG GGG TA. 71 Viral copy numbers were calculated using a standard curve of known amounts of amplified cDNA.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Complementary DNA (cDNA) was prepared via QuantiTect Reverse Transcription Kit (Qiagen, Hilden) and vMC0 viral copy-number determined using the QuantiFast SYBR Green PCR Kit (Qiagen, Hilden) via the primer sequence: forward primer: 5′-GCC GAAAGC CAC GTG TGT AA and reverse primer: 5′-AGA TCC CAG CCA GTG GGG TA. 71 Viral copy numbers were calculated using a standard curve of known amounts of amplified cDNA."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GCC GAAAGC CAC GTG TGT AA"
+                  }],
+                "neText" : "5′‐GCC GAAAGC CAC GTG TGT AA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-AGA TCC CAG CCA GTG GGG TA"
+                  }],
+                "neText" : "5′‐AGA TCC CAG CCA GTG GGG TA"
+              }]
+          }]
+      }]
+  }
+}

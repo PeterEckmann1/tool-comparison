@@ -1,0 +1,295 @@
+{
+  "docIdentifier" : "PMC8904074",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : ", phosphorylated mitogen-activated protein kinases ( p-p38 rabbit , 1:1,000 , 9211) , and rabbit IgG ( rabbit , 1:1,000 , 7074 ) antibodies were purchased from Cell Signaling Technology ( CST) , and b-actin ( mouse , 1:1,000 , sc-47778 ) and mouse IgG ( mouse , 1:1,000 , sc-516102 ) antibodies were purchased from Santa Cruz Biotechnology Inc",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", phosphorylated mitogen-activated protein kinases ( p-p38 rabbit , 1:1,000 , 9211) , and rabbit IgG ( rabbit , 1:1,000 , 7074 ) antibodies were purchased from Cell Signaling Technology ( CST) , and b-actin ( mouse , 1:1,000 , sc-47778 ) and mouse IgG ( mouse , 1:1,000 , sc-516102 ) antibodies were purchased from Santa Cruz Biotechnology Inc"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p-p38"
+                }],
+              "neText" : "p-p38"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "rabbit IgG"
+                }],
+              "neText" : "rabbit IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(Cell Signaling Technology Cat# 7074, RRID:AB_2099233)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "rabbit , 1:1,000 , 7074 ) antibodies were purchased from Cell Signaling Technology ( CST) , and b-actin"
+                }],
+              "neText" : "rabbit , 1:1,000 , 7074 ) antibodies were purchased from Cell Signaling Technology ( CST) , and b-actin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "mouse IgG"
+                }],
+              "neText" : "mouse IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "MTT assay The SK-BR-3 cells were plated in a 96-well plate at a density of 4x104 cellsml and placed in an incubator .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MTT assay The SK-BR-3 cells were plated in a 96-well plate at a density of 4x104 cellsml and placed in an incubator ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0033",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SK-BR-3"
+                }],
+              "neText" : "SK-BR-3"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "RPMI-1640 medium for cell culturing was purchased from Welgene, and fetal bovine serum (FBS) and penicillinstreptomycin were purchased from Gibco BRLThermo Fisher Scientific, Inc.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RPMI-1640 medium for cell culturing was purchased from Welgene, and fetal bovine serum (FBS) and penicillinstreptomycin were purchased from Gibco BRLThermo Fisher Scientific, Inc."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco BRLThermo Fisher Scientific"
+                }],
+              "neText" : "Gibco BRLThermo Fisher Scientific"
+            }]
+        }, {
+          "sentence" : "Absorbance ( optical density ) was measured at 595 nm using an ELISA reader ( Bio-Rad Laboratories ) and Microplate Manager(r ) 6 software ( Bio-Rad Laboratories ) to calculate the viability of the cells .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Absorbance ( optical density ) was measured at 595 nm using an ELISA reader ( Bio-Rad Laboratories ) and Microplate Manager(r ) 6 software ( Bio-Rad Laboratories ) to calculate the viability of the cells ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bio-Rad Laboratories"
+                }],
+              "neText" : "Bio-Rad Laboratories"
+            }]
+        }, {
+          "sentence" : "The secondary antibody was reacted at room temperature for 2 h, and the proteins were reacted with ECL detection reagents (PierceThermo Fisher Scientific, Inc.).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The secondary antibody was reacted at room temperature for 2 h, and the proteins were reacted with ECL detection reagents (PierceThermo Fisher Scientific, Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PierceThermo Fisher Scientific"
+                }],
+              "neText" : "PierceThermo Fisher Scientific"
+            }]
+        }, {
+          "sentence" : "Protein expression was measured using the Image J Launcher (provided by NCBI).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein expression was measured using the Image J Launcher (provided by NCBI)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image J Launcher"
+                }],
+              "neText" : "Image J Launcher"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Apoptotic cells were counted as DAPI-positive cellstotal cells in three random fields.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Apoptotic cells were counted as DAPI-positive cellstotal cells in three random fields."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analyses were performed using a Students t test and using a one-way ANOVA followed by Dunnetts or Tukeys test, when more than two conditions were compared.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analyses were performed using a Students t test and using a one-way ANOVA followed by Dunnetts or Tukeys test, when more than two conditions were compared."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys test"
+                  }],
+                "neText" : "Tukeys test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "docIdentifier" : "PMC8645424",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Equal proteins were electrophoresed on 10 SDS-PAGE, transferred to 0.45  mm polyvinylidene fluoride (PVDF) membranes (Millipore), blocked with blocking buffer (New cell & Molecular Biotech Co., Ltd), and incubated with the primary antibodies against type X collagen and GAPDH (Affinity Biosciences) in tris-buffered saline tween-20 (TBST).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Equal proteins were electrophoresed on 10 SDS-PAGE, transferred to 0.45  mm polyvinylidene fluoride (PVDF) membranes (Millipore), blocked with blocking buffer (New cell & Molecular Biotech Co., Ltd), and incubated with the primary antibodies against type X collagen and GAPDH (Affinity Biosciences) in tris-buffered saline tween-20 (TBST)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAPDH"
+                }],
+              "neText" : "GAPDH"
+            }]
+        }, {
+          "sentence" : "Briefly, sections were probed with rabbit antibodies against collagen type II (Abcam) or collagen type X (Invitrogen) at a 1:100 dilution, followed by probing with a goat anti-rabbit secondary antibody conjugated with HRP (Yeasen Biotech Co., Ltd.) at 1:200 dilution.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly, sections were probed with rabbit antibodies against collagen type II (Abcam) or collagen type X (Invitrogen) at a 1:100 dilution, followed by probing with a goat anti-rabbit secondary antibody conjugated with HRP (Yeasen Biotech Co., Ltd.) at 1:200 dilution."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "antibodies against collagen type II (Abcam)"
+                }],
+              "neText" : "antibodies against collagen type II (Abcam)"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "After digestion, cells were filtered through 70  mm cell strainers, centrifuged, and resuspended in DMEM-hg supplemented with 10 fetal bovine serum(FBS, Gibco) and 1 PS.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After digestion, cells were filtered through 70  mm cell strainers, centrifuged, and resuspended in DMEM-hg supplemented with 10 fetal bovine serum(FBS, Gibco) and 1 PS."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }, {
+          "sentence" : "PCR reactions were conducted in QuantStudio(tm) 7 Flex real-time PCR System. 2.5 Glycosaminoglycan (GAG) quantification GAG content was quantified by dimethyl methylene blue (DMMB) assay, as previously described 39.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "PCR reactions were conducted in QuantStudio(tm) 7 Flex real-time PCR System. 2.5 Glycosaminoglycan (GAG) quantification GAG content was quantified by dimethyl methylene blue (DMMB) assay, as previously described 39."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAG"
+                }],
+              "neText" : "GAG"
+            }]
+        }, {
+          "sentence" : "CCs were lysed by CelLytic(tm) M (Sigma) with 1 protease inhibitor cocktail and 1 phosphatase inhibitor cocktail (Epizyme Biotech) at day 7.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "CCs were lysed by CelLytic(tm) M (Sigma) with 1 protease inhibitor cocktail and 1 phosphatase inhibitor cocktail (Epizyme Biotech) at day 7."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "ImageJ software was used to analyze the integrated optical density (IOD) and area to calculate average of intensity (AOI) of images.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ImageJ software was used to analyze the integrated optical density (IOD) and area to calculate average of intensity (AOI) of images."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Statistical analysis was performed using Prism 8 software (GraphPad).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis was performed using Prism 8 software (GraphPad)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prism"
+                }],
+              "neText" : "Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2.8 Macroscopic evaluation of the defect repair The rats were sacrificed with an overdose of intraperitoneal injection of pentobarbital sodium at 4 weeks after surgery.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.8 Macroscopic evaluation of the defect repair The rats were sacrificed with an overdose of intraperitoneal injection of pentobarbital sodium at 4 weeks after surgery."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2.7 Implantation of pellets into an osteochondral defect model Twelve-week-old male SD rats (n  =  3, 3 groups) were used in this study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.7 Implantation of pellets into an osteochondral defect model Twelve-week-old male SD rats (n  =  3, 3 groups) were used in this study."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "2 Materials and methods 2.1 Isolation of CCs and SDSCs SD rats aged 3-4 months and weighing about 300  g were used as the source of CCs and SDSCs.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Materials and methods 2.1 Isolation of CCs and SDSCs SD rats aged 3-4 months and weighing about 300  g were used as the source of CCs and SDSCs."
+              }]
+          }, {
+            "sentence" : "2 Materials and methods 2.1 Isolation of CCs and SDSCs SD rats aged 3-4 months and weighing about 300  g were used as the source of CCs and SDSCs.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Materials and methods 2.1 Isolation of CCs and SDSCs SD rats aged 3-4 months and weighing about 300  g were used as the source of CCs and SDSCs."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "2.11 Histological grading score The histology of the repaired tissue at 4 weeks was evaluated blindly using the ICRS histological grading system 41. 2.12 Statistics All data are representative of at least three experiments of similar results performed in triplicates.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.11 Histological grading score The histology of the repaired tissue at 4 weeks was evaluated blindly using the ICRS histological grading system 41. 2.12 Statistics All data are representative of at least three experiments of similar results performed in triplicates."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "2.11 Histological grading score The histology of the repaired tissue at 4 weeks was evaluated blindly using the ICRS histological grading system 41. 2.12 Statistics All data are representative of at least three experiments of similar results performed in triplicates.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.11 Histological grading score The histology of the repaired tissue at 4 weeks was evaluated blindly using the ICRS histological grading system 41. 2.12 Statistics All data are representative of at least three experiments of similar results performed in triplicates."
+              }],
+            "mention" : {
+              "neText" : "triplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicates"
+                }]
+            }
+          }, {
+            "sentence" : "2.11 Histological grading score The histology of the repaired tissue at 4 weeks was evaluated blindly using the ICRS histological grading system 41. 2.12 Statistics All data are representative of at least three experiments of similar results performed in triplicates.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.11 Histological grading score The histology of the repaired tissue at 4 weeks was evaluated blindly using the ICRS histological grading system 41. 2.12 Statistics All data are representative of at least three experiments of similar results performed in triplicates."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

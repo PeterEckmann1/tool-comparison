@@ -1,0 +1,175 @@
+{
+  "docIdentifier" : "PMC8500632",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The calculation of the final score using the NEWS2 scale was automatically sent to an Excel database designed for the study.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The calculation of the final score using the NEWS2 scale was automatically sent to an Excel database designed for the study."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Excel"
+                }],
+              "neText" : "Excel"
+            }]
+        }, {
+          "sentence" : "In order to reduce the selection bias, the admission of patients with all degrees of severity was sought, and to reduce the information bias, the data were obtained by trained personnel and verified by the research team the clinical records and double use was used for transcription fingering 2.3 Statistical analysis The database was collected in a Microsoft Excel spreadsheet and subsequently analyzed with the statistical program IBM SPSS statistics 25.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In order to reduce the selection bias, the admission of patients with all degrees of severity was sought, and to reduce the information bias, the data were obtained by trained personnel and verified by the research team the clinical records and double use was used for transcription fingering 2.3 Statistical analysis The database was collected in a Microsoft Excel spreadsheet and subsequently analyzed with the statistical program IBM SPSS statistics 25."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "005. 2.4 Ethical considerations The project was approved by the ethics committee of the Universidad de La Sabana Clinic (Acta 17, Agosto 2019).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "005. 2.4 Ethical considerations The project was approved by the ethics committee of the Universidad de La Sabana Clinic (Acta 17, Agosto 2019)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Excluded from the study who did not have a record of diagnoses of admission to the emergency room, as well as patients who presented errors when filling in the NEWS scale (incomplete data).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Excluded from the study who did not have a record of diagnoses of admission to the emergency room, as well as patients who presented errors when filling in the NEWS scale (incomplete data)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "For the development of both phases, a prospective observational study was carried out between August 2018 and June 2019 on patients older than 18 years who were admitted to the emergency department of the Universidad de la Sabana Clinic (Chía, Cundinamarca, Colombia), where the nursing triage staff classifies each patient to the necessary level of care, depending on the ESI.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the development of both phases, a prospective observational study was carried out between August 2018 and June 2019 on patients older than 18 years who were admitted to the emergency department of the Universidad de la Sabana Clinic (Chía, Cundinamarca, Colombia), where the nursing triage staff classifies each patient to the necessary level of care, depending on the ESI."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "The sample size was calculated according to the data of the Keep study,[33] where a sensitivity of 92.6% and specificity of 77% are reported for a cutoff point of 3, for an expected mortality of 10%, confidence level of 95%, and precision of 5% required a minimum of 562 subjects.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The sample size was calculated according to the data of the Keep study,[33] where a sensitivity of 92.6% and specificity of 77% are reported for a cutoff point of 3, for an expected mortality of 10%, confidence level of 95%, and precision of 5% required a minimum of 562 subjects."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Additionally, a bivariate analysis was performed between the positive outcomes with a chi-square test for the qualitative variables, a Student t distribution test to determine the normal distribution, and a non-parametric Mann–Whitney U test if the distribution was non-normal.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Additionally, a bivariate analysis was performed between the positive outcomes with a chi-square test for the qualitative variables, a Student t distribution test to determine the normal distribution, and a non-parametric Mann–Whitney U test if the distribution was non-normal."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann–Whitney U test"
+                  }],
+                "neText" : "Mann–Whitney U test"
+              }]
+          }]
+      }]
+  }
+}

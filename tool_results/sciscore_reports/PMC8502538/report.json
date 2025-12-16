@@ -1,0 +1,378 @@
+{
+  "docIdentifier" : "PMC8502538",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Among the 59 H. pylori isolates H. pylori strains A3, A26, C81, C55, A142, A129, A150, A177, and C192 were used as positive controls.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Among the 59 H. pylori isolates H. pylori strains A3, A26, C81, C55, A142, A129, A150, A177, and C192 were used as positive controls."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C81"
+                }],
+              "neText" : "C81"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "33 The limit of detection of the ureA qPCR assay was determined using 10 serially diluted DNA samples of H. pylori strain C55.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "33 The limit of detection of the ureA qPCR assay was determined using 10 serially diluted DNA samples of H. pylori strain C55."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C55"
+                }],
+              "neText" : "C55"
+            }]
+        }, {
+          "sentence" : "The specificity of the 23S rRNA gene qPCR assay was determined by testing other bacterial strains including Acinetobacter spp., B. subtilis, S. flexneri, P. mirabilis, Serratia spp, S. typhimurium, E. coli, S. epidermidis, P. aeruginosa, Enterobacter spp., K. pneumoniae, V. parahaemolyticus, V. cholera, S. aureus, and Flavobacterium spp. H. pylori ATCC 43526 and H. pylori J99 were used as positive controls.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The specificity of the 23S rRNA gene qPCR assay was determined by testing other bacterial strains including Acinetobacter spp., B. subtilis, S. flexneri, P. mirabilis, Serratia spp, S. typhimurium, E. coli, S. epidermidis, P. aeruginosa, Enterobacter spp., K. pneumoniae, V. parahaemolyticus, V. cholera, S. aureus, and Flavobacterium spp. H. pylori ATCC 43526 and H. pylori J99 were used as positive controls."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "P. aeruginosa"
+                }],
+              "neText" : "P. aeruginosa"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The published sequences of H. pylori 23S rRNA gene (Accession no. KC556778), gyrA (Accession no. L29481), the wild type H. pylori ATCC 26695, and sequences from clinical H. pylori strains were aligned using CLUSTAL W Multiple Alignment30 in Bioedit Version 7.2.5, and primers and probes were designed by using the online PrimerQuest Tool on the IDT website ( https:sg.idtdna.comPrimerQuestHomeIndex ).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The published sequences of H. pylori 23S rRNA gene (Accession no. KC556778), gyrA (Accession no. L29481), the wild type H. pylori ATCC 26695, and sequences from clinical H. pylori strains were aligned using CLUSTAL W Multiple Alignment30 in Bioedit Version 7.2.5, and primers and probes were designed by using the online PrimerQuest Tool on the IDT website ( https:sg.idtdna.comPrimerQuestHomeIndex )."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BioEdit (RRID:SCR_007361)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bioedit"
+                }],
+              "neText" : "Bioedit"
+            }]
+        }, {
+          "sentence" : "The primers and probes were synthesized by Integrated DNA Technologies (Singapore Science Park II, Singapore) and Macrogen (Synapase, Singapore) and are listed in Table 1.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The primers and probes were synthesized by Integrated DNA Technologies (Singapore Science Park II, Singapore) and Macrogen (Synapase, Singapore) and are listed in Table 1."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Macrogen (RRID:SCR_014454)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Macrogen"
+                }],
+              "neText" : "Macrogen"
+            }]
+        }, {
+          "sentence" : "After sequencing, a BLAST search was performed to check the sequence similarityidentity of the DNA sequences.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After sequencing, a BLAST search was performed to check the sequence similarityidentity of the DNA sequences."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "WU-BLAST (RRID:SCR_011824)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLAST"
+                }],
+              "neText" : "BLAST"
+            }]
+        }, {
+          "sentence" : "Statistical Analysis Statistical analysis was performed using SPSS software version 23 (SPSS Inc, Chicago, IL, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis Statistical analysis was performed using SPSS software version 23 (SPSS Inc, Chicago, IL, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients on antibiotics or nonsteroidal anti-inflammatory drugs within 4 weeks prior to OGDS and those with gastric malignancy or immunosuppression were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients on antibiotics or nonsteroidal anti-inflammatory drugs within 4 weeks prior to OGDS and those with gastric malignancy or immunosuppression were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Three biopsies were obtained from antrum andor corpus of the stomach from each patient.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three biopsies were obtained from antrum andor corpus of the stomach from each patient."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Samples were run in duplicate and were considered positive if both reactions were positive.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Samples were run in duplicate and were considered positive if both reactions were positive."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Samples were run in duplicate and were considered positive if both reactions were positive.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Samples were run in duplicate and were considered positive if both reactions were positive."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Detection of Point Mutation in the 23S rRNA Gene of H. pylori in Biopsy Samples by Multiplex qPCR The ureA-positive samples were subjected to multiplex qPCR for the detection of mutation in 23S rRNA gene.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Detection of Point Mutation in the 23S rRNA Gene of H. pylori in Biopsy Samples by Multiplex qPCR The ureA-positive samples were subjected to multiplex qPCR for the detection of mutation in 23S rRNA gene."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences between groups of the categorical data were statistically evaluated using Pearson Chi-square (kh2) test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between groups of the categorical data were statistically evaluated using Pearson Chi-square (kh2) test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson Chi-square"
+                  }],
+                "neText" : "Pearson Chi-square"
+              }]
+          }, {
+            "sentence" : "The independent samples t-test is used to determine the positivity results between singleplex and multiplex qPCR.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The independent samples t-test is used to determine the positivity results between singleplex and multiplex qPCR."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Differences of qPCR-negative and qPCR-positive were statistically evaluated using one sample Chi-square (kh2) test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences of qPCR-negative and qPCR-positive were statistically evaluated using one sample Chi-square (kh2) test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-square"
+                  }],
+                "neText" : "Chi-square"
+              }]
+          }, {
+            "sentence" : "Kappa and McNemar tests were used to compare consistency between different detection methods.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Kappa and McNemar tests were used to compare consistency between different detection methods."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "McNemar tests"
+                  }],
+                "neText" : "McNemar tests"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Table 1 Oligonucleotides Sequence Used in This Study PrimersProbes Sequences (5-3) Targets Product (bp) UreA-Fa AGTTCCTGGTGAGTTGTTCTT ureA 120 UreA-Rb TGGAAGTGTGAGCCGATTT Cla-Fa CTGCGCATGATATTCCCGTT 23S rDNA 157 Cla-Rb CGACCTGCATGATGGCGTA Lev-Fa CGCCATCAATAGAGCCAAAG gyrA 136 Lev-Rb GTGGGTGATGTGATTGGTAAAT UreA-Pc FAM-AAATGTTGGCGACAGACGGT TC-TAMRA ureA Cla-PWTc Cy5-AAGGTCCACGGGGTCTTTCC GTC-BHQ2 Wild type Cla-P2142Gc HEX-AGGTCCACGGGGTCTTCCCG TCT-BHQ2 A2142G Cla-P2143Gc FAM-AGGTCCACGGGGTCTCTCCG TCTT-BHQ2 A2143G Lev-N87WTc HEX-CCG+C+G+TTA+T+CG-IowaBlack(r)FQ Wild type Lev-N87Kc 6-FAM-CCG+C+T+TT+A+T+CGC-IowaBlack(r)FQ N87K Lev-N87Ic Cy5-CCG+C+A+AT+A+T+CGC-IowaBlack(r)RQ-Sp N87I Lev-D91WTc HEX-TA+T+G+AT+GCG+CT-IowaBlack(r)FQ Wild type Lev-D91Nc Cy5-TTA+T+A+ATG+C+G+CTAGT-IowaBlack(r)RQ-Sp D91N Lev-D91Yc 6-FAM-TTA+T+T+ATG+C+G+CTAGT-IowaBlack(r)FQ D91Y Notes: aForward primer, bReverse primer, cTaqMan probe.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Oligonucleotides Sequence Used in This Study PrimersProbes Sequences (5-3) Targets Product (bp) UreA-Fa AGTTCCTGGTGAGTTGTTCTT ureA 120 UreA-Rb TGGAAGTGTGAGCCGATTT Cla-Fa CTGCGCATGATATTCCCGTT 23S rDNA 157 Cla-Rb CGACCTGCATGATGGCGTA Lev-Fa CGCCATCAATAGAGCCAAAG gyrA 136 Lev-Rb GTGGGTGATGTGATTGGTAAAT UreA-Pc FAM-AAATGTTGGCGACAGACGGT TC-TAMRA ureA Cla-PWTc Cy5-AAGGTCCACGGGGTCTTTCC GTC-BHQ2 Wild type Cla-P2142Gc HEX-AGGTCCACGGGGTCTTCCCG TCT-BHQ2 A2142G Cla-P2143Gc FAM-AGGTCCACGGGGTCTCTCCG TCTT-BHQ2 A2143G Lev-N87WTc HEX-CCG+C+G+TTA+T+CG-IowaBlack(r)FQ Wild type Lev-N87Kc 6-FAM-CCG+C+T+TT+A+T+CGC-IowaBlack(r)FQ N87K Lev-N87Ic Cy5-CCG+C+A+AT+A+T+CGC-IowaBlack(r)RQ-Sp N87I Lev-D91WTc HEX-TA+T+G+AT+GCG+CT-IowaBlack(r)FQ Wild type Lev-D91Nc Cy5-TTA+T+A+ATG+C+G+CTAGT-IowaBlack(r)RQ-Sp D91N Lev-D91Yc 6-FAM-TTA+T+T+ATG+C+G+CTAGT-IowaBlack(r)FQ D91Y Notes: aForward primer, bReverse primer, cTaqMan probe."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TGGAAGTGTGAGCCGATTT"
+                  }],
+                "neText" : "TGGAAGTGTGAGCCGATTT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CGACCTGCATGATGGCGTA"
+                  }],
+                "neText" : "CGACCTGCATGATGGCGTA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GTGGGTGATGTGATTGGTAAAT"
+                  }],
+                "neText" : "GTGGGTGATGTGATTGGTAAAT"
+              }]
+          }]
+      }]
+  }
+}

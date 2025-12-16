@@ -1,0 +1,513 @@
+{
+  "docIdentifier" : "PMC8201444",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The primary antibodies used were: RAC1 ( cat. no. ab155938 1:200) , GAPDH ( cat. no. ab9485 1:2,000) , MMP9 ( cat. no. ab76003 1:500) , extracellular signal-regulated kinase ( ERK)12 ( cat. no. ab184699 1:500) , pERK12 ( cat. no. ab201015 1:500) ,",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The primary antibodies used were: RAC1 ( cat. no. ab155938 1:200) , GAPDH ( cat. no. ab9485 1:2,000) , MMP9 ( cat. no. ab76003 1:500) , extracellular signal-regulated kinase ( ERK)12 ( cat. no. ab184699 1:500) , pERK12 ( cat. no. ab201015 1:500) ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAPDH"
+                }],
+              "neText" : "GAPDH"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MMP9"
+                }],
+              "neText" : "MMP9"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pERK12"
+                }],
+              "neText" : "pERK12"
+            }]
+        }, {
+          "sentence" : "After washing the membranes three times , horseradish peroxidase-conjugated secondary antibodies ( goat anti-Rabbit , cat. no. ab150077 , 1:2,000 and anti-mouse IgG , cat. no. ab150113 , 1:2,000 ) were added , and the membranes were incubated at 25degC for 0.5 h .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After washing the membranes three times , horseradish peroxidase-conjugated secondary antibodies ( goat anti-Rabbit , cat. no. ab150077 , 1:2,000 and anti-mouse IgG , cat. no. ab150113 , 1:2,000 ) were added , and the membranes were incubated at 25degC for 0.5 h ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Rabbit"
+                }],
+              "neText" : "anti-Rabbit"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG"
+                }],
+              "neText" : "anti-mouse IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell culture The human colon cancer cell lines , SW620 and 293T , were purchased from the China Center for Type Culture Collection .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture The human colon cancer cell lines , SW620 and 293T , were purchased from the China Center for Type Culture Collection ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0547",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SW620"
+                }],
+              "neText" : "SW620"
+            }]
+        }, {
+          "sentence" : "The 293T cells were seeded at 5x104 cells per well into 24-well plates , co-transfected with 5 ng reporter vectors and 40 pmol miR-142-3p mimics ( UGUAGUGUUUCCUACUUUAUGGA ) or miR-142-3p negative control ( NC ) mimics ( UUUGUACUACACAAAAGUACUG both Guangzhou RiboBio Co . , Ltd. ) using Lipofectamine(r ) 2000 ( Invitrogen Thermo Fisher Scientific , Inc . ) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The 293T cells were seeded at 5x104 cells per well into 24-well plates , co-transfected with 5 ng reporter vectors and 40 pmol miR-142-3p mimics ( UGUAGUGUUUCCUACUUUAUGGA ) or miR-142-3p negative control ( NC ) mimics ( UUUGUACUACACAAAAGUACUG both Guangzhou RiboBio Co . , Ltd. ) using Lipofectamine(r ) 2000 ( Invitrogen Thermo Fisher Scientific , Inc . ) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "293T"
+                }],
+              "neText" : "293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The obtained microarray data were deposited in the Gene Expression Omnibus database ( accession no. GSE101502)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The obtained microarray data were deposited in the Gene Expression Omnibus database ( accession no. GSE101502)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Omnibus (GEO) (RRID:SCR_005012)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Omnibus"
+                }],
+              "neText" : "Gene Expression Omnibus"
+            }]
+        }, {
+          "sentence" : "The target genes of differentially expressed miRNAs were predicted by the PicTar ( 24) ,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The target genes of differentially expressed miRNAs were predicted by the PicTar ( 24) ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PicTar (RRID:SCR_003343)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PicTar"
+                }],
+              "neText" : "PicTar"
+            }]
+        }, {
+          "sentence" : "The regulatory network of miR-142-3p and its targeted genes were visualized using Cytoscape ( 27)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The regulatory network of miR-142-3p and its targeted genes were visualized using Cytoscape ( 27)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }, {
+          "sentence" : "Tripartite overlapping genes were identified , and enriched pathways and cellular functions were identified by Gene Ontology ( GO ) and Kyoto Encyclopedia of Genes and Genomes ( KEGG ) analyses ( david.ncifcrf . govtools . jsp ) using the Database for Annotation , Visualization , and Integrated Discovery ( DAVID ) v6.8 ( 28) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Tripartite overlapping genes were identified , and enriched pathways and cellular functions were identified by Gene Ontology ( GO ) and Kyoto Encyclopedia of Genes and Genomes ( KEGG ) analyses ( david.ncifcrf . govtools . jsp ) using the Database for Annotation , Visualization , and Integrated Discovery ( DAVID ) v6.8 ( 28) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DAVID (RRID:SCR_001881)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }, {
+          "sentence" : "(Tanon Science and Technology Co., Ltd.) and intensities were quantified using ImageJ v1.8.0 (imagej.nih.govij).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "(Tanon Science and Technology Co., Ltd.) and intensities were quantified using ImageJ v1.8.0 (imagej.nih.govij)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Statistical analysis IBM SPSS Statistics for Windows, version 22.0 (IBM Corp.) was used for the statistical analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis IBM SPSS Statistics for Windows, version 22.0 (IBM Corp.) was used for the statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All the patients provided written consent for their specimens to be used in the study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the patients provided written consent for their specimens to be used in the study."
+              }]
+          }, {
+            "sentence" : "The study was approved by the Ethics Committee of the First Affiliated Hospital of Hainan Medical University",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the Ethics Committee of the First Affiliated Hospital of Hainan Medical University"
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All assays were performed in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All assays were performed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "All assays were performed in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All assays were performed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The obtained microarray data were deposited in the Gene Expression Omnibus database ( accession no. GSE101502)",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The obtained microarray data were deposited in the Gene Expression Omnibus database ( accession no. GSE101502)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }, {
+            "sentence" : "The obtained microarray data were deposited in the Gene Expression Omnibus database ( accession no. GSE101502)",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The obtained microarray data were deposited in the Gene Expression Omnibus database ( accession no. GSE101502)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE101502"
+                  }],
+                "neText" : "GSE101502"
+              }]
+          }, {
+            "sentence" : "Total RNA was reverse transcribed into first-strand cDNA by incubating at 42degC for 15 min using the RNA first-strand cDNA kit ( cat. no. KR118 TIANGEN Biotech Co . , Ltd. ) and the TaqMan MicroRNA Reverse Transcription kit ( cat. no. 4366596 Thermo Fisher Scientific , Inc . ) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Total RNA was reverse transcribed into first-strand cDNA by incubating at 42degC for 15 min using the RNA first-strand cDNA kit ( cat. no. KR118 TIANGEN Biotech Co . , Ltd. ) and the TaqMan MicroRNA Reverse Transcription kit ( cat. no. 4366596 Thermo Fisher Scientific , Inc . ) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "KR118"
+                  }],
+                "neText" : "KR118"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Students t-test (paired or unpaired depending on the data) was used for the analysis of continuous variables (mean +- standard deviation).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Students t-test (paired or unpaired depending on the data) was used for the analysis of continuous variables (mean +- standard deviation)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t-test"
+                  }],
+                "neText" : "Students t-test"
+              }]
+          }, {
+            "sentence" : "One-way analysis of variance with Tukeys post hoc test was used to evaluate the differences between multiple groups.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way analysis of variance with Tukeys post hoc test was used to evaluate the differences between multiple groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys post hoc test"
+                  }],
+                "neText" : "Tukeys post hoc test"
+              }]
+          }, {
+            "sentence" : "Associations among pathological features (categorical variables) were evaluated using the kh2 and Fishers exact tests.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Associations among pathological features (categorical variables) were evaluated using the kh2 and Fishers exact tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact tests"
+                  }],
+                "neText" : "Fishers exact tests"
+              }]
+          }, {
+            "sentence" : "Correlations were assessed using the Pearson correlation coefficient.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Correlations were assessed using the Pearson correlation coefficient."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }]
+      }]
+  }
+}

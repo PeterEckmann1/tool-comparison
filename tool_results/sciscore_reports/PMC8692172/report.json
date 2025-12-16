@@ -1,0 +1,161 @@
+{
+  "docIdentifier" : "PMC8692172",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2.4 Statistics Statistical analysis was performed using commercial statistical software (SigmaPlot data analysis software, version 12.0).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.4 Statistics Statistical analysis was performed using commercial statistical software (SigmaPlot data analysis software, version 12.0)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SigmaPlot"
+                }],
+              "neText" : "SigmaPlot"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Records then were evaluated for inclusion criteria: a diagnosis of AP on thoracic radiographs (minimum of 2 orthogonal views alveolar or interstitial pattern in ventrally-dependent lungs), 6 CBC, and BALF culture and cytology.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Records then were evaluated for inclusion criteria: a diagnosis of AP on thoracic radiographs (minimum of 2 orthogonal views alveolar or interstitial pattern in ventrally-dependent lungs), 6 CBC, and BALF culture and cytology."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "2.2 Radiography Thoracic radiographs were evaluated in a blinded fashion by a single board-certified radiologist (Greg Almond).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.2 Radiography Thoracic radiographs were evaluated in a blinded fashion by a single board-certified radiologist (Greg Almond)."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "All data (patient demographics, risk factors for aspiration, clinicopathologic features, antimicrobial drug use and radiographic scores) were found to be nonnormally distributed using a Shapiro-Wilk test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All data (patient demographics, risk factors for aspiration, clinicopathologic features, antimicrobial drug use and radiographic scores) were found to be nonnormally distributed using a Shapiro-Wilk test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk test"
+                  }],
+                "neText" : "Shapiro-Wilk test"
+              }]
+          }, {
+            "sentence" : "McNemars test was used to compare a veterinary medical (and separately, a human medical) diagnosis of b-AP between dogs receiving a single dose of antimicrobial drugs to those not receiving antimicrobial drugs before BALF collection.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "McNemars test was used to compare a veterinary medical (and separately, a human medical) diagnosis of b-AP between dogs receiving a single dose of antimicrobial drugs to those not receiving antimicrobial drugs before BALF collection."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "McNemars test"
+                  }],
+                "neText" : "McNemars test"
+              }]
+          }]
+      }]
+  }
+}

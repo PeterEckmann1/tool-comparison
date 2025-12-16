@@ -1,0 +1,273 @@
+{
+  "docIdentifier" : "PMC8077090",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "After raw data were processed, paired‐end alignment to the human reference genome (hg19) and variant detection were conducted using GATK 3.8 (http://www.broadinstitute.org/gatk).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After raw data were processed, paired-end alignment to the human reference genome (hg19) and variant detection were conducted using GATK 3.8 (http://www.broadinstitute.org/gatk)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GATK (RRID:SCR_001876)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GATK"
+                }],
+              "neText" : "GATK"
+            }]
+        }, {
+          "sentence" : "Variant annotation was obtained using ANNOVAR (version 2017‐07‐16) and variants were filtered against the 1000 genomes project database, dbSNP, ESP, GnomAD, and inhouse database.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Variant annotation was obtained using ANNOVAR (version 2017-07-16) and variants were filtered against the 1000 genomes project database, dbSNP, ESP, GnomAD, and inhouse database."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ANNOVAR (RRID:SCR_012821)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ANNOVAR"
+                }],
+              "neText" : "ANNOVAR"
+            }]
+        }, {
+          "sentence" : "PolyPhen‐2 (http://genetics.bwh.harvard.edu/pph/), SIFT (http://www.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "PolyPhen-2 (http://genetics.bwh.harvard.edu/pph/), SIFT (http://www."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PolyPhen-2"
+                }],
+              "neText" : "PolyPhen‐2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SIFT (RRID:SCR_012813)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SIFT"
+                }],
+              "neText" : "SIFT"
+            }]
+        }, {
+          "sentence" : "Blocks.fhcrc.org/sift/SIFT.html), and MutationTaster (http://www.mutationtaster.org/) were performed to predict the possible effects of the variants identified.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Blocks.fhcrc.org/sift/SIFT.html), and MutationTaster (http://www.mutationtaster.org/) were performed to predict the possible effects of the variants identified."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MutationTaster (RRID:SCR_010777)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MutationTaster"
+                }],
+              "neText" : "MutationTaster"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://www.mutationtaster.org/"
+                }],
+              "neText" : "http://www.mutationtaster.org/"
+            }]
+        }, {
+          "sentence" : "The PCR products were sequenced with ABI 3730XL (Thermo Fisher Scientific Inc.) and analyzed by DNASTAR 5.0 software (DNASTAR, Inc.). 2.4 Sequential analysis and structural modeling BioEdit sequence alignment editor was used for sequence study (http://www.mbio.ncsu.edu/bioedit/bioedit.html).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The PCR products were sequenced with ABI 3730XL (Thermo Fisher Scientific Inc.) and analyzed by DNASTAR 5.0 software (DNASTAR, Inc.). 2.4 Sequential analysis and structural modeling BioEdit sequence alignment editor was used for sequence study (http://www.mbio.ncsu.edu/bioedit/bioedit.html)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BioEdit"
+                }],
+              "neText" : "BioEdit"
+            }]
+        }, {
+          "sentence" : "In brief, the 3D coordinates of the YY1 zinc domain structure were obtained from the Protein Data Bank (PDB: 1UBD 43) (http://www.rcsb.org/pdb/home/home.do), and the structures were visualized using PyMOL software (http://www.pymol.org/).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In brief, the 3D coordinates of the YY1 zinc domain structure were obtained from the Protein Data Bank (PDB: 1UBD 43) (http://www.rcsb.org/pdb/home/home.do), and the structures were visualized using PyMOL software (http://www.pymol.org/)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PyMOL, RRID:SCR_000305",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PyMOL"
+                }],
+              "neText" : "PyMOL"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://www.pymol.org/"
+                }],
+              "neText" : "http://www.pymol.org/"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : " Peripheral venous blood was withdrawn from the patient and both parents after obtaining written consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : " Peripheral venous blood was withdrawn from the patient and both parents after obtaining written consent."
+              }]
+          }, {
+            "sentence" : " This study has been approved by the institutional review board of Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science & Technology (WCH 2019011).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : " This study has been approved by the institutional review board of Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science & Technology (WCH 2019011)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "2.3 Sanger sequencing Polymerase chain reaction (PCR) was performed to amplify YY1 (NM_003403.5) fragment using the primers as following: YY1‐F (5′‐TCCCTTAGGTGTGTAGGATT CATT‐3’′) and YY1‐R (5′‐ CTGTTCTCTAGCAAAGCAGTGAG‐ 3′).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.3 Sanger sequencing Polymerase chain reaction (PCR) was performed to amplify YY1 (NM_003403.5) fragment using the primers as following: YY1-F (5′-TCCCTTAGGTGTGTAGGATT CATT-3’′) and YY1-R (5′- CTGTTCTCTAGCAAAGCAGTGAG- 3′)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CTGTTCTCTAGCAAAGCAGTG AG-3′"
+                  }],
+                "neText" : "5′‐CTGTTCTCTAGCAAAGCAGTG AG‐3′"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "docIdentifier" : "PMC8100085",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "In particular, we obtain estimates from existing studies for some parameters and use this information together with SAM to calibrate the remaining parameters, while solving for the values of endogenous variables.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In particular, we obtain estimates from existing studies for some parameters and use this information together with SAM to calibrate the remaining parameters, while solving for the values of endogenous variables."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SAM (RRID:SCR_010951)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAM"
+                }],
+              "neText" : "SAM"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "3.4 Impact on food security Food security is defined by the Food and Agriculture Organization (FAO) as having four interrelated elements: availability, access, utilization and stability (McGuire, 2015).",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "3.4 Impact on food security Food security is defined by the Food and Agriculture Organization (FAO) as having four interrelated elements: availability, access, utilization and stability (McGuire, 2015)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "To mimic the situation where Vietnam is an open economy, thus being exposed to exogenous shocks in the world market, we propose a stochastic optimization dynamic problem in equation (1): (1) max 0 ≤ r ≤ 1 \u2061 ∑ t = 1 T { ( 1 1 + ρ ) t − 1 E u { [ GDP t ( r ) − GDP t ( r = 0 ) ] | u } } where ρ is a discount rate; E is an expectation operator; u are random noises caused by exogenous factors; t is a time index in a yearly step; T = 10 is the actual planning horizon in Vietnam; r is a conversion ratio which remains constant throughout the planning horizon as per Vietnam's policy-making practice; GDP t ( r = 0 ) is the real GDP at year t when no rice land is converted at all.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To mimic the situation where Vietnam is an open economy, thus being exposed to exogenous shocks in the world market, we propose a stochastic optimization dynamic problem in equation (1): (1) max 0 "
+              }, {
+                "f" : "symbol",
+                "c" : "≤"
+              }, {
+                "f" : "default",
+                "c" : " r "
+              }, {
+                "f" : "symbol",
+                "c" : "≤"
+              }, {
+                "f" : "default",
+                "c" : " 1 \u2061 "
+              }, {
+                "f" : "symbol",
+                "c" : "∑"
+              }, {
+                "f" : "default",
+                "c" : " t = 1 T { ( 1 1 + "
+              }, {
+                "f" : "symbol",
+                "c" : "ρ"
+              }, {
+                "f" : "default",
+                "c" : " ) t "
+              }, {
+                "f" : "symbol",
+                "c" : "−"
+              }, {
+                "f" : "default",
+                "c" : " 1 E u { [ GDP t ( r ) "
+              }, {
+                "f" : "symbol",
+                "c" : "−"
+              }, {
+                "f" : "default",
+                "c" : " GDP t ( r = 0 ) ] | u } } where "
+              }, {
+                "f" : "symbol",
+                "c" : "ρ"
+              }, {
+                "f" : "default",
+                "c" : " is a discount rate; E is an expectation operator; u are random noises caused by exogenous factors; t is a time index in a yearly step; T = 10 is the actual planning horizon in Vietnam; r is a conversion ratio which remains constant throughout the planning horizon as per Vietnam's policy-making practice; GDP t ( r = 0 ) is the real GDP at year t when no rice land is converted at all."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

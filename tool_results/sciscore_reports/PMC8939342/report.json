@@ -1,0 +1,160 @@
+{
+  "docIdentifier" : "PMC8939342",
+  "sciscore" : 2,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The J-PCI registry protocol conformed to the principles outlined in the Declaration of Helsinki and was approved by the Institutional Review Board of the Network for Promotion of Clinical Studies (a specialized nonprofit organization affiliated with Osaka University Graduate School of Medicine in Osaka, Japan).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The J-PCI registry protocol conformed to the principles outlined in the Declaration of Helsinki and was approved by the Institutional Review Board of the Network for Promotion of Clinical Studies (a specialized nonprofit organization affiliated with Osaka University Graduate School of Medicine in Osaka, Japan)."
+              }]
+          }, {
+            "sentence" : "The requirement for written informed consent was waived due to the cross-sectional retrospective study design.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The requirement for written informed consent was waived due to the cross-sectional retrospective study design."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Inclusion criteria for the registration of J-PCI were any patients who underwent PCI, irrespective of their indications.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria for the registration of J-PCI were any patients who underwent PCI, irrespective of their indications."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Other detail definitions of patient background, clinical presentation, and angiographic and procedural details are available at the J-PCI registry website (http://cvit.jp/registry/jpci_definition.pdf).",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Other detail definitions of patient background, clinical presentation, and angiographic and procedural details are available at the J-PCI registry website (http://cvit.jp/registry/jpci_definition.pdf)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis Categorical variables , which were presented as numbers with relative percentages , were compared using the chi-square test , whereas continuous variables , which were expressed as mean ± standard deviation , were compared using Student 's t-test .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Categorical variables , which were presented as numbers with relative percentages , were compared using the chi-square test , whereas continuous variables , which were expressed as mean ± standard deviation , were compared using Student 's t-test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

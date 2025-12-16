@@ -1,0 +1,364 @@
+{
+  "docIdentifier" : "PMC8286250",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Immunohistochemical Analyses Airway smooth muscle (ASM) mass and airway mucus secretion was observed using immunohistochemical staining, based on the presence of alpha-smooth muscle actin (a-SMA) and Muc5ac protein in lung tissue sections with the mouse a-SMA antibody (Proteintech, Wuhan, China) and mouse Muc5ac antibody (GTX11335, GeneTex, USA), as previously described.",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Immunohistochemical Analyses Airway smooth muscle (ASM) mass and airway mucus secretion was observed using immunohistochemical staining, based on the presence of alpha-smooth muscle actin (a-SMA) and Muc5ac protein in lung tissue sections with the mouse a-SMA antibody (Proteintech, Wuhan, China) and mouse Muc5ac antibody (GTX11335, GeneTex, USA), as previously described."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Airway smooth muscle (ASM"
+                }],
+              "neText" : "Airway smooth muscle (ASM"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "alpha-smooth muscle actin (a-SMA)"
+                }],
+              "neText" : "alpha-smooth muscle actin (a-SMA)"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "a-SMA"
+                }],
+              "neText" : "a-SMA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Muc5ac"
+                }],
+              "neText" : "Muc5ac"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Allergic Airway Inflammation Induction and Ozone Exposure C57BL6 mice were randomly divided into three groups with eight mice in each group (see schematic diagram of mouse experiment in Figure S2 of Supplementary information).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Allergic Airway Inflammation Induction and Ozone Exposure C57BL6 mice were randomly divided into three groups with eight mice in each group (see schematic diagram of mouse experiment in Figure S2 of Supplementary information)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "16 The area of a-SMA-positive and Muc5ac-positive expression around the airway epithelial cells in the respective images were independently analyzed in a double-blind fashion by two investigators, using the Image J software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "16 The area of a-SMA-positive and Muc5ac-positive expression around the airway epithelial cells in the respective images were independently analyzed in a double-blind fashion by two investigators, using the Image J software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image J"
+                }],
+              "neText" : "Image J"
+            }]
+        }, {
+          "sentence" : "Statistical Analysis Statistical analysis was conducted and graphs were constructed using the GraphPad PRISM, version 5.0 software (GraphPad, San Diego, CA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis Statistical analysis was conducted and graphs were constructed using the GraphPad PRISM, version 5.0 software (GraphPad, San Diego, CA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad PRISM"
+                }],
+              "neText" : "GraphPad PRISM"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and Methods Animals C57BL6 mice (pathogen-free, male, age 5-6 weeks) were purchased from the SLRC Laboratory (Shanghai, China), and housed in controlled conditions of temperature (21-25 degC) and humidity (40-60), with ad libitum access to water and food (free from OVA).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Animals C57BL6 mice (pathogen-free, male, age 5-6 weeks) were purchased from the SLRC Laboratory (Shanghai, China), and housed in controlled conditions of temperature (21-25 degC) and humidity (40-60), with ad libitum access to water and food (free from OVA)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Animals C57BL6 mice (pathogen-free, male, age 5-6 weeks) were purchased from the SLRC Laboratory (Shanghai, China), and housed in controlled conditions of temperature (21-25 degC) and humidity (40-60), with ad libitum access to water and food (free from OVA).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Animals C57BL6 mice (pathogen-free, male, age 5-6 weeks) were purchased from the SLRC Laboratory (Shanghai, China), and housed in controlled conditions of temperature (21-25 degC) and humidity (40-60), with ad libitum access to water and food (free from OVA)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Allergic Airway Inflammation Induction and Ozone Exposure C57BL6 mice were randomly divided into three groups with eight mice in each group (see schematic diagram of mouse experiment in Figure S2 of Supplementary information).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Allergic Airway Inflammation Induction and Ozone Exposure C57BL6 mice were randomly divided into three groups with eight mice in each group (see schematic diagram of mouse experiment in Figure S2 of Supplementary information)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The Spearman correlation coefficient matrix was constructed and Spearman rank correlation tests were performed using the R version 3.6.1 (Innovative Solutions, St. Louis, MO, USA).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Spearman correlation coefficient matrix was constructed and Spearman rank correlation tests were performed using the R version 3.6.1 (Innovative Solutions, St. Louis, MO, USA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman correlation"
+                  }],
+                "neText" : "Spearman correlation"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman rank correlation"
+                  }],
+                "neText" : "Spearman rank correlation"
+              }]
+          }, {
+            "sentence" : "The Kruskal-Wallis ANOVA with Bonferronis post hoc test (for equal variance) or Dunnetts T3 post hoc test (for unequal variance) were used to evaluate the differences in variance between multiple groups.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Kruskal-Wallis ANOVA with Bonferronis post hoc test (for equal variance) or Dunnetts T3 post hoc test (for unequal variance) were used to evaluate the differences in variance between multiple groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis ANOVA"
+                  }],
+                "neText" : "Kruskal-Wallis ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferronis post hoc test"
+                  }],
+                "neText" : "Bonferronis post hoc test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnetts T3 post hoc test"
+                  }],
+                "neText" : "Dunnetts T3 post hoc test"
+              }]
+          }, {
+            "sentence" : "A posttest Mann-Whitney analysis was conducted to evaluate the differences in variance between two groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A posttest Mann-Whitney analysis was conducted to evaluate the differences in variance between two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney"
+                  }],
+                "neText" : "Mann-Whitney"
+              }]
+          }, {
+            "sentence" : "The correlation between different variables was determined using Spearman analysis r > 0.4 or < -0.4 was considered indicative of strong correlations, and r values between -0.4 and 0.4 were considered indicative of weak correlations if P < 0.05. P < 0.05 was considered statistically significant.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The correlation between different variables was determined using Spearman analysis r > 0.4 or < -0.4 was considered indicative of strong correlations, and r values between -0.4 and 0.4 were considered indicative of weak correlations if P < 0.05. P < 0.05 was considered statistically significant."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman"
+                  }],
+                "neText" : "Spearman"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The following primer sequences were used in the PCR: b-actin: Forward-5 CCT CTA TGC CAA CAC AGT 3, Reverse-5 AGC CAC CAA TCC ACA CAG 3 Muc5ac: Forward-5 TCA CAT TTG ATG GCA CCT ACT 3, Reverse-5 CAC ACG GAA GTA TCC AAA CAC 3 Histological and Morphometric Analysis After the lungs of mice were resected, the left lungs were inflated by injection of 4 paraformaldehyde to provide 20 cm of water pressure.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The following primer sequences were used in the PCR: b-actin: Forward-5 CCT CTA TGC CAA CAC AGT 3, Reverse-5 AGC CAC CAA TCC ACA CAG 3 Muc5ac: Forward-5 TCA CAT TTG ATG GCA CCT ACT 3, Reverse-5 CAC ACG GAA GTA TCC AAA CAC 3 Histological and Morphometric Analysis After the lungs of mice were resected, the left lungs were inflated by injection of 4 paraformaldehyde to provide 20 cm of water pressure."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCT CTA TGC CAA CAC AGT 3"
+                  }],
+                "neText" : "CCT CTA TGC CAA CAC AGT 3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AGC CAC CAA TCC ACA CAG 3"
+                  }],
+                "neText" : "AGC CAC CAA TCC ACA CAG 3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TCA CAT TTG ATG GCA CCT ACT 3"
+                  }],
+                "neText" : "TCA CAT TTG ATG GCA CCT ACT 3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAC ACG GAA GTA TCC AAA CAC 3"
+                  }],
+                "neText" : "CAC ACG GAA GTA TCC AAA CAC 3"
+              }]
+          }]
+      }]
+  }
+}

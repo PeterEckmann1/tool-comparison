@@ -1,0 +1,356 @@
+{
+  "docIdentifier" : "PMC8295686",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "2.3 Flow cytometry Platelet activation state was determined by binding of a monoclonal antibody against P-selectin , mouse anti-human CD62P-PE ( clone AC1.2 , BD Biosciences , San Jose , California ) to detect membrane-expressed P-selectin reflecting alpha granule release.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.3 Flow cytometry Platelet activation state was determined by binding of a monoclonal antibody against P-selectin , mouse anti-human CD62P-PE ( clone AC1.2 , BD Biosciences , San Jose , California ) to detect membrane-expressed P-selectin reflecting alpha granule release."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "P-selectin"
+                }],
+              "neText" : "P-selectin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human CD62P-PE"
+                }],
+              "neText" : "anti-human CD62P-PE"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "P-selectin reflecting alpha granule release."
+                }],
+              "neText" : "P-selectin reflecting alpha granule release."
+            }]
+        }, {
+          "sentence" : "An irrelevant isotype-matched antibody mouse IgG1-PE ( clone MOPC-2 , BD Pharmingen , San Jose , California ) was used to demonstrate positive and specific staining for CD62P .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "An irrelevant isotype-matched antibody mouse IgG1-PE ( clone MOPC-2 , BD Pharmingen , San Jose , California ) was used to demonstrate positive and specific staining for CD62P ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IgG1-PE"
+                }],
+              "neText" : "IgG1-PE"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD62P"
+                }],
+              "neText" : "CD62P"
+            }]
+        }, {
+          "sentence" : "A monoclonal antibody against glycoprotein IIIa , mouse anti-human CD61-Alexa Fluor 647 ( clone F11 , Bio-Rad , Hercules , California) , was used as a platelet identifier .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A monoclonal antibody against glycoprotein IIIa , mouse anti-human CD61-Alexa Fluor 647 ( clone F11 , Bio-Rad , Hercules , California) , was used as a platelet identifier ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "antibody against glycoprotein IIIa , mouse anti-human CD61-Alexa Fluor 647"
+                }],
+              "neText" : "antibody against glycoprotein IIIa , mouse anti-human CD61-Alexa Fluor 647"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human"
+                }],
+              "neText" : "anti-human"
+            }]
+        }, {
+          "sentence" : "The commercially available antibody clones for CD61 and CD62P have been used in previous flow cytometry studies to identify canine platelet antigens .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The commercially available antibody clones for CD61 and CD62P have been used in previous flow cytometry studies to identify canine platelet antigens ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD61"
+                }],
+              "neText" : "CD61"
+            }]
+        }, {
+          "sentence" : "Antibody incubations included CD61-A647 ( 0.45 mgmL ) and CD62P-PE ( 0.55 mgmL) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibody incubations included CD61-A647 ( 0.45 mgmL ) and CD62P-PE ( 0.55 mgmL) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD62P-PE"
+                }],
+              "neText" : "CD62P-PE"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Flow cytometric data including 20 000 putative single platelets per sample were acquired on an LSRII flow cytometer using FACSDiva v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Flow cytometric data including 20 000 putative single platelets per sample were acquired on an LSRII flow cytometer using FACSDiva v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BD FACSDiva Software, RRID:SCR_001456",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FACSDiva"
+                }],
+              "neText" : "FACSDiva"
+            }]
+        }, {
+          "sentence" : "Data were analyzed using commercial software ( FlowJo software v.10.3 , BD Biosciences , San Jose , California) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analyzed using commercial software ( FlowJo software v.10.3 , BD Biosciences , San Jose , California) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "2.5 Statistical analysis Statistical analysis was performed using a commercially available software (SigmaStat, version 3.5).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.5 Statistical analysis Statistical analysis was performed using a commercially available software (SigmaStat, version 3.5)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SigmaStat"
+                }],
+              "neText" : "SigmaStat"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2 MATERIALS AND METHODS 2.1 Animals and study design Ten healthy purpose-bred research dogs housed in accordance with regulations of the Institutional Animal Care and Use Committee (IACUC) were studied.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 MATERIALS AND METHODS 2.1 Animals and study design Ten healthy purpose-bred research dogs housed in accordance with regulations of the Institutional Animal Care and Use Committee (IACUC) were studied."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Based on a sample size calculation derived from pilot experiments , 8 dogs received IV 0.02 mgmg vincristine ( Hospira , Lake Forest , Illinois )",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Based on a sample size calculation derived from pilot experiments , 8 dogs received IV 0.02 mgmg vincristine ( Hospira , Lake Forest , Illinois )"
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The statistical difference between treatment and time for parameters such as TO+ platelet number and percent antibody binding for both TO+ and TO- platelets was assessed using a 2-way ANOVA.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The statistical difference between treatment and time for parameters such as TO+ platelet number and percent antibody binding for both TO+ and TO- platelets was assessed using a 2-way ANOVA."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "The average difference between the activation in the TO+ group vs the TO- platelets was compared using t tests or Wilcoxon signed rank test, as appropriate for the data distribution.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The average difference between the activation in the TO+ group vs the TO- platelets was compared using t tests or Wilcoxon signed rank test, as appropriate for the data distribution."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t tests"
+                  }],
+                "neText" : "t tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed rank test"
+                  }],
+                "neText" : "Wilcoxon signed rank test"
+              }]
+          }, {
+            "sentence" : "05 was considered significant, and corrections for multiple comparisons using a Bonferroni correction were employed where relevant.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "05 was considered significant, and corrections for multiple comparisons using a Bonferroni correction were employed where relevant."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }]
+      }]
+  }
+}

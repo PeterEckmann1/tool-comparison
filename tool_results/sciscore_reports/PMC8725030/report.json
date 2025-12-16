@@ -1,0 +1,156 @@
+{
+  "docIdentifier" : "PMC8725030",
+  "sciscore" : 7,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "05. Microsoft Excel was used for some calculations.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "05. Microsoft Excel was used for some calculations."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Institutional review board ( IRB ) approval was obtained prior to collecting the data .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Institutional review board ( IRB ) approval was obtained prior to collecting the data ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Inclusion Criteria * Patients who underwent operative hip fracture repair , with either hemiarthroplasty , intramedullary nail treatment , or sliding hip screw treatment .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion Criteria * Patients who underwent operative hip fracture repair , with either hemiarthroplasty , intramedullary nail treatment , or sliding hip screw treatment ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Age of 59 years or younger . * Patient with previous hip arthroplasty or periprosthetic proximal femur fracture * Patient who required a pre-operative blood transfusion due to symptomatic anemia Initially , 511 patients were identified and after using exclusion criteria , 505 patients met inclusion criteria for this study .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Age of 59 years or younger . * Patient with previous hip arthroplasty or periprosthetic proximal femur fracture * Patient who required a pre-operative blood transfusion due to symptomatic anemia Initially , 511 patients were identified and after using exclusion criteria , 505 patients met inclusion criteria for this study ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "+- 9 P = 1 BMI , kgm2 ( SD ) 24.4 +- 5.3 25 +- 6.7 P = .26 Gender , male 88 ( 28.7 ) 63 ( 31.8 ) P = .45 Gender , female 219 ( 71.3 ) 135",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "+- 9 P = 1 BMI , kgm2 ( SD ) 24.4 +- 5.3 25 +- 6.7 P = .26 Gender , male 88 ( 28.7 ) 63 ( 31.8 ) P = .45 Gender , female 219 ( 71.3 ) 135"
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "* Age of 60 years or greater .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "* Age of 60 years or greater ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Additionally, a 2x2 Chi Square analysis was performed with significance set to P <.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Additionally, a 2x2 Chi Square analysis was performed with significance set to P <."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi Square"
+                  }],
+                "neText" : "Chi Square"
+              }]
+          }, {
+            "sentence" : "Since these data were continuous, an unpaired 2 tailed t-test was utilized.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Since these data were continuous, an unpaired 2 tailed t-test was utilized."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

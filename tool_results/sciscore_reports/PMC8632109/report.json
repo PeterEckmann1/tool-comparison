@@ -1,0 +1,173 @@
+{
+  "docIdentifier" : "PMC8632109",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Samples were acquired using the BD LSRFortessa flow cytometer and data was analyzed using the FlowJo software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Samples were acquired using the BD LSRFortessa flow cytometer and data was analyzed using the FlowJo software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "Mass spectrometric data processing Data processing was performed as previously described 17 with the Proteome Discoverer software (v1.4, Thermo Fisher Scientific, San Jose, CA) to integrate the search results of the SEQUEST HT search engine (University of Washington) 20 with the human proteome (Swiss-Prot database).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Mass spectrometric data processing Data processing was performed as previously described 17 with the Proteome Discoverer software (v1.4, Thermo Fisher Scientific, San Jose, CA) to integrate the search results of the SEQUEST HT search engine (University of Washington) 20 with the human proteome (Swiss-Prot database)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Proteome Discoverer, RRID:SCR_014477",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Proteome Discoverer"
+                }],
+              "neText" : "Proteome Discoverer"
+            }]
+        }, {
+          "sentence" : "The false discovery rate (FDR estimated by the Percolator algorithm 2.04) 21 was limited to 5 for HLA class I and 1 for HLA class II. HLA class I annotation was performed using SYFPEITHI 1.0 22 and NetMHCpan 4.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The false discovery rate (FDR estimated by the Percolator algorithm 2.04) 21 was limited to 5 for HLA class I and 1 for HLA class II. HLA class I annotation was performed using SYFPEITHI 1.0 22 and NetMHCpan 4.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Percolator: Semi-supervised learning for peptide identification from shotgun proteomics datasets (RRID:SCR_005040)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Percolator"
+                }],
+              "neText" : "Percolator"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and methods Clinical sample collection A prospective cohort study of patients with NSCLC treated with an ICI was conducted in four different centers in Switzerland (Kantonsspital St Gallen, Spital Grabs, Spital Wil, and Spital Flawil) from July 1, 2016, to September 30, 2019.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Clinical sample collection A prospective cohort study of patients with NSCLC treated with an ICI was conducted in four different centers in Switzerland (Kantonsspital St Gallen, Spital Grabs, Spital Wil, and Spital Flawil) from July 1, 2016, to September 30, 2019."
+              }]
+          }, {
+            "sentence" : "The study protocol was approved by the Ethics Committee of Eastern Switzerland (Ethikkommission Ostschweiz, EKOS 16079) and was conducted in accordance with the Declaration of Helsinki guidelines.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol was approved by the Ethics Committee of Eastern Switzerland (Ethikkommission Ostschweiz, EKOS 16079) and was conducted in accordance with the Declaration of Helsinki guidelines."
+              }]
+          }, {
+            "sentence" : "All patients gave written, informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients gave written, informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

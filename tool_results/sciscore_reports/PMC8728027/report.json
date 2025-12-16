@@ -1,0 +1,113 @@
+{
+  "docIdentifier" : "PMC8728027",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "7 The model was developed using Microsoft Excel (2019) and comprised six main health states (Supplementary material online, Figure S1 ): non-fatal MI non-fatal IS post-MI post-IS CV death and non-CV death.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "7 The model was developed using Microsoft Excel (2019) and comprised six main health states (Supplementary material online, Figure S1 ): non-fatal MI non-fatal IS post-MI post-IS CV death and non-CV death."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "1 Baseline patient characteristics Baseline patient characteristics and CV event rates were derived from a retrospective study that included a cohort of patients meeting the inclusion criteria of the FOURIER trial, 7 based on nationwide, linked Swedish population registry data.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "1 Baseline patient characteristics Baseline patient characteristics and CV event rates were derived from a retrospective study that included a cohort of patients meeting the inclusion criteria of the FOURIER trial, 7 based on nationwide, linked Swedish population registry data."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Patients were 72, 69, and 72 years old for the Recent MI, MI with a risk factor, and MI with a second event risk profiles, respectively.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were 72, 69, and 72 years old for the Recent MI, MI with a risk factor, and MI with a second event risk profiles, respectively."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Compared with the statin-based CTTC meta-analysis, treatment with evolocumab had very similar effects on the risk of MACE per 1 mmolL of LDL-C reduction, as illustrated separately for years 0 to 1 and years 1 to 2. 7 Furthermore, the results from the FOURIER trial are consistent with the results of a recent Mendelian randomization study showing that variants in the genes encoding PCSK9 and 3-hydroxy-3-methylglutaryl-coenzyme A reductase (the target of statins) were associated with nearly identical effects on the risk of CV events per unit decrease of LDL-C.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Compared with the statin-based CTTC meta-analysis, treatment with evolocumab had very similar effects on the risk of MACE per 1 mmolL of LDL-C reduction, as illustrated separately for years 0 to 1 and years 1 to 2. 7 Furthermore, the results from the FOURIER trial are consistent with the results of a recent Mendelian randomization study showing that variants in the genes encoding PCSK9 and 3-hydroxy-3-methylglutaryl-coenzyme A reductase (the target of statins) were associated with nearly identical effects on the risk of CV events per unit decrease of LDL-C."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

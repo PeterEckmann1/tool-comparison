@@ -1,0 +1,139 @@
+{
+  "docIdentifier" : "PMC8060702",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The nanopore was made on the SiN x membrane using an electric pulse generated using a Keithley 2450 device that was controlled by the labVIEW program as previously described (Kwok et al., 2014 Yin et al., 2017 Acar et al., 2019 Gao et al., 2019 Tian et al., 2019).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The nanopore was made on the SiN x membrane using an electric pulse generated using a Keithley 2450 device that was controlled by the labVIEW program as previously described (Kwok et al., 2014 Yin et al., 2017 Acar et al., 2019 Gao et al., 2019 Tian et al., 2019)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LabView  (RRID:SCR_014325)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "labVIEW"
+                }],
+              "neText" : "labVIEW"
+            }]
+        }, {
+          "sentence" : "meGX, which is made from beech wood and widely used in reported research (Biely et al., 1985 Macekova et al., 2006), was purchased from Sigma (M5144).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "meGX, which is made from beech wood and widely used in reported research (Biely et al., 1985 Macekova et al., 2006), was purchased from Sigma (M5144)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "All the event spikes were collected at an open pore current of 10, which was approximately four times larger than the noise all dwell times longer than 200 ms and normalized current blockages lower than 0.05 were excluded from the data analysis.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the event spikes were collected at an open pore current of 10, which was approximately four times larger than the noise all dwell times longer than 200 ms and normalized current blockages lower than 0.05 were excluded from the data analysis."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

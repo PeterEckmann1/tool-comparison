@@ -1,0 +1,235 @@
+{
+  "docIdentifier" : "PMC8755389",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The median time between sample collection for CRP measurement and collection of serum for the measurement of bioactive lipids, anti-nucleocapsid, and anti-spike antibody binding was 5 days.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The median time between sample collection for CRP measurement and collection of serum for the measurement of bioactive lipids, anti-nucleocapsid, and anti-spike antibody binding was 5 days."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-nucleocapsid,"
+                }],
+              "neText" : "anti-nucleocapsid,"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-spike"
+                }],
+              "neText" : "anti-spike"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data Analysis GraphPad Prism (version 8.2.1) was used.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data Analysis GraphPad Prism (version 8.2.1) was used."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }, {
+          "sentence" : "Multivariate analysis using Metaboanalyst 4.0 (https:www.metaboanalyst.ca) 33 including principal component analysis was performed.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Multivariate analysis using Metaboanalyst 4.0 (https:www.metaboanalyst.ca) 33 including principal component analysis was performed."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MetaboAnalyst (RRID:SCR_015539)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Metaboanalyst"
+                }],
+              "neText" : "Metaboanalyst"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.metaboanalyst.ca"
+                }],
+              "neText" : "https:www.metaboanalyst.ca"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "MATERIALS AND METHODS Sample Collection and Preparation Serum samples obtained from 50 inpatients admitted to Nottingham University Hospitals National Health Service (NHS) Trust Queens Medical Centre with symptomatic reverse-transcription polymerase chain reaction-confirmed SARS-CoV-2 infection were collected as diagnostic specimens for clinical chemistry testing.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MATERIALS AND METHODS Sample Collection and Preparation Serum samples obtained from 50 inpatients admitted to Nottingham University Hospitals National Health Service (NHS) Trust Queens Medical Centre with symptomatic reverse-transcription polymerase chain reaction-confirmed SARS-CoV-2 infection were collected as diagnostic specimens for clinical chemistry testing."
+              }]
+          }, {
+            "sentence" : "Review by the University of Nottinghams School of Life Sciences Ethical Review Committee deemed the study to not require full ethical review.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Review by the University of Nottinghams School of Life Sciences Ethical Review Committee deemed the study to not require full ethical review."
+              }]
+          }, {
+            "sentence" : "Ethical approval was obtained from the Research Ethics Committee (reference number 18EM0154) and the HRA (protocol number 18021).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ethical approval was obtained from the Research Ethics Committee (reference number 18EM0154) and the HRA (protocol number 18021)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Groups were assessed for normal distribution using DAgostino-Pearson test and evaluated for significant changes between groups using Kruskal-Wallis test with multiple comparisons corrected for using Dunn test.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Groups were assessed for normal distribution using DAgostino-Pearson test and evaluated for significant changes between groups using Kruskal-Wallis test with multiple comparisons corrected for using Dunn test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "DAgostino-Pearson test"
+                  }],
+                "neText" : "DAgostino-Pearson test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis test"
+                  }],
+                "neText" : "Kruskal-Wallis test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunn test"
+                  }],
+                "neText" : "Dunn test"
+              }]
+          }]
+      }]
+  }
+}

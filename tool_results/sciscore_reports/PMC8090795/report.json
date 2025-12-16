@@ -1,0 +1,272 @@
+{
+  "docIdentifier" : "PMC8090795",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Disease duration as well as current RA treatment with glucocorticoids ( prednisolone or methylprednisolone) , synthetic disease-modifying antirheumatic drugs ( sDMARDs) , such as methotrexate or sulfasalazine , andor biologic disease-modifying anti-rheumatic drugs ( bDMARDs) , such as TNF-a inhibitors , IL-6 receptor antagonist , and anti-CD20 monoclonal antibodies , were recorded.",
+          "rowSpan" : 6,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Disease duration as well as current RA treatment with glucocorticoids ( prednisolone or methylprednisolone) , synthetic disease-modifying antirheumatic drugs ( sDMARDs) , such as methotrexate or sulfasalazine , andor biologic disease-modifying anti-rheumatic drugs ( bDMARDs) , such as TNF-a inhibitors , IL-6 receptor antagonist , and anti-CD20 monoclonal antibodies , were recorded."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "methylprednisolone) , synthetic disease-modifying antirheumatic drugs ( sDMARDs)"
+                }],
+              "neText" : "methylprednisolone) , synthetic disease-modifying antirheumatic drugs ( sDMARDs)"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rheumatic drugs ( bDMARDs)"
+                }],
+              "neText" : "anti-rheumatic drugs ( bDMARDs)"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TNF-a inhibitors"
+                }],
+              "neText" : "TNF-a inhibitors"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IL-6 receptor antagonist"
+                }],
+              "neText" : "IL-6 receptor antagonist"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD20 monoclonal antibodies"
+                }],
+              "neText" : "anti-CD20 monoclonal antibodies"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD20"
+                }],
+              "neText" : "anti-CD20"
+            }]
+        }, {
+          "sentence" : "Seropositivity of RA (positive rheumatoid factor andor anti-citrullinated protein antibodies ACPA) and CRP concentrations were recorded from patients medical records.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Seropositivity of RA (positive rheumatoid factor andor anti-citrullinated protein antibodies ACPA) and CRP concentrations were recorded from patients medical records."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-citrullinated protein"
+                }],
+              "neText" : "anti-citrullinated protein"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All data were analyzed using SPSS version 25.0 (IBM, Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All data were analyzed using SPSS version 25.0 (IBM, Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was approved by the Vilnius regional biomedical research ethics committee (approval No. 158200-18-922-500).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the Vilnius regional biomedical research ethics committee (approval No. 158200-18-922-500)."
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained from all participants before enrollment in the study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from all participants before enrollment in the study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Participants who had fewer than 8 teeth remaining, were pregnant, had diabetes mellitus, or were taking medication known to affect periodontal tissues (calcium channel blockers, antiepileptic drugs) were excluded from the research in order to eliminate any sources of bias.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants who had fewer than 8 teeth remaining, were pregnant, had diabetes mellitus, or were taking medication known to affect periodontal tissues (calcium channel blockers, antiepileptic drugs) were excluded from the research in order to eliminate any sources of bias."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Participants who had fewer than 8 teeth remaining, were pregnant, had diabetes mellitus, or were taking medication known to affect periodontal tissues (calcium channel blockers, antiepileptic drugs) were excluded from the research in order to eliminate any sources of bias.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants who had fewer than 8 teeth remaining, were pregnant, had diabetes mellitus, or were taking medication known to affect periodontal tissues (calcium channel blockers, antiepileptic drugs) were excluded from the research in order to eliminate any sources of bias."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Statistical analysis For the sample size calculation, CAL was considered as the primary endpoint, with an expected difference of 1.0 mm and a standard deviation of 1.5 mm between groups.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis For the sample size calculation, CAL was considered as the primary endpoint, with an expected difference of 1.0 mm and a standard deviation of 1.5 mm between groups."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Inter-group comparisons of continuous variables were carried out by performing the Shapiro-Wilk normality test, followed by the Students t-test or Mann-Whitney U test as appropriate.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inter-group comparisons of continuous variables were carried out by performing the Shapiro-Wilk normality test, followed by the Students t-test or Mann-Whitney U test as appropriate."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk normality test"
+                  }],
+                "neText" : "Shapiro-Wilk normality test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }, {
+            "sentence" : "The kh2 test was used for categorical variables.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The kh2 test was used for categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "kh2 test"
+                  }],
+                "neText" : "kh2 test"
+              }]
+          }]
+      }]
+  }
+}

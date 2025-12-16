@@ -1,0 +1,207 @@
+{
+  "docIdentifier" : "PMC8754515",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All analyses were performed with IBM SPSS software , version 21 ( SPSS)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All analyses were performed with IBM SPSS software , version 21 ( SPSS)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }, {
+          "sentence" : "To account for potential overestimation of results due to family relatedness, 2sls MR analyses were repeated after randomly excluding first- and second-degree relatives, estimated using KING software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To account for potential overestimation of results due to family relatedness, 2sls MR analyses were repeated after randomly excluding first- and second-degree relatives, estimated using KING software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "KING (RRID:SCR_009251)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KING"
+                }],
+              "neText" : "KING"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The RS was approved by the Medical Ethics Committee of Erasmus MC and by the Ministry of Health, Welfare, and Sport of the Netherlands.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The RS was approved by the Medical Ethics Committee of Erasmus MC and by the Ministry of Health, Welfare, and Sport of the Netherlands."
+              }]
+          }, {
+            "sentence" : "All participants provided written informed consent to participate in the study and to have their information obtained from treating physicians.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants provided written informed consent to participate in the study and to have their information obtained from treating physicians."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Only the SNPs that were also GWAS significant in the UK Biobank ( i.e. , P < 1.0 x 10-8 ) were considered for inclusion in the phosphate GRS.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Only the SNPs that were also GWAS significant in the UK Biobank ( i.e. , P < 1.0 x 10-8 ) were considered for inclusion in the phosphate GRS."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Serum leptin concentrations were determined during the third visit of RS-I , in a random subset of participants selected as part of a separate case-cohort study ( n = 489 men and n = 694 women) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Serum leptin concentrations were determined during the third visit of RS-I , in a random subset of participants selected as part of a separate case-cohort study ( n = 489 men and n = 694 women) ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "RS is a population-based study of men and women aged 40 y or older and recruited in the district of Ommoord, Rotterdam (20).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RS is a population-based study of men and women aged 40 y or older and recruited in the district of Ommoord, Rotterdam (20)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "MR, Mendelian randomization analyses RS, Rotterdam Study",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MR, Mendelian randomization analyses RS, Rotterdam Study"
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis Differences between men and women were compared using independent t test for continuous variables and kh2 test for categorical variables .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Differences between men and women were compared using independent t test for continuous variables and kh2 test for categorical variables ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }, {
+            "sentence" : "Because fat mass and lean mass are related to one another , we tested the correlation between fat mass and lean mass using Spearman correlation coefficients .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Because fat mass and lean mass are related to one another , we tested the correlation between fat mass and lean mass using Spearman correlation coefficients ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman correlation"
+                  }],
+                "neText" : "Spearman correlation"
+              }]
+          }, {
+            "sentence" : "To correct for multiple testing of the independence assumption, a Bonferroni correction was applied resulting in a corrected P value < 0.006 (0.059) testing age, sex, education level, smoking, total calcium, 25(OH)D, eGFR, testosterone, and 17b-estradiol.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To correct for multiple testing of the independence assumption, a Bonferroni correction was applied resulting in a corrected P value < 0.006 (0.059) testing age, sex, education level, smoking, total calcium, 25(OH)D, eGFR, testosterone, and 17b-estradiol."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }]
+      }]
+  }
+}

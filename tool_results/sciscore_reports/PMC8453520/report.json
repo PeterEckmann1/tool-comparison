@@ -1,0 +1,191 @@
+{
+  "docIdentifier" : "PMC8453520",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All analyses were performed by the Duke Clinical Research Institute (Durham, NC, USA) using SAS version 9.4 (SAS Institute, Cary, NC, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All analyses were performed by the Duke Clinical Research Institute (Durham, NC, USA) using SAS version 9.4 (SAS Institute, Cary, NC, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All patients provided written informed consent and the study protocol was approved by ethics committees and review boards at participating sites.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients provided written informed consent and the study protocol was approved by ethics committees and review boards at participating sites."
+              }]
+          }, {
+            "sentence" : "All patients provided written informed consent and the study protocol was approved by ethics committees and review boards at participating sites.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients provided written informed consent and the study protocol was approved by ethics committees and review boards at participating sites."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Patients were randomly assigned in a 1:1 ratio to receive vericiguat or placebo.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were randomly assigned in a 1:1 ratio to receive vericiguat or placebo."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Protocol Information",
+        "srList" : [{
+            "sentence" : "Methods Study and patients The design, baseline characteristics, and main results of the VICTORIA trial (NCT02861534) (Vericiguat Global Study in Subjects with Heart Failure with Reduced Ejection Fraction) have been published elsewhere. 7 , 8 , 9 In brief, VICTORIA included 5050 patients with HF with a reduced left ventricular ejection fraction (LVEF <45) and elevated natriuretic peptide concentrations who recently experienced an episode of worsening of HF.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Study and patients The design, baseline characteristics, and main results of the VICTORIA trial (NCT02861534) (Vericiguat Global Study in Subjects with Heart Failure with Reduced Ejection Fraction) have been published elsewhere. 7 , 8 , 9 In brief, VICTORIA included 5050 patients with HF with a reduced left ventricular ejection fraction (LVEF <45) and elevated natriuretic peptide concentrations who recently experienced an episode of worsening of HF."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT02861534"
+                  }],
+                "neText" : "NCT02861534"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis Continuous variables are described using medians (25th, 75th percentiles) and tested for trends across eGFR levels using Spearman correlations.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Continuous variables are described using medians (25th, 75th percentiles) and tested for trends across eGFR levels using Spearman correlations."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman correlations"
+                  }],
+                "neText" : "Spearman correlations"
+              }]
+          }, {
+            "sentence" : "Categorical variables are presented as frequencies () and tested for trends using trend or Cochran-Mantel-Haenszel tests, where appropriate.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Categorical variables are presented as frequencies () and tested for trends using trend or Cochran-Mantel-Haenszel tests, where appropriate."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Cochran-Mantel-Haenszel tests"
+                  }],
+                "neText" : "Cochran-Mantel-Haenszel tests"
+              }]
+          }]
+      }]
+  }
+}

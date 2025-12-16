@@ -1,0 +1,585 @@
+{
+  "docIdentifier" : "PMC8761437",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The coverslips were immersed in solutions containing primary antibodies (rabbit antihuman) for pan-cytokeratin (CK 1:400 Abcam), vimentin (1:200 Abcam), a-smooth muscle actin (a-SMA 1:200 Abcam) and fibroblast activation protein (FAP 1:250 Abcam) and incubated at 4degC overnight.",
+          "rowSpan" : 6,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The coverslips were immersed in solutions containing primary antibodies (rabbit antihuman) for pan-cytokeratin (CK 1:400 Abcam), vimentin (1:200 Abcam), a-smooth muscle actin (a-SMA 1:200 Abcam) and fibroblast activation protein (FAP 1:250 Abcam) and incubated at 4degC overnight."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "antihuman) for pan-cytokeratin"
+                }],
+              "neText" : "antihuman) for pan-cytokeratin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "vimentin"
+                }],
+              "neText" : "vimentin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "a-smooth muscle actin"
+                }],
+              "neText" : "a-smooth muscle actin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "a-SMA"
+                }],
+              "neText" : "a-SMA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "fibroblast activation protein"
+                }],
+              "neText" : "fibroblast activation protein"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FAP"
+                }],
+              "neText" : "FAP"
+            }]
+        }, {
+          "sentence" : "The cells were then treated with secondary antibodies (Jackson ImmunoResearch), either fluorescein isothiocyanate (FITC)-conjugated goat anti-rabbit IgG (H + L 1:100) or Cy(tm)3-conjugated goat anti-rabbit IgG (1:100) for 1 h at 37degC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The cells were then treated with secondary antibodies (Jackson ImmunoResearch), either fluorescein isothiocyanate (FITC)-conjugated goat anti-rabbit IgG (H + L 1:100) or Cy(tm)3-conjugated goat anti-rabbit IgG (1:100) for 1 h at 37degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }]
+        }, {
+          "sentence" : "The membranes were initially blocked with 5 nonfat milk and probed overnight with rabbit primary anti-CD63 (1:1000, Abcam), anti-TSG101 (1:2000, Abcam) and anti-Calnexin (1:2000, Abcam), followed by detection using horseradish peroxidase-conjugated goat anti-mouserabbitrat IgG (1:2000 Jackson).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membranes were initially blocked with 5 nonfat milk and probed overnight with rabbit primary anti-CD63 (1:1000, Abcam), anti-TSG101 (1:2000, Abcam) and anti-Calnexin (1:2000, Abcam), followed by detection using horseradish peroxidase-conjugated goat anti-mouserabbitrat IgG (1:2000 Jackson)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Calnexin"
+                }],
+              "neText" : "anti-Calnexin"
+            }]
+        }, {
+          "sentence" : "Beta-actin antibody (1:5,000 HuaAn Biotech) was used to normalise the amount of sample loaded.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Beta-actin antibody (1:5,000 HuaAn Biotech) was used to normalise the amount of sample loaded."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Beta-actin"
+                }],
+              "neText" : "Beta-actin"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The genes targeted by selective exosomal miRNAs were predicted by four online bioinformatic algorithms: TargetScan (http:www.targetscan.orgvert_72), miRDB (http:mirdb.org), miRTarBase (http:mirtarbase.mbc.nctu.edu.twphpindex.php) and miRWalk (http:mirwalk.umm.uni-heidelberg.de).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The genes targeted by selective exosomal miRNAs were predicted by four online bioinformatic algorithms: TargetScan (http:www.targetscan.orgvert_72), miRDB (http:mirdb.org), miRTarBase (http:mirtarbase.mbc.nctu.edu.twphpindex.php) and miRWalk (http:mirwalk.umm.uni-heidelberg.de)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "miRWalk (RRID:SCR_016509)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "miRWalk"
+                }],
+              "neText" : "miRWalk"
+            }]
+        }, {
+          "sentence" : "2.11 Gene Ontology (GO) and Kyoto Encyclopaedia of Genes and Genomes (KEGG) analysis The GO analysis (http:www.geneontology.org) was used to predict the potential functions of the target genes of selected miRNAs, while the KEGG (http:www.genome.jp) pathway enrichment analysis was performed to identify the predominant pathways based on the DAVID 6.7 online software (http:david.abcc.ncifcrf.govhome.jsp).",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.11 Gene Ontology (GO) and Kyoto Encyclopaedia of Genes and Genomes (KEGG) analysis The GO analysis (http:www.geneontology.org) was used to predict the potential functions of the target genes of selected miRNAs, while the KEGG (http:www.genome.jp) pathway enrichment analysis was performed to identify the predominant pathways based on the DAVID 6.7 online software (http:david.abcc.ncifcrf.govhome.jsp)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http:www.geneontology.org"
+                }],
+              "neText" : "http:www.geneontology.org"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http:www.genome.jp"
+                }],
+              "neText" : "http:www.genome.jp"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DAVID (RRID:SCR_001881)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }, {
+          "sentence" : "All analyses were performed with the GraphPad Prism software version 6.00 for Windows (GraphPad Software).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All analyses were performed with the GraphPad Prism software version 6.00 for Windows (GraphPad Software)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2 MATERIALS AND METHODS 2.1 Patient information Ten tumour specimens from 10 male patients with SLSCC diagnosed by biopsy and pathology were collected immediately after surgical tumour resection.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 MATERIALS AND METHODS 2.1 Patient information Ten tumour specimens from 10 male patients with SLSCC diagnosed by biopsy and pathology were collected immediately after surgical tumour resection."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "2.12 Statistical analysis Data were presented as the mean +- standard deviation (SD) of at least three independent assays and analysed by Students t test or Fishers exact test.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.12 Statistical analysis Data were presented as the mean +- standard deviation (SD) of at least three independent assays and analysed by Students t test or Fishers exact test."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "All GO terms and KEGG pathway enrichment analysis were analysed using kobas3.0 software (hypergeometric testFishers exact test) with a p < 0.05 threshold of significance, and the FDR correction method was Benjamini and Hochberg (Appendix S4).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All GO terms and KEGG pathway enrichment analysis were analysed using kobas3.0 software (hypergeometric testFishers exact test) with a p < 0.05 threshold of significance, and the FDR correction method was Benjamini and Hochberg (Appendix S4)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini and Hochberg"
+                  }],
+                "neText" : "Benjamini and Hochberg"
+              }]
+          }, {
+            "sentence" : "2.12 Statistical analysis Data were presented as the mean +- standard deviation (SD) of at least three independent assays and analysed by Students t test or Fishers exact test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.12 Statistical analysis Data were presented as the mean +- standard deviation (SD) of at least three independent assays and analysed by Students t test or Fishers exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "TABLE 1 Sequences of primers used for quantitative real-time PCR miRNA name Primer sequence (5-3) miR-16-5p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGCGCCAATA miR-16-5p-S ACACTCCAGCTGGGTAGCAGCACG TAAATA miR-29a-3p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTAACCGAT miR-29a-3p-S ACACTCCAGCTGGGTAGCACCATC TGAAAT miR-34c-5p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGGCAATCAG miR-34c-5p-S ACACTCCAGCTGGGAGGCAGTGTA GTTAGCT miR-32-5p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTGCAACTT miR-32-5p-S ACACTCCAGCTGGGTATTGCACAT TACTAA miR-490-5p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGACCCACCT miR-490-5p-S ACACTCCAGCTGGGCCATGGATCT CCAG miR-193b-3p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGAGCGGGAC miR-193b-3p-S ACACTCCAGCTGGGAACTGGCCCT CAAAGT miR-10a-3p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTATTCCCC miR-10a-3p-S ACACTCCAGCTGGGCAAATTCGTA TCTAGG miR-656-3p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGAGAGGTTG miR-656-3p-S ACACTCCAGCTGGGAATATTATAC AGTCA miR-19b-3p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTCAGTTTT miR-19b-3p-S ACACTCCAGCTGGGTGTGCAAATC CATGCAA miR-424-5p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTTCAAAAC miR-424-5p-S ACACTCCAGCTGGGCAGCAGCAAT TCATGT URP TGGTGTCGTGGAGTCG U6-S CTCGCTTCGGCAGCACA U6-A AACGCTTCACGAATTTGCGT John Wiley & Sons, Ltd 2.10 Identification of candidate exosomal miRNAs and target genes The miRNAs that showed significant differences (p < 0.05) between CAFs and NFs were selected as candidate exosomal miRNAs for further analysis.",
+            "rowSpan" : 22,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "TABLE 1 Sequences of primers used for quantitative real-time PCR miRNA name Primer sequence (5-3) miR-16-5p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGCGCCAATA miR-16-5p-S ACACTCCAGCTGGGTAGCAGCACG TAAATA miR-29a-3p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTAACCGAT miR-29a-3p-S ACACTCCAGCTGGGTAGCACCATC TGAAAT miR-34c-5p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGGCAATCAG miR-34c-5p-S ACACTCCAGCTGGGAGGCAGTGTA GTTAGCT miR-32-5p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTGCAACTT miR-32-5p-S ACACTCCAGCTGGGTATTGCACAT TACTAA miR-490-5p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGACCCACCT miR-490-5p-S ACACTCCAGCTGGGCCATGGATCT CCAG miR-193b-3p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGAGCGGGAC miR-193b-3p-S ACACTCCAGCTGGGAACTGGCCCT CAAAGT miR-10a-3p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTATTCCCC miR-10a-3p-S ACACTCCAGCTGGGCAAATTCGTA TCTAGG miR-656-3p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGAGAGGTTG miR-656-3p-S ACACTCCAGCTGGGAATATTATAC AGTCA miR-19b-3p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTCAGTTTT miR-19b-3p-S ACACTCCAGCTGGGTGTGCAAATC CATGCAA miR-424-5p-R CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTTCAAAAC miR-424-5p-S ACACTCCAGCTGGGCAGCAGCAAT TCATGT URP TGGTGTCGTGGAGTCG U6-S CTCGCTTCGGCAGCACA U6-A AACGCTTCACGAATTTGCGT John Wiley & Sons, Ltd 2.10 Identification of candidate exosomal miRNAs and target genes The miRNAs that showed significant differences (p < 0.05) between CAFs and NFs were selected as candidate exosomal miRNAs for further analysis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGCGCCAATA"
+                  }],
+                "neText" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGCGCCAATA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACACTCCAGCTGGGTAGCAGCACG TAAATA"
+                  }],
+                "neText" : "ACACTCCAGCTGGGTAGCAGCACG TAAATA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTAACCGAT"
+                  }],
+                "neText" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTAACCGAT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACACTCCAGCTGGGTAGCACCATC TGAAAT"
+                  }],
+                "neText" : "ACACTCCAGCTGGGTAGCACCATC TGAAAT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGGCAATCAG"
+                  }],
+                "neText" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGGCAATCAG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACACTCCAGCTGGGAGGCAGTGTA GTTAGCT"
+                  }],
+                "neText" : "ACACTCCAGCTGGGAGGCAGTGTA GTTAGCT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTGCAACTT"
+                  }],
+                "neText" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTGCAACTT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACACTCCAGCTGGGTATTGCACAT TACTAA"
+                  }],
+                "neText" : "ACACTCCAGCTGGGTATTGCACAT TACTAA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGACCCACCT"
+                  }],
+                "neText" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGACCCACCT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACACTCCAGCTGGGCCATGGATCT CCAG"
+                  }],
+                "neText" : "ACACTCCAGCTGGGCCATGGATCT CCAG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGAGCGGGAC"
+                  }],
+                "neText" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGAGCGGGAC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACACTCCAGCTGGGAACTGGCCCT CAAAGT"
+                  }],
+                "neText" : "ACACTCCAGCTGGGAACTGGCCCT CAAAGT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTATTCCCC"
+                  }],
+                "neText" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTATTCCCC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACACTCCAGCTGGGCAAATTCGTA TCTAGG"
+                  }],
+                "neText" : "ACACTCCAGCTGGGCAAATTCGTA TCTAGG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGAGAGGTTG"
+                  }],
+                "neText" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGAGAGGTTG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACACTCCAGCTGGGAATATTATAC AGTCA"
+                  }],
+                "neText" : "ACACTCCAGCTGGGAATATTATAC AGTCA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTCAGTTTT"
+                  }],
+                "neText" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTCAGTTTT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACACTCCAGCTGGGTGTGCAAATC CATGCAA"
+                  }],
+                "neText" : "ACACTCCAGCTGGGTGTGCAAATC CATGCAA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTTCAAAAC"
+                  }],
+                "neText" : "CTCAACTGGTGTCGTGGAGTCGGC AATTCAGTTGAGTTCAAAAC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACACTCCAGCTGGGCAGCAGCAAT TCATGT URP TGGTGTCGTGGAGTCG U6-S"
+                  }],
+                "neText" : "ACACTCCAGCTGGGCAGCAGCAAT TCATGT URP TGGTGTCGTGGAGTCG U6-S"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTCGCTTCGGCAGCACA"
+                  }],
+                "neText" : "CTCGCTTCGGCAGCACA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AACGCTTCACGAATTTGCGT"
+                  }],
+                "neText" : "AACGCTTCACGAATTTGCGT"
+              }]
+          }]
+      }]
+  }
+}

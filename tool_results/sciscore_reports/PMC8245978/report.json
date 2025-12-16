@@ -1,0 +1,147 @@
+{
+  "docIdentifier" : "PMC8245978",
+  "sciscore" : 7,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis All statistical analyses were conducted using the SPSS software program (version 26.0; IBM Corp., Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis All statistical analyses were conducted using the SPSS software program (version 26.0; IBM Corp., Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and methods This study was approved by the independent ethics committee of our hospitals.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods This study was approved by the independent ethics committee of our hospitals."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "We excluded patients with pathologic fractures , open fractures , multiple injuries , isolated fractures of the greater tuberosity , isolated fractures of the lesser tuberosity , head-split fractures , previous surgery for upper limb involvement , and upper limb paralysis , such as those caused by cerebral infarction , and patients who underwent arthroplasty .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We excluded patients with pathologic fractures , open fractures , multiple injuries , isolated fractures of the greater tuberosity , isolated fractures of the lesser tuberosity , head-split fractures , previous surgery for upper limb involvement , and upper limb paralysis , such as those caused by cerebral infarction , and patients who underwent arthroplasty ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Seven patients in the +IS group and 30 patients in the -IS group were excluded owing to inadequate follow-up.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Seven patients in the +IS group and 30 patients in the -IS group were excluded owing to inadequate follow-up."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "In this study , we identified 212 patients ( women , 141; men , 71) , who met the inclusion criteria .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In this study , we identified 212 patients ( women , 141; men , 71) , who met the inclusion criteria ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The mean age was 66.6 +- 15.8 years ( range , 22-95 years) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mean age was 66.6 +- 15.8 years ( range , 22-95 years) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "A single examiner, who was blinded to the results of inferior subluxation, evaluated postoperative complications as per past clinical notes and plain radiographic images.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A single examiner, who was blinded to the results of inferior subluxation, evaluated postoperative complications as per past clinical notes and plain radiographic images."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "In univariate analyses, we used the Student's t-test to compare the average of continuous values (age, body mass index, time from injury to surgery, blood loss and operative time), whereas Fischer's exact test was used to compare the proportion of discrete variables (sex, side of injury, smoking, local osteoporosis, preoperative axillary nerve injury, fracture dislocation, type of fracture, inferior subluxation before surgery, surgical procedure, surgical approach, and drainage after surgery).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In univariate analyses, we used the Student's t-test to compare the average of continuous values (age, body mass index, time from injury to surgery, blood loss and operative time), whereas Fischer's exact test was used to compare the proportion of discrete variables (sex, side of injury, smoking, local osteoporosis, preoperative axillary nerve injury, fracture dislocation, type of fracture, inferior subluxation before surgery, surgical procedure, surgical approach, and drainage after surgery)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fischer's exact test"
+                  }],
+                "neText" : "Fischer's exact test"
+              }]
+          }]
+      }]
+  }
+}

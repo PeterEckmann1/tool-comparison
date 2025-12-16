@@ -1,0 +1,415 @@
+{
+  "docIdentifier" : "PMC8430046",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Antibodies against HSV-1 ( Dako , Glostrup , Denmark)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibodies against HSV-1 ( Dako , Glostrup , Denmark)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HSV-1 ( Dako , Glostrup , Denmark)"
+                }],
+              "neText" : "HSV-1 ( Dako , Glostrup , Denmark)"
+            }]
+        }, {
+          "sentence" : "EnVision+ System-HRP Labeled Polymer Anti-Rabbit IgG ( Dako ) was used as a secondary antibody .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "EnVision+ System-HRP Labeled Polymer Anti-Rabbit IgG ( Dako ) was used as a secondary antibody ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EnVision+ System-HRP Labeled Polymer Anti-Rabbit IgG"
+                }],
+              "neText" : "EnVision+ System-HRP Labeled Polymer Anti-Rabbit IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-Rabbit IgG"
+                }],
+              "neText" : "Anti-Rabbit IgG"
+            }]
+        }, {
+          "sentence" : "After lysis of red blood cells in 1 x RBC Lysis Buffer Solution ( eBioscience , San Diego , CA , USA ) and selection of live cells using the Zombie Yellow Fixable Viability Kit ( BioLegend , San Diego , CA , USA) , lymphocytes were incubated with mouse anti- CD1632 antibody ( Tonbo Biosciences , San Diego , CA , USA ) followed by incubation with fluorescein allophycocyanin-conjugated mouse anti-CD8a ( BD Biosciences , San Jose , CA , USA) ,",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After lysis of red blood cells in 1 x RBC Lysis Buffer Solution ( eBioscience , San Diego , CA , USA ) and selection of live cells using the Zombie Yellow Fixable Viability Kit ( BioLegend , San Diego , CA , USA) , lymphocytes were incubated with mouse anti- CD1632 antibody ( Tonbo Biosciences , San Diego , CA , USA ) followed by incubation with fluorescein allophycocyanin-conjugated mouse anti-CD8a ( BD Biosciences , San Jose , CA , USA) ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti- CD1632"
+                }],
+              "neText" : "anti- CD1632"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD8a"
+                }],
+              "neText" : "anti-CD8a"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Materials and methods Cell lines and virus Vero (African green monkey kidney) cells were purchased from the American Type Culture Collection (Rockville, MD, USA) and cultured as described previously. 24 , 42 Human OSCC cell lines SAS, OSC-19, HSC-3, and SCC-4 were purchased from the Health Science Research Resources Bank (Osaka,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Cell lines and virus Vero (African green monkey kidney) cells were purchased from the American Type Culture Collection (Rockville, MD, USA) and cultured as described previously. 24 , 42 Human OSCC cell lines SAS, OSC-19, HSC-3, and SCC-4 were purchased from the Health Science Research Resources Bank (Osaka,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0059",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Vero"
+                }],
+              "neText" : "Vero"
+            }]
+        }, {
+          "sentence" : "In SAS-GFP , HSC-3 , and SCCVII tongue cancer models , implanted tumor cells grow within the tongue and metastasize to cervical lymph nodes , and animals typically die of primary tumor growth .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In SAS-GFP , HSC-3 , and SCCVII tongue cancer models , implanted tumor cells grow within the tongue and metastasize to cervical lymph nodes , and animals typically die of primary tumor growth ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_1288",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HSC-3"
+                }],
+              "neText" : "HSC-3"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "KLN205-MUC1 and SCCVII tongue tumors were generated by implanting 2 x 105 cells into the left side of the tongue of syngeneic DBA2 mice and C3HHe mice , respectively , and G47D was inoculated into the tumors as described above.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "KLN205-MUC1 and SCCVII tongue tumors were generated by implanting 2 x 105 cells into the left side of the tongue of syngeneic DBA2 mice and C3HHe mice , respectively , and G47D was inoculated into the tumors as described above."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C3HHe"
+                }],
+              "neText" : "C3HHe"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Some sections were counterstained with H&E . Generation of EGFP-expressing SAS cells and in vivo fluorescence imaging To detect lymph node metastasis by in vivo fluorescence imaging , we generated SAS cells that stably express EGFP ( SAS-GFP ) using a retroviral vector pQCLIN-EGFP .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Some sections were counterstained with H&E . Generation of EGFP-expressing SAS cells and in vivo fluorescence imaging To detect lymph node metastasis by in vivo fluorescence imaging , we generated SAS cells that stably express EGFP ( SAS-GFP ) using a retroviral vector pQCLIN-EGFP ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pQCLIN-EGFP"
+                }],
+              "neText" : "pQCLIN-EGFP"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "A mouse SCC cell line , KLN205-MUC1 , derived from DBA2 strain was obtained from RIKEN BioResource Center ( Tsukuba , Japan) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A mouse SCC cell line , KLN205-MUC1 , derived from DBA2 strain was obtained from RIKEN BioResource Center ( Tsukuba , Japan) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RIKEN BioResource Center (RRID:SCR_003250)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RIKEN BioResource"
+                }],
+              "neText" : "RIKEN BioResource"
+            }]
+        }, {
+          "sentence" : "Data analysis was performed using SPSS v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data analysis was performed using SPSS v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and methods Cell lines and virus Vero (African green monkey kidney) cells were purchased from the American Type Culture Collection (Rockville, MD, USA) and cultured as described previously. 24 , 42 Human OSCC cell lines SAS, OSC-19, HSC-3, and SCC-4 were purchased from the Health Science Research Resources Bank (Osaka,",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Cell lines and virus Vero (African green monkey kidney) cells were purchased from the American Type Culture Collection (Rockville, MD, USA) and cultured as described previously. 24 , 42 Human OSCC cell lines SAS, OSC-19, HSC-3, and SCC-4 were purchased from the Health Science Research Resources Bank (Osaka,"
+              }]
+          }, {
+            "sentence" : "All experimental animal protocols were approved by the Committee for Ethics of Animal Experimentation and were in accordance with the Guideline for Animal Experiments at the University of Tokyo .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experimental animal protocols were approved by the Committee for Ethics of Animal Experimentation and were in accordance with the Guideline for Animal Experiments at the University of Tokyo ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Animal studies Female BALBc nunu , DBA2 , and C3HHe mice ( 5-6 weeks old ) were purchased from Japan SLC ( Hamamatsu , Shizuoka , Japan) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animal studies Female BALBc nunu , DBA2 , and C3HHe mice ( 5-6 weeks old ) were purchased from Japan SLC ( Hamamatsu , Shizuoka , Japan) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "In vitro cytotoxicity studies Cytopathic effects were evaluated as described previously . 24 , 45 , 46 , 47 Briefly , human OSCC cells or mouse SCC cells were seeded on six-well plates at 2 x 105 cellswell and infected with mock or G47D at an MOI of 0.01 , 0.1 , or 1.0 in triplicates .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In vitro cytotoxicity studies Cytopathic effects were evaluated as described previously . 24 , 45 , 46 , 47 Briefly , human OSCC cells or mouse SCC cells were seeded on six-well plates at 2 x 105 cellswell and infected with mock or G47D at an MOI of 0.01 , 0.1 , or 1.0 in triplicates ."
+              }],
+            "mention" : {
+              "neText" : "triplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicates"
+                }]
+            }
+          }, {
+            "sentence" : "In vitro cytotoxicity studies Cytopathic effects were evaluated as described previously . 24 , 45 , 46 , 47 Briefly , human OSCC cells or mouse SCC cells were seeded on six-well plates at 2 x 105 cellswell and infected with mock or G47D at an MOI of 0.01 , 0.1 , or 1.0 in triplicates .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In vitro cytotoxicity studies Cytopathic effects were evaluated as described previously . 24 , 45 , 46 , 47 Briefly , human OSCC cells or mouse SCC cells were seeded on six-well plates at 2 x 105 cellswell and infected with mock or G47D at an MOI of 0.01 , 0.1 , or 1.0 in triplicates ."
+              }],
+            "mention" : {
+              "neText" : "triplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicates"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis The Tukey-Kramer method was used to analyze the data from subcutaneous tumor models .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis The Tukey-Kramer method was used to analyze the data from subcutaneous tumor models ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey-Kramer"
+                  }],
+                "neText" : "Tukey-Kramer"
+              }]
+          }, {
+            "sentence" : "Real-time PCR data were analyzed using Mann-Whitney U test .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Real-time PCR data were analyzed using Mann-Whitney U test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }, {
+            "sentence" : "Kaplan-Meier analysis was used for survival studies , and significance was evaluated by log-rank test , except for comparing the survival between the single injection group and the triple injections group ( Figures 3F and 5B) , for which the generalized Wilcoxon test was used , with pairwise over strata .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Kaplan-Meier analysis was used for survival studies , and significance was evaluated by log-rank test , except for comparing the survival between the single injection group and the triple injections group ( Figures 3F and 5B) , for which the generalized Wilcoxon test was used , with pairwise over strata ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon test"
+                  }],
+                "neText" : "Wilcoxon test"
+              }]
+          }, {
+            "sentence" : "Students t test was used for the flow cytometric analyses.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Students t test was used for the flow cytometric analyses."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t test"
+                  }],
+                "neText" : "Students t test"
+              }]
+          }]
+      }]
+  }
+}

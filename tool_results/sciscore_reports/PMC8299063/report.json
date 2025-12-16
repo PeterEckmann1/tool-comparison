@@ -1,0 +1,504 @@
+{
+  "docIdentifier" : "PMC8299063",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Y2H assays Plasmid vectors pGAD424 and pGBT9 ( Clontech ) containing the cDNAs of BRM , SWI3A , SWI3B , BSH , and SWP73B were described previously ( Buszewicz et al. , 2016) .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Y2H assays Plasmid vectors pGAD424 and pGBT9 ( Clontech ) containing the cDNAs of BRM , SWI3A , SWI3B , BSH , and SWP73B were described previously ( Buszewicz et al. , 2016) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SWI3A"
+                }],
+              "neText" : "SWI3A"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SWI3B"
+                }],
+              "neText" : "SWI3B"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SWP73B"
+                }],
+              "neText" : "SWP73B"
+            }]
+        }, {
+          "sentence" : "The full-length cDNAs of BRD1 , BRD2 , BRD13 , SWI3C , SWI3D , SWP73A , ARP4 , and ARP7 and a cDNA encoding the N-terminal region of SYD ( 1-1500 bp of the coding sequence ) were cloned into pGAD424 and pGBT9 by ligation with T4 DNA ligase ( Thermo Scientific ) or using the SLIC protocol ( Li and Elledge , 2007) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The full-length cDNAs of BRD1 , BRD2 , BRD13 , SWI3C , SWI3D , SWP73A , ARP4 , and ARP7 and a cDNA encoding the N-terminal region of SYD ( 1-1500 bp of the coding sequence ) were cloned into pGAD424 and pGBT9 by ligation with T4 DNA ligase ( Thermo Scientific ) or using the SLIC protocol ( Li and Elledge , 2007) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SWP73A"
+                }],
+              "neText" : "SWP73A"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "The brm-1BRM-GFP and brdx3 brm-1BRM-GFP lines were constructed by crossing the pBRM:BRM-GFP line with the respective mutants .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The brm-1BRM-GFP and brdx3 brm-1BRM-GFP lines were constructed by crossing the pBRM:BRM-GFP line with the respective mutants ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "brdx3 brm-1BRM-GFP"
+                }],
+              "neText" : "brdx3 brm-1BRM-GFP"
+            }]
+        }, {
+          "sentence" : "brm-1 brdx3 mutants were identified from segregating progeny of the brdx3 brm-1BRM-GFP +- line.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "brm-1 brdx3 mutants were identified from segregating progeny of the brdx3 brm-1BRM-GFP +- line."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "brdx3 brm-1BRM-GFP +-"
+                }],
+              "neText" : "brdx3 brm-1BRM-GFP +-"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "The brm-1BRM-GFP and brdx3 brm-1BRM-GFP lines were constructed by crossing the pBRM:BRM-GFP line with the respective mutants .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The brm-1BRM-GFP and brdx3 brm-1BRM-GFP lines were constructed by crossing the pBRM:BRM-GFP line with the respective mutants ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pBRM:BRM-GFP"
+                }],
+              "neText" : "pBRM:BRM-GFP"
+            }]
+        }, {
+          "sentence" : "Y2H assays Plasmid vectors pGAD424 and pGBT9 ( Clontech ) containing the cDNAs of BRM , SWI3A , SWI3B , BSH , and SWP73B were described previously ( Buszewicz et al. , 2016) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Y2H assays Plasmid vectors pGAD424 and pGBT9 ( Clontech ) containing the cDNAs of BRM , SWI3A , SWI3B , BSH , and SWP73B were described previously ( Buszewicz et al. , 2016) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_198526",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGBT9"
+                }],
+              "neText" : "pGBT9"
+            }]
+        }, {
+          "sentence" : "The full-length cDNAs of BRD1 , BRD2 , BRD13 , SWI3C , SWI3D , SWP73A , ARP4 , and ARP7 and a cDNA encoding the N-terminal region of SYD ( 1-1500 bp of the coding sequence ) were cloned into pGAD424 and pGBT9 by ligation with T4 DNA ligase ( Thermo Scientific ) or using the SLIC protocol ( Li and Elledge , 2007) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The full-length cDNAs of BRD1 , BRD2 , BRD13 , SWI3C , SWI3D , SWP73A , ARP4 , and ARP7 and a cDNA encoding the N-terminal region of SYD ( 1-1500 bp of the coding sequence ) were cloned into pGAD424 and pGBT9 by ligation with T4 DNA ligase ( Thermo Scientific ) or using the SLIC protocol ( Li and Elledge , 2007) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGAD424"
+                }],
+              "neText" : "pGAD424"
+            }]
+        }, {
+          "sentence" : "To generate these constructs , the full-length coding sequence of each gene was PCR-amplified using primers encoding an SV40 NLS added to the N terminus to ensure nuclear localization in yeast cells ( Sun et al. , 2011 ) and cloned into the BamHISalI sites of the plasmid p426 carrying the URA3 nutritional marker to permit selection on uracil-deficient medium ( Mumberg et al. , 1995)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To generate these constructs , the full-length coding sequence of each gene was PCR-amplified using primers encoding an SV40 NLS added to the N terminus to ensure nuclear localization in yeast cells ( Sun et al. , 2011 ) and cloned into the BamHISalI sites of the plasmid p426 carrying the URA3 nutritional marker to permit selection on uracil-deficient medium ( Mumberg et al. , 1995)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p426"
+                }],
+              "neText" : "p426"
+            }]
+        }, {
+          "sentence" : "BiFC and localization analyses Full-length BRD1 , BRD2 , BRD13 , and SWI3C cDNAs were cloned into the pDONR201 vector and verified by sequencing .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "BiFC and localization analyses Full-length BRD1 , BRD2 , BRD13 , and SWI3C cDNAs were cloned into the pDONR201 vector and verified by sequencing ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pDONR201"
+                }],
+              "neText" : "pDONR201"
+            }]
+        }, {
+          "sentence" : "Corresponding entry clones were used in LR recombination reactions to transfer the DNA fragments into the gateway-compatible expression vectors pYFN43 and pYFC43 for BiFC assays ( Belda-Palazon et al. , 2012 ) or the pGWB series vector pGWB605 ( Nakamura et al. , 2010 ) for localization analyses .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Corresponding entry clones were used in LR recombination reactions to transfer the DNA fragments into the gateway-compatible expression vectors pYFN43 and pYFC43 for BiFC assays ( Belda-Palazon et al. , 2012 ) or the pGWB series vector pGWB605 ( Nakamura et al. , 2010 ) for localization analyses ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pYFN43"
+                }],
+              "neText" : "pYFN43"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGWB"
+                }],
+              "neText" : "pGWB"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGWB605"
+                }],
+              "neText" : "pGWB605"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data analysis was performed using Bioconductor packages in the R environment .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data analysis was performed using Bioconductor packages in the R environment ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Bioconductor (RRID:SCR_006442)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bioconductor"
+                }],
+              "neText" : "Bioconductor"
+            }]
+        }, {
+          "sentence" : "Differential gene expression analysis was performed with the limma package ( Ritchie et al. , 2015) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Differential gene expression analysis was performed with the limma package ( Ritchie et al. , 2015) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LIMMA (RRID:SCR_010943)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "limma"
+                }],
+              "neText" : "limma"
+            }]
+        }, {
+          "sentence" : "The AgriGO online tool was used for GO analysis ( http:systemsbiology.cau.edu.cnagriGOv2 ) ( Tian et al. , 2017)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The AgriGO online tool was used for GO analysis ( http:systemsbiology.cau.edu.cnagriGOv2 ) ( Tian et al. , 2017)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AgriGO"
+                }],
+              "neText" : "AgriGO"
+            }]
+        }, {
+          "sentence" : "The relative BRM signal was quantified with ImageJ software by comparison with the protein level on the Coomassie-stained gel ( loading control) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The relative BRM signal was quantified with ImageJ software by comparison with the protein level on the Coomassie-stained gel ( loading control) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Phylogenetic analysis Full-length amino acid sequences of yeast and human SWISNF subunits containing bromodomains, Arabidopsis BRD1, BRD2, and BRD13, and other proteins representing previously described classes of Arabidopsis bromodomain-containing proteins (Rao et al., 2014) were used for multiple sequence alignment with ClustalW (supplemental Table 4) (Larkin et al., 2007).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Phylogenetic analysis Full-length amino acid sequences of yeast and human SWISNF subunits containing bromodomains, Arabidopsis BRD1, BRD2, and BRD13, and other proteins representing previously described classes of Arabidopsis bromodomain-containing proteins (Rao et al., 2014) were used for multiple sequence alignment with ClustalW (supplemental Table 4) (Larkin et al., 2007)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ClustalW"
+                }],
+              "neText" : "ClustalW"
+            }]
+        }, {
+          "sentence" : "A neighbor-joining tree was constructed using MEGA7 software (Kumar et al., 2016), and bootstrap probability values were obtained from 1000 iterations.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A neighbor-joining tree was constructed using MEGA7 software (Kumar et al., 2016), and bootstrap probability values were obtained from 1000 iterations."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MEGA7"
+                }],
+              "neText" : "MEGA7"
+            }]
+        }, {
+          "sentence" : "Bromodomains were detected using the ScanProsite tool from the Prosite database.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bromodomains were detected using the ScanProsite tool from the Prosite database."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prosite"
+                }],
+              "neText" : "Prosite"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Each pGWB605 construct or the combinations of YFPN and YFPC fusion constructs were co-expressed in 6- to 8-week-old Nicotiana benthamiana leaves after leaf infiltration with GV3101 strains containing the tested construct combinations plus an anti-silencing Agrobacterium strain expressing P19 .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each pGWB605 construct or the combinations of YFPN and YFPC fusion constructs were co-expressed in 6- to 8-week-old Nicotiana benthamiana leaves after leaf infiltration with GV3101 strains containing the tested construct combinations plus an anti-silencing Agrobacterium strain expressing P19 ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Three technical replicates were performed for each strain in each growth assay .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three technical replicates were performed for each strain in each growth assay ."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "Three technical replicates were performed for each strain in each growth assay .",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three technical replicates were performed for each strain in each growth assay ."
+              }]
+          }, {
+            "sentence" : "Three technical replicates were performed for each strain in each growth assay .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three technical replicates were performed for each strain in each growth assay ."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Homozygous lines were identified by genotyping .",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Homozygous lines were identified by genotyping ."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Data were fitted to a linear model , and moderated t-statistics were computed by empirical Bayes moderation .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data were fitted to a linear model , and moderated t-statistics were computed by empirical Bayes moderation ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-statistics"
+                  }],
+                "neText" : "t-statistics"
+              }]
+          }]
+      }]
+  }
+}

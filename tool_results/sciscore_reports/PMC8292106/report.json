@@ -1,0 +1,497 @@
+{
+  "docIdentifier" : "PMC8292106",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Cell cycle analysis For each biological replicate , BM from 2 mice were pooled and stained with Ki-67 Monoclonal Antibody ( SolA15) , PerCP-eFluor 710 ( Thermo Fisher Scientific , catalog no. 46-5698-82 ) by following manufacturers instructions .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell cycle analysis For each biological replicate , BM from 2 mice were pooled and stained with Ki-67 Monoclonal Antibody ( SolA15) , PerCP-eFluor 710 ( Thermo Fisher Scientific , catalog no. 46-5698-82 ) by following manufacturers instructions ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ki-67"
+                }],
+              "neText" : "Ki-67"
+            }]
+        }, {
+          "sentence" : "Undiluted TNFa neutralizing antibody ( InVivoMAb anti-mouse TNFa , clone XT3.11 , cat no. BE0058 , BioXCell , West Lebanon , NH ) was stored at 4degC , and reconstituted in InVivoPure pH 8.0 dilution buffer just before use.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Undiluted TNFa neutralizing antibody ( InVivoMAb anti-mouse TNFa , clone XT3.11 , cat no. BE0058 , BioXCell , West Lebanon , NH ) was stored at 4degC , and reconstituted in InVivoPure pH 8.0 dilution buffer just before use."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse TNFa ,"
+                }],
+              "neText" : "anti-mouse TNFa ,"
+            }]
+        }, {
+          "sentence" : "Mice were treated with recombinant TNFa and anti-TNFa antibody for 2 weeks daily intraperitoneally at 0.5mgmouse and 10mgkg , respectively .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Mice were treated with recombinant TNFa and anti-TNFa antibody for 2 weeks daily intraperitoneally at 0.5mgmouse and 10mgkg , respectively ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TNFa"
+                }],
+              "neText" : "anti-TNFa"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "For certain experiments , SCL-tTA-BCR-ABL mice ( CD45.2+ immune competent , C57BL6J ) were crossed with B6-Ly5.1Cr mice ( CD45.1+ immune competent , C57BL6J Charles River , Frederick , MD ) to generate mice on the CD45.1CD45.2 C57BL6 background.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For certain experiments , SCL-tTA-BCR-ABL mice ( CD45.2+ immune competent , C57BL6J ) were crossed with B6-Ly5.1Cr mice ( CD45.1+ immune competent , C57BL6J Charles River , Frederick , MD ) to generate mice on the CD45.1CD45.2 C57BL6 background."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6J"
+                }],
+              "neText" : "C57BL6J"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "B6-Ly5.1Cr"
+                }],
+              "neText" : "B6-Ly5.1Cr"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }, {
+          "sentence" : "B6.129S2 ( C)-Cxcr2 tm1Mwm J ( mIL-8Rh- , stock no. 006848 ) mice were obtained from Jackson Laboratory ( Bar Harbor , ME) , and crossed with SCL-tTA-BCR-ABL mice to generate Cxcr2---SCL-tTABCR-ABL double mutant mice on CD45.2 background.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "B6.129S2 ( C)-Cxcr2 tm1Mwm J ( mIL-8Rh- , stock no. 006848 ) mice were obtained from Jackson Laboratory ( Bar Harbor , ME) , and crossed with SCL-tTA-BCR-ABL mice to generate Cxcr2---SCL-tTABCR-ABL double mutant mice on CD45.2 background."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "B6.129S2 ( C)-Cxcr2 tm1Mwm J"
+                }],
+              "neText" : "B6.129S2 ( C)-Cxcr2 tm1Mwm J"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data and code availability The RNA sequencing data discussed in this publication has been deposited in NCBIs Gene Expression Omnibus (GEO) and are publicly available as of the date of publication.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data and code availability The RNA sequencing data discussed in this publication has been deposited in NCBIs Gene Expression Omnibus (GEO) and are publicly available as of the date of publication."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Omnibus (GEO) (RRID:SCR_005012)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Omnibus"
+                }],
+              "neText" : "Gene Expression Omnibus"
+            }]
+        }, {
+          "sentence" : "Mononuclear cells were isolated by Ficoll-Hypaque ( Sigma Diagnostics , St . Louis , MO ) separation .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Mononuclear cells were isolated by Ficoll-Hypaque ( Sigma Diagnostics , St . Louis , MO ) separation ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "Briefly , the quality of DNA-free RNA from each sample was first assessed using the Agilent 2100 Bioanalyzer ( to confirm their RIN score >= 7) , then was reverse transcribed and first-strand cDNA synthesis and subsequent amplification was carried out with 15 cycles of Q-RT-PCR using SMART ( switching mechanism at 5 end of RNA template ) technology .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly , the quality of DNA-free RNA from each sample was first assessed using the Agilent 2100 Bioanalyzer ( to confirm their RIN score >= 7) , then was reverse transcribed and first-strand cDNA synthesis and subsequent amplification was carried out with 15 cycles of Q-RT-PCR using SMART ( switching mechanism at 5 end of RNA template ) technology ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SMART"
+                }],
+              "neText" : "SMART"
+            }]
+        }, {
+          "sentence" : "Reads were mapped to the UCSC mouse transcriptome ( genome build mm10 ) using the STAR aligner tool .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Reads were mapped to the UCSC mouse transcriptome ( genome build mm10 ) using the STAR aligner tool ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STAR"
+                }],
+              "neText" : "STAR"
+            }]
+        }, {
+          "sentence" : "Next , to calculate the transcript abundances and differential expression from the aligned reads , DESeq2 tool was used.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Next , to calculate the transcript abundances and differential expression from the aligned reads , DESeq2 tool was used."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq2"
+                }],
+              "neText" : "DESeq2"
+            }]
+        }, {
+          "sentence" : "Ligand-Receptor interaction map As previously reported ( Choi et al. , 2017) , we constructed a ligand-receptor interaction map by compiling three public databases providing ligand-receptor binding-pair annotations: ( i ) a Database of Ligand-Receptor Partners ( DLRP https:dip . doe-mbi.ucla . edudipDLRP.cgi ) that includes 462 interactions between 176 ligands and 133 receptors and ( ii ) a list of experimentally proven interactions ( in vivo andor in vitro ) extracted from BioGrid v3.2 ( https:thebiogrid.org ) include 64 interactions between 36 ligands and 107 receptors and ( iii ) an XML file containing 242 cytokine-cytokine receptor interactions ( 138 ligands and 107 receptors ) was downloaded from KEGG ( mmu: 04062 ) and parsed.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Ligand-Receptor interaction map As previously reported ( Choi et al. , 2017) , we constructed a ligand-receptor interaction map by compiling three public databases providing ligand-receptor binding-pair annotations: ( i ) a Database of Ligand-Receptor Partners ( DLRP https:dip . doe-mbi.ucla . edudipDLRP.cgi ) that includes 462 interactions between 176 ligands and 133 receptors and ( ii ) a list of experimentally proven interactions ( in vivo andor in vitro ) extracted from BioGrid v3.2 ( https:thebiogrid.org ) include 64 interactions between 36 ligands and 107 receptors and ( iii ) an XML file containing 242 cytokine-cytokine receptor interactions ( 138 ligands and 107 receptors ) was downloaded from KEGG ( mmu: 04062 ) and parsed."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BioGrid"
+                }],
+              "neText" : "BioGrid"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : ". QUANTIFICATION AND STATISTICAL ANALYSIS Unless otherwise specified, all results obtained from independent experiments are reported as means +- standard errors of means (SEM) of multiple replicates, and statistical analyses were performed using unpaired, nonparametric Students t test or 2-way analysis of variance (ANOVA), adjusting for multiple comparisons (GraphPad Prism version 7.0, La Jolla, CA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ". QUANTIFICATION AND STATISTICAL ANALYSIS Unless otherwise specified, all results obtained from independent experiments are reported as means +- standard errors of means (SEM) of multiple replicates, and statistical analyses were performed using unpaired, nonparametric Students t test or 2-way analysis of variance (ANOVA), adjusting for multiple comparisons (GraphPad Prism version 7.0, La Jolla, CA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All subjects signed an informed consent form .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All subjects signed an informed consent form ."
+              }]
+          }, {
+            "sentence" : "Sample acquisition was approved by the Institutional Review Board at the University of Alabama at Birmingham Hospital , in accordance with an assurance filed with and approved by the Department of Health and Human Services , and met all requirements of the Declaration of Helsinki.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sample acquisition was approved by the Institutional Review Board at the University of Alabama at Birmingham Hospital , in accordance with an assurance filed with and approved by the Department of Health and Human Services , and met all requirements of the Declaration of Helsinki."
+              }]
+          }, {
+            "sentence" : "All mice were maintained in Association for Assessment and Accreditation of Laboratory Animal Care ( AAALAC ) specific-pathogen-free animal care facilities , and all procedures were carried out in accordance with federal guidelines and protocols approved by the Institutional Animal Care and Use Committee at the University of Alabama at Birmingham and Cincinnati Childrens Hospital Medical Center .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All mice were maintained in Association for Assessment and Accreditation of Laboratory Animal Care ( AAALAC ) specific-pathogen-free animal care facilities , and all procedures were carried out in accordance with federal guidelines and protocols approved by the Institutional Animal Care and Use Committee at the University of Alabama at Birmingham and Cincinnati Childrens Hospital Medical Center ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "For in vitro experiments , 20,000 FACS sorted CFSEmax LTHSC from normal mice ( n = 8 ) and CML mice ( n = 13 ) were plated in gelatin-coated 96-well plates in SFEM supplemented with 10ngml murine IL-3 , IL-6 , SCF , TPO either in the presence of sorted 6C3+ cells from normal or CML mice , or the indicated chemokines , CXCL1 ( 250ngml) , CXCL5 ( 250ngml) , combination with or without CXCR2i for 3 days at 37degC , 5 CO2 .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For in vitro experiments , 20,000 FACS sorted CFSEmax LTHSC from normal mice ( n = 8 ) and CML mice ( n = 13 ) were plated in gelatin-coated 96-well plates in SFEM supplemented with 10ngml murine IL-3 , IL-6 , SCF , TPO either in the presence of sorted 6C3+ cells from normal or CML mice , or the indicated chemokines , CXCL1 ( 250ngml) , CXCL5 ( 250ngml) , combination with or without CXCR2i for 3 days at 37degC , 5 CO2 ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Equal numbers of male and female subjects were used.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Equal numbers of male and female subjects were used."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "EXPERIMENTAL MODEL AND SUBJECT DETAILS Human samples Samples were obtained from patients with CML (aged 40-65 years) in chronic phase (CP) without prior imatinib treatment seen at the University of Alabama at Birmingham Hospital.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "EXPERIMENTAL MODEL AND SUBJECT DETAILS Human samples Samples were obtained from patients with CML (aged 40-65 years) in chronic phase (CP) without prior imatinib treatment seen at the University of Alabama at Birmingham Hospital."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Mice of similar age were randomly divided into experimental groups .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice of similar age were randomly divided into experimental groups ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Investigators were blinded to the mice genotype during treatments or monitoring survival.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Investigators were blinded to the mice genotype during treatments or monitoring survival."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "The sample size was estimated based on assumptions of one-sided Type I error of 0.05 and estimates of fold change and variance from preliminary data to have > 80 power to detect differences, if present, in our groups.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The sample size was estimated based on assumptions of one-sided Type I error of 0.05 and estimates of fold change and variance from preliminary data to have > 80 power to detect differences, if present, in our groups."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "RNA sequencing mSSC , THY+ , 6C3+ , and LTHSC populations were FACS sorted from the BM ( femur and tibia ) of 2-4 mice for each sample replicate directly into RLT lysis buffer .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RNA sequencing mSSC , THY+ , 6C3+ , and LTHSC populations were FACS sorted from the BM ( femur and tibia ) of 2-4 mice for each sample replicate directly into RLT lysis buffer ."
+              }],
+            "mention" : {
+              "neText" : "replicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicate"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "All unique resources generated in this study are available from the lead contact with a completed materials transfer agreement.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All unique resources generated in this study are available from the lead contact with a completed materials transfer agreement."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "Data and code availability The RNA sequencing data discussed in this publication has been deposited in NCBIs Gene Expression Omnibus (GEO) and are publicly available as of the date of publication.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data and code availability The RNA sequencing data discussed in this publication has been deposited in NCBIs Gene Expression Omnibus (GEO) and are publicly available as of the date of publication."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }, {
+            "sentence" : "The amplified cDNA were also quantified using Qubit dsDNA HS Assay Kit ( Catalog No. Q32851 Invitrogen Life Technologies , Grand Island , NY , USA) , and all samples producing ample cDNA yields ( 1.7-7.76ngml ) were used for library construction .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The amplified cDNA were also quantified using Qubit dsDNA HS Assay Kit ( Catalog No. Q32851 Invitrogen Life Technologies , Grand Island , NY , USA) , and all samples producing ample cDNA yields ( 1.7-7.76ngml ) were used for library construction ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Q32851"
+                  }],
+                "neText" : "Q32851"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : ". QUANTIFICATION AND STATISTICAL ANALYSIS Unless otherwise specified, all results obtained from independent experiments are reported as means +- standard errors of means (SEM) of multiple replicates, and statistical analyses were performed using unpaired, nonparametric Students t test or 2-way analysis of variance (ANOVA), adjusting for multiple comparisons (GraphPad Prism version 7.0, La Jolla, CA).",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : ". QUANTIFICATION AND STATISTICAL ANALYSIS Unless otherwise specified, all results obtained from independent experiments are reported as means +- standard errors of means (SEM) of multiple replicates, and statistical analyses were performed using unpaired, nonparametric Students t test or 2-way analysis of variance (ANOVA), adjusting for multiple comparisons (GraphPad Prism version 7.0, La Jolla, CA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Survival probabilities were estimated using Kaplan-Meier analysis and significance calculated using the log-rank (Mantel-Cox) test. p values < 0.05 were considered statistically significant.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Survival probabilities were estimated using Kaplan-Meier analysis and significance calculated using the log-rank (Mantel-Cox) test. p values < 0.05 were considered statistically significant."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank"
+                  }],
+                "neText" : "log-rank"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mantel-Cox"
+                  }],
+                "neText" : "Mantel-Cox"
+              }]
+          }]
+      }]
+  }
+}

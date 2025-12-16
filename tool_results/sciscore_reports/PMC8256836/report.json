@@ -1,0 +1,201 @@
+{
+  "docIdentifier" : "PMC8256836",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Change from baseline in serum IgG , anti-dsDNA autoantibodies , complement ( C3 , C4)",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Change from baseline in serum IgG , anti-dsDNA autoantibodies , complement ( C3 , C4)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-dsDNA"
+                }],
+              "neText" : "anti-dsDNA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C3"
+                }],
+              "neText" : "C3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C4"
+                }],
+              "neText" : "C4"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All data summaries and analyses were performed using SAS software, V.9.3 or higher (SAS Institute).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All data summaries and analyses were performed using SAS software, V.9.3 or higher (SAS Institute)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS"
+                }],
+              "neText" : "SAS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients Eligible patients had completed study BEL113750 or the open-label phase of study BEL112341 in study centres in Japan or South Korea .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients Eligible patients had completed study BEL113750 or the open-label phase of study BEL112341 in study centres in Japan or South Korea ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Patients were scheduled to receive their first belimumab dose 4 weeks ( range 2-8 weeks ) after their last IV dose in study BEL113750 or the first dose of IV belimumab 1 week ( +-1 week ) after the last dose of SC belimumab in study BEL112341 .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were scheduled to receive their first belimumab dose 4 weeks ( range 2-8 weeks ) after their last IV dose in study BEL113750 or the first dose of IV belimumab 1 week ( +-1 week ) after the last dose of SC belimumab in study BEL112341 ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "28 Eligible patients entering this study received belimumab 10 mgkg IV infused over 1 hour every 28 days for up to 7 years plus standard therapy , irrespective of their randomised treatment in the parent studies .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "28 Eligible patients entering this study received belimumab 10 mgkg IV infused over 1 hour every 28 days for up to 7 years plus standard therapy , irrespective of their randomised treatment in the parent studies ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Blinding BEL113750 study blinding was maintained by the sponsor until all double-blind data were locked , and clinical sites remained blinded to BEL113750 treatment until the double-blind results were publicly disclosed.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Blinding BEL113750 study blinding was maintained by the sponsor until all double-blind data were locked , and clinical sites remained blinded to BEL113750 treatment until the double-blind results were publicly disclosed."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Protocol Information",
+        "srList" : [{
+            "sentence" : "ClinicalTrials . gov identifier NCT01597622 ) plus standard therapy conducted at 27 study centres across Japan and South Korea in patients with SLE who completed the parent studies , the 52-week double-blind phase of the BEL113750 ( NCT01345253 ) study receiving IV belimumab in Japan and South Korea,24 or the subcutaneous ( SC ) open-label phase of the BEL112341 ( NCT01484496 ) study in Japan ( figure 1).",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "ClinicalTrials . gov identifier NCT01597622 ) plus standard therapy conducted at 27 study centres across Japan and South Korea in patients with SLE who completed the parent studies , the 52-week double-blind phase of the BEL113750 ( NCT01345253 ) study receiving IV belimumab in Japan and South Korea,24 or the subcutaneous ( SC ) open-label phase of the BEL112341 ( NCT01484496 ) study in Japan ( figure 1)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT01597622"
+                  }],
+                "neText" : "NCT01597622"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT01345253"
+                  }],
+                "neText" : "NCT01345253"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "warning" : "Warning: study registration date November 28, 2011 is after study start date November 16, 2011",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT01484496"
+                  }],
+                "neText" : "NCT01484496"
+              }]
+          }]
+      }]
+  }
+}

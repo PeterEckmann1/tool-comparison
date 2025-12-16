@@ -1,0 +1,177 @@
+{
+  "docIdentifier" : "PMC8891999",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data analyses were performed using SPSS software version 20.0 (IBM, Chicago, USA) and R version 4.0.4 (R Development Core Team).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data analyses were performed using SPSS software version 20.0 (IBM, Chicago, USA) and R version 4.0.4 (R Development Core Team)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "R Project for Statistical Computing, RRID:SCR_001905",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "R Development Core"
+                }],
+              "neText" : "R Development Core"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Fig. 1 Timeline of sample collection from poultry and swine workers, and the general population, 2015–16. Fig. 1 The protocol of blood sampling and face-to-face interview were approved by the ethics committee of School of Public Health, Sun Yat-Sen University (No. 2014–018).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fig. 1 Timeline of sample collection from poultry and swine workers, and the general population, 2015–16. Fig. 1 The protocol of blood sampling and face-to-face interview were approved by the ethics committee of School of Public Health, Sun Yat-Sen University (No. 2014–018)."
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained prior to blood sample collection and interviews.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained prior to blood sample collection and interviews."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were: 1) had been working or living in settings with swine exposure (swine farm, live pig market, pig slaughterhouse or pork market) for more than 10 weeks, and exposed to pigs for more than 5 h a week; 2) age ≥ 16 years.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were: 1) had been working or living in settings with swine exposure (swine farm, live pig market, pig slaughterhouse or pork market) for more than 10 weeks, and exposed to pigs for more than 5 h a week; 2) age "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : " 16 years."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "HEV serological results were first studied as dichotomous outcomes using two-sided Chi-square tests or the Fisher's exact test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "HEV serological results were first studied as dichotomous outcomes using two-sided Chi-square tests or the Fisher's exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-square tests"
+                  }],
+                "neText" : "Chi-square tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher's exact test"
+                  }],
+                "neText" : "Fisher's exact test"
+              }]
+          }]
+      }]
+  }
+}

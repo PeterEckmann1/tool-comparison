@@ -1,0 +1,144 @@
+{
+  "docIdentifier" : "PMC8232918",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Simultaneously , water samples were collected from different depths to determine the pCH4 using the headspace extraction method ( 27 ) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Simultaneously , water samples were collected from different depths to determine the pCH4 using the headspace extraction method ( 27 ) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_217331",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCH4"
+                }],
+              "neText" : "pCH4"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Measurements for both methods were discarded when the R 2 of the linear relation of pCO2 inside the chamber over time was lower than 0.9.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Measurements for both methods were discarded when the R 2 of the linear relation of pCO2 inside the chamber over time was lower than 0.9."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Three measurements were carried out for each location.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three measurements were carried out for each location."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The intakes of both dams are above the hypolimnion , at a depth of about 15 to 20 m .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The intakes of both dams are above the hypolimnion , at a depth of about 15 to 20 m ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "During each of the 10,000 iterations, we computed the arithmetic mean of emission values that were randomly resampled (with replacement) from the artificial datasets.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "During each of the 10,000 iterations, we computed the arithmetic mean of emission values that were randomly resampled (with replacement) from the artificial datasets."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analyses Mann-Whitney U tests (two-sided) were used for comparisons between fluxes due to the non-normal distribution of the obtained data.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analyses Mann-Whitney U tests (two-sided) were used for comparisons between fluxes due to the non-normal distribution of the obtained data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U tests"
+                  }],
+                "neText" : "Mann-Whitney U tests"
+              }]
+          }]
+      }]
+  }
+}

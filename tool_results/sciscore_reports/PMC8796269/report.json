@@ -1,0 +1,182 @@
+{
+  "docIdentifier" : "PMC8796269",
+  "sciscore" : 2,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Method This national data linkage study included consecutive cases captured in each of the three health datasets between 01 July 2016 and 30 November 2018.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Method This national data linkage study included consecutive cases captured in each of the three health datasets between 01 July 2016 and 30 November 2018."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "St John dataset: from the raw St John dataset (789 466 records), duplicate entries and multiple call-outs of the same episode were excluded (n=25 865).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "St John dataset: from the raw St John dataset (789 466 records), duplicate entries and multiple call-outs of the same episode were excluded (n=25 865)."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "10.1136/openhrt-2021-001868.supp1",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "10.1136/openhrt-2021-001868.supp1"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "10.1136/openhrt-2021-001868"
+                  }],
+                "neText" : "10.1136/openhrt-2021-001868"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Comparison between groups (St John initial diagnosis or St John attendance) was done using Pearson’s Χ2 test for categorical data or non-parametric Mann-Whitney U test for continuous variables as the data were not normally distributed.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparison between groups (St John initial diagnosis or St John attendance) was done using Pearson’s "
+              }, {
+                "f" : "symbol",
+                "c" : "Χ"
+              }, {
+                "f" : "default",
+                "c" : "2 test for categorical data or non-parametric Mann-Whitney U test for continuous variables as the data were not normally distributed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson’s "
+                  }, {
+                    "f" : "symbol",
+                    "c" : "Χ"
+                  }, {
+                    "f" : "default",
+                    "c" : "2 test"
+                  }],
+                "neText" : "Pearson’s Χ2 test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }, {
+            "sentence" : "The significance of the difference between the final diagnosis of STEMI according to the initial St John clinical impression and method of transport to hospital was tested using log-rank test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The significance of the difference between the final diagnosis of STEMI according to the initial St John clinical impression and method of transport to hospital was tested using log-rank test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }]
+      }]
+  }
+}

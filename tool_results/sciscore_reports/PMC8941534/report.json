@@ -1,0 +1,255 @@
+{
+  "docIdentifier" : "PMC8941534",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Antibodies The following commercial antibodies were used: CK-1e (1:200, mouse monoclonal cat. no. sc-373912 Santa Cruz Biotechnology, Inc.), DEC1 (1:400 rabbit polyclonal cat. no. NB100-1800 Novus Biologicals, LLC), PCNA (1:1,000 mouse monoclonal cat. no. sc-56), HCAM (CD44 1:200 mouse monoclonal sc-7297 both from Santa Cruz Biotechnology, Inc.), FLAG (1:1,000 mouse monoclonal cat. no. F3165) and actin (1:10,000 mouse monoclonal, A5441 both from Sigma-Aldrich Merck KGaA).",
+          "rowSpan" : 5,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibodies The following commercial antibodies were used: CK-1e (1:200, mouse monoclonal cat. no. sc-373912 Santa Cruz Biotechnology, Inc.), DEC1 (1:400 rabbit polyclonal cat. no. NB100-1800 Novus Biologicals, LLC), PCNA (1:1,000 mouse monoclonal cat. no. sc-56), HCAM (CD44 1:200 mouse monoclonal sc-7297 both from Santa Cruz Biotechnology, Inc.), FLAG (1:1,000 mouse monoclonal cat. no. F3165) and actin (1:10,000 mouse monoclonal, A5441 both from Sigma-Aldrich Merck KGaA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(Santa Cruz Biotechnology Cat# sc-101023, RRID:AB_2065356)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DEC1"
+                }],
+              "neText" : "DEC1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PCNA"
+                }],
+              "neText" : "PCNA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD44"
+                }],
+              "neText" : "CD44"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FLAG"
+                }],
+              "neText" : "FLAG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "actin"
+                }],
+              "neText" : "actin"
+            }]
+        }, {
+          "sentence" : "Anti-rabbit and mouse HRP IgG secondary antibodies (1:5,000 cat. nos. 17502 and 17601, respectively) were purchased from Immuno-Biological Laboratories, Co., Ltd.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Anti-rabbit and mouse HRP IgG secondary antibodies (1:5,000 cat. nos. 17502 and 17601, respectively) were purchased from Immuno-Biological Laboratories, Co., Ltd."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-rabbit"
+                }],
+              "neText" : "Anti-rabbit"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "CA9-22 cells stably overexpressing DEC1 (CA9-22DEC1) and control empty vector-transfected cells (CA9-22vector) were evaluated for stable cells as previously described (21).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "CA9-22 cells stably overexpressing DEC1 (CA9-22DEC1) and control empty vector-transfected cells (CA9-22vector) were evaluated for stable cells as previously described (21)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CA9-22"
+                }],
+              "neText" : "CA9-22"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The percentage of intensity score was calculated using Microsoft excel.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The percentage of intensity score was calculated using Microsoft excel."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel (RRID:SCR_016137)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft excel"
+                }],
+              "neText" : "Microsoft excel"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The present study was approved (approval no. 1715) by the Research Ethics Committee of Wakayama Medical University and histological specimens were retrieved from Wakayama Medical University hospital archives.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The present study was approved (approval no. 1715) by the Research Ethics Committee of Wakayama Medical University and histological specimens were retrieved from Wakayama Medical University hospital archives."
+              }]
+          }, {
+            "sentence" : "Oral informed consents were provided by all patients for the use of their tissues.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Oral informed consents were provided by all patients for the use of their tissues."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "A total of 20 cases of ASE and 12 cases of CIS were selected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 20 cases of ASE and 12 cases of CIS were selected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Three independent biological replicates were performed.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three independent biological replicates were performed."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "Three independent biological replicates were performed.",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three independent biological replicates were performed."
+              }]
+          }, {
+            "sentence" : "Three independent biological replicates were performed.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three independent biological replicates were performed."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

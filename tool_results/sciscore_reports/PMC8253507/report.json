@@ -1,0 +1,269 @@
+{
+  "docIdentifier" : "PMC8253507",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Methods Dataset collection The gene expression profiles GSE53424 and GSE99142 based on GPL10558 (Illumina HumanHT-12 V4.0 expression bead chip) were acquired from the Gene Expression Ominibus (GEO) database (https://www.ncbi.nlm.nih.gov/geo/).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Methods Dataset collection The gene expression profiles GSE53424 and GSE99142 based on GPL10558 (Illumina HumanHT-12 V4.0 expression bead chip) were acquired from the Gene Expression Ominibus (GEO) database (https://www.ncbi.nlm.nih.gov/geo/)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Ominibus"
+                }],
+              "neText" : "Gene Expression Ominibus"
+            }]
+        }, {
+          "sentence" : "Gene ontology enrichment and Kyoto Encyclopedia of Genes and Genomes pathway analysis We used Database for Annotation, Visualization and Integrated Discovery (DAVID) 6.8 (https://david.ncifcrf.gov/) to do the gene ontology enrichment and Kyoto Encyclopedia of Genes and Genomes",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gene ontology enrichment and Kyoto Encyclopedia of Genes and Genomes pathway analysis We used Database for Annotation, Visualization and Integrated Discovery (DAVID) 6.8 (https://david.ncifcrf.gov/) to do the gene ontology enrichment and Kyoto Encyclopedia of Genes and Genomes"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DAVID (RRID:SCR_001881)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }, {
+          "sentence" : "( KEGG ) pathway analysis to investigate the DEGs at the molecular and functional levels .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "( KEGG ) pathway analysis to investigate the DEGs at the molecular and functional levels ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "KEGG (RRID:SCR_012773)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "Protein–protein interaction network analysis Using the online database , STRING ( STRING is part of the ELIXIR infrastructure: it is one of ELIXIR’s; http://string-db.org) , the protein–protein interactions ( PPIs ) of the DEGs were selected with score ( median confidence ) >0.4 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein–protein interaction network analysis Using the online database , STRING ( STRING is part of the ELIXIR infrastructure: it is one of ELIXIR’s; http://string-db.org) , the protein–protein interactions ( PPIs ) of the DEGs were selected with score ( median confidence ) >0.4 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "STRING (RRID:SCR_005223)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }]
+        }, {
+          "sentence" : "The results obtained by PPI network analysis were further module analyzed using Cytoscape Software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The results obtained by PPI network analysis were further module analyzed using Cytoscape Software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }, {
+          "sentence" : "All data were statistically analyzed using SPSS software , version 23.0 ( IBM Corp , Armonk",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All data were statistically analyzed using SPSS software , version 23.0 ( IBM Corp , Armonk"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Methods Dataset collection The gene expression profiles GSE53424 and GSE99142 based on GPL10558 (Illumina HumanHT-12 V4.0 expression bead chip) were acquired from the Gene Expression Ominibus (GEO) database (https://www.ncbi.nlm.nih.gov/geo/).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Dataset collection The gene expression profiles GSE53424 and GSE99142 based on GPL10558 (Illumina HumanHT-12 V4.0 expression bead chip) were acquired from the Gene Expression Ominibus (GEO) database (https://www.ncbi.nlm.nih.gov/geo/)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE53424"
+                  }],
+                "neText" : "GSE53424"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE99142"
+                  }],
+                "neText" : "GSE99142"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis Statistical significance of the difference between two groups was determined using Student’s t-tests .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Statistical significance of the difference between two groups was determined using Student’s t-tests ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Student’s t-tests"
+                  }],
+                "neText" : "Student’s t-tests"
+              }]
+          }]
+      }]
+  }
+}

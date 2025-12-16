@@ -1,0 +1,154 @@
+{
+  "docIdentifier" : "PMC8113929",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "A P-value < 0.05 was considered to be statistically significant and all statistical analyses were performed with SPSS software, version 22.0 (IBM, Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A P-value < 0.05 was considered to be statistically significant and all statistical analyses were performed with SPSS software, version 22.0 (IBM, Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Patients and methods Study population The present retrospective comparative study complied with National Institutes of Health guidelines and was approved by the Clinical Research Ethics Committee of Tongji Hospital Affiliated to Tongji University (Ethical permit number: 2016-LC-008).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients and methods Study population The present retrospective comparative study complied with National Institutes of Health guidelines and was approved by the Clinical Research Ethics Committee of Tongji Hospital Affiliated to Tongji University (Ethical permit number: 2016-LC-008)."
+              }]
+          }, {
+            "sentence" : "All participants provided written informed consent for study inclusion.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants provided written informed consent for study inclusion."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The exclusion criteria were as follows: (1) thrombosis in the LA or LA appendage (2) moderate to severe rheumatic mitral stenosis (3) mechanical mitral valve (4) severe bloodstream infection (5) severe heart failure with New York Heart Association clinical classification stage III-IV (6) severe hepatic or renal insufficiency (7) advanced stage cancer or (8) pregnancy.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The exclusion criteria were as follows: (1) thrombosis in the LA or LA appendage (2) moderate to severe rheumatic mitral stenosis (3) mechanical mitral valve (4) severe bloodstream infection (5) severe heart failure with New York Heart Association clinical classification stage III-IV (6) severe hepatic or renal insufficiency (7) advanced stage cancer or (8) pregnancy."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Existing databases were then searched for patients who met the following criteria for study inclusion: (1) symptomatic PAF that failed to respond to medication (2) aged between 18 and 80 years and (3) received radiofrequency catheter ablation therapy.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Existing databases were then searched for patients who met the following criteria for study inclusion: (1) symptomatic PAF that failed to respond to medication (2) aged between 18 and 80 years and (3) received radiofrequency catheter ablation therapy."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Categorical variables were compared using kh2-test, the CHA2DS2-VASc and HAS-BLED scores were compared using Mann-Whitney U-test, and Students t-test was used to analyse the differences in continuous variables between patients with and without AF recurrence.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Categorical variables were compared using kh2-test, the CHA2DS2-VASc and HAS-BLED scores were compared using Mann-Whitney U-test, and Students t-test was used to analyse the differences in continuous variables between patients with and without AF recurrence."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U-test"
+                  }],
+                "neText" : "Mann-Whitney U-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

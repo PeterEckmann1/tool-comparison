@@ -1,0 +1,1037 @@
+{
+  "docIdentifier" : "PMC8886052",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Mouse monoclonal anti-Pax7 DSHB cat# PAX7; RRID: AB_528428 Rabbit polyclonal anti-Pax7 Invitrogen cat# PA1-117; RRID: AB_2539886 Rabbit monoclonal anti-MyoD Abcam cat# ab133627; RRID: AB_2890928 Mouse monoclonal anti-Myogenin Santa Cruz Biotechnology cat# sc-12732; RRID: AB_627980 Mouse monoclonal anti-Uhrf1 Santa Cruz Biotechnology cat# sc-373750; RRID: AB_10947236 Rat monoclonal anti-Uhrf1 MBL cat# D289-3; RRID: AB_10597260 Mouse monoclonal anti-Myh1 DSHB cat# MF20; RRID: AB_2147781 Mouse monoclonal anti-Myh3 DSHB cat# F1.652; RRID: AB_528358 Rabbit polyclonal anti-Ki67 Novus cat# NB500-170; RRID: AB_10001977 Rabbit monoclonal anti-Gapdh Cell Signaling Technology cat# 5174; RRID: AB_10622025 Rat monoclonal anti-CD31-FITC BioLegend cat# 102406; RRID: AB_312901 Rat monoclonal anti-CD45-FITC BioLegend cat# 103108; RRID: AB_312973 Rat monoclonal anti-Sca1-APC BioLegend cat# 122512; RRID: AB_756197 Rat monoclonal anti-Vcam1-PE Invitrogen cat# 12-1061-82; RRID: AB_2572573 Alexa fluor 568 goat anti-mouse IgG1 Invitrogen cat# A-21124; RRID: AB_2535766 Alexa fluor 488 goat anti-rabbit IgG Invitrogen cat# A-11008; RRID:AB_143165 Alexa fluor 488 goat anti-rat IgG Invitrogen cat# A-11006; RRID: AB_2534074 anti-mouse immunoglobulin/HRP Promega cat# W4021; RRID: AB_430834 anti-rabbit immunoglobulin/HRP Agilent cat# P0448; RRID: AB_2617138 Chemicals, peptides, and recombinant proteins Cardiotoxin Latoxan cat# L8102 Tamoxifen Sigma cat# T5648 Corn oil Sigma cat# C8267 Collagenase type 2 Worthington cat# LS004177 Dispase Gibco cat# 17105-041 1% chicken embryo extract US Biological cat# C3999 bFGF Wako cat# 062-06661 EdU Invitrogen cat# A10044 Critical commercial assays ECL Prime Western Blotting Detection Reagents Amersham cat# RPN2232 Lipofectamine RNAiMAX Thermo Scientific cat# 13778-075 Click-iT EdU Imaging Kits Invitrogen cat# C10340 RNeasy Plus Micro Kit Qiagen cat# 74034 PrimeScript Takara cat# RR036A TB Green Premix Ex Taq II Takara cat# RR820S Agilent 2100 Bioanalyzer with RNA 6000 Pico Kit Agilent cat# 5067-1513 NEBNext Ultra II Directional RNA Library Prep Kit for Illumina NEB cat# E7760S NEBNext rRNA Depletion Kit NEB cat# E6310L NEBNext Multiplex Oligos for Illumina NEB cat# E7335S Agilent 2100 Bioanalyzer with DNA 1000 kit Agilent cat# 5067-1504 KAPA Library Quantification Kits KAPA Bio cat# KK4824 NucleoSpin Tissue Kit MACHEREY-NAGEL cat# 740952 EpiXplore Methylated DNA Enrichment Kit Clontech cat# PT5034-2 DNA SMART ChIP-Seq Kit Takara cat# 634865 E-Gel 2% SizeSelect electrophoresis Invitrogen cat# G661012 Agilent 2100 Bioanalyzer with the High Sensitivity DNA kit Agilent cat# 5067-4626 Deposited data Raw and analyzed data This paper GEO: GSE169193 Mouse reference genome GRCm38, PRI GENCODE https://www.gencodegenes.org/mouse/ Proximal enhancer-like (pELS) bed file Consortium et al., 2020 https://screen.encodeproject.org H3K4me1 peaks of MC3T3-E1 Oki et al., 2018 http://chip-atlas.org Experimental models: Cell lines Mouse: C2C12 cells ATCC CRL-1772 Experimental models: Organisms/strains Mouse: Pax7CE/+: B6;129-Pax7tm2.1(cre/ERT2)Fan/J The Jackson Laboratory JAX: 012476 Mouse: Uhrf1fl/fl: B6Dnk; B6N-Uhrf1<tm1a(EUCOMM)Wtsi>/Ieg The EUCOMM program MGI:4434100 Oligonucleotides non-targeting siRNA Dharmacon cat# D-001810-10-05 siRNA targeting Sox9 Dharmacon cat# L-059108-01-0005 Primers for Uhrf1, see Table S2 This paper NA Primers for MyoD1, see Table S2 This paper NA Primers for Myog, see Table S2 This paper NA Primers for Sox9, see Table S2 This paper NA Software and algorithms Fiji (v2.3.0) Schneider et al., 2012 https://imagej.net/Fiji TrimGalore (v0.6.6) https://github.com/FelixKrueger/TrimGalore http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ HISAT2 (v2.2.1) Kim et al., 2019 http://daehwankimlab.github.io/hisat2/ DESeq2 (v1.30.1) Love et al., 2014 https://bioconductor.org/packages/release/bioc/html/DESeq2.html Metascape Zhou et al., 2019 http://metascape.org STAR (v2.7.6a) Dobin et al., 2013 https://github.com/alexdobin/STAR featureCounts (v2.0.1) Liao et al., 2014 http://subread.sourceforge.net MACS2 (v2.2.6) Zhang et al., 2008 https://github.com/macs3-project/MACS/tree/release_v2.2.6 ChIPpeakAnno (v3.24.2) Zhu et al., 2010 https://bioconductor.org/packages/release/bioc/html/ChIPpeakAnno.html Prism (v9.3.1) GraphPad https://www.graphpad.com/scientific-software/prism/ R (v4.0.5) R Core Team 2020 https://www.r-project.org/ Integrative Genomics Viewer (v2.11.4) Robinson et al., 2011 https://igv.org FlowJo (v10.1r7) BD Life Sciences https://www.flowjo.com Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Yuuki Imai (y-imai@m.ehime-u.ac.jp).",
+          "rowSpan" : 28,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Mouse monoclonal anti-Pax7 DSHB cat# PAX7; RRID: AB_528428 Rabbit polyclonal anti-Pax7 Invitrogen cat# PA1-117; RRID: AB_2539886 Rabbit monoclonal anti-MyoD Abcam cat# ab133627; RRID: AB_2890928 Mouse monoclonal anti-Myogenin Santa Cruz Biotechnology cat# sc-12732; RRID: AB_627980 Mouse monoclonal anti-Uhrf1 Santa Cruz Biotechnology cat# sc-373750; RRID: AB_10947236 Rat monoclonal anti-Uhrf1 MBL cat# D289-3; RRID: AB_10597260 Mouse monoclonal anti-Myh1 DSHB cat# MF20; RRID: AB_2147781 Mouse monoclonal anti-Myh3 DSHB cat# F1.652; RRID: AB_528358 Rabbit polyclonal anti-Ki67 Novus cat# NB500-170; RRID: AB_10001977 Rabbit monoclonal anti-Gapdh Cell Signaling Technology cat# 5174; RRID: AB_10622025 Rat monoclonal anti-CD31-FITC BioLegend cat# 102406; RRID: AB_312901 Rat monoclonal anti-CD45-FITC BioLegend cat# 103108; RRID: AB_312973 Rat monoclonal anti-Sca1-APC BioLegend cat# 122512; RRID: AB_756197 Rat monoclonal anti-Vcam1-PE Invitrogen cat# 12-1061-82; RRID: AB_2572573 Alexa fluor 568 goat anti-mouse IgG1 Invitrogen cat# A-21124; RRID: AB_2535766 Alexa fluor 488 goat anti-rabbit IgG Invitrogen cat# A-11008; RRID:AB_143165 Alexa fluor 488 goat anti-rat IgG Invitrogen cat# A-11006; RRID: AB_2534074 anti-mouse immunoglobulin/HRP Promega cat# W4021; RRID: AB_430834 anti-rabbit immunoglobulin/HRP Agilent cat# P0448; RRID: AB_2617138 Chemicals, peptides, and recombinant proteins Cardiotoxin Latoxan cat# L8102 Tamoxifen Sigma cat# T5648 Corn oil Sigma cat# C8267 Collagenase type 2 Worthington cat# LS004177 Dispase Gibco cat# 17105-041 1% chicken embryo extract US Biological cat# C3999 bFGF Wako cat# 062-06661 EdU Invitrogen cat# A10044 Critical commercial assays ECL Prime Western Blotting Detection Reagents Amersham cat# RPN2232 Lipofectamine RNAiMAX Thermo Scientific cat# 13778-075 Click-iT EdU Imaging Kits Invitrogen cat# C10340 RNeasy Plus Micro Kit Qiagen cat# 74034 PrimeScript Takara cat# RR036A TB Green Premix Ex Taq II Takara cat# RR820S Agilent 2100 Bioanalyzer with RNA 6000 Pico Kit Agilent cat# 5067-1513 NEBNext Ultra II Directional RNA Library Prep Kit for Illumina NEB cat# E7760S NEBNext rRNA Depletion Kit NEB cat# E6310L NEBNext Multiplex Oligos for Illumina NEB cat# E7335S Agilent 2100 Bioanalyzer with DNA 1000 kit Agilent cat# 5067-1504 KAPA Library Quantification Kits KAPA Bio cat# KK4824 NucleoSpin Tissue Kit MACHEREY-NAGEL cat# 740952 EpiXplore Methylated DNA Enrichment Kit Clontech cat# PT5034-2 DNA SMART ChIP-Seq Kit Takara cat# 634865 E-Gel 2% SizeSelect electrophoresis Invitrogen cat# G661012 Agilent 2100 Bioanalyzer with the High Sensitivity DNA kit Agilent cat# 5067-4626 Deposited data Raw and analyzed data This paper GEO: GSE169193 Mouse reference genome GRCm38, PRI GENCODE https://www.gencodegenes.org/mouse/ Proximal enhancer-like (pELS) bed file Consortium et al., 2020 https://screen.encodeproject.org H3K4me1 peaks of MC3T3-E1 Oki et al., 2018 http://chip-atlas.org Experimental models: Cell lines Mouse: C2C12 cells ATCC CRL-1772 Experimental models: Organisms/strains Mouse: Pax7CE/+: B6;129-Pax7tm2.1(cre/ERT2)Fan/J The Jackson Laboratory JAX: 012476 Mouse: Uhrf1fl/fl: B6Dnk; B6N-Uhrf1<tm1a(EUCOMM)Wtsi>/Ieg The EUCOMM program MGI:4434100 Oligonucleotides non-targeting siRNA Dharmacon cat# D-001810-10-05 siRNA targeting Sox9 Dharmacon cat# L-059108-01-0005 Primers for Uhrf1, see Table S2 This paper NA Primers for MyoD1, see Table S2 This paper NA Primers for Myog, see Table S2 This paper NA Primers for Sox9, see Table S2 This paper NA Software and algorithms Fiji (v2.3.0) Schneider et al., 2012 https://imagej.net/Fiji TrimGalore (v0.6.6) https://github.com/FelixKrueger/TrimGalore http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ HISAT2 (v2.2.1) Kim et al., 2019 http://daehwankimlab.github.io/hisat2/ DESeq2 (v1.30.1) Love et al., 2014 https://bioconductor.org/packages/release/bioc/html/DESeq2.html Metascape Zhou et al., 2019 http://metascape.org STAR (v2.7.6a) Dobin et al., 2013 https://github.com/alexdobin/STAR featureCounts (v2.0.1) Liao et al., 2014 http://subread.sourceforge.net MACS2 (v2.2.6) Zhang et al., 2008 https://github.com/macs3-project/MACS/tree/release_v2.2.6 ChIPpeakAnno (v3.24.2) Zhu et al., 2010 https://bioconductor.org/packages/release/bioc/html/ChIPpeakAnno.html Prism (v9.3.1) GraphPad https://www.graphpad.com/scientific-software/prism/ R (v4.0.5) R Core Team 2020 https://www.r-project.org/ Integrative Genomics Viewer (v2.11.4) Robinson et al., 2011 https://igv.org FlowJo (v10.1r7) BD Life Sciences https://www.flowjo.com Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Yuuki Imai (y-imai@m.ehime-u.ac.jp)."
+            }],
+          "mentions" : [{
+              "source" : "DSHB",
+              "rrid" : "(DSHB Cat# pax7, RRID:AB_528428)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Mouse monoclonal anti-Pax7 PAX7;"
+                }],
+              "neText" : "Mouse monoclonal anti-Pax7 PAX7;"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# PA1-117, RRID:AB_2539886)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "polyclonal anti-Pax7"
+                }],
+              "neText" : "polyclonal anti-Pax7"
+            }, {
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab133627, RRID:AB_2890928)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-MyoD"
+                }],
+              "neText" : "anti-MyoD"
+            }, {
+              "source" : "Santa Cruz Biotechnology",
+              "rrid" : "(Santa Cruz Biotechnology Cat# sc-12732, RRID:AB_627980)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Myogenin"
+                }],
+              "neText" : "anti-Myogenin"
+            }, {
+              "source" : "Santa Cruz Biotechnology",
+              "rrid" : "(Santa Cruz Biotechnology Cat# sc-373750, RRID:AB_10947236)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Uhrf1"
+                }],
+              "neText" : "anti-Uhrf1"
+            }, {
+              "source" : "",
+              "rrid" : "(MBL International Cat# D289-3, RRID:AB_10597260)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "DSHB",
+              "rrid" : "(DSHB Cat# MF 20, RRID:AB_2147781)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Mouse"
+                }],
+              "neText" : "Mouse"
+            }, {
+              "source" : "",
+              "rrid" : "(DSHB Cat# F1.652, RRID:AB_528358)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "Novus",
+              "rrid" : "(Novus Cat# NB500-170, RRID:AB_10001977)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Ki67"
+                }],
+              "neText" : "anti-Ki67"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Gapdh"
+                }],
+              "neText" : "anti-Gapdh"
+            }, {
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 5174, RRID:AB_10622025)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Gapdh"
+                }],
+              "neText" : "anti-Gapdh"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD31-FITC"
+                }],
+              "neText" : "anti-CD31-FITC"
+            }, {
+              "source" : "BioLegend",
+              "rrid" : "(BioLegend Cat# 102406, RRID:AB_312901)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD31-FITC"
+                }],
+              "neText" : "anti-CD31-FITC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD45-FITC"
+                }],
+              "neText" : "anti-CD45-FITC"
+            }, {
+              "source" : "BioLegend",
+              "rrid" : "(BioLegend Cat# 103108, RRID:AB_312973)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD45-FITC"
+                }],
+              "neText" : "anti-CD45-FITC"
+            }, {
+              "source" : "BioLegend",
+              "rrid" : "(BioLegend Cat# 122512, RRID:AB_756197)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Sca1-APC"
+                }],
+              "neText" : "anti-Sca1-APC"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# 12-1061-82, RRID:AB_2572573)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "monoclonal anti-Vcam1-PE"
+                }],
+              "neText" : "monoclonal anti-Vcam1-PE"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# A-21124, RRID:AB_2535766)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Alexa fluor goat anti-mouse"
+                }],
+              "neText" : "Alexa fluor goat anti-mouse"
+            }, {
+              "source" : "Molecular Probes",
+              "rrid" : "(Molecular Probes Cat# A-11008, RRID:AB_143165)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "488 goat"
+                }],
+              "neText" : "488 goat"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# A-11006, RRID:AB_2534074)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "488 goat"
+                }],
+              "neText" : "488 goat"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }, {
+              "source" : "Promega",
+              "rrid" : "(Promega Cat# W4021, RRID:AB_430834)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }, {
+              "source" : "Agilent",
+              "rrid" : "(Agilent Cat# P0448, RRID:AB_2617138)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "immunoglobulin/HRP"
+                }],
+              "neText" : "immunoglobulin/HRP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Uhrf1"
+                }],
+              "neText" : "Uhrf1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MyoD1"
+                }],
+              "neText" : "MyoD1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sox9"
+                }],
+              "neText" : "Sox9"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STAR"
+                }],
+              "neText" : "STAR"
+            }]
+        }, {
+          "sentence" : "The antibodies used for IF staining were anti-Pax7 (DSHB, cat# PAX7, RRID: AB_528428; 1/5 dilution; or Invitrogen, cat# PA1-117, RRID: AB_2539886; 1/100 dilution), anti-MyoD (Abcam, cat# ab133627, RRID: AB_2890928; 1/100 dilution), anti-Uhrf1 (Santa Cruz Biotechnology, cat# sc-373750, RRID: AB_10947236; 1/50 dilution), anti-Myh3 (DSHB, cat# F1.652, RRID: AB_528358; 1/20 dilution), Alexa fluor 568 goat anti-mouse IgG1 (Invitrogen, cat# A-21124; RRID: AB_2535766; 1/1000 dilution), and Alexa fluor 488 goat anti-rabbit IgG (Invitrogen, cat# A-11008; RRID:AB_143165; 1/1000 dilution).",
+          "rowSpan" : 5,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The antibodies used for IF staining were anti-Pax7 (DSHB, cat# PAX7, RRID: AB_528428; 1/5 dilution; or Invitrogen, cat# PA1-117, RRID: AB_2539886; 1/100 dilution), anti-MyoD (Abcam, cat# ab133627, RRID: AB_2890928; 1/100 dilution), anti-Uhrf1 (Santa Cruz Biotechnology, cat# sc-373750, RRID: AB_10947236; 1/50 dilution), anti-Myh3 (DSHB, cat# F1.652, RRID: AB_528358; 1/20 dilution), Alexa fluor 568 goat anti-mouse IgG1 (Invitrogen, cat# A-21124; RRID: AB_2535766; 1/1000 dilution), and Alexa fluor 488 goat anti-rabbit IgG (Invitrogen, cat# A-11008; RRID:AB_143165; 1/1000 dilution)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Pax7"
+                }],
+              "neText" : "anti-Pax7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-MyoD"
+                }],
+              "neText" : "anti-MyoD"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Myh3"
+                }],
+              "neText" : "anti-Myh3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG1"
+                }],
+              "neText" : "anti-mouse IgG1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }]
+        }, {
+          "sentence" : "The following primary antibodies were used: anti-Uhrf1 (Santa Cruz Biotechnology, cat# sc-373750, RRID: AB_10947236; 1/100 dilution; or MBL, cat# D289-3 RRID: AB_10597260; 1/100 dilution), anti-Ki67 (Novus, cat# NB500-170, RRID: AB_10001977; 1/100 dilution), anti-Myogenin (Santa Cruz Biotechnology, cat# sc-12732, RRID: AB_627980; 1/100 dilution), and anti-Myh1 (DSHB, cat# MF20, RRID: AB_2147781; 1/10 dilution).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following primary antibodies were used: anti-Uhrf1 (Santa Cruz Biotechnology, cat# sc-373750, RRID: AB_10947236; 1/100 dilution; or MBL, cat# D289-3 RRID: AB_10597260; 1/100 dilution), anti-Ki67 (Novus, cat# NB500-170, RRID: AB_10001977; 1/100 dilution), anti-Myogenin (Santa Cruz Biotechnology, cat# sc-12732, RRID: AB_627980; 1/100 dilution), and anti-Myh1 (DSHB, cat# MF20, RRID: AB_2147781; 1/10 dilution)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Ki67"
+                }],
+              "neText" : "anti-Ki67"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Myogenin"
+                }],
+              "neText" : "anti-Myogenin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Myh1"
+                }],
+              "neText" : "anti-Myh1"
+            }]
+        }, {
+          "sentence" : "The signals were visualized using the following fluorochrome-coupled secondary antibodies: Alexa fluor 568 goat anti-mouse IgG1a, Alexa fluor 488 goat anti-rabbit IgG, and Alexa fluor 488 goat anti-rat IgG (Invitrogen, cat# A-11006, RRID: AB_2534074; 1/1000 dilution).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The signals were visualized using the following fluorochrome-coupled secondary antibodies: Alexa fluor 568 goat anti-mouse IgG1a, Alexa fluor 488 goat anti-rabbit IgG, and Alexa fluor 488 goat anti-rat IgG (Invitrogen, cat# A-11006, RRID: AB_2534074; 1/1000 dilution)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG1a"
+                }],
+              "neText" : "anti-mouse IgG1a"
+            }]
+        }, {
+          "sentence" : "The following antibodies were used: CD31-FITC (BioLegend, cat# 102406; RRID: AB_312901; 1/100 dilution), CD45-FITC (BioLegend, cat# 103108, RRID: AB_312973; 1/100 dilution), Sca1-APC (BioLegend, cat# 122512, RRID: AB_756197; 1/100 dilution), and Vcam1-PE (Invitrogen, cat# 12-1061-82, RRID: AB_2572573; 1/100 dilution).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following antibodies were used: CD31-FITC (BioLegend, cat# 102406; RRID: AB_312901; 1/100 dilution), CD45-FITC (BioLegend, cat# 103108, RRID: AB_312973; 1/100 dilution), Sca1-APC (BioLegend, cat# 122512, RRID: AB_756197; 1/100 dilution), and Vcam1-PE (Invitrogen, cat# 12-1061-82, RRID: AB_2572573; 1/100 dilution)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sca1-APC"
+                }],
+              "neText" : "Sca1-APC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Vcam1-PE"
+                }],
+              "neText" : "Vcam1-PE"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Mouse monoclonal anti-Pax7 DSHB cat# PAX7; RRID: AB_528428 Rabbit polyclonal anti-Pax7 Invitrogen cat# PA1-117; RRID: AB_2539886 Rabbit monoclonal anti-MyoD Abcam cat# ab133627; RRID: AB_2890928 Mouse monoclonal anti-Myogenin Santa Cruz Biotechnology cat# sc-12732; RRID: AB_627980 Mouse monoclonal anti-Uhrf1 Santa Cruz Biotechnology cat# sc-373750; RRID: AB_10947236 Rat monoclonal anti-Uhrf1 MBL cat# D289-3; RRID: AB_10597260 Mouse monoclonal anti-Myh1 DSHB cat# MF20; RRID: AB_2147781 Mouse monoclonal anti-Myh3 DSHB cat# F1.652; RRID: AB_528358 Rabbit polyclonal anti-Ki67 Novus cat# NB500-170; RRID: AB_10001977 Rabbit monoclonal anti-Gapdh Cell Signaling Technology cat# 5174; RRID: AB_10622025 Rat monoclonal anti-CD31-FITC BioLegend cat# 102406; RRID: AB_312901 Rat monoclonal anti-CD45-FITC BioLegend cat# 103108; RRID: AB_312973 Rat monoclonal anti-Sca1-APC BioLegend cat# 122512; RRID: AB_756197 Rat monoclonal anti-Vcam1-PE Invitrogen cat# 12-1061-82; RRID: AB_2572573 Alexa fluor 568 goat anti-mouse IgG1 Invitrogen cat# A-21124; RRID: AB_2535766 Alexa fluor 488 goat anti-rabbit IgG Invitrogen cat# A-11008; RRID:AB_143165 Alexa fluor 488 goat anti-rat IgG Invitrogen cat# A-11006; RRID: AB_2534074 anti-mouse immunoglobulin/HRP Promega cat# W4021; RRID: AB_430834 anti-rabbit immunoglobulin/HRP Agilent cat# P0448; RRID: AB_2617138 Chemicals, peptides, and recombinant proteins Cardiotoxin Latoxan cat# L8102 Tamoxifen Sigma cat# T5648 Corn oil Sigma cat# C8267 Collagenase type 2 Worthington cat# LS004177 Dispase Gibco cat# 17105-041 1% chicken embryo extract US Biological cat# C3999 bFGF Wako cat# 062-06661 EdU Invitrogen cat# A10044 Critical commercial assays ECL Prime Western Blotting Detection Reagents Amersham cat# RPN2232 Lipofectamine RNAiMAX Thermo Scientific cat# 13778-075 Click-iT EdU Imaging Kits Invitrogen cat# C10340 RNeasy Plus Micro Kit Qiagen cat# 74034 PrimeScript Takara cat# RR036A TB Green Premix Ex Taq II Takara cat# RR820S Agilent 2100 Bioanalyzer with RNA 6000 Pico Kit Agilent cat# 5067-1513 NEBNext Ultra II Directional RNA Library Prep Kit for Illumina NEB cat# E7760S NEBNext rRNA Depletion Kit NEB cat# E6310L NEBNext Multiplex Oligos for Illumina NEB cat# E7335S Agilent 2100 Bioanalyzer with DNA 1000 kit Agilent cat# 5067-1504 KAPA Library Quantification Kits KAPA Bio cat# KK4824 NucleoSpin Tissue Kit MACHEREY-NAGEL cat# 740952 EpiXplore Methylated DNA Enrichment Kit Clontech cat# PT5034-2 DNA SMART ChIP-Seq Kit Takara cat# 634865 E-Gel 2% SizeSelect electrophoresis Invitrogen cat# G661012 Agilent 2100 Bioanalyzer with the High Sensitivity DNA kit Agilent cat# 5067-4626 Deposited data Raw and analyzed data This paper GEO: GSE169193 Mouse reference genome GRCm38, PRI GENCODE https://www.gencodegenes.org/mouse/ Proximal enhancer-like (pELS) bed file Consortium et al., 2020 https://screen.encodeproject.org H3K4me1 peaks of MC3T3-E1 Oki et al., 2018 http://chip-atlas.org Experimental models: Cell lines Mouse: C2C12 cells ATCC CRL-1772 Experimental models: Organisms/strains Mouse: Pax7CE/+: B6;129-Pax7tm2.1(cre/ERT2)Fan/J The Jackson Laboratory JAX: 012476 Mouse: Uhrf1fl/fl: B6Dnk; B6N-Uhrf1<tm1a(EUCOMM)Wtsi>/Ieg The EUCOMM program MGI:4434100 Oligonucleotides non-targeting siRNA Dharmacon cat# D-001810-10-05 siRNA targeting Sox9 Dharmacon cat# L-059108-01-0005 Primers for Uhrf1, see Table S2 This paper NA Primers for MyoD1, see Table S2 This paper NA Primers for Myog, see Table S2 This paper NA Primers for Sox9, see Table S2 This paper NA Software and algorithms Fiji (v2.3.0) Schneider et al., 2012 https://imagej.net/Fiji TrimGalore (v0.6.6) https://github.com/FelixKrueger/TrimGalore http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ HISAT2 (v2.2.1) Kim et al., 2019 http://daehwankimlab.github.io/hisat2/ DESeq2 (v1.30.1) Love et al., 2014 https://bioconductor.org/packages/release/bioc/html/DESeq2.html Metascape Zhou et al., 2019 http://metascape.org STAR (v2.7.6a) Dobin et al., 2013 https://github.com/alexdobin/STAR featureCounts (v2.0.1) Liao et al., 2014 http://subread.sourceforge.net MACS2 (v2.2.6) Zhang et al., 2008 https://github.com/macs3-project/MACS/tree/release_v2.2.6 ChIPpeakAnno (v3.24.2) Zhu et al., 2010 https://bioconductor.org/packages/release/bioc/html/ChIPpeakAnno.html Prism (v9.3.1) GraphPad https://www.graphpad.com/scientific-software/prism/ R (v4.0.5) R Core Team 2020 https://www.r-project.org/ Integrative Genomics Viewer (v2.11.4) Robinson et al., 2011 https://igv.org FlowJo (v10.1r7) BD Life Sciences https://www.flowjo.com Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Yuuki Imai (y-imai@m.ehime-u.ac.jp).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Mouse monoclonal anti-Pax7 DSHB cat# PAX7; RRID: AB_528428 Rabbit polyclonal anti-Pax7 Invitrogen cat# PA1-117; RRID: AB_2539886 Rabbit monoclonal anti-MyoD Abcam cat# ab133627; RRID: AB_2890928 Mouse monoclonal anti-Myogenin Santa Cruz Biotechnology cat# sc-12732; RRID: AB_627980 Mouse monoclonal anti-Uhrf1 Santa Cruz Biotechnology cat# sc-373750; RRID: AB_10947236 Rat monoclonal anti-Uhrf1 MBL cat# D289-3; RRID: AB_10597260 Mouse monoclonal anti-Myh1 DSHB cat# MF20; RRID: AB_2147781 Mouse monoclonal anti-Myh3 DSHB cat# F1.652; RRID: AB_528358 Rabbit polyclonal anti-Ki67 Novus cat# NB500-170; RRID: AB_10001977 Rabbit monoclonal anti-Gapdh Cell Signaling Technology cat# 5174; RRID: AB_10622025 Rat monoclonal anti-CD31-FITC BioLegend cat# 102406; RRID: AB_312901 Rat monoclonal anti-CD45-FITC BioLegend cat# 103108; RRID: AB_312973 Rat monoclonal anti-Sca1-APC BioLegend cat# 122512; RRID: AB_756197 Rat monoclonal anti-Vcam1-PE Invitrogen cat# 12-1061-82; RRID: AB_2572573 Alexa fluor 568 goat anti-mouse IgG1 Invitrogen cat# A-21124; RRID: AB_2535766 Alexa fluor 488 goat anti-rabbit IgG Invitrogen cat# A-11008; RRID:AB_143165 Alexa fluor 488 goat anti-rat IgG Invitrogen cat# A-11006; RRID: AB_2534074 anti-mouse immunoglobulin/HRP Promega cat# W4021; RRID: AB_430834 anti-rabbit immunoglobulin/HRP Agilent cat# P0448; RRID: AB_2617138 Chemicals, peptides, and recombinant proteins Cardiotoxin Latoxan cat# L8102 Tamoxifen Sigma cat# T5648 Corn oil Sigma cat# C8267 Collagenase type 2 Worthington cat# LS004177 Dispase Gibco cat# 17105-041 1% chicken embryo extract US Biological cat# C3999 bFGF Wako cat# 062-06661 EdU Invitrogen cat# A10044 Critical commercial assays ECL Prime Western Blotting Detection Reagents Amersham cat# RPN2232 Lipofectamine RNAiMAX Thermo Scientific cat# 13778-075 Click-iT EdU Imaging Kits Invitrogen cat# C10340 RNeasy Plus Micro Kit Qiagen cat# 74034 PrimeScript Takara cat# RR036A TB Green Premix Ex Taq II Takara cat# RR820S Agilent 2100 Bioanalyzer with RNA 6000 Pico Kit Agilent cat# 5067-1513 NEBNext Ultra II Directional RNA Library Prep Kit for Illumina NEB cat# E7760S NEBNext rRNA Depletion Kit NEB cat# E6310L NEBNext Multiplex Oligos for Illumina NEB cat# E7335S Agilent 2100 Bioanalyzer with DNA 1000 kit Agilent cat# 5067-1504 KAPA Library Quantification Kits KAPA Bio cat# KK4824 NucleoSpin Tissue Kit MACHEREY-NAGEL cat# 740952 EpiXplore Methylated DNA Enrichment Kit Clontech cat# PT5034-2 DNA SMART ChIP-Seq Kit Takara cat# 634865 E-Gel 2% SizeSelect electrophoresis Invitrogen cat# G661012 Agilent 2100 Bioanalyzer with the High Sensitivity DNA kit Agilent cat# 5067-4626 Deposited data Raw and analyzed data This paper GEO: GSE169193 Mouse reference genome GRCm38, PRI GENCODE https://www.gencodegenes.org/mouse/ Proximal enhancer-like (pELS) bed file Consortium et al., 2020 https://screen.encodeproject.org H3K4me1 peaks of MC3T3-E1 Oki et al., 2018 http://chip-atlas.org Experimental models: Cell lines Mouse: C2C12 cells ATCC CRL-1772 Experimental models: Organisms/strains Mouse: Pax7CE/+: B6;129-Pax7tm2.1(cre/ERT2)Fan/J The Jackson Laboratory JAX: 012476 Mouse: Uhrf1fl/fl: B6Dnk; B6N-Uhrf1<tm1a(EUCOMM)Wtsi>/Ieg The EUCOMM program MGI:4434100 Oligonucleotides non-targeting siRNA Dharmacon cat# D-001810-10-05 siRNA targeting Sox9 Dharmacon cat# L-059108-01-0005 Primers for Uhrf1, see Table S2 This paper NA Primers for MyoD1, see Table S2 This paper NA Primers for Myog, see Table S2 This paper NA Primers for Sox9, see Table S2 This paper NA Software and algorithms Fiji (v2.3.0) Schneider et al., 2012 https://imagej.net/Fiji TrimGalore (v0.6.6) https://github.com/FelixKrueger/TrimGalore http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ HISAT2 (v2.2.1) Kim et al., 2019 http://daehwankimlab.github.io/hisat2/ DESeq2 (v1.30.1) Love et al., 2014 https://bioconductor.org/packages/release/bioc/html/DESeq2.html Metascape Zhou et al., 2019 http://metascape.org STAR (v2.7.6a) Dobin et al., 2013 https://github.com/alexdobin/STAR featureCounts (v2.0.1) Liao et al., 2014 http://subread.sourceforge.net MACS2 (v2.2.6) Zhang et al., 2008 https://github.com/macs3-project/MACS/tree/release_v2.2.6 ChIPpeakAnno (v3.24.2) Zhu et al., 2010 https://bioconductor.org/packages/release/bioc/html/ChIPpeakAnno.html Prism (v9.3.1) GraphPad https://www.graphpad.com/scientific-software/prism/ R (v4.0.5) R Core Team 2020 https://www.r-project.org/ Integrative Genomics Viewer (v2.11.4) Robinson et al., 2011 https://igv.org FlowJo (v10.1r7) BD Life Sciences https://www.flowjo.com Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Yuuki Imai (y-imai@m.ehime-u.ac.jp)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0188",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C2C12"
+                }],
+              "neText" : "C2C12"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Mouse monoclonal anti-Pax7 DSHB cat# PAX7; RRID: AB_528428 Rabbit polyclonal anti-Pax7 Invitrogen cat# PA1-117; RRID: AB_2539886 Rabbit monoclonal anti-MyoD Abcam cat# ab133627; RRID: AB_2890928 Mouse monoclonal anti-Myogenin Santa Cruz Biotechnology cat# sc-12732; RRID: AB_627980 Mouse monoclonal anti-Uhrf1 Santa Cruz Biotechnology cat# sc-373750; RRID: AB_10947236 Rat monoclonal anti-Uhrf1 MBL cat# D289-3; RRID: AB_10597260 Mouse monoclonal anti-Myh1 DSHB cat# MF20; RRID: AB_2147781 Mouse monoclonal anti-Myh3 DSHB cat# F1.652; RRID: AB_528358 Rabbit polyclonal anti-Ki67 Novus cat# NB500-170; RRID: AB_10001977 Rabbit monoclonal anti-Gapdh Cell Signaling Technology cat# 5174; RRID: AB_10622025 Rat monoclonal anti-CD31-FITC BioLegend cat# 102406; RRID: AB_312901 Rat monoclonal anti-CD45-FITC BioLegend cat# 103108; RRID: AB_312973 Rat monoclonal anti-Sca1-APC BioLegend cat# 122512; RRID: AB_756197 Rat monoclonal anti-Vcam1-PE Invitrogen cat# 12-1061-82; RRID: AB_2572573 Alexa fluor 568 goat anti-mouse IgG1 Invitrogen cat# A-21124; RRID: AB_2535766 Alexa fluor 488 goat anti-rabbit IgG Invitrogen cat# A-11008; RRID:AB_143165 Alexa fluor 488 goat anti-rat IgG Invitrogen cat# A-11006; RRID: AB_2534074 anti-mouse immunoglobulin/HRP Promega cat# W4021; RRID: AB_430834 anti-rabbit immunoglobulin/HRP Agilent cat# P0448; RRID: AB_2617138 Chemicals, peptides, and recombinant proteins Cardiotoxin Latoxan cat# L8102 Tamoxifen Sigma cat# T5648 Corn oil Sigma cat# C8267 Collagenase type 2 Worthington cat# LS004177 Dispase Gibco cat# 17105-041 1% chicken embryo extract US Biological cat# C3999 bFGF Wako cat# 062-06661 EdU Invitrogen cat# A10044 Critical commercial assays ECL Prime Western Blotting Detection Reagents Amersham cat# RPN2232 Lipofectamine RNAiMAX Thermo Scientific cat# 13778-075 Click-iT EdU Imaging Kits Invitrogen cat# C10340 RNeasy Plus Micro Kit Qiagen cat# 74034 PrimeScript Takara cat# RR036A TB Green Premix Ex Taq II Takara cat# RR820S Agilent 2100 Bioanalyzer with RNA 6000 Pico Kit Agilent cat# 5067-1513 NEBNext Ultra II Directional RNA Library Prep Kit for Illumina NEB cat# E7760S NEBNext rRNA Depletion Kit NEB cat# E6310L NEBNext Multiplex Oligos for Illumina NEB cat# E7335S Agilent 2100 Bioanalyzer with DNA 1000 kit Agilent cat# 5067-1504 KAPA Library Quantification Kits KAPA Bio cat# KK4824 NucleoSpin Tissue Kit MACHEREY-NAGEL cat# 740952 EpiXplore Methylated DNA Enrichment Kit Clontech cat# PT5034-2 DNA SMART ChIP-Seq Kit Takara cat# 634865 E-Gel 2% SizeSelect electrophoresis Invitrogen cat# G661012 Agilent 2100 Bioanalyzer with the High Sensitivity DNA kit Agilent cat# 5067-4626 Deposited data Raw and analyzed data This paper GEO: GSE169193 Mouse reference genome GRCm38, PRI GENCODE https://www.gencodegenes.org/mouse/ Proximal enhancer-like (pELS) bed file Consortium et al., 2020 https://screen.encodeproject.org H3K4me1 peaks of MC3T3-E1 Oki et al., 2018 http://chip-atlas.org Experimental models: Cell lines Mouse: C2C12 cells ATCC CRL-1772 Experimental models: Organisms/strains Mouse: Pax7CE/+: B6;129-Pax7tm2.1(cre/ERT2)Fan/J The Jackson Laboratory JAX: 012476 Mouse: Uhrf1fl/fl: B6Dnk; B6N-Uhrf1<tm1a(EUCOMM)Wtsi>/Ieg The EUCOMM program MGI:4434100 Oligonucleotides non-targeting siRNA Dharmacon cat# D-001810-10-05 siRNA targeting Sox9 Dharmacon cat# L-059108-01-0005 Primers for Uhrf1, see Table S2 This paper NA Primers for MyoD1, see Table S2 This paper NA Primers for Myog, see Table S2 This paper NA Primers for Sox9, see Table S2 This paper NA Software and algorithms Fiji (v2.3.0) Schneider et al., 2012 https://imagej.net/Fiji TrimGalore (v0.6.6) https://github.com/FelixKrueger/TrimGalore http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ HISAT2 (v2.2.1) Kim et al., 2019 http://daehwankimlab.github.io/hisat2/ DESeq2 (v1.30.1) Love et al., 2014 https://bioconductor.org/packages/release/bioc/html/DESeq2.html Metascape Zhou et al., 2019 http://metascape.org STAR (v2.7.6a) Dobin et al., 2013 https://github.com/alexdobin/STAR featureCounts (v2.0.1) Liao et al., 2014 http://subread.sourceforge.net MACS2 (v2.2.6) Zhang et al., 2008 https://github.com/macs3-project/MACS/tree/release_v2.2.6 ChIPpeakAnno (v3.24.2) Zhu et al., 2010 https://bioconductor.org/packages/release/bioc/html/ChIPpeakAnno.html Prism (v9.3.1) GraphPad https://www.graphpad.com/scientific-software/prism/ R (v4.0.5) R Core Team 2020 https://www.r-project.org/ Integrative Genomics Viewer (v2.11.4) Robinson et al., 2011 https://igv.org FlowJo (v10.1r7) BD Life Sciences https://www.flowjo.com Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Yuuki Imai (y-imai@m.ehime-u.ac.jp).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Mouse monoclonal anti-Pax7 DSHB cat# PAX7; RRID: AB_528428 Rabbit polyclonal anti-Pax7 Invitrogen cat# PA1-117; RRID: AB_2539886 Rabbit monoclonal anti-MyoD Abcam cat# ab133627; RRID: AB_2890928 Mouse monoclonal anti-Myogenin Santa Cruz Biotechnology cat# sc-12732; RRID: AB_627980 Mouse monoclonal anti-Uhrf1 Santa Cruz Biotechnology cat# sc-373750; RRID: AB_10947236 Rat monoclonal anti-Uhrf1 MBL cat# D289-3; RRID: AB_10597260 Mouse monoclonal anti-Myh1 DSHB cat# MF20; RRID: AB_2147781 Mouse monoclonal anti-Myh3 DSHB cat# F1.652; RRID: AB_528358 Rabbit polyclonal anti-Ki67 Novus cat# NB500-170; RRID: AB_10001977 Rabbit monoclonal anti-Gapdh Cell Signaling Technology cat# 5174; RRID: AB_10622025 Rat monoclonal anti-CD31-FITC BioLegend cat# 102406; RRID: AB_312901 Rat monoclonal anti-CD45-FITC BioLegend cat# 103108; RRID: AB_312973 Rat monoclonal anti-Sca1-APC BioLegend cat# 122512; RRID: AB_756197 Rat monoclonal anti-Vcam1-PE Invitrogen cat# 12-1061-82; RRID: AB_2572573 Alexa fluor 568 goat anti-mouse IgG1 Invitrogen cat# A-21124; RRID: AB_2535766 Alexa fluor 488 goat anti-rabbit IgG Invitrogen cat# A-11008; RRID:AB_143165 Alexa fluor 488 goat anti-rat IgG Invitrogen cat# A-11006; RRID: AB_2534074 anti-mouse immunoglobulin/HRP Promega cat# W4021; RRID: AB_430834 anti-rabbit immunoglobulin/HRP Agilent cat# P0448; RRID: AB_2617138 Chemicals, peptides, and recombinant proteins Cardiotoxin Latoxan cat# L8102 Tamoxifen Sigma cat# T5648 Corn oil Sigma cat# C8267 Collagenase type 2 Worthington cat# LS004177 Dispase Gibco cat# 17105-041 1% chicken embryo extract US Biological cat# C3999 bFGF Wako cat# 062-06661 EdU Invitrogen cat# A10044 Critical commercial assays ECL Prime Western Blotting Detection Reagents Amersham cat# RPN2232 Lipofectamine RNAiMAX Thermo Scientific cat# 13778-075 Click-iT EdU Imaging Kits Invitrogen cat# C10340 RNeasy Plus Micro Kit Qiagen cat# 74034 PrimeScript Takara cat# RR036A TB Green Premix Ex Taq II Takara cat# RR820S Agilent 2100 Bioanalyzer with RNA 6000 Pico Kit Agilent cat# 5067-1513 NEBNext Ultra II Directional RNA Library Prep Kit for Illumina NEB cat# E7760S NEBNext rRNA Depletion Kit NEB cat# E6310L NEBNext Multiplex Oligos for Illumina NEB cat# E7335S Agilent 2100 Bioanalyzer with DNA 1000 kit Agilent cat# 5067-1504 KAPA Library Quantification Kits KAPA Bio cat# KK4824 NucleoSpin Tissue Kit MACHEREY-NAGEL cat# 740952 EpiXplore Methylated DNA Enrichment Kit Clontech cat# PT5034-2 DNA SMART ChIP-Seq Kit Takara cat# 634865 E-Gel 2% SizeSelect electrophoresis Invitrogen cat# G661012 Agilent 2100 Bioanalyzer with the High Sensitivity DNA kit Agilent cat# 5067-4626 Deposited data Raw and analyzed data This paper GEO: GSE169193 Mouse reference genome GRCm38, PRI GENCODE https://www.gencodegenes.org/mouse/ Proximal enhancer-like (pELS) bed file Consortium et al., 2020 https://screen.encodeproject.org H3K4me1 peaks of MC3T3-E1 Oki et al., 2018 http://chip-atlas.org Experimental models: Cell lines Mouse: C2C12 cells ATCC CRL-1772 Experimental models: Organisms/strains Mouse: Pax7CE/+: B6;129-Pax7tm2.1(cre/ERT2)Fan/J The Jackson Laboratory JAX: 012476 Mouse: Uhrf1fl/fl: B6Dnk; B6N-Uhrf1<tm1a(EUCOMM)Wtsi>/Ieg The EUCOMM program MGI:4434100 Oligonucleotides non-targeting siRNA Dharmacon cat# D-001810-10-05 siRNA targeting Sox9 Dharmacon cat# L-059108-01-0005 Primers for Uhrf1, see Table S2 This paper NA Primers for MyoD1, see Table S2 This paper NA Primers for Myog, see Table S2 This paper NA Primers for Sox9, see Table S2 This paper NA Software and algorithms Fiji (v2.3.0) Schneider et al., 2012 https://imagej.net/Fiji TrimGalore (v0.6.6) https://github.com/FelixKrueger/TrimGalore http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ HISAT2 (v2.2.1) Kim et al., 2019 http://daehwankimlab.github.io/hisat2/ DESeq2 (v1.30.1) Love et al., 2014 https://bioconductor.org/packages/release/bioc/html/DESeq2.html Metascape Zhou et al., 2019 http://metascape.org STAR (v2.7.6a) Dobin et al., 2013 https://github.com/alexdobin/STAR featureCounts (v2.0.1) Liao et al., 2014 http://subread.sourceforge.net MACS2 (v2.2.6) Zhang et al., 2008 https://github.com/macs3-project/MACS/tree/release_v2.2.6 ChIPpeakAnno (v3.24.2) Zhu et al., 2010 https://bioconductor.org/packages/release/bioc/html/ChIPpeakAnno.html Prism (v9.3.1) GraphPad https://www.graphpad.com/scientific-software/prism/ R (v4.0.5) R Core Team 2020 https://www.r-project.org/ Integrative Genomics Viewer (v2.11.4) Robinson et al., 2011 https://igv.org FlowJo (v10.1r7) BD Life Sciences https://www.flowjo.com Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Yuuki Imai (y-imai@m.ehime-u.ac.jp)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "B6;129-Pax7tm2.1(cre/ERT2)Fan/J"
+                }],
+              "neText" : "B6;129-Pax7tm2.1(cre/ERT2)Fan/J"
+            }, {
+              "source" : "",
+              "rrid" : "RRID:IMSR_JAX:012476",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "B6;129-Pax7tm2.1 cre/ERT2)Fan/J The"
+                }],
+              "neText" : "B6;129-Pax7tm2.1 cre/ERT2)Fan/J The"
+            }]
+        }, {
+          "sentence" : "Experimental model and subject details Animals All animals were maintained and used according to a protocol approved by the Animal Experiment Committee of Ehime University, Japan. C57BL/6JJcl mice were purchased from CLEA Japan.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Experimental model and subject details Animals All animals were maintained and used according to a protocol approved by the Animal Experiment Committee of Ehime University, Japan. C57BL/6JJcl mice were purchased from CLEA Japan."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:MGI:3055581",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6JJcl"
+                }],
+              "neText" : "C57BL/6JJcl"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Mouse monoclonal anti-Pax7 DSHB cat# PAX7; RRID: AB_528428 Rabbit polyclonal anti-Pax7 Invitrogen cat# PA1-117; RRID: AB_2539886 Rabbit monoclonal anti-MyoD Abcam cat# ab133627; RRID: AB_2890928 Mouse monoclonal anti-Myogenin Santa Cruz Biotechnology cat# sc-12732; RRID: AB_627980 Mouse monoclonal anti-Uhrf1 Santa Cruz Biotechnology cat# sc-373750; RRID: AB_10947236 Rat monoclonal anti-Uhrf1 MBL cat# D289-3; RRID: AB_10597260 Mouse monoclonal anti-Myh1 DSHB cat# MF20; RRID: AB_2147781 Mouse monoclonal anti-Myh3 DSHB cat# F1.652; RRID: AB_528358 Rabbit polyclonal anti-Ki67 Novus cat# NB500-170; RRID: AB_10001977 Rabbit monoclonal anti-Gapdh Cell Signaling Technology cat# 5174; RRID: AB_10622025 Rat monoclonal anti-CD31-FITC BioLegend cat# 102406; RRID: AB_312901 Rat monoclonal anti-CD45-FITC BioLegend cat# 103108; RRID: AB_312973 Rat monoclonal anti-Sca1-APC BioLegend cat# 122512; RRID: AB_756197 Rat monoclonal anti-Vcam1-PE Invitrogen cat# 12-1061-82; RRID: AB_2572573 Alexa fluor 568 goat anti-mouse IgG1 Invitrogen cat# A-21124; RRID: AB_2535766 Alexa fluor 488 goat anti-rabbit IgG Invitrogen cat# A-11008; RRID:AB_143165 Alexa fluor 488 goat anti-rat IgG Invitrogen cat# A-11006; RRID: AB_2534074 anti-mouse immunoglobulin/HRP Promega cat# W4021; RRID: AB_430834 anti-rabbit immunoglobulin/HRP Agilent cat# P0448; RRID: AB_2617138 Chemicals, peptides, and recombinant proteins Cardiotoxin Latoxan cat# L8102 Tamoxifen Sigma cat# T5648 Corn oil Sigma cat# C8267 Collagenase type 2 Worthington cat# LS004177 Dispase Gibco cat# 17105-041 1% chicken embryo extract US Biological cat# C3999 bFGF Wako cat# 062-06661 EdU Invitrogen cat# A10044 Critical commercial assays ECL Prime Western Blotting Detection Reagents Amersham cat# RPN2232 Lipofectamine RNAiMAX Thermo Scientific cat# 13778-075 Click-iT EdU Imaging Kits Invitrogen cat# C10340 RNeasy Plus Micro Kit Qiagen cat# 74034 PrimeScript Takara cat# RR036A TB Green Premix Ex Taq II Takara cat# RR820S Agilent 2100 Bioanalyzer with RNA 6000 Pico Kit Agilent cat# 5067-1513 NEBNext Ultra II Directional RNA Library Prep Kit for Illumina NEB cat# E7760S NEBNext rRNA Depletion Kit NEB cat# E6310L NEBNext Multiplex Oligos for Illumina NEB cat# E7335S Agilent 2100 Bioanalyzer with DNA 1000 kit Agilent cat# 5067-1504 KAPA Library Quantification Kits KAPA Bio cat# KK4824 NucleoSpin Tissue Kit MACHEREY-NAGEL cat# 740952 EpiXplore Methylated DNA Enrichment Kit Clontech cat# PT5034-2 DNA SMART ChIP-Seq Kit Takara cat# 634865 E-Gel 2% SizeSelect electrophoresis Invitrogen cat# G661012 Agilent 2100 Bioanalyzer with the High Sensitivity DNA kit Agilent cat# 5067-4626 Deposited data Raw and analyzed data This paper GEO: GSE169193 Mouse reference genome GRCm38, PRI GENCODE https://www.gencodegenes.org/mouse/ Proximal enhancer-like (pELS) bed file Consortium et al., 2020 https://screen.encodeproject.org H3K4me1 peaks of MC3T3-E1 Oki et al., 2018 http://chip-atlas.org Experimental models: Cell lines Mouse: C2C12 cells ATCC CRL-1772 Experimental models: Organisms/strains Mouse: Pax7CE/+: B6;129-Pax7tm2.1(cre/ERT2)Fan/J The Jackson Laboratory JAX: 012476 Mouse: Uhrf1fl/fl: B6Dnk; B6N-Uhrf1<tm1a(EUCOMM)Wtsi>/Ieg The EUCOMM program MGI:4434100 Oligonucleotides non-targeting siRNA Dharmacon cat# D-001810-10-05 siRNA targeting Sox9 Dharmacon cat# L-059108-01-0005 Primers for Uhrf1, see Table S2 This paper NA Primers for MyoD1, see Table S2 This paper NA Primers for Myog, see Table S2 This paper NA Primers for Sox9, see Table S2 This paper NA Software and algorithms Fiji (v2.3.0) Schneider et al., 2012 https://imagej.net/Fiji TrimGalore (v0.6.6) https://github.com/FelixKrueger/TrimGalore http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ HISAT2 (v2.2.1) Kim et al., 2019 http://daehwankimlab.github.io/hisat2/ DESeq2 (v1.30.1) Love et al., 2014 https://bioconductor.org/packages/release/bioc/html/DESeq2.html Metascape Zhou et al., 2019 http://metascape.org STAR (v2.7.6a) Dobin et al., 2013 https://github.com/alexdobin/STAR featureCounts (v2.0.1) Liao et al., 2014 http://subread.sourceforge.net MACS2 (v2.2.6) Zhang et al., 2008 https://github.com/macs3-project/MACS/tree/release_v2.2.6 ChIPpeakAnno (v3.24.2) Zhu et al., 2010 https://bioconductor.org/packages/release/bioc/html/ChIPpeakAnno.html Prism (v9.3.1) GraphPad https://www.graphpad.com/scientific-software/prism/ R (v4.0.5) R Core Team 2020 https://www.r-project.org/ Integrative Genomics Viewer (v2.11.4) Robinson et al., 2011 https://igv.org FlowJo (v10.1r7) BD Life Sciences https://www.flowjo.com Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Yuuki Imai (y-imai@m.ehime-u.ac.jp).",
+          "rowSpan" : 12,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Mouse monoclonal anti-Pax7 DSHB cat# PAX7; RRID: AB_528428 Rabbit polyclonal anti-Pax7 Invitrogen cat# PA1-117; RRID: AB_2539886 Rabbit monoclonal anti-MyoD Abcam cat# ab133627; RRID: AB_2890928 Mouse monoclonal anti-Myogenin Santa Cruz Biotechnology cat# sc-12732; RRID: AB_627980 Mouse monoclonal anti-Uhrf1 Santa Cruz Biotechnology cat# sc-373750; RRID: AB_10947236 Rat monoclonal anti-Uhrf1 MBL cat# D289-3; RRID: AB_10597260 Mouse monoclonal anti-Myh1 DSHB cat# MF20; RRID: AB_2147781 Mouse monoclonal anti-Myh3 DSHB cat# F1.652; RRID: AB_528358 Rabbit polyclonal anti-Ki67 Novus cat# NB500-170; RRID: AB_10001977 Rabbit monoclonal anti-Gapdh Cell Signaling Technology cat# 5174; RRID: AB_10622025 Rat monoclonal anti-CD31-FITC BioLegend cat# 102406; RRID: AB_312901 Rat monoclonal anti-CD45-FITC BioLegend cat# 103108; RRID: AB_312973 Rat monoclonal anti-Sca1-APC BioLegend cat# 122512; RRID: AB_756197 Rat monoclonal anti-Vcam1-PE Invitrogen cat# 12-1061-82; RRID: AB_2572573 Alexa fluor 568 goat anti-mouse IgG1 Invitrogen cat# A-21124; RRID: AB_2535766 Alexa fluor 488 goat anti-rabbit IgG Invitrogen cat# A-11008; RRID:AB_143165 Alexa fluor 488 goat anti-rat IgG Invitrogen cat# A-11006; RRID: AB_2534074 anti-mouse immunoglobulin/HRP Promega cat# W4021; RRID: AB_430834 anti-rabbit immunoglobulin/HRP Agilent cat# P0448; RRID: AB_2617138 Chemicals, peptides, and recombinant proteins Cardiotoxin Latoxan cat# L8102 Tamoxifen Sigma cat# T5648 Corn oil Sigma cat# C8267 Collagenase type 2 Worthington cat# LS004177 Dispase Gibco cat# 17105-041 1% chicken embryo extract US Biological cat# C3999 bFGF Wako cat# 062-06661 EdU Invitrogen cat# A10044 Critical commercial assays ECL Prime Western Blotting Detection Reagents Amersham cat# RPN2232 Lipofectamine RNAiMAX Thermo Scientific cat# 13778-075 Click-iT EdU Imaging Kits Invitrogen cat# C10340 RNeasy Plus Micro Kit Qiagen cat# 74034 PrimeScript Takara cat# RR036A TB Green Premix Ex Taq II Takara cat# RR820S Agilent 2100 Bioanalyzer with RNA 6000 Pico Kit Agilent cat# 5067-1513 NEBNext Ultra II Directional RNA Library Prep Kit for Illumina NEB cat# E7760S NEBNext rRNA Depletion Kit NEB cat# E6310L NEBNext Multiplex Oligos for Illumina NEB cat# E7335S Agilent 2100 Bioanalyzer with DNA 1000 kit Agilent cat# 5067-1504 KAPA Library Quantification Kits KAPA Bio cat# KK4824 NucleoSpin Tissue Kit MACHEREY-NAGEL cat# 740952 EpiXplore Methylated DNA Enrichment Kit Clontech cat# PT5034-2 DNA SMART ChIP-Seq Kit Takara cat# 634865 E-Gel 2% SizeSelect electrophoresis Invitrogen cat# G661012 Agilent 2100 Bioanalyzer with the High Sensitivity DNA kit Agilent cat# 5067-4626 Deposited data Raw and analyzed data This paper GEO: GSE169193 Mouse reference genome GRCm38, PRI GENCODE https://www.gencodegenes.org/mouse/ Proximal enhancer-like (pELS) bed file Consortium et al., 2020 https://screen.encodeproject.org H3K4me1 peaks of MC3T3-E1 Oki et al., 2018 http://chip-atlas.org Experimental models: Cell lines Mouse: C2C12 cells ATCC CRL-1772 Experimental models: Organisms/strains Mouse: Pax7CE/+: B6;129-Pax7tm2.1(cre/ERT2)Fan/J The Jackson Laboratory JAX: 012476 Mouse: Uhrf1fl/fl: B6Dnk; B6N-Uhrf1<tm1a(EUCOMM)Wtsi>/Ieg The EUCOMM program MGI:4434100 Oligonucleotides non-targeting siRNA Dharmacon cat# D-001810-10-05 siRNA targeting Sox9 Dharmacon cat# L-059108-01-0005 Primers for Uhrf1, see Table S2 This paper NA Primers for MyoD1, see Table S2 This paper NA Primers for Myog, see Table S2 This paper NA Primers for Sox9, see Table S2 This paper NA Software and algorithms Fiji (v2.3.0) Schneider et al., 2012 https://imagej.net/Fiji TrimGalore (v0.6.6) https://github.com/FelixKrueger/TrimGalore http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ HISAT2 (v2.2.1) Kim et al., 2019 http://daehwankimlab.github.io/hisat2/ DESeq2 (v1.30.1) Love et al., 2014 https://bioconductor.org/packages/release/bioc/html/DESeq2.html Metascape Zhou et al., 2019 http://metascape.org STAR (v2.7.6a) Dobin et al., 2013 https://github.com/alexdobin/STAR featureCounts (v2.0.1) Liao et al., 2014 http://subread.sourceforge.net MACS2 (v2.2.6) Zhang et al., 2008 https://github.com/macs3-project/MACS/tree/release_v2.2.6 ChIPpeakAnno (v3.24.2) Zhu et al., 2010 https://bioconductor.org/packages/release/bioc/html/ChIPpeakAnno.html Prism (v9.3.1) GraphPad https://www.graphpad.com/scientific-software/prism/ R (v4.0.5) R Core Team 2020 https://www.r-project.org/ Integrative Genomics Viewer (v2.11.4) Robinson et al., 2011 https://igv.org FlowJo (v10.1r7) BD Life Sciences https://www.flowjo.com Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Yuuki Imai (y-imai@m.ehime-u.ac.jp)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GENCODE"
+                }],
+              "neText" : "GENCODE"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://chip-atlas.org"
+                }],
+              "neText" : "http://chip-atlas.org"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TrimGalore"
+                }],
+              "neText" : "TrimGalore"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://github.com/FelixKrueger/TrimGalore"
+                }],
+              "neText" : "https://github.com/FelixKrueger/TrimGalore"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/"
+                }],
+              "neText" : "http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://bioconductor.org/packages/release/bioc/html/DESeq2.html"
+                }],
+              "neText" : "https://bioconductor.org/packages/release/bioc/html/DESeq2.html"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://github.com/alexdobin/STAR"
+                }],
+              "neText" : "https://github.com/alexdobin/STAR"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://subread.sourceforge.net"
+                }],
+              "neText" : "http://subread.sourceforge.net"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prism"
+                }],
+              "neText" : "Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://www.r-project.org/"
+                }],
+              "neText" : "https://www.r-project.org/"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "At 7 weeks of age, tamoxifen (150 μL, 20 mg/mL) (Sigma, cat# T5648) dissolved in corn oil (Sigma, cat# C8267) was injected intraperitoneally for 5 consecutive days to induce Cre-mediated recombination.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "At 7 weeks of age, tamoxifen (150 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "L, 20 mg/mL) (Sigma, cat# T5648) dissolved in corn oil (Sigma, cat# C8267) was injected intraperitoneally for 5 consecutive days to induce Cre-mediated recombination."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "The numbers of Uhrf1+, Pax7+, Ki67+, Myogenin+, and EdU+ cells in vitro and the area of Myh3+ fibers in vivo were determined using the Fiji Analyze Particles function.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The numbers of Uhrf1+, Pax7+, Ki67+, Myogenin+, and EdU+ cells in vitro and the area of Myh3+ fibers in vivo were determined using the Fiji Analyze Particles function."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji"
+                }],
+              "neText" : "Fiji"
+            }]
+        }, {
+          "sentence" : "The numbers of Uhrf1+, Pax7+, MyoD+, and EdU+ cells in vivo were determined by manual counting using the Adobe Photoshop count tool.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The numbers of Uhrf1+, Pax7+, MyoD+, and EdU+ cells in vivo were determined by manual counting using the Adobe Photoshop count tool."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Adobe Photoshop, RRID:SCR_014199",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Adobe Photoshop"
+                }],
+              "neText" : "Adobe Photoshop"
+            }]
+        }, {
+          "sentence" : "Briefly, muscles were chopped in cold PBS and digested using 800 U/mL collagenase type 2 (Worthington, cat# LS004177) in F10 medium (Gibco, cat# 11550-043) supplemented with horse serum (Gibco, cat# 26050-088) and antibiotic–antimycotic (Gibco, cat# 15240-062) for 60 min followed by another digestion using 1000 U/mL collagenase type 2 and 11 U/mL dispase (Gibco, cat# 17105-041) for 30 min.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly, muscles were chopped in cold PBS and digested using 800 U/mL collagenase type 2 (Worthington, cat# LS004177) in F10 medium (Gibco, cat# 11550-043) supplemented with horse serum (Gibco, cat# 26050-088) and antibiotic–antimycotic (Gibco, cat# 15240-062) for 60 min followed by another digestion using 1000 U/mL collagenase type 2 and 11 U/mL dispase (Gibco, cat# 17105-041) for 30 min."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }, {
+          "sentence" : "Raw reads were trimmed using TrimGalore (v0.6.6; http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/) and mapped to the reference genome (GRCm38, PRI) using HISAT2 (v2.2.1) (Kim et al., 2019).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Raw reads were trimmed using TrimGalore (v0.6.6; http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/) and mapped to the reference genome (GRCm38, PRI) using HISAT2 (v2.2.1) (Kim et al., 2019)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HISAT2"
+                }],
+              "neText" : "HISAT2"
+            }]
+        }, {
+          "sentence" : "Expression level was quantified using featureCounts (v2.0.1) (Liao et al., 2014) with GRCm38.102 annotation.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Expression level was quantified using featureCounts (v2.0.1) (Liao et al., 2014) with GRCm38.102 annotation."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "featureCounts"
+                }],
+              "neText" : "featureCounts"
+            }]
+        }, {
+          "sentence" : "The differentially expressed genes were extracted by DESeq2 (v1.30.1) (Love et al., 2014).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The differentially expressed genes were extracted by DESeq2 (v1.30.1) (Love et al., 2014)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq2"
+                }],
+              "neText" : "DESeq2"
+            }]
+        }, {
+          "sentence" : "GO enrichment analysis was performed using Metascape (Zhou et al., 2019).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GO enrichment analysis was performed using Metascape (Zhou et al., 2019)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Metascape"
+                }],
+              "neText" : "Metascape"
+            }]
+        }, {
+          "sentence" : "For the mapping, the STAR option ‘--runMode alignReads --runThreadN 4 outMultimapperOrder Random --outSAMtype BAM SortedByCoordinate --outSAMmultNmax 1 --outFilterMultimapNmax 1000 --outFilterMismatchNmax 3 --winAnchorMultimapNmax 1000 --alignIntronMax 1 --alignMatesGapMax 350 --alignEndsType EndToEnd’ was used, allowing a higher number of multi-mapped reads (Teissandier et al., 2019).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For the mapping, the STAR option ‘--runMode alignReads --runThreadN 4 outMultimapperOrder Random --outSAMtype BAM SortedByCoordinate --outSAMmultNmax 1 --outFilterMultimapNmax 1000 --outFilterMismatchNmax 3 --winAnchorMultimapNmax 1000 --alignIntronMax 1 --alignMatesGapMax 350 --alignEndsType EndToEnd’ was used, allowing a higher number of multi-mapped reads (Teissandier et al., 2019)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "STAR (RRID:SCR_004463)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STAR"
+                }],
+              "neText" : "STAR"
+            }]
+        }, {
+          "sentence" : "ChIPpeakAnno (v3.24.2) (Zhu et al., 2010) was used to annotate and visualize the peaks.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ChIPpeakAnno (v3.24.2) (Zhu et al., 2010) was used to annotate and visualize the peaks."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ChIPpeakAnno"
+                }],
+              "neText" : "ChIPpeakAnno"
+            }]
+        }, {
+          "sentence" : "H3K4me1 peaks of MC3T3-E1 was downloaded from ChIP-Atlas web tools (Oki et al., 2018) (http://chip-atlas.org).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "H3K4me1 peaks of MC3T3-E1 was downloaded from ChIP-Atlas web tools (Oki et al., 2018) (http://chip-atlas.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ChIP-Atlas"
+                }],
+              "neText" : "ChIP-Atlas"
+            }]
+        }, {
+          "sentence" : "Data were analyzed using Prism 9 (GraphPad Software) or R (v4.0.5) (https://www.r-project.org).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analyzed using Prism 9 (GraphPad Software) or R (v4.0.5) (https://www.r-project.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://www.r-project.org"
+                }],
+              "neText" : "https://www.r-project.org"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Experimental model and subject details Animals All animals were maintained and used according to a protocol approved by the Animal Experiment Committee of Ehime University, Japan. C57BL/6JJcl mice were purchased from CLEA Japan.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Experimental model and subject details Animals All animals were maintained and used according to a protocol approved by the Animal Experiment Committee of Ehime University, Japan. C57BL/6JJcl mice were purchased from CLEA Japan."
+              }]
+          }, {
+            "sentence" : "After 1 week of tamoxifen injection, injury was induced by injecting 100 μL of 10 μM cardiotoxin (CTX) solution (Latoxan, cat# L8102) into the left tibialis anterior (TA) muscles under anesthesia using isoflurane.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After 1 week of tamoxifen injection, injury was induced by injecting 100 "
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "L of 10 "
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "M cardiotoxin (CTX) solution (Latoxan, cat# L8102) into the left tibialis anterior (TA) muscles under anesthesia using isoflurane."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "All male animals were evaluated at age 7–12 weeks old.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All male animals were evaluated at age 7–12 weeks old."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "All male animals were evaluated at age 7–12 weeks old.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All male animals were evaluated at age 7–12 weeks old."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "qPCR was performed in duplicate samples using TB Green Premix Ex Taq II (Takara, cat# RR820S) and Thermal Cycler Dice (Takara, cat# TP850).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "qPCR was performed in duplicate samples using TB Green Premix Ex Taq II (Takara, cat# RR820S) and Thermal Cycler Dice (Takara, cat# TP850)."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }, {
+            "sentence" : "qPCR was performed in duplicate samples using TB Green Premix Ex Taq II (Takara, cat# RR820S) and Thermal Cycler Dice (Takara, cat# TP850).",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "qPCR was performed in duplicate samples using TB Green Premix Ex Taq II (Takara, cat# RR820S) and Thermal Cycler Dice (Takara, cat# TP850)."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Two-sample test for equality of proportions was performed by Test of Equal or Given Proportions.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two-sample test for equality of proportions was performed by Test of Equal or Given Proportions."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Two-sample test"
+                  }],
+                "neText" : "Two-sample test"
+              }]
+          }, {
+            "sentence" : "Welch's t-test was used to compare variable between two groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Welch's t-test was used to compare variable between two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Welch's t-test"
+                  }],
+                "neText" : "Welch's t-test"
+              }]
+          }, {
+            "sentence" : "Welch's ANOVA with Dunnett's T3 multiple comparison test was used to compare variables among three or more.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Welch's ANOVA with Dunnett's T3 multiple comparison test was used to compare variables among three or more."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Welch's ANOVA"
+                  }],
+                "neText" : "Welch's ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnett's T3 multiple comparison test"
+                  }],
+                "neText" : "Dunnett's T3 multiple comparison test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Mouse monoclonal anti-Pax7 DSHB cat# PAX7; RRID: AB_528428 Rabbit polyclonal anti-Pax7 Invitrogen cat# PA1-117; RRID: AB_2539886 Rabbit monoclonal anti-MyoD Abcam cat# ab133627; RRID: AB_2890928 Mouse monoclonal anti-Myogenin Santa Cruz Biotechnology cat# sc-12732; RRID: AB_627980 Mouse monoclonal anti-Uhrf1 Santa Cruz Biotechnology cat# sc-373750; RRID: AB_10947236 Rat monoclonal anti-Uhrf1 MBL cat# D289-3; RRID: AB_10597260 Mouse monoclonal anti-Myh1 DSHB cat# MF20; RRID: AB_2147781 Mouse monoclonal anti-Myh3 DSHB cat# F1.652; RRID: AB_528358 Rabbit polyclonal anti-Ki67 Novus cat# NB500-170; RRID: AB_10001977 Rabbit monoclonal anti-Gapdh Cell Signaling Technology cat# 5174; RRID: AB_10622025 Rat monoclonal anti-CD31-FITC BioLegend cat# 102406; RRID: AB_312901 Rat monoclonal anti-CD45-FITC BioLegend cat# 103108; RRID: AB_312973 Rat monoclonal anti-Sca1-APC BioLegend cat# 122512; RRID: AB_756197 Rat monoclonal anti-Vcam1-PE Invitrogen cat# 12-1061-82; RRID: AB_2572573 Alexa fluor 568 goat anti-mouse IgG1 Invitrogen cat# A-21124; RRID: AB_2535766 Alexa fluor 488 goat anti-rabbit IgG Invitrogen cat# A-11008; RRID:AB_143165 Alexa fluor 488 goat anti-rat IgG Invitrogen cat# A-11006; RRID: AB_2534074 anti-mouse immunoglobulin/HRP Promega cat# W4021; RRID: AB_430834 anti-rabbit immunoglobulin/HRP Agilent cat# P0448; RRID: AB_2617138 Chemicals, peptides, and recombinant proteins Cardiotoxin Latoxan cat# L8102 Tamoxifen Sigma cat# T5648 Corn oil Sigma cat# C8267 Collagenase type 2 Worthington cat# LS004177 Dispase Gibco cat# 17105-041 1% chicken embryo extract US Biological cat# C3999 bFGF Wako cat# 062-06661 EdU Invitrogen cat# A10044 Critical commercial assays ECL Prime Western Blotting Detection Reagents Amersham cat# RPN2232 Lipofectamine RNAiMAX Thermo Scientific cat# 13778-075 Click-iT EdU Imaging Kits Invitrogen cat# C10340 RNeasy Plus Micro Kit Qiagen cat# 74034 PrimeScript Takara cat# RR036A TB Green Premix Ex Taq II Takara cat# RR820S Agilent 2100 Bioanalyzer with RNA 6000 Pico Kit Agilent cat# 5067-1513 NEBNext Ultra II Directional RNA Library Prep Kit for Illumina NEB cat# E7760S NEBNext rRNA Depletion Kit NEB cat# E6310L NEBNext Multiplex Oligos for Illumina NEB cat# E7335S Agilent 2100 Bioanalyzer with DNA 1000 kit Agilent cat# 5067-1504 KAPA Library Quantification Kits KAPA Bio cat# KK4824 NucleoSpin Tissue Kit MACHEREY-NAGEL cat# 740952 EpiXplore Methylated DNA Enrichment Kit Clontech cat# PT5034-2 DNA SMART ChIP-Seq Kit Takara cat# 634865 E-Gel 2% SizeSelect electrophoresis Invitrogen cat# G661012 Agilent 2100 Bioanalyzer with the High Sensitivity DNA kit Agilent cat# 5067-4626 Deposited data Raw and analyzed data This paper GEO: GSE169193 Mouse reference genome GRCm38, PRI GENCODE https://www.gencodegenes.org/mouse/ Proximal enhancer-like (pELS) bed file Consortium et al., 2020 https://screen.encodeproject.org H3K4me1 peaks of MC3T3-E1 Oki et al., 2018 http://chip-atlas.org Experimental models: Cell lines Mouse: C2C12 cells ATCC CRL-1772 Experimental models: Organisms/strains Mouse: Pax7CE/+: B6;129-Pax7tm2.1(cre/ERT2)Fan/J The Jackson Laboratory JAX: 012476 Mouse: Uhrf1fl/fl: B6Dnk; B6N-Uhrf1<tm1a(EUCOMM)Wtsi>/Ieg The EUCOMM program MGI:4434100 Oligonucleotides non-targeting siRNA Dharmacon cat# D-001810-10-05 siRNA targeting Sox9 Dharmacon cat# L-059108-01-0005 Primers for Uhrf1, see Table S2 This paper NA Primers for MyoD1, see Table S2 This paper NA Primers for Myog, see Table S2 This paper NA Primers for Sox9, see Table S2 This paper NA Software and algorithms Fiji (v2.3.0) Schneider et al., 2012 https://imagej.net/Fiji TrimGalore (v0.6.6) https://github.com/FelixKrueger/TrimGalore http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ HISAT2 (v2.2.1) Kim et al., 2019 http://daehwankimlab.github.io/hisat2/ DESeq2 (v1.30.1) Love et al., 2014 https://bioconductor.org/packages/release/bioc/html/DESeq2.html Metascape Zhou et al., 2019 http://metascape.org STAR (v2.7.6a) Dobin et al., 2013 https://github.com/alexdobin/STAR featureCounts (v2.0.1) Liao et al., 2014 http://subread.sourceforge.net MACS2 (v2.2.6) Zhang et al., 2008 https://github.com/macs3-project/MACS/tree/release_v2.2.6 ChIPpeakAnno (v3.24.2) Zhu et al., 2010 https://bioconductor.org/packages/release/bioc/html/ChIPpeakAnno.html Prism (v9.3.1) GraphPad https://www.graphpad.com/scientific-software/prism/ R (v4.0.5) R Core Team 2020 https://www.r-project.org/ Integrative Genomics Viewer (v2.11.4) Robinson et al., 2011 https://igv.org FlowJo (v10.1r7) BD Life Sciences https://www.flowjo.com Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Yuuki Imai (y-imai@m.ehime-u.ac.jp).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Mouse monoclonal anti-Pax7 DSHB cat# PAX7; RRID: AB_528428 Rabbit polyclonal anti-Pax7 Invitrogen cat# PA1-117; RRID: AB_2539886 Rabbit monoclonal anti-MyoD Abcam cat# ab133627; RRID: AB_2890928 Mouse monoclonal anti-Myogenin Santa Cruz Biotechnology cat# sc-12732; RRID: AB_627980 Mouse monoclonal anti-Uhrf1 Santa Cruz Biotechnology cat# sc-373750; RRID: AB_10947236 Rat monoclonal anti-Uhrf1 MBL cat# D289-3; RRID: AB_10597260 Mouse monoclonal anti-Myh1 DSHB cat# MF20; RRID: AB_2147781 Mouse monoclonal anti-Myh3 DSHB cat# F1.652; RRID: AB_528358 Rabbit polyclonal anti-Ki67 Novus cat# NB500-170; RRID: AB_10001977 Rabbit monoclonal anti-Gapdh Cell Signaling Technology cat# 5174; RRID: AB_10622025 Rat monoclonal anti-CD31-FITC BioLegend cat# 102406; RRID: AB_312901 Rat monoclonal anti-CD45-FITC BioLegend cat# 103108; RRID: AB_312973 Rat monoclonal anti-Sca1-APC BioLegend cat# 122512; RRID: AB_756197 Rat monoclonal anti-Vcam1-PE Invitrogen cat# 12-1061-82; RRID: AB_2572573 Alexa fluor 568 goat anti-mouse IgG1 Invitrogen cat# A-21124; RRID: AB_2535766 Alexa fluor 488 goat anti-rabbit IgG Invitrogen cat# A-11008; RRID:AB_143165 Alexa fluor 488 goat anti-rat IgG Invitrogen cat# A-11006; RRID: AB_2534074 anti-mouse immunoglobulin/HRP Promega cat# W4021; RRID: AB_430834 anti-rabbit immunoglobulin/HRP Agilent cat# P0448; RRID: AB_2617138 Chemicals, peptides, and recombinant proteins Cardiotoxin Latoxan cat# L8102 Tamoxifen Sigma cat# T5648 Corn oil Sigma cat# C8267 Collagenase type 2 Worthington cat# LS004177 Dispase Gibco cat# 17105-041 1% chicken embryo extract US Biological cat# C3999 bFGF Wako cat# 062-06661 EdU Invitrogen cat# A10044 Critical commercial assays ECL Prime Western Blotting Detection Reagents Amersham cat# RPN2232 Lipofectamine RNAiMAX Thermo Scientific cat# 13778-075 Click-iT EdU Imaging Kits Invitrogen cat# C10340 RNeasy Plus Micro Kit Qiagen cat# 74034 PrimeScript Takara cat# RR036A TB Green Premix Ex Taq II Takara cat# RR820S Agilent 2100 Bioanalyzer with RNA 6000 Pico Kit Agilent cat# 5067-1513 NEBNext Ultra II Directional RNA Library Prep Kit for Illumina NEB cat# E7760S NEBNext rRNA Depletion Kit NEB cat# E6310L NEBNext Multiplex Oligos for Illumina NEB cat# E7335S Agilent 2100 Bioanalyzer with DNA 1000 kit Agilent cat# 5067-1504 KAPA Library Quantification Kits KAPA Bio cat# KK4824 NucleoSpin Tissue Kit MACHEREY-NAGEL cat# 740952 EpiXplore Methylated DNA Enrichment Kit Clontech cat# PT5034-2 DNA SMART ChIP-Seq Kit Takara cat# 634865 E-Gel 2% SizeSelect electrophoresis Invitrogen cat# G661012 Agilent 2100 Bioanalyzer with the High Sensitivity DNA kit Agilent cat# 5067-4626 Deposited data Raw and analyzed data This paper GEO: GSE169193 Mouse reference genome GRCm38, PRI GENCODE https://www.gencodegenes.org/mouse/ Proximal enhancer-like (pELS) bed file Consortium et al., 2020 https://screen.encodeproject.org H3K4me1 peaks of MC3T3-E1 Oki et al., 2018 http://chip-atlas.org Experimental models: Cell lines Mouse: C2C12 cells ATCC CRL-1772 Experimental models: Organisms/strains Mouse: Pax7CE/+: B6;129-Pax7tm2.1(cre/ERT2)Fan/J The Jackson Laboratory JAX: 012476 Mouse: Uhrf1fl/fl: B6Dnk; B6N-Uhrf1<tm1a(EUCOMM)Wtsi>/Ieg The EUCOMM program MGI:4434100 Oligonucleotides non-targeting siRNA Dharmacon cat# D-001810-10-05 siRNA targeting Sox9 Dharmacon cat# L-059108-01-0005 Primers for Uhrf1, see Table S2 This paper NA Primers for MyoD1, see Table S2 This paper NA Primers for Myog, see Table S2 This paper NA Primers for Sox9, see Table S2 This paper NA Software and algorithms Fiji (v2.3.0) Schneider et al., 2012 https://imagej.net/Fiji TrimGalore (v0.6.6) https://github.com/FelixKrueger/TrimGalore http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ HISAT2 (v2.2.1) Kim et al., 2019 http://daehwankimlab.github.io/hisat2/ DESeq2 (v1.30.1) Love et al., 2014 https://bioconductor.org/packages/release/bioc/html/DESeq2.html Metascape Zhou et al., 2019 http://metascape.org STAR (v2.7.6a) Dobin et al., 2013 https://github.com/alexdobin/STAR featureCounts (v2.0.1) Liao et al., 2014 http://subread.sourceforge.net MACS2 (v2.2.6) Zhang et al., 2008 https://github.com/macs3-project/MACS/tree/release_v2.2.6 ChIPpeakAnno (v3.24.2) Zhu et al., 2010 https://bioconductor.org/packages/release/bioc/html/ChIPpeakAnno.html Prism (v9.3.1) GraphPad https://www.graphpad.com/scientific-software/prism/ R (v4.0.5) R Core Team 2020 https://www.r-project.org/ Integrative Genomics Viewer (v2.11.4) Robinson et al., 2011 https://igv.org FlowJo (v10.1r7) BD Life Sciences https://www.flowjo.com Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Yuuki Imai (y-imai@m.ehime-u.ac.jp)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "MGI:4434100 "
+                  }],
+                "neText" : "MGI:4434100 "
+              }]
+          }]
+      }]
+  }
+}

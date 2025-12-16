@@ -1,0 +1,145 @@
+{
+  "docIdentifier" : "PMC8371286",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis was performed using SPSS version 25 (IBM Corp, Armonk, NY).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis was performed using SPSS version 25 (IBM Corp, Armonk, NY)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Ethical approval for the study was obtained from the George Mason University Institutional Review Board.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ethical approval for the study was obtained from the George Mason University Institutional Review Board."
+              }]
+          }, {
+            "sentence" : "Both participants and raters completed an informed consent and were compensated for their time.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Both participants and raters completed an informed consent and were compensated for their time."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "One participant had only one BVS observation and was eliminated from this portion of the analysis.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One participant had only one BVS observation and was eliminated from this portion of the analysis."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Raters clinical nursing experience ranged from 1 to 43 years (mean = 17 yrs.,",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Raters clinical nursing experience ranged from 1 to 43 years (mean = 17 yrs.,"
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "For each bruise participant, three nurses were randomly selected from the pool of 8 raters to perform an independent bruise assessment.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For each bruise participant, three nurses were randomly selected from the pool of 8 raters to perform an independent bruise assessment."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "During data collection, the nurses were blinded to each others ratings and the spectrophotometer readings.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "During data collection, the nurses were blinded to each others ratings and the spectrophotometer readings."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The Shrout and Fleiss (1979) ICC 2 equation was used which includes two-way random effects model analysis of variance for absolute agreement.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Shrout and Fleiss (1979) ICC 2 equation was used which includes two-way random effects model analysis of variance for absolute agreement."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "docIdentifier" : "PMC8193144",
+  "sciscore" : 1,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Take for example scanner manufacturer as a criterion: the idea is to have scans coming from all manufacturers present in the full data, which were Philips, GE, Siemens and Hitachi, in all 3 sets, in order to have diverse sets but, in the original pool of patients, scans coming from Philips and Siemens scanners were predominantly represented, and will stay dominant by randomly sampling cases for the training set, but it is ensured that scans coming from all 4 scanner manufacturers are still present in the stratified set.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Take for example scanner manufacturer as a criterion: the idea is to have scans coming from all manufacturers present in the full data, which were Philips, GE, Siemens and Hitachi, in all 3 sets, in order to have diverse sets but, in the original pool of patients, scans coming from Philips and Siemens scanners were predominantly represented, and will stay dominant by randomly sampling cases for the training set, but it is ensured that scans coming from all 4 scanner manufacturers are still present in the stratified set."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "The data is a multi-center and multi-scanner sample of real-world clinical data, and was stratified into training, validation and testing sets by following a carefully designed protocol that preserves robustness and minimizes any bias towards a certain aspect of the data, such as screening site, scanner model, magnetic field strength, scan quality, slice thickness, etc.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The data is a multi-center and multi-scanner sample of real-world clinical data, and was stratified into training, validation and testing sets by following a carefully designed protocol that preserves robustness and minimizes any bias towards a certain aspect of the data, such as screening site, scanner model, magnetic field strength, scan quality, slice thickness, etc."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

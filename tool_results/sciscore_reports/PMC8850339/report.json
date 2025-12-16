@@ -1,0 +1,171 @@
+{
+  "docIdentifier" : "PMC8850339",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "We considered patients to have died by suicide only if the COD to site record class in the SEER program was coded as suicide and self-inflicted injury.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We considered patients to have died by suicide only if the COD to site record class in the SEER program was coded as suicide and self-inflicted injury."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SEER (RRID:SCR_015499)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SEER"
+                }],
+              "neText" : "SEER"
+            }]
+        }, {
+          "sentence" : "16 All statistical analyses were performed by the Surveillance Research Program, National Cancer Institute SEER*Stat software (seer.cancer.govseerstat) version 8.3.9 and R Statistical Software version 4.0.3 (R Foundation for Statistical Computing), without multiple comparison corrections as the analyses were exploratory.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "16 All statistical analyses were performed by the Surveillance Research Program, National Cancer Institute SEER*Stat software (seer.cancer.govseerstat) version 8.3.9 and R Statistical Software version 4.0.3 (R Foundation for Statistical Computing), without multiple comparison corrections as the analyses were exploratory."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "R Project for Statistical Computing (RRID:SCR_001905)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "R Statistical"
+                }],
+              "neText" : "R Statistical"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "14 This study was approved by the institutional review board of the National Cancer Center of China, and written informed consent was waived given retrospective nature of the study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "14 This study was approved by the institutional review board of the National Cancer Center of China, and written informed consent was waived given retrospective nature of the study."
+              }]
+          }, {
+            "sentence" : "14 This study was approved by the institutional review board of the National Cancer Center of China, and written informed consent was waived given retrospective nature of the study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "14 This study was approved by the institutional review board of the National Cancer Center of China, and written informed consent was waived given retrospective nature of the study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Those identified by death certificate or autopsy were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Those identified by death certificate or autopsy were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Patients were classified according to the Site Recode the International Classification of Diseases for Oncology, third edition (ICD-O-3) WHO 2008 guidelines, which identify cancers of all sitesorgan systems including cancers of the oral cavity and pharynx, digestive system, respiratory system, bones and joints, brain and other nervous system, breast, urinary tract, female reproductive system, male reproductive system, soft tissues including the heart, skin (excluding basal cell carcinoma and squamous cell carcinoma, endocrine system, eye and orbit, as well as mesothelioma, leukemia, lymphoma, Kaposi sarcoma, and miscellaneous.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were classified according to the Site Recode the International Classification of Diseases for Oncology, third edition (ICD-O-3) WHO 2008 guidelines, which identify cancers of all sitesorgan systems including cancers of the oral cavity and pharynx, digestive system, respiratory system, bones and joints, brain and other nervous system, breast, urinary tract, female reproductive system, male reproductive system, soft tissues including the heart, skin (excluding basal cell carcinoma and squamous cell carcinoma, endocrine system, eye and orbit, as well as mesothelioma, leukemia, lymphoma, Kaposi sarcoma, and miscellaneous."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Changing trend of SMR and AER over year of diagnosis was tested by using Mann Kendall Trend Test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Changing trend of SMR and AER over year of diagnosis was tested by using Mann Kendall Trend Test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann Kendall Trend Test"
+                  }],
+                "neText" : "Mann Kendall Trend Test"
+              }]
+          }]
+      }]
+  }
+}

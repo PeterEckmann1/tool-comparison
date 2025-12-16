@@ -1,0 +1,289 @@
+{
+  "docIdentifier" : "PMC8200175",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The following primary antibodies were used: anti-CD14 V500 ( BD Horizon , clone MφP9) , anti-CD16 PE/Cy7 ( BioLegend , clone B73.1)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following primary antibodies were used: anti-CD14 V500 ( BD Horizon , clone M"
+            }, {
+              "f" : "symbol",
+              "c" : "φ"
+            }, {
+              "f" : "default",
+              "c" : "P9) , anti-CD16 PE/Cy7 ( BioLegend , clone B73.1)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD14"
+                }],
+              "neText" : "anti-CD14"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD16 PE/Cy7"
+                }],
+              "neText" : "anti-CD16 PE/Cy7"
+            }]
+        }, {
+          "sentence" : "Anti-CD56 and LiveDead staining were combined in a dump channel to exclude dead cells and natural killer ( NK ) cells .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Anti-CD56 and LiveDead staining were combined in a dump channel to exclude dead cells and natural killer ( NK ) cells ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-CD56"
+                }],
+              "neText" : "Anti-CD56"
+            }]
+        }, {
+          "sentence" : "In cohort 2 , the PBMCs were blocked with 0.1 mg human immunoglobulin ( Privigen , CSL Behring , Denmark ) pr . mL cell suspension and incubated for 15 min at 4 °C surface staining was performed using the following antibodies: anti-CD14-FITC ( Miltenyi , cat. number 130–110-518) , anti-CD16-APC-Vio770 ( Miltenyi , cat. number 130–096-655) , anti-Gal9-BV421 ( BioLegend cat. number 348,920) , anti-4-1BBL-APC ( Miltenyi , cat. number 130–103-656) , anti-Gal3-PE ( Miltenyi , cat. number 130–101-315 ) and viability-viogreen ( Miltenyi , cat. number 130–110-206) .",
+          "rowSpan" : 5,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In cohort 2 , the PBMCs were blocked with 0.1 mg human immunoglobulin ( Privigen , CSL Behring , Denmark ) pr . mL cell suspension and incubated for 15 min at 4 °C surface staining was performed using the following antibodies: anti-CD14-FITC ( Miltenyi , cat. number 130–110-518) , anti-CD16-APC-Vio770 ( Miltenyi , cat. number 130–096-655) , anti-Gal9-BV421 ( BioLegend cat. number 348,920) , anti-4-1BBL-APC ( Miltenyi , cat. number 130–103-656) , anti-Gal3-PE ( Miltenyi , cat. number 130–101-315 ) and viability-viogreen ( Miltenyi , cat. number 130–110-206) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD14-FITC"
+                }],
+              "neText" : "anti-CD14-FITC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD16-APC-Vio770"
+                }],
+              "neText" : "anti-CD16-APC-Vio770"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Gal9-BV421"
+                }],
+              "neText" : "anti-Gal9-BV421"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-4-1BBL-APC"
+                }],
+              "neText" : "anti-4-1BBL-APC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Gal3-PE"
+                }],
+              "neText" : "anti-Gal3-PE"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Thrombocytes ( 165–400 × 109/L ) 141±68 158±118 211±203 147±74 INR ( <1.2 ) 2±0.6 1.8±0.4 1.7±0.7 1.3±0.2 C-reactive protein ( mg/L ) 39±14 31±23 24±20 4±3 Leukocytes ( 3.5–10.0 × 109/L ) 14.2±7.5 11.4±7 13±7.9 4.2±3.7 Monocytes ( 0.20–0.70 × 109/L ) 1.7±0.6 1±0.6 0.9±0.6 0.9±0.3 MELD 22±6.8 22.2±9.2 20.6±11.1 9.5±6.9 Child–Pugh Score 11.1±1.1 10.6±1.3 9.9±1.8",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Thrombocytes ( 165–400 × 109/L ) 141±68 158±118 211±203 147±74 INR ( <1.2 ) 2±0.6 1.8±0.4 1.7±0.7 1.3±0.2 C-reactive protein ( mg/L ) 39±14 31±23 24±20 4±3 Leukocytes ( 3.5–10.0 × 109/L ) 14.2±7.5 11.4±7 13±7.9 4.2±3.7 Monocytes ( 0.20–0.70 × 109/L ) 1.7±0.6 1±0.6 0.9±0.6 0.9±0.3 MELD 22±6.8 22.2±9.2 20.6±11.1 9.5±6.9 Child–Pugh Score 11.1±1.1 10.6±1.3 9.9±1.8"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SCORE (RRID:SCR_014165)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Score"
+                }],
+              "neText" : "Score"
+            }]
+        }, {
+          "sentence" : "Data were analyzed in FlowJo ( Tree Star Inc .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analyzed in FlowJo ( Tree Star Inc ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "Statistics GraphPad Prism 8.4.0 was used to perform statistical analyses.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistics GraphPad Prism 8.4.0 was used to perform statistical analyses."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Inclusion and Exclusion Criteria In both cohorts , inclusion criteria followed international guidelines for inclusion of patients with AH in clinical trials.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion and Exclusion Criteria In both cohorts , inclusion criteria followed international guidelines for inclusion of patients with AH in clinical trials."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Five patients died between time of diagnosis and day 30, and 13 patients were lost to follow-up or denied ongoing participation (Table 1)",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Five patients died between time of diagnosis and day 30, and 13 patients were lost to follow-up or denied ongoing participation (Table 1)"
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Table 1 Patient Characteristics from Cohort 1 and Cohort 2 Cohort 1 Cohort 2 Day 0 Day 0 Day 7 Day 90 Total patients ( n ) 15 23 18 10 Male ( n ) 12 17 13 6 Female ( n ) 3 6 5 4 Age ( years ) 52±7 55±11 56±10",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Patient Characteristics from Cohort 1 and Cohort 2 Cohort 1 Cohort 2 Day 0 Day 0 Day 7 Day 90 Total patients ( n ) 15 23 18 10 Male ( n ) 12 17 13 6 Female ( n ) 3 6 5 4 Age ( years ) 52±7 55±11 56±10"
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Spearman’s rho was used for correlation analyses.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Spearman’s rho was used for correlation analyses."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman’s rho"
+                  }],
+                "neText" : "Spearman’s rho"
+              }]
+          }]
+      }]
+  }
+}

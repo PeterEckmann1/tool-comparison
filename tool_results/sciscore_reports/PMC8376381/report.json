@@ -1,0 +1,225 @@
+{
+  "docIdentifier" : "PMC8376381",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2.7 Statistical analysis Statistical analyses were conducted by means of SPSS v22.0 ( SPSS Inc . , Chicago , IL , USA ) and Graphpad Prism 8 ( GraphPad Software Inc .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.7 Statistical analysis Statistical analyses were conducted by means of SPSS v22.0 ( SPSS Inc . , Chicago , IL , USA ) and Graphpad Prism 8 ( GraphPad Software Inc ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad (RRID:SCR_000306)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Graphpad"
+                }],
+              "neText" : "Graphpad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was performed in accordance with the Helsinki Declaration, and the Ethics Committee of our hospital approved the study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was performed in accordance with the Helsinki Declaration, and the Ethics Committee of our hospital approved the study."
+              }]
+          }, {
+            "sentence" : "Each subject provided written informed consent after understanding the study details.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each subject provided written informed consent after understanding the study details."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "In addition, the power analysis showed that the effect size for GRP78 concentrations was 0.686 (95% CI 0.558–0.813) and for CHOP concentrations was 0.670 (95% CI 0.524–0.816).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In addition, the power analysis showed that the effect size for GRP78 concentrations was 0.686 (95% CI 0.558–0.813) and for CHOP concentrations was 0.670 (95% CI 0.524–0.816)."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "To test data distribution, Kolmogorov–Smirnov test was used.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To test data distribution, Kolmogorov–Smirnov test was used."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kolmogorov–Smirnov test"
+                  }],
+                "neText" : "Kolmogorov–Smirnov test"
+              }]
+          }, {
+            "sentence" : "Comparisons among categorical variables were conducted using the Chi-square test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons among categorical variables were conducted using the Chi-square test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-square test"
+                  }],
+                "neText" : "Chi-square test"
+              }]
+          }, {
+            "sentence" : "Differences in continuous variables between 2 groups were done using Kruskal–Wallis H test or one-way analysis of variance.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences in continuous variables between 2 groups were done using Kruskal–Wallis H test or one-way analysis of variance."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal–Wallis H test"
+                  }],
+                "neText" : "Kruskal–Wallis H test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }, {
+            "sentence" : "For multiple comparisons among groups, Bonferroni correction was used after one-way analysis of variance or Kruskal–Wallis H test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For multiple comparisons among groups, Bonferroni correction was used after one-way analysis of variance or Kruskal–Wallis H test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }]
+      }]
+  }
+}

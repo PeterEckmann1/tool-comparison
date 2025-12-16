@@ -1,0 +1,639 @@
+{
+  "docIdentifier" : "PMC8844799",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "They were then treated with PE-labeled CD133 antibody (Miltenyi Biotec, Bergisch Gladbach, Germany) at 4 °C for 30 min.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "They were then treated with PE-labeled CD133 antibody (Miltenyi Biotec, Bergisch Gladbach, Germany) at 4"
+            }, {
+              "f" : "symbol",
+              "c" : " "
+            }, {
+              "f" : "default",
+              "c" : "°C for 30"
+            }, {
+              "f" : "symbol",
+              "c" : " "
+            }, {
+              "f" : "default",
+              "c" : "min."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD133"
+                }],
+              "neText" : "CD133"
+            }]
+        }, {
+          "sentence" : "The samples incubated with the corresponding control IgG antibody were applied to set the gating level.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The samples incubated with the corresponding control IgG antibody were applied to set the gating level."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "control IgG"
+                }],
+              "neText" : "control IgG"
+            }]
+        }, {
+          "sentence" : "Each sample was treated with IgG antibody ( 1:300 , Abcam , Cambridge , MA , USA ) or E2F1 antibody ( 1:200 , Abcam ) for 1 h .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Each sample was treated with IgG antibody ( 1:300 , Abcam , Cambridge , MA , USA ) or E2F1 antibody ( 1:200 , Abcam ) for 1"
+            }, {
+              "f" : "symbol",
+              "c" : " "
+            }, {
+              "f" : "default",
+              "c" : "h ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IgG"
+                }],
+              "neText" : "IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "E2F1"
+                }],
+              "neText" : "E2F1"
+            }]
+        }, {
+          "sentence" : "The primary antibodies included: anti-CD133 ( 130–092–395 , 1:100 , Miltenyi Biotec) , anti-CD151 ( SAB1402716 , 1:50 , Sigma) , anti-E2F1 ( ab4070 , 1:500; Abcam) , anti-MDR1 ( ab170904 , 1:100 , Abcam) , anti-BCRP1 ( ab207732 , 1:100 , Abcam) , anti-γ-H2AX ( ab81299 , 1:400; Abcam) , anti-H2AX ( ab11175 , 1:200 , Abcam) , anti-AKT ( #9272 , 1:1000",
+          "rowSpan" : 6,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The primary antibodies included: anti-CD133 ( 130–092–395 , 1:100 , Miltenyi Biotec) , anti-CD151 ( SAB1402716 , 1:50 , Sigma) , anti-E2F1 ( ab4070 , 1:500; Abcam) , anti-MDR1 ( ab170904 , 1:100 , Abcam) , anti-BCRP1 ( ab207732 , 1:100 , Abcam) , anti-"
+            }, {
+              "f" : "symbol",
+              "c" : "γ"
+            }, {
+              "f" : "default",
+              "c" : "-H2AX ( ab81299 , 1:400; Abcam) , anti-H2AX ( ab11175 , 1:200 , Abcam) , anti-AKT ( #9272 , 1:1000"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD151"
+                }],
+              "neText" : "anti-CD151"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAB1402716"
+                }],
+              "neText" : "SAB1402716"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-"
+                }, {
+                  "f" : "symbol",
+                  "c" : "γ"
+                }, {
+                  "f" : "default",
+                  "c" : "-H2AX"
+                }],
+              "neText" : "anti-γ-H2AX"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-H2AX"
+                }],
+              "neText" : "anti-H2AX"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-AKT"
+                }],
+              "neText" : "anti-AKT"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "#9272"
+                }],
+              "neText" : "#9272"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "For the knockdown of DLGAP1-AS2, specific short hairpin RNA (shRNA) targeting DLGAP1-AS2 was constructed using the pGPU6-GFP-Neo gene vector.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For the knockdown of DLGAP1-AS2, specific short hairpin RNA (shRNA) targeting DLGAP1-AS2 was constructed using the pGPU6-GFP-Neo gene vector."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGPU6-GFP-Neo"
+                }],
+              "neText" : "pGPU6-GFP-Neo"
+            }]
+        }, {
+          "sentence" : "Wild-type ( WT ) and mutant ( MUT ) CD151 sequences containing the predicted E2F1 binding sites were cloned into psiCHECK-2 luciferase reporter plasmid ( Promega , Madison , WI , USA ) to produce luciferase reporter systems , including CD151-WT , CD151-S1 ( MUT2&3) , CD151-S2 ( MUT1&3 ) or CD151-S3 ( MUT1&2) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Wild-type ( WT ) and mutant ( MUT ) CD151 sequences containing the predicted E2F1 binding sites were cloned into psiCHECK-2 luciferase reporter plasmid ( Promega , Madison , WI , USA ) to produce luciferase reporter systems , including CD151-WT , CD151-S1 ( MUT2&3) , CD151-S2 ( MUT1&3 ) or CD151-S3 ( MUT1&2) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "psiCHECK-2"
+                }],
+              "neText" : "psiCHECK-2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The cells were cultured in RPMI1640 medium (Thermo Fisher, Waltham, MA, USA) with 10% FBS, penicillin (100 U/mL, Sigma Aldrich, St. Louis, MO, USA) and streptomycin (100 µg/mL, Sigma).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The cells were cultured in RPMI1640 medium (Thermo Fisher, Waltham, MA, USA) with 10% FBS, penicillin (100"
+            }, {
+              "f" : "symbol",
+              "c" : " "
+            }, {
+              "f" : "default",
+              "c" : "U/mL, Sigma Aldrich, St. Louis, MO, USA) and streptomycin (100"
+            }, {
+              "f" : "symbol",
+              "c" : " "
+            }, {
+              "f" : "default",
+              "c" : "µg/mL, Sigma)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Sigma-Aldrich (RRID:SCR_008988)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma Aldrich"
+                }],
+              "neText" : "Sigma Aldrich"
+            }]
+        }, {
+          "sentence" : "The wound healing area was analyzed using ImageJ software ( National Institutes of Health , Bethesda , MA , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The wound healing area was analyzed using ImageJ software ( National Institutes of Health , Bethesda , MA , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Dual luciferase reporter gene assay The JASPAR was used for predicting the putative E2F1 binding sites in the CD151 promoter .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Dual luciferase reporter gene assay The JASPAR was used for predicting the putative E2F1 binding sites in the CD151 promoter ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "JASPAR (RRID:SCR_003030)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "JASPAR"
+                }],
+              "neText" : "JASPAR"
+            }]
+        }, {
+          "sentence" : "The primary antibodies included: anti-CD133 ( 130–092–395 , 1:100 , Miltenyi Biotec) , anti-CD151 ( SAB1402716 , 1:50 , Sigma) , anti-E2F1 ( ab4070 , 1:500; Abcam) , anti-MDR1 ( ab170904 , 1:100 , Abcam) , anti-BCRP1 ( ab207732 , 1:100 , Abcam) , anti-γ-H2AX ( ab81299 , 1:400; Abcam) , anti-H2AX ( ab11175 , 1:200 , Abcam) , anti-AKT ( #9272 , 1:1000",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The primary antibodies included: anti-CD133 ( 130–092–395 , 1:100 , Miltenyi Biotec) , anti-CD151 ( SAB1402716 , 1:50 , Sigma) , anti-E2F1 ( ab4070 , 1:500; Abcam) , anti-MDR1 ( ab170904 , 1:100 , Abcam) , anti-BCRP1 ( ab207732 , 1:100 , Abcam) , anti-"
+            }, {
+              "f" : "symbol",
+              "c" : "γ"
+            }, {
+              "f" : "default",
+              "c" : "-H2AX ( ab81299 , 1:400; Abcam) , anti-H2AX ( ab11175 , 1:200 , Abcam) , anti-AKT ( #9272 , 1:1000"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "Statistical analyses were carried out by SPSS 20.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were carried out by SPSS 20.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All the samples were assayed in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the samples were assayed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "All the samples were assayed in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the samples were assayed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The data were analyzed by unpaired two-tailed Student's t-test (two groups) and one-way analysis of variance (multiple groups), followed by Tukey's post-test.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The data were analyzed by unpaired two-tailed Student's t-test (two groups) and one-way analysis of variance (multiple groups), followed by Tukey's post-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey's post-test"
+                  }],
+                "neText" : "Tukey's post-test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The sequences for constructing the plasmids of shRNA were showed following: sh-NC: 5′-GTTCTCCGAACGTGTCACGT- 3′, sh-DLGAP1-AS2: 5′-GCAAAATTAAAGATTTAGAAG -3′.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The sequences for constructing the plasmids of shRNA were showed following: sh-NC: 5′-GTTCTCCGAACGTGTCACGT- 3′, sh-DLGAP1-AS2: 5′-GCAAAATTAAAGATTTAGAAG -3′."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GTTCTCCGAACGTGTCACGT- 3′"
+                  }],
+                "neText" : "5′-GTTCTCCGAACGTGTCACGT- 3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GCAAAATTAAAGATTTAGAAG -3′"
+                  }],
+                "neText" : "5′-GCAAAATTAAAGATTTAGAAG -3′"
+              }]
+          }, {
+            "sentence" : "The primer sequences were presented: DLGAP1-AS2: F 5′-ACATCGTGGCTGAATGAACA- 3′ , R 5′-ATCAGTGGGGAGGAAGGAGT- 3′; DLGAP1: F 5′- GCTAAATGCTCTCAGCTGCAC −3′ , R 5′- GCGCAGCAACTTTTGGAGAA −3′; E2F1: F 5′-ATGTTTTCCTGTGCCCTGAG- 3′ , R 5′-AGATGATGGTGGTGGTGAC-3 ′; CD151: F 5′-ACAACTGCTGCTTCTGGCTG- 3′ , R 5′-AGCAGGATGAAGTACAAGCG- 3′; GAPDH: F 5′-TAGATGACACCCGTCCCTGA- 3′ , R 5′-ACCTCCACCTGTCCTTAGTG −3′ .",
+            "rowSpan" : 10,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The primer sequences were presented: DLGAP1-AS2: F 5′-ACATCGTGGCTGAATGAACA- 3′ , R 5′-ATCAGTGGGGAGGAAGGAGT- 3′; DLGAP1: F 5′- GCTAAATGCTCTCAGCTGCAC "
+              }, {
+                "f" : "symbol",
+                "c" : "−"
+              }, {
+                "f" : "default",
+                "c" : "3′ , R 5′- GCGCAGCAACTTTTGGAGAA "
+              }, {
+                "f" : "symbol",
+                "c" : "−"
+              }, {
+                "f" : "default",
+                "c" : "3′; E2F1: F 5′-ATGTTTTCCTGTGCCCTGAG- 3′ , R 5′-AGATGATGGTGGTGGTGAC-3 ′; CD151: F 5′-ACAACTGCTGCTTCTGGCTG- 3′ , R 5′-AGCAGGATGAAGTACAAGCG- 3′; GAPDH: F 5′-TAGATGACACCCGTCCCTGA- 3′ , R 5′-ACCTCCACCTGTCCTTAGTG "
+              }, {
+                "f" : "symbol",
+                "c" : "−"
+              }, {
+                "f" : "default",
+                "c" : "3′ ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-ACATCGTGGCTGAATGAACA- 3′"
+                  }],
+                "neText" : "5′-ACATCGTGGCTGAATGAACA- 3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-ATCAGTGGGGAGGAAGGAGT- 3′"
+                  }],
+                "neText" : "5′-ATCAGTGGGGAGGAAGGAGT- 3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′- GCTAAATGCTCTCAGCTGCAC "
+                  }, {
+                    "f" : "symbol",
+                    "c" : "−"
+                  }, {
+                    "f" : "default",
+                    "c" : "3′"
+                  }],
+                "neText" : "5′- GCTAAATGCTCTCAGCTGCAC −3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′- GCGCAGCAACTTTTGGAGAA "
+                  }, {
+                    "f" : "symbol",
+                    "c" : "−"
+                  }, {
+                    "f" : "default",
+                    "c" : "3′"
+                  }],
+                "neText" : "5′- GCGCAGCAACTTTTGGAGAA −3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-ATGTTTTCCTGTGCCCTGAG- 3′"
+                  }],
+                "neText" : "5′-ATGTTTTCCTGTGCCCTGAG- 3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-AGATGATGGTGGTGGTGAC-3 ′"
+                  }],
+                "neText" : "5′-AGATGATGGTGGTGGTGAC-3 ′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-ACAACTGCTGCTTCTGGCTG- 3′"
+                  }],
+                "neText" : "5′-ACAACTGCTGCTTCTGGCTG- 3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-AGCAGGATGAAGTACAAGCG- 3′"
+                  }],
+                "neText" : "5′-AGCAGGATGAAGTACAAGCG- 3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-TAGATGACACCCGTCCCTGA- 3′"
+                  }],
+                "neText" : "5′-TAGATGACACCCGTCCCTGA- 3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-ACCTCCACCTGTCCTTAGTG "
+                  }, {
+                    "f" : "symbol",
+                    "c" : "−"
+                  }, {
+                    "f" : "default",
+                    "c" : "3′"
+                  }],
+                "neText" : "5′-ACCTCCACCTGTCCTTAGTG −3′"
+              }]
+          }]
+      }]
+  }
+}

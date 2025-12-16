@@ -1,0 +1,147 @@
+{
+  "docIdentifier" : "PMC8221007",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "11] 2.3 Statistical analysis R 3.5.1 for RStudio version 1.1.456 (Boston, MA) was used for statistical analyses.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "11] 2.3 Statistical analysis R 3.5.1 for RStudio version 1.1.456 (Boston, MA) was used for statistical analyses."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RStudio (RRID:SCR_000432)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RStudio"
+                }],
+              "neText" : "RStudio"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All participating sites have approval from their institutional review board before submission of any data to the registry database.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participating sites have approval from their institutional review board before submission of any data to the registry database."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "We excluded patients with PSA > 20 ng/mL, age > 80 years, patients who received adjuvant ADT, patients with clinical stage T4 disease, patients with a positive bone scan, patients who underwent salvage or focal cryoablation of the prostate and patients who underwent hemi-ablation and focal ablation of the prostate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We excluded patients with PSA > 20 ng/mL, age > 80 years, patients who received adjuvant ADT, patients with clinical stage T4 disease, patients with a positive bone scan, patients who underwent salvage or focal cryoablation of the prostate and patients who underwent hemi-ablation and focal ablation of the prostate."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "We excluded patients with PSA > 20 ng/mL, age > 80 years, patients who received adjuvant ADT, patients with clinical stage T4 disease, patients with a positive bone scan, patients who underwent salvage or focal cryoablation of the prostate and patients who underwent hemi-ablation and focal ablation of the prostate.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We excluded patients with PSA > 20 ng/mL, age > 80 years, patients who received adjuvant ADT, patients with clinical stage T4 disease, patients with a positive bone scan, patients who underwent salvage or focal cryoablation of the prostate and patients who underwent hemi-ablation and focal ablation of the prostate."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The COLD registry is supervised by a scientific board of urologists, and an independent audit of scientific data is conducted yearly at randomly chosen centers to ensure the quality and accuracy of data.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The COLD registry is supervised by a scientific board of urologists, and an independent audit of scientific data is conducted yearly at randomly chosen centers to ensure the quality and accuracy of data."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Associations among type of probes were assessed using a chi-square test or Mann-Whitney U test where appropriate.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Associations among type of probes were assessed using a chi-square test or Mann-Whitney U test where appropriate."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }]
+      }]
+  }
+}

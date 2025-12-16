@@ -1,0 +1,670 @@
+{
+  "docIdentifier" : "PMC8741506",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The anti-Flag tag monoclonal antibody, the anti-Myc tag monoclonal antibody and the anti-b-actin monoclonal antibody were purchased from Proteintech Co.,",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The anti-Flag tag monoclonal antibody, the anti-Myc tag monoclonal antibody and the anti-b-actin monoclonal antibody were purchased from Proteintech Co.,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "The anti-Flag tag monoclonal"
+                }],
+              "neText" : "The anti-Flag tag monoclonal"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Flag tag"
+                }],
+              "neText" : "anti-Flag tag"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Myc tag"
+                }],
+              "neText" : "anti-Myc tag"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-b-actin"
+                }],
+              "neText" : "anti-b-actin"
+            }]
+        }, {
+          "sentence" : "The anti-HA monoclonal antibody was purchased from Boster Biological Technology Co.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The anti-HA monoclonal antibody was purchased from Boster Biological Technology Co."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-HA"
+                }],
+              "neText" : "anti-HA"
+            }]
+        }, {
+          "sentence" : "The other part of the proteins (500 mL) was added with anti-Flag antibody and incubated with protein G beads at 4degC overnight for immunoprecipitation.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The other part of the proteins (500 mL) was added with anti-Flag antibody and incubated with protein G beads at 4degC overnight for immunoprecipitation."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Flag"
+                }],
+              "neText" : "anti-Flag"
+            }]
+        }, {
+          "sentence" : "After blocking with 5 milk in tris buffered saline (TBS) buffer containing 0.1 Tween for 90 min at room temperature, the membranes were reacted with corresponding primary antibodies for 12 h at 4degC, and then followed by horseradish peroxidase-conjugated goat anti-mouse IgG or goat anti-rabbit IgG at room temperature for 90 min.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After blocking with 5 milk in tris buffered saline (TBS) buffer containing 0.1 Tween for 90 min at room temperature, the membranes were reacted with corresponding primary antibodies for 12 h at 4degC, and then followed by horseradish peroxidase-conjugated goat anti-mouse IgG or goat anti-rabbit IgG at room temperature for 90 min."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG"
+                }],
+              "neText" : "anti-mouse IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "The HEK 293T cells (ATCC CRL-11268) were obtained from Fuheng Biology Co., Ltd (Shanghai, China), and cultured in DMEM with 10 FBS.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The HEK 293T cells (ATCC CRL-11268) were obtained from Fuheng Biology Co., Ltd (Shanghai, China), and cultured in DMEM with 10 FBS."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK 293T"
+                }],
+              "neText" : "HEK 293T"
+            }]
+        }, {
+          "sentence" : "At 48 h post transfection, 293T cells were collected and the cellular total proteins were extracted using NP-40 lysis buffer.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "At 48 h post transfection, 293T cells were collected and the cellular total proteins were extracted using NP-40 lysis buffer."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "293T"
+                }],
+              "neText" : "293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "The plasmids pET-32a(+) and pcDNA3.1(+) were obtained from Sangon Biotech Co., Ltd (Shanghai, China).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The plasmids pET-32a(+) and pcDNA3.1(+) were obtained from Sangon Biotech Co., Ltd (Shanghai, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pET-32a(+"
+                }],
+              "neText" : "pET-32a(+"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_100544",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1"
+                }],
+              "neText" : "pcDNA3.1"
+            }]
+        }, {
+          "sentence" : "The pcDNA3.1-HA-Ub construction plasmid was purchased from Transvector Co.,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The pcDNA3.1-HA-Ub construction plasmid was purchased from Transvector Co.,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_136995",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1-HA-Ub"
+                }],
+              "neText" : "pcDNA3.1-HA-Ub"
+            }]
+        }, {
+          "sentence" : "Construction of Recombinant Plasmids The gene fragment of IBV PLpro was amplified from IBV-infected CEK cells by PCR with the addition of 6 x His and Myc tag in primers respectively , and subsequently it was connected to the pET-32a(+ ) or pcDNA3.1 ( + ) expression vectors to build recombinant plasmids .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Construction of Recombinant Plasmids The gene fragment of IBV PLpro was amplified from IBV-infected CEK cells by PCR with the addition of 6 x His and Myc tag in primers respectively , and subsequently it was connected to the pET-32a(+ ) or pcDNA3.1 ( + ) expression vectors to build recombinant plasmids ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1 ( + )"
+                }],
+              "neText" : "pcDNA3.1 ( + )"
+            }]
+        }, {
+          "sentence" : "Expression of IBV PLpro The pET-32a-IBV-PLpro recombinant plasmid was transformed into the E . coli BL21 ( DE3 ) cells for protein expression .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Expression of IBV PLpro The pET-32a-IBV-PLpro recombinant plasmid was transformed into the E . coli BL21 ( DE3 ) cells for protein expression ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pET-32a-IBV-PLpro"
+                }],
+              "neText" : "pET-32a-IBV-PLpro"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The anti-HA monoclonal antibody was purchased from Boster Biological Technology Co.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The anti-HA monoclonal antibody was purchased from Boster Biological Technology Co."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Boster Biological"
+                }],
+              "neText" : "Boster Biological"
+            }]
+        }, {
+          "sentence" : "Statistical Analysis Statistical analysis was performed using IBM SPSS 21 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis Statistical analysis was performed using IBM SPSS 21 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }, {
+          "sentence" : "The data were visualized using GraphPad Prism 7 software and the statistically significant differences were set at (*) P < 0.05, (**) P < 0.01, (***) P < 0.001.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The data were visualized using GraphPad Prism 7 software and the statistically significant differences were set at (*) P < 0.05, (**) P < 0.01, (***) P < 0.001."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was approved by the Ethics Committee of Sichuan Agricultural University according to The Regulation of Experimental Animal Management.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the Ethics Committee of Sichuan Agricultural University according to The Regulation of Experimental Animal Management."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Data were analyzed to establish their significance using the students t test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data were analyzed to establish their significance using the students t test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "students t test"
+                  }],
+                "neText" : "students t test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Table 1 Gene Sequences ( 5-3 ) Accession No. IBV N Forward: CAAAGGTGGAAGAAAACCAGT NC_001451.1 Reverse: ATTTAGTATCAGCACCCTTAGCAG TRAF6 Forward: CAATAGAAAGCACGTATGACC XM_015287208.2 Reverse: AGCATTACAGTAACTTGGCAT TAB1 Forward: TCAGCTCCAAACCGTTC NM_001006240.2 Reverse: ATCATAGCCATTGAAGACACC IKKb Forward: ACAGCCAAGAAATAGTACGG NM_001031397.1 Reverse: AGCATAAATGACTCGGACCT IL-1b Forward: CCCGCCTTCCGCTACACC NM_204524.1 Reverse: TGACTCCAGCACGAAGCAC IL-6 Forward: TAGAGAAAATCACCATGCACCT NM_204628.1 Reverse:",
+            "rowSpan" : 11,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Gene Sequences ( 5-3 ) Accession No. IBV N Forward: CAAAGGTGGAAGAAAACCAGT NC_001451.1 Reverse: ATTTAGTATCAGCACCCTTAGCAG TRAF6 Forward: CAATAGAAAGCACGTATGACC XM_015287208.2 Reverse: AGCATTACAGTAACTTGGCAT TAB1 Forward: TCAGCTCCAAACCGTTC NM_001006240.2 Reverse: ATCATAGCCATTGAAGACACC IKKb Forward: ACAGCCAAGAAATAGTACGG NM_001031397.1 Reverse: AGCATAAATGACTCGGACCT IL-1b Forward: CCCGCCTTCCGCTACACC NM_204524.1 Reverse: TGACTCCAGCACGAAGCAC IL-6 Forward: TAGAGAAAATCACCATGCACCT NM_204628.1 Reverse:"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAAAGGTGGAAGAAAACCAGT"
+                  }],
+                "neText" : "CAAAGGTGGAAGAAAACCAGT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ATTTAGTATCAGCACCCTTAGCAG"
+                  }],
+                "neText" : "ATTTAGTATCAGCACCCTTAGCAG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAATAGAAAGCACGTATGACC"
+                  }],
+                "neText" : "CAATAGAAAGCACGTATGACC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AGCATTACAGTAACTTGGCAT"
+                  }],
+                "neText" : "AGCATTACAGTAACTTGGCAT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TCAGCTCCAAACCGTTC"
+                  }],
+                "neText" : "TCAGCTCCAAACCGTTC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ATCATAGCCATTGAAGACACC"
+                  }],
+                "neText" : "ATCATAGCCATTGAAGACACC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACAGCCAAGAAATAGTACGG"
+                  }],
+                "neText" : "ACAGCCAAGAAATAGTACGG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AGCATAAATGACTCGGACCT"
+                  }],
+                "neText" : "AGCATAAATGACTCGGACCT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCCGCCTTCCGCTACACC"
+                  }],
+                "neText" : "CCCGCCTTCCGCTACACC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TGACTCCAGCACGAAGCAC"
+                  }],
+                "neText" : "TGACTCCAGCACGAAGCAC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TAGAGAAAATCACCATGCACCT"
+                  }],
+                "neText" : "TAGAGAAAATCACCATGCACCT"
+              }]
+          }, {
+            "sentence" : "TNF-a Forward: GCCTATGCCAACAAGTACACC NM_204267.1 Reverse: ACGCTCCTGACTCATAGCAGA MDA5 Forward: ATGTATAAGGCCATTCGACRever se: TTCTTATATGTCTTACGCTGA AB371640.1 MAVS Forward: AACAACTCATCTCACGCCGAARev erse: TGAAATCAGAGCGATGCCAA MF289560.1 TRAF3 Forward: TAGATATAATTCAATGGCACT XM_015287827.2 Reverse: ACAATTATTGAAATGACACGAA IRF7 Forward: CGTATCTTCCGCATCCCTRevers e: GCCTTGAAGATCTCCACGTC",
+            "rowSpan" : 7,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "TNF-a Forward: GCCTATGCCAACAAGTACACC NM_204267.1 Reverse: ACGCTCCTGACTCATAGCAGA MDA5 Forward: ATGTATAAGGCCATTCGACRever se: TTCTTATATGTCTTACGCTGA AB371640.1 MAVS Forward: AACAACTCATCTCACGCCGAARev erse: TGAAATCAGAGCGATGCCAA MF289560.1 TRAF3 Forward: TAGATATAATTCAATGGCACT XM_015287827.2 Reverse: ACAATTATTGAAATGACACGAA IRF7 Forward: CGTATCTTCCGCATCCCTRevers e: GCCTTGAAGATCTCCACGTC"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCCTATGCCAACAAGTACACC"
+                  }],
+                "neText" : "GCCTATGCCAACAAGTACACC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACGCTCCTGACTCATAGCAGA"
+                  }],
+                "neText" : "ACGCTCCTGACTCATAGCAGA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TTCTTATATGTCTTACGCTGA"
+                  }],
+                "neText" : "TTCTTATATGTCTTACGCTGA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AACAACTCATCTCACGCCGAARev erse"
+                  }],
+                "neText" : "AACAACTCATCTCACGCCGAARev erse"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TAGATATAATTCAATGGCACT"
+                  }],
+                "neText" : "TAGATATAATTCAATGGCACT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACAATTATTGAAATGACACGAA"
+                  }],
+                "neText" : "ACAATTATTGAAATGACACGAA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCCTTGAAGATCTCCACGTC"
+                  }],
+                "neText" : "GCCTTGAAGATCTCCACGTC"
+              }]
+          }, {
+            "sentence" : "C KP096419.1 IFN-a Forward: CCTCGCAACCTTCACCReverse: AACCAGGCACGAGCTT KF923375.1 IFN-b Forward: TCCAGCTCCTTCAGAATACGGRev erse: ATGGCTGCTTGCTTCTTGTCC GU119897.1 b-actin Forward: CAACACAGTGCTGTCTGGTGGTAR everse: ATCGTACTCCTGCTTGCTGATCC NM_205518.1 Transfection and Co-Immunoprecipitation When the 293T cells reached to 70 to 90 abundance, transfection was performed according to the Lipofectamine 3,000 instructions.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "C KP096419.1 IFN-a Forward: CCTCGCAACCTTCACCReverse: AACCAGGCACGAGCTT KF923375.1 IFN-b Forward: TCCAGCTCCTTCAGAATACGGRev erse: ATGGCTGCTTGCTTCTTGTCC GU119897.1 b-actin Forward: CAACACAGTGCTGTCTGGTGGTAR everse: ATCGTACTCCTGCTTGCTGATCC NM_205518.1 Transfection and Co-Immunoprecipitation When the 293T cells reached to 70 to 90 abundance, transfection was performed according to the Lipofectamine 3,000 instructions."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AACCAGGCACGAGCTT"
+                  }],
+                "neText" : "AACCAGGCACGAGCTT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ATGGCTGCTTGCTTCTTGTCC"
+                  }],
+                "neText" : "ATGGCTGCTTGCTTCTTGTCC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAACACAGTGCTGTCTGGTGGTAR everse"
+                  }],
+                "neText" : "CAACACAGTGCTGTCTGGTGGTAR everse"
+              }]
+          }]
+      }, {
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "TNF-a Forward: GCCTATGCCAACAAGTACACC NM_204267.1 Reverse: ACGCTCCTGACTCATAGCAGA MDA5 Forward: ATGTATAAGGCCATTCGACRever se: TTCTTATATGTCTTACGCTGA AB371640.1 MAVS Forward: AACAACTCATCTCACGCCGAARev erse: TGAAATCAGAGCGATGCCAA MF289560.1 TRAF3 Forward: TAGATATAATTCAATGGCACT XM_015287827.2 Reverse: ACAATTATTGAAATGACACGAA IRF7 Forward: CGTATCTTCCGCATCCCTRevers e: GCCTTGAAGATCTCCACGTC",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "TNF-a Forward: GCCTATGCCAACAAGTACACC NM_204267.1 Reverse: ACGCTCCTGACTCATAGCAGA MDA5 Forward: ATGTATAAGGCCATTCGACRever se: TTCTTATATGTCTTACGCTGA AB371640.1 MAVS Forward: AACAACTCATCTCACGCCGAARev erse: TGAAATCAGAGCGATGCCAA MF289560.1 TRAF3 Forward: TAGATATAATTCAATGGCACT XM_015287827.2 Reverse: ACAATTATTGAAATGACACGAA IRF7 Forward: CGTATCTTCCGCATCCCTRevers e: GCCTTGAAGATCTCCACGTC"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AB371640."
+                  }],
+                "neText" : "AB371640."
+              }]
+          }]
+      }]
+  }
+}

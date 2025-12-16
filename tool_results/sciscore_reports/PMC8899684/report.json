@@ -1,0 +1,140 @@
+{
+  "docIdentifier" : "PMC8899684",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Materials and methods Animals and SAH model Male, wild-type C57BL6, average weighing 25-30 g, were obtained from the Laboratory Animal Services Centre of the Chinese University of Hong Kong.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Animals and SAH model Male, wild-type C57BL6, average weighing 25-30 g, were obtained from the Laboratory Animal Services Centre of the Chinese University of Hong Kong."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }, {
+          "sentence" : "Transgenic mice used in this study including B6.129S1-Stat3tm1XyfuJ (homozygous STAT3floxflox ) and B6J.B6N(Cg)-Cx3Cr1tm1.1(cre)JungJ (homozygous Cx3Cr1CreCre ) were purchased from the Jackson Laboratory (JAX Stock 016923 and 25524 JAX, Maine, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Transgenic mice used in this study including B6.129S1-Stat3tm1XyfuJ (homozygous STAT3floxflox ) and B6J.B6N(Cg)-Cx3Cr1tm1.1(cre)JungJ (homozygous Cx3Cr1CreCre ) were purchased from the Jackson Laboratory (JAX Stock 016923 and 25524 JAX, Maine, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "B6.129S1-Stat3tm1XyfuJ"
+                }],
+              "neText" : "B6.129S1-Stat3tm1XyfuJ"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "B6J.B6N(Cg)-Cx3Cr1tm1.1(cre)JungJ"
+                }],
+              "neText" : "B6J.B6N(Cg)-Cx3Cr1tm1.1(cre)JungJ"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and methods Animals and SAH model Male, wild-type C57BL6, average weighing 25-30 g, were obtained from the Laboratory Animal Services Centre of the Chinese University of Hong Kong.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Animals and SAH model Male, wild-type C57BL6, average weighing 25-30 g, were obtained from the Laboratory Animal Services Centre of the Chinese University of Hong Kong."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "docIdentifier" : "PMC8290119",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Briefly, repetitive elements were annotated by using a combination of LTRharvest (Ellinghaus et al. 2008), LTRdigest (Steinbiss et al. 2009), and RepeatModeler.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly, repetitive elements were annotated by using a combination of LTRharvest (Ellinghaus et al. 2008), LTRdigest (Steinbiss et al. 2009), and RepeatModeler."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RepeatModeler (RRID:SCR_015027)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RepeatModeler"
+                }],
+              "neText" : "RepeatModeler"
+            }]
+        }, {
+          "sentence" : "The genome-wide occurrence of repeats was determined with RepeatMasker v 4.0.9, and the output was further processed using one code to find them all (Bailly-Bechet et al. 2014).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The genome-wide occurrence of repeats was determined with RepeatMasker v 4.0.9, and the output was further processed using one code to find them all (Bailly-Bechet et al. 2014)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RepeatMasker (RRID:SCR_012954)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RepeatMasker"
+                }],
+              "neText" : "RepeatMasker"
+            }]
+        }, {
+          "sentence" : "Functional gene annotation was based on the available V. dahliae JR2 gene annotation (Faino et al. 2015) and was performed using eggNOG 5.0 (Huerta-Cepas et al. 2019) based on an hierarchical nonsupervised orthology search, restricted to a fungal database with e-values >=0.001 and query coverage >=50.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Functional gene annotation was based on the available V. dahliae JR2 gene annotation (Faino et al. 2015) and was performed using eggNOG 5.0 (Huerta-Cepas et al. 2019) based on an hierarchical nonsupervised orthology search, restricted to a fungal database with e-values >=0.001 and query coverage >=50."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "eggNOG (RRID:SCR_002456)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "eggNOG"
+                }],
+              "neText" : "eggNOG"
+            }]
+        }, {
+          "sentence" : "To define the V. dahliae secretome, we predicted N-terminal signal peptides using SignalP v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To define the V. dahliae secretome, we predicted N-terminal signal peptides using SignalP v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SignalP"
+                }],
+              "neText" : "SignalP"
+            }]
+        }, {
+          "sentence" : "Single-end sequencing reads of three biological replicates per condition were mapped to V. dahliae strain JR2 genome assembly (Faino et al. 2015) using STAR v.2.4.2.a, allowing multiple mapped reads with the following settings: -outFilterMultimapNmax 100 -winAnchorMultimapNmax",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Single-end sequencing reads of three biological replicates per condition were mapped to V. dahliae strain JR2 genome assembly (Faino et al. 2015) using STAR v.2.4.2.a, allowing multiple mapped reads with the following settings: -outFilterMultimapNmax 100 -winAnchorMultimapNmax"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STAR"
+                }],
+              "neText" : "STAR"
+            }]
+        }, {
+          "sentence" : "The bam files were sorted by read name with samtools v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The bam files were sorted by read name with samtools v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "samtools"
+                }],
+              "neText" : "samtools"
+            }]
+        }, {
+          "sentence" : "Sequencing reads summarized over TEs and genes were normalized between three replicates in the different conditions using RBioconductor package EdgeR v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Sequencing reads summarized over TEs and genes were normalized between three replicates in the different conditions using RBioconductor package EdgeR v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "edgeR (RRID:SCR_012802)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EdgeR"
+                }],
+              "neText" : "EdgeR"
+            }]
+        }, {
+          "sentence" : "Libraries were normalized with TMM method ( Robinson and Oshlack 2010) , and converted to CPM-mapped reads using RBioconductor package EdgeR v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Libraries were normalized with TMM method ( Robinson and Oshlack 2010) , and converted to CPM-mapped reads using RBioconductor package EdgeR v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RBioconductor"
+                }],
+              "neText" : "RBioconductor"
+            }]
+        }, {
+          "sentence" : "Each strain was mapped independently to the reference genome V . dahliae JR2 using BWA -MEM v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Each strain was mapped independently to the reference genome V . dahliae JR2 using BWA -MEM v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BWA (RRID:SCR_010910)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BWA"
+                }],
+              "neText" : "BWA"
+            }]
+        }, {
+          "sentence" : "Library artifacts were marked and removed using Picard tools v.2.18 with -MarkDuplicates followed by -SortSam to sort the reads ( http:broadinstitute.github . iopicard) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Library artifacts were marked and removed using Picard tools v.2.18 with -MarkDuplicates followed by -SortSam to sort the reads ( http:broadinstitute.github . iopicard) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Picard"
+                }],
+              "neText" : "Picard"
+            }]
+        }, {
+          "sentence" : "Single-nucleotide variants were identified using the -HaplotypeCaller of the Genome Analysis Toolkit ( GATK ) v.4.0 ( Poplin et al. 2018) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Single-nucleotide variants were identified using the -HaplotypeCaller of the Genome Analysis Toolkit ( GATK ) v.4.0 ( Poplin et al. 2018) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Genome Analysis Toolkit"
+                }],
+              "neText" : "Genome Analysis Toolkit"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GATK (RRID:SCR_001876)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GATK"
+                }],
+              "neText" : "GATK"
+            }]
+        }, {
+          "sentence" : "Single-nucleotide variants were annotated using SNPeff v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Single-nucleotide variants were annotated using SNPeff v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SNPeff"
+                }],
+              "neText" : "SNPeff"
+            }]
+        }, {
+          "sentence" : "Briefly , the workflow takes every strain and maps the genomic reads to the reference genome V . dahliae JR2 using BWA-MEM v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly , the workflow takes every strain and maps the genomic reads to the reference genome V . dahliae JR2 using BWA-MEM v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BWA-MEM"
+                }],
+              "neText" : "BWA-MEM"
+            }]
+        }, {
+          "sentence" : "We used four different callers: DELLY v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We used four different callers: DELLY v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DELLY"
+                }],
+              "neText" : "DELLY"
+            }]
+        }, {
+          "sentence" : "0.8.1 ( Rausch et al. 2012) , LUMPY v.2.13 ( Layer et al. 2014) , Manta v.1.6.0 ( Chen et al. 2016) , and Wham v.1.0 ( Kronenberg et al. 2015 ) in single-sample mode , using each 42 previously sequenced V . dahliae strains independently ( supplementary table 1 , Supplementary Material online) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "0.8.1 ( Rausch et al. 2012) , LUMPY v.2.13 ( Layer et al. 2014) , Manta v.1.6.0 ( Chen et al. 2016) , and Wham v.1.0 ( Kronenberg et al. 2015 ) in single-sample mode , using each 42 previously sequenced V . dahliae strains independently ( supplementary table 1 , Supplementary Material online) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Wham"
+                }],
+              "neText" : "Wham"
+            }]
+        }, {
+          "sentence" : "These callers incorporate a diverse range of information for SV detection such as split reads ( DELLY , LUMPY , Wham) , discordant read pairs ( DELLY , LUMPY , Wham) , read depth signal ( LUMPY , Wham) , short-read assembly ( Manta , Wham) , and soft-clipping detection ( Wham) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These callers incorporate a diverse range of information for SV detection such as split reads ( DELLY , LUMPY , Wham) , discordant read pairs ( DELLY , LUMPY , Wham) , read depth signal ( LUMPY , Wham) , short-read assembly ( Manta , Wham) , and soft-clipping detection ( Wham) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LUMPY"
+                }],
+              "neText" : "LUMPY"
+            }]
+        }, {
+          "sentence" : "3.6.3, using packages FactoMineR v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "3.6.3, using packages FactoMineR v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FactoMineR"
+                }],
+              "neText" : "FactoMineR"
+            }]
+        }, {
+          "sentence" : "To further investigate the relationship of TEs with gene expression, we summarized TEs in 5 kb windows upstream and downstream genes, using bedtools -window (Quinlan and Hall 2010).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To further investigate the relationship of TEs with gene expression, we summarized TEs in 5 kb windows upstream and downstream genes, using bedtools -window (Quinlan and Hall 2010)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "bedtools"
+                }],
+              "neText" : "bedtools"
+            }]
+        }, {
+          "sentence" : "3.6.3 (R Core Team 2019), and visualization with R packages ggplot2 and circlize (Gu et al. 2014 Wickham et al. 2016).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "3.6.3 (R Core Team 2019), and visualization with R packages ggplot2 and circlize (Gu et al. 2014 Wickham et al. 2016)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ggplot2 (RRID:SCR_014601)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ggplot2"
+                }],
+              "neText" : "ggplot2"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Simple repeats and low-complexity regions were excluded (Cook et al. 2020 Seidl et al. 2020).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Simple repeats and low-complexity regions were excluded (Cook et al. 2020 Seidl et al. 2020)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "1.18.1 package (Gel et al. 2016) and performed 10,000 iterations, using the mean distance to evaluate the closest relationship (bp distance) between SV-breakpoints and TE elements, and circular randomization to maintain the order and distance of the regions in the chromosomes.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "1.18.1 package (Gel et al. 2016) and performed 10,000 iterations, using the mean distance to evaluate the closest relationship (bp distance) between SV-breakpoints and TE elements, and circular randomization to maintain the order and distance of the regions in the chromosomes."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Single-end sequencing reads of three biological replicates per condition were mapped to V. dahliae strain JR2 genome assembly (Faino et al. 2015) using STAR v.2.4.2.a, allowing multiple mapped reads with the following settings: -outFilterMultimapNmax 100 -winAnchorMultimapNmax",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Single-end sequencing reads of three biological replicates per condition were mapped to V. dahliae strain JR2 genome assembly (Faino et al. 2015) using STAR v.2.4.2.a, allowing multiple mapped reads with the following settings: -outFilterMultimapNmax 100 -winAnchorMultimapNmax"
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "Single-end sequencing reads of three biological replicates per condition were mapped to V. dahliae strain JR2 genome assembly (Faino et al. 2015) using STAR v.2.4.2.a, allowing multiple mapped reads with the following settings: -outFilterMultimapNmax 100 -winAnchorMultimapNmax",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Single-end sequencing reads of three biological replicates per condition were mapped to V. dahliae strain JR2 genome assembly (Faino et al. 2015) using STAR v.2.4.2.a, allowing multiple mapped reads with the following settings: -outFilterMultimapNmax 100 -winAnchorMultimapNmax"
+              }]
+          }, {
+            "sentence" : "Single-end sequencing reads of three biological replicates per condition were mapped to V. dahliae strain JR2 genome assembly (Faino et al. 2015) using STAR v.2.4.2.a, allowing multiple mapped reads with the following settings: -outFilterMultimapNmax 100 -winAnchorMultimapNmax",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Single-end sequencing reads of three biological replicates per condition were mapped to V. dahliae strain JR2 genome assembly (Faino et al. 2015) using STAR v.2.4.2.a, allowing multiple mapped reads with the following settings: -outFilterMultimapNmax 100 -winAnchorMultimapNmax"
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "To investigate if SVs colocalize , we performed a clustering analysis using CROC ( Pignatelli et al. 2009 ) based on a hypergeometric distribution test and posterior multiple-testing correction using Benjamini-Hochberg CROC scans every chromosome with a sliding window ( SV-breakpoints per window = 10 , slide = 1 , >3 SV-breakpoints as a minimum) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To investigate if SVs colocalize , we performed a clustering analysis using CROC ( Pignatelli et al. 2009 ) based on a hypergeometric distribution test and posterior multiple-testing correction using Benjamini-Hochberg CROC scans every chromosome with a sliding window ( SV-breakpoints per window = 10 , slide = 1 , >3 SV-breakpoints as a minimum) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }]
+          }, {
+            "sentence" : "Finally, we computed enrichment association tests using bedtools -fisher v.2.25.0 based on a one-sided Fishers test (Quinlan and Hall 2010) and random association permutation tests using RBioconductor region v.1.18.1 (Gel et al. 2016), performing 5,000 iterations with a resampling randomization.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Finally, we computed enrichment association tests using bedtools -fisher v.2.25.0 based on a one-sided Fishers test (Quinlan and Hall 2010) and random association permutation tests using RBioconductor region v.1.18.1 (Gel et al. 2016), performing 5,000 iterations with a resampling randomization."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers test"
+                  }],
+                "neText" : "Fishers test"
+              }]
+          }]
+      }]
+  }
+}

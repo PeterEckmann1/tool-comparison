@@ -1,0 +1,245 @@
+{
+  "docIdentifier" : "PMC8903219",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "PyRadiomics (version 2.2.0) with default calculation settings, 30 an open-source library implemented in Python capable of extracting a large panel of features from medical images, was used to extract the RFs.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "PyRadiomics (version 2.2.0) with default calculation settings, 30 an open-source library implemented in Python capable of extracting a large panel of features from medical images, was used to extract the RFs."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "python-bx (RRID:SCR_024202)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "However, because of the fixed-shape segmentation, all morphological RFs were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "However, because of the fixed-shape segmentation, all morphological RFs were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : ", women: 266 age: 51.2 +- 11.4 years ) was used in this study .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : ", women: 266 age: 51.2 +- 11.4 years ) was used in this study ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "In accordance with the instruction manual, the 9 simulated nodules were randomly attached to the internal structure of the lung by using double-sided adhesive tape and tweezers.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In accordance with the instruction manual, the 9 simulated nodules were randomly attached to the internal structure of the lung by using double-sided adhesive tape and tweezers."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "For the intra-CT protocol trial, Aquilion ONE TSX-301C was selected to obtain CT images with varying acquisition and reconstruction parameters (Table 2), and the intra-CT protocol trial was repeated twice to obtain a more general result.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the intra-CT protocol trial, Aquilion ONE TSX-301C was selected to obtain CT images with varying acquisition and reconstruction parameters (Table 2), and the intra-CT protocol trial was repeated twice to obtain a more general result."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "For the intra-CT protocol trial, Aquilion ONE TSX-301C was selected to obtain CT images with varying acquisition and reconstruction parameters (Table 2), and the intra-CT protocol trial was repeated twice to obtain a more general result.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the intra-CT protocol trial, Aquilion ONE TSX-301C was selected to obtain CT images with varying acquisition and reconstruction parameters (Table 2), and the intra-CT protocol trial was repeated twice to obtain a more general result."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "For further validation of the results of stability analyses , the entire dataset was divided into 2 parts with nonoverlapping CT scanners ( see Table S2",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For further validation of the results of stability analyses , the entire dataset was divided into 2 parts with nonoverlapping CT scanners ( see Table S2"
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The varying scope of acquisition and reconstruction parameters were chosen based on previous studies 16,18,19,28,29 and radiologists previous knowledge.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The varying scope of acquisition and reconstruction parameters were chosen based on previous studies 16,18,19,28,29 and radiologists previous knowledge."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "16,18,19,28,29"
+                  }],
+                "neText" : "16,18,19,28,29"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "TABLE 1 CT Acquisition Protocols for the Test-Retest and Inter-CT Trials Site CT Scanner (Manufacturer) Pitch* Rotation Time (s) Tube Voltage (kVp) Tube Current (mA*s) FOV (mm) Slice Thickness (mm)* Slice Interval (mm)* Reconstruction Kernel+ Reconstruction Method++ Shanghai Public Health Clinical Center (Jinshan District) Aquilion ONE TSX-301C (Toshiba) 0.813 0.5 120 75 350 1.0 1.0 FC56 AIDR 3D (standard) Shanghai Public Health Clinical Center (Jinshan District) SCENARIA (Hitachi) 0.8281 0.5 120 75 350 1.0 1.0 66 Intelli IP (Lv.2) Shanghai Public Health Clinical Center (Hongkou District) Brilliance 64 (Philips) 0.891 0.5 120 75 350 1.0 1.0 L Standard (enhancement = 1.0) Zhongshan Hospital of Fudan University SOMATOM Definition AS (Siemens Healthineers) 0.9 0.5 120 75 350 1.0 1.0 B60f ADMIRE (strength = 3) Zhongshan Hospital of Fudan University Aquilion ONE TSX-301A (Toshiba) 0.828 0.5 120 75 350 1.0 1.0 FC56 AIDR 3D (standard) Zhongshan Hospital of Fudan University UCT550 (United Imaging Healthcare) 0.8875 0.5 120 75 350 1.0 1.0 SHARPC Adaptive filter function (enhancement = 2.5) Shanghai Sixth Peoples Hospital Revolution CT (GE Healthcare) 0.992 0.5 120 75 350 1.25 1.25 LUNG ASiR (PlusSS40) The number of decimal places was consistent with the corresponding CT scanner control panel.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "TABLE 1 CT Acquisition Protocols for the Test-Retest and Inter-CT Trials Site CT Scanner (Manufacturer) Pitch* Rotation Time (s) Tube Voltage (kVp) Tube Current (mA*s) FOV (mm) Slice Thickness (mm)* Slice Interval (mm)* Reconstruction Kernel+ Reconstruction Method++ Shanghai Public Health Clinical Center (Jinshan District) Aquilion ONE TSX-301C (Toshiba) 0.813 0.5 120 75 350 1.0 1.0 FC56 AIDR 3D (standard) Shanghai Public Health Clinical Center (Jinshan District) SCENARIA (Hitachi) 0.8281 0.5 120 75 350 1.0 1.0 66 Intelli IP (Lv.2) Shanghai Public Health Clinical Center (Hongkou District) Brilliance 64 (Philips) 0.891 0.5 120 75 350 1.0 1.0 L Standard (enhancement = 1.0) Zhongshan Hospital of Fudan University SOMATOM Definition AS (Siemens Healthineers) 0.9 0.5 120 75 350 1.0 1.0 B60f ADMIRE (strength = 3) Zhongshan Hospital of Fudan University Aquilion ONE TSX-301A (Toshiba) 0.828 0.5 120 75 350 1.0 1.0 FC56 AIDR 3D (standard) Zhongshan Hospital of Fudan University UCT550 (United Imaging Healthcare) 0.8875 0.5 120 75 350 1.0 1.0 SHARPC Adaptive filter function (enhancement = 2.5) Shanghai Sixth Peoples Hospital Revolution CT (GE Healthcare) 0.992 0.5 120 75 350 1.25 1.25 LUNG ASiR (PlusSS40) The number of decimal places was consistent with the corresponding CT scanner control panel."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Test-Retest"
+                  }],
+                "neText" : "Test-Retest"
+              }]
+          }, {
+            "sentence" : "The Friedman test and pairwise Wilcoxon signed-rank test were used to compare the magnitude of the influence of different acquisition and reconstruction parameters.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Friedman test and pairwise Wilcoxon signed-rank test were used to compare the magnitude of the influence of different acquisition and reconstruction parameters."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Friedman test"
+                  }],
+                "neText" : "Friedman test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed-rank test"
+                  }],
+                "neText" : "Wilcoxon signed-rank test"
+              }]
+          }, {
+            "sentence" : "The Spearman rank correlation coefficient was used to analyze the consistency of the influencing patterns of different sources of variability.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Spearman rank correlation coefficient was used to analyze the consistency of the influencing patterns of different sources of variability."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman rank correlation"
+                  }],
+                "neText" : "Spearman rank correlation"
+              }]
+          }, {
+            "sentence" : "For clinical validation, the Wilcoxon rank-sum test was used to explore the discriminative effectiveness of the representative RFs.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For clinical validation, the Wilcoxon rank-sum test was used to explore the discriminative effectiveness of the representative RFs."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank-sum test"
+                  }],
+                "neText" : "Wilcoxon rank-sum test"
+              }]
+          }]
+      }]
+  }
+}

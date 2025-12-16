@@ -1,0 +1,158 @@
+{
+  "docIdentifier" : "PMC8638312",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Hyperopt 154 is a Python library developed for hyperparameter optimization , which is suitable for both categorical and numerical searching spaces .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Hyperopt 154 is a Python library developed for hyperparameter optimization , which is suitable for both categorical and numerical searching spaces ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "python-bx (RRID:SCR_024202)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "In this sense , more than two parameters may be collinear and when they are recognized , just one should be retained , and the others should be dropped.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In this sense , more than two parameters may be collinear and when they are recognized , just one should be retained , and the others should be dropped."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "One of these methods is linear averaging, where simple or weighted averaging can be used.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One of these methods is linear averaging, where simple or weighted averaging can be used."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "For the hyperparameter optimization, a random seed number is fixed for the training process.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the hyperparameter optimization, a random seed number is fixed for the training process."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Processes such as data gathering , removal of duplicates and low-variance features , missing value imputation , collinearity assessment , data characteristics , outlier removal , feature selection for modeling , data splitting , and data scaling are described in detail .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Processes such as data gathering , removal of duplicates and low-variance features , missing value imputation , collinearity assessment , data characteristics , outlier removal , feature selection for modeling , data splitting , and data scaling are described in detail ."
+              }],
+            "mention" : {
+              "neText" : "duplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicates"
+                }]
+            }
+          }, {
+            "sentence" : "Processes such as data gathering , removal of duplicates and low-variance features , missing value imputation , collinearity assessment , data characteristics , outlier removal , feature selection for modeling , data splitting , and data scaling are described in detail .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Processes such as data gathering , removal of duplicates and low-variance features , missing value imputation , collinearity assessment , data characteristics , outlier removal , feature selection for modeling , data splitting , and data scaling are described in detail ."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The Spearman correlation factor ( R ) is the preferred option to assess the collinearity among the independent parameters for the non-normal distribution of the features data .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Spearman correlation factor ( R ) is the preferred option to assess the collinearity among the independent parameters for the non-normal distribution of the features data ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman correlation"
+                  }],
+                "neText" : "Spearman correlation"
+              }]
+          }]
+      }]
+  }
+}

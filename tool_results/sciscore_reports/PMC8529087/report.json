@@ -1,0 +1,319 @@
+{
+  "docIdentifier" : "PMC8529087",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "2.9 Immunoblotting assay for detecting protein levels The protein levels of FUBP1 and c-Myc were examined by Immunoblotting as described before 21 using antibodies against FUBP1 (ab181111 Abcam, Cambridge, MA, USA), c-Myc (10828-1-AP Proteintech, Rosemont, IL, USA), and GAPDH (T0004 Affinity, Cincinnati, OH, USA) (endogenous control).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.9 Immunoblotting assay for detecting protein levels The protein levels of FUBP1 and c-Myc were examined by Immunoblotting as described before 21 using antibodies against FUBP1 (ab181111 Abcam, Cambridge, MA, USA), c-Myc (10828-1-AP Proteintech, Rosemont, IL, USA), and GAPDH (T0004 Affinity, Cincinnati, OH, USA) (endogenous control)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FUBP1"
+                }],
+              "neText" : "FUBP1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "c-Myc"
+                }],
+              "neText" : "c-Myc"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAPDH"
+                }],
+              "neText" : "GAPDH"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "UCH-1 cells were cultured in a 4:1 mixture of Iscoves Modified Dulbeccos Medium ( IMDM Catalog No. 30-2005 , ATCC ) and RPMI-1640 medium ( Invitrogen ) supplemented with 10 FBS ( Invitrogen ) and 1 L-glutamine ( Invitrogen) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "UCH-1 cells were cultured in a 4:1 mixture of Iscoves Modified Dulbeccos Medium ( IMDM Catalog No. 30-2005 , ATCC ) and RPMI-1640 medium ( Invitrogen ) supplemented with 10 FBS ( Invitrogen ) and 1 L-glutamine ( Invitrogen) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UCH-1"
+                }],
+              "neText" : "UCH-1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "LncRNA KRT8P41 or the 3-untranslated region (3UTR) of the FUBP1 gene were amplified by a PCR using a U-CH1 cell genomic DNA and cloned downstream of the Renilla luciferase open reading frame in the Renilla psiCHECK2 vector (Promega, Madison, WI, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "LncRNA KRT8P41 or the 3-untranslated region (3UTR) of the FUBP1 gene were amplified by a PCR using a U-CH1 cell genomic DNA and cloned downstream of the Renilla luciferase open reading frame in the Renilla psiCHECK2 vector (Promega, Madison, WI, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "psiCHECK2"
+                }],
+              "neText" : "psiCHECK2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The colony numbers were then counted. 2.8 Transwell assay for detecting cell invasion Cell invasion was examined using a BD BioCoat(tm) Matrigel(tm) Invasion Chamber (BD Becton-Dickinson, MA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The colony numbers were then counted. 2.8 Transwell assay for detecting cell invasion Cell invasion was examined using a BD BioCoat(tm) Matrigel(tm) Invasion Chamber (BD Becton-Dickinson, MA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BD BioCoat(tm"
+                }],
+              "neText" : "BD BioCoat(tm"
+            }]
+        }, {
+          "sentence" : "2.11 Statistical analysis Data from triplicate experiments were analyzed with GraphPad software and presented as a mean +- SD.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.11 Statistical analysis Data from triplicate experiments were analyzed with GraphPad software and presented as a mean +- SD."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The clinical sampling was conducted under the approval of the Ethical Committee of the First Affiliated Hospital of USTC (approval number: 2019-X(H)-025).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The clinical sampling was conducted under the approval of the Ethical Committee of the First Affiliated Hospital of USTC (approval number: 2019-X(H)-025)."
+              }]
+          }, {
+            "sentence" : "Informed consent was obtained and signed from each patient enrolled.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was obtained and signed from each patient enrolled."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "2.11 Statistical analysis Data from triplicate experiments were analyzed with GraphPad software and presented as a mean +- SD.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.11 Statistical analysis Data from triplicate experiments were analyzed with GraphPad software and presented as a mean +- SD."
+              }],
+            "mention" : {
+              "neText" : "experiments",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "experiments"
+                }]
+            }
+          }, {
+            "sentence" : "2.11 Statistical analysis Data from triplicate experiments were analyzed with GraphPad software and presented as a mean +- SD.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.11 Statistical analysis Data from triplicate experiments were analyzed with GraphPad software and presented as a mean +- SD."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The statistical significance of the results was calculated using an unpaired Students t-test or and a one-way ANOVA test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The statistical significance of the results was calculated using an unpaired Students t-test or and a one-way ANOVA test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "A spearmans rank correlation coefficient analyzed the correlations of lncRNA KRT8P41, TBXT, KRT8, miR-193a, and FUBP1.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A spearmans rank correlation coefficient analyzed the correlations of lncRNA KRT8P41, TBXT, KRT8, miR-193a, and FUBP1."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "A spearmans rank correlation"
+                  }],
+                "neText" : "A spearmans rank correlation"
+              }]
+          }, {
+            "sentence" : "Also, a log-rank test was used to analyze the survival in patients with chordoma and the data are depicted as Kaplan-Meier curves.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Also, a log-rank test was used to analyze the survival in patients with chordoma and the data are depicted as Kaplan-Meier curves."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }]
+      }]
+  }
+}

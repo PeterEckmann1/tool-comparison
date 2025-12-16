@@ -1,0 +1,271 @@
+{
+  "docIdentifier" : "PMC8784348",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis for significant All statistical analyses were performed using Microsoft Excel 2010 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis for significant All statistical analyses were performed using Microsoft Excel 2010 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }, {
+          "sentence" : "Variance analysis of the observed floral and agronomical traits among different treatments was conducted using the General Linear Model-Univariate program in the SPSS software (version 11.0; SPSS Inc., 2001) and a two-way ANOVA (OriginPro 2019 software), and comparison of traits was conducted by Duncan’s multiple range test.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Variance analysis of the observed floral and agronomical traits among different treatments was conducted using the General Linear Model-Univariate program in the SPSS software (version 11.0; SPSS Inc., 2001) and a two-way ANOVA (OriginPro 2019 software), and comparison of traits was conducted by Duncan’s multiple range test."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "OriginPro"
+                }],
+              "neText" : "OriginPro"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The field experiments were conducted at the experimental station of Northwest A&F University in Yangling (108°E, 34°15\u02b9N), Shaanxi, China, during the autumn-summer growing seasons from 2016 to 2018.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The field experiments were conducted at the experimental station of Northwest A&F University in Yangling (108°E, 34°15\u02b9N), Shaanxi, China, during the autumn-summer growing seasons from 2016 to 2018."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "To compare the in vitro enzyme activity of AHAS and expression of AHAS in male fertile and sterile plants, the means of the results were analyzed using Student’s t-test (*P < 0.05; **P < 0.01).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To compare the in vitro enzyme activity of AHAS and expression of AHAS in male fertile and sterile plants, the means of the results were analyzed using Student’s t-test (*P < 0.05; **P < 0.01)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The plots were arranged in a randomized block design.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The plots were arranged in a randomized block design."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each treatment was replicated three times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each treatment was replicated three times."
+              }],
+            "mention" : {
+              "neText" : "replicated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicated"
+                }]
+            }
+          }, {
+            "sentence" : "Each treatment was replicated three times.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each treatment was replicated three times."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Variance analysis of the observed floral and agronomical traits among different treatments was conducted using the General Linear Model-Univariate program in the SPSS software (version 11.0; SPSS Inc., 2001) and a two-way ANOVA (OriginPro 2019 software), and comparison of traits was conducted by Duncan’s multiple range test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Variance analysis of the observed floral and agronomical traits among different treatments was conducted using the General Linear Model-Univariate program in the SPSS software (version 11.0; SPSS Inc., 2001) and a two-way ANOVA (OriginPro 2019 software), and comparison of traits was conducted by Duncan’s multiple range test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Duncan’s multiple range test"
+                  }],
+                "neText" : "Duncan’s multiple range test"
+              }]
+          }, {
+            "sentence" : "To compare the in vitro enzyme activity of AHAS and expression of AHAS in male fertile and sterile plants, the means of the results were analyzed using Student’s t-test (*P < 0.05; **P < 0.01).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To compare the in vitro enzyme activity of AHAS and expression of AHAS in male fertile and sterile plants, the means of the results were analyzed using Student’s t-test (*P < 0.05; **P < 0.01)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The primer combinations G309-forward (5\u02b9-GCTAACAGAGCTCACACTTA TC-3\u02b9) and Y309-reverse (5\u02b9-TCGGAGTTCTTCTTTCTTCG TCAC-3\u02b9) were designed based on the conserved region of the coding sequence (CDS) of two functional B. juncea AHAS orthologs (BjuA005211, BjuA040229) (Yang et al. 2016).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The primer combinations G309-forward (5\u02b9-GCTAACAGAGCTCACACTTA TC-3\u02b9) and Y309-reverse (5\u02b9-TCGGAGTTCTTCTTTCTTCG TCAC-3\u02b9) were designed based on the conserved region of the coding sequence (CDS) of two functional B. juncea AHAS orthologs (BjuA005211, BjuA040229) (Yang et al. 2016)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-GCTAACAGAGCTCACACTTAT C-3\u02b9"
+                  }],
+                "neText" : "5\u02b9-GCTAACAGAGCTCACACTTAT C-3\u02b9"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-TCGGAGTTCTTCTTTCTTCGT CAC-3\u02b9"
+                  }],
+                "neText" : "5\u02b9-TCGGAGTTCTTCTTTCTTCGT CAC-3\u02b9"
+              }]
+          }, {
+            "sentence" : "The primer sets G306-forward (5\u02b9-GAAGACATGTTCCATTGGCA -3\u02b9) and Y306-reverse (5\u02b9-ACACCTTAGTCCTAAAAGCC ACCT-3\u02b9) for BjuUBQ9 were described by Chandna et al. (2012).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The primer sets G306-forward (5\u02b9-GAAGACATGTTCCATTGGCA -3\u02b9) and Y306-reverse (5\u02b9-ACACCTTAGTCCTAAAAGCC ACCT-3\u02b9) for BjuUBQ9 were described by Chandna et al. (2012)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-GAAGACATGTTCCATTGGCA- 3\u02b9"
+                  }],
+                "neText" : "5\u02b9-GAAGACATGTTCCATTGGCA- 3\u02b9"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-ACACCTTAGTCCTAAAAGCCA CCT-3\u02b9"
+                  }],
+                "neText" : "5\u02b9-ACACCTTAGTCCTAAAAGCCA CCT-3\u02b9"
+              }]
+          }]
+      }]
+  }
+}

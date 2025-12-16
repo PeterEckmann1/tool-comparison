@@ -1,0 +1,167 @@
+{
+  "docIdentifier" : "PMC8009170",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analyses were performed using SPSS version 21 (IBM Co., Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were performed using SPSS version 21 (IBM Co., Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All patients provided informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients provided informed consent."
+              }]
+          }, {
+            "sentence" : "This study was approved by the Institutional Review Board of Samsung Medical Center (IRB no.: 2010-10-028).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Institutional Review Board of Samsung Medical Center (IRB no.: 2010-10-028)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Other key eligibility criteria included an Eastern Cooperative Oncology Group (ECOG) performance status of <= 2 and adequate bone marrow, renal and hepatic function.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Other key eligibility criteria included an Eastern Cooperative Oncology Group (ECOG) performance status of <= 2 and adequate bone marrow, renal and hepatic function."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Eligible patients were age >= 18 years with histologically confirmed stage III or IV (M0 disease) hypopharyngeal or BOT cancer according to the American Joint Cancer Committee (AJCC) staging classification 7th edition and had one or more measurable lesions.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Eligible patients were age >= 18 years with histologically confirmed stage III or IV (M0 disease) hypopharyngeal or BOT cancer according to the American Joint Cancer Committee (AJCC) staging classification 7th edition and had one or more measurable lesions."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "METHODS Patients and study design This phase II randomized trial (NCT01312350) was conducted to test the efficacy of IC with a TPF regimen followed by concurrent chemoradiotherapy compared to CRT alone.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHODS Patients and study design This phase II randomized trial (NCT01312350) was conducted to test the efficacy of IC with a TPF regimen followed by concurrent chemoradiotherapy compared to CRT alone."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Given a one-tailed alpha of 0.1 and power of 0.85, the 1-year PFS rate would be 65 and 80 in the CRT arm and IC arm, respectively, with an accrual rate of 29 patients per year and an additional follow-up period of 1.5 years.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Given a one-tailed alpha of 0.1 and power of 0.85, the 1-year PFS rate would be 65 and 80 in the CRT arm and IC arm, respectively, with an accrual rate of 29 patients per year and an additional follow-up period of 1.5 years."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Protocol Information",
+        "srList" : [{
+            "sentence" : "METHODS Patients and study design This phase II randomized trial (NCT01312350) was conducted to test the efficacy of IC with a TPF regimen followed by concurrent chemoradiotherapy compared to CRT alone.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHODS Patients and study design This phase II randomized trial (NCT01312350) was conducted to test the efficacy of IC with a TPF regimen followed by concurrent chemoradiotherapy compared to CRT alone."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "warning" : "Warning: study registration date February 21, 2011 is after study start date November 2010",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT01312350"
+                  }],
+                "neText" : "NCT01312350"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis Survival rates were estimated by the Kaplan-Meier method and compared between the two treatment groups using the log-rank test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Survival rates were estimated by the Kaplan-Meier method and compared between the two treatment groups using the log-rank test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }]
+      }]
+  }
+}

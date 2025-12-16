@@ -1,0 +1,197 @@
+{
+  "docIdentifier" : "PMC8473998",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Goat Anti-Mouse IgG H and L (FITC) (Abcam, Catalog number: Ab6785, dilution 150, Cambridge, UK) secondary antibodies were applied to the sections, and then washed with PBS at the end of the incubation with primary antibody for 45 minutes in the immunofluorescence method.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Goat Anti-Mouse IgG H and L (FITC) (Abcam, Catalog number: Ab6785, dilution 150, Cambridge, UK) secondary antibodies were applied to the sections, and then washed with PBS at the end of the incubation with primary antibody for 45 minutes in the immunofluorescence method."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-Mouse IgG"
+                }],
+              "neText" : "Anti-Mouse IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Animal groups A total of 30 adult, male Wistar albino rats with an average weight of 220-240 g (mean: 232 g) were used.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Animal groups A total of 30 adult, male Wistar albino rats with an average weight of 220-240 g (mean: 232 g) were used."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_13508588",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Wistar"
+                }],
+              "neText" : "Wistar"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis All statistical calculations were performed with IBM SPSS Statistics software (version 22, IBM Corporation, Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis All statistical calculations were performed with IBM SPSS Statistics software (version 22, IBM Corporation, Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The protocol was approved by the institutional Animal Experiments Local Ethics Committee and the study adhered to the EU Directive 201063EU.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The protocol was approved by the institutional Animal Experiments Local Ethics Committee and the study adhered to the EU Directive 201063EU."
+              }]
+          }, {
+            "sentence" : "After the experimental applications, approximately 7 ml of blood was taken from the rats by puncture from the hearts under anesthesia (10 mgkg xylazine and 90 mgkg ketamine hydrochloride) and euthanasia was performed by the cervical dislocation method.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After the experimental applications, approximately 7 ml of blood was taken from the rats by puncture from the hearts under anesthesia (10 mgkg xylazine and 90 mgkg ketamine hydrochloride) and euthanasia was performed by the cervical dislocation method."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Animal groups A total of 30 adult, male Wistar albino rats with an average weight of 220-240 g (mean: 232 g) were used.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animal groups A total of 30 adult, male Wistar albino rats with an average weight of 220-240 g (mean: 232 g) were used."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Animal groups A total of 30 adult, male Wistar albino rats with an average weight of 220-240 g (mean: 232 g) were used.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animal groups A total of 30 adult, male Wistar albino rats with an average weight of 220-240 g (mean: 232 g) were used."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The rats were randomly divided (simple randomization) in the following five groups (six each): control, apixaban, rivaroxaban, dabigatran and enoxaparin treatment groups.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The rats were randomly divided (simple randomization) in the following five groups (six each): control, apixaban, rivaroxaban, dabigatran and enoxaparin treatment groups."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Kruskal-Wallis test and Mann-Whitney U test were used to compare parameters that do not show the normal distribution in quantitative data.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Kruskal-Wallis test and Mann-Whitney U test were used to compare parameters that do not show the normal distribution in quantitative data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis test"
+                  }],
+                "neText" : "Kruskal-Wallis test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }]
+      }]
+  }
+}

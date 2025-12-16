@@ -1,0 +1,205 @@
+{
+  "docIdentifier" : "PMC8762585",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "This step was performed using the software NiiStat (github.comneurolabuscNiiStat), which leverages routines from the software package SPM software (fil.ion.ucl.ac.ukspm).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "This step was performed using the software NiiStat (github.comneurolabuscNiiStat), which leverages routines from the software package SPM software (fil.ion.ucl.ac.ukspm)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPM (RRID:SCR_007037)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPM"
+                }],
+              "neText" : "SPM"
+            }]
+        }, {
+          "sentence" : "NiiStat is an in-house MATLAB program, which includes routines for enantiomorphic normalization in accordance with Nachev et al. 19 In brief, the enantiomorphic normalization enables accurate normalization to standard Montreal Neurological Institute (MNI) space by filling the parts of brain with lesions with data from the spared contralateral hemisphere.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NiiStat is an in-house MATLAB program, which includes routines for enantiomorphic normalization in accordance with Nachev et al. 19 In brief, the enantiomorphic normalization enables accurate normalization to standard Montreal Neurological Institute (MNI) space by filling the parts of brain with lesions with data from the spared contralateral hemisphere."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "NiiStat (RRID:SCR_014152)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NiiStat"
+                }],
+              "neText" : "NiiStat"
+            }]
+        }, {
+          "sentence" : "These steps were performed using in-house routines written in MATLAB.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These steps were performed using in-house routines written in MATLAB."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Standard Protocol Approvals, Registrations, and Patient Consent Procedures This study was approved by the Johns Hopkins Medicine Institutional Review Board.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Standard Protocol Approvals, Registrations, and Patient Consent Procedures This study was approved by the Johns Hopkins Medicine Institutional Review Board."
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained from all participants.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from all participants."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Participants were excluded from the analysis if they (1) had a history of other neurologic conditions affecting the brain, such as dementia (2) had an impaired level of consciousness or ongoing sedation (3) had uncorrected visual or hearing impairment (4) had a psychiatric condition other than an affective disorder (5) did not complete at least one test in a battery of neglect tests (6) did not complete a diffusion-weighted imaging (DWI) MRI or (7) had bilateral stroke or a stroke of the cerebellum, medulla, or pons.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants were excluded from the analysis if they (1) had a history of other neurologic conditions affecting the brain, such as dementia (2) had an impaired level of consciousness or ongoing sedation (3) had uncorrected visual or hearing impairment (4) had a psychiatric condition other than an affective disorder (5) did not complete at least one test in a battery of neglect tests (6) did not complete a diffusion-weighted imaging (DWI) MRI or (7) had bilateral stroke or a stroke of the cerebellum, medulla, or pons."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Anonymized data pertaining to the research presented will be made available by request from qualified investigators.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Anonymized data pertaining to the research presented will be made available by request from qualified investigators."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "DWI data were acquired axially with slice thickness 4 mm with no gaps, 3 directions, TRTE 5,00078 ms, flip angle 90deg, field of view 256 x 256 and b = 1,000 smm2.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "DWI data were acquired axially with slice thickness 4 mm with no gaps, 3 directions, TRTE 5,00078 ms, flip angle 90deg, field of view 256 x 256 and b = 1,000 smm2."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5,00078"
+                  }],
+                "neText" : "5,00078"
+              }]
+          }]
+      }]
+  }
+}

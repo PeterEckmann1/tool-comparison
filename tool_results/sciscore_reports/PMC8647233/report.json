@@ -1,0 +1,381 @@
+{
+  "docIdentifier" : "PMC8647233",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "2.2 Cell Lines and Cell Culture PCER cells were cultivated from parental PC9 cells after 6 months of gefitinib exposure , from 10nM to 10mM , and control cells were disposed in parallel with vehicle dimethyl sulfoxide.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.2 Cell Lines and Cell Culture PCER cells were cultivated from parental PC9 cells after 6 months of gefitinib exposure , from 10nM to 10mM , and control cells were disposed in parallel with vehicle dimethyl sulfoxide."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PC9"
+                }],
+              "neText" : "PC9"
+            }]
+        }, {
+          "sentence" : "Significant circRNA , miRNA and mRNA alterations between PC9 and PC9ER cells were detected using limma packages and when fold change ( FC)>=1.5 , as the selected FC cutoff .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Significant circRNA , miRNA and mRNA alterations between PC9 and PC9ER cells were detected using limma packages and when fold change ( FC)>=1.5 , as the selected FC cutoff ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PC9ER"
+                }],
+              "neText" : "PC9ER"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "After purification , the labeled RNAs were hybridized to the microarrays , and the resulting arrays were scanned using an Agilent Scanner G2505C",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After purification , the labeled RNAs were hybridized to the microarrays , and the resulting arrays were scanned using an Agilent Scanner G2505C"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Agilent Scanner"
+                }],
+              "neText" : "Agilent Scanner"
+            }]
+        }, {
+          "sentence" : "Further , the raw data were normalized using the quantile algorithm , limma packages in R .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Further , the raw data were normalized using the quantile algorithm , limma packages in R ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LIMMA (RRID:SCR_010943)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "limma"
+                }],
+              "neText" : "limma"
+            }]
+        }, {
+          "sentence" : "CeRNA Network Construction The circRNA-miRNA interactions were predicted using the Arraystars homemade miRNA target prediction software based on TargetScan ( http:www.targetscan.org ) and miRanda , and the R package miRNA tap was used to predict the target mRNAs .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "CeRNA Network Construction The circRNA-miRNA interactions were predicted using the Arraystars homemade miRNA target prediction software based on TargetScan ( http:www.targetscan.org ) and miRanda , and the R package miRNA tap was used to predict the target mRNAs ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }]
+        }, {
+          "sentence" : "Five databases were included in the analysis , including PicTar , DIANA , TargetScan , miRanda and miRDB , wherein miRNA-mRNA interactions were reported consistently in at least two of the five databases .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Five databases were included in the analysis , including PicTar , DIANA , TargetScan , miRanda and miRDB , wherein miRNA-mRNA interactions were reported consistently in at least two of the five databases ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PicTar (RRID:SCR_003343)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PicTar"
+                }],
+              "neText" : "PicTar"
+            }]
+        }, {
+          "sentence" : "Cytoscape ( v3.7.2 ) was used for network visualization , only including differentially expressed circRNAmiRNAmRNA with log2 FC >=1.5 in the analysis .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cytoscape ( v3.7.2 ) was used for network visualization , only including differentially expressed circRNAmiRNAmRNA with log2 FC >=1.5 in the analysis ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }, {
+          "sentence" : "2.5 PPI Network Construction and hub-Genes Identification The PPI network was built with the ceRNA network using the STRING program , version 11.0 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.5 PPI Network Construction and hub-Genes Identification The PPI network was built with the ceRNA network using the STRING program , version 11.0 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "STRING (RRID:SCR_005223)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }]
+        }, {
+          "sentence" : "The enriched GO and KEGG terms ( adjusted p-value<.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The enriched GO and KEGG terms ( adjusted p-value<."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "All figures were analyzed using GraphPad Prism 7 (GraphPad Software, La Jolla, CA, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All figures were analyzed using GraphPad Prism 7 (GraphPad Software, La Jolla, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This original study for the EGFR-TKI resistance in lung cancer was approved by the Peking University Cancer Hospital Ethics Committee , and written informed consent was obtained from all participants prior to sample collection .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This original study for the EGFR-TKI resistance in lung cancer was approved by the Peking University Cancer Hospital Ethics Committee , and written informed consent was obtained from all participants prior to sample collection ."
+              }]
+          }, {
+            "sentence" : "This original study for the EGFR-TKI resistance in lung cancer was approved by the Peking University Cancer Hospital Ethics Committee , and written informed consent was obtained from all participants prior to sample collection .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This original study for the EGFR-TKI resistance in lung cancer was approved by the Peking University Cancer Hospital Ethics Committee , and written informed consent was obtained from all participants prior to sample collection ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Five databases were included in the analysis , including PicTar , DIANA , TargetScan , miRanda and miRDB , wherein miRNA-mRNA interactions were reported consistently in at least two of the five databases .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Five databases were included in the analysis , including PicTar , DIANA , TargetScan , miRanda and miRDB , wherein miRNA-mRNA interactions were reported consistently in at least two of the five databases ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Afterwards , the enriched circRNAs were amplified and transcribed into fluorescent cDNA using a random priming method ( Arraystar Super RNA Labeling Kit , Arraystar) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Afterwards , the enriched circRNAs were amplified and transcribed into fluorescent cDNA using a random priming method ( Arraystar Super RNA Labeling Kit , Arraystar) ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "2.9 Statistical Analysis All experiments were performed in triplicates, wherein data are presented as mean +- standard deviation.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.9 Statistical Analysis All experiments were performed in triplicates, wherein data are presented as mean +- standard deviation."
+              }],
+            "mention" : {
+              "neText" : "triplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicates"
+                }]
+            }
+          }, {
+            "sentence" : "2.9 Statistical Analysis All experiments were performed in triplicates, wherein data are presented as mean +- standard deviation.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.9 Statistical Analysis All experiments were performed in triplicates, wherein data are presented as mean +- standard deviation."
+              }],
+            "mention" : {
+              "neText" : "triplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicates"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Two-group differences were determined using t-test, and statistical significance was set at P <.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two-group differences were determined using t-test, and statistical significance was set at P <."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The PCR primers used in this study were as follows: hsa_circ_0007312, 5-TAACGGTGACTAATGGTGT TAAAGG-3 (forward) and 5-GATGCATTTACAAGCAAATCTG TGC-3(reverse) hsa_circ_0003748, 5-GAGAAGGCAGCCAACCAGAT-3 (forward) and 5-TCTTCTTCTAACTTATGGCTGC ATG-3 (reverse) hsa_circ_0001398, 5-TGAGCTGATCAAGTTGACAGCA TC-3 (forward) and 5-CAACTCAATAAAC TTCAAGTACCGA-3 (reverse) hsa-miR-764, 5-GCAGGTGCTCACTTGTCCTCC T-3 (forward) and 5-GCGAGCACAGAATTAATACGAC -3 (reverse) hsa-miR-628 to 5p, 5-ATGCTGACATATTTACTAGAGG -3 (forward) and 5-GCGAGCACA GAATTAATACGAC-3 (reverse) MAPK1, 5- TGTTCCCAAATGCTGACT-3 (forward) and 5-AACTTGAATGGTGCTTCG -3 (reverse).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The PCR primers used in this study were as follows: hsa_circ_0007312, 5-TAACGGTGACTAATGGTGT TAAAGG-3 (forward) and 5-GATGCATTTACAAGCAAATCTG TGC-3(reverse) hsa_circ_0003748, 5-GAGAAGGCAGCCAACCAGAT-3 (forward) and 5-TCTTCTTCTAACTTATGGCTGC ATG-3 (reverse) hsa_circ_0001398, 5-TGAGCTGATCAAGTTGACAGCA TC-3 (forward) and 5-CAACTCAATAAAC TTCAAGTACCGA-3 (reverse) hsa-miR-764, 5-GCAGGTGCTCACTTGTCCTCC T-3 (forward) and 5-GCGAGCACAGAATTAATACGAC -3 (reverse) hsa-miR-628 to 5p, 5-ATGCTGACATATTTACTAGAGG -3 (forward) and 5-GCGAGCACA GAATTAATACGAC-3 (reverse) MAPK1, 5- TGTTCCCAAATGCTGACT-3 (forward) and 5-AACTTGAATGGTGCTTCG -3 (reverse)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CAACTCAATAAAC TTCAAGTACCGA-3"
+                  }],
+                "neText" : "5-CAACTCAATAAAC TTCAAGTACCGA-3"
+              }]
+          }]
+      }]
+  }
+}

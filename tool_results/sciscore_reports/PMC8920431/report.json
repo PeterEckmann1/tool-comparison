@@ -1,0 +1,631 @@
+{
+  "docIdentifier" : "PMC8920431",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "After 40 min of incubation with DNase at 37degC, cells were stained with a FITC-conjugated anti-BrdU monoclonal antibody (BD Bioscience Pharmingen Inc.). 7-Aminoactinomycin was added to each sample just prior to flow cytometric analysis using a FACSCalibur flow cytometer (BD Bioscience Pharmingen Inc.).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After 40 min of incubation with DNase at 37degC, cells were stained with a FITC-conjugated anti-BrdU monoclonal antibody (BD Bioscience Pharmingen Inc.). 7-Aminoactinomycin was added to each sample just prior to flow cytometric analysis using a FACSCalibur flow cytometer (BD Bioscience Pharmingen Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-BrdU"
+                }],
+              "neText" : "anti-BrdU"
+            }]
+        }, {
+          "sentence" : "35 The antibodies used in the experiments were rabbit anti-PAX5 (12709, 1:1000), mouse p53 (1C12) (2524, 1:1000), rabbit poly adenosine disphosphate-ribose polymerase (PARP) (46D11) (9532, 1:1000), rabbit anti-caspase-3 (9661, 1:1000), rabbit anti-caspase-7 (8438, 1:1000), rabbit anti-caspase-8 (9496, 1:1000), rabbit anti-caspase-9 (7237, 1:1000), PARP (5625, 1:1000) (Cell Signaling Technology, Danvers, MA, USA) rabbit anti-p53 antibody (ab131442, 1:1000), rabbit anti-pro Caspase-3 antibody (ab32150, 1:1000), rabbit anti-pro Caspase-7 antibody (ab32067, 1:1000), rabbit anti-Pro Caspase-8 antibody (ab108333, 1:1000), rabbit anti-pro Caspase-9 (phospho T125) (ab138412, 1:500), and rabbit anti-PAX5 antibody (ab109443, 1:1000) (Abcam, Cambridge, UK).",
+          "rowSpan" : 11,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "35 The antibodies used in the experiments were rabbit anti-PAX5 (12709, 1:1000), mouse p53 (1C12) (2524, 1:1000), rabbit poly adenosine disphosphate-ribose polymerase (PARP) (46D11) (9532, 1:1000), rabbit anti-caspase-3 (9661, 1:1000), rabbit anti-caspase-7 (8438, 1:1000), rabbit anti-caspase-8 (9496, 1:1000), rabbit anti-caspase-9 (7237, 1:1000), PARP (5625, 1:1000) (Cell Signaling Technology, Danvers, MA, USA) rabbit anti-p53 antibody (ab131442, 1:1000), rabbit anti-pro Caspase-3 antibody (ab32150, 1:1000), rabbit anti-pro Caspase-7 antibody (ab32067, 1:1000), rabbit anti-Pro Caspase-8 antibody (ab108333, 1:1000), rabbit anti-pro Caspase-9 (phospho T125) (ab138412, 1:500), and rabbit anti-PAX5 antibody (ab109443, 1:1000) (Abcam, Cambridge, UK)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-PAX5"
+                }],
+              "neText" : "anti-PAX5"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PARP"
+                }],
+              "neText" : "PARP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-caspase-3 (9661"
+                }],
+              "neText" : "anti-caspase-3 (9661"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-caspase-7 (8438"
+                }],
+              "neText" : "anti-caspase-7 (8438"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-caspase-8"
+                }],
+              "neText" : "anti-caspase-8"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-caspase-9"
+                }],
+              "neText" : "anti-caspase-9"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-pro Caspase-3"
+                }],
+              "neText" : "anti-pro Caspase-3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-pro Caspase-7"
+                }],
+              "neText" : "anti-pro Caspase-7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Pro Caspase-8"
+                }],
+              "neText" : "anti-Pro Caspase-8"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-pro Caspase-9 (phospho T125"
+                }],
+              "neText" : "anti-pro Caspase-9 (phospho T125"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ab109443"
+                }],
+              "neText" : "ab109443"
+            }]
+        }, {
+          "sentence" : "Abcam anti-PAX5 antibody (Abcam) was diluted at 1:250 and Abcam anti-p53 antibody (Abcam) was diluted at 1:100.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Abcam anti-PAX5 antibody (Abcam) was diluted at 1:250 and Abcam anti-p53 antibody (Abcam) was diluted at 1:100."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-p53"
+                }],
+              "neText" : "anti-p53"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Bromodeoxyuridine (BrdU) proliferation assay and flow cytometry BrdU proliferation assays of KYSE150, KYSE30, and KYSE450 cells were carried out using a fluorescein isothiocyanate (FITC) BrdU Flow Kit (BD Bioscience Pharmingen Inc., San Diego, CA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bromodeoxyuridine (BrdU) proliferation assay and flow cytometry BrdU proliferation assays of KYSE150, KYSE30, and KYSE450 cells were carried out using a fluorescein isothiocyanate (FITC) BrdU Flow Kit (BD Bioscience Pharmingen Inc., San Diego, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_1353",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KYSE450"
+                }],
+              "neText" : "KYSE450"
+            }]
+        }, {
+          "sentence" : "KYSE150 and KYSE30 cells were transfected with pcDNA3.1-PAX5 or pcDNA3.1 (1 x 105 cellswell) in 24-well plates and cotransfected with the luciferase reporter plasmid (0.1 ngwell) and plasmid Renilla luciferase (pRL)-cytomegalovirus (CMV) (CMV promoter driving the renilla luciferase reporter) vector (2.5 ngwell) using Lipofectamine 3000.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "KYSE150 and KYSE30 cells were transfected with pcDNA3.1-PAX5 or pcDNA3.1 (1 x 105 cellswell) in 24-well plates and cotransfected with the luciferase reporter plasmid (0.1 ngwell) and plasmid Renilla luciferase (pRL)-cytomegalovirus (CMV) (CMV promoter driving the renilla luciferase reporter) vector (2.5 ngwell) using Lipofectamine 3000."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_1351",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KYSE30"
+                }],
+              "neText" : "KYSE30"
+            }]
+        }, {
+          "sentence" : "ChIP-PCR was performed to confirm the presence of PAX5 bound on the p53 promoter, and immunoprecipitated DNA from the KYSE150-vector, KYSE150-PAX5, KYSE30-vector, and KYSE30-PAX5 cells were used as templates.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ChIP-PCR was performed to confirm the presence of PAX5 bound on the p53 promoter, and immunoprecipitated DNA from the KYSE150-vector, KYSE150-PAX5, KYSE30-vector, and KYSE30-PAX5 cells were used as templates."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KYSE30-PAX5"
+                }],
+              "neText" : "KYSE30-PAX5"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Xenografted mouse model KYSE150 and KYSE30 cells stably infected with the pLenti6-PAX5 vector or empty pLenti6 vector (as control) were subcutaneously injected into the right dorsal flanks of 4-week-old male BALBc nude mice (3 x 106 cells in 0.15 mL phosphate-buffered saline) (n = 8 per group).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Xenografted mouse model KYSE150 and KYSE30 cells stably infected with the pLenti6-PAX5 vector or empty pLenti6 vector (as control) were subcutaneously injected into the right dorsal flanks of 4-week-old male BALBc nude mice (3 x 106 cells in 0.15 mL phosphate-buffered saline) (n = 8 per group)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALBc nude"
+                }],
+              "neText" : "BALBc nude"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Plasmid construction and transfection PAX5 expression vectors were subcloned into a pLenti6 lentiviral vector (Thermo Scientific, Wilmington, DE, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Plasmid construction and transfection PAX5 expression vectors were subcloned into a pLenti6 lentiviral vector (Thermo Scientific, Wilmington, DE, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_35637",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLenti6"
+                }],
+              "neText" : "pLenti6"
+            }]
+        }, {
+          "sentence" : "pCMV6 and pcDNA3.1 plasmids (Era Biotech, Shanghai, China) were used for transient transfections.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "pCMV6 and pcDNA3.1 plasmids (Era Biotech, Shanghai, China) were used for transient transfections."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_39857",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCMV6"
+                }],
+              "neText" : "pCMV6"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_100544",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1"
+                }],
+              "neText" : "pcDNA3.1"
+            }]
+        }, {
+          "sentence" : "We inserted these molecules into the plasmid genepharma U6 (pGPU6)green fluorescent protein (GFP)Neo vector (GenePharma, Shanghai, China) that was then used to transfect KYSE450 cells.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We inserted these molecules into the plasmid genepharma U6 (pGPU6)green fluorescent protein (GFP)Neo vector (GenePharma, Shanghai, China) that was then used to transfect KYSE450 cells."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GFP)Neo"
+                }],
+              "neText" : "GFP)Neo"
+            }]
+        }, {
+          "sentence" : "KYSE150 and KYSE30 cells were transfected with pcDNA3.1-PAX5 or pcDNA3.1 (1 x 105 cellswell) in 24-well plates and cotransfected with the luciferase reporter plasmid (0.1 ngwell) and plasmid Renilla luciferase (pRL)-cytomegalovirus (CMV) (CMV promoter driving the renilla luciferase reporter) vector (2.5 ngwell) using Lipofectamine 3000.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "KYSE150 and KYSE30 cells were transfected with pcDNA3.1-PAX5 or pcDNA3.1 (1 x 105 cellswell) in 24-well plates and cotransfected with the luciferase reporter plasmid (0.1 ngwell) and plasmid Renilla luciferase (pRL)-cytomegalovirus (CMV) (CMV promoter driving the renilla luciferase reporter) vector (2.5 ngwell) using Lipofectamine 3000."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1-PAX5"
+                }],
+              "neText" : "pcDNA3.1-PAX5"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Renilla luciferase (pRL)-cytomegalovirus"
+                }],
+              "neText" : "Renilla luciferase (pRL)-cytomegalovirus"
+            }]
+        }, {
+          "sentence" : "Xenografted mouse model KYSE150 and KYSE30 cells stably infected with the pLenti6-PAX5 vector or empty pLenti6 vector (as control) were subcutaneously injected into the right dorsal flanks of 4-week-old male BALBc nude mice (3 x 106 cells in 0.15 mL phosphate-buffered saline) (n = 8 per group).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Xenografted mouse model KYSE150 and KYSE30 cells stably infected with the pLenti6-PAX5 vector or empty pLenti6 vector (as control) were subcutaneously injected into the right dorsal flanks of 4-week-old male BALBc nude mice (3 x 106 cells in 0.15 mL phosphate-buffered saline) (n = 8 per group)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLenti6-PAX5"
+                }],
+              "neText" : "pLenti6-PAX5"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Ten cytosine guanine dinucleotide (CpG) sites that spanned -297 and -136 bp regions were evaluated, which included the region analyzed by MSP. 5-Aza-2-deoxycytidine (DAC) treatment Cells were treated with 2 mmolL DAC (Sigma, St. Louis, MO, USA) in growth medium.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Ten cytosine guanine dinucleotide (CpG) sites that spanned -297 and -136 bp regions were evaluated, which included the region analyzed by MSP. 5-Aza-2-deoxycytidine (DAC) treatment Cells were treated with 2 mmolL DAC (Sigma, St. Louis, MO, USA) in growth medium."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "SPSS 22.0 (IBM) was used for all statistical analyses.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "SPSS 22.0 (IBM) was used for all statistical analyses."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }, {
+          "sentence" : "For xenografted tumors, the tumor volume growth curve was drawn using Graph Pad Prism 5.0 (GraphPad Software Inc., San Diego, CA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For xenografted tumors, the tumor volume growth curve was drawn using Graph Pad Prism 5.0 (GraphPad Software Inc., San Diego, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods Ethical approval This study was approved by the Ethics Committee of the Chinese Peoples Liberation Army General Hospital (No. KY-2021-11-24-1).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Ethical approval This study was approved by the Ethics Committee of the Chinese Peoples Liberation Army General Hospital (No. KY-2021-11-24-1)."
+              }]
+          }, {
+            "sentence" : "All patients signed a written informed consent form.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients signed a written informed consent form."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Primary human EC specimens and cell lines A total of 51 cases of primary ESCC were surgically resected and eight cases of normal esophageal (NE) mucosa were collected from non-cancerous patients by biopsy under endoscopy.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Primary human EC specimens and cell lines A total of 51 cases of primary ESCC were surgically resected and eight cases of normal esophageal (NE) mucosa were collected from non-cancerous patients by biopsy under endoscopy."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Xenografted mouse model KYSE150 and KYSE30 cells stably infected with the pLenti6-PAX5 vector or empty pLenti6 vector (as control) were subcutaneously injected into the right dorsal flanks of 4-week-old male BALBc nude mice (3 x 106 cells in 0.15 mL phosphate-buffered saline) (n = 8 per group).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Xenografted mouse model KYSE150 and KYSE30 cells stably infected with the pLenti6-PAX5 vector or empty pLenti6 vector (as control) were subcutaneously injected into the right dorsal flanks of 4-week-old male BALBc nude mice (3 x 106 cells in 0.15 mL phosphate-buffered saline) (n = 8 per group)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each experiment was repeated three times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each experiment was repeated three times."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "Each experiment was repeated three times.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each experiment was repeated three times."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Relationships between clinicopathological characteristics and methylation status were analyzed using the chi-squared test and Fishers exact test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Relationships between clinicopathological characteristics and methylation status were analyzed using the chi-squared test and Fishers exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared test"
+                  }],
+                "neText" : "chi-squared test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }, {
+            "sentence" : "Continuous variables with normal distribution were assessed by the independent two-sample t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Continuous variables with normal distribution were assessed by the independent two-sample t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "These primers were as follows: PAX5-MF: 5-AAATAAAAATTCGGTTTGCGTT C-3 (M-forward), PAX5-MR: 5- AAACATACGCTTAAAAATCGCG-3 (M-reverse) PAX5-UF: 5- TAAAAATAAAAATTTGGTTTGTGT TT-3 (U-forward), PAX5-UR: 5- TTAAAACATACACTTAAAAATCAC A-3 (U-reverse).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "These primers were as follows: PAX5-MF: 5-AAATAAAAATTCGGTTTGCGTT C-3 (M-forward), PAX5-MR: 5- AAACATACGCTTAAAAATCGCG-3 (M-reverse) PAX5-UF: 5- TAAAAATAAAAATTTGGTTTGTGT TT-3 (U-forward), PAX5-UR: 5- TTAAAACATACACTTAAAAATCAC A-3 (U-reverse)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-AAATAAAAATTCGGTTTGCGTT C-3"
+                  }],
+                "neText" : "5-AAATAAAAATTCGGTTTGCGTT C-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5- AAACATACGCTTAAAAATCGCG-3"
+                  }],
+                "neText" : "5- AAACATACGCTTAAAAATCGCG-3"
+              }]
+          }, {
+            "sentence" : "Scramble shRNAs were sense: 5-UUC UCC GAA GYC ACG UTT-3 and antisense: 5-ACG UGA CAC GUU CGG AGA ATT-3).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Scramble shRNAs were sense: 5-UUC UCC GAA GYC ACG UTT-3 and antisense: 5-ACG UGA CAC GUU CGG AGA ATT-3)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-UUC UCC GAA GYC ACG UTT-3"
+                  }],
+                "neText" : "5-UUC UCC GAA GYC ACG UTT-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ACG UGA CAC GUU CGG AGA ATT-3"
+                  }],
+                "neText" : "5-ACG UGA CAC GUU CGG AGA ATT-3"
+              }]
+          }]
+      }]
+  }
+}

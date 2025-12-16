@@ -1,0 +1,173 @@
+{
+  "docIdentifier" : "PMC8579873",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "MATLAB 2019b ( MathWorks , USA ) was used for image preprocessing and segmentation , as presented in Figure 1 , via the Green channel , adaptive histogram equalization ( AHE) , image binarization , and median filtering , to obtain the original and segmentation retinal vessel images .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MATLAB 2019b ( MathWorks , USA ) was used for image preprocessing and segmentation , as presented in Figure 1 , via the Green channel , adaptive histogram equalization ( AHE) , image binarization , and median filtering , to obtain the original and segmentation retinal vessel images ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }, {
+          "sentence" : "Extract Features and Model Training Extracting image features and training machine learning models were implemented in Python 3.6 with OpenCV .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Extract Features and Model Training Extracting image features and training machine learning models were implemented in Python 3.6 with OpenCV ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "OpenCV (RRID:SCR_015526)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "OpenCV"
+                }],
+              "neText" : "OpenCV"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All participants, between the age of 18 and 80 years, including stroke patients and non-stroke subjects, were provided with written consent for study inclusion and offered information for the case report form (CRF).",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants, between the age of 18 and 80 years, including stroke patients and non-stroke subjects, were provided with written consent for study inclusion and offered information for the case report form (CRF)."
+              }]
+          }, {
+            "sentence" : "The study was approved by the ethic committee at the Seventh Affiliated Hospital of Sun Yat-sen University , where all data collection occurred , complies with the principles of the Declaration of Helsinki.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the ethic committee at the Seventh Affiliated Hospital of Sun Yat-sen University , where all data collection occurred , complies with the principles of the Declaration of Helsinki."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The exclusion criteria were unstable vital signs, complications with severe chronic diseases which are difficult to complete clinical assessments, and contraindications for completing fundus photography.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The exclusion criteria were unstable vital signs, complications with severe chronic diseases which are difficult to complete clinical assessments, and contraindications for completing fundus photography."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Eighty-six subjects were recruited from the outpatient department and the inpatient department of rehabilitation medicine at the Seventh Affiliated Hospital of Sun Yat-sen University from November 2019 to August 2020.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Eighty-six subjects were recruited from the outpatient department and the inpatient department of rehabilitation medicine at the Seventh Affiliated Hospital of Sun Yat-sen University from November 2019 to August 2020."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "All participants, between the age of 18 and 80 years, including stroke patients and non-stroke subjects, were provided with written consent for study inclusion and offered information for the case report form (CRF).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants, between the age of 18 and 80 years, including stroke patients and non-stroke subjects, were provided with written consent for study inclusion and offered information for the case report form (CRF)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The preprocessed fundus images were randomly horizontally translated , flipped , randomly enlarged , miscut transformed and filled to increase the diversity of the training images .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The preprocessed fundus images were randomly horizontally translated , flipped , randomly enlarged , miscut transformed and filled to increase the diversity of the training images ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "A two-sided t-test was used for statistical analysis, and P < 0.05 was considered statistically significant.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A two-sided t-test was used for statistical analysis, and P < 0.05 was considered statistically significant."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "docIdentifier" : "PMC8728528",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Primary antibodies were used for immunoblotting: anti-OLFM4 antibody ( Cat No. 14369D , Cell Signaling Technology , Danvers , Massachusetts , USA) , caspase-3/p17/p19 ( Cat No. 66,470–2-Ig , Proteintech , Rosemont , IL , USA)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Primary antibodies were used for immunoblotting: anti-OLFM4 antibody ( Cat No. 14369D , Cell Signaling Technology , Danvers , Massachusetts , USA) , caspase-3/p17/p19 ( Cat No. 66,470–2-Ig , Proteintech , Rosemont , IL , USA)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-OLFM4"
+                }],
+              "neText" : "anti-OLFM4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "caspase-3/p17/p19"
+                }],
+              "neText" : "caspase-3/p17/p19"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Tumor xenografts in nude mice Four-week-old male BALB/c nude mice were purchased from the Hu Nan Animal Center.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Tumor xenografts in nude mice Four-week-old male BALB/c nude mice were purchased from the Hu Nan Animal Center."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALB/c nude"
+                }],
+              "neText" : "BALB/c nude"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Bioinformatic analysis of differential expression levels of mRNA and lncRNA from microarrays Gene set enrichment analysis (GSEA) was performed to identify potential biological mechanisms associated with OLFM4 expression in GBC sand normal paracarcinoma tissues.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bioinformatic analysis of differential expression levels of mRNA and lncRNA from microarrays Gene set enrichment analysis (GSEA) was performed to identify potential biological mechanisms associated with OLFM4 expression in GBC sand normal paracarcinoma tissues."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Set Enrichment Analysis (RRID:SCR_003199)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene set enrichment analysis"
+                }],
+              "neText" : "Gene set enrichment analysis"
+            }]
+        }, {
+          "sentence" : "GSEA software and gene sets were downloaded from https://www.gsea-msigdb.org/.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GSEA software and gene sets were downloaded from https://www.gsea-msigdb.org/."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GSEA"
+                }],
+              "neText" : "GSEA"
+            }]
+        }, {
+          "sentence" : "The cells were trypsinized and washed twice with PBS , then the cells were resuspended in 100 μL of serum free DMEM/F12 medium ( Gibco ) and seeded into the upper chamber .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The cells were trypsinized and washed twice with PBS , then the cells were resuspended in 100 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "L of serum free DMEM/F12 medium ( Gibco ) and seeded into the upper chamber ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }, {
+          "sentence" : "Then the cells were quantified using ImageJ software ( National Institutes of Health , Bethesda , MD , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then the cells were quantified using ImageJ software ( National Institutes of Health , Bethesda , MD , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Cells were stained with propidium iodide solution for 20 min in a 37 °C incubator and then analyzed on a flow cytometer ( Beckman Coulter , Brea , CA , USA) , and data were analyzed and generated using Modfit software ( http://www.vsh.com/products/mflt/index.asp).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were stained with propidium iodide solution for 20 min in a 37 °C incubator and then analyzed on a flow cytometer ( Beckman Coulter , Brea , CA , USA) , and data were analyzed and generated using Modfit software ( http://www.vsh.com/products/mflt/index.asp)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://www.vsh.com/products/mflt/index.asp"
+                }],
+              "neText" : "http://www.vsh.com/products/mflt/index.asp"
+            }]
+        }, {
+          "sentence" : "Statistical analyses were performed using SPSS version 23.0 (IBM Corp., Armonk, NY, USA) or Graph Pad Prism version 8.0 (GraphPad Inc., San Diego, CA USA).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were performed using SPSS version 23.0 (IBM Corp., Armonk, NY, USA) or Graph Pad Prism version 8.0 (GraphPad Inc., San Diego, CA USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Graph Pad Prism"
+                }],
+              "neText" : "Graph Pad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Informed consent was obtained from all the patients, and sample collection complied with the approved guidelines of Ethics Committee of the Kunming Medical University. GBC TNM (Tumor-Node-Metastasis) stages were evaluated according to the 8th edition of the American Joint Committee on Cancer staging system (AJCC/UICC TNM, 8th edition).",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was obtained from all the patients, and sample collection complied with the approved guidelines of Ethics Committee of the Kunming Medical University. GBC TNM (Tumor-Node-Metastasis) stages were evaluated according to the 8th edition of the American Joint Committee on Cancer staging system (AJCC/UICC TNM, 8th edition)."
+              }]
+          }, {
+            "sentence" : "Informed consent was obtained from all the patients, and sample collection complied with the approved guidelines of Ethics Committee of the Kunming Medical University. GBC TNM (Tumor-Node-Metastasis) stages were evaluated according to the 8th edition of the American Joint Committee on Cancer staging system (AJCC/UICC TNM, 8th edition).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was obtained from all the patients, and sample collection complied with the approved guidelines of Ethics Committee of the Kunming Medical University. GBC TNM (Tumor-Node-Metastasis) stages were evaluated according to the 8th edition of the American Joint Committee on Cancer staging system (AJCC/UICC TNM, 8th edition)."
+              }]
+          }, {
+            "sentence" : "Cell culture GBC-SD cells were purchased from the Cell Bank of Type Culture Collection of Chinese Academy of Sciences and cultured in Dulbecco's Modified Eagle Medium (DMEM)/F12 (Gibco, Grand Island, NY, USA) supplemented with 10% fetal bovine serum (FBS, BI, Biological Industries, Beit Haemek, Israel), and 100 U/mL penicillin and 100 μg/mL streptomycin (BI, Beit Haemek,",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cell culture GBC-SD cells were purchased from the Cell Bank of Type Culture Collection of Chinese Academy of Sciences and cultured in Dulbecco's Modified Eagle Medium (DMEM)/F12 (Gibco, Grand Island, NY, USA) supplemented with 10% fetal bovine serum (FBS, BI, Biological Industries, Beit Haemek, Israel), and 100 U/mL penicillin and 100 "
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "g/mL streptomycin (BI, Beit Haemek,"
+              }]
+          }, {
+            "sentence" : "Animal care and all procedures were approved and under the supervision of Yunnan Provincial Laboratory Animal Welfare Committee.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animal care and all procedures were approved and under the supervision of Yunnan Provincial Laboratory Animal Welfare Committee."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Paraffin-embedded tissues from 108 cases of chronic cholecystitis, 92 cases of dysplasia, and 72 cases of GBC were obtained and cut into 4-mm sections for further analysis.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Paraffin-embedded tissues from 108 cases of chronic cholecystitis, 92 cases of dysplasia, and 72 cases of GBC were obtained and cut into 4-mm sections for further analysis."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Tumor xenografts in nude mice Four-week-old male BALB/c nude mice were purchased from the Hu Nan Animal Center.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Tumor xenografts in nude mice Four-week-old male BALB/c nude mice were purchased from the Hu Nan Animal Center."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Tumor xenografts in nude mice Four-week-old male BALB/c nude mice were purchased from the Hu Nan Animal Center.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Tumor xenografts in nude mice Four-week-old male BALB/c nude mice were purchased from the Hu Nan Animal Center."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "After 15 days of tumor growth, the mice were randomly assigned into the treatment or NS group.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After 15 days of tumor growth, the mice were randomly assigned into the treatment or NS group."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "The results were evaluated and recorded by two pathologists blinded to the case information.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The results were evaluated and recorded by two pathologists blinded to the case information."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Statistical analysis Data were acquired from experiments conducted in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Data were acquired from experiments conducted in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Statistical analysis Data were acquired from experiments conducted in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Data were acquired from experiments conducted in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Cell lines were authenticated by Short Tandem Repeat profiling before use in the experiments .",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cell lines were authenticated by Short Tandem Repeat profiling before use in the experiments ."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differentially expressed genes (DEGs) were screened out under the criterion of absolute fold change (FC) ≥ 2 and p < 0.05 (Student's t-test).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differentially expressed genes (DEGs) were screened out under the criterion of absolute fold change (FC) "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : " 2 and p < 0.05 (Student's t-test)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Clinicopathological associations with OLFM4 H-scores were analyzed using chi-square tests.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Clinicopathological associations with OLFM4 H-scores were analyzed using chi-square tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square tests"
+                  }],
+                "neText" : "chi-square tests"
+              }]
+          }, {
+            "sentence" : "Survival curves were generated using log-rank tests.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Survival curves were generated using log-rank tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank tests"
+                  }],
+                "neText" : "log-rank tests"
+              }]
+          }, {
+            "sentence" : "Two-groups comparisons were made with Student's t-tests, and comparison for variables in more than two groups was using one- or two-way analysis of variance (ANOVA).",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Two-groups comparisons were made with Student's t-tests, and comparison for variables in more than two groups was using one- or two-way analysis of variance (ANOVA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The interference sequence targeting human OLFM4 complementary DNA is shOLFM4–1: CCGGAGTGCAGAGCATTAACTATA ACTCGAGTTATAGTTAATGCTCTG CACTTTTTTG; shOLFM4–2: CCGGCCCTAATGCTGCCTATAATA ACTCGAGTTATTATAGGCAGCATT AGGGTTTTTG; and a scramble shRNA was included as negative control ( shNC): 5′-TTCTCCGAACGTGTCACGT-3 ′ .",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The interference sequence targeting human OLFM4 complementary DNA is shOLFM4–1: CCGGAGTGCAGAGCATTAACTATA ACTCGAGTTATAGTTAATGCTCTG CACTTTTTTG; shOLFM4–2: CCGGCCCTAATGCTGCCTATAATA ACTCGAGTTATTATAGGCAGCATT AGGGTTTTTG; and a scramble shRNA was included as negative control ( shNC): 5′-TTCTCCGAACGTGTCACGT-3 ′ ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCGGAGTGCAGAGCATTAACTATA ACTCGAGTTATAGTTAATGCTCTG CACTTTTTTG"
+                  }],
+                "neText" : "CCGGAGTGCAGAGCATTAACTATA ACTCGAGTTATAGTTAATGCTCTG CACTTTTTTG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCGGCCCTAATGCTGCCTATAATA ACTCGAGTTATTATAGGCAGCATT AGGGTTTTTG"
+                  }],
+                "neText" : "CCGGCCCTAATGCTGCCTATAATA ACTCGAGTTATTATAGGCAGCATT AGGGTTTTTG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-TTCTCCGAACGTGTCACGT-3 ′"
+                  }],
+                "neText" : "5′-TTCTCCGAACGTGTCACGT-3 ′"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "docIdentifier" : "PMC8558638",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Antibodies and Chemicals The following antibodies were used in this study: TEAD2 (21159-1-AP, Proteintech), actin (66009-1-Ig, Proteintech).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibodies and Chemicals The following antibodies were used in this study: TEAD2 (21159-1-AP, Proteintech), actin (66009-1-Ig, Proteintech)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TEAD2"
+                }],
+              "neText" : "TEAD2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "actin (66009-1-Ig, Proteintech)."
+                }],
+              "neText" : "actin (66009-1-Ig, Proteintech)."
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Methods Cell Culture The human ovarian epithelial IOSE80 and the human ovarian cancer A2780, SKOV-3, OVCAR3 and TOV112D cell lines were obtained from the Cancer Research Institute, Central South University, China.",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Methods Cell Culture The human ovarian epithelial IOSE80 and the human ovarian cancer A2780, SKOV-3, OVCAR3 and TOV112D cell lines were obtained from the Cancer Research Institute, Central South University, China."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_5546",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IOSE80"
+                }],
+              "neText" : "IOSE80"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0532",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SKOV-3"
+                }],
+              "neText" : "SKOV-3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0465",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "OVCAR3"
+                }],
+              "neText" : "OVCAR3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TOV112D"
+                }],
+              "neText" : "TOV112D"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "GEPIA Gene Expression Profiling Interactive Analysis (GEPIA), a web-based tool to give rapid and customizable functionalities based on TCGA and GTEx data, could offer vital interactive and customizable functions including differential expression analysis, patient survival analysis, correlation analysis and so on.14 In the study, we used single-gene analysis in GEPIA to value the mRNA expression differences of TEAD family members in OSC tissues compared with normal tissues.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GEPIA Gene Expression Profiling Interactive Analysis (GEPIA), a web-based tool to give rapid and customizable functionalities based on TCGA and GTEx data, could offer vital interactive and customizable functions including differential expression analysis, patient survival analysis, correlation analysis and so on.14 In the study, we used single-gene analysis in GEPIA to value the mRNA expression differences of TEAD family members in OSC tissues compared with normal tissues."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Profiling Interactive Analysis"
+                }],
+              "neText" : "Gene Expression Profiling Interactive Analysis"
+            }]
+        }, {
+          "sentence" : "19 In the study, we built the TEAD-associated protein-protein interaction (PPI) network using STRING.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "19 In the study, we built the TEAD-associated protein-protein interaction (PPI) network using STRING."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "STRING (RRID:SCR_005223)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }]
+        }, {
+          "sentence" : "20 Gene set enrichment analysis of TEAD family-associated coexpression genes was explored using WebGestalt algorithm, including gene ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "20 Gene set enrichment analysis of TEAD family-associated coexpression genes was explored using WebGestalt algorithm, including gene ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "WebGestalt"
+                }],
+              "neText" : "WebGestalt"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The ethics of our study was approved by the Ethics Committee of Xiangya Hospital of Central South University and the ethical approval number is 202110181.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The ethics of our study was approved by the Ethics Committee of Xiangya Hospital of Central South University and the ethical approval number is 202110181."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences in mRNA expression were compared by Students t-test, and p < 0.05 was considered statistical significance.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences in mRNA expression were compared by Students t-test, and p < 0.05 was considered statistical significance."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Students t-test was used to explore the difference between two groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Students t-test was used to explore the difference between two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t-test"
+                  }],
+                "neText" : "Students t-test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Table 1 The TEAD Family Primer Sequences Used in RT-PCR Primers Forward Sequences Reverse Sequences TEAD1 ATGGAAAGGATGAGTGACTCTGC TCCCACATGGTGGATAGATAGC TEAD2 CTTCGTGGAACCGCCAGAT GGAGGCCACCCTTTTTCTCA TEAD3 TCATCCTGTCAGACGAGGG TCTTCCGAGCTAGAACCTGTATG TEAD4 GAACGGGGACCCTCCAATG GCGAGCATACTCTGTCTCAAC Transfections For siRNA transfection, cells were all transfected by using Lipofectamine 3000 reagent (L3000150, Invitrogen, USA) according to the manufacturers protocol.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 The TEAD Family Primer Sequences Used in RT-PCR Primers Forward Sequences Reverse Sequences TEAD1 ATGGAAAGGATGAGTGACTCTGC TCCCACATGGTGGATAGATAGC TEAD2 CTTCGTGGAACCGCCAGAT GGAGGCCACCCTTTTTCTCA TEAD3 TCATCCTGTCAGACGAGGG TCTTCCGAGCTAGAACCTGTATG TEAD4 GAACGGGGACCCTCCAATG GCGAGCATACTCTGTCTCAAC Transfections For siRNA transfection, cells were all transfected by using Lipofectamine 3000 reagent (L3000150, Invitrogen, USA) according to the manufacturers protocol."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ATGGAAAGGATGAGTGACTCTGC TCCCACATGGTGGATAGATAGC TEAD2 CTTCGTGGAACCGCCAGAT GGAGGCCACCCTTTTTCTCA TEAD3 TCATCCTGTCAGACGAGGG TCTTCCGAGCTAGAACCTGTATG TEAD4 GAACGGGGACCCTCCAATG GCGAGCATACTCTGTCTCAAC"
+                  }],
+                "neText" : "ATGGAAAGGATGAGTGACTCTGC TCCCACATGGTGGATAGATAGC TEAD2 CTTCGTGGAACCGCCAGAT GGAGGCCACCCTTTTTCTCA TEAD3 TCATCCTGTCAGACGAGGG TCTTCCGAGCTAGAACCTGTATG TEAD4 GAACGGGGACCCTCCAATG GCGAGCATACTCTGTCTCAAC"
+              }]
+          }]
+      }]
+  }
+}

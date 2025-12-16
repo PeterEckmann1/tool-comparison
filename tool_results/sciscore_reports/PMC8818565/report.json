@@ -1,0 +1,161 @@
+{
+  "docIdentifier" : "PMC8818565",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "We did not adjust for race or ethnicity in any model because nearly all WLS respondents were non-Hispanic White, reflecting the composition of Wisconsin high school graduates in 1957 (Herd et al., 2014).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We did not adjust for race or ethnicity in any model because nearly all WLS respondents were non-Hispanic White, reflecting the composition of Wisconsin high school graduates in 1957 (Herd et al., 2014)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "non-Hispanic White"
+                }],
+              "neText" : "non-Hispanic White"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "2.7 Sample restrictions and missing data imputation We excluded some WLS members from our analyses (Fig. 2).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.7 Sample restrictions and missing data imputation We excluded some WLS members from our analyses (Fig. 2)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Of the 19,050 graduates and siblings, we excluded 1947 who were not linked to the 1940 census.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Of the 19,050 graduates and siblings, we excluded 1947 who were not linked to the 1940 census."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "We also adjusted our statistical models for gender (male or female) and age at the 2004 survey.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We also adjusted our statistical models for gender (male or female) and age at the 2004 survey."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "One-third of high school seniors in the state of Wisconsin in 1957 (N = 10,317) were randomly recruited into the WLS cohort.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-third of high school seniors in the state of Wisconsin in 1957 (N = 10,317) were randomly recruited into the WLS cohort."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Adolescent IQ was measured in 11th grade (age 16-17) using the Henmon-Nelson test, which assesses verbal and quantitative skills (Henmon & Nelson, 1954).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Adolescent IQ was measured in 11th grade (age 16-17) using the Henmon-Nelson test, which assesses verbal and quantitative skills (Henmon & Nelson, 1954)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Henmon-Nelson test"
+                  }],
+                "neText" : "Henmon-Nelson test"
+              }]
+          }, {
+            "sentence" : "We tested for statistically significant differences using t-tests for continuous variables or chi squared for categorical variables.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We tested for statistically significant differences using t-tests for continuous variables or chi squared for categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "docIdentifier" : "PMC8247044",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Logistic regression analyses were performed and figures created with Stata 15 (StataCorp LLC, College Station, TX, USA) other analyses were performed with SPSS v25 (IBM Corp., Armonk, NY, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Logistic regression analyses were performed and figures created with Stata 15 (StataCorp LLC, College Station, TX, USA) other analyses were performed with SPSS v25 (IBM Corp., Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata, RRID:SCR_012763",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StataCorp"
+                }],
+              "neText" : "StataCorp"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Nonetheless, each programme obtained ethical approval for the CP-North research programme in accordance with local laws and regulations as follows: CPUP, Regional Ethics Board, Lund 2018491 CPRN, Regional Committees for Medical and Health Research Ethics, 20172457REK south-east CPOP, a waiver was obtained CPIPS, the South East Scotland Research Ethics Service confirmed that an ethical review was not needed.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Nonetheless, each programme obtained ethical approval for the CP-North research programme in accordance with local laws and regulations as follows: CPUP, Regional Ethics Board, Lund 2018491 CPRN, Regional Committees for Medical and Health Research Ethics, 20172457REK south-east CPOP, a waiver was obtained CPIPS, the South East Scotland Research Ethics Service confirmed that an ethical review was not needed."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "16 , 17 , 18 , 19 The Icelandic Cerebral Palsy Follow-Up Program and Finnish cohort were excluded from this study due to non-population-based data.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "16 , 17 , 18 , 19 The Icelandic Cerebral Palsy Follow-Up Program and Finnish cohort were excluded from this study due to non-population-based data."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "METHOD Study population and design Aggregate data were collected from researchers from each CP surveillance programmeregistry (hereafter called programme) regarding the number of individuals with CP aged 6 to 19 years (born 2000-2013) and registered on 31st December 2019, sex, CP subtype, and gross and fine motor function levels.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHOD Study population and design Aggregate data were collected from researchers from each CP surveillance programmeregistry (hereafter called programme) regarding the number of individuals with CP aged 6 to 19 years (born 2000-2013) and registered on 31st December 2019, sex, CP subtype, and gross and fine motor function levels."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "20 To compare the overall distributions of CP subtypes, GMFCS levels, and MACS levels between each programme, we used the Pearson kh 2 test and standardized Pearson residuals.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "20 To compare the overall distributions of CP subtypes, GMFCS levels, and MACS levels between each programme, we used the Pearson kh 2 test and standardized Pearson residuals."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson kh 2 test"
+                  }],
+                "neText" : "Pearson kh 2 test"
+              }]
+          }, {
+            "sentence" : "21 The linear-by-linear association test was used to study the proportions of GMFCS and MACS levels by age.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "21 The linear-by-linear association test was used to study the proportions of GMFCS and MACS levels by age."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "association test"
+                  }],
+                "neText" : "association test"
+              }]
+          }]
+      }]
+  }
+}

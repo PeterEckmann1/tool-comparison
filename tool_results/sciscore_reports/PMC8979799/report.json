@@ -1,0 +1,141 @@
+{
+  "docIdentifier" : "PMC8979799",
+  "sciscore" : 3,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "On the day of the experiment or upon completion of all experiments, mice were killed by CO2 inhalation or cervical dislocation.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "On the day of the experiment or upon completion of all experiments, mice were killed by CO2 inhalation or cervical dislocation."
+              }]
+          }, {
+            "sentence" : "All animal experiments were conducted in accordance with the Guide for the Care and Use of Laboratory Animals and were approved by the Institutional Committee of Laboratory Animal Experimentation of the University of Yamanashi (reference number: A29-24), which followed the ARRIVE guidelines",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All animal experiments were conducted in accordance with the Guide for the Care and Use of Laboratory Animals and were approved by the Institutional Committee of Laboratory Animal Experimentation of the University of Yamanashi (reference number: A29-24), which followed the ARRIVE guidelines"
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and Methods Animals Female and male ICR mice were obtained from SLC Inc. (Hamamatsu, Japan) and bred in our mouse facility.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Animals Female and male ICR mice were obtained from SLC Inc. (Hamamatsu, Japan) and bred in our mouse facility."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Mice at 8-10 weeks of age were employed for the study.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice at 8-10 weeks of age were employed for the study."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Thereafter, some randomly selected embryos were transferred to day 0.5 pseudopregnant mice that had been mated with vasectomized males the night prior to the transfer 16.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Thereafter, some randomly selected embryos were transferred to day 0.5 pseudopregnant mice that had been mated with vasectomized males the night prior to the transfer 16."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Survival and developmental rates were evaluated using the Tukey-Kramer test .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Survival and developmental rates were evaluated using the Tukey-Kramer test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey-Kramer test"
+                  }],
+                "neText" : "Tukey-Kramer test"
+              }]
+          }, {
+            "sentence" : "Offspring and implant rates were evaluated using the chi-squared test .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Offspring and implant rates were evaluated using the chi-squared test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared test"
+                  }],
+                "neText" : "chi-squared test"
+              }]
+          }]
+      }]
+  }
+}

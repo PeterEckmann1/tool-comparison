@@ -1,0 +1,304 @@
+{
+  "docIdentifier" : "PMC8178775",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Materials and Methods Microarray data preprocessing The gene expression profiles GSE45006, GSE45550, and GSE93249 were downloaded from the Gene Expression Omnibus database of the National Center of Biotechnology Information (http:www.ncbi.nlm.nih.govgeo).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and Methods Microarray data preprocessing The gene expression profiles GSE45006, GSE45550, and GSE93249 were downloaded from the Gene Expression Omnibus database of the National Center of Biotechnology Information (http:www.ncbi.nlm.nih.govgeo)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Omnibus (GEO) (RRID:SCR_005012)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Omnibus"
+                }],
+              "neText" : "Gene Expression Omnibus"
+            }]
+        }, {
+          "sentence" : "The identification of DEGs between SCIs and sham samples The DEGs between SCI and sham samples were screened using GEO2R (http:www.ncbi.nlm.nih.govgeogeo2r) online tools (Davis and Meltzer, 2007).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The identification of DEGs between SCIs and sham samples The DEGs between SCI and sham samples were screened using GEO2R (http:www.ncbi.nlm.nih.govgeogeo2r) online tools (Davis and Meltzer, 2007)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GEO2R (RRID:SCR_016569)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GEO2R"
+                }],
+              "neText" : "GEO2R"
+            }]
+        }, {
+          "sentence" : "GO and KEGG pathway enrichment analyses of the DEGs GO analysis has been widely used to identify functional enrichment patterns in studies examining large-scale genetic sequencing.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GO and KEGG pathway enrichment analyses of the DEGs GO analysis has been widely used to identify functional enrichment patterns in studies examining large-scale genetic sequencing."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "The Database for Annotation, Visualization, and Integrated Discovery (DAVID) provides a comprehensive set of functional annotation tools.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Database for Annotation, Visualization, and Integrated Discovery (DAVID) provides a comprehensive set of functional annotation tools."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }, {
+          "sentence" : "Statistical analysis SPSS 22.0 (IBM, Armonk, NY, USA) was used for all statistical analyses.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis SPSS 22.0 (IBM, Armonk, NY, USA) was used for all statistical analyses."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "GSE93249 included 11 rat spinal cord samples, including 3 non-injured spinal cord samples in the sham group and 8 SCI samples in the SCI group, representing the chronic phase at 1 month (m1, n = 3), 3 months (m3, n = 3), and 6 months (m6, n = 2) after injury.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "GSE93249 included 11 rat spinal cord samples, including 3 non-injured spinal cord samples in the sham group and 8 SCI samples in the SCI group, representing the chronic phase at 1 month (m1, n = 3), 3 months (m3, n = 3), and 6 months (m6, n = 2) after injury."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Materials and Methods Microarray data preprocessing The gene expression profiles GSE45006, GSE45550, and GSE93249 were downloaded from the Gene Expression Omnibus database of the National Center of Biotechnology Information (http:www.ncbi.nlm.nih.govgeo).",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Microarray data preprocessing The gene expression profiles GSE45006, GSE45550, and GSE93249 were downloaded from the Gene Expression Omnibus database of the National Center of Biotechnology Information (http:www.ncbi.nlm.nih.govgeo)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE45006"
+                  }],
+                "neText" : "GSE45006"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE45550"
+                  }],
+                "neText" : "GSE45550"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE93249"
+                  }],
+                "neText" : "GSE93249"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The false discovery rate (FDR) was obtained by adjusting the raw P-values with the Benjamini-Hochberg method (Madar and Batista, 2016).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The false discovery rate (FDR) was obtained by adjusting the raw P-values with the Benjamini-Hochberg method (Madar and Batista, 2016)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }]
+          }, {
+            "sentence" : "Comparisons among multiple groups were analyzed using a one-way analysis of variance, followed by Dunnetts post hoc test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons among multiple groups were analyzed using a one-way analysis of variance, followed by Dunnetts post hoc test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnetts post hoc test"
+                  }],
+                "neText" : "Dunnetts post hoc test"
+              }]
+          }, {
+            "sentence" : "For experiments involving two groups, an unpaired Students t-test was performed.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For experiments involving two groups, an unpaired Students t-test was performed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

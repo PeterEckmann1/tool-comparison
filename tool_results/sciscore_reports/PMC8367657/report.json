@@ -1,0 +1,259 @@
+{
+  "docIdentifier" : "PMC8367657",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The SWISS-MODEL template library (SMTL version 2020-12-23, PDB release 2020-12-18) was searched with BLAST 22 and HHBlits 23 for related evolutionary structures matching the target sequence.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The SWISS-MODEL template library (SMTL version 2020-12-23, PDB release 2020-12-18) was searched with BLAST 22 and HHBlits 23 for related evolutionary structures matching the target sequence."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLAST"
+                }],
+              "neText" : "BLAST"
+            }]
+        }, {
+          "sentence" : "The SWISS-MODEL structure assessment page runs MolProbity version 4.4.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The SWISS-MODEL structure assessment page runs MolProbity version 4.4."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MolProbity, RRID:SCR_014226",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MolProbity"
+                }],
+              "neText" : "MolProbity"
+            }]
+        }, {
+          "sentence" : "We converted the 3D-SDF structures into Mol2 form using Open Babel version 2.4.1 31.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We converted the 3D-SDF structures into Mol2 form using Open Babel version 2.4.1 31."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Babel (RRID:SCR_004307)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Babel"
+                }],
+              "neText" : "Babel"
+            }]
+        }, {
+          "sentence" : "The parameter mentioned above file was generated through the ADT 4.2 tool.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The parameter mentioned above file was generated through the ADT 4.2 tool."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ADT"
+                }],
+              "neText" : "ADT"
+            }]
+        }, {
+          "sentence" : "Further, in silico drug screening among the selected 1565 FDA-approved drugs were performed using AutoDock Vina with default configuration parameters with an exhaustiveness value of 8 to evaluate potentially effective drug candidates based on the favourable binding energy of the individual drug 34.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Further, in silico drug screening among the selected 1565 FDA-approved drugs were performed using AutoDock Vina with default configuration parameters with an exhaustiveness value of 8 to evaluate potentially effective drug candidates based on the favourable binding energy of the individual drug 34."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "AutoDock (RRID:SCR_012746)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AutoDock"
+                }],
+              "neText" : "AutoDock"
+            }]
+        }, {
+          "sentence" : "The docked structure from the ClusPro 2.2 webserver was also analysed using PyMol. 2.2.6 Assessment of drug likeness of the ligands (ADME analysis) As a standard recommended protocol to check the candidature of any ligands as potential drug molecules, the ADME analysis is used to verify the various physicochemical parameters of the molecule.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The docked structure from the ClusPro 2.2 webserver was also analysed using PyMol. 2.2.6 Assessment of drug likeness of the ligands (ADME analysis) As a standard recommended protocol to check the candidature of any ligands as potential drug molecules, the ADME analysis is used to verify the various physicochemical parameters of the molecule."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ClusPro"
+                }],
+              "neText" : "ClusPro"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PyMOL (RRID:SCR_000305)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PyMol"
+                }],
+              "neText" : "PyMol"
+            }]
+        }, {
+          "sentence" : "The SMILES form of the ligands retrieved from the ZINC database were used as input structures in the Swiss ADME analysis server.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The SMILES form of the ligands retrieved from the ZINC database were used as input structures in the Swiss ADME analysis server."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Zinc (RRID:SCR_008596)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ZINC"
+                }],
+              "neText" : "ZINC"
+            }]
+        }, {
+          "sentence" : "We used the previously reported and highly cited PRODRG Server to generate the ligand topology files for smooth analysis in the GROMACS environment 43, 44.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We used the previously reported and highly cited PRODRG Server to generate the ligand topology files for smooth analysis in the GROMACS environment 43, 44."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GROMACS"
+                }],
+              "neText" : "GROMACS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

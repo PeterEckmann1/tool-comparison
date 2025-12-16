@@ -1,0 +1,217 @@
+{
+  "docIdentifier" : "PMC8477885",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "8 , 9 , 10 Briefly, ARIC is a cohort of 15 792 White and Black men and women aged 45-64 years at enrollment who were recruited from 4 field centers (Minneapolis, MN Washington",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "8 , 9 , 10 Briefly, ARIC is a cohort of 15 792 White and Black men and women aged 45-64 years at enrollment who were recruited from 4 field centers (Minneapolis, MN Washington"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "792 White"
+                }],
+              "neText" : "792 White"
+            }]
+        }, {
+          "sentence" : "The CHS original cohort is an elderly population of 5201 White and Black men and women aged >=65 years from 4 field centers ( Washington County , MD Forsyth County",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The CHS original cohort is an elderly population of 5201 White and Black men and women aged >=65 years from 4 field centers ( Washington County , MD Forsyth County"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "5201 White"
+                }],
+              "neText" : "5201 White"
+            }]
+        }, {
+          "sentence" : "MESA is a more ethnically diverse cohort of 6814 men and women aged 45-84 years from 6 sites ( Baltimore City and Baltimore County , MD Chicago , IL Forsyth County , NC Los Angeles County , CA New York , NY and St . Paul , MN ) and included 38 White , 28 Black , 23 Hispanic , and 11 Chinese participants who were enrolled between 2000 and 2002 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MESA is a more ethnically diverse cohort of 6814 men and women aged 45-84 years from 6 sites ( Baltimore City and Baltimore County , MD Chicago , IL Forsyth County , NC Los Angeles County , CA New York , NY and St . Paul , MN ) and included 38 White , 28 Black , 23 Hispanic , and 11 Chinese participants who were enrolled between 2000 and 2002 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "38 White"
+                }],
+              "neText" : "38 White"
+            }]
+        }, {
+          "sentence" : "Risk estimates for Hispanic and Asian American participants were calculated using the equation for non-Hispanic White participants of the same sex as recommended by the risk-assessment working group.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Risk estimates for Hispanic and Asian American participants were calculated using the equation for non-Hispanic White participants of the same sex as recommended by the risk-assessment working group."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "non-Hispanic White"
+                }],
+              "neText" : "non-Hispanic White"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All analyses were performed using Stata 16 (StataCorp, College Station, TX), and a 2-tailed P value <0.05 was considered statistically significant.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All analyses were performed using Stata 16 (StataCorp, College Station, TX), and a 2-tailed P value <0.05 was considered statistically significant."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata, RRID:SCR_012763",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StataCorp"
+                }],
+              "neText" : "StataCorp"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The institutional review committee at each participating center approved the study , and all participants provided informed consent .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The institutional review committee at each participating center approved the study , and all participants provided informed consent ."
+              }]
+          }, {
+            "sentence" : "The institutional review committee at each participating center approved the study , and all participants provided informed consent .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The institutional review committee at each participating center approved the study , and all participants provided informed consent ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Following the methodology used in the development of the PCE , we excluded individuals aged >79 years because complex age interactions were found above this age cutoff during the development of the PCE .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Following the methodology used in the development of the PCE , we excluded individuals aged >79 years because complex age interactions were found above this age cutoff during the development of the PCE ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "8 , 9 , 10 Briefly, ARIC is a cohort of 15 792 White and Black men and women aged 45-64 years at enrollment who were recruited from 4 field centers (Minneapolis, MN Washington",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "8 , 9 , 10 Briefly, ARIC is a cohort of 15 792 White and Black men and women aged 45-64 years at enrollment who were recruited from 4 field centers (Minneapolis, MN Washington"
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "8 , 9 , 10 Briefly, ARIC is a cohort of 15 792 White and Black men and women aged 45-64 years at enrollment who were recruited from 4 field centers (Minneapolis, MN Washington",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "8 , 9 , 10 Briefly, ARIC is a cohort of 15 792 White and Black men and women aged 45-64 years at enrollment who were recruited from 4 field centers (Minneapolis, MN Washington"
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "METHODS Participants All data used in this analysis are publicly available by request from the National Heart, Lung, and Blood Institute (NHLBI) repository.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHODS Participants All data used in this analysis are publicly available by request from the National Heart, Lung, and Blood Institute (NHLBI) repository."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  }
+}

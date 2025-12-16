@@ -1,0 +1,218 @@
+{
+  "docIdentifier" : "PMC8318434",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Diabetes mellitus was diagnosed using haemoglobin A1c (National Glycohemoglobin Standardization Program) >=6.5 and casual blood glucose level >=200 mgdL as the standard andor assumed if the patient was taking medicine for diabetes.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Diabetes mellitus was diagnosed using haemoglobin A1c (National Glycohemoglobin Standardization Program) >=6.5 and casual blood glucose level >=200 mgdL as the standard andor assumed if the patient was taking medicine for diabetes."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "National Glycohemoglobin Standardization Program (RRID:SCR_015885)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "National Glycohemoglobin Standardization Program"
+                }],
+              "neText" : "National Glycohemoglobin Standardization Program"
+            }]
+        }, {
+          "sentence" : "All statistical analyses were performed using SPSS version 21 (IBM Corporation, Armonk, NY, USA) and Microsoft R Open version 4.0.2 (Microsoft, Redmond, WA, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were performed using SPSS version 21 (IBM Corporation, Armonk, NY, USA) and Microsoft R Open version 4.0.2 (Microsoft, Redmond, WA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft R Open"
+                }],
+              "neText" : "Microsoft R Open"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Informed consent was given by all patients or their proxies in accordance with the guidelines of the Ethics Committee on Medical Research of Kochi Medical School.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was given by all patients or their proxies in accordance with the guidelines of the Ethics Committee on Medical Research of Kochi Medical School."
+              }]
+          }, {
+            "sentence" : "Informed consent was given by all patients or their proxies in accordance with the guidelines of the Ethics Committee on Medical Research of Kochi Medical School.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was given by all patients or their proxies in accordance with the guidelines of the Ethics Committee on Medical Research of Kochi Medical School."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criteria for the registry were age of 20 years or older and admission for ADHF to one of the six hospitals.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria for the registry were age of 20 years or older and admission for ADHF to one of the six hospitals."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "One of them is a university hospital.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One of them is a university hospital."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Anaemia was diagnosed as haemoglobin <13 gdL in men and <12 gdL in women.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Anaemia was diagnosed as haemoglobin <13 gdL in men and <12 gdL in women."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The population of Kochi Prefecture is approximately 706 000, and the proportion of people aged 65 years or older reached 34.7 in 2018.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The population of Kochi Prefecture is approximately 706 000, and the proportion of people aged 65 years or older reached 34.7 in 2018."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences in continuous variables among the three groups were assessed using one-way analysis of variance.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences in continuous variables among the three groups were assessed using one-way analysis of variance."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }, {
+            "sentence" : "Pearsons kh 2 test was used for comparisons between categorical variables, and Fishers exact test was used when the expected frequency was lower than 5.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pearsons kh 2 test was used for comparisons between categorical variables, and Fishers exact test was used when the expected frequency was lower than 5."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearsons kh 2 test"
+                  }],
+                "neText" : "Pearsons kh 2 test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }, {
+            "sentence" : "The Bonferroni post-hoc test was used to determine differences between the frailty group, prefrailty group, and non-frailty group.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Bonferroni post-hoc test was used to determine differences between the frailty group, prefrailty group, and non-frailty group."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni post-hoc test"
+                  }],
+                "neText" : "Bonferroni post-hoc test"
+              }]
+          }]
+      }]
+  }
+}

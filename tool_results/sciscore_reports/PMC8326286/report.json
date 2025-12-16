@@ -1,0 +1,281 @@
+{
+  "docIdentifier" : "PMC8326286",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Age 0.893 < 60 59 27 32 >= 60 66 31 35 Gender 0.660 Male 75 36 39 Female 50 22 28 Tumor size 0.072 < 5 cm 69 37 32 >= 5 cm 56 21 35 Smoking history 0.244 No 80 34 46 Yes 45 24 21 Differentiation 0.039 Well-Moderate 74 40 34 Poor 51 18 33 Lymph node metastasis 0.025 Negative 82 44 38 Positive 43 14 29 TNM stage 0.004 I-II 76 43 33 III 49 15 34 Cell Culture and Transfection Human NSCLC cell lines A549 , SK-MES-1 , H358 , H1299 , and normal epithelium cell line BEAS-2B were obtained from the Cell Bank of the Chinese Academy of Science ( Shanghai , China) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Age 0.893 < 60 59 27 32 >= 60 66 31 35 Gender 0.660 Male 75 36 39 Female 50 22 28 Tumor size 0.072 < 5 cm 69 37 32 >= 5 cm 56 21 35 Smoking history 0.244 No 80 34 46 Yes 45 24 21 Differentiation 0.039 Well-Moderate 74 40 34 Poor 51 18 33 Lymph node metastasis 0.025 Negative 82 44 38 Positive 43 14 29 TNM stage 0.004 I-II 76 43 33 III 49 15 34 Cell Culture and Transfection Human NSCLC cell lines A549 , SK-MES-1 , H358 , H1299 , and normal epithelium cell line BEAS-2B were obtained from the Cell Bank of the Chinese Academy of Science ( Shanghai , China) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0630",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SK-MES-1"
+                }],
+              "neText" : "SK-MES-1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0168",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BEAS-2B"
+                }],
+              "neText" : "BEAS-2B"
+            }]
+        }, {
+          "sentence" : "The relative expression of miR-4284 was calculated using the 2-DDCt method normalized to U6. Cell Proliferation Assay The cell proliferation of A549 and H1299 cells was measured using cell counting kit-8 (CCK-8 Dojindo, Japan) following the manufacturers instruction.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The relative expression of miR-4284 was calculated using the 2-DDCt method normalized to U6. Cell Proliferation Assay The cell proliferation of A549 and H1299 cells was measured using cell counting kit-8 (CCK-8 Dojindo, Japan) following the manufacturers instruction."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0060",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "H1299"
+                }],
+              "neText" : "H1299"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The statistical analysis was performed using SPSS20.0 software (IBM, Armonk, NY, USA) and GraphPad 7.0 software (GraphPad, San Diego, CA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The statistical analysis was performed using SPSS20.0 software (IBM, Armonk, NY, USA) and GraphPad 7.0 software (GraphPad, San Diego, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All the studies were carried out under the approval of the Ethics Committee of Affiliated Hospital of Weifang Medical University and the guidelines outlined in the Declaration of Helsinki were followed.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the studies were carried out under the approval of the Ethics Committee of Affiliated Hospital of Weifang Medical University and the guidelines outlined in the Declaration of Helsinki were followed."
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained from each individual.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from each individual."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Age 0.893 < 60 59 27 32 >= 60 66 31 35 Gender 0.660 Male 75 36 39 Female 50 22 28 Tumor size 0.072 < 5 cm 69 37 32 >= 5 cm 56 21 35 Smoking history 0.244 No 80 34 46 Yes 45 24 21 Differentiation 0.039 Well-Moderate 74 40 34 Poor 51 18 33 Lymph node metastasis 0.025 Negative 82 44 38 Positive 43 14 29 TNM stage 0.004 I-II 76 43 33 III 49 15 34 Cell Culture and Transfection Human NSCLC cell lines A549 , SK-MES-1 , H358 , H1299 , and normal epithelium cell line BEAS-2B were obtained from the Cell Bank of the Chinese Academy of Science ( Shanghai , China) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Age 0.893 < 60 59 27 32 >= 60 66 31 35 Gender 0.660 Male 75 36 39 Female 50 22 28 Tumor size 0.072 < 5 cm 69 37 32 >= 5 cm 56 21 35 Smoking history 0.244 No 80 34 46 Yes 45 24 21 Differentiation 0.039 Well-Moderate 74 40 34 Poor 51 18 33 Lymph node metastasis 0.025 Negative 82 44 38 Positive 43 14 29 TNM stage 0.004 I-II 76 43 33 III 49 15 34 Cell Culture and Transfection Human NSCLC cell lines A549 , SK-MES-1 , H358 , H1299 , and normal epithelium cell line BEAS-2B were obtained from the Cell Bank of the Chinese Academy of Science ( Shanghai , China) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Statistical Analysis All experiments were repeated at least three times independently and all the data were presented as mean +- SD.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical Analysis All experiments were repeated at least three times independently and all the data were presented as mean +- SD."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "Statistical Analysis All experiments were repeated at least three times independently and all the data were presented as mean +- SD.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical Analysis All experiments were repeated at least three times independently and all the data were presented as mean +- SD."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Comparisons between groups were analyzed using the Students t-test, whereas data among three or more groups were compared using one-way ANOVA.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons between groups were analyzed using the Students t-test, whereas data among three or more groups were compared using one-way ANOVA."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "The kh 2 test was used to analyze the relationship between miR-4284 expression and clinical characteristics of NSCLC patients.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The kh 2 test was used to analyze the relationship between miR-4284 expression and clinical characteristics of NSCLC patients."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "kh 2 test"
+                  }],
+                "neText" : "kh 2 test"
+              }]
+          }, {
+            "sentence" : "Then, Kaplan-Meier curve with Log rank test and multiple Cox regression analysis was used to analyze the clinical prognostic significance of miR-4284.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Then, Kaplan-Meier curve with Log rank test and multiple Cox regression analysis was used to analyze the clinical prognostic significance of miR-4284."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Log rank test"
+                  }],
+                "neText" : "Log rank test"
+              }]
+          }]
+      }]
+  }
+}

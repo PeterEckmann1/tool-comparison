@@ -1,0 +1,181 @@
+{
+  "docIdentifier" : "PMC8217686",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "ED analysis was done for 25,000 snapshots from the last 500 ns of each simulation , taking into account only the backbone atoms and the calculations were performed with PCAsuite program ( available at http:www.mmb.irbbarcelona.orgsoftwarepcasuitepcasuite.html) , which is integrated in the pyPCcazip program , a suite of tools for compression and analysis of molecular simulations 40 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ED analysis was done for 25,000 snapshots from the last 500 ns of each simulation , taking into account only the backbone atoms and the calculations were performed with PCAsuite program ( available at http:www.mmb.irbbarcelona.orgsoftwarepcasuitepcasuite.html) , which is integrated in the pyPCcazip program , a suite of tools for compression and analysis of molecular simulations 40 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "pyPCcazip (RRID:SCR_024423)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pyPCcazip"
+                }],
+              "neText" : "pyPCcazip"
+            }]
+        }, {
+          "sentence" : "This analysis was performed using the module available in AMBER package.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "This analysis was performed using the module available in AMBER package."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "AMBER (RRID:SCR_016151)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AMBER"
+                }],
+              "neText" : "AMBER"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Apo , holo and holo + ATP systems were simulated in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Apo , holo and holo + ATP systems were simulated in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Apo , holo and holo + ATP systems were simulated in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Apo , holo and holo + ATP systems were simulated in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Simulations were performed using the AMBER18 package 33 and the Amber ff99SB-ILDN force field 34 for the protein, whereas the ligands (A-769662, SC4) were parameterized using the GAFF 35 force field in conjunction with restrained electrostatic potential-fitted (RESP) partial atomic charges derived from B3LYP6-31G(d) calculations 36.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Simulations were performed using the AMBER18 package 33 and the Amber ff99SB-ILDN force field 34 for the protein, whereas the ligands (A-769662, SC4) were parameterized using the GAFF 35 force field in conjunction with restrained electrostatic potential-fitted (RESP) partial atomic charges derived from B3LYP6-31G(d) calculations 36."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "B3LYP6-31G(d"
+                  }],
+                "neText" : "B3LYP6-31G(d"
+              }]
+          }]
+      }]
+  }
+}

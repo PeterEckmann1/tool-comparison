@@ -1,0 +1,125 @@
+{
+  "docIdentifier" : "PMC8367081",
+  "sciscore" : 3,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods Data Source All data were extracted from the Medical Information Mart for Intensive Care-IV (MIMIC-IV version 1.0) database, which is an updated version of MIMIC-III with pre-existing institutional review board approval, is freely available.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Data Source All data were extracted from the Medical Information Mart for Intensive Care-IV (MIMIC-IV version 1.0) database, which is an updated version of MIMIC-III with pre-existing institutional review board approval, is freely available."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "22 Patients with one of the following conditions were excluded: 1) less than 16-year-old at first admission to ICU 2) less than 24 hours of hospital stay 3) more than 10 of personal data was missing 4) patients with repeated ICU admissions and 5) patients with systemic inflammatory disorders and recent received glucocorticosteroid therapies.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "22 Patients with one of the following conditions were excluded: 1) less than 16-year-old at first admission to ICU 2) less than 24 hours of hospital stay 3) more than 10 of personal data was missing 4) patients with repeated ICU admissions and 5) patients with systemic inflammatory disorders and recent received glucocorticosteroid therapies."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "22 Patients with one of the following conditions were excluded: 1) less than 16-year-old at first admission to ICU 2) less than 24 hours of hospital stay 3) more than 10 of personal data was missing 4) patients with repeated ICU admissions and 5) patients with systemic inflammatory disorders and recent received glucocorticosteroid therapies.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "22 Patients with one of the following conditions were excluded: 1) less than 16-year-old at first admission to ICU 2) less than 24 hours of hospital stay 3) more than 10 of personal data was missing 4) patients with repeated ICU admissions and 5) patients with systemic inflammatory disorders and recent received glucocorticosteroid therapies."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Chi-square test or Fishers test was appropiately performed to compare the differences between groups.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Chi-square test or Fishers test was appropiately performed to compare the differences between groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-square test"
+                  }],
+                "neText" : "Chi-square test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers test"
+                  }],
+                "neText" : "Fishers test"
+              }]
+          }]
+      }]
+  }
+}

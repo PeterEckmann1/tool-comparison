@@ -1,0 +1,487 @@
+{
+  "docIdentifier" : "PMC8728431",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies anti-cIAP1 abcam Cat#ab108361 anti-cIAP2 abcam Cat#ab23423 anti-USP7 Bethyl Cat#A700-072",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies anti-cIAP1 abcam Cat#ab108361 anti-cIAP2 abcam Cat#ab23423 anti-USP7 Bethyl Cat#A700-072"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-cIAP1"
+                }],
+              "neText" : "anti-cIAP1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-cIAP2"
+                }],
+              "neText" : "anti-cIAP2"
+            }]
+        }, {
+          "sentence" : "Clarified lysates were precleared with protein A/G agarose beads ( Thermo Scientific) , followed by IP with either anti-USP7 monoclonal antibody ( Bethyl) , anti-TRIM27 polyclonal antibody ( MyBioSource) , or normal rabbit IgG ( Cell Signaling) .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Clarified lysates were precleared with protein A/G agarose beads ( Thermo Scientific) , followed by IP with either anti-USP7 monoclonal antibody ( Bethyl) , anti-TRIM27 polyclonal antibody ( MyBioSource) , or normal rabbit IgG ( Cell Signaling) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-USP7"
+                }],
+              "neText" : "anti-USP7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TRIM27"
+                }],
+              "neText" : "anti-TRIM27"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "normal rabbit IgG"
+                }],
+              "neText" : "normal rabbit IgG"
+            }]
+        }, {
+          "sentence" : "Whole cell protein extracts were prepared with RIPA buffer ( Sigma ) followed by Co-IP with IgG or anti-PanCrotonylLysine antibody ( PTM biolabs) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Whole cell protein extracts were prepared with RIPA buffer ( Sigma ) followed by Co-IP with IgG or anti-PanCrotonylLysine antibody ( PTM biolabs) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-PanCrotonylLysine"
+                }],
+              "neText" : "anti-PanCrotonylLysine"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "models: Cell lines Jurkat ATCC TIB-152 2D10 Dr.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "models: Cell lines Jurkat ATCC TIB-152 2D10 Dr."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Jurkat"
+                }],
+              "neText" : "Jurkat"
+            }]
+        }, {
+          "sentence" : "J-Lat A1 cells , J-Lat 10.6 , or U1 cells were from NIH AIDS Reagents Repository , 2D10 cell model of latency was a gift from Dr. Jonathan Karn ( Case Western University , Cleveland , OH) , which harbors a single copy of HIV-1pNL4-3 whose genome lacks sequences encoding the majority of the Gag-Pol polyprotein , but encompasses the full-length 5 and 3′ LTRs .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "J-Lat A1 cells , J-Lat 10.6 , or U1 cells were from NIH AIDS Reagents Repository , 2D10 cell model of latency was a gift from Dr. Jonathan Karn ( Case Western University , Cleveland , OH) , which harbors a single copy of HIV-1pNL4-3 whose genome lacks sequences encoding the majority of the Gag-Pol polyprotein , but encompasses the full-length 5 and 3′ LTRs ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "J-Lat A1"
+                }],
+              "neText" : "J-Lat A1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Trim 27 Accell small interfering RNAs Dharmacon Cat#E-006552-00-0020 scrambled control siRNAs Dharmacon Cat#D-001910-10-20 Software and algorithms GraphPad Prism 8 GraphPad Software Inc .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Trim 27 Accell small interfering RNAs Dharmacon Cat#E-006552-00-0020 scrambled control siRNAs Dharmacon Cat#D-001910-10-20 Software and algorithms GraphPad Prism 8 GraphPad Software Inc ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }, {
+          "sentence" : "https://www.graphpad.com/",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "https://www.graphpad.com/"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://www.graphpad.com/"
+                }],
+              "neText" : "https://www.graphpad.com/"
+            }]
+        }, {
+          "sentence" : "The glyceraldehyde-3-phosphate dehydrogenase ( GAPDH ) and TBP primers/probe sets were used for control PCR ( Applied Biosystems Inc . ) HIV ( GFP ) was quantified by GFP expression using flow cytometry and the data were analyzed using FlowJo Software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The glyceraldehyde-3-phosphate dehydrogenase ( GAPDH ) and TBP primers/probe sets were used for control PCR ( Applied Biosystems Inc . ) HIV ( GFP ) was quantified by GFP expression using flow cytometry and the data were analyzed using FlowJo Software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "Whole cell protein extracts were prepared with RIPA buffer ( Sigma ) followed by Co-IP with IgG or anti-PanCrotonylLysine antibody ( PTM biolabs) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Whole cell protein extracts were prepared with RIPA buffer ( Sigma ) followed by Co-IP with IgG or anti-PanCrotonylLysine antibody ( PTM biolabs) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "MS data analysis Mass spectra processing and peptide identification were performed on the Andromeda search engine in MaxQuant software ( Version 1.6.0.16 ) against a human UniProt database ( UP000005640) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MS data analysis Mass spectra processing and peptide identification were performed on the Andromeda search engine in MaxQuant software ( Version 1.6.0.16 ) against a human UniProt database ( UP000005640) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MaxQuant (RRID:SCR_014485)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MaxQuant"
+                }],
+              "neText" : "MaxQuant"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "https://www.flowjo.com/ Other Patient cell study Study was approved by the University of North Carolina Institutional Review Board UNC IRB committee Resource availability Lead contact Further information and requests for resources and reagents should be directed to the Lead Contact ,  Dr. Guochun Jiang ( Guochun_Jiang@med.unc . edu) .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "https://www.flowjo.com/ Other Patient cell study Study was approved by the University of North Carolina Institutional Review Board UNC IRB committee Resource availability Lead contact Further information and requests for resources and reagents should be directed to the Lead Contact ,  Dr. Guochun Jiang ( Guochun_Jiang@med.unc . edu) ."
+              }]
+          }, {
+            "sentence" : "All participants provided informed consent and the study was approved by the UNC Institutional Review Board.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants provided informed consent and the study was approved by the UNC Institutional Review Board."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "For the HIV gag RNA measurements in resting CD4+ T cells from ART-suppressed individuals , 3–5 replicates of 2–4 million resting CD4+ T cells per replicate were treated with compounds either for 24 or 48 hours .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the HIV gag RNA measurements in resting CD4+ T cells from ART-suppressed individuals , 3–5 replicates of 2–4 million resting CD4+ T cells per replicate were treated with compounds either for 24 or 48 hours ."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "Three biological replicates were prepared for this experiment .",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three biological replicates were prepared for this experiment ."
+              }]
+          }, {
+            "sentence" : "For the HIV gag RNA measurements in resting CD4+ T cells from ART-suppressed individuals , 3–5 replicates of 2–4 million resting CD4+ T cells per replicate were treated with compounds either for 24 or 48 hours .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the HIV gag RNA measurements in resting CD4+ T cells from ART-suppressed individuals , 3–5 replicates of 2–4 million resting CD4+ T cells per replicate were treated with compounds either for 24 or 48 hours ."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Protein quantitation was performed on biological replicate runs, and a two-sample T-test statistics was used to report statistically significant expression fold-changes.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Protein quantitation was performed on biological replicate runs, and a two-sample T-test statistics was used to report statistically significant expression fold-changes."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "T-test"
+                  }],
+                "neText" : "T-test"
+              }]
+          }, {
+            "sentence" : "Statistical significance was determined using the two-tailed Student T test or One-way ANOVA test, where ∗, p <0.05 was considered significant.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical significance was determined using the two-tailed Student T test or One-way ANOVA test, where "
+              }, {
+                "f" : "symbol",
+                "c" : "∗"
+              }, {
+                "f" : "default",
+                "c" : ", p <0.05 was considered significant."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "T test"
+                  }],
+                "neText" : "T test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "2018 Oligonucleotides HIV long LTR probe: 6FAMCCA GAG TCA CAC AAC AGA CGG GCA CAT AMRA Invitrogen Yukl ,",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2018 Oligonucleotides HIV long LTR probe: 6FAMCCA GAG TCA CAC AAC AGA CGG GCA CAT AMRA Invitrogen Yukl ,"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "6FAMCCA GAG TCA CAC AAC AGA CGG GCA CAT AMRA"
+                  }],
+                "neText" : "6FAMCCA GAG TCA CAC AAC AGA CGG GCA CAT AMRA"
+              }]
+          }, {
+            "sentence" : "et al. 2018 HIV long LTR sense: GCC TCA ATA AAG CTT GCC TTG A Invitrogen Yukl ,",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "et al. 2018 HIV long LTR sense: GCC TCA ATA AAG CTT GCC TTG A Invitrogen Yukl ,"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCC TCA ATA AAG CTT GCC TTG"
+                  }],
+                "neText" : "GCC TCA ATA AAG CTT GCC TTG"
+              }]
+          }, {
+            "sentence" : "et al. 2018 HIV long LTR antisense: GGG CGC CAC TGC TAG AGA Invitrogen Yukl , et al. 2018 GAPDH ( Hs99999905_m1 ) Thermo Scientific Cat#4331182 TRIM27 Applied Biosystems Hs01100632_ml",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "et al. 2018 HIV long LTR antisense: GGG CGC CAC TGC TAG AGA Invitrogen Yukl , et al. 2018 GAPDH ( Hs99999905_m1 ) Thermo Scientific Cat#4331182 TRIM27 Applied Biosystems Hs01100632_ml"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGG CGC CAC TGC TAG AGA"
+                  }],
+                "neText" : "GGG CGC CAC TGC TAG AGA"
+              }]
+          }]
+      }]
+  }
+}

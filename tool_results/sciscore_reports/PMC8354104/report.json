@@ -1,0 +1,683 @@
+{
+  "docIdentifier" : "PMC8354104",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Anti-Thy1.1 antibody ( mouse , 1:1000 , Cat# M7898 , Sigma-Aldrich , St . Louis , MO , USA ) and rabbit complement ( 25 % , Cat# 31024100 , Invitrogen , Carlsbad , CA , USA ) were subsequently applied to remove fibroblasts and purify the isolated cells .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Anti-Thy1.1 antibody ( mouse , 1:1000 , Cat# M7898 , Sigma-Aldrich , St . Louis , MO , USA ) and rabbit complement ( 25 % , Cat# 31024100 , Invitrogen , Carlsbad , CA , USA ) were subsequently applied to remove fibroblasts and purify the isolated cells ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-Thy1.1"
+                }],
+              "neText" : "Anti-Thy1.1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Materials and Methods Animals Sixty 6-week-old male Sprague-Dawley rats (specific pathogen-free level), weighing 160–180 g, were included in this study.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and Methods Animals Sixty 6-week-old male Sprague-Dawley rats (specific pathogen-free level), weighing 160–180 g, were included in this study."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_70508",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sprague-Dawley"
+                }],
+              "neText" : "Sprague-Dawley"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The series test of cluster analysis was performed using Stem software ( http://www.cs.cmu.edu/~jernst/stem/) , and the co-expression network analysis was performed using CytoScape software ( https://cytoscape.org/ ) with bioinformatics assistance from Shanghai OE Biotech . Co . , Ltd. ( Shanghai , China) .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The series test of cluster analysis was performed using Stem software ( http://www.cs.cmu.edu/~jernst/stem/) , and the co-expression network analysis was performed using CytoScape software ( https://cytoscape.org/ ) with bioinformatics assistance from Shanghai OE Biotech . Co . , Ltd. ( Shanghai , China) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://www.cs.cmu.edu/~jernst/stem/"
+                }],
+              "neText" : "http://www.cs.cmu.edu/~jernst/stem/"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CytoScape"
+                }],
+              "neText" : "CytoScape"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://cytoscape.org/"
+                }],
+              "neText" : "https://cytoscape.org/"
+            }]
+        }, {
+          "sentence" : "Then , these candidate genes were uploaded for gene enrichment analysis with the corresponding database ( Gene Ontology ( GO ) enrichment: http://geneontology.org/; Kyoto Encyclopedia of Genes and Genomes ( KEGG ) enrichment: http://www.genome.jp/kegg/) , and the PubMed database ( https://www.ncbi.nlm.nih.gov/gene/ ) was used to screen genes related to cell proliferation , migration , apoptosis , and the cell cycle.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then , these candidate genes were uploaded for gene enrichment analysis with the corresponding database ( Gene Ontology ( GO ) enrichment: http://geneontology.org/; Kyoto Encyclopedia of Genes and Genomes ( KEGG ) enrichment: http://www.genome.jp/kegg/) , and the PubMed database ( https://www.ncbi.nlm.nih.gov/gene/ ) was used to screen genes related to cell proliferation , migration , apoptosis , and the cell cycle."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PubMed (RRID:SCR_004846)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PubMed"
+                }],
+              "neText" : "PubMed"
+            }]
+        }, {
+          "sentence" : "S100β ( mouse , 1:1000 , Cat# s2532 , Sigma) , was used to immunostain the purified cell preparation , and the results indicated that the cell preparation consisted of 98 % SCs .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "S100"
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : " ( mouse , 1:1000 , Cat# s2532 , Sigma) , was used to immunostain the purified cell preparation , and the results indicated that the cell preparation consisted of 98 % SCs ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "Finally, migrating cells at the wound front were photographed, and the clear areas were measured by ImageJ software at the indicated time points to determine the percentage relative to that at 0 hours.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Finally, migrating cells at the wound front were photographed, and the clear areas were measured by ImageJ software at the indicated time points to determine the percentage relative to that at 0 hours."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Statistical analysis All statistical analyses were conducted by Student’s t-test using GraphPad Prism 9 (GraphPad Software, San Diego, CA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis All statistical analyses were conducted by Student’s t-test using GraphPad Prism 9 (GraphPad Software, San Diego, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }, {
+          "sentence" : "The DEGs were statistically analyzed using DESeq software (https://www.huber.embl.de/users/anders/DESeq/).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The DEGs were statistically analyzed using DESeq software (https://www.huber.embl.de/users/anders/DESeq/)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq"
+                }],
+              "neText" : "DESeq"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Animal Ethics Committee of Nantong University of China ( Approval No. S20180923-007 ) in 2018 .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Animal Ethics Committee of Nantong University of China ( Approval No. S20180923-007 ) in 2018 ."
+              }]
+          }, {
+            "sentence" : "Lingfeng Chemical Reagent , Shanghai , China) , and 17 mg/kg sodium pentobarbital ( MilliporeSigma , Burlington , MA , USA) , the main trunk of the right extracranial facial nerve was exposed.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Lingfeng Chemical Reagent , Shanghai , China) , and 17 mg/kg sodium pentobarbital ( MilliporeSigma , Burlington , MA , USA) , the main trunk of the right extracranial facial nerve was exposed."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and Methods Animals Sixty 6-week-old male Sprague-Dawley rats (specific pathogen-free level), weighing 160–180 g, were included in this study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Animals Sixty 6-week-old male Sprague-Dawley rats (specific pathogen-free level), weighing 160–180 g, were included in this study."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Animals Sixty 6-week-old male Sprague-Dawley rats (specific pathogen-free level), weighing 160–180 g, were included in this study.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Animals Sixty 6-week-old male Sprague-Dawley rats (specific pathogen-free level), weighing 160–180 g, were included in this study."
+              }]
+          }, {
+            "sentence" : "Materials and Methods Animals Sixty 6-week-old male Sprague-Dawley rats (specific pathogen-free level), weighing 160–180 g, were included in this study.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Animals Sixty 6-week-old male Sprague-Dawley rats (specific pathogen-free level), weighing 160–180 g, were included in this study."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "All included rats were randomly divided into six groups ( n = 10) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All included rats were randomly divided into six groups ( n = 10) ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Video recordings of the blink reflex , vibrissae movement , and tip position were analyzed by two independent blinded observers at the time of acquisition .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Video recordings of the blink reflex , vibrissae movement , and tip position were analyzed by two independent blinded observers at the time of acquisition ."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each sample was replicated in three wells.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each sample was replicated in three wells."
+              }],
+            "mention" : {
+              "neText" : "replicated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicated"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis All statistical analyses were conducted by Student’s t-test using GraphPad Prism 9 (GraphPad Software, San Diego, CA, USA).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis All statistical analyses were conducted by Student’s t-test using GraphPad Prism 9 (GraphPad Software, San Diego, CA, USA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Additional Table 1 Lists of primers used in quantitative real-time polymerase chain reaction Gene ID Gene full name Gene symbol Primer sequences ( 5’-3’ )",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Additional Table 1 Lists of primers used in quantitative real-time polymerase chain reaction Gene ID Gene full name Gene symbol Primer sequences ( 5’-3’ )"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-3’"
+                  }],
+                "neText" : "5’-3’"
+              }]
+          }, {
+            "sentence" : "Rho GTPase activating protein 30 Arhgap30 Forward: GGAGTTCCTTATGCGCCACT Reverse: TCTACACCAGCAGAGAGGGAA",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Rho GTPase activating protein 30 Arhgap30 Forward: GGAGTTCCTTATGCGCCACT Reverse: TCTACACCAGCAGAGAGGGAA"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGAGTTCCTTATGCGCCACT"
+                  }],
+                "neText" : "GGAGTTCCTTATGCGCCACT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TCTACACCAGCAGAGAGGGAA"
+                  }],
+                "neText" : "TCTACACCAGCAGAGAGGGAA"
+              }]
+          }, {
+            "sentence" : "Aldo-keto reductase family 1 , member B8 Akr1b8 Forward: AGCCCAGGTTCTTATTCGGT Reverse: TCTGCGTCATAGGGAAACTCT",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Aldo-keto reductase family 1 , member B8 Akr1b8 Forward: AGCCCAGGTTCTTATTCGGT Reverse: TCTGCGTCATAGGGAAACTCT"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AGCCCAGGTTCTTATTCGGT"
+                  }],
+                "neText" : "AGCCCAGGTTCTTATTCGGT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TCTGCGTCATAGGGAAACTCT"
+                  }],
+                "neText" : "TCTGCGTCATAGGGAAACTCT"
+              }]
+          }, {
+            "sentence" : "Complement C5a receptor 1 C5ar1 Forward: CCAGGACATGGACCCCATAA Reverse: GGCGTTGACAGTACGTTTGG 652957",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Complement C5a receptor 1 C5ar1 Forward: CCAGGACATGGACCCCATAA Reverse: GGCGTTGACAGTACGTTTGG 652957"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCAGGACATGGACCCCATAA"
+                  }],
+                "neText" : "CCAGGACATGGACCCCATAA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGCGTTGACAGTACGTTTGG"
+                  }],
+                "neText" : "GGCGTTGACAGTACGTTTGG"
+              }]
+          }, {
+            "sentence" : "Colony stimulating factor 2 receptor alpha subunit Csf2ra Forward: CAACTCGGAGACGCTGAGGAA Reverse: TGTCAGAGATGGAGGATGGGAG 360509 Dedicator of cytokinesis 2 Dock2 Forward: TTCTTCAAGACCATGCTGGC Reverse: ACAGAAGATGCGAGGCTTGT",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Colony stimulating factor 2 receptor alpha subunit Csf2ra Forward: CAACTCGGAGACGCTGAGGAA Reverse: TGTCAGAGATGGAGGATGGGAG 360509 Dedicator of cytokinesis 2 Dock2 Forward: TTCTTCAAGACCATGCTGGC Reverse: ACAGAAGATGCGAGGCTTGT"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAACTCGGAGACGCTGAGGAA"
+                  }],
+                "neText" : "CAACTCGGAGACGCTGAGGAA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TGTCAGAGATGGAGGATGGGAG"
+                  }],
+                "neText" : "TGTCAGAGATGGAGGATGGGAG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TTCTTCAAGACCATGCTGGC"
+                  }],
+                "neText" : "TTCTTCAAGACCATGCTGGC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACAGAAGATGCGAGGCTTGT"
+                  }],
+                "neText" : "ACAGAAGATGCGAGGCTTGT"
+              }]
+          }, {
+            "sentence" : "288077 Hematopoietic cell specific Lyn substrate 1 Hcls1 Forward: GGGCCACGAGTATGTTGCT Reverse: CCCTTGGCATAATCTCGCTGA",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "288077 Hematopoietic cell specific Lyn substrate 1 Hcls1 Forward: GGGCCACGAGTATGTTGCT Reverse: CCCTTGGCATAATCTCGCTGA"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGGCCACGAGTATGTTGCT"
+                  }],
+                "neText" : "GGGCCACGAGTATGTTGCT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCCTTGGCATAATCTCGCTGA"
+                  }],
+                "neText" : "CCCTTGGCATAATCTCGCTGA"
+              }]
+          }, {
+            "sentence" : "Inositol polyphosphate-5-phosphatase D Inpp5d Forward: TGTTCAGGCATCCGAAGGTG Reverse: CGGGGGTTCTCTGTTGGAAG",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inositol polyphosphate-5-phosphatase D Inpp5d Forward: TGTTCAGGCATCCGAAGGTG Reverse: CGGGGGTTCTCTGTTGGAAG"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TGTTCAGGCATCCGAAGGTG"
+                  }],
+                "neText" : "TGTTCAGGCATCCGAAGGTG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CGGGGGTTCTCTGTTGGAAG"
+                  }],
+                "neText" : "CGGGGGTTCTCTGTTGGAAG"
+              }]
+          }, {
+            "sentence" : "Spi-1 proto-oncogene Spi1 Forward: ATTGGTGGTGATGGAGACAGC Reverse: GTAGGAAACCTGGTGACTGAGG",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Spi-1 proto-oncogene Spi1 Forward: ATTGGTGGTGATGGAGACAGC Reverse: GTAGGAAACCTGGTGACTGAGG"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ATTGGTGGTGATGGAGACAGC"
+                  }],
+                "neText" : "ATTGGTGGTGATGGAGACAGC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GTAGGAAACCTGGTGACTGAGG"
+                  }],
+                "neText" : "GTAGGAAACCTGGTGACTGAGG"
+              }]
+          }, {
+            "sentence" : "src-like adaptor Sla Forward: CACCTGCACCTTTGGAGAGA Reverse: AACAGCCAGCCATGATACACT",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "src-like adaptor Sla Forward: CACCTGCACCTTTGGAGAGA Reverse: AACAGCCAGCCATGATACACT"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CACCTGCACCTTTGGAGAGA"
+                  }],
+                "neText" : "CACCTGCACCTTTGGAGAGA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AACAGCCAGCCATGATACACT"
+                  }],
+                "neText" : "AACAGCCAGCCATGATACACT"
+              }]
+          }, {
+            "sentence" : "Interleukin 6 IL-6 Forward: GTTTCTCTCCGCAAGAGACTT Reverse: ATACTGGTCTGTTGTGGGTGG 24770 C-C motif chemokine ligand 2 MCP-1 Forward: CCACCACTATGCAGGTCTCTG Reverse: GGGGCATTAACTGCATCTGGC Scoring of facial nerve function The function of the facial nerve was estimated and scored on three aspects ( blink reflex , vibrissae movement , and tip position ) according to a previously reported method ( Gao et al. , 2019) .",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Interleukin 6 IL-6 Forward: GTTTCTCTCCGCAAGAGACTT Reverse: ATACTGGTCTGTTGTGGGTGG 24770 C-C motif chemokine ligand 2 MCP-1 Forward: CCACCACTATGCAGGTCTCTG Reverse: GGGGCATTAACTGCATCTGGC Scoring of facial nerve function The function of the facial nerve was estimated and scored on three aspects ( blink reflex , vibrissae movement , and tip position ) according to a previously reported method ( Gao et al. , 2019) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GTTTCTCTCCGCAAGAGACTT"
+                  }],
+                "neText" : "GTTTCTCTCCGCAAGAGACTT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ATACTGGTCTGTTGTGGGTGG"
+                  }],
+                "neText" : "ATACTGGTCTGTTGTGGGTGG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCACCACTATGCAGGTCTCTG"
+                  }],
+                "neText" : "CCACCACTATGCAGGTCTCTG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGGGCATTAACTGCATCTGGC"
+                  }],
+                "neText" : "GGGGCATTAACTGCATCTGGC"
+              }]
+          }, {
+            "sentence" : "The target sequences of siRNA duplexes were as follows: negative-control siRNA , 5′-GGC UCU AGA AAA GCC UAU GC-3′",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The target sequences of siRNA duplexes were as follows: negative-control siRNA , 5′-GGC UCU AGA AAA GCC UAU GC-3′"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GGC UCU AGA AAA GCC UAU GC-3′"
+                  }],
+                "neText" : "5′-GGC UCU AGA AAA GCC UAU GC-3′"
+              }]
+          }, {
+            "sentence" : ", Akr1b8-specific siRNA-1 , 5′-CTG GGT ATC GAC ATA TTG A-3′ , Akr1b8-specific siRNA-2 , 5′-ACC CTT CAC TAT TAC AGG A-3′ , Akr1b8-specific siRNA-3 , 5′-CAG CAC GTA TAC AGG AGA A-3′ .",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : ", Akr1b8-specific siRNA-1 , 5′-CTG GGT ATC GAC ATA TTG A-3′ , Akr1b8-specific siRNA-2 , 5′-ACC CTT CAC TAT TAC AGG A-3′ , Akr1b8-specific siRNA-3 , 5′-CAG CAC GTA TAC AGG AGA A-3′ ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CTG GGT ATC GAC ATA TTG A-3′"
+                  }],
+                "neText" : "5′-CTG GGT ATC GAC ATA TTG A-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-ACC CTT CAC TAT TAC AGG A-3′"
+                  }],
+                "neText" : "5′-ACC CTT CAC TAT TAC AGG A-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CAG CAC GTA TAC AGG AGA A-3′"
+                  }],
+                "neText" : "5′-CAG CAC GTA TAC AGG AGA A-3′"
+              }]
+          }]
+      }]
+  }
+}

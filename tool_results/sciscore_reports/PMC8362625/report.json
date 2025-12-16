@@ -1,0 +1,159 @@
+{
+  "docIdentifier" : "PMC8362625",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "28 Image Processing and Reconstruction The imaging processing pipeline was customized and implemented with MATLAB (R2019a version; MathWorks, Natick, MA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "28 Image Processing and Reconstruction The imaging processing pipeline was customized and implemented with MATLAB (R2019a version; MathWorks, Natick, MA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }, {
+          "sentence" : "Depending on the irregularity of different tissues, 10 to 50 slices were manually segmented as the baseline for each tissue, then the rest of the interval slices were unraveled using the interpolation function from ImageJ.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Depending on the irregularity of different tissues, 10 to 50 slices were manually segmented as the baseline for each tissue, then the rest of the interval slices were unraveled using the interpolation function from ImageJ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "These 3D four-channel images are visualized and animated using ICY software (Institut Pasteur, Paris, France; France BioImaging, Montpellier, France), and Imaris Viewer (Oxford Instruments, Abingdon, UK).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These 3D four-channel images are visualized and animated using ICY software (Institut Pasteur, Paris, France; France BioImaging, Montpellier, France), and Imaris Viewer (Oxford Instruments, Abingdon, UK)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Imaris"
+                }],
+              "neText" : "Imaris"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All procedures were performed according to the guidelines approved by the Institutional Animal Care and Use Committee at Miami University and the ARVO Statement for the Use of Animals in Ophthalmic and Vision Research.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All procedures were performed according to the guidelines approved by the Institutional Animal Care and Use Committee at Miami University and the ARVO Statement for the Use of Animals in Ophthalmic and Vision Research."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Live Imaging and Histology A total of 37 animals were used in two independent experiments.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Live Imaging and Histology A total of 37 animals were used in two independent experiments."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

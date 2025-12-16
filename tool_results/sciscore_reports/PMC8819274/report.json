@@ -1,0 +1,138 @@
+{
+  "docIdentifier" : "PMC8819274",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "27 Data Processing and Management Data processing and analysis were performed using STATA 15 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "27 Data Processing and Management Data processing and analysis were performed using STATA 15 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata (RRID:SCR_012763)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATA"
+                }],
+              "neText" : "STATA"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "DHS is a nationally representative household survey that offers data from a wide variety of population, health, and nutrition tracking and effect assessment measures with face-to-face interviews of women aged 15 to 49.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "DHS is a nationally representative household survey that offers data from a wide variety of population, health, and nutrition tracking and effect assessment measures with face-to-face interviews of women aged 15 to 49."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "In each country, information was obtained from qualified women aged 15 to 49 years.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In each country, information was obtained from qualified women aged 15 to 49 years."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Stratified, multi-stage, random sampling is used in the surveys.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Stratified, multi-stage, random sampling is used in the surveys."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The response variable is binary, and it is coded as 1 if women received ANC from skilled healthcare providers (doctors, midwives, nurses, and health officers) at least four times and 0 otherwise.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The response variable is binary, and it is coded as 1 if women received ANC from skilled healthcare providers (doctors, midwives, nurses, and health officers) at least four times and 0 otherwise."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "In the first step, bi-variable analysis and cross-tabulations by Pearsons chi-squared test were used to examine if educational attainment was associated with ANC utilization.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In the first step, bi-variable analysis and cross-tabulations by Pearsons chi-squared test were used to examine if educational attainment was associated with ANC utilization."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared test"
+                  }],
+                "neText" : "chi-squared test"
+              }]
+          }]
+      }]
+  }
+}

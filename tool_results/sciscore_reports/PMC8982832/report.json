@@ -1,0 +1,200 @@
+{
+  "docIdentifier" : "PMC8982832",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Methods The 2020 BioImage analysis questionnaire was developed using Google Forms and was distributed in the bioimage community around the world using the image.sc forum, microforum, twitter, as well as confocal, imagej, and BioImaging North America (BINA) listservs.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Methods The 2020 BioImage analysis questionnaire was developed using Google Forms and was distributed in the bioimage community around the world using the image.sc forum, microforum, twitter, as well as confocal, imagej, and BioImaging North America (BINA) listservs."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ (RRID:SCR_003070)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "imagej"
+                }],
+              "neText" : "imagej"
+            }]
+        }, {
+          "sentence" : "Responses were exported via tables, and duplicates were removed the results were then graphed in Jupyter Notebook (version 6.1.1) 11 using Python3 12 , matplotlib 13 , numpy 14 , pandas 15 , and seaborn 16 libraries or Microsoft Excel (2016 and 2021).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Responses were exported via tables, and duplicates were removed the results were then graphed in Jupyter Notebook (version 6.1.1) 11 using Python3 12 , matplotlib 13 , numpy 14 , pandas 15 , and seaborn 16 libraries or Microsoft Excel (2016 and 2021)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python3"
+                }],
+              "neText" : "Python3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Matplotlib (RRID:SCR_008624)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "matplotlib"
+                }],
+              "neText" : "matplotlib"
+            }]
+        }, {
+          "sentence" : "To analyze the short and long answer survey questions, the answers to a specific question were parsed with a Python (3.7) script using PyCharm (2019.3) to find the number of words used in the answers, excluding some commonly used words such as: I, that, in, or, of, at.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To analyze the short and long answer survey questions, the answers to a specific question were parsed with a Python (3.7) script using PyCharm (2019.3) to find the number of words used in the answers, excluding some commonly used words such as: I, that, in, or, of, at."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "python-bx (RRID:SCR_024202)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }]
+        }, {
+          "sentence" : "The corresponding figure was then created based on the counts and tags using Microsoft Excel.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The corresponding figure was then created based on the counts and tags using Microsoft Excel."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Responses were exported via tables, and duplicates were removed the results were then graphed in Jupyter Notebook (version 6.1.1) 11 using Python3 12 , matplotlib 13 , numpy 14 , pandas 15 , and seaborn 16 libraries or Microsoft Excel (2016 and 2021).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Responses were exported via tables, and duplicates were removed the results were then graphed in Jupyter Notebook (version 6.1.1) 11 using Python3 12 , matplotlib 13 , numpy 14 , pandas 15 , and seaborn 16 libraries or Microsoft Excel (2016 and 2021)."
+              }],
+            "mention" : {
+              "neText" : "duplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicates"
+                }]
+            }
+          }, {
+            "sentence" : "Responses were exported via tables, and duplicates were removed the results were then graphed in Jupyter Notebook (version 6.1.1) 11 using Python3 12 , matplotlib 13 , numpy 14 , pandas 15 , and seaborn 16 libraries or Microsoft Excel (2016 and 2021).",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Responses were exported via tables, and duplicates were removed the results were then graphed in Jupyter Notebook (version 6.1.1) 11 using Python3 12 , matplotlib 13 , numpy 14 , pandas 15 , and seaborn 16 libraries or Microsoft Excel (2016 and 2021)."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "docIdentifier" : "PMC8289317",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical Analysis Data were analyzed using SPSS for Windows (version 22.0, IBM, Armonk, NY, USA) and R software for Windows (version 4.0.3, http:www.r-project.org ).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis Data were analyzed using SPSS for Windows (version 22.0, IBM, Armonk, NY, USA) and R software for Windows (version 4.0.3, http:www.r-project.org )."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http:www.r-project.org"
+                }],
+              "neText" : "http:www.r-project.org"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The protocol used in this study was approved by the ethics committee board of Peking University First Hospital, Beijing, China (Approval No. 2020363) and complied with the Declaration of Helsinki 1975.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The protocol used in this study was approved by the ethics committee board of Peking University First Hospital, Beijing, China (Approval No. 2020363) and complied with the Declaration of Helsinki 1975."
+              }]
+          }, {
+            "sentence" : "In addition, written informed consent from the patients or their relatives to participate in the study was obtained, and data were analyzed anonymously.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In addition, written informed consent from the patients or their relatives to participate in the study was obtained, and data were analyzed anonymously."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were as follows: (1) age between 18 and 75 years and (2) the start of NA treatment, without interruption, during follow-up.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were as follows: (1) age between 18 and 75 years and (2) the start of NA treatment, without interruption, during follow-up."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were as follows: (1) age between 18 and 75 years and (2) the start of NA treatment, without interruption, during follow-up.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were as follows: (1) age between 18 and 75 years and (2) the start of NA treatment, without interruption, during follow-up."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Students t-tests or non-parametric tests were used for continuous variables, and kh 2 tests were used for categorical variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Students t-tests or non-parametric tests were used for continuous variables, and kh 2 tests were used for categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t-tests"
+                  }],
+                "neText" : "Students t-tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "kh 2 tests"
+                  }],
+                "neText" : "kh 2 tests"
+              }]
+          }]
+      }]
+  }
+}

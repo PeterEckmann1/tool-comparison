@@ -1,0 +1,185 @@
+{
+  "docIdentifier" : "PMC8184655",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "In order to ensure the average distribution of the data of each category , 200 patients were randomly selected for each category except for the extremely rare AAH and pMAC .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In order to ensure the average distribution of the data of each category , 200 patients were randomly selected for each category except for the extremely rare AAH and pMAC ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMAC"
+                }],
+              "neText" : "pMAC"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Ethics Committee of the participating institutions .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Ethics Committee of the participating institutions ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Our inclusion criteria were (1) pathologically diagnosed with lung adenocarcinoma according to the 2015 WHO Classification 23 (2) complete surgery specimen with clear pathological pattern (3) having not gone through radiotherapy or chemotherapy when received imaging screening (4) having preoperative chest CT images within one month before surgery.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Our inclusion criteria were (1) pathologically diagnosed with lung adenocarcinoma according to the 2015 WHO Classification 23 (2) complete surgery specimen with clear pathological pattern (3) having not gone through radiotherapy or chemotherapy when received imaging screening (4) having preoperative chest CT images within one month before surgery."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Dataset preparation We randomly allocated a dataset of 998 patients with lung adenocarcinoma from West China hospital into a training set ( n = 802 ) and an internal validation cohort ( n = 196) , while 224 patients from another two independent cohorts constituted the external validation group .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Dataset preparation We randomly allocated a dataset of 998 patients with lung adenocarcinoma from West China hospital into a training set ( n = 802 ) and an internal validation cohort ( n = 196) , while 224 patients from another two independent cohorts constituted the external validation group ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Then two senior radiologists ( with 10 years of work experience in thoracic imaging diagnosis ) blindly and independently assessed the mask of all images , and any disagreements between two observers were resolved by discussion until a consensus was reached.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Then two senior radiologists ( with 10 years of work experience in thoracic imaging diagnosis ) blindly and independently assessed the mask of all images , and any disagreements between two observers were resolved by discussion until a consensus was reached."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "CT DICOM images within one month before operation were extracted from Picture Archiving and Communication System ( PACS) , with duplicate or incomplete images were removed.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "CT DICOM images within one month before operation were extracted from Picture Archiving and Communication System ( PACS) , with duplicate or incomplete images were removed."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }, {
+            "sentence" : "CT DICOM images within one month before operation were extracted from Picture Archiving and Communication System ( PACS) , with duplicate or incomplete images were removed.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "CT DICOM images within one month before operation were extracted from Picture Archiving and Communication System ( PACS) , with duplicate or incomplete images were removed."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "If the Pearsons correlation coefficient of a feature pair is >0.9 , one pair is removed.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "If the Pearsons correlation coefficient of a feature pair is >0.9 , one pair is removed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearsons correlation"
+                  }],
+                "neText" : "Pearsons correlation"
+              }]
+          }, {
+            "sentence" : "Statistical analysis To compare the clinical characteristics of patients among three datasets , continuous and categorical variables were evaluated by ANOVA and Chi-square test , respectively .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis To compare the clinical characteristics of patients among three datasets , continuous and categorical variables were evaluated by ANOVA and Chi-square test , respectively ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-square test"
+                  }],
+                "neText" : "Chi-square test"
+              }]
+          }]
+      }]
+  }
+}

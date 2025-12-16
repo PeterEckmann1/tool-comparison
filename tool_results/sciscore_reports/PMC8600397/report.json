@@ -1,0 +1,460 @@
+{
+  "docIdentifier" : "PMC8600397",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Subsequently, the membranes were washed and incubated with secondary antibodies: Horseradish peroxidase (HRP)-conjugated anti-mouse (1:5,000 cat. no. sc-2357 Santa Cruz Biotechnology, Inc.) or anti-rabbit (1:5,000 product no. 7074s, Cell Signaling Technology, Inc.) at room temperature for 1 h.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Subsequently, the membranes were washed and incubated with secondary antibodies: Horseradish peroxidase (HRP)-conjugated anti-mouse (1:5,000 cat. no. sc-2357 Santa Cruz Biotechnology, Inc.) or anti-rabbit (1:5,000 product no. 7074s, Cell Signaling Technology, Inc.) at room temperature for 1 h."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(C. Birchmeier - Max Delbruck Center for Molecular Medicine, Berlin, Germany Cat# Guinea pig anti-mouse Lbx1 polyclonal antibody, RRID:AB_2532144)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "7074s, Cell Signaling Technology, Inc."
+                }],
+              "neText" : "7074s, Cell Signaling Technology, Inc."
+            }]
+        }, {
+          "sentence" : "The following primary antibodies were used: rabbit polyclonal OPHN1 (1:3,000 product code ab229655 Abcam) and mouse monoclonal GAPDH (1:3,000 cat. no. sc-32233 Santa Cruz Biotechnology, Inc.).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following primary antibodies were used: rabbit polyclonal OPHN1 (1:3,000 product code ab229655 Abcam) and mouse monoclonal GAPDH (1:3,000 cat. no. sc-32233 Santa Cruz Biotechnology, Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "OPHN1"
+                }],
+              "neText" : "OPHN1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAPDH"
+                }],
+              "neText" : "GAPDH"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell cultures The LNCaP (CRL-1740), 22RV1 (CRL-2505), PC3 (CRL-1435) and 293T (CRL-3216) cell lines were purchased from the American Type Culture Collection (ATCC), and maintained in RPMI-1640 medium (ATCC), or Dulbeccos modified Eagles medium (DMEM HyClone Cytiva).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell cultures The LNCaP (CRL-1740), 22RV1 (CRL-2505), PC3 (CRL-1435) and 293T (CRL-3216) cell lines were purchased from the American Type Culture Collection (ATCC), and maintained in RPMI-1640 medium (ATCC), or Dulbeccos modified Eagles medium (DMEM HyClone Cytiva)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0395",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LNCaP"
+                }],
+              "neText" : "LNCaP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "293T"
+                }],
+              "neText" : "293T"
+            }]
+        }, {
+          "sentence" : "The LNCaP and 22RV1 cells were maintained withwithout bicalutamide at a concentration of 1 uM for 72 h at 37degC, while the PC3 cells were maintained under regular conditions for 72 h at 37degC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The LNCaP and 22RV1 cells were maintained withwithout bicalutamide at a concentration of 1 uM for 72 h at 37degC, while the PC3 cells were maintained under regular conditions for 72 h at 37degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PC3"
+                }],
+              "neText" : "PC3"
+            }]
+        }, {
+          "sentence" : "Cancer invasion assay The LNCaP, 22RV1 and PC3 cells received different pre-treatments (transfection of OPHN1 recombinant lentiviral vectors or transfection of OPHN1 siRNA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cancer invasion assay The LNCaP, 22RV1 and PC3 cells received different pre-treatments (transfection of OPHN1 recombinant lentiviral vectors or transfection of OPHN1 siRNA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_1045",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "22RV1"
+                }],
+              "neText" : "22RV1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "BALBc NUNU nude mice (male 8 weeks old body weight 20-30 g 40 mice in total) were purchased from Hebei Medical University and housed in the Experimental Animal Facility (five mice per cage) of the hospital under standard laboratory conditions (18-23degC 40-60 humidity 12-h lightdark cycle) with unlimited access to food and water.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "BALBc NUNU nude mice (male 8 weeks old body weight 20-30 g 40 mice in total) were purchased from Hebei Medical University and housed in the Experimental Animal Facility (five mice per cage) of the hospital under standard laboratory conditions (18-23degC 40-60 humidity 12-h lightdark cycle) with unlimited access to food and water."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NUNU nude"
+                }],
+              "neText" : "NUNU nude"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Plasmid construction and transfection Human OPHN1 cDNA (Origene Technologies, Inc.) was sequenced and subcloned into the PGL3-basic vector (OriGene Technologies, Inc.) with GFP in accordance with the manufacturers protocol.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Plasmid construction and transfection Human OPHN1 cDNA (Origene Technologies, Inc.) was sequenced and subcloned into the PGL3-basic vector (OriGene Technologies, Inc.) with GFP in accordance with the manufacturers protocol."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PGL3-basic"
+                }],
+              "neText" : "PGL3-basic"
+            }]
+        }, {
+          "sentence" : "The 293T cells were then transfected with a 4 ug lentiviral vector (2nd generation, lentiviral plasmid: packaging vector: envelope at 4:3:1) and pCMV-OPHN1-plasmid constructs using a Lipofectamine 3000 (Thermo Fisher Scientific, Inc.) transfection reagent for 48 h in accordance with the manufacturers protocol.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The 293T cells were then transfected with a 4 ug lentiviral vector (2nd generation, lentiviral plasmid: packaging vector: envelope at 4:3:1) and pCMV-OPHN1-plasmid constructs using a Lipofectamine 3000 (Thermo Fisher Scientific, Inc.) transfection reagent for 48 h in accordance with the manufacturers protocol."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCMV-OPHN1-plasmid"
+                }],
+              "neText" : "pCMV-OPHN1-plasmid"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All copy number variation (CNV) data of genes (AR and OPHN1) of PCa were obtained and analyzed from TCGA Data Portal: cBioPortal (https:www.cbioportal.org).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All copy number variation (CNV) data of genes (AR and OPHN1) of PCa were obtained and analyzed from TCGA Data Portal: cBioPortal (https:www.cbioportal.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.cbioportal.org"
+                }],
+              "neText" : "https:www.cbioportal.org"
+            }]
+        }, {
+          "sentence" : "The results were analyzed using FlowJo software (version 10.6 BD Biosciences) to determine the apoptotic rate.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The results were analyzed using FlowJo software (version 10.6 BD Biosciences) to determine the apoptotic rate."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "The signals were detected via a chemiluminescence detection system (Bio-Rad Laboratories, Inc.).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The signals were detected via a chemiluminescence detection system (Bio-Rad Laboratories, Inc.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bio-Rad Laboratories"
+                }],
+              "neText" : "Bio-Rad Laboratories"
+            }]
+        }, {
+          "sentence" : "The protein expression levels were quantified with ImageJ software (version 1.8.0 National Institutes of Health).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The protein expression levels were quantified with ImageJ software (version 1.8.0 National Institutes of Health)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Mouse xenograft models and treatments All animal care procedures and experiments were conducted in accordance with the Animal Research: Reporting of In Vivo Experiments (ARRIVE) guidelines (22) and approved by Ethics Committee of Animal Experiments of the Hebei General Hospital (approval no. 20200147), Shijiazhuang, China).",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mouse xenograft models and treatments All animal care procedures and experiments were conducted in accordance with the Animal Research: Reporting of In Vivo Experiments (ARRIVE) guidelines (22) and approved by Ethics Committee of Animal Experiments of the Hebei General Hospital (approval no. 20200147), Shijiazhuang, China)."
+              }]
+          }, {
+            "sentence" : "At the end of the experiment, the mice were euthanized via CO2 inhalation (50 of the chamber volumemin), and the tumor tissues were collected and weighed.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "At the end of the experiment, the mice were euthanized via CO2 inhalation (50 of the chamber volumemin), and the tumor tissues were collected and weighed."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "BALBc NUNU nude mice (male 8 weeks old body weight 20-30 g 40 mice in total) were purchased from Hebei Medical University and housed in the Experimental Animal Facility (five mice per cage) of the hospital under standard laboratory conditions (18-23degC 40-60 humidity 12-h lightdark cycle) with unlimited access to food and water.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "BALBc NUNU nude mice (male 8 weeks old body weight 20-30 g 40 mice in total) were purchased from Hebei Medical University and housed in the Experimental Animal Facility (five mice per cage) of the hospital under standard laboratory conditions (18-23degC 40-60 humidity 12-h lightdark cycle) with unlimited access to food and water."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "BALBc NUNU nude mice (male 8 weeks old body weight 20-30 g 40 mice in total) were purchased from Hebei Medical University and housed in the Experimental Animal Facility (five mice per cage) of the hospital under standard laboratory conditions (18-23degC 40-60 humidity 12-h lightdark cycle) with unlimited access to food and water.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "BALBc NUNU nude mice (male 8 weeks old body weight 20-30 g 40 mice in total) were purchased from Hebei Medical University and housed in the Experimental Animal Facility (five mice per cage) of the hospital under standard laboratory conditions (18-23degC 40-60 humidity 12-h lightdark cycle) with unlimited access to food and water."
+              }]
+          }, {
+            "sentence" : "BALBc NUNU nude mice (male 8 weeks old body weight 20-30 g 40 mice in total) were purchased from Hebei Medical University and housed in the Experimental Animal Facility (five mice per cage) of the hospital under standard laboratory conditions (18-23degC 40-60 humidity 12-h lightdark cycle) with unlimited access to food and water.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "BALBc NUNU nude mice (male 8 weeks old body weight 20-30 g 40 mice in total) were purchased from Hebei Medical University and housed in the Experimental Animal Facility (five mice per cage) of the hospital under standard laboratory conditions (18-23degC 40-60 humidity 12-h lightdark cycle) with unlimited access to food and water."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The mice (20group) were randomly assigned into the following treatment groups: i) Mice injected with regular LNCaP cells transfected with empty vectors and ii) mice injected with LNCaP cells transfected with OPHN1 recombinant lentiviral vectors.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mice (20group) were randomly assigned into the following treatment groups: i) Mice injected with regular LNCaP cells transfected with empty vectors and ii) mice injected with LNCaP cells transfected with OPHN1 recombinant lentiviral vectors."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each experiment was performed in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each experiment was performed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Each experiment was performed in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each experiment was performed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "One-way analysis of variance (ANOVA), repeated measures of two-way ANOVA, followed by Tukeys post hoc test or Students t-test was used for statistical analysis in the R environment (version 3.6 r-project.org).",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way analysis of variance (ANOVA), repeated measures of two-way ANOVA, followed by Tukeys post hoc test or Students t-test was used for statistical analysis in the R environment (version 3.6 r-project.org)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys post hoc test"
+                  }],
+                "neText" : "Tukeys post hoc test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t-test"
+                  }],
+                "neText" : "Students t-test"
+              }]
+          }]
+      }]
+  }
+}

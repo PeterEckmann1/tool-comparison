@@ -1,0 +1,215 @@
+{
+  "docIdentifier" : "PMC8968669",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Repeated measures multivariate analysis of covariance models (RM-MANCOVA) were used to assess the overall effect of group status on the volume of each brain structure across right and left hemisphere, which included supratentorial volume (derived from FreeSurfer) as a covariate to account for the global effects of whole brain volume.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Repeated measures multivariate analysis of covariance models (RM-MANCOVA) were used to assess the overall effect of group status on the volume of each brain structure across right and left hemisphere, which included supratentorial volume (derived from FreeSurfer) as a covariate to account for the global effects of whole brain volume."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FreeSurfer, RRID:SCR_001847",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FreeSurfer"
+                }],
+              "neText" : "FreeSurfer"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Informed consent was obtained from all participants, which contained a detailed description of all study procedures, as well as any possible risks andor benefits.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was obtained from all participants, which contained a detailed description of all study procedures, as well as any possible risks andor benefits."
+              }]
+          }, {
+            "sentence" : "All data were collected according to ethical guidelines as outlined by the Declaration of Helsinki all procedures were approved by the Northwestern University Feinberg School of Medicine Institutional Review Board.(WAIS-III, Wechsler, 1997).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All data were collected according to ethical guidelines as outlined by the Declaration of Helsinki all procedures were approved by the Northwestern University Feinberg School of Medicine Institutional Review Board.(WAIS-III, Wechsler, 1997)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "2.4 Statistical analysis Between-group differences in demographics and cognition were assessed with chi-square and analysis of variance (ANOVA) models while independent samples t-tests were used to evaluate differences in antipsychotic medication between SCZ groups.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.4 Statistical analysis Between-group differences in demographics and cognition were assessed with chi-square and analysis of variance (ANOVA) models while independent samples t-tests were used to evaluate differences in antipsychotic medication between SCZ groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square"
+                  }],
+                "neText" : "chi-square"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }, {
+            "sentence" : "Repeated measures multivariate analysis of covariance models (RM-MANCOVA) were used to assess the overall effect of group status on the volume of each brain structure across right and left hemisphere, which included supratentorial volume (derived from FreeSurfer) as a covariate to account for the global effects of whole brain volume.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Repeated measures multivariate analysis of covariance models (RM-MANCOVA) were used to assess the overall effect of group status on the volume of each brain structure across right and left hemisphere, which included supratentorial volume (derived from FreeSurfer) as a covariate to account for the global effects of whole brain volume."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RM-MANCOVA"
+                  }],
+                "neText" : "RM-MANCOVA"
+              }]
+          }, {
+            "sentence" : "If a model was significant for the group effect, then follow-up one-way RM-ANCOVA models were conducted as a post hoc analysis to assess each specific group contrast.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "If a model was significant for the group effect, then follow-up one-way RM-ANCOVA models were conducted as a post hoc analysis to assess each specific group contrast."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RM-ANCOVA"
+                  }],
+                "neText" : "RM-ANCOVA"
+              }]
+          }]
+      }]
+  }
+}

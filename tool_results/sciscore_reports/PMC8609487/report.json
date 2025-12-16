@@ -1,0 +1,321 @@
+{
+  "docIdentifier" : "PMC8609487",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Several of the quantitative image quality metrics from the quality assessment protocol of Human Connectomes Project 33 were calculated to ensure quality and consistency of images obtained in this aged population.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Several of the quantitative image quality metrics from the quality assessment protocol of Human Connectomes Project 33 were calculated to ensure quality and consistency of images obtained in this aged population."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Human Connectomes Project"
+                }],
+              "neText" : "Human Connectomes Project"
+            }]
+        }, {
+          "sentence" : "Upon passing the quality control (see supplementary material), images were preprocessed using the Statistical Parametric Mapping (SPM) software package (Wellcome Department of Cognitive Neurology, London, UK, version 12b) running under the MATLAB environment (Mathworks Inc., Natick, MA, USA, release 16a).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Upon passing the quality control (see supplementary material), images were preprocessed using the Statistical Parametric Mapping (SPM) software package (Wellcome Department of Cognitive Neurology, London, UK, version 12b) running under the MATLAB environment (Mathworks Inc., Natick, MA, USA, release 16a)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Spatial Statistical Parametric Mapping (RRID:SCR_002592)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Statistical Parametric Mapping"
+                }],
+              "neText" : "Statistical Parametric Mapping"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }, {
+          "sentence" : "In the last step, subject-specific spatial maps and their corresponding time courses were back-reconstructed using the dual regression analysis technique (GICA-3 algorithm in GIFT), and scaled to Z-scores 41.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In the last step, subject-specific spatial maps and their corresponding time courses were back-reconstructed using the dual regression analysis technique (GICA-3 algorithm in GIFT), and scaled to Z-scores 41."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GIFT (RRID:SCR_024416)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GIFT"
+                }],
+              "neText" : "GIFT"
+            }]
+        }, {
+          "sentence" : "To optimize for the large dimensions of the voxelwise ICA outcome measures (spatial maps and FNC correlations) and reduce the number of statistical tests performed, backward multivariate stepwise regressions (implemented as mStepwise in GIFT MANCOVAN toolbox) were performed for each response matrix separately.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To optimize for the large dimensions of the voxelwise ICA outcome measures (spatial maps and FNC correlations) and reduce the number of statistical tests performed, backward multivariate stepwise regressions (implemented as mStepwise in GIFT MANCOVAN toolbox) were performed for each response matrix separately."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GIFT MANCOVAN toolbox"
+                }],
+              "neText" : "GIFT MANCOVAN toolbox"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Subjects provided written informed consent to participate in the study, which was approved by the Institutional Review Boards at the University of Southern California, and the University of California at Los Angeles.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Subjects provided written informed consent to participate in the study, which was approved by the Institutional Review Boards at the University of Southern California, and the University of California at Los Angeles."
+              }]
+          }, {
+            "sentence" : "Subjects provided written informed consent to participate in the study, which was approved by the Institutional Review Boards at the University of Southern California, and the University of California at Los Angeles.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Subjects provided written informed consent to participate in the study, which was approved by the Institutional Review Boards at the University of Southern California, and the University of California at Los Angeles."
+              }]
+          }, {
+            "sentence" : "Identification of remaining ICs was carried out by regression-based spatial sorting to reference standard network templates from Allen and colleagues 20 as well as knowledge from established brain networks described in previous studies 20, 46-50.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Identification of remaining ICs was carried out by regression-based spatial sorting to reference standard network templates from Allen and colleagues 20 as well as knowledge from established brain networks described in previous studies 20, 46-50."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Inclusion and exclusion criteria were determined through chart review, participant interview, and physical and neurological screening performed by a board-certified neurologist with movement disorder expertise (GP).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion and exclusion criteria were determined through chart review, participant interview, and physical and neurological screening performed by a board-certified neurologist with movement disorder expertise (GP)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "The first four images were automatically discarded by the scanner to allow for the establishment of steady-state magnetization.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The first four images were automatically discarded by the scanner to allow for the establishment of steady-state magnetization."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "MATERIALS AND METHODS PD individuals and clinical assessments The PD individuals for this cross-sectional study included 24 physically active, non-demented and ambulatory individuals with PD (15 males9 females, mean age 65.5 years, range 51 -88 years) with Hoehn and Yahr equal to II and years of diagnosis 4.9 + - 3.3.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MATERIALS AND METHODS PD individuals and clinical assessments The PD individuals for this cross-sectional study included 24 physically active, non-demented and ambulatory individuals with PD (15 males9 females, mean age 65.5 years, range 51 -88 years) with Hoehn and Yahr equal to II and years of diagnosis 4.9 + - 3.3."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "MATERIALS AND METHODS PD individuals and clinical assessments The PD individuals for this cross-sectional study included 24 physically active, non-demented and ambulatory individuals with PD (15 males9 females, mean age 65.5 years, range 51 -88 years) with Hoehn and Yahr equal to II and years of diagnosis 4.9 + - 3.3.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MATERIALS AND METHODS PD individuals and clinical assessments The PD individuals for this cross-sectional study included 24 physically active, non-demented and ambulatory individuals with PD (15 males9 females, mean age 65.5 years, range 51 -88 years) with Hoehn and Yahr equal to II and years of diagnosis 4.9 + - 3.3."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "ICs with Iq value below 0.8 were excluded from further analysis as lower Iq indicates that the likelihood that the IC is randomly produced is higher 44.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "ICs with Iq value below 0.8 were excluded from further analysis as lower Iq indicates that the likelihood that the IC is randomly produced is higher 44."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "To ensure stability of estimation, ICA algorithm was repeated 100 times in ICASSO and the agglomerative hierarchical clustering with average-linkage criterion was used for calculating the cluster quality index (Iq) of the estimated ICs 43.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To ensure stability of estimation, ICA algorithm was repeated 100 times in ICASSO and the agglomerative hierarchical clustering with average-linkage criterion was used for calculating the cluster quality index (Iq) of the estimated ICs 43."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "To ensure stability of estimation, ICA algorithm was repeated 100 times in ICASSO and the agglomerative hierarchical clustering with average-linkage criterion was used for calculating the cluster quality index (Iq) of the estimated ICs 43.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To ensure stability of estimation, ICA algorithm was repeated 100 times in ICASSO and the agglomerative hierarchical clustering with average-linkage criterion was used for calculating the cluster quality index (Iq) of the estimated ICs 43."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Components averaged across all subjects were calculated with a one-sample t-test in SPM12b and thresholded at family-wise error rate (FWE-corrected p < 0.05).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Components averaged across all subjects were calculated with a one-sample t-test in SPM12b and thresholded at family-wise error rate (FWE-corrected p < 0.05)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Fig. 1 Spatial maps of eighteen RSNs that were entered into the MANCOVA analysis.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fig. 1 Spatial maps of eighteen RSNs that were entered into the MANCOVA analysis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "MANCOVA"
+                  }],
+                "neText" : "MANCOVA"
+              }]
+          }, {
+            "sentence" : "The quality index (Iq) associated with each component is listed in parentheses next to the component number IC Brain region Cluster size (voxels) tmax MNI coordinates Cytoarchitectonic Brodmann area (Probability, if available) x y z Sensorimotor Networks (SMN) IC 19 (0.98) Left Postcentral Gyrus 759 13.87 -60 -14 34 Area 1 (40) Ventral Area 3b (40) Somatosensory Network Left Precentral Gyrus same cluster 11.84 -54 -6 34 Area 4p (50) Area 6 (30) Right Postcentral Gyrus 649 11.86 50 -12 38 Area 3b (60) Area 4p (50) Right Precentral Gyrus same cluster 11.14 54 -6 38 Area 6 (40) Area 4p (40) IC 46 (0.98) Right Postcentral Gyrus 2493 14.41 42 -20 50 Area 3b (90) Right Dorsal Area 4a (40) Somatosensory Network Right Precentral Gyrus same cluster 13.35 40 -24 62 Area 1 (40) Area 6 (40) IC 48 (0.96) Left Postcentral Gyrus 2225 15.29 -36 -40 56 Area 2 (50) Left Dorsal Somatosensory Area SPL (7PC) (40) Network Left Precentral Gyrus same cluster 14.40 -32 -26 56 Area 4p (40) Area 4a (40) IC 54 (0.98) Left SMA 4412 17.93 0 -12 62 Area 6 (90) Motor Cortex Area 4a (10) Right SMA same cluster 13.93 8 2 72 Area 6 (80) Left Precentral Gyrus same cluster 12.86 -36 0 58 IC 62 (0.93) Left Supramarginal Gyrus 1145 13.28 -58 -28 34 IPC (PFt) (60) Supramarginal IPC (PF) (40) Gyrus Right Supramarginal Gyrus 556 12.85 58 -34 32 IPC (PF) (80) IPC (PFcm) (40) Subcortical Networks (SCN) IC 24 (0.98) Left ParaHippocampal Gyrus 361 8.73 -18 -10 -22 Hipp (SUB) (60) Hippocampal Hipp (HATA) (40) Hipp (CA) (40) Right Hippocampus 160 10.40 20 -10 -18 Hipp (SUB) (50) Amyg (SF) (50) Hipp (CA) (50) Right ParaHippocampal Gyrus same cluster 7.74 20 -8 -26 Hipp (EC) (60) Hipp (SUB) (40) Hipp (CA) (30) IC 35 (0.98) Right Putamen 2107 12.90 28 6 -2 Basal Ganglia (BG) Left Amygdala same cluster 12.46 -22 0 -16 Amyg (SF) (70) Left Putamen same cluster 12.34 -24 6 0 Left Thalamus same cluster 12.00 -6 -20 6 Right Thalamus same cluster 11.57 8 -20 4 Right Amygdala same cluster 11.56 26 2 -16 Amyg (SF) (30) Default-Mode Networks (DMN) IC 49 (0.97) Right Precuneus 3530 18.94 4 -52 24 Posterior Default Mode Network (DMN) Left Posterior Cingulate Cortex same cluster 18.83 -2 -44 32 Left Angular Gyrus 366 11.24 -46 -62 26 IPC (PGp) (30) Left Inferior Parietal Lobule same cluster 8.44 -30 -56 40 hIP3 (50) Right Angular Gyrus 346 12.53 44 -64 32 IPC (PGp) (70) IC 63 (0.96) Right Precuneus 541 14.00 2 -58 22 DMN Left Precuneus same cluster 12.31 -4 -54 14 Left Middle Occipital Gyrus 491 10.64 -42 -72 24 IPC (PGp) (60) Left Middle Temporal Gyrus same cluster 10.49 -44 -68 22 IPC (PGp) (50) Right Middle Temporal Gyrus 396 10.04 46 -62 22 IPC (PGp) (50) Cognitive and Attention Network (CAN) IC 2 (0.98) Left Anterior Cingulate Cortex 1310 13.59 -4 44 -2 Self-Referential Network (SRN) Left Mid Orbital Gyrus same cluster 13.39 -2 48 -6 Right Anterior Cingulate Cortex same cluster 12.09 8 34 10 IC 17 (0.98) Right Anterior Cingulate Cortex 4850 13.39 6 46 8 Central Left Superior Medial Gyrus same cluster 12.94 -2 54 10 Executive Network (CEN) Right Superior Frontal Gyrus same cluster 12.06 24 58 14 IC 32 (0.98) Right Middle Temporal Gyrus 1933 14.72 52 -20 -12 Ventral Attention Right Angular Gyrus same cluster 12.55 56 -56 24 IPC (PGa) (70) Network (VAN) Left Middle Temporal Gyrus 987 13.48 -58 -38 -2 Left SupraMarginal Gyrus same cluster 10.17 -52 -52 26 IPC (PGa) (40) IPC (PF) (30) Right Precuneus 174 10.33 6 -58 46 SPL (7A) (40) SPL (7P) (10) IC 40 (0.98) Right Inferior Parietal Lobule 1395 12.44 46 -54 40 IPC (PGa) (40) Right CEN hIP1 (10) Right Inferior Frontal Gyrus (p. Triangularis) 277 11.70 44 28 28 Right Middle Frontal Gyrus same cluster 10.15 46 36 22 Right Middle Frontal Gyrus 271 11.62 42 50 0 Right Inferior Frontal Gyrus (p. Orbitalis) same cluster 10.48 38 40 -18 Right Superior Frontal Gyrus same cluster 9.36 24 54 2 IC 45 (0.97) Left Inferior Parietal Lobule 1645 14.29 -32 -72 40 IPC (PGp) (20) Left CEN Left Angular Gyrus same cluster 12.18 -36 -60 42 hIP1 (30) Left Middle Frontal Gyrus 188 11.30 -44 12 46 Right Inferior Parietal Lobule 98 10.16 46 -56 46 IPC (PGa) (40) IC 47 (0.97) Right Inferior Parietal Lobule 5056 14.47 50 -36 50 IPC (PFt) (40) Dorsal Attention Network (DAN) IPC (PFm) (30) Right Superior Parietal Lobule same cluster 14.41 28 -60 50 hIP3 (30) SPL (7A) (20) Right Angular Gyrus same cluster 12.88 30 -60 44 hIP3 (30) Right SupraMarginal Gyrus same cluster 12.49 44 -36 42 hIP2 (30) IPC (PF) (20) IC 50 (0.97) Left Insula Lobe 252 8.22 -32 18 -14 Salience Network (SN) Right Insula Lobe 235 9.76 46 2 -4 OP 4 (10) IC 53 (0.98) Left Inferior Frontal Gyrus (p. Opercularis) 1874 13.61 -48 14 14 Area 44 (40) SN Left Insula Lobe same cluster 10.81 -36 8 6 Area 44 (10) Right Inferior Frontal Gyrus (p. Opercularis) 292 10.62 50 18 6 Area 44 (40) Area 45 (30) Right Insula Lobe same cluster 8.23 40 6 0 Left Middle Temporal Gyrus 193 9.91 -42 -52 14 Left Superior Temporal Gyrus same cluster 8.54 -56 -48 18 IPC (PGa) (20) IC 75 (0.96) Left Anterior Cingulate Cortex 2316 14.67 -8 22 26 SN Left Insula Lobe 83 10.67 -46 10 -8 Right Insula Lobe 50 9.05 44 16 -8 Multivariate statistical analysis We used multivariate analysis of covariance (MANCOVA), which is a multivariate analytical method comparable to a standard ANOVA F-test, followed by a post hoc univariate analysis.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The quality index (Iq) associated with each component is listed in parentheses next to the component number IC Brain region Cluster size (voxels) tmax MNI coordinates Cytoarchitectonic Brodmann area (Probability, if available) x y z Sensorimotor Networks (SMN) IC 19 (0.98) Left Postcentral Gyrus 759 13.87 -60 -14 34 Area 1 (40) Ventral Area 3b (40) Somatosensory Network Left Precentral Gyrus same cluster 11.84 -54 -6 34 Area 4p (50) Area 6 (30) Right Postcentral Gyrus 649 11.86 50 -12 38 Area 3b (60) Area 4p (50) Right Precentral Gyrus same cluster 11.14 54 -6 38 Area 6 (40) Area 4p (40) IC 46 (0.98) Right Postcentral Gyrus 2493 14.41 42 -20 50 Area 3b (90) Right Dorsal Area 4a (40) Somatosensory Network Right Precentral Gyrus same cluster 13.35 40 -24 62 Area 1 (40) Area 6 (40) IC 48 (0.96) Left Postcentral Gyrus 2225 15.29 -36 -40 56 Area 2 (50) Left Dorsal Somatosensory Area SPL (7PC) (40) Network Left Precentral Gyrus same cluster 14.40 -32 -26 56 Area 4p (40) Area 4a (40) IC 54 (0.98) Left SMA 4412 17.93 0 -12 62 Area 6 (90) Motor Cortex Area 4a (10) Right SMA same cluster 13.93 8 2 72 Area 6 (80) Left Precentral Gyrus same cluster 12.86 -36 0 58 IC 62 (0.93) Left Supramarginal Gyrus 1145 13.28 -58 -28 34 IPC (PFt) (60) Supramarginal IPC (PF) (40) Gyrus Right Supramarginal Gyrus 556 12.85 58 -34 32 IPC (PF) (80) IPC (PFcm) (40) Subcortical Networks (SCN) IC 24 (0.98) Left ParaHippocampal Gyrus 361 8.73 -18 -10 -22 Hipp (SUB) (60) Hippocampal Hipp (HATA) (40) Hipp (CA) (40) Right Hippocampus 160 10.40 20 -10 -18 Hipp (SUB) (50) Amyg (SF) (50) Hipp (CA) (50) Right ParaHippocampal Gyrus same cluster 7.74 20 -8 -26 Hipp (EC) (60) Hipp (SUB) (40) Hipp (CA) (30) IC 35 (0.98) Right Putamen 2107 12.90 28 6 -2 Basal Ganglia (BG) Left Amygdala same cluster 12.46 -22 0 -16 Amyg (SF) (70) Left Putamen same cluster 12.34 -24 6 0 Left Thalamus same cluster 12.00 -6 -20 6 Right Thalamus same cluster 11.57 8 -20 4 Right Amygdala same cluster 11.56 26 2 -16 Amyg (SF) (30) Default-Mode Networks (DMN) IC 49 (0.97) Right Precuneus 3530 18.94 4 -52 24 Posterior Default Mode Network (DMN) Left Posterior Cingulate Cortex same cluster 18.83 -2 -44 32 Left Angular Gyrus 366 11.24 -46 -62 26 IPC (PGp) (30) Left Inferior Parietal Lobule same cluster 8.44 -30 -56 40 hIP3 (50) Right Angular Gyrus 346 12.53 44 -64 32 IPC (PGp) (70) IC 63 (0.96) Right Precuneus 541 14.00 2 -58 22 DMN Left Precuneus same cluster 12.31 -4 -54 14 Left Middle Occipital Gyrus 491 10.64 -42 -72 24 IPC (PGp) (60) Left Middle Temporal Gyrus same cluster 10.49 -44 -68 22 IPC (PGp) (50) Right Middle Temporal Gyrus 396 10.04 46 -62 22 IPC (PGp) (50) Cognitive and Attention Network (CAN) IC 2 (0.98) Left Anterior Cingulate Cortex 1310 13.59 -4 44 -2 Self-Referential Network (SRN) Left Mid Orbital Gyrus same cluster 13.39 -2 48 -6 Right Anterior Cingulate Cortex same cluster 12.09 8 34 10 IC 17 (0.98) Right Anterior Cingulate Cortex 4850 13.39 6 46 8 Central Left Superior Medial Gyrus same cluster 12.94 -2 54 10 Executive Network (CEN) Right Superior Frontal Gyrus same cluster 12.06 24 58 14 IC 32 (0.98) Right Middle Temporal Gyrus 1933 14.72 52 -20 -12 Ventral Attention Right Angular Gyrus same cluster 12.55 56 -56 24 IPC (PGa) (70) Network (VAN) Left Middle Temporal Gyrus 987 13.48 -58 -38 -2 Left SupraMarginal Gyrus same cluster 10.17 -52 -52 26 IPC (PGa) (40) IPC (PF) (30) Right Precuneus 174 10.33 6 -58 46 SPL (7A) (40) SPL (7P) (10) IC 40 (0.98) Right Inferior Parietal Lobule 1395 12.44 46 -54 40 IPC (PGa) (40) Right CEN hIP1 (10) Right Inferior Frontal Gyrus (p. Triangularis) 277 11.70 44 28 28 Right Middle Frontal Gyrus same cluster 10.15 46 36 22 Right Middle Frontal Gyrus 271 11.62 42 50 0 Right Inferior Frontal Gyrus (p. Orbitalis) same cluster 10.48 38 40 -18 Right Superior Frontal Gyrus same cluster 9.36 24 54 2 IC 45 (0.97) Left Inferior Parietal Lobule 1645 14.29 -32 -72 40 IPC (PGp) (20) Left CEN Left Angular Gyrus same cluster 12.18 -36 -60 42 hIP1 (30) Left Middle Frontal Gyrus 188 11.30 -44 12 46 Right Inferior Parietal Lobule 98 10.16 46 -56 46 IPC (PGa) (40) IC 47 (0.97) Right Inferior Parietal Lobule 5056 14.47 50 -36 50 IPC (PFt) (40) Dorsal Attention Network (DAN) IPC (PFm) (30) Right Superior Parietal Lobule same cluster 14.41 28 -60 50 hIP3 (30) SPL (7A) (20) Right Angular Gyrus same cluster 12.88 30 -60 44 hIP3 (30) Right SupraMarginal Gyrus same cluster 12.49 44 -36 42 hIP2 (30) IPC (PF) (20) IC 50 (0.97) Left Insula Lobe 252 8.22 -32 18 -14 Salience Network (SN) Right Insula Lobe 235 9.76 46 2 -4 OP 4 (10) IC 53 (0.98) Left Inferior Frontal Gyrus (p. Opercularis) 1874 13.61 -48 14 14 Area 44 (40) SN Left Insula Lobe same cluster 10.81 -36 8 6 Area 44 (10) Right Inferior Frontal Gyrus (p. Opercularis) 292 10.62 50 18 6 Area 44 (40) Area 45 (30) Right Insula Lobe same cluster 8.23 40 6 0 Left Middle Temporal Gyrus 193 9.91 -42 -52 14 Left Superior Temporal Gyrus same cluster 8.54 -56 -48 18 IPC (PGa) (20) IC 75 (0.96) Left Anterior Cingulate Cortex 2316 14.67 -8 22 26 SN Left Insula Lobe 83 10.67 -46 10 -8 Right Insula Lobe 50 9.05 44 16 -8 Multivariate statistical analysis We used multivariate analysis of covariance (MANCOVA), which is a multivariate analytical method comparable to a standard ANOVA F-test, followed by a post hoc univariate analysis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "multivariate analysis of covariance"
+                  }],
+                "neText" : "multivariate analysis of covariance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "F-test"
+                  }],
+                "neText" : "F-test"
+              }]
+          }, {
+            "sentence" : "FNC was computed as the Pearsons correlation coefficient between RSN time course pairs as detailed in 18.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "FNC was computed as the Pearsons correlation coefficient between RSN time course pairs as detailed in 18."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearsons correlation"
+                  }],
+                "neText" : "Pearsons correlation"
+              }]
+          }, {
+            "sentence" : "Results from the univariate tests for FNC were corrected with a strict control of false positives using the Bonferroni correction threshold of 0.003 (0.0518).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Results from the univariate tests for FNC were corrected with a strict control of false positives using the Bonferroni correction threshold of 0.003 (0.0518)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }]
+      }]
+  }
+}

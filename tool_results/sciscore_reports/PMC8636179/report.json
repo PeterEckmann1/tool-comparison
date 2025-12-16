@@ -1,0 +1,201 @@
+{
+  "docIdentifier" : "PMC8636179",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Allele calling was performed using GenomeStudio v.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Allele calling was performed using GenomeStudio v."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GenomeStudio (RRID:SCR_010973)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GenomeStudio"
+                }],
+              "neText" : "GenomeStudio"
+            }]
+        }, {
+          "sentence" : "Copy number variants were called with PennCNV v.1.0.4.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Copy number variants were called with PennCNV v.1.0.4."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PennCNV (RRID:SCR_002518)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PennCNV"
+                }],
+              "neText" : "PennCNV"
+            }]
+        }, {
+          "sentence" : "SNP variation was linkage disequilibrium (LD)-pruned using PLINK 2.0 and the flag --indep-pairwise 50 5 0.45. 28 In total, 3,321 LD independent loci associated with 16 S gut microbiota species phenotypes were identified to achieve genome-wide significance in the FGFP.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "SNP variation was linkage disequilibrium (LD)-pruned using PLINK 2.0 and the flag --indep-pairwise 50 5 0.45. 28 In total, 3,321 LD independent loci associated with 16 S gut microbiota species phenotypes were identified to achieve genome-wide significance in the FGFP."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PLINK (RRID:SCR_001757)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PLINK"
+                }],
+              "neText" : "PLINK"
+            }]
+        }, {
+          "sentence" : "The kinship coefficients were estimated by KING software (University of Virginia, USA) to remove the genetically related subjects.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The kinship coefficients were estimated by KING software (University of Virginia, USA) to remove the genetically related subjects."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "KING (RRID:SCR_009251)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KING"
+                }],
+              "neText" : "KING"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Participants with invalid data on the outcome measure or relevant covariates were excluded in this study .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants with invalid data on the outcome measure or relevant covariates were excluded in this study ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "In total, 509,886 variants and 2,293 individuals were remained after QC.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In total, 509,886 variants and 2,293 individuals were remained after QC."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Characteristic L1-L4 BMD Total BMD Femur total BMD Participants , n 4,070 4,056 4,054 Sex , male ( ) 1,965 ( 48.28 ) 1,954 ( 48.18 ) 1,962",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Characteristic L1-L4 BMD Total BMD Femur total BMD Participants , n 4,070 4,056 4,054 Sex , male ( ) 1,965 ( 48.28 ) 1,954 ( 48.18 ) 1,962"
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Methods Definition of bone mineral density in UK Biobank The UK Biobank recruited about 500,000 participants aged between 40 and 69 years and conducted prospective studies on them from 2006 to 2010. 25 Briefly, the data field of BMD has three UK Biobank",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Definition of bone mineral density in UK Biobank The UK Biobank recruited about 500,000 participants aged between 40 and 69 years and conducted prospective studies on them from 2006 to 2010. 25 Briefly, the data field of BMD has three UK Biobank"
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "After estimating the proportion of gut microbiota variation explained by genetic variation among individuals, associations between genetic variants and specific microbial traits (MTs) were identified by fitting linear, logistic, multinomial, and multivariate regressions assuming an additive genetic model.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After estimating the proportion of gut microbiota variation explained by genetic variation among individuals, associations between genetic variants and specific microbial traits (MTs) were identified by fitting linear, logistic, multinomial, and multivariate regressions assuming an additive genetic model."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "25 GWAS summary data of gut microbiota A total of 114 gut microbiota-related traits used in this study were derived from a recent publicly available large-scale GWAS of human gut microbiota.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "25 GWAS summary data of gut microbiota A total of 114 gut microbiota-related traits used in this study were derived from a recent publicly available large-scale GWAS of human gut microbiota."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  }
+}

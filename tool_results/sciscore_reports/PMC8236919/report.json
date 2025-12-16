@@ -1,0 +1,545 @@
+{
+  "docIdentifier" : "PMC8236919",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "These vectors are packaged by a third-generation system comprising four distinct packaging vectors ( Tat , Rev , Gag/Pol , and either vesicular stomatitis virus G or murine leukemia virus envelope ) using HEK 293T cells as the host .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These vectors are packaged by a third-generation system comprising four distinct packaging vectors ( Tat , Rev , Gag/Pol , and either vesicular stomatitis virus G or murine leukemia virus envelope ) using HEK 293T cells as the host ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK 293T"
+                }],
+              "neText" : "HEK 293T"
+            }]
+        }, {
+          "sentence" : "DNA ( plasmid of interest , 5 µg; Tat , 0.5 µg; Rev , 0.5 µg; Gag/Pol , 0.5 µg; vesicular stomatitis virus G or murine leukemia virus envelope , 1 µg ) was delivered to the HEK cells as calcium phosphate precipitates .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "DNA ( plasmid of interest , 5 µg; Tat , 0.5 µg; Rev , 0.5 µg; Gag/Pol , 0.5 µg; vesicular stomatitis virus G or murine leukemia virus envelope , 1 µg ) was delivered to the HEK cells as calcium phosphate precipitates ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(KCB Cat# KCB 86020YJ, RRID:CVCL_WZ56)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK"
+                }],
+              "neText" : "HEK"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Materials and methods Plasmids Plasmids were assembled by Gibson assembly (New England Biolabs) or the T5 exonuclease DNA assembly method (Xia et al., 2019) into the pHAGE lentiviral backbone (Wilson et al., 2008).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Plasmids Plasmids were assembled by Gibson assembly (New England Biolabs) or the T5 exonuclease DNA assembly method (Xia et al., 2019) into the pHAGE lentiviral backbone (Wilson et al., 2008)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_166468",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pHAGE"
+                }],
+              "neText" : "pHAGE"
+            }]
+        }, {
+          "sentence" : "Lentivirus production Lentiviral vector–packaged pHAGE-derived plasmids ( Wilson et al. , 2008 ) were used for transfection .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Lentivirus production Lentiviral vector–packaged pHAGE-derived plasmids ( Wilson et al. , 2008 ) were used for transfection ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pHAGE-derived"
+                }],
+              "neText" : "pHAGE-derived"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All inserts were fully sequenced and matched to the Ensembl reference sequence, National Center for Biotechnology Information reference sequence, or expected mutant forms.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All inserts were fully sequenced and matched to the Ensembl reference sequence, National Center for Biotechnology Information reference sequence, or expected mutant forms."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ensembl"
+                }],
+              "neText" : "Ensembl"
+            }]
+        }, {
+          "sentence" : "Plasmids are listed in Table S5, and SnapGene files will be provided upon request.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Plasmids are listed in Table S5, and SnapGene files will be provided upon request."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SnapGene"
+                }],
+              "neText" : "SnapGene"
+            }]
+        }, {
+          "sentence" : "These cells were cultured in 95% DMEM (4.5 g/liter glucose), 5% FBS, 100 U/ml penicillin, and 100 µg/ml streptomycin (all from Gibco or Invitrogen).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These cells were cultured in 95% DMEM (4.5 g/liter glucose), 5% FBS, 100 U/ml penicillin, and 100 µg/ml streptomycin (all from Gibco or Invitrogen)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }, {
+          "sentence" : "MA; Addgene plasmid 52961; Sanjana et al. , 2014 ) or lentiCRISPR v2 PuroP93S ( BL245 ) and screened by sequencing . lentiCRISPR v2 PuroP93S is similar to its parent except for a proline-to-serine mutation in the Puro N-acetyltransferase gene , which increases its resistance to Puro ( https://www.addgene.org).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MA; Addgene plasmid 52961; Sanjana et al. , 2014 ) or lentiCRISPR v2 PuroP93S ( BL245 ) and screened by sequencing . lentiCRISPR v2 PuroP93S is similar to its parent except for a proline-to-serine mutation in the Puro N-acetyltransferase gene , which increases its resistance to Puro ( https://www.addgene.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://www.addgene.org"
+                }],
+              "neText" : "https://www.addgene.org"
+            }]
+        }, {
+          "sentence" : "The template for homology-directed repair was designed in Benchling ( https://www.benchling.com/).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The template for homology-directed repair was designed in Benchling ( https://www.benchling.com/)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Benchling"
+                }],
+              "neText" : "Benchling"
+            }]
+        }, {
+          "sentence" : "Data were processed in FlowJo version 10 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were processed in FlowJo version 10 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "Ridgeline plots were drawn in RStudio with ggplot2 and ggridges ( https://github.com/clauswilke/ggridges ) in R 3.5.3 .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Ridgeline plots were drawn in RStudio with ggplot2 and ggridges ( https://github.com/clauswilke/ggridges ) in R 3.5.3 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RStudio"
+                }],
+              "neText" : "RStudio"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ggplot2 (RRID:SCR_014601)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ggplot2"
+                }],
+              "neText" : "ggplot2"
+            }]
+        }, {
+          "sentence" : "Three-image Z stacks were acquired at 0.2-micron intervals and converted to single planes by maximum projection with MetaMorph software ( MDS Analytical Technologies) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Three-image Z stacks were acquired at 0.2-micron intervals and converted to single planes by maximum projection with MetaMorph software ( MDS Analytical Technologies) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MetaMorph"
+                }],
+              "neText" : "MetaMorph"
+            }]
+        }, {
+          "sentence" : "Images were processed in ZEN 3.1 blue edition ( Zeiss ) or Adobe Photoshop CS6 with brightness and contrast adjusted.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images were processed in ZEN 3.1 blue edition ( Zeiss ) or Adobe Photoshop CS6 with brightness and contrast adjusted."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ZEN"
+                }],
+              "neText" : "ZEN"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Adobe Photoshop, RRID:SCR_014199",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Adobe Photoshop"
+                }],
+              "neText" : "Adobe Photoshop"
+            }]
+        }, {
+          "sentence" : "Statistical differences between groups were tested by one-way ANOVA, two-way ANOVA, or repeated measures ANOVA in GraphPad Prism 7.04.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical differences between groups were tested by one-way ANOVA, two-way ANOVA, or repeated measures ANOVA in GraphPad Prism 7.04."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Statistical analysis Statistical results were obtained from at least three independent experiments.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Statistical results were obtained from at least three independent experiments."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "Plasmids are listed in Table S5, and SnapGene files will be provided upon request.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Plasmids are listed in Table S5, and SnapGene files will be provided upon request."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "provided"
+                  }],
+                "neText" : "provided"
+              }]
+          }, {
+            "sentence" : "Ridgeline plots were drawn in RStudio with ggplot2 and ggridges ( https://github.com/clauswilke/ggridges ) in R 3.5.3 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ridgeline plots were drawn in RStudio with ggplot2 and ggridges ( https://github.com/clauswilke/ggridges ) in R 3.5.3 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "https://github.com/clauswilke/ggridges"
+                  }],
+                "neText" : "https://github.com/clauswilke/ggridges"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical differences between groups were tested by one-way ANOVA, two-way ANOVA, or repeated measures ANOVA in GraphPad Prism 7.04.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical differences between groups were tested by one-way ANOVA, two-way ANOVA, or repeated measures ANOVA in GraphPad Prism 7.04."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The following primers were used for detecting Ty1 knock-in of Ptch1: Ptch1KI_1 , 5′-TGT\u200bGTT\u200bGCT\u200bCCG\u200bAGC\u200bTTT\u200bGT-3′; Ptch1KI_2 , 5′-TCC\u200bATC\u200bCGG\u200bACT\u200bCCA\u200bGAC\u200bAT-3′; Ptch1KI_3 , 5′-GAA\u200bCTT\u200bCAG\u200bCAT\u200bCAA\u200bGCG\u200bGAT-3′; Ptch1KI_4 , 5′-CAT\u200bTTG\u200bCTT\u200bCTG\u200bGCC\u200bACA\u200bCC-3′; Ptch1KI_5 , 5′-AAA\u200bAGG\u200bTCC\u200bCCC\u200bAGG\u200bGTC\u200bTA-3′; Ptch1KI_6 , 5′-ATG\u200bACC\u200bTCA\u200bGAA\u200bGCT\u200bGCC\u200bAC-3′ .",
+            "rowSpan" : 6,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The following primers were used for detecting Ty1 knock-in of Ptch1: Ptch1KI_1 , 5′-TGT\u200bGTT\u200bGCT\u200bCCG\u200bAGC\u200bTTT\u200bGT-3′; Ptch1KI_2 , 5′-TCC\u200bATC\u200bCGG\u200bACT\u200bCCA\u200bGAC\u200bAT-3′; Ptch1KI_3 , 5′-GAA\u200bCTT\u200bCAG\u200bCAT\u200bCAA\u200bGCG\u200bGAT-3′; Ptch1KI_4 , 5′-CAT\u200bTTG\u200bCTT\u200bCTG\u200bGCC\u200bACA\u200bCC-3′; Ptch1KI_5 , 5′-AAA\u200bAGG\u200bTCC\u200bCCC\u200bAGG\u200bGTC\u200bTA-3′; Ptch1KI_6 , 5′-ATG\u200bACC\u200bTCA\u200bGAA\u200bGCT\u200bGCC\u200bAC-3′ ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-TGT\u200bGTT\u200bGCT\u200bCCG\u200bAGC\u200bTTT\u200bGT-3′"
+                  }],
+                "neText" : "5′-TGT\u200bGTT\u200bGCT\u200bCCG\u200bAGC\u200bTTT\u200bGT-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-TCC\u200bATC\u200bCGG\u200bACT\u200bCCA\u200bGAC\u200bAT-3′"
+                  }],
+                "neText" : "5′-TCC\u200bATC\u200bCGG\u200bACT\u200bCCA\u200bGAC\u200bAT-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-GAA\u200bCTT\u200bCAG\u200bCAT\u200bCAA\u200bGCG\u200bGAT-3′"
+                  }],
+                "neText" : "5′-GAA\u200bCTT\u200bCAG\u200bCAT\u200bCAA\u200bGCG\u200bGAT-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CAT\u200bTTG\u200bCTT\u200bCTG\u200bGCC\u200bACA\u200bCC-3′"
+                  }],
+                "neText" : "5′-CAT\u200bTTG\u200bCTT\u200bCTG\u200bGCC\u200bACA\u200bCC-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-AAA\u200bAGG\u200bTCC\u200bCCC\u200bAGG\u200bGTC\u200bTA-3′"
+                  }],
+                "neText" : "5′-AAA\u200bAGG\u200bTCC\u200bCCC\u200bAGG\u200bGTC\u200bTA-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-ATG\u200bACC\u200bTCA\u200bGAA\u200bGCT\u200bGCC\u200bAC-3′"
+                  }],
+                "neText" : "5′-ATG\u200bACC\u200bTCA\u200bGAA\u200bGCT\u200bGCC\u200bAC-3′"
+              }]
+          }]
+      }, {
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "MA; Addgene plasmid 52961; Sanjana et al. , 2014 ) or lentiCRISPR v2 PuroP93S ( BL245 ) and screened by sequencing . lentiCRISPR v2 PuroP93S is similar to its parent except for a proline-to-serine mutation in the Puro N-acetyltransferase gene , which increases its resistance to Puro ( https://www.addgene.org).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MA; Addgene plasmid 52961; Sanjana et al. , 2014 ) or lentiCRISPR v2 PuroP93S ( BL245 ) and screened by sequencing . lentiCRISPR v2 PuroP93S is similar to its parent except for a proline-to-serine mutation in the Puro N-acetyltransferase gene , which increases its resistance to Puro ( https://www.addgene.org)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "plasmid 52961"
+                  }],
+                "neText" : "plasmid 52961"
+              }]
+          }]
+      }]
+  }
+}

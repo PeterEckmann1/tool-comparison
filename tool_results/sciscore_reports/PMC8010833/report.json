@@ -1,0 +1,190 @@
+{
+  "docIdentifier" : "PMC8010833",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All the statistical analyses were performed using SPSS 23.0 software (IBM Corp., Armonk, NY, USA) and P < 0.05 was considered to represent statistical significance.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All the statistical analyses were performed using SPSS 23.0 software (IBM Corp., Armonk, NY, USA) and P < 0.05 was considered to represent statistical significance."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was performed in strict accordance with the provisions of the Declaration of Helsinki and its amendments, and was approved by the ethics committee of Qilu Hospital of Shandong University (approval no. KYLL-2019-270).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was performed in strict accordance with the provisions of the Declaration of Helsinki and its amendments, and was approved by the ethics committee of Qilu Hospital of Shandong University (approval no. KYLL-2019-270)."
+              }]
+          }, {
+            "sentence" : "All the participants provided their written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the participants provided their written informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The exclusion criteria were severe liver disease (liver cirrhosis or serum aspartate aminotransferase (AST) or alanine aminotransferase (ALT) activities >120 U/L), severe kidney disease (estimated glomerular filtration rate [eGFR] <60 mL/minute/1.73 m2), malignant disease, haematological disease and serum bilirubin concentration greater than two times the upper limit of the normal range.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The exclusion criteria were severe liver disease (liver cirrhosis or serum aspartate aminotransferase (AST) or alanine aminotransferase (ALT) activities >120 U/L), severe kidney disease (estimated glomerular filtration rate [eGFR] <60 mL/minute/1.73 m2), malignant disease, haematological disease and serum bilirubin concentration greater than two times the upper limit of the normal range."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Sarcopenia was defined as a SMI <7.0 kg/m2 in men and <5.4 kg/m2 in women, according to the Asian Working Group for Sarcopenia recommendations.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sarcopenia was defined as a SMI <7.0 kg/m2 in men and <5.4 kg/m2 in women, according to the Asian Working Group for Sarcopenia recommendations."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and methods Study participants Sarcopenia is more common in middle-aged and elderly patients, and most of the inpatients with T2DM in our hospital were >50 years old.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Study participants Sarcopenia is more common in middle-aged and elderly patients, and most of the inpatients with T2DM in our hospital were >50 years old."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "19 Statistical analysis The Kolmogorov–Smirnov test was used to determine whether datasets were normally distributed.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "19 Statistical analysis The Kolmogorov–Smirnov test was used to determine whether datasets were normally distributed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kolmogorov–Smirnov test"
+                  }],
+                "neText" : "Kolmogorov–Smirnov test"
+              }]
+          }, {
+            "sentence" : "Student’s t-test (normally distributed data) or Mann–Whitney U-test (non-normally distributed data) were used to compare differences between the two groups.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Student’s t-test (normally distributed data) or Mann–Whitney U-test (non-normally distributed data) were used to compare differences between the two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Student’s t-test"
+                  }],
+                "neText" : "Student’s t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann–Whitney U-test"
+                  }],
+                "neText" : "Mann–Whitney U-test"
+              }]
+          }, {
+            "sentence" : "The relationships between serum bilirubin concentration and SMI were assessed using Pearson’s correlation analysis and multiple linear regression analysis in both men and women.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The relationships between serum bilirubin concentration and SMI were assessed using Pearson’s correlation analysis and multiple linear regression analysis in both men and women."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson’s correlation"
+                  }],
+                "neText" : "Pearson’s correlation"
+              }]
+          }]
+      }]
+  }
+}

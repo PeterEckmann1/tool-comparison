@@ -1,0 +1,330 @@
+{
+  "docIdentifier" : "PMC8921729",
+  "sciscore" : 1,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "To inhibit TGF-b1 stimulation, anti-TGF-b1 neutralization antibody (R&D systems) was used at a concentration of 300 ngml according to the manufacturers instructions.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To inhibit TGF-b1 stimulation, anti-TGF-b1 neutralization antibody (R&D systems) was used at a concentration of 300 ngml according to the manufacturers instructions."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TGF-b1"
+                }],
+              "neText" : "anti-TGF-b1"
+            }]
+        }, {
+          "sentence" : "The antibodies used in this study were anti-aSMA ( Abcam , Cambridge , MA) , anti-GAPDH ( IMGENEX , San Diego , CA) , and anti-PISD antibody molecular weight ( MW ) = 46 kDa , observed PISD MW = 50-55 kDa , according to the manufacturer Proteintech , Rosemont , IL .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The antibodies used in this study were anti-aSMA ( Abcam , Cambridge , MA) , anti-GAPDH ( IMGENEX , San Diego , CA) , and anti-PISD antibody molecular weight ( MW ) = 46 kDa , observed PISD MW = 50-55 kDa , according to the manufacturer Proteintech , Rosemont , IL ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-aSMA"
+                }],
+              "neText" : "anti-aSMA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GAPDH"
+                }],
+              "neText" : "anti-GAPDH"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-PISD"
+                }],
+              "neText" : "anti-PISD"
+            }]
+        }, {
+          "sentence" : "As a secondary antibody , anti-rabbit alkaline-phosphatase conjugated antibody ( secondary antibody solution Alk-Phos . conjugated Thermo Fisher Scientific ) was used.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "As a secondary antibody , anti-rabbit alkaline-phosphatase conjugated antibody ( secondary antibody solution Alk-Phos . conjugated Thermo Fisher Scientific ) was used."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit alkaline-phosphatase"
+                }],
+              "neText" : "anti-rabbit alkaline-phosphatase"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "PE and pPE were detected by monitoring a precursor ion mz 196 at Q3 in negative ion mode.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "PE and pPE were detected by monitoring a precursor ion mz 196 at Q3 in negative ion mode."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_170130",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pPE"
+                }],
+              "neText" : "pPE"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Students t test was used to compare two groups , and one-way analysis of variance followed by Bonferroni analysis was used to compare three or more groups .",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Students t test was used to compare two groups , and one-way analysis of variance followed by Bonferroni analysis was used to compare three or more groups ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t test"
+                  }],
+                "neText" : "Students t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The sequence primers used for amplification were as follows: glyceraldehyde-3-phosphate dehydrogenase ( GAPDH) , forward TCAACAGCGACACCCACTCCT , reverse TGAGGTCCACCACCCTGTTG aSMA , forward CTGTTCCAGCCATCCTTCAT , reverse TCATGATGCTGTTGTAGGTGGT phosphatidylserine decarboxylase ( PISD) , forward CTGAGCCAATCCCTACAGCC , reverse TACAAAGCCACCTCCCAGTG phosphatidylserine synthase 1 ( PSS1) , forward TGTTAGCTTTCCCCAATGGA , reverse GCAAAAATATCAAAGTGGCTGAT phosphatidylserine synthase 2 ( PSS2) , forward GAGTCCGAGGTCTACGACGA , reverse TGGCCACAATACCTCTCTTGG and collagen-1 , forward GGGATTCCCTGGACCTAAAG , reverse GGAACACCTCGCTCTCCA .",
+            "rowSpan" : 9,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The sequence primers used for amplification were as follows: glyceraldehyde-3-phosphate dehydrogenase ( GAPDH) , forward TCAACAGCGACACCCACTCCT , reverse TGAGGTCCACCACCCTGTTG aSMA , forward CTGTTCCAGCCATCCTTCAT , reverse TCATGATGCTGTTGTAGGTGGT phosphatidylserine decarboxylase ( PISD) , forward CTGAGCCAATCCCTACAGCC , reverse TACAAAGCCACCTCCCAGTG phosphatidylserine synthase 1 ( PSS1) , forward TGTTAGCTTTCCCCAATGGA , reverse GCAAAAATATCAAAGTGGCTGAT phosphatidylserine synthase 2 ( PSS2) , forward GAGTCCGAGGTCTACGACGA , reverse TGGCCACAATACCTCTCTTGG and collagen-1 , forward GGGATTCCCTGGACCTAAAG , reverse GGAACACCTCGCTCTCCA ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TCAACAGCGACACCCACTCCT"
+                  }],
+                "neText" : "TCAACAGCGACACCCACTCCT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTGTTCCAGCCATCCTTCAT"
+                  }],
+                "neText" : "CTGTTCCAGCCATCCTTCAT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTGAGCCAATCCCTACAGCC"
+                  }],
+                "neText" : "CTGAGCCAATCCCTACAGCC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TGTTAGCTTTCCCCAATGGA"
+                  }],
+                "neText" : "TGTTAGCTTTCCCCAATGGA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCAAAAATATCAAAGTGGCTGAT"
+                  }],
+                "neText" : "GCAAAAATATCAAAGTGGCTGAT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GAGTCCGAGGTCTACGACGA"
+                  }],
+                "neText" : "GAGTCCGAGGTCTACGACGA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TGGCCACAATACCTCTCTTGG"
+                  }],
+                "neText" : "TGGCCACAATACCTCTCTTGG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGGATTCCCTGGACCTAAAG"
+                  }],
+                "neText" : "GGGATTCCCTGGACCTAAAG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGAACACCTCGCTCTCCA"
+                  }],
+                "neText" : "GGAACACCTCGCTCTCCA"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,647 @@
+{
+  "docIdentifier" : "PMC8827743",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Furthermore, to generate complex-type N-glycans on the antibody variable domains, the recombinant IgGs were coexpressed with 1% β-1,4-N-acetylglucosaminyltransferase III (GnTIII), 2.5% α2,6-sialyltransferase 1 (ST6galT), and 1% β-1,4-galactosyltransferase 1 (B4GalT1).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Furthermore, to generate complex-type N-glycans on the antibody variable domains, the recombinant IgGs were coexpressed with 1% "
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "-1,4-N-acetylglucosaminyltransferase III (GnTIII), 2.5% "
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : "2,6-sialyltransferase 1 (ST6galT), and 1% "
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "-1,4-galactosyltransferase 1 (B4GalT1)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ST6galT"
+                }],
+              "neText" : "ST6galT"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "B4GalT1"
+                }],
+              "neText" : "B4GalT1"
+            }]
+        }, {
+          "sentence" : "Fab fragment generation, crystallization, and structure determination For Fab fragment preparation, chimeric 3F3 and 1F2 antibodies were produced on the basis of the human variable regions and mouse constant (Fc) domains, expressed in Expi393F cells (Life Technologies), purified as previously described ( 15 ) and dialyzed against PBS.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Fab fragment generation, crystallization, and structure determination For Fab fragment preparation, chimeric 3F3 and 1F2 antibodies were produced on the basis of the human variable regions and mouse constant (Fc) domains, expressed in Expi393F cells (Life Technologies), purified as previously described ( 15 ) and dialyzed against PBS."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "1F2"
+                }],
+              "neText" : "1F2"
+            }]
+        }, {
+          "sentence" : "Antibody interactions were detected using a horseradish peroxidase (HRP)–conjugated monoclonal mouse anti-human IgG (Fc) CH2 antibody (Bio-Rad, MK1A6) to prevent VDG influences on secondary antibody binding.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibody interactions were detected using a horseradish peroxidase (HRP)–conjugated monoclonal mouse anti-human IgG (Fc) CH2 antibody (Bio-Rad, MK1A6) to prevent VDG influences on secondary antibody binding."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human IgG"
+                }],
+              "neText" : "anti-human IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CH2"
+                }],
+              "neText" : "CH2"
+            }]
+        }, {
+          "sentence" : "Fluorescence-activated cell sorting (FACS) or flow cytometry validation experiments were performed after 1 week of culturing using an anti-CD22 allophycocyanin (APC)–labeled antibody (BD, #562850) on a BD 4 laser FACSAria or a BD LSRII flow cytometry instrument, respectively.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Fluorescence-activated cell sorting (FACS) or flow cytometry validation experiments were performed after 1 week of culturing using an anti-CD22 allophycocyanin (APC)–labeled antibody (BD, #562850) on a BD 4 laser FACSAria or a BD LSRII flow cytometry instrument, respectively."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD22"
+                }],
+              "neText" : "anti-CD22"
+            }]
+        }, {
+          "sentence" : "After washing with PT, blots were incubated for 1 hour at RT with 5 ml of PTE containing 1:1000 goat anti-rabbit Ig HRP (#P0448, Dako) and 1:5000 goat anti-mouse Ig HRP (#P0447, Dako) secondary antibodies.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After washing with PT, blots were incubated for 1 hour at RT with 5 ml of PTE containing 1:1000 goat anti-rabbit Ig HRP (#P0448, Dako) and 1:5000 goat anti-mouse Ig HRP (#P0447, Dako) secondary antibodies."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit Ig HRP (#P0448, Dako)"
+                }],
+              "neText" : "anti-rabbit Ig HRP (#P0448, Dako)"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse Ig HRP"
+                }],
+              "neText" : "anti-mouse Ig HRP"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "The recombinant mAbs were produced in Freestyle 293-F cells (Gibco) as previously stated ( 23 ).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The recombinant mAbs were produced in Freestyle 293-F cells (Gibco) as previously stated ( 23 )."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_6642",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "293-F"
+                }],
+              "neText" : "293-F"
+            }]
+        }, {
+          "sentence" : "Therefore, 4 million Ramos cells were lysed in 20 μl of NP-40 cell lysis buffer (Thermo Fisher Scientific) including 1× Protease/Phosphatase Inhibitor Cocktail (100×; Cell Signaling Technology) via incubation for 30 min on ice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Therefore, 4 million Ramos cells were lysed in 20 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "l of NP-40 cell lysis buffer (Thermo Fisher Scientific) including 1× Protease/Phosphatase Inhibitor Cocktail (100×; Cell Signaling Technology) via incubation for 30 min on ice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0597",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ramos"
+                }],
+              "neText" : "Ramos"
+            }]
+        }, {
+          "sentence" : "One million Ramos B cells were incubated for 30 min on ice followed by a 10-min stimulation at 4°C with CCP2-strep.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "One million Ramos B cells were incubated for 30 min on ice followed by a 10-min stimulation at 4°C with CCP2-strep."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ramos B"
+                }],
+              "neText" : "Ramos B"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "The constructs were ligated into a pcDNA3.1 (+) expression vector (Invitrogen) carrying the IGHG1 or the IGLC3/IGKC constant regions (UniProt), respectively, flanking the 3′-Xho I site.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The constructs were ligated into a pcDNA3.1 (+) expression vector (Invitrogen) carrying the IGHG1 or the IGLC3/IGKC constant regions (UniProt), respectively, flanking the 3′-Xho I site."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1 (+)"
+                }],
+              "neText" : "pcDNA3.1 (+)"
+            }]
+        }, {
+          "sentence" : "In brief, HC and LC containing single vector constructs were created with the In-Fusion HD Cloning Kit (Clontech) using the pMIG-IRES-GFP-2AP vector backbone including the IGHG1 transmembrane domain.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In brief, HC and LC containing single vector constructs were created with the In-Fusion HD Cloning Kit (Clontech) using the pMIG-IRES-GFP-2AP vector backbone including the IGHG1 transmembrane domain."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMIG-IRES-GFP-2AP"
+                }],
+              "neText" : "pMIG-IRES-GFP-2AP"
+            }]
+        }, {
+          "sentence" : "Following washing with PBS/0.05% Tween (PT), the blots were incubated at 4°C overnight with 1:20,000 mouse anti-human GADPH (#MAD374, Bio-Rad) or 1:3000 rabbit anti-human β-actin (D6A8, #8457S), 1:15,000 rabbit anti-human CD22 (#ab207727, BioLegend), and 1:300 rabbit anti-human Syk (#2712S, Cell Signaling Technology) or 1:200 rabbit anti-human pCD22 (Y822, #ab32123, BioLegend) and 1:1000 rabbit anti-human pSyk (p-Zap-70, Y319, #2717S, Cell Signaling Technology), respectively, diluted in 5 ml of PTE.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Following washing with PBS/0.05% Tween (PT), the blots were incubated at 4°C overnight with 1:20,000 mouse anti-human GADPH (#MAD374, Bio-Rad) or 1:3000 rabbit anti-human "
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "-actin (D6A8, #8457S), 1:15,000 rabbit anti-human CD22 (#ab207727, BioLegend), and 1:300 rabbit anti-human Syk (#2712S, Cell Signaling Technology) or 1:200 rabbit anti-human pCD22 (Y822, #ab32123, BioLegend) and 1:1000 rabbit anti-human pSyk (p-Zap-70, Y319, #2717S, Cell Signaling Technology), respectively, diluted in 5 ml of PTE."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCD22"
+                }],
+              "neText" : "pCD22"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The images were processed using XIA2 ( 44 ) and scaled by AIMLESS ( 45 ) from the CCP4 program suite ( 46 ).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The images were processed using XIA2 ( 44 ) and scaled by AIMLESS ( 45 ) from the CCP4 program suite ( 46 )."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CCP4"
+                }],
+              "neText" : "CCP4"
+            }]
+        }, {
+          "sentence" : "Iterative cycles of the manual model building were performed using COOT ( 48 ) and TLS as well as restrained refinement with Phenix or REFMAC5 ( 49 ) until R factors converged.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Iterative cycles of the manual model building were performed using COOT ( 48 ) and TLS as well as restrained refinement with Phenix or REFMAC5 ( 49 ) until R factors converged."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Phenix"
+                }],
+              "neText" : "Phenix"
+            }]
+        }, {
+          "sentence" : "Structure comparisons and RMSD calculations were performed with SSM ( 51 ) as implemented in PyMOL or COOT.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Structure comparisons and RMSD calculations were performed with SSM ( 51 ) as implemented in PyMOL or COOT."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Coot, RRID:SCR_014222",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "COOT"
+                }],
+              "neText" : "COOT"
+            }]
+        }, {
+          "sentence" : "Figures were prepared with PyMOL.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Figures were prepared with PyMOL."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PyMOL, RRID:SCR_000305",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PyMOL"
+                }],
+              "neText" : "PyMOL"
+            }]
+        }, {
+          "sentence" : "Inserts were verified by Sanger sequencing performed on Applied Biosystems 96-capillary (ABI3730) systems (LGTC facility, Macrogen).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Inserts were verified by Sanger sequencing performed on Applied Biosystems 96-capillary (ABI3730) systems (LGTC facility, Macrogen)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Macrogen"
+                }],
+              "neText" : "Macrogen"
+            }]
+        }, {
+          "sentence" : "Data processing, including peak integration, was performed using LaCyTools v1.1.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data processing, including peak integration, was performed using LaCyTools v1.1.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LaCyTools"
+                }],
+              "neText" : "LaCyTools"
+            }]
+        }, {
+          "sentence" : "Sequences were analyzed using SnapGene software V5.0.4.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Sequences were analyzed using SnapGene software V5.0.4."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SnapGene"
+                }],
+              "neText" : "SnapGene"
+            }]
+        }, {
+          "sentence" : "Z-stacks of 20 slices per cell were acquired for three laser lines (488, 561, and 637), and the mean signal intensity on the B cell membrane or inside the cell was assessed using Fiji/ImageJ.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Z-stacks of 20 slices per cell were acquired for three laser lines (488, 561, and 637), and the mean signal intensity on the B cell membrane or inside the cell was assessed using Fiji/ImageJ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji/ImageJ"
+                }],
+              "neText" : "Fiji/ImageJ"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Blood samples were taken upon obtaining written informed consent before inclusion and with approval from the local ethics committee of the LUMC, The Netherlands.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Blood samples were taken upon obtaining written informed consent before inclusion and with approval from the local ethics committee of the LUMC, The Netherlands."
+              }]
+          }, {
+            "sentence" : "Blood samples were taken upon obtaining written informed consent before inclusion and with approval from the local ethics committee of the LUMC, The Netherlands.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Blood samples were taken upon obtaining written informed consent before inclusion and with approval from the local ethics committee of the LUMC, The Netherlands."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "A mass spectrum from m/z 1000 to 3000 was recorded, combining 10,000 shots in a random walk pattern at 1000 Hz.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A mass spectrum from m/z 1000 to 3000 was recorded, combining 10,000 shots in a random walk pattern at 1000 Hz."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The crystallographic coordinates and structure factors have been deposited in the PDB with the accession codes 6YXK, 6YXM, 6YXN, and 6ZJG.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The crystallographic coordinates and structure factors have been deposited in the PDB with the accession codes 6YXK, 6YXM, 6YXN, and 6ZJG."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis Antigen-binding data of mAbs were analyzed using two-tailed unpaired t tests assuming that all samples show the same scatter (SD).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Antigen-binding data of mAbs were analyzed using two-tailed unpaired t tests assuming that all samples show the same scatter (SD)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t tests"
+                  }],
+                "neText" : "t tests"
+              }]
+          }, {
+            "sentence" : "LC-MS mIgG BCR glycan data were analyzed using multiple t tests assuming that all samples show the same SD and corrected for multiple comparisons using the Bonferroni-Dunn method.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "LC-MS mIgG BCR glycan data were analyzed using multiple t tests assuming that all samples show the same SD and corrected for multiple comparisons using the Bonferroni-Dunn method."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni-Dunn"
+                  }],
+                "neText" : "Bonferroni-Dunn"
+              }]
+          }, {
+            "sentence" : "Ordinary one-way analysis of variance (ANOVA) tests were performed for parametric nonmatched confocal microscopy data.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ordinary one-way analysis of variance (ANOVA) tests were performed for parametric nonmatched confocal microscopy data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The single-guide RNA (sgRNA) Hs.Cas9.CD22.1.AB (sequence: 5′-TGTCATTGAGGTGCACCGGG- 3′; position: 35332832; on-target score: 52; off-target score: 76) was diluted to 44 μM in IDTE buffer (IDT).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The single-guide RNA (sgRNA) Hs.Cas9.CD22.1.AB (sequence: 5′-TGTCATTGAGGTGCACCGGG- 3′; position: 35332832; on-target score: 52; off-target score: 76) was diluted to 44 "
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "M in IDTE buffer (IDT)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-TGTCATTGAGGTGCACCGGG- 3′"
+                  }],
+                "neText" : "5′-TGTCATTGAGGTGCACCGGG- 3′"
+              }]
+          }]
+      }]
+  }
+}

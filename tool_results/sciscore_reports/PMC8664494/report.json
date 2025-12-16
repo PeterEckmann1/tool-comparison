@@ -1,0 +1,363 @@
+{
+  "docIdentifier" : "PMC8664494",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Materials and methods Library construction The generation of the C-terminally tagged library in the BY strain, SLJ7859, [MATα can1Δ:: STE2pr-SpHIS5 lyp1Δ his3Δ1 leu2Δ0 ura3Δ0 met15Δ0 LYS2 pCEN/ARS-LEU2- NOP1pr-GFP11-mCherry-PUS1 (pSJ1321)] has been described previously (Smoyer et al. 2016).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Library construction The generation of the C-terminally tagged library in the BY strain, SLJ7859, [MAT"
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : " can1"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : ":: STE2pr-SpHIS5 lyp1"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : " his3"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "1 leu2"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "0 ura3"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "0 met15"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "0 LYS2 pCEN/ARS-LEU2- NOP1pr-GFP11-mCherry-PUS1 (pSJ1321)] has been described previously (Smoyer et al. 2016)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LYS2 pCEN/ARS-LEU2- NOP1pr-GFP11-mCherry-PUS1 (pSJ1321)"
+                }],
+              "neText" : "LYS2 pCEN/ARS-LEU2- NOP1pr-GFP11-mCherry-PUS1 (pSJ1321)"
+            }]
+        }, {
+          "sentence" : "INM gamete screen The BY4742 derivative (MATα can1Δ:: STE2pr-SpHIS5 lyp1Δ his3Δ1 leu2Δ0 ura3Δ0 met15Δ0 LYS2 pCEN/ARS-LEU2- NOP1pr-GFP11-mCherry-PUS1) haploid strain containing the C-terminal GFP1-10 tagged genes was mated to the SK1 (MATa ho::LYS2 lys2 ura3 leu2::hisG his3::hisG trp1::hisG leu::Nop1pr- GFP11-mCherry-PUS1-LEU2) haploid strain using the Singer ROTOR (Singer Instruments) on YPD plates for 2 days at 30°C.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "INM gamete screen The BY4742 derivative (MAT"
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : " can1"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : ":: STE2pr-SpHIS5 lyp1"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : " his3"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "1 leu2"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "0 ura3"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "0 met15"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "0 LYS2 pCEN/ARS-LEU2- NOP1pr-GFP11-mCherry-PUS1) haploid strain containing the C-terminal GFP1-10 tagged genes was mated to the SK1 (MATa ho::LYS2 lys2 ura3 leu2::hisG his3::hisG trp1::hisG leu::Nop1pr- GFP11-mCherry-PUS1-LEU2) haploid strain using the Singer ROTOR (Singer Instruments) on YPD plates for 2 days at 30°C."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LYS2 pCEN/ARS-LEU2- NOP1pr-GFP11-mCherry-PUS1"
+                }],
+              "neText" : "LYS2 pCEN/ARS-LEU2- NOP1pr-GFP11-mCherry-PUS1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Split-GFP reporters consisted of pRS315-NOP1pr-GFP11-mCherry-PUS1 (pSJ1321) for the INM and pRS315-NOP1pr-GFP11-mCherry-SCSTM (pSJ1568) for the ONM/ER, whose construction has been previously described in detail (Smoyer et al. 2016).",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Split-GFP reporters consisted of pRS315-NOP1pr-GFP11-mCherry-PUS1 (pSJ1321) for the INM and pRS315-NOP1pr-GFP11-mCherry-SCSTM (pSJ1568) for the ONM/ER, whose construction has been previously described in detail (Smoyer et al. 2016)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pRS315-NOP1pr-GFP11-mCherry-PUS1"
+                }],
+              "neText" : "pRS315-NOP1pr-GFP11-mCherry-PUS1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pSJ1321"
+                }],
+              "neText" : "pSJ1321"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pRS315-NOP1pr-GFP11-mCherry-SCSTM"
+                }],
+              "neText" : "pRS315-NOP1pr-GFP11-mCherry-SCSTM"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pSJ1568"
+                }],
+              "neText" : "pSJ1568"
+            }]
+        }, {
+          "sentence" : "Single copy integrating plasmids containing selected genes were made by PCR amplification of the open-reading frame with and without the NLS from SV40 large T-antigen at the N-terminus, ∼1000 bp of the DIT1 promoter sequence and ∼200 bp of the gene-specific terminator from genomic DNA and assembled into pRG203MX using Gibson Assembly (New England BioLabs, Inc).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Single copy integrating plasmids containing selected genes were made by PCR amplification of the open-reading frame with and without the NLS from SV40 large T-antigen at the N-terminus, "
+            }, {
+              "f" : "symbol",
+              "c" : "∼"
+            }, {
+              "f" : "default",
+              "c" : "1000 bp of the DIT1 promoter sequence and "
+            }, {
+              "f" : "symbol",
+              "c" : "∼"
+            }, {
+              "f" : "default",
+              "c" : "200 bp of the gene-specific terminator from genomic DNA and assembled into pRG203MX using Gibson Assembly (New England BioLabs, Inc)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pRG203MX"
+                }],
+              "neText" : "pRG203MX"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Images were processed using Image J (NIH, Bethesda, MD, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images were processed using Image J (NIH, Bethesda, MD, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image J"
+                }],
+              "neText" : "Image J"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Sporulation efficiency was determined in three biological replicates by counting the number of asci with four, three, and two nuclei divided by the total number of cells.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sporulation efficiency was determined in three biological replicates by counting the number of asci with four, three, and two nuclei divided by the total number of cells."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "Sporulation efficiency was determined in three biological replicates by counting the number of asci with four, three, and two nuclei divided by the total number of cells.",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sporulation efficiency was determined in three biological replicates by counting the number of asci with four, three, and two nuclei divided by the total number of cells."
+              }]
+          }, {
+            "sentence" : "Sporulation efficiency was determined in three biological replicates by counting the number of asci with four, three, and two nuclei divided by the total number of cells.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sporulation efficiency was determined in three biological replicates by counting the number of asci with four, three, and two nuclei divided by the total number of cells."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "A complete repository of all processed images is available at https://research.stowers.org/imagejplugins/jaspersen_meiosis_splitGFP_screen/.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A complete repository of all processed images is available at https://research.stowers.org/imagejplugins/jaspersen_meiosis_splitGFP_screen/."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  }
+}

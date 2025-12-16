@@ -1,0 +1,488 @@
+{
+  "docIdentifier" : "PMC8451553",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "After blocking with 5 horse serum in PBST for 30 minutes , the NSCs were incubated with the following primary antibodies: bIII tubulin ( a specific marker for neurons , mouse monoclonal , Santa Cruz Biotechnology , Santa Cruz , CA , USA , Cat sc-80005 , 1:400 ) glial fibrillary acidic protein ( GFAP , a specific marker for astrocytes , goat polyclonal , Abcam , Cambridge , UK , Cat ab53554 , 1:500 ) and ionized calcium-binding adapter molecule 1 ( Iba1 , a specific marker for microglia , goat polyclonal , Abcam , Cat ab5076 , 1:500) .",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After blocking with 5 horse serum in PBST for 30 minutes , the NSCs were incubated with the following primary antibodies: bIII tubulin ( a specific marker for neurons , mouse monoclonal , Santa Cruz Biotechnology , Santa Cruz , CA , USA , Cat sc-80005 , 1:400 ) glial fibrillary acidic protein ( GFAP , a specific marker for astrocytes , goat polyclonal , Abcam , Cambridge , UK , Cat ab53554 , 1:500 ) and ionized calcium-binding adapter molecule 1 ( Iba1 , a specific marker for microglia , goat polyclonal , Abcam , Cat ab5076 , 1:500) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "bIII tubulin"
+                }],
+              "neText" : "bIII tubulin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GFAP"
+                }],
+              "neText" : "GFAP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ionized calcium-binding adapter molecule 1"
+                }],
+              "neText" : "ionized calcium-binding adapter molecule 1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Iba1"
+                }],
+              "neText" : "Iba1"
+            }]
+        }, {
+          "sentence" : "Primary antibodies were incubated at 4degC for 20 hours , and then the cells were washed three times with PBS for 5 minutes , after which the NSCs were incubated with the following secondary antibodies at room temperature for 2 hours: Alexa Fluor 488 labeled anti-mouse IgG ( Beyotime , Shanghai , China , A0428 , 1:500",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Primary antibodies were incubated at 4degC for 20 hours , and then the cells were washed three times with PBS for 5 minutes , after which the NSCs were incubated with the following secondary antibodies at room temperature for 2 hours: Alexa Fluor 488 labeled anti-mouse IgG ( Beyotime , Shanghai , China , A0428 , 1:500"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A0428"
+                }],
+              "neText" : "A0428"
+            }]
+        }, {
+          "sentence" : "The NSCs were then incubated with anti-GFP antibody ( chicken polyclonal , Abcam , Cat 13970 , 1:500 , 0.3 prepared in PBST ) at 4degC for 20 hours , followed by Alexa Fluor 488 labeled anti-chicken IgG ( Beyotime , Cat A0428 , 1:500 ) secondary antibody at room temperature for 2 hours .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The NSCs were then incubated with anti-GFP antibody ( chicken polyclonal , Abcam , Cat 13970 , 1:500 , 0.3 prepared in PBST ) at 4degC for 20 hours , followed by Alexa Fluor 488 labeled anti-chicken IgG ( Beyotime , Cat A0428 , 1:500 ) secondary antibody at room temperature for 2 hours ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-chicken IgG"
+                }],
+              "neText" : "anti-chicken IgG"
+            }]
+        }, {
+          "sentence" : "The brain slices were incubated with the chicken-derived GFP monoclonal primary antibody ( chicken polyclonal , Abcam , Cat ab13970 , 1:1000 , prepared in 3 horse serum in PBST ) at 4degC for 16 hours .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The brain slices were incubated with the chicken-derived GFP monoclonal primary antibody ( chicken polyclonal , Abcam , Cat ab13970 , 1:1000 , prepared in 3 horse serum in PBST ) at 4degC for 16 hours ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GFP"
+                }],
+              "neText" : "GFP"
+            }]
+        }, {
+          "sentence" : "The brain slices were then rinsed three times in PBS for 5 minutes each and incubated with a second primary antibody , either neuronal neuron ( NeuN , mouse monoclonal , Abcam , Cat ab104224 , 1:400) , glial fibrillary acidic protein ( GFAP , goat polyclonal , Abcam , Cat ab53554 , 1:500 ) or Iba1 ( goat polyclonal , Abcam , Cat ab5076 , 1:500 ) at 4degC for 20 hours .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The brain slices were then rinsed three times in PBS for 5 minutes each and incubated with a second primary antibody , either neuronal neuron ( NeuN , mouse monoclonal , Abcam , Cat ab104224 , 1:400) , glial fibrillary acidic protein ( GFAP , goat polyclonal , Abcam , Cat ab53554 , 1:500 ) or Iba1 ( goat polyclonal , Abcam , Cat ab5076 , 1:500 ) at 4degC for 20 hours ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NeuN"
+                }],
+              "neText" : "NeuN"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "glial fibrillary acidic protein"
+                }],
+              "neText" : "glial fibrillary acidic protein"
+            }]
+        }, {
+          "sentence" : "The secondary antibodies were diluted in PBST as follows: donkey anti-goat IgG H&L ( Alexa Fluor(r ) 555 Abcam , ab150130 , 1:500)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The secondary antibodies were diluted in PBST as follows: donkey anti-goat IgG H&L ( Alexa Fluor(r ) 555 Abcam , ab150130 , 1:500)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-goat IgG"
+                }],
+              "neText" : "anti-goat IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ab150130"
+                }],
+              "neText" : "ab150130"
+            }]
+        }, {
+          "sentence" : "The PVDF membrane was blocked in 2 bovine serum albumin for 2 hours at room temperature and then incubated overnight at 4degC with the following primary antibodies: extracellular regulated protein kinase 12 ( ERK12 rabbit , Cell Signaling , Danvers , MA , USA , Cat 4695 , 1:2000) , phosphorylated-ERK12 ( rabbit , Cell Signaling , Cat 9101 , 1:2000) , cyclic adenosine monophosphate-response element-binding protein ( CREB rabbit , Cell Signaling , Cat 4034 , 1:2000)",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The PVDF membrane was blocked in 2 bovine serum albumin for 2 hours at room temperature and then incubated overnight at 4degC with the following primary antibodies: extracellular regulated protein kinase 12 ( ERK12 rabbit , Cell Signaling , Danvers , MA , USA , Cat 4695 , 1:2000) , phosphorylated-ERK12 ( rabbit , Cell Signaling , Cat 9101 , 1:2000) , cyclic adenosine monophosphate-response element-binding protein ( CREB rabbit , Cell Signaling , Cat 4034 , 1:2000)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ERK12"
+                }],
+              "neText" : "ERK12"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "phosphorylated-ERK12"
+                }],
+              "neText" : "phosphorylated-ERK12"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CREB"
+                }],
+              "neText" : "CREB"
+            }]
+        }, {
+          "sentence" : "The PVDF membrane was then incubated with the secondary antibody ( horseradish peroxidase-labeled goat anti-mouse IgG , 1:5000 ) at room temperature for 2 hours .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The PVDF membrane was then incubated with the secondary antibody ( horseradish peroxidase-labeled goat anti-mouse IgG , 1:5000 ) at room temperature for 2 hours ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG"
+                }],
+              "neText" : "anti-mouse IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Materials and Methods Animals For this study, rTg (tau P301L) 4510 mice (referred to as Tg-tau mice) were obtained through the hybridization between transgenic tau mice (FVB, gifted by the Xuanwu Hospital in Beijing, China) and the transgenic Tta mice (C57BL6, purchased from the Jackson Laboratory, Bar Harbor, ME, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and Methods Animals For this study, rTg (tau P301L) 4510 mice (referred to as Tg-tau mice) were obtained through the hybridization between transgenic tau mice (FVB, gifted by the Xuanwu Hospital in Beijing, China) and the transgenic Tta mice (C57BL6, purchased from the Jackson Laboratory, Bar Harbor, ME, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FVB"
+                }],
+              "neText" : "FVB"
+            }]
+        }, {
+          "sentence" : "Extraction of primary NSCs Primary NSCs were extracted from the hippocampus of C57BL6 wild-type (WT) suckling mice on postnatal day 1 (purchased from the Department of Laboratory Animal Science, Peking University Medical School, Beijing, China, license No. SCXK (Jing) 2016-0010).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Extraction of primary NSCs Primary NSCs were extracted from the hippocampus of C57BL6 wild-type (WT) suckling mice on postnatal day 1 (purchased from the Department of Laboratory Animal Science, Peking University Medical School, Beijing, China, license No. SCXK (Jing) 2016-0010)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : ", phosphorylated CREB ( rabbit , Cell Signaling , Cat 4095 , 1:2000) , nuclear factor kappa beta ( NFkB rabbit , Cell Signaling , Cat 3034 , 1:2000) , phosphorylated-NFkB ( rabbit , Cell Signaling , Cat 3034 , 1:2000) , tau ( rabbit , 1:1000 , Abcam , Cat ab47579) , phosphorylated-paired helical filaments ( PHF)-tau pSer202+Thr205 ( AT8 ) ( mouse , Thermos Fisher Scientific , Waltham , MA , USA , Cat MN1020 , 1:1000) , Ca2+calmodulin-dependent",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", phosphorylated CREB ( rabbit , Cell Signaling , Cat 4095 , 1:2000) , nuclear factor kappa beta ( NFkB rabbit , Cell Signaling , Cat 3034 , 1:2000) , phosphorylated-NFkB ( rabbit , Cell Signaling , Cat 3034 , 1:2000) , tau ( rabbit , 1:1000 , Abcam , Cat ab47579) , phosphorylated-paired helical filaments ( PHF)-tau pSer202+Thr205 ( AT8 ) ( mouse , Thermos Fisher Scientific , Waltham , MA , USA , Cat MN1020 , 1:1000) , Ca2+calmodulin-dependent"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Thermos Fisher Scientific"
+                }],
+              "neText" : "Thermos Fisher Scientific"
+            }]
+        }, {
+          "sentence" : "The protein bands were visualized using an enhanced chemiluminescence detection system ( Bio-Rad , Hercules , CA , USA) , and bands were measured and analyzed using ImageJ software ( National Institutes of Health , Bethesda , MD , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The protein bands were visualized using an enhanced chemiluminescence detection system ( Bio-Rad , Hercules , CA , USA) , and bands were measured and analyzed using ImageJ software ( National Institutes of Health , Bethesda , MD , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "(KEGG) pathway analysis (https:www.genome.jpkegg) and Gene Ontology (GO) classification (http:geneontology.org).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "(KEGG) pathway analysis (https:www.genome.jpkegg) and Gene Ontology (GO) classification (http:geneontology.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "The protein interactions were analyzed by STRING software (http: https:string-db.org).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The protein interactions were analyzed by STRING software (http: https:string-db.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All animal experiments were performed in accordance with the Guidelines of the Beijing Animal Ethics Association, and the Ethics Committee of Beijing Institute of Technology (approval No. SYXK-BIT-school of life science-2017-M03) approved the study in 2017.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All animal experiments were performed in accordance with the Guidelines of the Beijing Animal Ethics Association, and the Ethics Committee of Beijing Institute of Technology (approval No. SYXK-BIT-school of life science-2017-M03) approved the study in 2017."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Twenty-two Tta+Tau+ mice (40 weeks old) were randomly selected from among the hybridized offspring and randomly separated into two groups: NSC-transplanted (Tg + NSCs n = 11) and phosphate-buffered saline (PBS)-treated (Tg + PBS n = 11) groups.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Twenty-two Tta+Tau+ mice (40 weeks old) were randomly selected from among the hybridized offspring and randomly separated into two groups: NSC-transplanted (Tg + NSCs n = 11) and phosphate-buffered saline (PBS)-treated (Tg + PBS n = 11) groups."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Twenty-two Tta+Tau+ mice (40 weeks old) were randomly selected from among the hybridized offspring and randomly separated into two groups: NSC-transplanted (Tg + NSCs n = 11) and phosphate-buffered saline (PBS)-treated (Tg + PBS n = 11) groups.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Twenty-two Tta+Tau+ mice (40 weeks old) were randomly selected from among the hybridized offspring and randomly separated into two groups: NSC-transplanted (Tg + NSCs n = 11) and phosphate-buffered saline (PBS)-treated (Tg + PBS n = 11) groups."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The brain slices were rinsed with 50 ethanol , 20 ethanol , and pure water sequentially , with each rinse step performed three times for 10 minutes each .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The brain slices were rinsed with 50 ethanol , 20 ethanol , and pure water sequentially , with each rinse step performed three times for 10 minutes each ."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "T-maze test The T-maze test was used to examine the spatial working memory abilities of mice ( Deacon and Rawlins , 2006) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "T-maze test The T-maze test was used to examine the spatial working memory abilities of mice ( Deacon and Rawlins , 2006) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "T-maze test"
+                  }],
+                "neText" : "T-maze test"
+              }]
+          }, {
+            "sentence" : "After Students t-test , differentially expressed proteins were filtered according to P < 0.05 and Fold-Change > 1.5 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After Students t-test , differentially expressed proteins were filtered according to P < 0.05 and Fold-Change > 1.5 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Statistical analysis Comparisons between two groups were performed using unpaired, two-tailed Students t-test, and multiple comparisons were performed by one-way analysis of variance followed by Tukeys post hoc tests.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Comparisons between two groups were performed using unpaired, two-tailed Students t-test, and multiple comparisons were performed by one-way analysis of variance followed by Tukeys post hoc tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys post hoc tests"
+                  }],
+                "neText" : "Tukeys post hoc tests"
+              }]
+          }]
+      }]
+  }
+}

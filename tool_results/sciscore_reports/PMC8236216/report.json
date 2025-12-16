@@ -1,0 +1,746 @@
+{
+  "docIdentifier" : "PMC8236216",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "96-well flat bottom plates were primed for stimulation by incubating with anti-human CD3 ( 10 μg/mL ) and anti-human CD28 ( 5 μg/mL ) antibodies in PBS for 1 hour at 37°C prior to washing .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "96-well flat bottom plates were primed for stimulation by incubating with anti-human CD3 ( 10 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "g/mL ) and anti-human CD28 ( 5 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "g/mL ) antibodies in PBS for 1 hour at 37°C prior to washing ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human CD3"
+                }],
+              "neText" : "anti-human CD3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human CD28"
+                }],
+              "neText" : "anti-human CD28"
+            }]
+        }, {
+          "sentence" : "The solution was replaced with 1 % non-fat milk in PBS-T and a 1:5000 primary antibody dilution containing anti-FLAG ( Sigma ) or a 1:2000 dilution of anti-p24 ( Abcam ) antibodies prior to shaking at 4°C overnight .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The solution was replaced with 1 % non-fat milk in PBS-T and a 1:5000 primary antibody dilution containing anti-FLAG ( Sigma ) or a 1:2000 dilution of anti-p24 ( Abcam ) antibodies prior to shaking at 4°C overnight ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-FLAG"
+                }],
+              "neText" : "anti-FLAG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-p24 ( Abcam )"
+                }],
+              "neText" : "anti-p24 ( Abcam )"
+            }]
+        }, {
+          "sentence" : "Cells were resuspended in FACS buffer ( 1 % –2 % BSA in PBS ) and stained with the surface marker-targeting antibodies: B2M-FITC ( Biolegend) , B2M-PE ( Biolegend) , B2M-APC ( Biolegend) , CD4-FITC ( Biolegend) , CD8-PeCy7 ( BD Biosciences) , and TCRa/b-BV421 ( Biolegend ) and live/dead stains Ghost Dye red 780 ( Tonbo ) or Ghost Dye violet 450 ( Tonbo) , prior to analyzing .",
+          "rowSpan" : 5,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were resuspended in FACS buffer ( 1 % –2 % BSA in PBS ) and stained with the surface marker-targeting antibodies: B2M-FITC ( Biolegend) , B2M-PE ( Biolegend) , B2M-APC ( Biolegend) , CD4-FITC ( Biolegend) , CD8-PeCy7 ( BD Biosciences) , and TCRa/b-BV421 ( Biolegend ) and live/dead stains Ghost Dye red 780 ( Tonbo ) or Ghost Dye violet 450 ( Tonbo) , prior to analyzing ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "B2M-PE"
+                }],
+              "neText" : "B2M-PE"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "B2M-APC"
+                }],
+              "neText" : "B2M-APC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD4-FITC"
+                }],
+              "neText" : "CD4-FITC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD8-PeCy7"
+                }],
+              "neText" : "CD8-PeCy7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TCRa/b-BV421"
+                }],
+              "neText" : "TCRa/b-BV421"
+            }]
+        }, {
+          "sentence" : "CD69 PerCP ( BioLegend) , 4-1BB BV711 ( BioLegend ) and intracellular antibodies TNF-a Pacific Blue ( BioLegend) , IL-2 APC ( BD ) and IFN-g FITC ( BioLegend ) using the FIX & PERM Cell Fixation &",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "CD69 PerCP ( BioLegend) , 4-1BB BV711 ( BioLegend ) and intracellular antibodies TNF-a Pacific Blue ( BioLegend) , IL-2 APC ( BD ) and IFN-g FITC ( BioLegend ) using the FIX & PERM Cell Fixation &"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BV711"
+                }],
+              "neText" : "BV711"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IL-2 APC"
+                }],
+              "neText" : "IL-2 APC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IFN-g FITC"
+                }],
+              "neText" : "IFN-g FITC"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "EXPERIMENTAL MODEL AND SUBJECT DETAILS Culture of human cell lines Lenti-X , 293T , A549 , CCRF-CEM , HuT 78 and Jurkat cell lines were obtained from the UC Berkeley Cell Culture Facility .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "EXPERIMENTAL MODEL AND SUBJECT DETAILS Culture of human cell lines Lenti-X , 293T , A549 , CCRF-CEM , HuT 78 and Jurkat cell lines were obtained from the UC Berkeley Cell Culture Facility ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Jurkat"
+                }],
+              "neText" : "Jurkat"
+            }]
+        }, {
+          "sentence" : "Lenti-X , 293T , and A549 cells were cultured in DMEM ( Corning) , Jurkat and CCRF-CEM cells were cultured in RPMI 1640 ( Thermo Fisher ) and 1 mM sodium pyruvate , while HuT 78 cells were cultured in IMEM ( Thermo Fisher)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Lenti-X , 293T , and A549 cells were cultured in DMEM ( Corning) , Jurkat and CCRF-CEM cells were cultured in RPMI 1640 ( Thermo Fisher ) and 1 mM sodium pyruvate , while HuT 78 cells were cultured in IMEM ( Thermo Fisher)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_0337)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HuT 78"
+                }],
+              "neText" : "HuT 78"
+            }]
+        }, {
+          "sentence" : "Targeted integration analysis 15k 293T cells treated with B2M-targeting or non-targeting Cas9-VLPs and DNA was isolated 3 days post treatment by resuspending in Quick Extract ( Lucigen ) and heating at 65°C for 20 minutes followed by 95°C for 20 minutes before storing at −20°C .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Targeted integration analysis 15k 293T cells treated with B2M-targeting or non-targeting Cas9-VLPs and DNA was isolated 3 days post treatment by resuspending in Quick Extract ( Lucigen ) and heating at 65°C for 20 minutes followed by 95°C for 20 minutes before storing at "
+            }, {
+              "f" : "symbol",
+              "c" : "−"
+            }, {
+              "f" : "default",
+              "c" : "20°C ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "293T"
+                }],
+              "neText" : "293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "METHOD DETAILS Plasmid construction The Gag-pol expression plasmid psPax2 was a gift from Didier Trono ( Addgene plasmid #12260) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "METHOD DETAILS Plasmid construction The Gag-pol expression plasmid psPax2 was a gift from Didier Trono ( Addgene plasmid #12260) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "psPax2"
+                }],
+              "neText" : "psPax2"
+            }]
+        }, {
+          "sentence" : "pCMV-VSV-G was a gift from Bob Weinberg ( Addgene plasmid #8454) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "pCMV-VSV-G was a gift from Bob Weinberg ( Addgene plasmid #8454) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCMV-VSV-G"
+                }],
+              "neText" : "pCMV-VSV-G"
+            }]
+        }, {
+          "sentence" : "Gag-Cas9 was constructed by amplifying Gag from psPax2 and Cas9 from pMJ920 (",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gag-Cas9 was constructed by amplifying Gag from psPax2 and Cas9 from pMJ920 ("
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMJ920"
+                }],
+              "neText" : "pMJ920"
+            }]
+        }, {
+          "sentence" : "In-Fusion ( Takara Bio ) cloning was used to clone Gag-Cas9 and Env into the pCAGGS expression vector .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In-Fusion ( Takara Bio ) cloning was used to clone Gag-Cas9 and Env into the pCAGGS expression vector ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCAGGS"
+                }],
+              "neText" : "pCAGGS"
+            }]
+        }, {
+          "sentence" : "pCF221 ( Addgene plasmid #121669 ) was modified to express mNeonGreen ( Allele Biotechnology ) or the ɑ-CD19-4-1BBζ-P2A-mCherry ( CAR-P2A-mCherry ) construct ( Hill et al. , 2018; Muller et al. , 2020 ) in place of mCherry and was used as the sgRNA-expressing lentiviral transfer plasmid.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "pCF221 ( Addgene plasmid #121669 ) was modified to express mNeonGreen ( Allele Biotechnology ) or the ɑ-CD19-4-1BB"
+            }, {
+              "f" : "symbol",
+              "c" : "ζ"
+            }, {
+              "f" : "default",
+              "c" : "-P2A-mCherry ( CAR-P2A-mCherry ) construct ( Hill et al. , 2018; Muller et al. , 2020 ) in place of mCherry and was used as the sgRNA-expressing lentiviral transfer plasmid."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCF221"
+                }],
+              "neText" : "pCF221"
+            }]
+        }, {
+          "sentence" : "For generation of hybrid Cas9-VLPs , the guide RNA expression cassette was removed from the CAR-P2A-mCherry lentiviral plasmid via digestion with EcoRI and KpnI ( NEB) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For generation of hybrid Cas9-VLPs , the guide RNA expression cassette was removed from the CAR-P2A-mCherry lentiviral plasmid via digestion with EcoRI and KpnI ( NEB) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CAR-P2A-mCherry"
+                }],
+              "neText" : "CAR-P2A-mCherry"
+            }]
+        }, {
+          "sentence" : "The U6-sgRNA CAG-mTagBFP2 expression plasmid used for traceless Cas9-VLP and CAR-Cas9 VLP production was a gift from Benjamin Oakes",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The U6-sgRNA CAG-mTagBFP2 expression plasmid used for traceless Cas9-VLP and CAR-Cas9 VLP production was a gift from Benjamin Oakes"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CAG-mTagBFP2"
+                }],
+              "neText" : "CAG-mTagBFP2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All cells were cultured with 10 % fetal bovine sera ( VWR ) and 100 U/mL penicillin-streptomycin ( GIBCO) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All cells were cultured with 10 % fetal bovine sera ( VWR ) and 100 U/mL penicillin-streptomycin ( GIBCO) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GIBCO"
+                }],
+              "neText" : "GIBCO"
+            }]
+        }, {
+          "sentence" : "HIV-1 Env amino acid sequence was obtained from UniProt ( P04578) , human codon optimized ( IDT) , and ordered as a gBlock ( IDT) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HIV-1 Env amino acid sequence was obtained from UniProt ( P04578) , human codon optimized ( IDT) , and ordered as a gBlock ( IDT) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }]
+        }, {
+          "sentence" : "The solution was replaced with 1 % non-fat milk in PBS-T and a 1:5000 primary antibody dilution containing anti-FLAG ( Sigma ) or a 1:2000 dilution of anti-p24 ( Abcam ) antibodies prior to shaking at 4°C overnight .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The solution was replaced with 1 % non-fat milk in PBS-T and a 1:5000 primary antibody dilution containing anti-FLAG ( Sigma ) or a 1:2000 dilution of anti-p24 ( Abcam ) antibodies prior to shaking at 4°C overnight ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "All analysis was done using the FlowJo v10 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All analysis was done using the FlowJo v10 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "QUANTIFICATION AND STATISTICAL ANALYSIS Statistical analysis Statistical analysis was performed in Prism v7,v8, and v9.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "QUANTIFICATION AND STATISTICAL ANALYSIS Statistical analysis Statistical analysis was performed in Prism v7,v8, and v9."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Meta-Prism (RRID:SCR_021836)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Prism"
+                }],
+              "neText" : "Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Isolation and culture of human primary T cells Primary adult blood cells were obtained from anonymous healthy human donors as a leukoreduction pack purchased from StemCell Technologies , Inc . or Allcells Inc , or as a Trima residual from Vitalant , under a protocol approved by the University of California , San Francisco Institutional Review Board ( IRB) .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Isolation and culture of human primary T cells Primary adult blood cells were obtained from anonymous healthy human donors as a leukoreduction pack purchased from StemCell Technologies , Inc . or Allcells Inc , or as a Trima residual from Vitalant , under a protocol approved by the University of California , San Francisco Institutional Review Board ( IRB) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Cell lines were routinely checked for mycoplasma using the MycoAlert mycoplasma detection kit ( Lonza ) according to the manufacturer’s instructions .",
+            "title" : "Contamination",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cell lines were routinely checked for mycoplasma using the MycoAlert mycoplasma detection kit ( Lonza ) according to the manufacturer’s instructions ."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Materials availability Plasmids generated in this study have been deposited to Addgene or are available upon request.",
+            "rowSpan" : 2,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials availability Plasmids generated in this study have been deposited to Addgene or are available upon request."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "PRJNA680046) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "PRJNA680046) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PRJNA680046"
+                  }],
+                "neText" : "PRJNA680046"
+              }]
+          }, {
+            "sentence" : "HIV-1 Env amino acid sequence was obtained from UniProt ( P04578) , human codon optimized ( IDT) , and ordered as a gBlock ( IDT) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "HIV-1 Env amino acid sequence was obtained from UniProt ( P04578) , human codon optimized ( IDT) , and ordered as a gBlock ( IDT) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "P04578"
+                  }],
+                "neText" : "P04578"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "METHOD DETAILS Plasmid construction The Gag-pol expression plasmid psPax2 was a gift from Didier Trono ( Addgene plasmid #12260) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHOD DETAILS Plasmid construction The Gag-pol expression plasmid psPax2 was a gift from Didier Trono ( Addgene plasmid #12260) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene plasmid #12260"
+                  }],
+                "neText" : "Addgene plasmid #12260"
+              }]
+          }, {
+            "sentence" : "pCMV-VSV-G was a gift from Bob Weinberg ( Addgene plasmid #8454) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "pCMV-VSV-G was a gift from Bob Weinberg ( Addgene plasmid #8454) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene plasmid #8454"
+                  }],
+                "neText" : "Addgene plasmid #8454"
+              }]
+          }, {
+            "sentence" : "Addgene plasmid #42234) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Addgene plasmid #42234) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene plasmid #42234"
+                  }],
+                "neText" : "Addgene plasmid #42234"
+              }]
+          }, {
+            "sentence" : "pCF221 ( Addgene plasmid #121669 ) was modified to express mNeonGreen ( Allele Biotechnology ) or the ɑ-CD19-4-1BBζ-P2A-mCherry ( CAR-P2A-mCherry ) construct ( Hill et al. , 2018; Muller et al. , 2020 ) in place of mCherry and was used as the sgRNA-expressing lentiviral transfer plasmid.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "pCF221 ( Addgene plasmid #121669 ) was modified to express mNeonGreen ( Allele Biotechnology ) or the ɑ-CD19-4-1BB"
+              }, {
+                "f" : "symbol",
+                "c" : "ζ"
+              }, {
+                "f" : "default",
+                "c" : "-P2A-mCherry ( CAR-P2A-mCherry ) construct ( Hill et al. , 2018; Muller et al. , 2020 ) in place of mCherry and was used as the sgRNA-expressing lentiviral transfer plasmid."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene plasmid #121669 "
+                  }],
+                "neText" : "Addgene plasmid #121669 "
+              }]
+          }, {
+            "sentence" : "The mixture was electroporated using a 4D-nucleofector ( Lonza ) before immediately adding to 293T cells stably expressing a BFP-to-GFP reporter ( Addgene plasmid #71825) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mixture was electroporated using a 4D-nucleofector ( Lonza ) before immediately adding to 293T cells stably expressing a BFP-to-GFP reporter ( Addgene plasmid #71825) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene plasmid #71825"
+                  }],
+                "neText" : "Addgene plasmid #71825"
+              }]
+          }]
+      }]
+  }
+}

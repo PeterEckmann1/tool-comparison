@@ -1,0 +1,752 @@
+{
+  "docIdentifier" : "PMC8989626",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Tissue sections were incubated with antibodies for: E-cadherin ( Cell Signaling #3195 , RRID: AB_2291471 , 1:500) , Cytokeratin 19 ( Abcam ab52625 , RRID: AB_2281020 , 1:500) , Ki67 ( Cell Signaling #12202 , RRID: AB_2620142 , 1:1000)",
+          "rowSpan" : 5,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Tissue sections were incubated with antibodies for: E-cadherin ( Cell Signaling #3195 , RRID: AB_2291471 , 1:500) , Cytokeratin 19 ( Abcam ab52625 , RRID: AB_2281020 , 1:500) , Ki67 ( Cell Signaling #12202 , RRID: AB_2620142 , 1:1000)"
+            }],
+          "mentions" : [{
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 3195, RRID:AB_2291471)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "E-cadherin"
+                }],
+              "neText" : "E-cadherin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytokeratin 19"
+                }],
+              "neText" : "Cytokeratin 19"
+            }, {
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab52625, RRID:AB_2281020)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytokeratin"
+                }],
+              "neText" : "Cytokeratin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ki67"
+                }],
+              "neText" : "Ki67"
+            }, {
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 12202, RRID:AB_2620142)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ki67 ( Cell"
+                }],
+              "neText" : "Ki67 ( Cell"
+            }]
+        }, {
+          "sentence" : ", cleaved caspase-3 ( Cell Signaling #9664 , RRID: AB_2070042 , 1:800)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", cleaved caspase-3 ( Cell Signaling #9664 , RRID: AB_2070042 , 1:800)"
+            }],
+          "mentions" : [{
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 9664, RRID:AB_2070042)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "cleaved caspase-3"
+                }],
+              "neText" : "cleaved caspase-3"
+            }]
+        }, {
+          "sentence" : ", mTOR ( Cell Signaling #2983 , RRID: AB_2105622 , 1:1000) ,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", mTOR ( Cell Signaling #2983 , RRID: AB_2105622 , 1:1000) ,"
+            }],
+          "mentions" : [{
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 2983, RRID:AB_2105622)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "mTOR"
+                }],
+              "neText" : "mTOR"
+            }]
+        }, {
+          "sentence" : "p-mTOR ( Abcam ab109268 , RRID: AB_10888105 , 1:2000) , RPS6 ( Cell Signaling #2217 , RRID: AB_331355 , 1:1000) , and p-RPS6 ( Cell Signaling #4858 , RRID: AB_916156 , 1:1000 ) overnight at 4°C .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "p-mTOR ( Abcam ab109268 , RRID: AB_10888105 , 1:2000) , RPS6 ( Cell Signaling #2217 , RRID: AB_331355 , 1:1000) , and p-RPS6 ( Cell Signaling #4858 , RRID: AB_916156 , 1:1000 ) overnight at 4°C ."
+            }],
+          "mentions" : [{
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab109268, RRID:AB_10888105)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p-mTOR"
+                }],
+              "neText" : "p-mTOR"
+            }, {
+              "source" : "",
+              "rrid" : "(Cell Signaling Technology Cat# 2217, RRID:AB_331355)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 4858, RRID:AB_916156)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p-RPS6"
+                }],
+              "neText" : "p-RPS6"
+            }]
+        }, {
+          "sentence" : "Antibody binding was detected using HRP-conjugated anti-rabbit secondary antibody and visualized using ImmPACT DAB Peroxidase Substrate kit ( VectorLabs",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibody binding was detected using HRP-conjugated anti-rabbit secondary antibody and visualized using ImmPACT DAB Peroxidase Substrate kit ( VectorLabs"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }]
+        }, {
+          "sentence" : "Tissue sections were incubated with a mixture of antibodies for CK19 ( DSHB TROMA-III , RRID: AB_2133570,1:100 ) and Ki67 ( Cell Signaling #12202 , RRID: AB_2620142 , 1:500 ) for 2 h at room temperature.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Tissue sections were incubated with a mixture of antibodies for CK19 ( DSHB TROMA-III , RRID: AB_2133570,1:100 ) and Ki67 ( Cell Signaling #12202 , RRID: AB_2620142 , 1:500 ) for 2 h at room temperature."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CK19"
+                }],
+              "neText" : "CK19"
+            }, {
+              "source" : "",
+              "rrid" : "(DSHB Cat# TROMA-III, RRID:AB_2133570)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "After washing , tissue sections were incubated with a mixture of goat anti-rat Alexa Fluor 594 ( ThermoFisher , RRID: AB_10561522 #A-11007 , 1:200 ) and goat anti-rabbit AlexaFluor 488Plus ( ThermoFisher #A-32731 , RRID: AB_2633280 1:200 ) secondary antibodies and protected from light .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After washing , tissue sections were incubated with a mixture of goat anti-rat Alexa Fluor 594 ( ThermoFisher , RRID: AB_10561522 #A-11007 , 1:200 ) and goat anti-rabbit AlexaFluor 488Plus ( ThermoFisher #A-32731 , RRID: AB_2633280 1:200 ) secondary antibodies and protected from light ."
+            }],
+          "mentions" : [{
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# A-11007, RRID:AB_10561522)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rat"
+                }],
+              "neText" : "anti-rat"
+            }]
+        }, {
+          "sentence" : "Primary antibodies used include Gα13 ( Santa Cruz #sc-293424 , 1:1,000) , E-cadherin ( Cell Signaling #3195 , RRID:AB_2291471 , 1: 5,000) , PDK1 ( Cell Signaling #5662 , AB_10839264 , 1:1,000) , p-PDK1 ( Cell Signaling #3438 , RRID:AB_2161134 1:1,000",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Primary antibodies used include G"
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : "13 ( Santa Cruz #sc-293424 , 1:1,000) , E-cadherin ( Cell Signaling #3195 , RRID:AB_2291471 , 1: 5,000) , PDK1 ( Cell Signaling #5662 , AB_10839264 , 1:1,000) , p-PDK1 ( Cell Signaling #3438 , RRID:AB_2161134 1:1,000"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PDK1"
+                }],
+              "neText" : "PDK1"
+            }, {
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 5662, RRID:AB_10839264)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PDK1 ( Cell"
+                }],
+              "neText" : "PDK1 ( Cell"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p-PDK1"
+                }],
+              "neText" : "p-PDK1"
+            }]
+        }, {
+          "sentence" : "HRP-conjugated rabbit ( #A6667 , RRID: AB_258307 , 1:10,000 ) or mouse ( #A4416 , RRID: AB_258167 , 1:10,000 ) secondary antibody ( Millipore-Sigma St . Louis , MO ) was used with SuperSignal West Pico PLUS ( Thermo Fisher Scientific ) for protein detection .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HRP-conjugated rabbit ( #A6667 , RRID: AB_258307 , 1:10,000 ) or mouse ( #A4416 , RRID: AB_258167 , 1:10,000 ) secondary antibody ( Millipore-Sigma St . Louis , MO ) was used with SuperSignal West Pico PLUS ( Thermo Fisher Scientific ) for protein detection ."
+            }],
+          "mentions" : [{
+              "source" : "Sigma-Aldrich",
+              "rrid" : "(Sigma-Aldrich Cat# A6667, RRID:AB_258307)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "rabbit"
+                }],
+              "neText" : "rabbit"
+            }, {
+              "source" : "Sigma-Aldrich",
+              "rrid" : "(Sigma-Aldrich Cat# A4416, RRID:AB_258167)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "mouse"
+                }],
+              "neText" : "mouse"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "The following mice were used in the study: Pdx1-Cre mice (Jackson Laboratory #014647), Gna13 (kindly provided by Stefan Offermans, Max Planck Institute) (Moers et al., 2003), LSL-KRasG12D/+ (Jackson Laboratory #019104",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following mice were used in the study: Pdx1-Cre mice (Jackson Laboratory #014647), Gna13 (kindly provided by Stefan Offermans, Max Planck Institute) (Moers et al., 2003), LSL-KRasG12D/+ (Jackson Laboratory #019104"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Pdx1-Cre"
+                }],
+              "neText" : "Pdx1-Cre"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gna13"
+                }],
+              "neText" : "Gna13"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LSL-KRasG12D/+"
+                }],
+              "neText" : "LSL-KRasG12D/+"
+            }]
+        }, {
+          "sentence" : "Primary cell lines from KCG+/+ ( 2005 , 7-month-old female; 2685 , 6-month-old male) , KCGfl/fl ( 1930 , 9-month-old male; 1999 , 10-month-old male) , KPCG+/+ ( 2138 , 3-month-old male; 3213 , 3-month-old female) , and KPCGfl/fl ( 3458 , 5-month-old female; 3566 , 4-month-old female ) C57/BL6 mice were generated as described below .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Primary cell lines from KCG+/+ ( 2005 , 7-month-old female; 2685 , 6-month-old male) , KCGfl/fl ( 1930 , 9-month-old male; 1999 , 10-month-old male) , KPCG+/+ ( 2138 , 3-month-old male; 3213 , 3-month-old female) , and KPCGfl/fl ( 3458 , 5-month-old female; 3566 , 4-month-old female ) C57/BL6 mice were generated as described below ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57/BL6"
+                }],
+              "neText" : "C57/BL6"
+            }]
+        }, {
+          "sentence" : "METHOD DETAILS Conditional knockout Mice with loss of Gα13 in the pancreas were generated by crossing Pdx1-Cre mice ( Jackson Laboratory #014647 ) to mice expressing the floxed allele of Gna13 ( kindly provided by Stefan Offermans , Max Planck Institute ) ( Moers et al. , 2003) , to generate CGα13fl/+ and CGα13fl/fl mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "METHOD DETAILS Conditional knockout Mice with loss of G"
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : "13 in the pancreas were generated by crossing Pdx1-Cre mice ( Jackson Laboratory #014647 ) to mice expressing the floxed allele of Gna13 ( kindly provided by Stefan Offermans , Max Planck Institute ) ( Moers et al. , 2003) , to generate CG"
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : "13fl/+ and CG"
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : "13fl/fl mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CG"
+                }, {
+                  "f" : "symbol",
+                  "c" : "α"
+                }, {
+                  "f" : "default",
+                  "c" : "13fl/fl"
+                }],
+              "neText" : "CGα13fl/fl"
+            }]
+        }, {
+          "sentence" : ") mutant allele to generate KCGα13fl/+ ( KCGfl/+ ) or KCGα13fl/fl ( KCGfl/fl ) mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ") mutant allele to generate KCG"
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : "13fl/+ ( KCGfl/+ ) or KCG"
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : "13fl/fl ( KCGfl/fl ) mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KCG"
+                }, {
+                  "f" : "symbol",
+                  "c" : "α"
+                }, {
+                  "f" : "default",
+                  "c" : "13fl/fl"
+                }],
+              "neText" : "KCGα13fl/fl"
+            }]
+        }, {
+          "sentence" : "These mice were further crossed with mice expressing LSL-Trp53R172H/+ ( Jackson Laboratory 008652 ) to generate KPCGfl/+ and KPCGfl/fl mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These mice were further crossed with mice expressing LSL-Trp53R172H/+ ( Jackson Laboratory 008652 ) to generate KPCGfl/+ and KPCGfl/fl mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KPCGfl/fl"
+                }],
+              "neText" : "KPCGfl/fl"
+            }]
+        }, {
+          "sentence" : "Cell implantation For subcutaneous implantation , cells ( 2.5 × 105 ) were suspended in 100 μL of 1:1 mixture of PBS: Matrigel and then injected under the skin in the flank of C57BL/6 mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell implantation For subcutaneous implantation , cells ( 2.5 × 105 ) were suspended in 100 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "L of 1:1 mixture of PBS: Matrigel and then injected under the skin in the flank of C57BL/6 mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6"
+                }],
+              "neText" : "C57BL/6"
+            }]
+        }, {
+          "sentence" : "Generation of cell lines from genetically engineered mouse models KCG+/+ , KCGfl/+ , or KCGfl/fl mice more than 6 months of age were euthanized , and the harvested pancreatic tissue was placed in 5 mL of cold DMEM using aseptic technique.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Generation of cell lines from genetically engineered mouse models KCG+/+ , KCGfl/+ , or KCGfl/fl mice more than 6 months of age were euthanized , and the harvested pancreatic tissue was placed in 5 mL of cold DMEM using aseptic technique."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KCGfl/fl"
+                }],
+              "neText" : "KCGfl/fl"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data and code availability This paper analyzes publicly available data from the TCGA and cBioportal databases.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data and code availability This paper analyzes publicly available data from the TCGA and cBioportal databases."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "cBioPortal (RRID:SCR_014555)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "cBioportal"
+                }],
+              "neText" : "cBioportal"
+            }]
+        }, {
+          "sentence" : "At least 10 sections were acquired per tissue section , and ImageJ was used to analyze the double-positive CK19 and Ki67 areas .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "At least 10 sections were acquired per tissue section , and ImageJ was used to analyze the double-positive CK19 and Ki67 areas ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "All statistical analyses were done using GraphPad Prism.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were done using GraphPad Prism."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "EXPERIMENTAL MODELS AND SUBJECT DETAILS Animal experiments All animal work and procedures were approved by the Northwestern University Institutional Animal Care and Use Committee.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "EXPERIMENTAL MODELS AND SUBJECT DETAILS Animal experiments All animal work and procedures were approved by the Northwestern University Institutional Animal Care and Use Committee."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Mice that developed extra-pancreatic diseases such as thymoma , prolapse , or inoperable papillomas were excluded from the study .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice that developed extra-pancreatic diseases such as thymoma , prolapse , or inoperable papillomas were excluded from the study ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "All mice were bred on a C57/BL6 background , with ages ranging from 3–20 months and from both genders .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All mice were bred on a C57/BL6 background , with ages ranging from 3–20 months and from both genders ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Primary cell lines from KCG+/+ ( 2005 , 7-month-old female; 2685 , 6-month-old male) , KCGfl/fl ( 1930 , 9-month-old male; 1999 , 10-month-old male) , KPCG+/+ ( 2138 , 3-month-old male; 3213 , 3-month-old female) , and KPCGfl/fl ( 3458 , 5-month-old female; 3566 , 4-month-old female ) C57/BL6 mice were generated as described below .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Primary cell lines from KCG+/+ ( 2005 , 7-month-old female; 2685 , 6-month-old male) , KCGfl/fl ( 1930 , 9-month-old male; 1999 , 10-month-old male) , KPCG+/+ ( 2138 , 3-month-old male; 3213 , 3-month-old female) , and KPCGfl/fl ( 3458 , 5-month-old female; 3566 , 4-month-old female ) C57/BL6 mice were generated as described below ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "All cells in culture were tested and confirmed to be free of mycoplasma using the Myco Alert Plus Kit ( Lonza LT07–701) .",
+            "title" : "Contamination",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All cells in culture were tested and confirmed to be free of mycoplasma using the Myco Alert Plus Kit ( Lonza LT07–701) ."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Data and code availability This paper analyzes publicly available data from the TCGA and cBioportal databases.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data and code availability This paper analyzes publicly available data from the TCGA and cBioportal databases."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "QUANTIFICATION AND STATISTICAL ANALYSIS The in vivo and in vitro results were compared using one-way ANOVA with Bonferroni correction and 2-tailed t test analysis.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "QUANTIFICATION AND STATISTICAL ANALYSIS The in vivo and in vitro results were compared using one-way ANOVA with Bonferroni correction and 2-tailed t test analysis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "After washing , tissue sections were incubated with a mixture of goat anti-rat Alexa Fluor 594 ( ThermoFisher , RRID: AB_10561522 #A-11007 , 1:200 ) and goat anti-rabbit AlexaFluor 488Plus ( ThermoFisher #A-32731 , RRID: AB_2633280 1:200 ) secondary antibodies and protected from light .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After washing , tissue sections were incubated with a mixture of goat anti-rat Alexa Fluor 594 ( ThermoFisher , RRID: AB_10561522 #A-11007 , 1:200 ) and goat anti-rabbit AlexaFluor 488Plus ( ThermoFisher #A-32731 , RRID: AB_2633280 1:200 ) secondary antibodies and protected from light ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID: AB_2633280 1"
+                  }],
+                "neText" : "RRID: AB_2633280 1"
+              }]
+          }, {
+            "sentence" : "Primary antibodies used include Gα13 ( Santa Cruz #sc-293424 , 1:1,000) , E-cadherin ( Cell Signaling #3195 , RRID:AB_2291471 , 1: 5,000) , PDK1 ( Cell Signaling #5662 , AB_10839264 , 1:1,000) , p-PDK1 ( Cell Signaling #3438 , RRID:AB_2161134 1:1,000",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Primary antibodies used include G"
+              }, {
+                "f" : "symbol",
+                "c" : "α"
+              }, {
+                "f" : "default",
+                "c" : "13 ( Santa Cruz #sc-293424 , 1:1,000) , E-cadherin ( Cell Signaling #3195 , RRID:AB_2291471 , 1: 5,000) , PDK1 ( Cell Signaling #5662 , AB_10839264 , 1:1,000) , p-PDK1 ( Cell Signaling #3438 , RRID:AB_2161134 1:1,000"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID:AB_2161134 1"
+                  }],
+                "neText" : "RRID:AB_2161134 1"
+              }]
+          }, {
+            "sentence" : "Gapdh ( Millipore Sigma #MAB374 , RRID: AB_2107445 1:5,000) , and Hsp90 ( Santa Cruz Biotechnology sc-7947 , RRID: AB_2121235 1:5,000)",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Gapdh ( Millipore Sigma #MAB374 , RRID: AB_2107445 1:5,000) , and Hsp90 ( Santa Cruz Biotechnology sc-7947 , RRID: AB_2121235 1:5,000)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID: AB_2107445 1"
+                  }],
+                "neText" : "RRID: AB_2107445 1"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID: AB_2121235 1"
+                  }],
+                "neText" : "RRID: AB_2121235 1"
+              }]
+          }]
+      }]
+  }
+}

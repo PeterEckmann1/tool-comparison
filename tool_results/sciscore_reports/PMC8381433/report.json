@@ -1,0 +1,225 @@
+{
+  "docIdentifier" : "PMC8381433",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "In addition to background characteristics, the EORTC and CUETO recurrence scores and the factors that the scores are based on were calculated for each patient, and the incidence of a second TURBT and BCG therapy, current or past medication history of therapeutic agents for dysuria and recurrence status during the follow-up period were recorded.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In addition to background characteristics, the EORTC and CUETO recurrence scores and the factors that the scores are based on were calculated for each patient, and the incidence of a second TURBT and BCG therapy, current or past medication history of therapeutic agents for dysuria and recurrence status during the follow-up period were recorded."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "EORTC (RRID:SCR_004070)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EORTC"
+                }],
+              "neText" : "EORTC"
+            }]
+        }, {
+          "sentence" : "Statistical analysis The data were analyzed using JMP(r) 14 statistical software (SAS Institute Inc., Cary, NC, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis The data were analyzed using JMP(r) 14 statistical software (SAS Institute Inc., Cary, NC, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All patients provided written consent for treatment.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients provided written consent for treatment."
+              }]
+          }, {
+            "sentence" : "The Ethics Committee of Iwate Medical University (Iwate, Japan) approved this clinical trial (MH2019-606) prior to patient recruitment on 25 February 2019, and the details of patients were de-identified.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Ethics Committee of Iwate Medical University (Iwate, Japan) approved this clinical trial (MH2019-606) prior to patient recruitment on 25 February 2019, and the details of patients were de-identified."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Twenty-four patients were excluded from the study because they had been followed up for less than 6 months.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Twenty-four patients were excluded from the study because they had been followed up for less than 6 months."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Twenty-four patients were excluded from the study because they had been followed up for less than 6 months.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Twenty-four patients were excluded from the study because they had been followed up for less than 6 months."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Differences between the non-recurrence and recurrence groups in terms of continuous variables, such as follow-up period and age, were analyzed using t-tests.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between the non-recurrence and recurrence groups in terms of continuous variables, such as follow-up period and age, were analyzed using t-tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }, {
+            "sentence" : "The Cox regression test was used for categorical variables.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Cox regression test was used for categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Cox regression test"
+                  }],
+                "neText" : "Cox regression test"
+              }]
+          }, {
+            "sentence" : "The recurrence-free survival (RFS) was calculated using Kaplan-Meier curves, and the significance of differences between survival curves was determined using the log-rank test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The recurrence-free survival (RFS) was calculated using Kaplan-Meier curves, and the significance of differences between survival curves was determined using the log-rank test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }, {
+            "sentence" : "Moreover, the hazard ratio (HR) was calculated using Cox regression analysis. p<0.05 was considered to indicate a statistically significant difference.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Moreover, the hazard ratio (HR) was calculated using Cox regression analysis. p<0.05 was considered to indicate a statistically significant difference."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Cox regression"
+                  }],
+                "neText" : "Cox regression"
+              }]
+          }]
+      }]
+  }
+}

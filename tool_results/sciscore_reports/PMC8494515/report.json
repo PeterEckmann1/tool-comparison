@@ -1,0 +1,315 @@
+{
+  "docIdentifier" : "PMC8494515",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "VWF:Ag levels were measured by enzyme-linked immunosorbent assay ( ELISA ) using polyclonal rabbit anti-human VWF-coating antibody ( Ab ) ( A0082 Dako , Glostrup , Denmark) ,",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "VWF:Ag levels were measured by enzyme-linked immunosorbent assay ( ELISA ) using polyclonal rabbit anti-human VWF-coating antibody ( Ab ) ( A0082 Dako , Glostrup , Denmark) ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human VWF-coating"
+                }],
+              "neText" : "anti-human VWF-coating"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A0082"
+                }],
+              "neText" : "A0082"
+            }]
+        }, {
+          "sentence" : "VWF propeptide ( VWF:pp ) levels were measured by ELISA using Ab pair anti-human VWF:pp MW1939 ( Antibody Chain , Utrecht , Netherlands) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "VWF propeptide ( VWF:pp ) levels were measured by ELISA using Ab pair anti-human VWF:pp MW1939 ( Antibody Chain , Utrecht , Netherlands) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human VWF:pp MW1939"
+                }],
+              "neText" : "anti-human VWF:pp MW1939"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Pharmacokinetic Parameters and Analysis The PK parameters reported herein were chosen in accordance with the guidelines from the FVIII and FIX Subcommittee of the Scientific and Standardization Committee of the International Society on Thrombosis and Haemostasis ( ISTH) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Pharmacokinetic Parameters and Analysis The PK parameters reported herein were chosen in accordance with the guidelines from the FVIII and FIX Subcommittee of the Scientific and Standardization Committee of the International Society on Thrombosis and Haemostasis ( ISTH) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:NSRRC_0018",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FVIII"
+                }],
+              "neText" : "FVIII"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "14 PK parameters from the 6-point PK were calculated using Phoenix WinNonlin 7.0 ( Certara USA , Inc . Princeton , United States) , considered the gold standard for analyzing individual PK data , and ADVATE myPKFiT v .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "14 PK parameters from the 6-point PK were calculated using Phoenix WinNonlin 7.0 ( Certara USA , Inc . Princeton , United States) , considered the gold standard for analyzing individual PK data , and ADVATE myPKFiT v ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Phoenix WinNonlin"
+                }],
+              "neText" : "Phoenix WinNonlin"
+            }]
+        }, {
+          "sentence" : "The model and its development are detailed in Bjorkman et al. 11 Statistical Analyses Statistical analyses were conducted using MedCalc Statistical Software version 18.10.2",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The model and its development are detailed in Bjorkman et al. 11 Statistical Analyses Statistical analyses were conducted using MedCalc Statistical Software version 18.10.2"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MedCalc (RRID:SCR_015044)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MedCalc"
+                }],
+              "neText" : "MedCalc"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Written informed consent was obtained from each participant andor their parentslegal guardians ( as appropriate ) local research ethics boards approved the study .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from each participant andor their parentslegal guardians ( as appropriate ) local research ethics boards approved the study ."
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained from each participant andor their parentslegal guardians ( as appropriate ) local research ethics boards approved the study .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from each participant andor their parentslegal guardians ( as appropriate ) local research ethics boards approved the study ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Inclusion criteria included a confirmed diagnosis of severe hemophilia A , defined in this study as a baseline FVIII:C level of <2 participant receiving ADVATE for prophylaxis and body weight >=12 kg and <=120 kg .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria included a confirmed diagnosis of severe hemophilia A , defined in this study as a baseline FVIII:C level of <2 participant receiving ADVATE for prophylaxis and body weight >=12 kg and <=120 kg ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Inclusion criteria included a confirmed diagnosis of severe hemophilia A , defined in this study as a baseline FVIII:C level of <2 participant receiving ADVATE for prophylaxis and body weight >=12 kg and <=120 kg .",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria included a confirmed diagnosis of severe hemophilia A , defined in this study as a baseline FVIII:C level of <2 participant receiving ADVATE for prophylaxis and body weight >=12 kg and <=120 kg ."
+              }]
+          }, {
+            "sentence" : "The myPKFiT dosing tool was built from the ADVATE pre-licensure PK data using 184 full PK datasets ( 10 postinfusion samples ) from 100 adultsadolescents with hemophilia A ( 10-65 years of age ) and 52 reduced sample PK datasets ( four postinfusion samples ) from 52 boys with hemophilia A ( 1-6 years of age) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The myPKFiT dosing tool was built from the ADVATE pre-licensure PK data using 184 full PK datasets ( 10 postinfusion samples ) from 100 adultsadolescents with hemophilia A ( 10-65 years of age ) and 52 reduced sample PK datasets ( four postinfusion samples ) from 52 boys with hemophilia A ( 1-6 years of age) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "A sample size of 35 patients was deemed necessary to achieve 80 power to detect an ICC of 0.8 under the alternative hypothesis, when the ICC under the null hypothesis is 0.5 using an F-test with a significance level of 0.01.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A sample size of 35 patients was deemed necessary to achieve 80 power to detect an ICC of 0.8 under the alternative hypothesis, when the ICC under the null hypothesis is 0.5 using an F-test with a significance level of 0.01."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Protocol Information",
+        "srList" : [{
+            "sentence" : "The study was registered on ClinicalTrials . gov ( NCT02750085) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was registered on ClinicalTrials . gov ( NCT02750085) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT02750085"
+                  }],
+                "neText" : "NCT02750085"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "17 18 Pearson correlation coefficients were used to determine the extent of linear correlation between PK parameters and (1) VWF:Ag (2) VWF:pp (3) VWF:ppAg ratio and (4) age.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "17 18 Pearson correlation coefficients were used to determine the extent of linear correlation between PK parameters and (1) VWF:Ag (2) VWF:pp (3) VWF:ppAg ratio and (4) age."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }, {
+            "sentence" : "19 Paired t -tests were used to compare FVIII:C levels from the one-stage and chromogenic FVIII:C assays, and one-way analysis of variance (ANOVA) was used for comparing VWF:Ag levels in O versus non-O blood group subjects.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "19 Paired t -tests were used to compare FVIII:C levels from the one-stage and chromogenic FVIII:C assays, and one-way analysis of variance (ANOVA) was used for comparing VWF:Ag levels in O versus non-O blood group subjects."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t -tests"
+                  }],
+                "neText" : "t -tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "A sample size of 35 patients was deemed necessary to achieve 80 power to detect an ICC of 0.8 under the alternative hypothesis, when the ICC under the null hypothesis is 0.5 using an F-test with a significance level of 0.01.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A sample size of 35 patients was deemed necessary to achieve 80 power to detect an ICC of 0.8 under the alternative hypothesis, when the ICC under the null hypothesis is 0.5 using an F-test with a significance level of 0.01."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "F-test"
+                  }],
+                "neText" : "F-test"
+              }]
+          }]
+      }]
+  }
+}

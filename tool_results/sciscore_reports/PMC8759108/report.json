@@ -1,0 +1,449 @@
+{
+  "docIdentifier" : "PMC8759108",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The following antibodies were used: Mouse monoclonal anti-GAPDH ( 1:2,000 cat. no. 33033M BIOSS) , rabbit polyclonal anti-CDCA3 ( 1:1,000 cat. no. YT0819) , rabbit polyclonal anti-cleaved caspase-3 ( 1:1,000 cat. no. YC0006) , rabbit polyclonal anti-pro-caspase-3 ( 1:1,000 cat. no. YT6113) , and rabbit polyclonal anti-cyclin-dependent kinase inhibitor 1 ( p21 1:1,000 cat. no. YT3497 all from Immunoway Biotechnology Company) , rabbit polyclonal anti-cyclin D1 ( 1:1,000 cat. no. 0623R BIOSS)",
+          "rowSpan" : 7,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following antibodies were used: Mouse monoclonal anti-GAPDH ( 1:2,000 cat. no. 33033M BIOSS) , rabbit polyclonal anti-CDCA3 ( 1:1,000 cat. no. YT0819) , rabbit polyclonal anti-cleaved caspase-3 ( 1:1,000 cat. no. YC0006) , rabbit polyclonal anti-pro-caspase-3 ( 1:1,000 cat. no. YT6113) , and rabbit polyclonal anti-cyclin-dependent kinase inhibitor 1 ( p21 1:1,000 cat. no. YT3497 all from Immunoway Biotechnology Company) , rabbit polyclonal anti-cyclin D1 ( 1:1,000 cat. no. 0623R BIOSS)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GAPDH"
+                }],
+              "neText" : "anti-GAPDH"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CDCA3"
+                }],
+              "neText" : "anti-CDCA3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-cleaved caspase-3"
+                }],
+              "neText" : "anti-cleaved caspase-3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-pro-caspase-3"
+                }],
+              "neText" : "anti-pro-caspase-3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-cyclin-dependent kinase inhibitor 1"
+                }],
+              "neText" : "anti-cyclin-dependent kinase inhibitor 1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p21"
+                }],
+              "neText" : "p21"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-cyclin D1"
+                }],
+              "neText" : "anti-cyclin D1"
+            }]
+        }, {
+          "sentence" : ", HRP-labeled goat anti-rabbit secondary antibody (1:5,000 cat. no. 40295G-HRP BIOSS) and HRP-labeled goat anti-mouse secondary antibody (1:5,000 cat. no. 0368G-HRP BIOSS).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", HRP-labeled goat anti-rabbit secondary antibody (1:5,000 cat. no. 40295G-HRP BIOSS) and HRP-labeled goat anti-mouse secondary antibody (1:5,000 cat. no. 0368G-HRP BIOSS)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell viability assay DU145 and PC-3 cells were seeded at 200,000 cellswell into 6-well plates and cultured in RPMI-1640 medium containing 10 FBS at 37degC with 5 CO2 overnight for transfection .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell viability assay DU145 and PC-3 cells were seeded at 200,000 cellswell into 6-well plates and cultured in RPMI-1640 medium containing 10 FBS at 37degC with 5 CO2 overnight for transfection ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0035",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PC-3"
+                }],
+              "neText" : "PC-3"
+            }]
+        }, {
+          "sentence" : "Colony formation assay DU145 and PC-3 cells in the logarithmic growth phase were collected and 1,000 cellswell were seeded into a 6-well plate.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Colony formation assay DU145 and PC-3 cells in the logarithmic growth phase were collected and 1,000 cellswell were seeded into a 6-well plate."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0105",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DU145"
+                }],
+              "neText" : "DU145"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Materials and methods Microarray analysis Gene expression profiling datasets for prostate cancer were analyzed using the Gene Expression Omnibus (GEO http:www.ncbi.nlm.nih.govgeogeo2r) database.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Microarray analysis Gene expression profiling datasets for prostate cancer were analyzed using the Gene Expression Omnibus (GEO http:www.ncbi.nlm.nih.govgeogeo2r) database."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Omnibus (GEO) (RRID:SCR_005012)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Omnibus"
+                }],
+              "neText" : "Gene Expression Omnibus"
+            }]
+        }, {
+          "sentence" : "UALCAN ( http:ualcan . path . uab . eduanalysis . html ) is a web portal based on level 3 RNA-seq and clinical data from 31 cancer types in The Cancer Genome Atlas ( TCGA ) database ( 23) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "UALCAN ( http:ualcan . path . uab . eduanalysis . html ) is a web portal based on level 3 RNA-seq and clinical data from 31 cancer types in The Cancer Genome Atlas ( TCGA ) database ( 23) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "UALCAN (RRID:SCR_015827)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UALCAN"
+                }],
+              "neText" : "UALCAN"
+            }]
+        }, {
+          "sentence" : "DEGs were used to construct a STRING database , whereby an interaction with a combined score of >0.4 was considered to be statistically significant .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "DEGs were used to construct a STRING database , whereby an interaction with a combined score of >0.4 was considered to be statistically significant ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }]
+        }, {
+          "sentence" : "CytoHubba in Cytoscape was applied to screen the hub genes ranked by the MCC method ( 24) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "CytoHubba in Cytoscape was applied to screen the hub genes ranked by the MCC method ( 24) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }, {
+          "sentence" : "Disease-free survival ( DFS ) of patients with prostate cancer was analyzed using the Gene Expression Profiling Interactive Analysis ( GEPIA http:gepia . cancer-pku . cndetail ) database.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Disease-free survival ( DFS ) of patients with prostate cancer was analyzed using the Gene Expression Profiling Interactive Analysis ( GEPIA http:gepia . cancer-pku . cndetail ) database."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Profiling Interactive Analysis (RRID:SCR_018294)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Profiling Interactive Analysis"
+                }],
+              "neText" : "Gene Expression Profiling Interactive Analysis"
+            }]
+        }, {
+          "sentence" : "Statistical analysis The softwares SPSS 17.0 (SPSS, Inc.) and ImageJ 1.8.0 (National Institutes of Health) were used to carry out statistical analysis.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis The softwares SPSS 17.0 (SPSS, Inc.) and ImageJ 1.8.0 (National Institutes of Health) were used to carry out statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Tissue samples The present study was approved ( approval no. xs2020ky014 ) by the Ethics Committee of Xishan Peoples Hospital of Wuxi City ( Wuxi , China) .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Tissue samples The present study was approved ( approval no. xs2020ky014 ) by the Ethics Committee of Xishan Peoples Hospital of Wuxi City ( Wuxi , China) ."
+              }]
+          }, {
+            "sentence" : "Cell culture and in vitro transfection The human prostate cancer DU145 ( serial cat. no. TCHu222 ) and PC-3 ( serial cat. no. TCHu158 ) cell lines were purchased from The Cell Bank of Type Culture Collection of The Chinese Academy of Sciences .",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cell culture and in vitro transfection The human prostate cancer DU145 ( serial cat. no. TCHu222 ) and PC-3 ( serial cat. no. TCHu158 ) cell lines were purchased from The Cell Bank of Type Culture Collection of The Chinese Academy of Sciences ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were tissue samples collected from patients who had not undergone androgen deprivation therapy , chemotherapy , radiotherapy , or other auxiliary treatment prior to surgery .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were tissue samples collected from patients who had not undergone androgen deprivation therapy , chemotherapy , radiotherapy , or other auxiliary treatment prior to surgery ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "All patients ( mean age , 74 years range , 68-79 years ) were treated with radical prostatectomy between January 2021 and July 2021 , and consents were obtained orally .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients ( mean age , 74 years range , 68-79 years ) were treated with radical prostatectomy between January 2021 and July 2021 , and consents were obtained orally ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "A total of 3 replicate wells were used for each group .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 3 replicate wells were used for each group ."
+              }],
+            "mention" : {
+              "neText" : "replicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Colonies were observed using a light microscope and the number of colonies was counted by visual inspection .",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Colonies were observed using a light microscope and the number of colonies was counted by visual inspection ."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "In the GSE27616 dataset (20), four normal prostate and nine cancerous prostate samples were analyzed.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In the GSE27616 dataset (20), four normal prostate and nine cancerous prostate samples were analyzed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE27616"
+                  }],
+                "neText" : "GSE27616"
+              }]
+          }, {
+            "sentence" : "In the GSE3325 dataset (21), six normal prostate and 13 cancerous prostate samples were analyzed.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In the GSE3325 dataset (21), six normal prostate and 13 cancerous prostate samples were analyzed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE3325"
+                  }],
+                "neText" : "GSE3325"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "A two-tailed unpaired Students t-test was used to analyze statistical differences between two groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A two-tailed unpaired Students t-test was used to analyze statistical differences between two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

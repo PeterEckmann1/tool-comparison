@@ -1,0 +1,159 @@
+{
+  "docIdentifier" : "PMC8558687",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "ORA parameters analyzed were corneal hysteresis (CH), corneal resistance factor (CRF) and applanation waveform parameters (p1area, p2area, uslope1, uslope2, dslope1, dslope2, w1, w2, h1, h2) (Table 1).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ORA parameters analyzed were corneal hysteresis (CH), corneal resistance factor (CRF) and applanation waveform parameters (p1area, p2area, uslope1, uslope2, dslope1, dslope2, w1, w2, h1, h2) (Table 1)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "uslope1, uslope2, dslope1, dslope2, w1, w2, h1, h2"
+                }],
+              "neText" : "uslope1, uslope2, dslope1, dslope2, w1, w2, h1, h2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical Analysis IBM SPSS version 22.0 (IBM Corp, Armonk, NY, USA) was used for statistical analyses.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis IBM SPSS version 22.0 (IBM Corp, Armonk, NY, USA) was used for statistical analyses."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was conducted in accordance with the requirements of the Declaration of Helsinki after obtaining approval from the Eskisehir Osmangazi University Faculty of Medicine Non-invasive Clinical Research Ethics Committee (12.05.202007).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was conducted in accordance with the requirements of the Declaration of Helsinki after obtaining approval from the Eskisehir Osmangazi University Faculty of Medicine Non-invasive Clinical Research Ethics Committee (12.05.202007)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "1 Patients with history of ocular surgery including CXL, penetrating keratoplasty, deep anterior lamellar keratoplasty, and cataract surgery, patients with corneal scarring and ocular surface problems, patients under 18 years of age, and patients with no potential for progression due to stage 4 (end-stage) KC according to topographic KC classification (TKC) were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "1 Patients with history of ocular surgery including CXL, penetrating keratoplasty, deep anterior lamellar keratoplasty, and cataract surgery, patients with corneal scarring and ocular surface problems, patients under 18 years of age, and patients with no potential for progression due to stage 4 (end-stage) KC according to topographic KC classification (TKC) were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "1 Patients with history of ocular surgery including CXL, penetrating keratoplasty, deep anterior lamellar keratoplasty, and cataract surgery, patients with corneal scarring and ocular surface problems, patients under 18 years of age, and patients with no potential for progression due to stage 4 (end-stage) KC according to topographic KC classification (TKC) were excluded.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "1 Patients with history of ocular surgery including CXL, penetrating keratoplasty, deep anterior lamellar keratoplasty, and cataract surgery, patients with corneal scarring and ocular surface problems, patients under 18 years of age, and patients with no potential for progression due to stage 4 (end-stage) KC according to topographic KC classification (TKC) were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Independent groups t-test and univariate and multivariate logistic regression analysis were used to evaluate factors associated with KC progression.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Independent groups t-test and univariate and multivariate logistic regression analysis were used to evaluate factors associated with KC progression."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

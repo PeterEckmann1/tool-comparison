@@ -1,0 +1,192 @@
+{
+  "docIdentifier" : "PMC8016513",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "There was a large number of patients to provide sufficient sample for statistical analysis, further verified by G-power 3.1.9.2 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "There was a large number of patients to provide sufficient sample for statistical analysis, further verified by G-power 3.1.9.2 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "G-power"
+                }],
+              "neText" : "G-power"
+            }]
+        }, {
+          "sentence" : "25 Gathered results were statistically analyzed using Statistica version 6 software (StatSoft Inc, Tulsa, OK) using the paired t test and 2-way analysis of variance followed by least significant difference post hoc test.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "25 Gathered results were statistically analyzed using Statistica version 6 software (StatSoft Inc, Tulsa, OK) using the paired t test and 2-way analysis of variance followed by least significant difference post hoc test."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "STATISTICA  (RRID:SCR_014213)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Statistica"
+                }],
+              "neText" : "Statistica"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All the patients signed a voluntary informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the patients signed a voluntary informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were age 18 to 45 years and history of vaginal childbirth (not earlier than 6 months ago).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were age 18 to 45 years and history of vaginal childbirth (not earlier than 6 months ago)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "MATERIALS AND METHODS Inclusion Criteria and Ethical Principles Between the 2018 and early 2019, 95 postpartum women in reproductive age referred to the Hospital Lapino (MD Medical Group) were considered for the study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MATERIALS AND METHODS Inclusion Criteria and Ethical Principles Between the 2018 and early 2019, 95 postpartum women in reproductive age referred to the Hospital Lapino (MD Medical Group) were considered for the study."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were age 18 to 45 years and history of vaginal childbirth (not earlier than 6 months ago).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were age 18 to 45 years and history of vaginal childbirth (not earlier than 6 months ago)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "25 Gathered results were statistically analyzed using Statistica version 6 software (StatSoft Inc, Tulsa, OK) using the paired t test and 2-way analysis of variance followed by least significant difference post hoc test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "25 Gathered results were statistically analyzed using Statistica version 6 software (StatSoft Inc, Tulsa, OK) using the paired t test and 2-way analysis of variance followed by least significant difference post hoc test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }, {
+            "sentence" : "Assumption of normality was tested by Kolmogorov-Smirnov and Lilliefors tests.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Assumption of normality was tested by Kolmogorov-Smirnov and Lilliefors tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kolmogorov-Smirnov"
+                  }],
+                "neText" : "Kolmogorov-Smirnov"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Lilliefors tests"
+                  }],
+                "neText" : "Lilliefors tests"
+              }]
+          }]
+      }]
+  }
+}

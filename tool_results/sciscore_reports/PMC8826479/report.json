@@ -1,0 +1,191 @@
+{
+  "docIdentifier" : "PMC8826479",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data Set Families Genes GFTs Gene Data Source Primates13 16,670 268,338 Inferred Ensembl Compara Cyanobacteria36 1,099 41,035 Inferred Hogenom Vertebrates22 18,829 1,521,587 Extracted PhylomeDB Fungi16 7,180 85,866 Extracted Butler et al. (2009) Fungi60 5,665 391,471 Inferred PhylomeDB Plants23 21,469 1,652,464 Inferred PhylomeDB Life92 41,222 628,747 Inferred Williams et al. (2020) Archaea364 150 46,801 Inferred Dombrowski et al. (2020) Plants83 9,237 1,294,695 Extracted 1000k plants Vertebrates188 31,612 3,725,332 Inferred Ensembl Compara Note.--",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data Set Families Genes GFTs Gene Data Source Primates13 16,670 268,338 Inferred Ensembl Compara Cyanobacteria36 1,099 41,035 Inferred Hogenom Vertebrates22 18,829 1,521,587 Extracted PhylomeDB Fungi16 7,180 85,866 Extracted Butler et al. (2009) Fungi60 5,665 391,471 Inferred PhylomeDB Plants23 21,469 1,652,464 Inferred PhylomeDB Life92 41,222 628,747 Inferred Williams et al. (2020) Archaea364 150 46,801 Inferred Dombrowski et al. (2020) Plants83 9,237 1,294,695 Extracted 1000k plants Vertebrates188 31,612 3,725,332 Inferred Ensembl Compara Note.--"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PhylomeDB (RRID:SCR_007850)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PhylomeDB"
+                }],
+              "neText" : "PhylomeDB"
+            }]
+        }, {
+          "sentence" : "Primates13 and Vertebrates188 Data Sets We extracted the alignments comprising 199 species from the Ensembl Compara database (Zerbino et al. 2018).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Primates13 and Vertebrates188 Data Sets We extracted the alignments comprising 199 species from the Ensembl Compara database (Zerbino et al. 2018)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Ensembl (RRID:SCR_002344)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ensembl"
+                }],
+              "neText" : "Ensembl"
+            }]
+        }, {
+          "sentence" : "We reinferred the GFTs of both, the fungi and plants data sets using ParGenes with best-fit model selection enabled (-m option) and one random starting tree per RAxML-NG search.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We reinferred the GFTs of both, the fungi and plants data sets using ParGenes with best-fit model selection enabled (-m option) and one random starting tree per RAxML-NG search."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RAxML-NG"
+                }],
+              "neText" : "RAxML-NG"
+            }]
+        }, {
+          "sentence" : "As in the original study, sequences were aligned using MAFFT (Katoh and Standley 2013) and poorly aligning positions removed using BMGE 1.12 (Criscuolo and Gribaldo 2010) with the BLOSUM30 matrix.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "As in the original study, sequences were aligned using MAFFT (Katoh and Standley 2013) and poorly aligning positions removed using BMGE 1.12 (Criscuolo and Gribaldo 2010) with the BLOSUM30 matrix."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MAFFT (RRID:SCR_011811)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MAFFT"
+                }],
+              "neText" : "MAFFT"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "In particular, reconciliation methods like SpeciesRax can be affected by missing gene copies: for instance, if sequences for a subset of the species under study have not been sampled for several families, the statistical reconciliation model will attempt to explain these missing gene copies via additional, yet incorrect loss events.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In particular, reconciliation methods like SpeciesRax can be affected by missing gene copies: for instance, if sequences for a subset of the species under study have not been sampled for several families, the statistical reconciliation model will attempt to explain these missing gene copies via additional, yet incorrect loss events."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "When the data sets included outgroups, we excluded them from the analysis, because SpeciesRax does not need any outgroup to root the species trees.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "When the data sets included outgroups, we excluded them from the analysis, because SpeciesRax does not need any outgroup to root the species trees."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "2), the contributions of families k 1 and k 2 are unbalanced.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2), the contributions of families k 1 and k 2 are unbalanced."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "It starts its computations from an initial species tree that can either be randomly generated, user-specified, or inferred using our new distance method MiniNJ.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "It starts its computations from an initial species tree that can either be randomly generated, user-specified, or inferred using our new distance method MiniNJ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "We generated 100 replicates for each set of parameter values.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We generated 100 replicates for each set of parameter values."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "We generated 100 replicates for each set of parameter values.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We generated 100 replicates for each set of parameter values."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

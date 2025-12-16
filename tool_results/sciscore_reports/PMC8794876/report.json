@@ -1,0 +1,356 @@
+{
+  "docIdentifier" : "PMC8794876",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "FISH preparations were analyzed along the z-axis using a DSD2 confocal unit fitted to an Eclipse Ti inverted microscope ( Nikon ) with a Zyla sCMOS camera ( Andor ) under near-ultraviolet ( 405 nm ) and green ( 550 nm ) sequential excitation , obtained with a pE-4000 ( CooLED ) device , to determine whether the GRC signal from the GRC-carrying sperm was inside the nucleus .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "FISH preparations were analyzed along the z-axis using a DSD2 confocal unit fitted to an Eclipse Ti inverted microscope ( Nikon ) with a Zyla sCMOS camera ( Andor ) under near-ultraviolet ( 405 nm ) and green ( 550 nm ) sequential excitation , obtained with a pE-4000 ( CooLED ) device , to determine whether the GRC signal from the GRC-carrying sperm was inside the nucleus ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pE-4000"
+                }],
+              "neText" : "pE-4000"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Images were processed using Fiji ( 33)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images were processed using Fiji ( 33)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Fiji (RRID:SCR_002285)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji"
+                }],
+              "neText" : "Fiji"
+            }]
+        }, {
+          "sentence" : "To study the genetic diversity and the coevolutionary history of the GRC and its associated mtDNA , we sequenced ( PCR-free ) DNA from the testes and liver samples of a single male from each of the four major mtDNA haplotypes in captivity ( i.e. , males C , D , and G to H see Samples) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To study the genetic diversity and the coevolutionary history of the GRC and its associated mtDNA , we sequenced ( PCR-free ) DNA from the testes and liver samples of a single male from each of the four major mtDNA haplotypes in captivity ( i.e. , males C , D , and G to H see Samples) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GRC"
+                }],
+              "neText" : "GRC"
+            }]
+        }, {
+          "sentence" : "Raw reads from all whole-genome sequencing libraries ( PCR-free and Chromium ) were processed following a modified version of the Genome Analysis Toolkit Best Practices Pipeline ( 34) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Raw reads from all whole-genome sequencing libraries ( PCR-free and Chromium ) were processed following a modified version of the Genome Analysis Toolkit Best Practices Pipeline ( 34) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Genome Analysis Toolkit"
+                }],
+              "neText" : "Genome Analysis Toolkit"
+            }]
+        }, {
+          "sentence" : "We then mapped each library ( paired-end reads ) against the reference somatic genome , taeGut1 ( 36) , using BWA-MEM v0.7.17 ( 37 ) with the default settings while marking shorter split hits as secondary .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We then mapped each library ( paired-end reads ) against the reference somatic genome , taeGut1 ( 36) , using BWA-MEM v0.7.17 ( 37 ) with the default settings while marking shorter split hits as secondary ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BWA-MEM2 (RRID:SCR_022192)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BWA-MEM"
+                }],
+              "neText" : "BWA-MEM"
+            }]
+        }, {
+          "sentence" : "In a next step , we used the Picard ( 38 ) MarkDuplicates option to mark mapped reads that might result from PCR duplication to reduce PCR bias in the abundance of certain DNA fragments during sequencing .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In a next step , we used the Picard ( 38 ) MarkDuplicates option to mark mapped reads that might result from PCR duplication to reduce PCR bias in the abundance of certain DNA fragments during sequencing ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Picard (RRID:SCR_006525)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Picard"
+                }],
+              "neText" : "Picard"
+            }]
+        }, {
+          "sentence" : "For each library, we calculated read coverage using SAMtools v1.6 (39) depth per bp and used average values for each 1-kb window.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For each library, we calculated read coverage using SAMtools v1.6 (39) depth per bp and used average values for each 1-kb window."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SAMTOOLS, RRID:SCR_002105",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAMtools"
+                }],
+              "neText" : "SAMtools"
+            }]
+        }, {
+          "sentence" : "Gene names were based on BLAT hits with at least one of the annotated genomes (zebra finch, chicken Gallus gallus, or human Homo sapiens).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gene names were based on BLAT hits with at least one of the annotated genomes (zebra finch, chicken Gallus gallus, or human Homo sapiens)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BLAT (RRID:SCR_011919)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLAT"
+                }],
+              "neText" : "BLAT"
+            }]
+        }, {
+          "sentence" : "Finally, we used DnaSP v6.12.01 (45) to calculate the mean number of pairwise differences per site (p) for each GRC haplotype.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Finally, we used DnaSP v6.12.01 (45) to calculate the mean number of pairwise differences per site (p) for each GRC haplotype."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DnaSP"
+                }],
+              "neText" : "DnaSP"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was carried out under license (permit no. 311.4-si and 311.5-gr, Landratsamt Starnberg, Germany).",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was carried out under license (permit no. 311.4-si and 311.5-gr, Landratsamt Starnberg, Germany)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Using a dummy female, we collected natural ejaculates from eight brothers from two families (mtDNA haplotype A, Nejaculates = 9, from males A1 to A3 mtDNA haplotype B, Nejaculates = 11, from males B2 to B6).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Using a dummy female, we collected natural ejaculates from eight brothers from two families (mtDNA haplotype A, Nejaculates = 9, from males A1 to A3 mtDNA haplotype B, Nejaculates = 11, from males B2 to B6)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Males were 100 to 1,036 d old.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Males were 100 to 1,036 d old."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "All phylogenetic trees were built using RAxML-NG v1.0.2 (46) assuming a general time-reversible model and a discrete gamma model of rate heterogeneity with 100 randomized parsimony starting trees and 1,000 bootstrap replicates (for details, see Data Accessibility).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All phylogenetic trees were built using RAxML-NG v1.0.2 (46) assuming a general time-reversible model and a discrete gamma model of rate heterogeneity with 100 randomized parsimony starting trees and 1,000 bootstrap replicates (for details, see Data Accessibility)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All phylogenetic trees were built using RAxML-NG v1.0.2 (46) assuming a general time-reversible model and a discrete gamma model of rate heterogeneity with 100 randomized parsimony starting trees and 1,000 bootstrap replicates (for details, see Data Accessibility).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All phylogenetic trees were built using RAxML-NG v1.0.2 (46) assuming a general time-reversible model and a discrete gamma model of rate heterogeneity with 100 randomized parsimony starting trees and 1,000 bootstrap replicates (for details, see Data Accessibility)."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Note that the raw sequencing reads of castanotis males A ( SR00100) , B ( Spain_1) , and F ( Spain_2 ) were taken from ref . 4 ( Sequence Read Archive accession numbers SRX6431677 to SRX6431681 , SRX6431686 , and SRX6431688 to SRX6431693) .",
+            "rowSpan" : 5,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Note that the raw sequencing reads of castanotis males A ( SR00100) , B ( Spain_1) , and F ( Spain_2 ) were taken from ref . 4 ( Sequence Read Archive accession numbers SRX6431677 to SRX6431681 , SRX6431686 , and SRX6431688 to SRX6431693) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "SRX6431677"
+                  }],
+                "neText" : "SRX6431677"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "SRX6431681"
+                  }],
+                "neText" : "SRX6431681"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "SRX6431686"
+                  }],
+                "neText" : "SRX6431686"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "SRX6431688"
+                  }],
+                "neText" : "SRX6431688"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "SRX6431693"
+                  }],
+                "neText" : "SRX6431693"
+              }]
+          }, {
+            "sentence" : "The mtDNA tree was rooted by two guttata mtDNA assemblies SRA accession numbers SRR2299402 (47) and SRR3208120 (48), whereas the GRC haplotype tree was rooted at the midpoint of the two most distantly related haplotypes (Fig. 4A  for haplotype network analysis, see SI Appendix, Results and Fig. S8).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mtDNA tree was rooted by two guttata mtDNA assemblies SRA accession numbers SRR2299402 (47) and SRR3208120 (48), whereas the GRC haplotype tree was rooted at the midpoint of the two most distantly related haplotypes (Fig. 4A  for haplotype network analysis, see SI Appendix, Results and Fig. S8)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "SRR2299402"
+                  }],
+                "neText" : "SRR2299402"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "SRR3208120"
+                  }],
+                "neText" : "SRR3208120"
+              }]
+          }]
+      }]
+  }
+}

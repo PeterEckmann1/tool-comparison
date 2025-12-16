@@ -1,0 +1,218 @@
+{
+  "docIdentifier" : "PMC8169344",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Type 1 diabetes was diagnosed as positive for autoantibodies to glutamic acid decarboxylase andor islet antigen 2 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Type 1 diabetes was diagnosed as positive for autoantibodies to glutamic acid decarboxylase andor islet antigen 2 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "glutamic acid decarboxylase andor islet antigen 2"
+                }],
+              "neText" : "glutamic acid decarboxylase andor islet antigen 2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analyses were carried out using SPSS version 23.0 (SPSS Inc., Chicago, IL, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were carried out using SPSS version 23.0 (SPSS Inc., Chicago, IL, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study protocol was approved by the ethics committees of Shanghai Jiao Tong University Affiliated Sixth Peoples Hospital in accordance with the principles of the Helsinki Declaration .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol was approved by the ethics committees of Shanghai Jiao Tong University Affiliated Sixth Peoples Hospital in accordance with the principles of the Helsinki Declaration ."
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained from each participant .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from each participant ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criterion was diabetes with stable antidiabetic treatment regimens for at least 3 months preceding the recruitment .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criterion was diabetes with stable antidiabetic treatment regimens for at least 3 months preceding the recruitment ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Another 612 participants with type 1 diabetes were also included ( group 6) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Another 612 participants with type 1 diabetes were also included ( group 6) ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Pregnant female participants were also excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pregnant female participants were also excluded."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "CGM parameters and the definition of hypoglycemia All included participants had undergone blinded 72-h CGM ( CGMS GOLD Medtronic Inc .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "CGM parameters and the definition of hypoglycemia All included participants had undergone blinded 72-h CGM ( CGMS GOLD Medtronic Inc ."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Clinical characteristics that followed a normal distribution were compared among groups using one-way analysis of variance with a post-hoc least significant difference test, whereas those with non-normal distribution were compared using the Kruskal-Wallis test followed by the Mann-Whitney U-test with Bonferroni correction.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Clinical characteristics that followed a normal distribution were compared among groups using one-way analysis of variance with a post-hoc least significant difference test, whereas those with non-normal distribution were compared using the Kruskal-Wallis test followed by the Mann-Whitney U-test with Bonferroni correction."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis test"
+                  }],
+                "neText" : "Kruskal-Wallis test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U-test"
+                  }],
+                "neText" : "Mann-Whitney U-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }, {
+            "sentence" : "Spearmans correlation analysis was used to evaluate the correlation between CV and other glycemic parameters.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Spearmans correlation analysis was used to evaluate the correlation between CV and other glycemic parameters."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearmans correlation"
+                  }],
+                "neText" : "Spearmans correlation"
+              }]
+          }]
+      }]
+  }
+}

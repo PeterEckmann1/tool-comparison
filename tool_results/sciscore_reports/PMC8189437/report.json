@@ -1,0 +1,855 @@
+{
+  "docIdentifier" : "PMC8189437",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Monoclonal ANTI-FLAG M2 antibody Sigma Aldrich Cat# F1804; RRID: AB_262044 Anti-HA antibody produced in rabbit Sigma Aldrich Cat# H6908; RRID: AB_260070 Goat anti-rabbit IgG Dylight488 conjugated Invitrogen Cat# 35552; RRID: AB_844398 Goat anti-mouse IgG Dylight633 conjugated Invitrogen Cat# 35512; RRID: AB_1307538 Anti-rabbit peroxidase antibody produced in goat Sigma Aldrich Cat# A9169; RRID: AB_258434 Anti-mouse IgG Peroxidase antibody produced in goat Sigma Aldrich Cat# A4416; RRID: AB_258167 Anti-His antibody produced in mouse Cell Signaling Technology Cat# 9991; RRID: AB_2797714 Goat polyclonal anti-RMND5A antibody Santa Cruz Cat# sc-161202, RRID: AB_2181510 Sheep polyclonal anti-MAEA antibody R&D Systems Cat# AF7288-SP, RRID: AB_10971438 Rabbit polyclonal anti-RANBP9 antibody Abnova Cat# PAB16671; RRID: AB_10677213 Rabbit polyclonal anti-TWA1 antibody Novus Cat# NBP1-32596; RRID: AB_2274921 Mouse monoclonal anti-ARMC8 antibody Santa Cruz Cat# sc-365307; RRID: AB_10850172 Mouse monoclonal anti-MKLN1 antibody Santa Cruz Cat# sc-398956; RRID: AB_2737249 Rabbit polyclonal anti-WDR26 antibody Bethyl Laboratories Cat# A302-245A; RRID: AB_1730876 Rabbit polyclonal anti-YPEL5 antibody Thermo Fisher Cat# PA5-26957; RRID: AB_2544457 Sheep polyclonal anti-hGid4 This study N/A HaloLink Resin Promega Cat# G1912 ANTI-FLAG M2 affinity gel Sigma Aldrich Cat# A2220 His-Select Nickel affinity gel Sigma Aldrich Cat# P6611 Glutathione Sepharose 4B GE Healthcare Cat# 17075605 StrepTactin Sepharose High Performance resin cytiva Cat# 28935599 His-Halo UBAUBQLN1 This study N/A Critical commercial assays EnzChek Phosphate Assay Kit ThermoFisher Scientific Cat# E6646 Bacterial and virus strains E. coli BL21 RIL (DE3) MPIB N/A E. coli DH5a MPIB N/A Chemicals, peptides, and recombinant proteins complete EDTA free Roche Cat# 05056489001 Aprotinin from bovine lung Sigma A1153-10MG Leupeptin Sigma L2884-250MG Benzamidine Sigma B6506-25G GGGGGFYVK-FAM MPIB N/A PTLVNGWPR MPIB N/A PTLVNGPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A PGLWRSPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A 3xFLAG peptide MPIB N/A Deposited data Apo Chelator-GIDSR4 This study EMDB: EMD-12541 Chelator-GIDSR4 + Fbp1 This study EMDB: EMD-12557 GIDSR4 This study EMDB: EMD-12548 SRS module This study EMDB: EMD-12559; PDB: 7NS3 Cat module This study EMDB: EMD-12560; PDB: 7NS4 SA module This study EMDB: EMD-12563; PDB: 7NSB Endogenous GIDAnt This study EMDB: EMD-12538 Endogenous Chelator-GIDAnt This study EMDB: EMD-12540 CTLHSR4 This study EMDB: EMD-12537 CTLHSR4 SRS module This study EMDB: EMD-12564; PDB: 7NSC CTLH-WDR26 SA and SRS modules This study EMDB: EMD-12545 CTLH-WDR26 supramolecular assembly This study EMDB: EMD-12542 CTLH-MKLN1 SA and SRS modules This study EMDB: EMD-12547 Fbp1 (crystal structure) This study PDB: 7NS5 Proteomics data This study PXD024462 Raw image data This study http://dx.doi.org/10.17632/rfpsg6939c.1 Experimental models: Cell lines Sf9 Insect cells Thermo Fisher Cat# 11496015 High Five Insect cells Thermo Fisher Cat# B85502 K562 human cells ATCC ATCC#CCL-243; RRID: CVCL_00004 Experimental models: Organisms/strains Saccharomyces cerevisiae: Strain S288C: BY4741; MATa his3D1leu2D0 met15D0 ura3D0 Euroscarf Cat# Y00000 CRLY12; BY4741, Gid4::KANMX This study N/A CRLY14; BY4741, Gid7::KANMX This study N/A CRLY45; BY4741, Gid8::Gid8-3xFLAG-KANMX Qiao et. al., 2020 N/A CRLY131; BY4741, Gid2::3xFLAG-Gid2 (K365A) Qiao et. al., 2020 N/A CRLY241; BY4741, Gid7::KANMX, Gid8::Gid8-3xFLAG-HPHNT1 This study N/A CRLY267; BY4741, Gid7::Gid7-3xHA-HPHNT1, Gid5::Gid5-3xFLAG-KANMX This study N/A CRLY498; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2 This study N/A CRLY504; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2, Gid7:KANMX This study N/A Recombinant DNA pCSJ95 Chen et al., 2017 N/A pCSJ125 Chen et al., 2017 N/A VBP6; pRS313-pGPD-Pck1-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC1; pRS313-pGPD-Fbp1-K32R/K35R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC2; pRS313-pGPD-Fbp1-K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC3; pRS313-pGPD-Fbp1-K32R/K35R/K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A pRS415-pTEF-CYC This study N/A pRS415-pTEF-GFP-ScGid4-CYC This study N/A pLIB Gid1 This study N/A pLIB Gid2 This study N/A pLIB Gid4 This study N/A pLIB Gid5 This study N/A pLIB Gid7 This study N/A pLIB Gid8-TEV-2xStrep This study N/A pLIB Gid8 This study N/A pLIB Gid9 This study N/A pLIB RANBP9 This study N/A pLIB RMND5A This study N/A pLIB hGid4 This study N/A pLIB ARMC8 This study N/A pLIB 2xStrep-3C-ARMC8 This study N/A pLIB MAEA This study N/A pLIB WDR26 This study N/A pLIB GST-TEV-WDR26 This study N/A pLIB MKLN1 This study N/A pLIB YPEL5 This study N/A pLIB MAEA Y394A This study N/A pLIB RMND5A R340A This study N/A pLIB RMND5A I338A/L339A This study N/A pLIB GST-TEV-Uba1 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9:Gid7 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9:Gid7 This study N/A pBIG1 RANBP9:TWA1-TEV-2xS:ARMC8 This study N/A pBIG1 RANBP9:TWA1:2xS-3C-ARMC8 This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A:MAEA This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:MAEA This study N/A pGEX GST-TEV-Gid4 (D1-116) This study N/A pGEX GST-TEV-Gid7 This study N/A pGEX GST-TEV-Gid7 (D1-285) This study N/A pGEX GST-TEV-hGid4 (D1-99) This study N/A pGEX GST-TEV-hGid4 (R189A) This study N/A pGEX GST-TEV-hGid4 (Y154A) This study N/A pGEX GST-TEV-hGid4 (F174A) This study N/A pGEX GST-TEV-hGid4 (F239A) This study N/A pGEX GST-TEV-hGid4 (C156D) This study N/A pGEX GST-TEV-hGid4 (E298A) This study N/A pGEX GST-TEV-hGid4 (H147D) This study N/A pGEX GST-TEV-hGid4 (Y158A/F174A) This study N/A pGEX GST-TEV-hGid4 (Y158A/F239A) This study N/A pGEX GST-TEV-hGid4 (F174A/F239A) This study N/A pGEX GST-TEV-hGid4 (Y297A/F229A) This study N/A pGEX GST-TEV-hGid4 (D297-300) This study N/A pRSF Ubc8-6xHis This study N/A pRSF Fbp1-6xHis This study N/A pRSF Fbp1 (K32R/K35R)-6xHis This study N/A pRSF Fbp1 (K280R/K281R)-6xHis This study N/A pRSF Fbp1 (K32R/K35R/K280R/K281R)-6xHis This study N/A pRSF Fbp1-GGGGS-sortag-6xHis This study N/A pRSF Mdh2-GGGGS-sortag-6xHis This study N/A pRSF Pck1-GGGGS-sortag-6xHis This study N/A pQlink Fbp1-TEV-V5-2xS This study N/A pRSF Ube2H-6xHis This study N/A pGEX GST-3C-Ub This study N/A pGEX GST-3C-Ub K0 (all K > R) This study N/A pGEX GST-3C-Ub K6 (all K > R; R6K) This study N/A pGEX GST-3C-Ub K11 (all K > R; R11K) This study N/A pGEX GST-3C-Ub K27 (all K > R; R27K) This study N/A pGEX GST-3C-Ub K29 (all K > R; R29K) This study N/A pGEX GST-3C-Ub K33 (all K > R; R33K) This study N/A pGEX GST-3C-Ub K48 (all K > R; R48K) This study N/A pGEX GST-3C-Ub K63 (all K > R; R63K) This study N/A pET3b Ub This study N/A pET29 sortase A Chen et al., 2011b N/A Software and algorithms FOCUS Biyani et al., 2017 https://focus.c-cina.unibas.ch/documentation.php SerialEM Mastronarde, 2003 https://bio3d.colorado.edu/SerialEM/ MOTIONCOR2 Zheng et al., 2017 https://emcore.ucsf.edu/ucsf-software Gctf Zhang, 2016 https://www2.mrc-lmb.cam.ac.uk/download/gctf/ Gautomatch Kai Zhang https://www2.mrc-lmb.cam.ac.uk/download/gautomatch-053/ Relion3.0/3.1 Fernandez-Leiro and Scheres, 2017; Scheres, 2012; Zivanov et al., 2018 https://www3.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page Phyre2 Kelley et al., 2015 http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index SWISS-MODEL Waterhouse et al., 2018 https://swissmodel.expasy.org UCSF Chimera Pettersen et al., 2004 https://www.cgl.ucsf.edu/chimera/ UCSF ChimeraX Goddard et al., 2018 https://www.rbvi.ucsf.edu/chimerax/ PyMOL v2.1 Schrodinger https://pymol.org/2/ CCP-EM Burnley et al., 2017 https://www.ccpem.ac.uk/download.php Buccaneer Cowtan, 2006 http://www.ysbl.york.ac.uk/~cowtan/buccaneer/buccaneer.html Coot Emsley and Cowtan, 2004; Emsley et al., 2010 https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/ Phenix Adams et al., 2010; Afonine et al., 2018; DiMaio et al., 2013 https://www.phenix-online.org/ Molprobity Chen et al., 2010 http://molprobity.biochem.duke.edu/ Image Studio LI-COR Biosciences https://www.licor.com/bio/image-studio/ Fiji/ImageJ Schindelin et al., 2012 https://imagej.net/Welcome GraphPad Prism version 8.0 GraphPad Software http://www.graphpad.com:443/ ImageQuant TL Toolbox version 8.2 Cytiva (formerly GE Healthcare) https://www.cytivalifesciences.com DeepEMhancer Sanchez-Garcia et al., 2020 http://www.biorxiv.org Other QUANTIFOIL(r) R1.2/1.3, 100 Holey Carbon Films, Grids: Cu 200 mesh Quantifoil Micro Tools GmbH https://www.quantifoil.com IMEM Thermo Fisher Cat# 12440-053 Resource availability Lead contact Information and requests for resources and reagents should be directed to the Lead Contact, Prof. Dr. Brenda Schulman (schulman@biochem.mpg.de).",
+          "rowSpan" : 25,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Monoclonal ANTI-FLAG M2 antibody Sigma Aldrich Cat# F1804; RRID: AB_262044 Anti-HA antibody produced in rabbit Sigma Aldrich Cat# H6908; RRID: AB_260070 Goat anti-rabbit IgG Dylight488 conjugated Invitrogen Cat# 35552; RRID: AB_844398 Goat anti-mouse IgG Dylight633 conjugated Invitrogen Cat# 35512; RRID: AB_1307538 Anti-rabbit peroxidase antibody produced in goat Sigma Aldrich Cat# A9169; RRID: AB_258434 Anti-mouse IgG Peroxidase antibody produced in goat Sigma Aldrich Cat# A4416; RRID: AB_258167 Anti-His antibody produced in mouse Cell Signaling Technology Cat# 9991; RRID: AB_2797714 Goat polyclonal anti-RMND5A antibody Santa Cruz Cat# sc-161202, RRID: AB_2181510 Sheep polyclonal anti-MAEA antibody R&D Systems Cat# AF7288-SP, RRID: AB_10971438 Rabbit polyclonal anti-RANBP9 antibody Abnova Cat# PAB16671; RRID: AB_10677213 Rabbit polyclonal anti-TWA1 antibody Novus Cat# NBP1-32596; RRID: AB_2274921 Mouse monoclonal anti-ARMC8 antibody Santa Cruz Cat# sc-365307; RRID: AB_10850172 Mouse monoclonal anti-MKLN1 antibody Santa Cruz Cat# sc-398956; RRID: AB_2737249 Rabbit polyclonal anti-WDR26 antibody Bethyl Laboratories Cat# A302-245A; RRID: AB_1730876 Rabbit polyclonal anti-YPEL5 antibody Thermo Fisher Cat# PA5-26957; RRID: AB_2544457 Sheep polyclonal anti-hGid4 This study N/A HaloLink Resin Promega Cat# G1912 ANTI-FLAG M2 affinity gel Sigma Aldrich Cat# A2220 His-Select Nickel affinity gel Sigma Aldrich Cat# P6611 Glutathione Sepharose 4B GE Healthcare Cat# 17075605 StrepTactin Sepharose High Performance resin cytiva Cat# 28935599 His-Halo UBAUBQLN1 This study N/A Critical commercial assays EnzChek Phosphate Assay Kit ThermoFisher Scientific Cat# E6646 Bacterial and virus strains E. coli BL21 RIL (DE3) MPIB N/A E. coli DH5a MPIB N/A Chemicals, peptides, and recombinant proteins complete EDTA free Roche Cat# 05056489001 Aprotinin from bovine lung Sigma A1153-10MG Leupeptin Sigma L2884-250MG Benzamidine Sigma B6506-25G GGGGGFYVK-FAM MPIB N/A PTLVNGWPR MPIB N/A PTLVNGPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A PGLWRSPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A 3xFLAG peptide MPIB N/A Deposited data Apo Chelator-GIDSR4 This study EMDB: EMD-12541 Chelator-GIDSR4 + Fbp1 This study EMDB: EMD-12557 GIDSR4 This study EMDB: EMD-12548 SRS module This study EMDB: EMD-12559; PDB: 7NS3 Cat module This study EMDB: EMD-12560; PDB: 7NS4 SA module This study EMDB: EMD-12563; PDB: 7NSB Endogenous GIDAnt This study EMDB: EMD-12538 Endogenous Chelator-GIDAnt This study EMDB: EMD-12540 CTLHSR4 This study EMDB: EMD-12537 CTLHSR4 SRS module This study EMDB: EMD-12564; PDB: 7NSC CTLH-WDR26 SA and SRS modules This study EMDB: EMD-12545 CTLH-WDR26 supramolecular assembly This study EMDB: EMD-12542 CTLH-MKLN1 SA and SRS modules This study EMDB: EMD-12547 Fbp1 (crystal structure) This study PDB: 7NS5 Proteomics data This study PXD024462 Raw image data This study http://dx.doi.org/10.17632/rfpsg6939c.1 Experimental models: Cell lines Sf9 Insect cells Thermo Fisher Cat# 11496015 High Five Insect cells Thermo Fisher Cat# B85502 K562 human cells ATCC ATCC#CCL-243; RRID: CVCL_00004 Experimental models: Organisms/strains Saccharomyces cerevisiae: Strain S288C: BY4741; MATa his3D1leu2D0 met15D0 ura3D0 Euroscarf Cat# Y00000 CRLY12; BY4741, Gid4::KANMX This study N/A CRLY14; BY4741, Gid7::KANMX This study N/A CRLY45; BY4741, Gid8::Gid8-3xFLAG-KANMX Qiao et. al., 2020 N/A CRLY131; BY4741, Gid2::3xFLAG-Gid2 (K365A) Qiao et. al., 2020 N/A CRLY241; BY4741, Gid7::KANMX, Gid8::Gid8-3xFLAG-HPHNT1 This study N/A CRLY267; BY4741, Gid7::Gid7-3xHA-HPHNT1, Gid5::Gid5-3xFLAG-KANMX This study N/A CRLY498; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2 This study N/A CRLY504; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2, Gid7:KANMX This study N/A Recombinant DNA pCSJ95 Chen et al., 2017 N/A pCSJ125 Chen et al., 2017 N/A VBP6; pRS313-pGPD-Pck1-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC1; pRS313-pGPD-Fbp1-K32R/K35R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC2; pRS313-pGPD-Fbp1-K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC3; pRS313-pGPD-Fbp1-K32R/K35R/K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A pRS415-pTEF-CYC This study N/A pRS415-pTEF-GFP-ScGid4-CYC This study N/A pLIB Gid1 This study N/A pLIB Gid2 This study N/A pLIB Gid4 This study N/A pLIB Gid5 This study N/A pLIB Gid7 This study N/A pLIB Gid8-TEV-2xStrep This study N/A pLIB Gid8 This study N/A pLIB Gid9 This study N/A pLIB RANBP9 This study N/A pLIB RMND5A This study N/A pLIB hGid4 This study N/A pLIB ARMC8 This study N/A pLIB 2xStrep-3C-ARMC8 This study N/A pLIB MAEA This study N/A pLIB WDR26 This study N/A pLIB GST-TEV-WDR26 This study N/A pLIB MKLN1 This study N/A pLIB YPEL5 This study N/A pLIB MAEA Y394A This study N/A pLIB RMND5A R340A This study N/A pLIB RMND5A I338A/L339A This study N/A pLIB GST-TEV-Uba1 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9:Gid7 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9:Gid7 This study N/A pBIG1 RANBP9:TWA1-TEV-2xS:ARMC8 This study N/A pBIG1 RANBP9:TWA1:2xS-3C-ARMC8 This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A:MAEA This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:MAEA This study N/A pGEX GST-TEV-Gid4 (D1-116) This study N/A pGEX GST-TEV-Gid7 This study N/A pGEX GST-TEV-Gid7 (D1-285) This study N/A pGEX GST-TEV-hGid4 (D1-99) This study N/A pGEX GST-TEV-hGid4 (R189A) This study N/A pGEX GST-TEV-hGid4 (Y154A) This study N/A pGEX GST-TEV-hGid4 (F174A) This study N/A pGEX GST-TEV-hGid4 (F239A) This study N/A pGEX GST-TEV-hGid4 (C156D) This study N/A pGEX GST-TEV-hGid4 (E298A) This study N/A pGEX GST-TEV-hGid4 (H147D) This study N/A pGEX GST-TEV-hGid4 (Y158A/F174A) This study N/A pGEX GST-TEV-hGid4 (Y158A/F239A) This study N/A pGEX GST-TEV-hGid4 (F174A/F239A) This study N/A pGEX GST-TEV-hGid4 (Y297A/F229A) This study N/A pGEX GST-TEV-hGid4 (D297-300) This study N/A pRSF Ubc8-6xHis This study N/A pRSF Fbp1-6xHis This study N/A pRSF Fbp1 (K32R/K35R)-6xHis This study N/A pRSF Fbp1 (K280R/K281R)-6xHis This study N/A pRSF Fbp1 (K32R/K35R/K280R/K281R)-6xHis This study N/A pRSF Fbp1-GGGGS-sortag-6xHis This study N/A pRSF Mdh2-GGGGS-sortag-6xHis This study N/A pRSF Pck1-GGGGS-sortag-6xHis This study N/A pQlink Fbp1-TEV-V5-2xS This study N/A pRSF Ube2H-6xHis This study N/A pGEX GST-3C-Ub This study N/A pGEX GST-3C-Ub K0 (all K > R) This study N/A pGEX GST-3C-Ub K6 (all K > R; R6K) This study N/A pGEX GST-3C-Ub K11 (all K > R; R11K) This study N/A pGEX GST-3C-Ub K27 (all K > R; R27K) This study N/A pGEX GST-3C-Ub K29 (all K > R; R29K) This study N/A pGEX GST-3C-Ub K33 (all K > R; R33K) This study N/A pGEX GST-3C-Ub K48 (all K > R; R48K) This study N/A pGEX GST-3C-Ub K63 (all K > R; R63K) This study N/A pET3b Ub This study N/A pET29 sortase A Chen et al., 2011b N/A Software and algorithms FOCUS Biyani et al., 2017 https://focus.c-cina.unibas.ch/documentation.php SerialEM Mastronarde, 2003 https://bio3d.colorado.edu/SerialEM/ MOTIONCOR2 Zheng et al., 2017 https://emcore.ucsf.edu/ucsf-software Gctf Zhang, 2016 https://www2.mrc-lmb.cam.ac.uk/download/gctf/ Gautomatch Kai Zhang https://www2.mrc-lmb.cam.ac.uk/download/gautomatch-053/ Relion3.0/3.1 Fernandez-Leiro and Scheres, 2017; Scheres, 2012; Zivanov et al., 2018 https://www3.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page Phyre2 Kelley et al., 2015 http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index SWISS-MODEL Waterhouse et al., 2018 https://swissmodel.expasy.org UCSF Chimera Pettersen et al., 2004 https://www.cgl.ucsf.edu/chimera/ UCSF ChimeraX Goddard et al., 2018 https://www.rbvi.ucsf.edu/chimerax/ PyMOL v2.1 Schrodinger https://pymol.org/2/ CCP-EM Burnley et al., 2017 https://www.ccpem.ac.uk/download.php Buccaneer Cowtan, 2006 http://www.ysbl.york.ac.uk/~cowtan/buccaneer/buccaneer.html Coot Emsley and Cowtan, 2004; Emsley et al., 2010 https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/ Phenix Adams et al., 2010; Afonine et al., 2018; DiMaio et al., 2013 https://www.phenix-online.org/ Molprobity Chen et al., 2010 http://molprobity.biochem.duke.edu/ Image Studio LI-COR Biosciences https://www.licor.com/bio/image-studio/ Fiji/ImageJ Schindelin et al., 2012 https://imagej.net/Welcome GraphPad Prism version 8.0 GraphPad Software http://www.graphpad.com:443/ ImageQuant TL Toolbox version 8.2 Cytiva (formerly GE Healthcare) https://www.cytivalifesciences.com DeepEMhancer Sanchez-Garcia et al., 2020 http://www.biorxiv.org Other QUANTIFOIL(r) R1.2/1.3, 100 Holey Carbon Films, Grids: Cu 200 mesh Quantifoil Micro Tools GmbH https://www.quantifoil.com IMEM Thermo Fisher Cat# 12440-053 Resource availability Lead contact Information and requests for resources and reagents should be directed to the Lead Contact, Prof. Dr. Brenda Schulman (schulman@biochem.mpg.de)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ANTI-FLAG"
+                }],
+              "neText" : "ANTI-FLAG"
+            }, {
+              "source" : "Sigma-Aldrich",
+              "rrid" : "(Sigma-Aldrich Cat# F1804, RRID:AB_262044)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Monoclonal ANTI-FLAG M2"
+                }],
+              "neText" : "Monoclonal ANTI-FLAG M2"
+            }, {
+              "source" : "Sigma-Aldrich",
+              "rrid" : "(Sigma-Aldrich Cat# H6908, RRID:AB_260070)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-HA in rabbit"
+                }],
+              "neText" : "Anti-HA in rabbit"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# 35552, RRID:AB_844398)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Goat IgG"
+                }],
+              "neText" : "Goat IgG"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# 35512, RRID:AB_1307538)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Goat anti-mouse IgG Dylight633"
+                }],
+              "neText" : "Goat anti-mouse IgG Dylight633"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-rabbit"
+                }],
+              "neText" : "Anti-rabbit"
+            }, {
+              "source" : "Sigma-Aldrich",
+              "rrid" : "(Sigma-Aldrich Cat# A9169, RRID:AB_258434)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-rabbit peroxidase in goat"
+                }],
+              "neText" : "Anti-rabbit peroxidase in goat"
+            }, {
+              "source" : "Sigma-Aldrich",
+              "rrid" : "(Sigma-Aldrich Cat# A4416, RRID:AB_258167)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-mouse IgG Peroxidase in"
+                }],
+              "neText" : "Anti-mouse IgG Peroxidase in"
+            }, {
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 9991, RRID:AB_2797714)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-His in mouse"
+                }],
+              "neText" : "Anti-His in mouse"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-RMND5A"
+                }],
+              "neText" : "anti-RMND5A"
+            }, {
+              "source" : "Santa Cruz Biotechnology",
+              "rrid" : "(Santa Cruz Biotechnology Cat# sc-161202, RRID:AB_2181510)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Goat polyclonal anti-RMND5A"
+                }],
+              "neText" : "Goat polyclonal anti-RMND5A"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-MAEA"
+                }],
+              "neText" : "anti-MAEA"
+            }, {
+              "source" : "R and D Systems",
+              "rrid" : "(R and D Systems Cat# AF7288, RRID:AB_10971438)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-MAEA"
+                }],
+              "neText" : "anti-MAEA"
+            }, {
+              "source" : "Abnova",
+              "rrid" : "(Abnova Cat# PAB16671, RRID:AB_10677213)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "polyclonal"
+                }],
+              "neText" : "polyclonal"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TWA1"
+                }],
+              "neText" : "anti-TWA1"
+            }, {
+              "source" : "",
+              "rrid" : "(Novus Cat# NBP1-32596, RRID:AB_2274921)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "Santa Cruz Biotechnology",
+              "rrid" : "(Santa Cruz Biotechnology Cat# sc-365307, RRID:AB_10850172)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-ARMC8"
+                }],
+              "neText" : "anti-ARMC8"
+            }, {
+              "source" : "Santa Cruz Biotechnology",
+              "rrid" : "(Santa Cruz Biotechnology Cat# sc-398956, RRID:AB_2737249)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Mouse"
+                }],
+              "neText" : "Mouse"
+            }, {
+              "source" : "",
+              "rrid" : "(Thermo Fisher Scientific Cat# A302-245A, RRID:AB_1730876)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-YPEL5"
+                }],
+              "neText" : "anti-YPEL5"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# PA5-26957, RRID:AB_2544457)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "polyclonal"
+                }],
+              "neText" : "polyclonal"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-hGid4"
+                }],
+              "neText" : "anti-hGid4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fbp1"
+                }],
+              "neText" : "Fbp1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RANBP9"
+                }],
+              "neText" : "RANBP9"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ARMC8"
+                }],
+              "neText" : "ARMC8"
+            }]
+        }, {
+          "sentence" : "Protein levels of the substrates and a control protein DHFR were visualized by immunoblotting with anti-FLAG and anti-HA antibodies, respectively, and imaged using a Typhoon scanner (GE Healthcare).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein levels of the substrates and a control protein DHFR were visualized by immunoblotting with anti-FLAG and anti-HA antibodies, respectively, and imaged using a Typhoon scanner (GE Healthcare)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-HA"
+                }],
+              "neText" : "anti-HA"
+            }]
+        }, {
+          "sentence" : "Ubiquitylation of the substrates was visualized by immunoblotting with anti-His antibody.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Ubiquitylation of the substrates was visualized by immunoblotting with anti-His antibody."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-His"
+                }],
+              "neText" : "anti-His"
+            }]
+        }, {
+          "sentence" : "Fractions were collected from top of the gradient and separated by SDS-PAGE, followed by immunoblotting using the following antibodies: RMND5A (Santa Cruz), MAEA (R&D systems), RANBP9 (Novus Biologicals), TWA1 (Thermo Fisher), ARMC8 (Santa Cruz), WDR26 (Bethyl Laboratories), MKLN1 (Santa Cruz) and YPEL5 (Thermo Fisher).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Fractions were collected from top of the gradient and separated by SDS-PAGE, followed by immunoblotting using the following antibodies: RMND5A (Santa Cruz), MAEA (R&D systems), RANBP9 (Novus Biologicals), TWA1 (Thermo Fisher), ARMC8 (Santa Cruz), WDR26 (Bethyl Laboratories), MKLN1 (Santa Cruz) and YPEL5 (Thermo Fisher)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "WDR26"
+                }],
+              "neText" : "WDR26"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MKLN1"
+                }],
+              "neText" : "MKLN1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Monoclonal ANTI-FLAG M2 antibody Sigma Aldrich Cat# F1804; RRID: AB_262044 Anti-HA antibody produced in rabbit Sigma Aldrich Cat# H6908; RRID: AB_260070 Goat anti-rabbit IgG Dylight488 conjugated Invitrogen Cat# 35552; RRID: AB_844398 Goat anti-mouse IgG Dylight633 conjugated Invitrogen Cat# 35512; RRID: AB_1307538 Anti-rabbit peroxidase antibody produced in goat Sigma Aldrich Cat# A9169; RRID: AB_258434 Anti-mouse IgG Peroxidase antibody produced in goat Sigma Aldrich Cat# A4416; RRID: AB_258167 Anti-His antibody produced in mouse Cell Signaling Technology Cat# 9991; RRID: AB_2797714 Goat polyclonal anti-RMND5A antibody Santa Cruz Cat# sc-161202, RRID: AB_2181510 Sheep polyclonal anti-MAEA antibody R&D Systems Cat# AF7288-SP, RRID: AB_10971438 Rabbit polyclonal anti-RANBP9 antibody Abnova Cat# PAB16671; RRID: AB_10677213 Rabbit polyclonal anti-TWA1 antibody Novus Cat# NBP1-32596; RRID: AB_2274921 Mouse monoclonal anti-ARMC8 antibody Santa Cruz Cat# sc-365307; RRID: AB_10850172 Mouse monoclonal anti-MKLN1 antibody Santa Cruz Cat# sc-398956; RRID: AB_2737249 Rabbit polyclonal anti-WDR26 antibody Bethyl Laboratories Cat# A302-245A; RRID: AB_1730876 Rabbit polyclonal anti-YPEL5 antibody Thermo Fisher Cat# PA5-26957; RRID: AB_2544457 Sheep polyclonal anti-hGid4 This study N/A HaloLink Resin Promega Cat# G1912 ANTI-FLAG M2 affinity gel Sigma Aldrich Cat# A2220 His-Select Nickel affinity gel Sigma Aldrich Cat# P6611 Glutathione Sepharose 4B GE Healthcare Cat# 17075605 StrepTactin Sepharose High Performance resin cytiva Cat# 28935599 His-Halo UBAUBQLN1 This study N/A Critical commercial assays EnzChek Phosphate Assay Kit ThermoFisher Scientific Cat# E6646 Bacterial and virus strains E. coli BL21 RIL (DE3) MPIB N/A E. coli DH5a MPIB N/A Chemicals, peptides, and recombinant proteins complete EDTA free Roche Cat# 05056489001 Aprotinin from bovine lung Sigma A1153-10MG Leupeptin Sigma L2884-250MG Benzamidine Sigma B6506-25G GGGGGFYVK-FAM MPIB N/A PTLVNGWPR MPIB N/A PTLVNGPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A PGLWRSPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A 3xFLAG peptide MPIB N/A Deposited data Apo Chelator-GIDSR4 This study EMDB: EMD-12541 Chelator-GIDSR4 + Fbp1 This study EMDB: EMD-12557 GIDSR4 This study EMDB: EMD-12548 SRS module This study EMDB: EMD-12559; PDB: 7NS3 Cat module This study EMDB: EMD-12560; PDB: 7NS4 SA module This study EMDB: EMD-12563; PDB: 7NSB Endogenous GIDAnt This study EMDB: EMD-12538 Endogenous Chelator-GIDAnt This study EMDB: EMD-12540 CTLHSR4 This study EMDB: EMD-12537 CTLHSR4 SRS module This study EMDB: EMD-12564; PDB: 7NSC CTLH-WDR26 SA and SRS modules This study EMDB: EMD-12545 CTLH-WDR26 supramolecular assembly This study EMDB: EMD-12542 CTLH-MKLN1 SA and SRS modules This study EMDB: EMD-12547 Fbp1 (crystal structure) This study PDB: 7NS5 Proteomics data This study PXD024462 Raw image data This study http://dx.doi.org/10.17632/rfpsg6939c.1 Experimental models: Cell lines Sf9 Insect cells Thermo Fisher Cat# 11496015 High Five Insect cells Thermo Fisher Cat# B85502 K562 human cells ATCC ATCC#CCL-243; RRID: CVCL_00004 Experimental models: Organisms/strains Saccharomyces cerevisiae: Strain S288C: BY4741; MATa his3D1leu2D0 met15D0 ura3D0 Euroscarf Cat# Y00000 CRLY12; BY4741, Gid4::KANMX This study N/A CRLY14; BY4741, Gid7::KANMX This study N/A CRLY45; BY4741, Gid8::Gid8-3xFLAG-KANMX Qiao et. al., 2020 N/A CRLY131; BY4741, Gid2::3xFLAG-Gid2 (K365A) Qiao et. al., 2020 N/A CRLY241; BY4741, Gid7::KANMX, Gid8::Gid8-3xFLAG-HPHNT1 This study N/A CRLY267; BY4741, Gid7::Gid7-3xHA-HPHNT1, Gid5::Gid5-3xFLAG-KANMX This study N/A CRLY498; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2 This study N/A CRLY504; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2, Gid7:KANMX This study N/A Recombinant DNA pCSJ95 Chen et al., 2017 N/A pCSJ125 Chen et al., 2017 N/A VBP6; pRS313-pGPD-Pck1-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC1; pRS313-pGPD-Fbp1-K32R/K35R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC2; pRS313-pGPD-Fbp1-K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC3; pRS313-pGPD-Fbp1-K32R/K35R/K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A pRS415-pTEF-CYC This study N/A pRS415-pTEF-GFP-ScGid4-CYC This study N/A pLIB Gid1 This study N/A pLIB Gid2 This study N/A pLIB Gid4 This study N/A pLIB Gid5 This study N/A pLIB Gid7 This study N/A pLIB Gid8-TEV-2xStrep This study N/A pLIB Gid8 This study N/A pLIB Gid9 This study N/A pLIB RANBP9 This study N/A pLIB RMND5A This study N/A pLIB hGid4 This study N/A pLIB ARMC8 This study N/A pLIB 2xStrep-3C-ARMC8 This study N/A pLIB MAEA This study N/A pLIB WDR26 This study N/A pLIB GST-TEV-WDR26 This study N/A pLIB MKLN1 This study N/A pLIB YPEL5 This study N/A pLIB MAEA Y394A This study N/A pLIB RMND5A R340A This study N/A pLIB RMND5A I338A/L339A This study N/A pLIB GST-TEV-Uba1 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9:Gid7 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9:Gid7 This study N/A pBIG1 RANBP9:TWA1-TEV-2xS:ARMC8 This study N/A pBIG1 RANBP9:TWA1:2xS-3C-ARMC8 This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A:MAEA This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:MAEA This study N/A pGEX GST-TEV-Gid4 (D1-116) This study N/A pGEX GST-TEV-Gid7 This study N/A pGEX GST-TEV-Gid7 (D1-285) This study N/A pGEX GST-TEV-hGid4 (D1-99) This study N/A pGEX GST-TEV-hGid4 (R189A) This study N/A pGEX GST-TEV-hGid4 (Y154A) This study N/A pGEX GST-TEV-hGid4 (F174A) This study N/A pGEX GST-TEV-hGid4 (F239A) This study N/A pGEX GST-TEV-hGid4 (C156D) This study N/A pGEX GST-TEV-hGid4 (E298A) This study N/A pGEX GST-TEV-hGid4 (H147D) This study N/A pGEX GST-TEV-hGid4 (Y158A/F174A) This study N/A pGEX GST-TEV-hGid4 (Y158A/F239A) This study N/A pGEX GST-TEV-hGid4 (F174A/F239A) This study N/A pGEX GST-TEV-hGid4 (Y297A/F229A) This study N/A pGEX GST-TEV-hGid4 (D297-300) This study N/A pRSF Ubc8-6xHis This study N/A pRSF Fbp1-6xHis This study N/A pRSF Fbp1 (K32R/K35R)-6xHis This study N/A pRSF Fbp1 (K280R/K281R)-6xHis This study N/A pRSF Fbp1 (K32R/K35R/K280R/K281R)-6xHis This study N/A pRSF Fbp1-GGGGS-sortag-6xHis This study N/A pRSF Mdh2-GGGGS-sortag-6xHis This study N/A pRSF Pck1-GGGGS-sortag-6xHis This study N/A pQlink Fbp1-TEV-V5-2xS This study N/A pRSF Ube2H-6xHis This study N/A pGEX GST-3C-Ub This study N/A pGEX GST-3C-Ub K0 (all K > R) This study N/A pGEX GST-3C-Ub K6 (all K > R; R6K) This study N/A pGEX GST-3C-Ub K11 (all K > R; R11K) This study N/A pGEX GST-3C-Ub K27 (all K > R; R27K) This study N/A pGEX GST-3C-Ub K29 (all K > R; R29K) This study N/A pGEX GST-3C-Ub K33 (all K > R; R33K) This study N/A pGEX GST-3C-Ub K48 (all K > R; R48K) This study N/A pGEX GST-3C-Ub K63 (all K > R; R63K) This study N/A pET3b Ub This study N/A pET29 sortase A Chen et al., 2011b N/A Software and algorithms FOCUS Biyani et al., 2017 https://focus.c-cina.unibas.ch/documentation.php SerialEM Mastronarde, 2003 https://bio3d.colorado.edu/SerialEM/ MOTIONCOR2 Zheng et al., 2017 https://emcore.ucsf.edu/ucsf-software Gctf Zhang, 2016 https://www2.mrc-lmb.cam.ac.uk/download/gctf/ Gautomatch Kai Zhang https://www2.mrc-lmb.cam.ac.uk/download/gautomatch-053/ Relion3.0/3.1 Fernandez-Leiro and Scheres, 2017; Scheres, 2012; Zivanov et al., 2018 https://www3.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page Phyre2 Kelley et al., 2015 http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index SWISS-MODEL Waterhouse et al., 2018 https://swissmodel.expasy.org UCSF Chimera Pettersen et al., 2004 https://www.cgl.ucsf.edu/chimera/ UCSF ChimeraX Goddard et al., 2018 https://www.rbvi.ucsf.edu/chimerax/ PyMOL v2.1 Schrodinger https://pymol.org/2/ CCP-EM Burnley et al., 2017 https://www.ccpem.ac.uk/download.php Buccaneer Cowtan, 2006 http://www.ysbl.york.ac.uk/~cowtan/buccaneer/buccaneer.html Coot Emsley and Cowtan, 2004; Emsley et al., 2010 https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/ Phenix Adams et al., 2010; Afonine et al., 2018; DiMaio et al., 2013 https://www.phenix-online.org/ Molprobity Chen et al., 2010 http://molprobity.biochem.duke.edu/ Image Studio LI-COR Biosciences https://www.licor.com/bio/image-studio/ Fiji/ImageJ Schindelin et al., 2012 https://imagej.net/Welcome GraphPad Prism version 8.0 GraphPad Software http://www.graphpad.com:443/ ImageQuant TL Toolbox version 8.2 Cytiva (formerly GE Healthcare) https://www.cytivalifesciences.com DeepEMhancer Sanchez-Garcia et al., 2020 http://www.biorxiv.org Other QUANTIFOIL(r) R1.2/1.3, 100 Holey Carbon Films, Grids: Cu 200 mesh Quantifoil Micro Tools GmbH https://www.quantifoil.com IMEM Thermo Fisher Cat# 12440-053 Resource availability Lead contact Information and requests for resources and reagents should be directed to the Lead Contact, Prof. Dr. Brenda Schulman (schulman@biochem.mpg.de).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Monoclonal ANTI-FLAG M2 antibody Sigma Aldrich Cat# F1804; RRID: AB_262044 Anti-HA antibody produced in rabbit Sigma Aldrich Cat# H6908; RRID: AB_260070 Goat anti-rabbit IgG Dylight488 conjugated Invitrogen Cat# 35552; RRID: AB_844398 Goat anti-mouse IgG Dylight633 conjugated Invitrogen Cat# 35512; RRID: AB_1307538 Anti-rabbit peroxidase antibody produced in goat Sigma Aldrich Cat# A9169; RRID: AB_258434 Anti-mouse IgG Peroxidase antibody produced in goat Sigma Aldrich Cat# A4416; RRID: AB_258167 Anti-His antibody produced in mouse Cell Signaling Technology Cat# 9991; RRID: AB_2797714 Goat polyclonal anti-RMND5A antibody Santa Cruz Cat# sc-161202, RRID: AB_2181510 Sheep polyclonal anti-MAEA antibody R&D Systems Cat# AF7288-SP, RRID: AB_10971438 Rabbit polyclonal anti-RANBP9 antibody Abnova Cat# PAB16671; RRID: AB_10677213 Rabbit polyclonal anti-TWA1 antibody Novus Cat# NBP1-32596; RRID: AB_2274921 Mouse monoclonal anti-ARMC8 antibody Santa Cruz Cat# sc-365307; RRID: AB_10850172 Mouse monoclonal anti-MKLN1 antibody Santa Cruz Cat# sc-398956; RRID: AB_2737249 Rabbit polyclonal anti-WDR26 antibody Bethyl Laboratories Cat# A302-245A; RRID: AB_1730876 Rabbit polyclonal anti-YPEL5 antibody Thermo Fisher Cat# PA5-26957; RRID: AB_2544457 Sheep polyclonal anti-hGid4 This study N/A HaloLink Resin Promega Cat# G1912 ANTI-FLAG M2 affinity gel Sigma Aldrich Cat# A2220 His-Select Nickel affinity gel Sigma Aldrich Cat# P6611 Glutathione Sepharose 4B GE Healthcare Cat# 17075605 StrepTactin Sepharose High Performance resin cytiva Cat# 28935599 His-Halo UBAUBQLN1 This study N/A Critical commercial assays EnzChek Phosphate Assay Kit ThermoFisher Scientific Cat# E6646 Bacterial and virus strains E. coli BL21 RIL (DE3) MPIB N/A E. coli DH5a MPIB N/A Chemicals, peptides, and recombinant proteins complete EDTA free Roche Cat# 05056489001 Aprotinin from bovine lung Sigma A1153-10MG Leupeptin Sigma L2884-250MG Benzamidine Sigma B6506-25G GGGGGFYVK-FAM MPIB N/A PTLVNGWPR MPIB N/A PTLVNGPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A PGLWRSPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A 3xFLAG peptide MPIB N/A Deposited data Apo Chelator-GIDSR4 This study EMDB: EMD-12541 Chelator-GIDSR4 + Fbp1 This study EMDB: EMD-12557 GIDSR4 This study EMDB: EMD-12548 SRS module This study EMDB: EMD-12559; PDB: 7NS3 Cat module This study EMDB: EMD-12560; PDB: 7NS4 SA module This study EMDB: EMD-12563; PDB: 7NSB Endogenous GIDAnt This study EMDB: EMD-12538 Endogenous Chelator-GIDAnt This study EMDB: EMD-12540 CTLHSR4 This study EMDB: EMD-12537 CTLHSR4 SRS module This study EMDB: EMD-12564; PDB: 7NSC CTLH-WDR26 SA and SRS modules This study EMDB: EMD-12545 CTLH-WDR26 supramolecular assembly This study EMDB: EMD-12542 CTLH-MKLN1 SA and SRS modules This study EMDB: EMD-12547 Fbp1 (crystal structure) This study PDB: 7NS5 Proteomics data This study PXD024462 Raw image data This study http://dx.doi.org/10.17632/rfpsg6939c.1 Experimental models: Cell lines Sf9 Insect cells Thermo Fisher Cat# 11496015 High Five Insect cells Thermo Fisher Cat# B85502 K562 human cells ATCC ATCC#CCL-243; RRID: CVCL_00004 Experimental models: Organisms/strains Saccharomyces cerevisiae: Strain S288C: BY4741; MATa his3D1leu2D0 met15D0 ura3D0 Euroscarf Cat# Y00000 CRLY12; BY4741, Gid4::KANMX This study N/A CRLY14; BY4741, Gid7::KANMX This study N/A CRLY45; BY4741, Gid8::Gid8-3xFLAG-KANMX Qiao et. al., 2020 N/A CRLY131; BY4741, Gid2::3xFLAG-Gid2 (K365A) Qiao et. al., 2020 N/A CRLY241; BY4741, Gid7::KANMX, Gid8::Gid8-3xFLAG-HPHNT1 This study N/A CRLY267; BY4741, Gid7::Gid7-3xHA-HPHNT1, Gid5::Gid5-3xFLAG-KANMX This study N/A CRLY498; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2 This study N/A CRLY504; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2, Gid7:KANMX This study N/A Recombinant DNA pCSJ95 Chen et al., 2017 N/A pCSJ125 Chen et al., 2017 N/A VBP6; pRS313-pGPD-Pck1-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC1; pRS313-pGPD-Fbp1-K32R/K35R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC2; pRS313-pGPD-Fbp1-K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC3; pRS313-pGPD-Fbp1-K32R/K35R/K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A pRS415-pTEF-CYC This study N/A pRS415-pTEF-GFP-ScGid4-CYC This study N/A pLIB Gid1 This study N/A pLIB Gid2 This study N/A pLIB Gid4 This study N/A pLIB Gid5 This study N/A pLIB Gid7 This study N/A pLIB Gid8-TEV-2xStrep This study N/A pLIB Gid8 This study N/A pLIB Gid9 This study N/A pLIB RANBP9 This study N/A pLIB RMND5A This study N/A pLIB hGid4 This study N/A pLIB ARMC8 This study N/A pLIB 2xStrep-3C-ARMC8 This study N/A pLIB MAEA This study N/A pLIB WDR26 This study N/A pLIB GST-TEV-WDR26 This study N/A pLIB MKLN1 This study N/A pLIB YPEL5 This study N/A pLIB MAEA Y394A This study N/A pLIB RMND5A R340A This study N/A pLIB RMND5A I338A/L339A This study N/A pLIB GST-TEV-Uba1 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9:Gid7 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9:Gid7 This study N/A pBIG1 RANBP9:TWA1-TEV-2xS:ARMC8 This study N/A pBIG1 RANBP9:TWA1:2xS-3C-ARMC8 This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A:MAEA This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:MAEA This study N/A pGEX GST-TEV-Gid4 (D1-116) This study N/A pGEX GST-TEV-Gid7 This study N/A pGEX GST-TEV-Gid7 (D1-285) This study N/A pGEX GST-TEV-hGid4 (D1-99) This study N/A pGEX GST-TEV-hGid4 (R189A) This study N/A pGEX GST-TEV-hGid4 (Y154A) This study N/A pGEX GST-TEV-hGid4 (F174A) This study N/A pGEX GST-TEV-hGid4 (F239A) This study N/A pGEX GST-TEV-hGid4 (C156D) This study N/A pGEX GST-TEV-hGid4 (E298A) This study N/A pGEX GST-TEV-hGid4 (H147D) This study N/A pGEX GST-TEV-hGid4 (Y158A/F174A) This study N/A pGEX GST-TEV-hGid4 (Y158A/F239A) This study N/A pGEX GST-TEV-hGid4 (F174A/F239A) This study N/A pGEX GST-TEV-hGid4 (Y297A/F229A) This study N/A pGEX GST-TEV-hGid4 (D297-300) This study N/A pRSF Ubc8-6xHis This study N/A pRSF Fbp1-6xHis This study N/A pRSF Fbp1 (K32R/K35R)-6xHis This study N/A pRSF Fbp1 (K280R/K281R)-6xHis This study N/A pRSF Fbp1 (K32R/K35R/K280R/K281R)-6xHis This study N/A pRSF Fbp1-GGGGS-sortag-6xHis This study N/A pRSF Mdh2-GGGGS-sortag-6xHis This study N/A pRSF Pck1-GGGGS-sortag-6xHis This study N/A pQlink Fbp1-TEV-V5-2xS This study N/A pRSF Ube2H-6xHis This study N/A pGEX GST-3C-Ub This study N/A pGEX GST-3C-Ub K0 (all K > R) This study N/A pGEX GST-3C-Ub K6 (all K > R; R6K) This study N/A pGEX GST-3C-Ub K11 (all K > R; R11K) This study N/A pGEX GST-3C-Ub K27 (all K > R; R27K) This study N/A pGEX GST-3C-Ub K29 (all K > R; R29K) This study N/A pGEX GST-3C-Ub K33 (all K > R; R33K) This study N/A pGEX GST-3C-Ub K48 (all K > R; R48K) This study N/A pGEX GST-3C-Ub K63 (all K > R; R63K) This study N/A pET3b Ub This study N/A pET29 sortase A Chen et al., 2011b N/A Software and algorithms FOCUS Biyani et al., 2017 https://focus.c-cina.unibas.ch/documentation.php SerialEM Mastronarde, 2003 https://bio3d.colorado.edu/SerialEM/ MOTIONCOR2 Zheng et al., 2017 https://emcore.ucsf.edu/ucsf-software Gctf Zhang, 2016 https://www2.mrc-lmb.cam.ac.uk/download/gctf/ Gautomatch Kai Zhang https://www2.mrc-lmb.cam.ac.uk/download/gautomatch-053/ Relion3.0/3.1 Fernandez-Leiro and Scheres, 2017; Scheres, 2012; Zivanov et al., 2018 https://www3.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page Phyre2 Kelley et al., 2015 http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index SWISS-MODEL Waterhouse et al., 2018 https://swissmodel.expasy.org UCSF Chimera Pettersen et al., 2004 https://www.cgl.ucsf.edu/chimera/ UCSF ChimeraX Goddard et al., 2018 https://www.rbvi.ucsf.edu/chimerax/ PyMOL v2.1 Schrodinger https://pymol.org/2/ CCP-EM Burnley et al., 2017 https://www.ccpem.ac.uk/download.php Buccaneer Cowtan, 2006 http://www.ysbl.york.ac.uk/~cowtan/buccaneer/buccaneer.html Coot Emsley and Cowtan, 2004; Emsley et al., 2010 https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/ Phenix Adams et al., 2010; Afonine et al., 2018; DiMaio et al., 2013 https://www.phenix-online.org/ Molprobity Chen et al., 2010 http://molprobity.biochem.duke.edu/ Image Studio LI-COR Biosciences https://www.licor.com/bio/image-studio/ Fiji/ImageJ Schindelin et al., 2012 https://imagej.net/Welcome GraphPad Prism version 8.0 GraphPad Software http://www.graphpad.com:443/ ImageQuant TL Toolbox version 8.2 Cytiva (formerly GE Healthcare) https://www.cytivalifesciences.com DeepEMhancer Sanchez-Garcia et al., 2020 http://www.biorxiv.org Other QUANTIFOIL(r) R1.2/1.3, 100 Holey Carbon Films, Grids: Cu 200 mesh Quantifoil Micro Tools GmbH https://www.quantifoil.com IMEM Thermo Fisher Cat# 12440-053 Resource availability Lead contact Information and requests for resources and reagents should be directed to the Lead Contact, Prof. Dr. Brenda Schulman (schulman@biochem.mpg.de)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0004",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "K562"
+                }],
+              "neText" : "K562"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Data and code availability The accession codes for the PDB models and EM maps are available in RCSB and EMDB, respectively, as follows: Apo Chelator-GIDSR4, EMDB: EMD-12541; Chelator-GIDSR4 + Fbp1, EMDB: EMD-12557; GIDSR4, EMDB: EMD-12548; SRS module, EMDB: EMD-12559, PDB: 7NS3; Cat module, EMDB: EMD-12560; PDB: 7NS4; SA module, EMDB: EMD-12563; PDB: 7NSB; Endogenous GIDAnt, EMDB: EMD-12538; Endogenous Chelator-GIDAnt, EMDB: EMD-12540; CTLHSR4, EMDB: EMD-12537; CTLHSR4 SRS module, EMDB:EMD-12564; PDB: 7NSC; CTLH-WDR26 supramolecular assembly, EMDB: EMD-12542; CTLH-WDR26 SA and SRS modules, EMDB: EMD-12545; CTLH-MKLN1 SA and SRS modules, EMDB: EMD-12547; Fbp1 crystal structure, PDB: 7NS5.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data and code availability The accession codes for the PDB models and EM maps are available in RCSB and EMDB, respectively, as follows: Apo Chelator-GIDSR4, EMDB: EMD-12541; Chelator-GIDSR4 + Fbp1, EMDB: EMD-12557; GIDSR4, EMDB: EMD-12548; SRS module, EMDB: EMD-12559, PDB: 7NS3; Cat module, EMDB: EMD-12560; PDB: 7NS4; SA module, EMDB: EMD-12563; PDB: 7NSB; Endogenous GIDAnt, EMDB: EMD-12538; Endogenous Chelator-GIDAnt, EMDB: EMD-12540; CTLHSR4, EMDB: EMD-12537; CTLHSR4 SRS module, EMDB:EMD-12564; PDB: 7NSC; CTLH-WDR26 supramolecular assembly, EMDB: EMD-12542; CTLH-WDR26 SA and SRS modules, EMDB: EMD-12545; CTLH-MKLN1 SA and SRS modules, EMDB: EMD-12547; Fbp1 crystal structure, PDB: 7NS5."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Chelator-GIDSR4 + Fbp1"
+                }],
+              "neText" : "Chelator-GIDSR4 + Fbp1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "To test if overexpression of Gid4 affects degradation of Fbp1 in DGid7 yeast (Figure S1E), the GFP-Gid4 overexpression plasmid was transformed together with the Fbp1-3xFLAG PRT plasmid into different yeast strains (WT, DGid7 and a Gid2K365A catalytically inactive mutant).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To test if overexpression of Gid4 affects degradation of Fbp1 in DGid7 yeast (Figure S1E), the GFP-Gid4 overexpression plasmid was transformed together with the Fbp1-3xFLAG PRT plasmid into different yeast strains (WT, DGid7 and a Gid2K365A catalytically inactive mutant)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fbp1-3xFLAG PRT"
+                }],
+              "neText" : "Fbp1-3xFLAG PRT"
+            }]
+        }, {
+          "sentence" : "Sense and antisense gRNA were cloned into pBABED-U6-Puromycin plasmid (gift from Thomas Macartney, University of Dundee, UK) and pX335-Cas9(D10A) (Addgene) (Cong et al., 2013), respectively.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Sense and antisense gRNA were cloned into pBABED-U6-Puromycin plasmid (gift from Thomas Macartney, University of Dundee, UK) and pX335-Cas9(D10A) (Addgene) (Cong et al., 2013), respectively."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pBABED-U6-Puromycin"
+                }],
+              "neText" : "pBABED-U6-Puromycin"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Monoclonal ANTI-FLAG M2 antibody Sigma Aldrich Cat# F1804; RRID: AB_262044 Anti-HA antibody produced in rabbit Sigma Aldrich Cat# H6908; RRID: AB_260070 Goat anti-rabbit IgG Dylight488 conjugated Invitrogen Cat# 35552; RRID: AB_844398 Goat anti-mouse IgG Dylight633 conjugated Invitrogen Cat# 35512; RRID: AB_1307538 Anti-rabbit peroxidase antibody produced in goat Sigma Aldrich Cat# A9169; RRID: AB_258434 Anti-mouse IgG Peroxidase antibody produced in goat Sigma Aldrich Cat# A4416; RRID: AB_258167 Anti-His antibody produced in mouse Cell Signaling Technology Cat# 9991; RRID: AB_2797714 Goat polyclonal anti-RMND5A antibody Santa Cruz Cat# sc-161202, RRID: AB_2181510 Sheep polyclonal anti-MAEA antibody R&D Systems Cat# AF7288-SP, RRID: AB_10971438 Rabbit polyclonal anti-RANBP9 antibody Abnova Cat# PAB16671; RRID: AB_10677213 Rabbit polyclonal anti-TWA1 antibody Novus Cat# NBP1-32596; RRID: AB_2274921 Mouse monoclonal anti-ARMC8 antibody Santa Cruz Cat# sc-365307; RRID: AB_10850172 Mouse monoclonal anti-MKLN1 antibody Santa Cruz Cat# sc-398956; RRID: AB_2737249 Rabbit polyclonal anti-WDR26 antibody Bethyl Laboratories Cat# A302-245A; RRID: AB_1730876 Rabbit polyclonal anti-YPEL5 antibody Thermo Fisher Cat# PA5-26957; RRID: AB_2544457 Sheep polyclonal anti-hGid4 This study N/A HaloLink Resin Promega Cat# G1912 ANTI-FLAG M2 affinity gel Sigma Aldrich Cat# A2220 His-Select Nickel affinity gel Sigma Aldrich Cat# P6611 Glutathione Sepharose 4B GE Healthcare Cat# 17075605 StrepTactin Sepharose High Performance resin cytiva Cat# 28935599 His-Halo UBAUBQLN1 This study N/A Critical commercial assays EnzChek Phosphate Assay Kit ThermoFisher Scientific Cat# E6646 Bacterial and virus strains E. coli BL21 RIL (DE3) MPIB N/A E. coli DH5a MPIB N/A Chemicals, peptides, and recombinant proteins complete EDTA free Roche Cat# 05056489001 Aprotinin from bovine lung Sigma A1153-10MG Leupeptin Sigma L2884-250MG Benzamidine Sigma B6506-25G GGGGGFYVK-FAM MPIB N/A PTLVNGWPR MPIB N/A PTLVNGPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A PGLWRSPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A 3xFLAG peptide MPIB N/A Deposited data Apo Chelator-GIDSR4 This study EMDB: EMD-12541 Chelator-GIDSR4 + Fbp1 This study EMDB: EMD-12557 GIDSR4 This study EMDB: EMD-12548 SRS module This study EMDB: EMD-12559; PDB: 7NS3 Cat module This study EMDB: EMD-12560; PDB: 7NS4 SA module This study EMDB: EMD-12563; PDB: 7NSB Endogenous GIDAnt This study EMDB: EMD-12538 Endogenous Chelator-GIDAnt This study EMDB: EMD-12540 CTLHSR4 This study EMDB: EMD-12537 CTLHSR4 SRS module This study EMDB: EMD-12564; PDB: 7NSC CTLH-WDR26 SA and SRS modules This study EMDB: EMD-12545 CTLH-WDR26 supramolecular assembly This study EMDB: EMD-12542 CTLH-MKLN1 SA and SRS modules This study EMDB: EMD-12547 Fbp1 (crystal structure) This study PDB: 7NS5 Proteomics data This study PXD024462 Raw image data This study http://dx.doi.org/10.17632/rfpsg6939c.1 Experimental models: Cell lines Sf9 Insect cells Thermo Fisher Cat# 11496015 High Five Insect cells Thermo Fisher Cat# B85502 K562 human cells ATCC ATCC#CCL-243; RRID: CVCL_00004 Experimental models: Organisms/strains Saccharomyces cerevisiae: Strain S288C: BY4741; MATa his3D1leu2D0 met15D0 ura3D0 Euroscarf Cat# Y00000 CRLY12; BY4741, Gid4::KANMX This study N/A CRLY14; BY4741, Gid7::KANMX This study N/A CRLY45; BY4741, Gid8::Gid8-3xFLAG-KANMX Qiao et. al., 2020 N/A CRLY131; BY4741, Gid2::3xFLAG-Gid2 (K365A) Qiao et. al., 2020 N/A CRLY241; BY4741, Gid7::KANMX, Gid8::Gid8-3xFLAG-HPHNT1 This study N/A CRLY267; BY4741, Gid7::Gid7-3xHA-HPHNT1, Gid5::Gid5-3xFLAG-KANMX This study N/A CRLY498; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2 This study N/A CRLY504; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2, Gid7:KANMX This study N/A Recombinant DNA pCSJ95 Chen et al., 2017 N/A pCSJ125 Chen et al., 2017 N/A VBP6; pRS313-pGPD-Pck1-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC1; pRS313-pGPD-Fbp1-K32R/K35R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC2; pRS313-pGPD-Fbp1-K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC3; pRS313-pGPD-Fbp1-K32R/K35R/K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A pRS415-pTEF-CYC This study N/A pRS415-pTEF-GFP-ScGid4-CYC This study N/A pLIB Gid1 This study N/A pLIB Gid2 This study N/A pLIB Gid4 This study N/A pLIB Gid5 This study N/A pLIB Gid7 This study N/A pLIB Gid8-TEV-2xStrep This study N/A pLIB Gid8 This study N/A pLIB Gid9 This study N/A pLIB RANBP9 This study N/A pLIB RMND5A This study N/A pLIB hGid4 This study N/A pLIB ARMC8 This study N/A pLIB 2xStrep-3C-ARMC8 This study N/A pLIB MAEA This study N/A pLIB WDR26 This study N/A pLIB GST-TEV-WDR26 This study N/A pLIB MKLN1 This study N/A pLIB YPEL5 This study N/A pLIB MAEA Y394A This study N/A pLIB RMND5A R340A This study N/A pLIB RMND5A I338A/L339A This study N/A pLIB GST-TEV-Uba1 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9:Gid7 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9:Gid7 This study N/A pBIG1 RANBP9:TWA1-TEV-2xS:ARMC8 This study N/A pBIG1 RANBP9:TWA1:2xS-3C-ARMC8 This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A:MAEA This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:MAEA This study N/A pGEX GST-TEV-Gid4 (D1-116) This study N/A pGEX GST-TEV-Gid7 This study N/A pGEX GST-TEV-Gid7 (D1-285) This study N/A pGEX GST-TEV-hGid4 (D1-99) This study N/A pGEX GST-TEV-hGid4 (R189A) This study N/A pGEX GST-TEV-hGid4 (Y154A) This study N/A pGEX GST-TEV-hGid4 (F174A) This study N/A pGEX GST-TEV-hGid4 (F239A) This study N/A pGEX GST-TEV-hGid4 (C156D) This study N/A pGEX GST-TEV-hGid4 (E298A) This study N/A pGEX GST-TEV-hGid4 (H147D) This study N/A pGEX GST-TEV-hGid4 (Y158A/F174A) This study N/A pGEX GST-TEV-hGid4 (Y158A/F239A) This study N/A pGEX GST-TEV-hGid4 (F174A/F239A) This study N/A pGEX GST-TEV-hGid4 (Y297A/F229A) This study N/A pGEX GST-TEV-hGid4 (D297-300) This study N/A pRSF Ubc8-6xHis This study N/A pRSF Fbp1-6xHis This study N/A pRSF Fbp1 (K32R/K35R)-6xHis This study N/A pRSF Fbp1 (K280R/K281R)-6xHis This study N/A pRSF Fbp1 (K32R/K35R/K280R/K281R)-6xHis This study N/A pRSF Fbp1-GGGGS-sortag-6xHis This study N/A pRSF Mdh2-GGGGS-sortag-6xHis This study N/A pRSF Pck1-GGGGS-sortag-6xHis This study N/A pQlink Fbp1-TEV-V5-2xS This study N/A pRSF Ube2H-6xHis This study N/A pGEX GST-3C-Ub This study N/A pGEX GST-3C-Ub K0 (all K > R) This study N/A pGEX GST-3C-Ub K6 (all K > R; R6K) This study N/A pGEX GST-3C-Ub K11 (all K > R; R11K) This study N/A pGEX GST-3C-Ub K27 (all K > R; R27K) This study N/A pGEX GST-3C-Ub K29 (all K > R; R29K) This study N/A pGEX GST-3C-Ub K33 (all K > R; R33K) This study N/A pGEX GST-3C-Ub K48 (all K > R; R48K) This study N/A pGEX GST-3C-Ub K63 (all K > R; R63K) This study N/A pET3b Ub This study N/A pET29 sortase A Chen et al., 2011b N/A Software and algorithms FOCUS Biyani et al., 2017 https://focus.c-cina.unibas.ch/documentation.php SerialEM Mastronarde, 2003 https://bio3d.colorado.edu/SerialEM/ MOTIONCOR2 Zheng et al., 2017 https://emcore.ucsf.edu/ucsf-software Gctf Zhang, 2016 https://www2.mrc-lmb.cam.ac.uk/download/gctf/ Gautomatch Kai Zhang https://www2.mrc-lmb.cam.ac.uk/download/gautomatch-053/ Relion3.0/3.1 Fernandez-Leiro and Scheres, 2017; Scheres, 2012; Zivanov et al., 2018 https://www3.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page Phyre2 Kelley et al., 2015 http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index SWISS-MODEL Waterhouse et al., 2018 https://swissmodel.expasy.org UCSF Chimera Pettersen et al., 2004 https://www.cgl.ucsf.edu/chimera/ UCSF ChimeraX Goddard et al., 2018 https://www.rbvi.ucsf.edu/chimerax/ PyMOL v2.1 Schrodinger https://pymol.org/2/ CCP-EM Burnley et al., 2017 https://www.ccpem.ac.uk/download.php Buccaneer Cowtan, 2006 http://www.ysbl.york.ac.uk/~cowtan/buccaneer/buccaneer.html Coot Emsley and Cowtan, 2004; Emsley et al., 2010 https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/ Phenix Adams et al., 2010; Afonine et al., 2018; DiMaio et al., 2013 https://www.phenix-online.org/ Molprobity Chen et al., 2010 http://molprobity.biochem.duke.edu/ Image Studio LI-COR Biosciences https://www.licor.com/bio/image-studio/ Fiji/ImageJ Schindelin et al., 2012 https://imagej.net/Welcome GraphPad Prism version 8.0 GraphPad Software http://www.graphpad.com:443/ ImageQuant TL Toolbox version 8.2 Cytiva (formerly GE Healthcare) https://www.cytivalifesciences.com DeepEMhancer Sanchez-Garcia et al., 2020 http://www.biorxiv.org Other QUANTIFOIL(r) R1.2/1.3, 100 Holey Carbon Films, Grids: Cu 200 mesh Quantifoil Micro Tools GmbH https://www.quantifoil.com IMEM Thermo Fisher Cat# 12440-053 Resource availability Lead contact Information and requests for resources and reagents should be directed to the Lead Contact, Prof. Dr. Brenda Schulman (schulman@biochem.mpg.de).",
+          "rowSpan" : 9,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Monoclonal ANTI-FLAG M2 antibody Sigma Aldrich Cat# F1804; RRID: AB_262044 Anti-HA antibody produced in rabbit Sigma Aldrich Cat# H6908; RRID: AB_260070 Goat anti-rabbit IgG Dylight488 conjugated Invitrogen Cat# 35552; RRID: AB_844398 Goat anti-mouse IgG Dylight633 conjugated Invitrogen Cat# 35512; RRID: AB_1307538 Anti-rabbit peroxidase antibody produced in goat Sigma Aldrich Cat# A9169; RRID: AB_258434 Anti-mouse IgG Peroxidase antibody produced in goat Sigma Aldrich Cat# A4416; RRID: AB_258167 Anti-His antibody produced in mouse Cell Signaling Technology Cat# 9991; RRID: AB_2797714 Goat polyclonal anti-RMND5A antibody Santa Cruz Cat# sc-161202, RRID: AB_2181510 Sheep polyclonal anti-MAEA antibody R&D Systems Cat# AF7288-SP, RRID: AB_10971438 Rabbit polyclonal anti-RANBP9 antibody Abnova Cat# PAB16671; RRID: AB_10677213 Rabbit polyclonal anti-TWA1 antibody Novus Cat# NBP1-32596; RRID: AB_2274921 Mouse monoclonal anti-ARMC8 antibody Santa Cruz Cat# sc-365307; RRID: AB_10850172 Mouse monoclonal anti-MKLN1 antibody Santa Cruz Cat# sc-398956; RRID: AB_2737249 Rabbit polyclonal anti-WDR26 antibody Bethyl Laboratories Cat# A302-245A; RRID: AB_1730876 Rabbit polyclonal anti-YPEL5 antibody Thermo Fisher Cat# PA5-26957; RRID: AB_2544457 Sheep polyclonal anti-hGid4 This study N/A HaloLink Resin Promega Cat# G1912 ANTI-FLAG M2 affinity gel Sigma Aldrich Cat# A2220 His-Select Nickel affinity gel Sigma Aldrich Cat# P6611 Glutathione Sepharose 4B GE Healthcare Cat# 17075605 StrepTactin Sepharose High Performance resin cytiva Cat# 28935599 His-Halo UBAUBQLN1 This study N/A Critical commercial assays EnzChek Phosphate Assay Kit ThermoFisher Scientific Cat# E6646 Bacterial and virus strains E. coli BL21 RIL (DE3) MPIB N/A E. coli DH5a MPIB N/A Chemicals, peptides, and recombinant proteins complete EDTA free Roche Cat# 05056489001 Aprotinin from bovine lung Sigma A1153-10MG Leupeptin Sigma L2884-250MG Benzamidine Sigma B6506-25G GGGGGFYVK-FAM MPIB N/A PTLVNGWPR MPIB N/A PTLVNGPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A PGLWRSPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A 3xFLAG peptide MPIB N/A Deposited data Apo Chelator-GIDSR4 This study EMDB: EMD-12541 Chelator-GIDSR4 + Fbp1 This study EMDB: EMD-12557 GIDSR4 This study EMDB: EMD-12548 SRS module This study EMDB: EMD-12559; PDB: 7NS3 Cat module This study EMDB: EMD-12560; PDB: 7NS4 SA module This study EMDB: EMD-12563; PDB: 7NSB Endogenous GIDAnt This study EMDB: EMD-12538 Endogenous Chelator-GIDAnt This study EMDB: EMD-12540 CTLHSR4 This study EMDB: EMD-12537 CTLHSR4 SRS module This study EMDB: EMD-12564; PDB: 7NSC CTLH-WDR26 SA and SRS modules This study EMDB: EMD-12545 CTLH-WDR26 supramolecular assembly This study EMDB: EMD-12542 CTLH-MKLN1 SA and SRS modules This study EMDB: EMD-12547 Fbp1 (crystal structure) This study PDB: 7NS5 Proteomics data This study PXD024462 Raw image data This study http://dx.doi.org/10.17632/rfpsg6939c.1 Experimental models: Cell lines Sf9 Insect cells Thermo Fisher Cat# 11496015 High Five Insect cells Thermo Fisher Cat# B85502 K562 human cells ATCC ATCC#CCL-243; RRID: CVCL_00004 Experimental models: Organisms/strains Saccharomyces cerevisiae: Strain S288C: BY4741; MATa his3D1leu2D0 met15D0 ura3D0 Euroscarf Cat# Y00000 CRLY12; BY4741, Gid4::KANMX This study N/A CRLY14; BY4741, Gid7::KANMX This study N/A CRLY45; BY4741, Gid8::Gid8-3xFLAG-KANMX Qiao et. al., 2020 N/A CRLY131; BY4741, Gid2::3xFLAG-Gid2 (K365A) Qiao et. al., 2020 N/A CRLY241; BY4741, Gid7::KANMX, Gid8::Gid8-3xFLAG-HPHNT1 This study N/A CRLY267; BY4741, Gid7::Gid7-3xHA-HPHNT1, Gid5::Gid5-3xFLAG-KANMX This study N/A CRLY498; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2 This study N/A CRLY504; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2, Gid7:KANMX This study N/A Recombinant DNA pCSJ95 Chen et al., 2017 N/A pCSJ125 Chen et al., 2017 N/A VBP6; pRS313-pGPD-Pck1-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC1; pRS313-pGPD-Fbp1-K32R/K35R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC2; pRS313-pGPD-Fbp1-K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC3; pRS313-pGPD-Fbp1-K32R/K35R/K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A pRS415-pTEF-CYC This study N/A pRS415-pTEF-GFP-ScGid4-CYC This study N/A pLIB Gid1 This study N/A pLIB Gid2 This study N/A pLIB Gid4 This study N/A pLIB Gid5 This study N/A pLIB Gid7 This study N/A pLIB Gid8-TEV-2xStrep This study N/A pLIB Gid8 This study N/A pLIB Gid9 This study N/A pLIB RANBP9 This study N/A pLIB RMND5A This study N/A pLIB hGid4 This study N/A pLIB ARMC8 This study N/A pLIB 2xStrep-3C-ARMC8 This study N/A pLIB MAEA This study N/A pLIB WDR26 This study N/A pLIB GST-TEV-WDR26 This study N/A pLIB MKLN1 This study N/A pLIB YPEL5 This study N/A pLIB MAEA Y394A This study N/A pLIB RMND5A R340A This study N/A pLIB RMND5A I338A/L339A This study N/A pLIB GST-TEV-Uba1 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9:Gid7 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9:Gid7 This study N/A pBIG1 RANBP9:TWA1-TEV-2xS:ARMC8 This study N/A pBIG1 RANBP9:TWA1:2xS-3C-ARMC8 This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A:MAEA This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:MAEA This study N/A pGEX GST-TEV-Gid4 (D1-116) This study N/A pGEX GST-TEV-Gid7 This study N/A pGEX GST-TEV-Gid7 (D1-285) This study N/A pGEX GST-TEV-hGid4 (D1-99) This study N/A pGEX GST-TEV-hGid4 (R189A) This study N/A pGEX GST-TEV-hGid4 (Y154A) This study N/A pGEX GST-TEV-hGid4 (F174A) This study N/A pGEX GST-TEV-hGid4 (F239A) This study N/A pGEX GST-TEV-hGid4 (C156D) This study N/A pGEX GST-TEV-hGid4 (E298A) This study N/A pGEX GST-TEV-hGid4 (H147D) This study N/A pGEX GST-TEV-hGid4 (Y158A/F174A) This study N/A pGEX GST-TEV-hGid4 (Y158A/F239A) This study N/A pGEX GST-TEV-hGid4 (F174A/F239A) This study N/A pGEX GST-TEV-hGid4 (Y297A/F229A) This study N/A pGEX GST-TEV-hGid4 (D297-300) This study N/A pRSF Ubc8-6xHis This study N/A pRSF Fbp1-6xHis This study N/A pRSF Fbp1 (K32R/K35R)-6xHis This study N/A pRSF Fbp1 (K280R/K281R)-6xHis This study N/A pRSF Fbp1 (K32R/K35R/K280R/K281R)-6xHis This study N/A pRSF Fbp1-GGGGS-sortag-6xHis This study N/A pRSF Mdh2-GGGGS-sortag-6xHis This study N/A pRSF Pck1-GGGGS-sortag-6xHis This study N/A pQlink Fbp1-TEV-V5-2xS This study N/A pRSF Ube2H-6xHis This study N/A pGEX GST-3C-Ub This study N/A pGEX GST-3C-Ub K0 (all K > R) This study N/A pGEX GST-3C-Ub K6 (all K > R; R6K) This study N/A pGEX GST-3C-Ub K11 (all K > R; R11K) This study N/A pGEX GST-3C-Ub K27 (all K > R; R27K) This study N/A pGEX GST-3C-Ub K29 (all K > R; R29K) This study N/A pGEX GST-3C-Ub K33 (all K > R; R33K) This study N/A pGEX GST-3C-Ub K48 (all K > R; R48K) This study N/A pGEX GST-3C-Ub K63 (all K > R; R63K) This study N/A pET3b Ub This study N/A pET29 sortase A Chen et al., 2011b N/A Software and algorithms FOCUS Biyani et al., 2017 https://focus.c-cina.unibas.ch/documentation.php SerialEM Mastronarde, 2003 https://bio3d.colorado.edu/SerialEM/ MOTIONCOR2 Zheng et al., 2017 https://emcore.ucsf.edu/ucsf-software Gctf Zhang, 2016 https://www2.mrc-lmb.cam.ac.uk/download/gctf/ Gautomatch Kai Zhang https://www2.mrc-lmb.cam.ac.uk/download/gautomatch-053/ Relion3.0/3.1 Fernandez-Leiro and Scheres, 2017; Scheres, 2012; Zivanov et al., 2018 https://www3.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page Phyre2 Kelley et al., 2015 http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index SWISS-MODEL Waterhouse et al., 2018 https://swissmodel.expasy.org UCSF Chimera Pettersen et al., 2004 https://www.cgl.ucsf.edu/chimera/ UCSF ChimeraX Goddard et al., 2018 https://www.rbvi.ucsf.edu/chimerax/ PyMOL v2.1 Schrodinger https://pymol.org/2/ CCP-EM Burnley et al., 2017 https://www.ccpem.ac.uk/download.php Buccaneer Cowtan, 2006 http://www.ysbl.york.ac.uk/~cowtan/buccaneer/buccaneer.html Coot Emsley and Cowtan, 2004; Emsley et al., 2010 https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/ Phenix Adams et al., 2010; Afonine et al., 2018; DiMaio et al., 2013 https://www.phenix-online.org/ Molprobity Chen et al., 2010 http://molprobity.biochem.duke.edu/ Image Studio LI-COR Biosciences https://www.licor.com/bio/image-studio/ Fiji/ImageJ Schindelin et al., 2012 https://imagej.net/Welcome GraphPad Prism version 8.0 GraphPad Software http://www.graphpad.com:443/ ImageQuant TL Toolbox version 8.2 Cytiva (formerly GE Healthcare) https://www.cytivalifesciences.com DeepEMhancer Sanchez-Garcia et al., 2020 http://www.biorxiv.org Other QUANTIFOIL(r) R1.2/1.3, 100 Holey Carbon Films, Grids: Cu 200 mesh Quantifoil Micro Tools GmbH https://www.quantifoil.com IMEM Thermo Fisher Cat# 12440-053 Resource availability Lead contact Information and requests for resources and reagents should be directed to the Lead Contact, Prof. Dr. Brenda Schulman (schulman@biochem.mpg.de)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Thermo Fisher Cat#"
+                }],
+              "neText" : "Thermo Fisher Cat#"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PyMOL, RRID:SCR_000305",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PyMOL"
+                }],
+              "neText" : "PyMOL"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/"
+                }],
+              "neText" : "https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://www.phenix-online.org/"
+                }],
+              "neText" : "https://www.phenix-online.org/"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Molprobity"
+                }],
+              "neText" : "Molprobity"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://molprobity.biochem.duke.edu/"
+                }],
+              "neText" : "http://molprobity.biochem.duke.edu/"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://www.graphpad.com:443/"
+                }],
+              "neText" : "http://www.graphpad.com:443/"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageQuant"
+                }],
+              "neText" : "ImageQuant"
+            }]
+        }, {
+          "sentence" : "All proteomics data have been deposited on ProteomeXchange with the dataset identifier PRIDE: PXD024462.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All proteomics data have been deposited on ProteomeXchange with the dataset identifier PRIDE: PXD024462."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ProteomeXchange"
+                }],
+              "neText" : "ProteomeXchange"
+            }]
+        }, {
+          "sentence" : "The values of A360 obtained for the buffer-only control were subtracted from all the experimental measurements, which were then plotted in GraphPad Prism.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The values of A360 obtained for the buffer-only control were subtracted from all the experimental measurements, which were then plotted in GraphPad Prism."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }, {
+          "sentence" : "The Perseus software package version 1.6.0.7 was used for the data analysis (Tyanova et al., 2016).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Perseus software package version 1.6.0.7 was used for the data analysis (Tyanova et al., 2016)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Perseus"
+                }],
+              "neText" : "Perseus"
+            }]
+        }, {
+          "sentence" : "Raw MS data were searched against UniProt Yeast FASTA using MaxQuant (version 1.6.2.10) with a 1% FDR at peptide and protein level.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Raw MS data were searched against UniProt Yeast FASTA using MaxQuant (version 1.6.2.10) with a 1% FDR at peptide and protein level."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MaxQuant"
+                }],
+              "neText" : "MaxQuant"
+            }]
+        }, {
+          "sentence" : "Cell culture and generation of CRISPR-Cas9 knock out cell lines K562 erythroleukemia cell line was obtained from ATCC (CCL-243(tm)) and cultured in IMDM completed with 10% (v/v) FBS (GIBCO) and antibiotics (100 units/ml penicillin, 0.1 mg/ml streptomycin, GIBCO).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture and generation of CRISPR-Cas9 knock out cell lines K562 erythroleukemia cell line was obtained from ATCC (CCL-243(tm)) and cultured in IMDM completed with 10% (v/v) FBS (GIBCO) and antibiotics (100 units/ml penicillin, 0.1 mg/ml streptomycin, GIBCO)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GIBCO"
+                }],
+              "neText" : "GIBCO"
+            }]
+        }, {
+          "sentence" : "Fractions were collected from top of the gradient and separated by SDS-PAGE, followed by immunoblotting using the following antibodies: RMND5A (Santa Cruz), MAEA (R&D systems), RANBP9 (Novus Biologicals), TWA1 (Thermo Fisher), ARMC8 (Santa Cruz), WDR26 (Bethyl Laboratories), MKLN1 (Santa Cruz) and YPEL5 (Thermo Fisher).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Fractions were collected from top of the gradient and separated by SDS-PAGE, followed by immunoblotting using the following antibodies: RMND5A (Santa Cruz), MAEA (R&D systems), RANBP9 (Novus Biologicals), TWA1 (Thermo Fisher), ARMC8 (Santa Cruz), WDR26 (Bethyl Laboratories), MKLN1 (Santa Cruz) and YPEL5 (Thermo Fisher)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Novus Biologicals"
+                }],
+              "neText" : "Novus Biologicals"
+            }]
+        }, {
+          "sentence" : "Most of ARMC8 was built automatically with Buccaneer (Cowtan, 2006) and refined manually with Coot.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Most of ARMC8 was built automatically with Buccaneer (Cowtan, 2006) and refined manually with Coot."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Coot"
+                }],
+              "neText" : "Coot"
+            }]
+        }, {
+          "sentence" : "All the models were subjected to iterative rounds of manual building with Coot and real space refinement in PHENIX (Adams et al., 2010; Afonine et al., 2018; DiMaio et al., 2013) until a satisfactory model quality, in terms of its geometry and agreement with the map, was obtained.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All the models were subjected to iterative rounds of manual building with Coot and real space refinement in PHENIX (Adams et al., 2010; Afonine et al., 2018; DiMaio et al., 2013) until a satisfactory model quality, in terms of its geometry and agreement with the map, was obtained."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PHENIX"
+                }],
+              "neText" : "PHENIX"
+            }]
+        }, {
+          "sentence" : "Quantification and statistical analysis For the assays described in the section \"In vivo yeast substrate degradation assays,\" protein bands visualized by western blots were quantified using ImageStudioLite software (Li-Cor).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Quantification and statistical analysis For the assays described in the section \"In vivo yeast substrate degradation assays,\" protein bands visualized by western blots were quantified using ImageStudioLite software (Li-Cor)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageStudioLite"
+                }],
+              "neText" : "ImageStudioLite"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The missing values were subsequently replaced by random numbers that were drawn from a normal distribution (width = 0.3 and down shift = 1.8).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The missing values were subsequently replaced by random numbers that were drawn from a normal distribution (width = 0.3 and down shift = 1.8)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All the assays were performed in at least duplicates and some of them were quantified using image analysis software ImageQuant (GE healthcare; version 8.2).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the assays were performed in at least duplicates and some of them were quantified using image analysis software ImageQuant (GE healthcare; version 8.2)."
+              }],
+            "mention" : {
+              "neText" : "duplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicates"
+                }]
+            }
+          }, {
+            "sentence" : "All the assays were performed in at least duplicates and some of them were quantified using image analysis software ImageQuant (GE healthcare; version 8.2).",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the assays were performed in at least duplicates and some of them were quantified using image analysis software ImageQuant (GE healthcare; version 8.2)."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Cell densities were kept between 0.1-1 x 106 cells/mL, and cultures were regularly checked for the absence of mycoplasma contamination.",
+            "title" : "Contamination",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cell densities were kept between 0.1-1 x 106 cells/mL, and cultures were regularly checked for the absence of mycoplasma contamination."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Materials availability All unique/stable reagents generated in this study are available from the lead contact with a completed Materials Transfer Agreement.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials availability All unique/stable reagents generated in this study are available from the lead contact with a completed Materials Transfer Agreement."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "All proteomics data have been deposited on ProteomeXchange with the dataset identifier PRIDE: PXD024462.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All proteomics data have been deposited on ProteomeXchange with the dataset identifier PRIDE: PXD024462."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }, {
+            "sentence" : "All proteomics data have been deposited on ProteomeXchange with the dataset identifier PRIDE: PXD024462.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All proteomics data have been deposited on ProteomeXchange with the dataset identifier PRIDE: PXD024462."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PXD024462"
+                  }],
+                "neText" : "PXD024462"
+              }]
+          }, {
+            "sentence" : "All the unprocessed image data have been deposited to Mendeley Data : http://dx.doi.org/10.17632/rfpsg6939c.1 Method details Yeast strain construction and growth conditions The yeast strains used in this study are specified in the Key Resources Table.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the unprocessed image data have been deposited to Mendeley Data : http://dx.doi.org/10.17632/rfpsg6939c.1 Method details Yeast strain construction and growth conditions The yeast strains used in this study are specified in the Key Resources Table."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "http://dx.doi.org/10.17632/rfpsg6939c.1"
+                  }],
+                "neText" : "http://dx.doi.org/10.17632/rfpsg6939c.1"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Monoclonal ANTI-FLAG M2 antibody Sigma Aldrich Cat# F1804; RRID: AB_262044 Anti-HA antibody produced in rabbit Sigma Aldrich Cat# H6908; RRID: AB_260070 Goat anti-rabbit IgG Dylight488 conjugated Invitrogen Cat# 35552; RRID: AB_844398 Goat anti-mouse IgG Dylight633 conjugated Invitrogen Cat# 35512; RRID: AB_1307538 Anti-rabbit peroxidase antibody produced in goat Sigma Aldrich Cat# A9169; RRID: AB_258434 Anti-mouse IgG Peroxidase antibody produced in goat Sigma Aldrich Cat# A4416; RRID: AB_258167 Anti-His antibody produced in mouse Cell Signaling Technology Cat# 9991; RRID: AB_2797714 Goat polyclonal anti-RMND5A antibody Santa Cruz Cat# sc-161202, RRID: AB_2181510 Sheep polyclonal anti-MAEA antibody R&D Systems Cat# AF7288-SP, RRID: AB_10971438 Rabbit polyclonal anti-RANBP9 antibody Abnova Cat# PAB16671; RRID: AB_10677213 Rabbit polyclonal anti-TWA1 antibody Novus Cat# NBP1-32596; RRID: AB_2274921 Mouse monoclonal anti-ARMC8 antibody Santa Cruz Cat# sc-365307; RRID: AB_10850172 Mouse monoclonal anti-MKLN1 antibody Santa Cruz Cat# sc-398956; RRID: AB_2737249 Rabbit polyclonal anti-WDR26 antibody Bethyl Laboratories Cat# A302-245A; RRID: AB_1730876 Rabbit polyclonal anti-YPEL5 antibody Thermo Fisher Cat# PA5-26957; RRID: AB_2544457 Sheep polyclonal anti-hGid4 This study N/A HaloLink Resin Promega Cat# G1912 ANTI-FLAG M2 affinity gel Sigma Aldrich Cat# A2220 His-Select Nickel affinity gel Sigma Aldrich Cat# P6611 Glutathione Sepharose 4B GE Healthcare Cat# 17075605 StrepTactin Sepharose High Performance resin cytiva Cat# 28935599 His-Halo UBAUBQLN1 This study N/A Critical commercial assays EnzChek Phosphate Assay Kit ThermoFisher Scientific Cat# E6646 Bacterial and virus strains E. coli BL21 RIL (DE3) MPIB N/A E. coli DH5a MPIB N/A Chemicals, peptides, and recombinant proteins complete EDTA free Roche Cat# 05056489001 Aprotinin from bovine lung Sigma A1153-10MG Leupeptin Sigma L2884-250MG Benzamidine Sigma B6506-25G GGGGGFYVK-FAM MPIB N/A PTLVNGWPR MPIB N/A PTLVNGPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A PGLWRSPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A 3xFLAG peptide MPIB N/A Deposited data Apo Chelator-GIDSR4 This study EMDB: EMD-12541 Chelator-GIDSR4 + Fbp1 This study EMDB: EMD-12557 GIDSR4 This study EMDB: EMD-12548 SRS module This study EMDB: EMD-12559; PDB: 7NS3 Cat module This study EMDB: EMD-12560; PDB: 7NS4 SA module This study EMDB: EMD-12563; PDB: 7NSB Endogenous GIDAnt This study EMDB: EMD-12538 Endogenous Chelator-GIDAnt This study EMDB: EMD-12540 CTLHSR4 This study EMDB: EMD-12537 CTLHSR4 SRS module This study EMDB: EMD-12564; PDB: 7NSC CTLH-WDR26 SA and SRS modules This study EMDB: EMD-12545 CTLH-WDR26 supramolecular assembly This study EMDB: EMD-12542 CTLH-MKLN1 SA and SRS modules This study EMDB: EMD-12547 Fbp1 (crystal structure) This study PDB: 7NS5 Proteomics data This study PXD024462 Raw image data This study http://dx.doi.org/10.17632/rfpsg6939c.1 Experimental models: Cell lines Sf9 Insect cells Thermo Fisher Cat# 11496015 High Five Insect cells Thermo Fisher Cat# B85502 K562 human cells ATCC ATCC#CCL-243; RRID: CVCL_00004 Experimental models: Organisms/strains Saccharomyces cerevisiae: Strain S288C: BY4741; MATa his3D1leu2D0 met15D0 ura3D0 Euroscarf Cat# Y00000 CRLY12; BY4741, Gid4::KANMX This study N/A CRLY14; BY4741, Gid7::KANMX This study N/A CRLY45; BY4741, Gid8::Gid8-3xFLAG-KANMX Qiao et. al., 2020 N/A CRLY131; BY4741, Gid2::3xFLAG-Gid2 (K365A) Qiao et. al., 2020 N/A CRLY241; BY4741, Gid7::KANMX, Gid8::Gid8-3xFLAG-HPHNT1 This study N/A CRLY267; BY4741, Gid7::Gid7-3xHA-HPHNT1, Gid5::Gid5-3xFLAG-KANMX This study N/A CRLY498; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2 This study N/A CRLY504; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2, Gid7:KANMX This study N/A Recombinant DNA pCSJ95 Chen et al., 2017 N/A pCSJ125 Chen et al., 2017 N/A VBP6; pRS313-pGPD-Pck1-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC1; pRS313-pGPD-Fbp1-K32R/K35R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC2; pRS313-pGPD-Fbp1-K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC3; pRS313-pGPD-Fbp1-K32R/K35R/K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A pRS415-pTEF-CYC This study N/A pRS415-pTEF-GFP-ScGid4-CYC This study N/A pLIB Gid1 This study N/A pLIB Gid2 This study N/A pLIB Gid4 This study N/A pLIB Gid5 This study N/A pLIB Gid7 This study N/A pLIB Gid8-TEV-2xStrep This study N/A pLIB Gid8 This study N/A pLIB Gid9 This study N/A pLIB RANBP9 This study N/A pLIB RMND5A This study N/A pLIB hGid4 This study N/A pLIB ARMC8 This study N/A pLIB 2xStrep-3C-ARMC8 This study N/A pLIB MAEA This study N/A pLIB WDR26 This study N/A pLIB GST-TEV-WDR26 This study N/A pLIB MKLN1 This study N/A pLIB YPEL5 This study N/A pLIB MAEA Y394A This study N/A pLIB RMND5A R340A This study N/A pLIB RMND5A I338A/L339A This study N/A pLIB GST-TEV-Uba1 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9:Gid7 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9:Gid7 This study N/A pBIG1 RANBP9:TWA1-TEV-2xS:ARMC8 This study N/A pBIG1 RANBP9:TWA1:2xS-3C-ARMC8 This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A:MAEA This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:MAEA This study N/A pGEX GST-TEV-Gid4 (D1-116) This study N/A pGEX GST-TEV-Gid7 This study N/A pGEX GST-TEV-Gid7 (D1-285) This study N/A pGEX GST-TEV-hGid4 (D1-99) This study N/A pGEX GST-TEV-hGid4 (R189A) This study N/A pGEX GST-TEV-hGid4 (Y154A) This study N/A pGEX GST-TEV-hGid4 (F174A) This study N/A pGEX GST-TEV-hGid4 (F239A) This study N/A pGEX GST-TEV-hGid4 (C156D) This study N/A pGEX GST-TEV-hGid4 (E298A) This study N/A pGEX GST-TEV-hGid4 (H147D) This study N/A pGEX GST-TEV-hGid4 (Y158A/F174A) This study N/A pGEX GST-TEV-hGid4 (Y158A/F239A) This study N/A pGEX GST-TEV-hGid4 (F174A/F239A) This study N/A pGEX GST-TEV-hGid4 (Y297A/F229A) This study N/A pGEX GST-TEV-hGid4 (D297-300) This study N/A pRSF Ubc8-6xHis This study N/A pRSF Fbp1-6xHis This study N/A pRSF Fbp1 (K32R/K35R)-6xHis This study N/A pRSF Fbp1 (K280R/K281R)-6xHis This study N/A pRSF Fbp1 (K32R/K35R/K280R/K281R)-6xHis This study N/A pRSF Fbp1-GGGGS-sortag-6xHis This study N/A pRSF Mdh2-GGGGS-sortag-6xHis This study N/A pRSF Pck1-GGGGS-sortag-6xHis This study N/A pQlink Fbp1-TEV-V5-2xS This study N/A pRSF Ube2H-6xHis This study N/A pGEX GST-3C-Ub This study N/A pGEX GST-3C-Ub K0 (all K > R) This study N/A pGEX GST-3C-Ub K6 (all K > R; R6K) This study N/A pGEX GST-3C-Ub K11 (all K > R; R11K) This study N/A pGEX GST-3C-Ub K27 (all K > R; R27K) This study N/A pGEX GST-3C-Ub K29 (all K > R; R29K) This study N/A pGEX GST-3C-Ub K33 (all K > R; R33K) This study N/A pGEX GST-3C-Ub K48 (all K > R; R48K) This study N/A pGEX GST-3C-Ub K63 (all K > R; R63K) This study N/A pET3b Ub This study N/A pET29 sortase A Chen et al., 2011b N/A Software and algorithms FOCUS Biyani et al., 2017 https://focus.c-cina.unibas.ch/documentation.php SerialEM Mastronarde, 2003 https://bio3d.colorado.edu/SerialEM/ MOTIONCOR2 Zheng et al., 2017 https://emcore.ucsf.edu/ucsf-software Gctf Zhang, 2016 https://www2.mrc-lmb.cam.ac.uk/download/gctf/ Gautomatch Kai Zhang https://www2.mrc-lmb.cam.ac.uk/download/gautomatch-053/ Relion3.0/3.1 Fernandez-Leiro and Scheres, 2017; Scheres, 2012; Zivanov et al., 2018 https://www3.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page Phyre2 Kelley et al., 2015 http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index SWISS-MODEL Waterhouse et al., 2018 https://swissmodel.expasy.org UCSF Chimera Pettersen et al., 2004 https://www.cgl.ucsf.edu/chimera/ UCSF ChimeraX Goddard et al., 2018 https://www.rbvi.ucsf.edu/chimerax/ PyMOL v2.1 Schrodinger https://pymol.org/2/ CCP-EM Burnley et al., 2017 https://www.ccpem.ac.uk/download.php Buccaneer Cowtan, 2006 http://www.ysbl.york.ac.uk/~cowtan/buccaneer/buccaneer.html Coot Emsley and Cowtan, 2004; Emsley et al., 2010 https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/ Phenix Adams et al., 2010; Afonine et al., 2018; DiMaio et al., 2013 https://www.phenix-online.org/ Molprobity Chen et al., 2010 http://molprobity.biochem.duke.edu/ Image Studio LI-COR Biosciences https://www.licor.com/bio/image-studio/ Fiji/ImageJ Schindelin et al., 2012 https://imagej.net/Welcome GraphPad Prism version 8.0 GraphPad Software http://www.graphpad.com:443/ ImageQuant TL Toolbox version 8.2 Cytiva (formerly GE Healthcare) https://www.cytivalifesciences.com DeepEMhancer Sanchez-Garcia et al., 2020 http://www.biorxiv.org Other QUANTIFOIL(r) R1.2/1.3, 100 Holey Carbon Films, Grids: Cu 200 mesh Quantifoil Micro Tools GmbH https://www.quantifoil.com IMEM Thermo Fisher Cat# 12440-053 Resource availability Lead contact Information and requests for resources and reagents should be directed to the Lead Contact, Prof. Dr. Brenda Schulman (schulman@biochem.mpg.de).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies Monoclonal ANTI-FLAG M2 antibody Sigma Aldrich Cat# F1804; RRID: AB_262044 Anti-HA antibody produced in rabbit Sigma Aldrich Cat# H6908; RRID: AB_260070 Goat anti-rabbit IgG Dylight488 conjugated Invitrogen Cat# 35552; RRID: AB_844398 Goat anti-mouse IgG Dylight633 conjugated Invitrogen Cat# 35512; RRID: AB_1307538 Anti-rabbit peroxidase antibody produced in goat Sigma Aldrich Cat# A9169; RRID: AB_258434 Anti-mouse IgG Peroxidase antibody produced in goat Sigma Aldrich Cat# A4416; RRID: AB_258167 Anti-His antibody produced in mouse Cell Signaling Technology Cat# 9991; RRID: AB_2797714 Goat polyclonal anti-RMND5A antibody Santa Cruz Cat# sc-161202, RRID: AB_2181510 Sheep polyclonal anti-MAEA antibody R&D Systems Cat# AF7288-SP, RRID: AB_10971438 Rabbit polyclonal anti-RANBP9 antibody Abnova Cat# PAB16671; RRID: AB_10677213 Rabbit polyclonal anti-TWA1 antibody Novus Cat# NBP1-32596; RRID: AB_2274921 Mouse monoclonal anti-ARMC8 antibody Santa Cruz Cat# sc-365307; RRID: AB_10850172 Mouse monoclonal anti-MKLN1 antibody Santa Cruz Cat# sc-398956; RRID: AB_2737249 Rabbit polyclonal anti-WDR26 antibody Bethyl Laboratories Cat# A302-245A; RRID: AB_1730876 Rabbit polyclonal anti-YPEL5 antibody Thermo Fisher Cat# PA5-26957; RRID: AB_2544457 Sheep polyclonal anti-hGid4 This study N/A HaloLink Resin Promega Cat# G1912 ANTI-FLAG M2 affinity gel Sigma Aldrich Cat# A2220 His-Select Nickel affinity gel Sigma Aldrich Cat# P6611 Glutathione Sepharose 4B GE Healthcare Cat# 17075605 StrepTactin Sepharose High Performance resin cytiva Cat# 28935599 His-Halo UBAUBQLN1 This study N/A Critical commercial assays EnzChek Phosphate Assay Kit ThermoFisher Scientific Cat# E6646 Bacterial and virus strains E. coli BL21 RIL (DE3) MPIB N/A E. coli DH5a MPIB N/A Chemicals, peptides, and recombinant proteins complete EDTA free Roche Cat# 05056489001 Aprotinin from bovine lung Sigma A1153-10MG Leupeptin Sigma L2884-250MG Benzamidine Sigma B6506-25G GGGGGFYVK-FAM MPIB N/A PTLVNGWPR MPIB N/A PTLVNGPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A PGLWRSPRRDSTEGFTGRGWSGRGWSKGGK-FAM MPIB N/A 3xFLAG peptide MPIB N/A Deposited data Apo Chelator-GIDSR4 This study EMDB: EMD-12541 Chelator-GIDSR4 + Fbp1 This study EMDB: EMD-12557 GIDSR4 This study EMDB: EMD-12548 SRS module This study EMDB: EMD-12559; PDB: 7NS3 Cat module This study EMDB: EMD-12560; PDB: 7NS4 SA module This study EMDB: EMD-12563; PDB: 7NSB Endogenous GIDAnt This study EMDB: EMD-12538 Endogenous Chelator-GIDAnt This study EMDB: EMD-12540 CTLHSR4 This study EMDB: EMD-12537 CTLHSR4 SRS module This study EMDB: EMD-12564; PDB: 7NSC CTLH-WDR26 SA and SRS modules This study EMDB: EMD-12545 CTLH-WDR26 supramolecular assembly This study EMDB: EMD-12542 CTLH-MKLN1 SA and SRS modules This study EMDB: EMD-12547 Fbp1 (crystal structure) This study PDB: 7NS5 Proteomics data This study PXD024462 Raw image data This study http://dx.doi.org/10.17632/rfpsg6939c.1 Experimental models: Cell lines Sf9 Insect cells Thermo Fisher Cat# 11496015 High Five Insect cells Thermo Fisher Cat# B85502 K562 human cells ATCC ATCC#CCL-243; RRID: CVCL_00004 Experimental models: Organisms/strains Saccharomyces cerevisiae: Strain S288C: BY4741; MATa his3D1leu2D0 met15D0 ura3D0 Euroscarf Cat# Y00000 CRLY12; BY4741, Gid4::KANMX This study N/A CRLY14; BY4741, Gid7::KANMX This study N/A CRLY45; BY4741, Gid8::Gid8-3xFLAG-KANMX Qiao et. al., 2020 N/A CRLY131; BY4741, Gid2::3xFLAG-Gid2 (K365A) Qiao et. al., 2020 N/A CRLY241; BY4741, Gid7::KANMX, Gid8::Gid8-3xFLAG-HPHNT1 This study N/A CRLY267; BY4741, Gid7::Gid7-3xHA-HPHNT1, Gid5::Gid5-3xFLAG-KANMX This study N/A CRLY498; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2 This study N/A CRLY504; BY4741, Fbp1::Fbp1-3xFLAG-HPHNT1, Pdr5::NATNT2, Gid7:KANMX This study N/A Recombinant DNA pCSJ95 Chen et al., 2017 N/A pCSJ125 Chen et al., 2017 N/A VBP6; pRS313-pGPD-Pck1-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC1; pRS313-pGPD-Fbp1-K32R/K35R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC2; pRS313-pGPD-Fbp1-K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A DSJC3; pRS313-pGPD-Fbp1-K32R/K35R/K280R/K281R-3xFLAG-CYC-pGPD-DHFR-HA-CYC This study N/A pRS415-pTEF-CYC This study N/A pRS415-pTEF-GFP-ScGid4-CYC This study N/A pLIB Gid1 This study N/A pLIB Gid2 This study N/A pLIB Gid4 This study N/A pLIB Gid5 This study N/A pLIB Gid7 This study N/A pLIB Gid8-TEV-2xStrep This study N/A pLIB Gid8 This study N/A pLIB Gid9 This study N/A pLIB RANBP9 This study N/A pLIB RMND5A This study N/A pLIB hGid4 This study N/A pLIB ARMC8 This study N/A pLIB 2xStrep-3C-ARMC8 This study N/A pLIB MAEA This study N/A pLIB WDR26 This study N/A pLIB GST-TEV-WDR26 This study N/A pLIB MKLN1 This study N/A pLIB YPEL5 This study N/A pLIB MAEA Y394A This study N/A pLIB RMND5A R340A This study N/A pLIB RMND5A I338A/L339A This study N/A pLIB GST-TEV-Uba1 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid2:Gid9:Gid7 This study N/A pBIG2 Gid1:Gid8-TEV-2xS:Gid5:Gid4:Gid2:Gid9:Gid7 This study N/A pBIG1 RANBP9:TWA1-TEV-2xS:ARMC8 This study N/A pBIG1 RANBP9:TWA1:2xS-3C-ARMC8 This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A:MAEA This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:RMND5A This study N/A pBIG2 RANBP9:TWA1-TEV-2xS:ARMC8:MAEA This study N/A pGEX GST-TEV-Gid4 (D1-116) This study N/A pGEX GST-TEV-Gid7 This study N/A pGEX GST-TEV-Gid7 (D1-285) This study N/A pGEX GST-TEV-hGid4 (D1-99) This study N/A pGEX GST-TEV-hGid4 (R189A) This study N/A pGEX GST-TEV-hGid4 (Y154A) This study N/A pGEX GST-TEV-hGid4 (F174A) This study N/A pGEX GST-TEV-hGid4 (F239A) This study N/A pGEX GST-TEV-hGid4 (C156D) This study N/A pGEX GST-TEV-hGid4 (E298A) This study N/A pGEX GST-TEV-hGid4 (H147D) This study N/A pGEX GST-TEV-hGid4 (Y158A/F174A) This study N/A pGEX GST-TEV-hGid4 (Y158A/F239A) This study N/A pGEX GST-TEV-hGid4 (F174A/F239A) This study N/A pGEX GST-TEV-hGid4 (Y297A/F229A) This study N/A pGEX GST-TEV-hGid4 (D297-300) This study N/A pRSF Ubc8-6xHis This study N/A pRSF Fbp1-6xHis This study N/A pRSF Fbp1 (K32R/K35R)-6xHis This study N/A pRSF Fbp1 (K280R/K281R)-6xHis This study N/A pRSF Fbp1 (K32R/K35R/K280R/K281R)-6xHis This study N/A pRSF Fbp1-GGGGS-sortag-6xHis This study N/A pRSF Mdh2-GGGGS-sortag-6xHis This study N/A pRSF Pck1-GGGGS-sortag-6xHis This study N/A pQlink Fbp1-TEV-V5-2xS This study N/A pRSF Ube2H-6xHis This study N/A pGEX GST-3C-Ub This study N/A pGEX GST-3C-Ub K0 (all K > R) This study N/A pGEX GST-3C-Ub K6 (all K > R; R6K) This study N/A pGEX GST-3C-Ub K11 (all K > R; R11K) This study N/A pGEX GST-3C-Ub K27 (all K > R; R27K) This study N/A pGEX GST-3C-Ub K29 (all K > R; R29K) This study N/A pGEX GST-3C-Ub K33 (all K > R; R33K) This study N/A pGEX GST-3C-Ub K48 (all K > R; R48K) This study N/A pGEX GST-3C-Ub K63 (all K > R; R63K) This study N/A pET3b Ub This study N/A pET29 sortase A Chen et al., 2011b N/A Software and algorithms FOCUS Biyani et al., 2017 https://focus.c-cina.unibas.ch/documentation.php SerialEM Mastronarde, 2003 https://bio3d.colorado.edu/SerialEM/ MOTIONCOR2 Zheng et al., 2017 https://emcore.ucsf.edu/ucsf-software Gctf Zhang, 2016 https://www2.mrc-lmb.cam.ac.uk/download/gctf/ Gautomatch Kai Zhang https://www2.mrc-lmb.cam.ac.uk/download/gautomatch-053/ Relion3.0/3.1 Fernandez-Leiro and Scheres, 2017; Scheres, 2012; Zivanov et al., 2018 https://www3.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page Phyre2 Kelley et al., 2015 http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index SWISS-MODEL Waterhouse et al., 2018 https://swissmodel.expasy.org UCSF Chimera Pettersen et al., 2004 https://www.cgl.ucsf.edu/chimera/ UCSF ChimeraX Goddard et al., 2018 https://www.rbvi.ucsf.edu/chimerax/ PyMOL v2.1 Schrodinger https://pymol.org/2/ CCP-EM Burnley et al., 2017 https://www.ccpem.ac.uk/download.php Buccaneer Cowtan, 2006 http://www.ysbl.york.ac.uk/~cowtan/buccaneer/buccaneer.html Coot Emsley and Cowtan, 2004; Emsley et al., 2010 https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/ Phenix Adams et al., 2010; Afonine et al., 2018; DiMaio et al., 2013 https://www.phenix-online.org/ Molprobity Chen et al., 2010 http://molprobity.biochem.duke.edu/ Image Studio LI-COR Biosciences https://www.licor.com/bio/image-studio/ Fiji/ImageJ Schindelin et al., 2012 https://imagej.net/Welcome GraphPad Prism version 8.0 GraphPad Software http://www.graphpad.com:443/ ImageQuant TL Toolbox version 8.2 Cytiva (formerly GE Healthcare) https://www.cytivalifesciences.com DeepEMhancer Sanchez-Garcia et al., 2020 http://www.biorxiv.org Other QUANTIFOIL(r) R1.2/1.3, 100 Holey Carbon Films, Grids: Cu 200 mesh Quantifoil Micro Tools GmbH https://www.quantifoil.com IMEM Thermo Fisher Cat# 12440-053 Resource availability Lead contact Information and requests for resources and reagents should be directed to the Lead Contact, Prof. Dr. Brenda Schulman (schulman@biochem.mpg.de)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID: CVCL_00004"
+                  }],
+                "neText" : "RRID: CVCL_00004"
+              }]
+          }]
+      }]
+  }
+}

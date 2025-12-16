@@ -1,0 +1,191 @@
+{
+  "docIdentifier" : "PMC8449547",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical Analysis Data processing and statistical analyses were conducted using the PLINK 1.09 beta and SAS 9.4 software (SAS Institute, Cary, NC, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis Data processing and statistical analyses were conducted using the PLINK 1.09 beta and SAS 9.4 software (SAS Institute, Cary, NC, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PLINK (RRID:SCR_001757)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PLINK"
+                }],
+              "neText" : "PLINK"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All methods were carried out following the relevant guidelines and regulations.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All methods were carried out following the relevant guidelines and regulations."
+              }]
+          }, {
+            "sentence" : "Before data collection, all participants had provided written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Before data collection, all participants had provided written informed consent."
+              }]
+          }, {
+            "sentence" : "The Institutional Review Board of Chung Shan Medical University approved this study (CS2-16114).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Institutional Review Board of Chung Shan Medical University approved this study (CS2-16114)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "However, we excluded underweight individuals (n=633) and those with incomplete or missing values (n =12,126).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "However, we excluded underweight individuals (n=633) and those with incomplete or missing values (n =12,126)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Among them, 655 women and 779 men were identified with MetS.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Among them, 655 women and 779 men were identified with MetS."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Baseline data included sex, age, education level, marital status, body mass index (BMI), and lifestyle factors like exercise, smoking (neverformer and current smoker), alcohol consumption (150 cc per week or regularly for 6 months), midnight snacking (extra snack within an hour before going to bed), coffee drinking (at least three times a week) and tea drinking (at least one time per day).",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Baseline data included sex, age, education level, marital status, body mass index (BMI), and lifestyle factors like exercise, smoking (neverformer and current smoker), alcohol consumption (150 cc per week or regularly for 6 months), midnight snacking (extra snack within an hour before going to bed), coffee drinking (at least three times a week) and tea drinking (at least one time per day)."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Genetic Variant SelectionGenotyping We selected rs3779788 in the LPL gene after reviewing the literature.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Genetic Variant SelectionGenotyping We selected rs3779788 in the LPL gene after reviewing the literature."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "rs3779788"
+                  }],
+                "neText" : "rs3779788"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Data with normal distributions were analyzed by the Chi-square test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data with normal distributions were analyzed by the Chi-square test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-square test"
+                  }],
+                "neText" : "Chi-square test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "docIdentifier" : "PMC8133602",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Total RNA was extracted using the Tri-Reagent (Gibco-BRL Life Technologies) and treated with Turbo DNase I (Ambion).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Total RNA was extracted using the Tri-Reagent (Gibco-BRL Life Technologies) and treated with Turbo DNase I (Ambion)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco-BRL"
+                }],
+              "neText" : "Gibco-BRL"
+            }]
+        }, {
+          "sentence" : "The trimmed reads were then mapped to the M. truncatula genome version 4.0 using TopHat version 2.1.1 (http:ccb.jhu.edusoftwaretophatindex.shtml).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The trimmed reads were then mapped to the M. truncatula genome version 4.0 using TopHat version 2.1.1 (http:ccb.jhu.edusoftwaretophatindex.shtml)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "TopHat, RRID:SCR_013035",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TopHat"
+                }],
+              "neText" : "TopHat"
+            }]
+        }, {
+          "sentence" : "The mapped reads were then assembled into transcripts and quantified using Cufflinks version 2.2.1 (http:cole-trapnell-lab.github.iocufflinks).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The mapped reads were then assembled into transcripts and quantified using Cufflinks version 2.2.1 (http:cole-trapnell-lab.github.iocufflinks)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cufflinks (RRID:SCR_014597)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cufflinks"
+                }],
+              "neText" : "Cufflinks"
+            }]
+        }, {
+          "sentence" : "Differential expression testing was performed with Cuffdiff, with q-value (adjusted p-value) <0.05, which is part of the Cufflinks software package.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Differential expression testing was performed with Cuffdiff, with q-value (adjusted p-value) <0.05, which is part of the Cufflinks software package."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cuffdiff (RRID:SCR_001647)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cuffdiff"
+                }],
+              "neText" : "Cuffdiff"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Three biological replicates for each sample and three technical replicates for each biological replicate were used.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three biological replicates for each sample and three technical replicates for each biological replicate were used."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "Three biological replicates for each sample and three technical replicates for each biological replicate were used.",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three biological replicates for each sample and three technical replicates for each biological replicate were used."
+              }]
+          }, {
+            "sentence" : "Three biological replicates for each sample and three technical replicates for each biological replicate were used.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three biological replicates for each sample and three technical replicates for each biological replicate were used."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The SRA metadata was deposited to National Center for Biotechnology Information  (NCBI) under the accession number PRJNA649443.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The SRA metadata was deposited to National Center for Biotechnology Information  (NCBI) under the accession number PRJNA649443."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }, {
+            "sentence" : "The SRA metadata was deposited to National Center for Biotechnology Information  (NCBI) under the accession number PRJNA649443.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The SRA metadata was deposited to National Center for Biotechnology Information  (NCBI) under the accession number PRJNA649443."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PRJNA649443"
+                  }],
+                "neText" : "PRJNA649443"
+              }]
+          }]
+      }]
+  }
+}

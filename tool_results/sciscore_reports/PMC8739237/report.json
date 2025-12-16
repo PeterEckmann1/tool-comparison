@@ -1,0 +1,281 @@
+{
+  "docIdentifier" : "PMC8739237",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Analysis of cDNA microarray data To compare gene expression between gingival and dental pulp tissues, we analyzed public microarray data (GSE58480, gingival data GSE75644, dental pulp data) published on the Gene Expression Omnibus",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Analysis of cDNA microarray data To compare gene expression between gingival and dental pulp tissues, we analyzed public microarray data (GSE58480, gingival data GSE75644, dental pulp data) published on the Gene Expression Omnibus"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Omnibus (GEO) (RRID:SCR_005012)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Omnibus"
+                }],
+              "neText" : "Gene Expression Omnibus"
+            }]
+        }, {
+          "sentence" : "The web-based tool DAVID ( the Database for Annotation , Visualization , and Integrated Discovery ) was used to analyze the biological characteristics of differentially expressed genes .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The web-based tool DAVID ( the Database for Annotation , Visualization , and Integrated Discovery ) was used to analyze the biological characteristics of differentially expressed genes ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DAVID (RRID:SCR_001881)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }, {
+          "sentence" : "Then , these genes were classified based on gene functions in Gene Ontology and KEGG Pathway databases . 18 , 19 Quantitative reverse transcriptase-polymerase chain reaction The single-stranded cDNA required for PCR analysis was produced using 500 ng of extracted total RNA as a template for reverse transcription ( Superscript III Reverse Transcriptase and random primer Invitrogen , Paisley , UK) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then , these genes were classified based on gene functions in Gene Ontology and KEGG Pathway databases . 18 , 19 Quantitative reverse transcriptase-polymerase chain reaction The single-stranded cDNA required for PCR analysis was produced using 500 ng of extracted total RNA as a template for reverse transcription ( Superscript III Reverse Transcriptase and random primer Invitrogen , Paisley , UK) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "All analyses were performed using 25.0 SPSS software (SPSS Inc., Chicago, IL, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All analyses were performed using 25.0 SPSS software (SPSS Inc., Chicago, IL, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The experimental protocol was approved by the Institutional Review Board of the Yonsei University Dental Hospital (2-2012-0001 and 2-2015-0005).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The experimental protocol was approved by the Institutional Review Board of the Yonsei University Dental Hospital (2-2012-0001 and 2-2015-0005)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and methods Samples and RNA isolation Healthy gingival tissues were obtained during extraction of the supernumerary tooth and odontoma and flap surgeries from nine patients aged 7-12 years.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Samples and RNA isolation Healthy gingival tissues were obtained during extraction of the supernumerary tooth and odontoma and flap surgeries from nine patients aged 7-12 years."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Samples of 25 ml containing 1 x Universal TaqMan Master Mix ( 4,369,016 Applied Biosystems) , PCR primers at a concentration of 0.9 mM , and the diluted cDNA were prepared in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Samples of 25 ml containing 1 x Universal TaqMan Master Mix ( 4,369,016 Applied Biosystems) , PCR primers at a concentration of 0.9 mM , and the diluted cDNA were prepared in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Samples of 25 ml containing 1 x Universal TaqMan Master Mix ( 4,369,016 Applied Biosystems) , PCR primers at a concentration of 0.9 mM , and the diluted cDNA were prepared in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Samples of 25 ml containing 1 x Universal TaqMan Master Mix ( 4,369,016 Applied Biosystems) , PCR primers at a concentration of 0.9 mM , and the diluted cDNA were prepared in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Analysis of cDNA microarray data To compare gene expression between gingival and dental pulp tissues, we analyzed public microarray data (GSE58480, gingival data GSE75644, dental pulp data) published on the Gene Expression Omnibus",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Analysis of cDNA microarray data To compare gene expression between gingival and dental pulp tissues, we analyzed public microarray data (GSE58480, gingival data GSE75644, dental pulp data) published on the Gene Expression Omnibus"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE58480"
+                  }],
+                "neText" : "GSE58480"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE75644"
+                  }],
+                "neText" : "GSE75644"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The normality of the RMA expression values was confirmed through the Shapiro-Wilk test (p-values > 0.05).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The normality of the RMA expression values was confirmed through the Shapiro-Wilk test (p-values > 0.05)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk test"
+                  }],
+                "neText" : "Shapiro-Wilk test"
+              }]
+          }, {
+            "sentence" : "To determine whether genes were differentially expressed between the gingival and dental pulp tissue, we conducted t-tests for gene expression values.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To determine whether genes were differentially expressed between the gingival and dental pulp tissue, we conducted t-tests for gene expression values."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }, {
+            "sentence" : "We considered inflated alpha error due to multiple testing by applying a false discovery rate method (Benjamini and Hochberg, 1995).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We considered inflated alpha error due to multiple testing by applying a false discovery rate method (Benjamini and Hochberg, 1995)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini and Hochberg"
+                  }],
+                "neText" : "Benjamini and Hochberg"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "docIdentifier" : "PMC8414439",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "After washing with hybridization solution, the sections were dripped with mouse anti-digoxigenin biotin-labelled antibody working solution, and incubated in a humid chamber at 37degC for 45 minutes.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After washing with hybridization solution, the sections were dripped with mouse anti-digoxigenin biotin-labelled antibody working solution, and incubated in a humid chamber at 37degC for 45 minutes."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-digoxigenin biotin-labelled"
+                }],
+              "neText" : "anti-digoxigenin biotin-labelled"
+            }]
+        }, {
+          "sentence" : "The sections were incubated with the primary antibodies anti-F480 (ab6640) and anti-doublecortin (ab77450 both Abcam, UK), followed by incubation with corresponding isotype-specific secondary antibodies and labelling with either AlexaFluor-488 or AlexaFluor-633 (Invitrogen, Thermo Fisher Scientific, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The sections were incubated with the primary antibodies anti-F480 (ab6640) and anti-doublecortin (ab77450 both Abcam, UK), followed by incubation with corresponding isotype-specific secondary antibodies and labelling with either AlexaFluor-488 or AlexaFluor-633 (Invitrogen, Thermo Fisher Scientific, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(GenWay Biotech Inc. Cat# GWB-BC480F, RRID:AB_10293382)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-F480"
+                }],
+              "neText" : "anti-F480"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-doublecortin"
+                }],
+              "neText" : "anti-doublecortin"
+            }]
+        }, {
+          "sentence" : "Thereafter , membranes were incubated with diluted primary antibodies , as follows: anti-b-actin ( ab179467 , 1:5,000 Abcam) , anti-TGFa ( ab92486 , 1:500",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Thereafter , membranes were incubated with diluted primary antibodies , as follows: anti-b-actin ( ab179467 , 1:5,000 Abcam) , anti-TGFa ( ab92486 , 1:500"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(US Biological Cat# F4510-81C, RRID:AB_2106720)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-b-actin ( ab179467"
+                }],
+              "neText" : "anti-b-actin ( ab179467"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(LSBio (LifeSpan) Cat# LS-B7423-50, RRID:AB_11233091)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TGFa"
+                }],
+              "neText" : "anti-TGFa"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ab92486"
+                }],
+              "neText" : "ab92486"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "The correctly sequenced luciferase reporter plasmids (WT and MUT, respectively) were cotransfected into HEK293T cells, with miR-183 mimic or NC mimic, respectively.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The correctly sequenced luciferase reporter plasmids (WT and MUT, respectively) were cotransfected into HEK293T cells, with miR-183 mimic or NC mimic, respectively."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293T"
+                }],
+              "neText" : "HEK293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Surgical destabilization of the medial meniscus to generate a mouse OA model A total of 105 male wild-type (WT) C57BL6 mice (mean age: 8 weeks (SD 1)) were housed in a controlled environment with food and water provided ad libitum and maintained under a 12-hour lightdark cycle.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Surgical destabilization of the medial meniscus to generate a mouse OA model A total of 105 male wild-type (WT) C57BL6 mice (mean age: 8 weeks (SD 1)) were housed in a controlled environment with food and water provided ad libitum and maintained under a 12-hour lightdark cycle."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Based on the WT template, mutated (MUT) TGFa 3UTR was generated and inserted into the empty pMIR-reporter between the same cloning sites.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Based on the WT template, mutated (MUT) TGFa 3UTR was generated and inserted into the empty pMIR-reporter between the same cloning sites."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMIR-reporter"
+                }],
+              "neText" : "pMIR-reporter"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Micrographic images were exported to Adobe Photoshop CS 5.1 (Adobe, USA) and adjusted for brightness and contrast to reflect the true colours.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Micrographic images were exported to Adobe Photoshop CS 5.1 (Adobe, USA) and adjusted for brightness and contrast to reflect the true colours."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Adobe Photoshop, RRID:SCR_014199",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Adobe Photoshop"
+                }],
+              "neText" : "Adobe Photoshop"
+            }]
+        }, {
+          "sentence" : "Dual luciferase reporter assay Target genes of miR-183 were predicted using the bioinformatics tool, TargetScan.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Dual luciferase reporter assay Target genes of miR-183 were predicted using the bioinformatics tool, TargetScan."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }]
+        }, {
+          "sentence" : "Protein levels were quantified using ImageJ software (National Institutes of Health (NIH), USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein levels were quantified using ImageJ software (National Institutes of Health (NIH), USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Statistical analysis All data were analyzed using SPSS v21.0 software (IBM, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis All data were analyzed using SPSS v21.0 software (IBM, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods Ethics statement This study was approved by the Ethics Committee and Animal Care and Use committee of our hospital.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Ethics statement This study was approved by the Ethics Committee and Animal Care and Use committee of our hospital."
+              }]
+          }, {
+            "sentence" : "All participating patients signed informed consent documents.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participating patients signed informed consent documents."
+              }]
+          }, {
+            "sentence" : "Histomorphometric analysis Eight weeks after DMM surgery, mice were euthanized using 3 sodium pentobarbital.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Histomorphometric analysis Eight weeks after DMM surgery, mice were euthanized using 3 sodium pentobarbital."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients who met the following conditions were excluded: allergic constitution pregnant or lactating female severe abnormalities affecting other organs, such as heart, brain, liver, or kidney diagnosis of other arthritic diseases, such as rheumatoid arthritis, gouty arthritis, meniscus injury, synovitis, or ligament injury and medicated with non-steroidal anti-inflammatory drugs (NSAIDs) in the past three months, or cortisol or hyaluronic acid preparations in the past six months.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients who met the following conditions were excluded: allergic constitution pregnant or lactating female severe abnormalities affecting other organs, such as heart, brain, liver, or kidney diagnosis of other arthritic diseases, such as rheumatoid arthritis, gouty arthritis, meniscus injury, synovitis, or ligament injury and medicated with non-steroidal anti-inflammatory drugs (NSAIDs) in the past three months, or cortisol or hyaluronic acid preparations in the past six months."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The 95 patients with OA included 37 males and 58 females (mean age: 58.64 years (standard deviation (SD) 5.32) mean BMI: 25.04 kgm2 (SD 4.07)), among whom 39 were diagnosed with diabetes.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The 95 patients with OA included 37 males and 58 females (mean age: 58.64 years (standard deviation (SD) 5.32) mean BMI: 25.04 kgm2 (SD 4.07)), among whom 39 were diagnosed with diabetes."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The 95 patients with OA included 37 males and 58 females (mean age: 58.64 years (standard deviation (SD) 5.32) mean BMI: 25.04 kgm2 (SD 4.07)), among whom 39 were diagnosed with diabetes.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The 95 patients with OA included 37 males and 58 females (mean age: 58.64 years (standard deviation (SD) 5.32) mean BMI: 25.04 kgm2 (SD 4.07)), among whom 39 were diagnosed with diabetes."
+              }]
+          }, {
+            "sentence" : "The 95 patients with OA included 37 males and 58 females (mean age: 58.64 years (standard deviation (SD) 5.32) mean BMI: 25.04 kgm2 (SD 4.07)), among whom 39 were diagnosed with diabetes.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The 95 patients with OA included 37 males and 58 females (mean age: 58.64 years (standard deviation (SD) 5.32) mean BMI: 25.04 kgm2 (SD 4.07)), among whom 39 were diagnosed with diabetes."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each test took over ten seconds to complete and was repeated 12 times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each test took over ten seconds to complete and was repeated 12 times."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "Each test took over ten seconds to complete and was repeated 12 times.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each test took over ten seconds to complete and was repeated 12 times."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Comparisons between paired groups with normally distributed data and homogeneous variances were conducted by paired t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons between paired groups with normally distributed data and homogeneous variances were conducted by paired t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Comparisons among multiple groups were conducted by one-way analysis of variance (ANOVA), followed by Tukeys post hoc test.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons among multiple groups were conducted by one-way analysis of variance (ANOVA), followed by Tukeys post hoc test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys post hoc test"
+                  }],
+                "neText" : "Tukeys post hoc test"
+              }]
+          }, {
+            "sentence" : "Comparisons among groups at different timepoints were conducted by repeated measures analysis of variance (ANOVA), followed by Bonferronis post hoc test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons among groups at different timepoints were conducted by repeated measures analysis of variance (ANOVA), followed by Bonferronis post hoc test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferronis post hoc test"
+                  }],
+                "neText" : "Bonferronis post hoc test"
+              }]
+          }]
+      }]
+  }
+}

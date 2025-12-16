@@ -1,0 +1,359 @@
+{
+  "docIdentifier" : "PMC8139582",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Cells were cocultured in the absence or presence of neutralizing anti-CD47 monoclonal antibody (mAb, 10 μg/ml) or control mAb (BioXCell) for 48 hours and then immunostained as described.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were cocultured in the absence or presence of neutralizing anti-CD47 monoclonal antibody (mAb, 10 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "g/ml) or control mAb (BioXCell) for 48 hours and then immunostained as described."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD47"
+                }],
+              "neText" : "anti-CD47"
+            }]
+        }, {
+          "sentence" : "Immunoprecipitation with histone 3 antibody ( H3 ) included in an EpiTect ChIP antibody kit ( Qiagen , catalog no. GAH-2206 ) was used as a positive control .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Immunoprecipitation with histone 3 antibody ( H3 ) included in an EpiTect ChIP antibody kit ( Qiagen , catalog no. GAH-2206 ) was used as a positive control ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "histone 3"
+                }],
+              "neText" : "histone 3"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Briefly , 293T cells were transfected with the lentiviral vector and packaging plasmids , and the supernatants , containing recombinant pseudolentiviral particles , were collected from culture dishes on the second and third days after transfection .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly , 293T cells were transfected with the lentiviral vector and packaging plasmids , and the supernatants , containing recombinant pseudolentiviral particles , were collected from culture dishes on the second and third days after transfection ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "293T"
+                }],
+              "neText" : "293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "K-rasLA1 mice ( 36 ) in a C57BL/6 background were obtained from the Jackson laboratory.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "K-rasLA1 mice ( 36 ) in a C57BL/6 background were obtained from the Jackson laboratory."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "K-rasLA1"
+                }],
+              "neText" : "K-rasLA1"
+            }]
+        }, {
+          "sentence" : "These mice were crossed with Zeb1 (+/−) mice ( 55 ) also in a C57BL/6 background to yield K-RasLA1, Zeb1 (+/+) and K-RasLA1, Zeb1 (+/−) mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These mice were crossed with Zeb1 (+/"
+            }, {
+              "f" : "symbol",
+              "c" : "−"
+            }, {
+              "f" : "default",
+              "c" : ") mice ( 55 ) also in a C57BL/6 background to yield K-RasLA1, Zeb1 (+/+) and K-RasLA1, Zeb1 (+/"
+            }, {
+              "f" : "symbol",
+              "c" : "−"
+            }, {
+              "f" : "default",
+              "c" : ") mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6"
+                }],
+              "neText" : "C57BL/6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "To generate a lentivirus expressing Zeb1 shRNA , a primer containing a Zeb1 shRNA sequence ( 5′-CTGTCTAGACAAAAAAAGACA ACGTGAAAGACAATCTCTTGAATT GTCAAACACGTTGTCTTGGGGATC TGTGGTCTCATACA-3′ ) was used with a T3 primer to amplify a 500–base pair fragment containing the H1 promoter using the pSuper vector as a template.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To generate a lentivirus expressing Zeb1 shRNA , a primer containing a Zeb1 shRNA sequence ( 5′-CTGTCTAGACAAAAAAAGACA ACGTGAAAGACAATCTCTTGAATT GTCAAACACGTTGTCTTGGGGATC TGTGGTCTCATACA-3′ ) was used with a T3 primer to amplify a 500–base pair fragment containing the H1 promoter using the pSuper vector as a template."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_51598",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pSuper"
+                }],
+              "neText" : "pSuper"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Images shown are maximum projections of confocal stacks , adjusted for contrast and brightness with Adobe Photoshop Elements v9.0.2",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images shown are maximum projections of confocal stacks , adjusted for contrast and brightness with Adobe Photoshop Elements v9.0.2"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Adobe Photoshop, RRID:SCR_014199",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Adobe Photoshop"
+                }],
+              "neText" : "Adobe Photoshop"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "For lentiviral Zeb1 shRNA or control shRNA treatment , K-RasLA1 mice at 1 month of age were anesthetized by intraperitoneal injection of a combination of ketamine ( 100 mg/kg ) and xylazine ( 10 mg/kg) .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For lentiviral Zeb1 shRNA or control shRNA treatment , K-RasLA1 mice at 1 month of age were anesthetized by intraperitoneal injection of a combination of ketamine ( 100 mg/kg ) and xylazine ( 10 mg/kg) ."
+              }]
+          }, {
+            "sentence" : "The treated mice were then housed in a biosafety room and closely monitored daily in accordance with protocols approved by the Institutional Animal Care and Use Committee ( IACUC) .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The treated mice were then housed in a biosafety room and closely monitored daily in accordance with protocols approved by the Institutional Animal Care and Use Committee ( IACUC) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Data inclusion/exclusion criteria: No data were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data inclusion/exclusion criteria: No data were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "On the basis of our previous studies, we did not detect any differences with regard to sex, and thus, male and female mice were chosen at random.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "On the basis of our previous studies, we did not detect any differences with regard to sex, and thus, male and female mice were chosen at random."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "For lentiviral Zeb1 shRNA or control shRNA treatment , K-RasLA1 mice at 1 month of age were anesthetized by intraperitoneal injection of a combination of ketamine ( 100 mg/kg ) and xylazine ( 10 mg/kg) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For lentiviral Zeb1 shRNA or control shRNA treatment , K-RasLA1 mice at 1 month of age were anesthetized by intraperitoneal injection of a combination of ketamine ( 100 mg/kg ) and xylazine ( 10 mg/kg) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "On the basis of our previous studies, we did not detect any differences with regard to sex, and thus, male and female mice were chosen at random.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "On the basis of our previous studies, we did not detect any differences with regard to sex, and thus, male and female mice were chosen at random."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Tumor pathology was evaluated blindly by an experienced pathologist (M. Cu).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Tumor pathology was evaluated blindly by an experienced pathologist (M. Cu)."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Replicates: The number of experimental replications is provided in the figure legends, and P values are provided.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Replicates: The number of experimental replications is provided in the figure legends, and P values are provided."
+              }],
+            "mention" : {
+              "neText" : "Replicates:",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Replicates:"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Significance was determined by the Student’s t test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Significance was determined by the Student’s t test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "To generate a lentivirus expressing Zeb1 shRNA , a primer containing a Zeb1 shRNA sequence ( 5′-CTGTCTAGACAAAAAAAGACA ACGTGAAAGACAATCTCTTGAATT GTCAAACACGTTGTCTTGGGGATC TGTGGTCTCATACA-3′ ) was used with a T3 primer to amplify a 500–base pair fragment containing the H1 promoter using the pSuper vector as a template.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To generate a lentivirus expressing Zeb1 shRNA , a primer containing a Zeb1 shRNA sequence ( 5′-CTGTCTAGACAAAAAAAGACA ACGTGAAAGACAATCTCTTGAATT GTCAAACACGTTGTCTTGGGGATC TGTGGTCTCATACA-3′ ) was used with a T3 primer to amplify a 500–base pair fragment containing the H1 promoter using the pSuper vector as a template."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CTGTCTAGACAAAAAAAGACA ACGTGAAAGACAATCTCTTGAATT GTCAAACACGTTGTCTTGGGGATC TGTGGTCTCATACA-3′"
+                  }],
+                "neText" : "5′-CTGTCTAGACAAAAAAAGACA ACGTGAAAGACAATCTCTTGAATT GTCAAACACGTTGTCTTGGGGATC TGTGGTCTCATACA-3′"
+              }]
+          }, {
+            "sentence" : "The long oligonucleotide was used , together with a sp6 oligonucleotide ( 5′-ATTTAGGTGACACTATAGAAT -3′) , to PCR-amplify a fragment containing the entire U6 promoter plus shRNA sequences; the resultant product was digested with XbaI and SpeI ligated into the NheI of the lentivirus vector , and the insert was sequenced to ensure that no errors occurred during the PCR or cloning steps .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The long oligonucleotide was used , together with a sp6 oligonucleotide ( 5′-ATTTAGGTGACACTATAGAAT -3′) , to PCR-amplify a fragment containing the entire U6 promoter plus shRNA sequences; the resultant product was digested with XbaI and SpeI ligated into the NheI of the lentivirus vector , and the insert was sequenced to ensure that no errors occurred during the PCR or cloning steps ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-ATTTAGGTGACACTATAGAAT -3′"
+                  }],
+                "neText" : "5′-ATTTAGGTGACACTATAGAAT -3′"
+              }]
+          }, {
+            "sentence" : "Lentivirus with a scrambled shRNA sequence 5′-CAACAAGATGAAGAGCACCAA TCTCTTGAAT TGGTGCTCTTCATCTTGTTG-3′ was used as a control—this control sequence was blasted against all mouse RNA sequences to insure that it did not target an mRNA .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Lentivirus with a scrambled shRNA sequence 5′-CAACAAGATGAAGAGCACCAA TCTCTTGAAT TGGTGCTCTTCATCTTGTTG-3′ was used as a control—this control sequence was blasted against all mouse RNA sequences to insure that it did not target an mRNA ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-CAACAAGATGAAGAGCACCAA TCTCTTGAAT TGGTGCTCTTCATCTTGTTG-3′"
+                  }],
+                "neText" : "5′-CAACAAGATGAAGAGCACCAA TCTCTTGAAT TGGTGCTCTTCATCTTGTTG-3′"
+              }]
+          }]
+      }]
+  }
+}

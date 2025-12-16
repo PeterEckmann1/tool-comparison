@@ -1,0 +1,143 @@
+{
+  "docIdentifier" : "PMC8196416",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "A transparent sheet was used to tracedraw the selected location in the affected eye in relation to the optic disc , major retinal vessels and fovea , as displayed in the infrared retinal image of the affected eye on the MAIA screen .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A transparent sheet was used to tracedraw the selected location in the affected eye in relation to the optic disc , major retinal vessels and fovea , as displayed in the infrared retinal image of the affected eye on the MAIA screen ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MAIA (RRID:SCR_007153)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MAIA"
+                }],
+              "neText" : "MAIA"
+            }]
+        }, {
+          "sentence" : "Statistical Analysis The statistical analysis software IBM SPSS ( Statistical Package for the Social Sciences) , v24 was used to produce descriptive statistics .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis The statistical analysis software IBM SPSS ( Statistical Package for the Social Sciences) , v24 was used to produce descriptive statistics ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Statistical Package for the Social Sciences"
+                }],
+              "neText" : "Statistical Package for the Social Sciences"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Patients willing to take part provided informed consent before being recruited.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients willing to take part provided informed consent before being recruited."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Eligibility Criteria Participants were considered eligible if they met the following inclusion criteria: adults (aged >=18 years) with newly diagnosed, treatment-naive, unilateral RVO (CRVO, BRVO, or hemispherichemicentral RVO), and who were able to understand and read English and provide informed consent.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Eligibility Criteria Participants were considered eligible if they met the following inclusion criteria: adults (aged >=18 years) with newly diagnosed, treatment-naive, unilateral RVO (CRVO, BRVO, or hemispherichemicentral RVO), and who were able to understand and read English and provide informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Eligibility Criteria Participants were considered eligible if they met the following inclusion criteria: adults (aged >=18 years) with newly diagnosed, treatment-naive, unilateral RVO (CRVO, BRVO, or hemispherichemicentral RVO), and who were able to understand and read English and provide informed consent.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Eligibility Criteria Participants were considered eligible if they met the following inclusion criteria: adults (aged >=18 years) with newly diagnosed, treatment-naive, unilateral RVO (CRVO, BRVO, or hemispherichemicentral RVO), and who were able to understand and read English and provide informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

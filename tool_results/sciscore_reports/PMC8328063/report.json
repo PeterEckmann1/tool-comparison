@@ -1,0 +1,191 @@
+{
+  "docIdentifier" : "PMC8328063",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The main reason for selecting these text processing pipelines is the fact that they are all based on Spacy 30, a widely adopted open-source library for Natural Language Processing (NLP) in Python, allowing our codebases to be streamlined, and the annotation output to be easily compared in our evaluation as well as ingested by other work utilizing similar pipelines.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The main reason for selecting these text processing pipelines is the fact that they are all based on Spacy 30, a widely adopted open-source library for Natural Language Processing (NLP) in Python, allowing our codebases to be streamlined, and the annotation output to be easily compared in our evaluation as well as ingested by other work utilizing similar pipelines."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "python-bx (RRID:SCR_024202)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }]
+        }, {
+          "sentence" : "The dictionary used in this evaluation consists of a mix of SNOMED-CT 33, ICD 910 34, MeSH 35, and RxNorm 36 extracted from the Observational Health Data Sciences and Informatics (OHDSI) vocabulary.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The dictionary used in this evaluation consists of a mix of SNOMED-CT 33, ICD 910 34, MeSH 35, and RxNorm 36 extracted from the Observational Health Data Sciences and Informatics (OHDSI) vocabulary."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MeSH (RRID:SCR_004750)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MeSH"
+                }],
+              "neText" : "MeSH"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RxNorm (RRID:SCR_006645)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RxNorm"
+                }],
+              "neText" : "RxNorm"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Since this pipeline provides more than one match per annotation, we only selected the first match to avoid duplicates.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Since this pipeline provides more than one match per annotation, we only selected the first match to avoid duplicates."
+              }],
+            "mention" : {
+              "neText" : "duplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicates"
+                }]
+            }
+          }, {
+            "sentence" : "Since this pipeline provides more than one match per annotation, we only selected the first match to avoid duplicates.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Since this pipeline provides more than one match per annotation, we only selected the first match to avoid duplicates."
+              }],
+            "mention" : {
+              "neText" : "duplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicates"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Currently, the dataset is not publicly available but will be released at a later date.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Currently, the dataset is not publicly available but will be released at a later date."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  }
+}

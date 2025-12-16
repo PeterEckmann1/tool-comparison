@@ -1,0 +1,183 @@
+{
+  "docIdentifier" : "PMC8061815",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All study questionnaire responses were entered into REDCap ( Research Electronic Data Capture ) following the completion of the participant encounter .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All study questionnaire responses were entered into REDCap ( Research Electronic Data Capture ) following the completion of the participant encounter ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "REDCap (RRID:SCR_003445)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "REDCap"
+                }],
+              "neText" : "REDCap"
+            }]
+        }, {
+          "sentence" : "All statistical analyses were performed using STATA V.15",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were performed using STATA V.15"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata (RRID:SCR_012763)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATA"
+                }],
+              "neText" : "STATA"
+            }]
+        }, {
+          "sentence" : "(StataCorp LP, College Station, Texas, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "(StataCorp LP, College Station, Texas, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata, RRID:SCR_012763",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StataCorp"
+                }],
+              "neText" : "StataCorp"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Only the patients who expressed interest in participating were approached for consent and enrolled before being seen by their ophthalmologists .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Only the patients who expressed interest in participating were approached for consent and enrolled before being seen by their ophthalmologists ."
+              }]
+          }, {
+            "sentence" : "The study protocol was approved by the Johns Hopkins School of Medicine Institutional Review Board.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol was approved by the Johns Hopkins School of Medicine Institutional Review Board."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "As we had no idea at the outset what behaviour change might be seen, we added an additional 16 patients to allow for more power.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "As we had no idea at the outset what behaviour change might be seen, we added an additional 16 patients to allow for more power."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Patients older than 18 years were recruited , consented to participate and enrolled in this study between 1 April and 30 June 2019 .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients older than 18 years were recruited , consented to participate and enrolled in this study between 1 April and 30 June 2019 ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "As we had no idea at the outset what behaviour change might be seen, we added an additional 16 patients to allow for more power.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "As we had no idea at the outset what behaviour change might be seen, we added an additional 16 patients to allow for more power."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The Fishers exact test was used to test for significant differences in the reported change to clinical approach and communication style according to the severity of anxiety and depression .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Fishers exact test was used to test for significant differences in the reported change to clinical approach and communication style according to the severity of anxiety and depression ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }]
+      }]
+  }
+}

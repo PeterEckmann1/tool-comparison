@@ -1,0 +1,178 @@
+{
+  "docIdentifier" : "PMC8357039",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Six-week-old, specific-pathogen-free, female BALB/c mice (Japan SLC Inc, Shizuoka, Japan) were used.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Six-week-old, specific-pathogen-free, female BALB/c mice (Japan SLC Inc, Shizuoka, Japan) were used."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:MGI:2683685",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALB/c"
+                }],
+              "neText" : "BALB/c"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "In Vitro Antibacterial Testing Two types of bacteria, S. aureus (NBRC 12732, National Institute of Technology and Evaluation, Tokyo, Japan) and P. acnes (NBRC 107605, National Institute of Technology and Evaluation, Tokyo, Japan), were used in the in vitro experiments.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In Vitro Antibacterial Testing Two types of bacteria, S. aureus (NBRC 12732, National Institute of Technology and Evaluation, Tokyo, Japan) and P. acnes (NBRC 107605, National Institute of Technology and Evaluation, Tokyo, Japan), were used in the in vitro experiments."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "NBRC (RRID:SCR_002660)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NBRC"
+                }],
+              "neText" : "NBRC"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The mice were sacrificed at 0.5, 1, or 3 days with direct inoculation of excessive isoflurane anesthesia of isoflurane.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mice were sacrificed at 0.5, 1, or 3 days with direct inoculation of excessive isoflurane anesthesia of isoflurane."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Six-week-old, specific-pathogen-free, female BALB/c mice (Japan SLC Inc, Shizuoka, Japan) were used.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Six-week-old, specific-pathogen-free, female BALB/c mice (Japan SLC Inc, Shizuoka, Japan) were used."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Six-week-old, specific-pathogen-free, female BALB/c mice (Japan SLC Inc, Shizuoka, Japan) were used.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Six-week-old, specific-pathogen-free, female BALB/c mice (Japan SLC Inc, Shizuoka, Japan) were used."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Mann–Whitney U test with a 5% significance threshold was used to determine the difference of viable cells between CC and Ti.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mann–Whitney U test with a 5% significance threshold was used to determine the difference of viable cells between CC and Ti."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann–Whitney U test"
+                  }],
+                "neText" : "Mann–Whitney U test"
+              }]
+          }, {
+            "sentence" : "Wilcoxon rank-sum test with a 1% significance threshold was used to determine the difference of viable cells between CC and Ti.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Wilcoxon rank-sum test with a 1% significance threshold was used to determine the difference of viable cells between CC and Ti."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank-sum test"
+                  }],
+                "neText" : "Wilcoxon rank-sum test"
+              }]
+          }]
+      }]
+  }
+}

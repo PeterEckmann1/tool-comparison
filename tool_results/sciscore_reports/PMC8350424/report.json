@@ -1,0 +1,442 @@
+{
+  "docIdentifier" : "PMC8350424",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Italia . Anti-BDNF ( SAB 1405514 ) and anti b-tubulin ( T0198 ) were purchased from Sigma Aldrich",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Italia . Anti-BDNF ( SAB 1405514 ) and anti b-tubulin ( T0198 ) were purchased from Sigma Aldrich"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti b-tubulin"
+                }],
+              "neText" : "anti b-tubulin"
+            }]
+        }, {
+          "sentence" : "Host-specific peroxidase-conjugated IgG secondary antibodies were purchased from Thermo Scientific Inc .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Host-specific peroxidase-conjugated IgG secondary antibodies were purchased from Thermo Scientific Inc ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Host-specific peroxidase-conjugated IgG secondary antibodies"
+                }],
+              "neText" : "Host-specific peroxidase-conjugated IgG secondary antibodies"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Host-specific peroxidase-conjugated IgG"
+                }],
+              "neText" : "Host-specific peroxidase-conjugated IgG"
+            }]
+        }, {
+          "sentence" : "The proteins were visualized using primary antibodies diluted in 5 wv BSA , 1X TBS , 0.1 Tween-20 for RACK1 ( 1:1000) , SRp30c ( 1:500) ,",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The proteins were visualized using primary antibodies diluted in 5 wv BSA , 1X TBS , 0.1 Tween-20 for RACK1 ( 1:1000) , SRp30c ( 1:500) ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RACK1"
+                }],
+              "neText" : "RACK1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SRp30c"
+                }],
+              "neText" : "SRp30c"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "2.2 Cell cultures and treatments Human neuroblastoma SH-SY5Y cells from the European Collection of Cell Cultures ( ECACC No. 94030304 ) were cultured in a medium with equal amounts of Eagles minimum essential medium and Nutrient Mixture Hams F-12 , supplemented with 10 heat-inactivated fetal bovine serum ( FBS) , 2 mM glutamine , 0.1 mgml streptomycin , 100 IUml penicillin and 1X MEM non-essential amino acid solution ( M7145 , Merck ) at 37 degC in 5 CO2-containing , and 95 air atmosphere.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.2 Cell cultures and treatments Human neuroblastoma SH-SY5Y cells from the European Collection of Cell Cultures ( ECACC No. 94030304 ) were cultured in a medium with equal amounts of Eagles minimum essential medium and Nutrient Mixture Hams F-12 , supplemented with 10 heat-inactivated fetal bovine serum ( FBS) , 2 mM glutamine , 0.1 mgml streptomycin , 100 IUml penicillin and 1X MEM non-essential amino acid solution ( M7145 , Merck ) at 37 degC in 5 CO2-containing , and 95 air atmosphere."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0019",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SH-SY5Y"
+                }],
+              "neText" : "SH-SY5Y"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "2.3 Animals Adult male ( post natal day 70 ) Wistar rats ( Charles River , Germany ) were adapted , housed in groups of 10 , to the animal facilities one month before the start of the experiment .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.3 Animals Adult male ( post natal day 70 ) Wistar rats ( Charles River , Germany ) were adapted , housed in groups of 10 , to the animal facilities one month before the start of the experiment ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_13508588",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Wistar"
+                }],
+              "neText" : "Wistar"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2 Material and methods 2.1 Chemicals, culture media and supplements Cortisol (PubChem CID:5754) and mifepristone (PubChem CID:55245) were obtained from Sigma Aldrich (St. Louis, MO, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2 Material and methods 2.1 Chemicals, culture media and supplements Cortisol (PubChem CID:5754) and mifepristone (PubChem CID:55245) were obtained from Sigma Aldrich (St. Louis, MO, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PubChem (RRID:SCR_004284)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PubChem"
+                }],
+              "neText" : "PubChem"
+            }]
+        }, {
+          "sentence" : "Cell culture media and all supplements were obtained from Sigma Aldrich.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture media and all supplements were obtained from Sigma Aldrich."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Sigma-Aldrich (RRID:SCR_008988)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma Aldrich"
+                }],
+              "neText" : "Sigma Aldrich"
+            }]
+        }, {
+          "sentence" : "Total protein content was measured according to the Bradford Protein Assay procedure ( Bio-Rad Laboratories) , using bovine serum albumin ( BSA ) as a calibration standard.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Total protein content was measured according to the Bradford Protein Assay procedure ( Bio-Rad Laboratories) , using bovine serum albumin ( BSA ) as a calibration standard."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bio-Rad Laboratories"
+                }],
+              "neText" : "Bio-Rad Laboratories"
+            }]
+        }, {
+          "sentence" : "After Western blot acquisition, bands optical analysis was performed with the ImageJ program (W. Rasband, Research Service Branch, National Institute of Mental Health, National Institutes of Health, Bethesda, MD and Laboratory for Optical and Computational Instrumentation, University of Wisconsin).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After Western blot acquisition, bands optical analysis was performed with the ImageJ program (W. Rasband, Research Service Branch, National Institute of Mental Health, National Institutes of Health, Bethesda, MD and Laboratory for Optical and Computational Instrumentation, University of Wisconsin)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Statistical analyses were conducted with GraphPad Prism version 7 (GraphPad Software, San Diego, CA, USA) and outliers were determined with GraphPad outlier calculator (alpha = 0.05).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were conducted with GraphPad Prism version 7 (GraphPad Software, San Diego, CA, USA) and outliers were determined with GraphPad outlier calculator (alpha = 0.05)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All procedures used in this study have conformed to the rules and principles of the 86609EEC Directive and have been approved by the Local Bioethical Committee at the Institute of Pharmacology , Polish Academy of Sciences , Krakow , Poland.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All procedures used in this study have conformed to the rules and principles of the 86609EEC Directive and have been approved by the Local Bioethical Committee at the Institute of Pharmacology , Polish Academy of Sciences , Krakow , Poland."
+              }]
+          }, {
+            "sentence" : "Based on the result of the sucrose consumption test carried out following the first 2 weeks of stress , two groups of animals were identified: those showing a significative reduction of sucrose intake in comparison to the control group , ie. developing an anhedonic-like behavior , ( CMS vulnerable ) and those that did not develop anhedonia ( CMS resilient) . 24 h after the final stressor animals were decapitated ( between 9:10 and 12:25 a . m . ) , the trunk blood was collected in tubes with ethylenediaminetetraacetic acid and the ventral hippocampus ( vHip ) was dissected from the whole brain according to the plates 34-43 of the atlas of Paxinos and Watson ( 2004 ) and stored at -80 degC .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Based on the result of the sucrose consumption test carried out following the first 2 weeks of stress , two groups of animals were identified: those showing a significative reduction of sucrose intake in comparison to the control group , ie. developing an anhedonic-like behavior , ( CMS vulnerable ) and those that did not develop anhedonia ( CMS resilient) . 24 h after the final stressor animals were decapitated ( between 9:10 and 12:25 a . m . ) , the trunk blood was collected in tubes with ethylenediaminetetraacetic acid and the ventral hippocampus ( vHip ) was dissected from the whole brain according to the plates 34-43 of the atlas of Paxinos and Watson ( 2004 ) and stored at -80 degC ."
+              }]
+          }, {
+            "sentence" : "2.5 Measurement of corticosterone plasma levels After collection , blood specimens were centrifuged for 20 min at 3000 g at 4 degC for the separation of plasma .",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.5 Measurement of corticosterone plasma levels After collection , blood specimens were centrifuged for 20 min at 3000 g at 4 degC for the separation of plasma ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2.3 Animals Adult male ( post natal day 70 ) Wistar rats ( Charles River , Germany ) were adapted , housed in groups of 10 , to the animal facilities one month before the start of the experiment .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.3 Animals Adult male ( post natal day 70 ) Wistar rats ( Charles River , Germany ) were adapted , housed in groups of 10 , to the animal facilities one month before the start of the experiment ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Animals were randomly divided into two groups: one group of animals was unstressed ( No stress group ) and the other one was exposed to the CMS procedure for a period of 2 consecutive weeks .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals were randomly divided into two groups: one group of animals was unstressed ( No stress group ) and the other one was exposed to the CMS procedure for a period of 2 consecutive weeks ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Samples were run in 384 well formats in triplicate as multiplexed reactions with the normalizing internal control 18s .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Samples were run in 384 well formats in triplicate as multiplexed reactions with the normalizing internal control 18s ."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Samples were run in 384 well formats in triplicate as multiplexed reactions with the normalizing internal control 18s .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Samples were run in 384 well formats in triplicate as multiplexed reactions with the normalizing internal control 18s ."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical differences were determined by analysis of variance (one-way ANOVA) followed, when significant, by the Tukey multiple comparison post hoc test.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical differences were determined by analysis of variance (one-way ANOVA) followed, when significant, by the Tukey multiple comparison post hoc test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey multiple comparison post hoc test"
+                  }],
+                "neText" : "Tukey multiple comparison post hoc test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Table 1 a ) Gene Forward primer Reverse primer Probe Gra GCGACAGAAGCAGTTGAGTCATC CCATGCCTCCACGTAACTGTTAG TGAAGTGATAGCACAGCAGACAGT GA Grb GCGCTTGAGGCTAAGATAGCT CCCATGTTTCTGCCTCTTTCTTTG AGTCTGCCTTCAGAATGCCTGTCA Rack1 CTCTTTGGCTTGGTCTGCTG ATACACGCACCAAGTTGTCG",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 a ) Gene Forward primer Reverse primer Probe Gra GCGACAGAAGCAGTTGAGTCATC CCATGCCTCCACGTAACTGTTAG TGAAGTGATAGCACAGCAGACAGT GA Grb GCGCTTGAGGCTAAGATAGCT CCCATGTTTCTGCCTCTTTCTTTG AGTCTGCCTTCAGAATGCCTGTCA Rack1 CTCTTTGGCTTGGTCTGCTG ATACACGCACCAAGTTGTCG"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCGACAGAAGCAGTTGAGTCATC CCATGCCTCCACGTAACTGTTAG TGAAGTGATAGCACAGCAGACAGT GA Grb GCGCTTGAGGCTAAGATAGCT CCCATGTTTCTGCCTCTTTCTTTG AGTCTGCCTTCAGAATGCCTGTCA Rack1 CTCTTTGGCTTGGTCTGCTG ATACACGCACCAAGTTGTCG"
+                  }],
+                "neText" : "GCGACAGAAGCAGTTGAGTCATC CCATGCCTCCACGTAACTGTTAG TGAAGTGATAGCACAGCAGACAGT GA Grb GCGCTTGAGGCTAAGATAGCT CCCATGTTTCTGCCTCTTTCTTTG AGTCTGCCTTCAGAATGCCTGTCA Rack1 CTCTTTGGCTTGGTCTGCTG ATACACGCACCAAGTTGTCG"
+              }]
+          }, {
+            "sentence" : "ATGGCCAGACTCTGTTTGCT Total Bdnf AAGTCTGCATTACATTCCTCGA GTTTTCTGAAAGAGGGACAGTTTA T TGTGGTTTGTTGCCGTTGCCAAG 18s GTAACCCGTTGAACCCCATT CCATCCAATCGGTAGTAGCG TGCAATTATTCCCCATGAACGAGG b ) Gene Accession number Assay ID Bdnf long 3UTR EF125675",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "ATGGCCAGACTCTGTTTGCT Total Bdnf AAGTCTGCATTACATTCCTCGA GTTTTCTGAAAGAGGGACAGTTTA T TGTGGTTTGTTGCCGTTGCCAAG 18s GTAACCCGTTGAACCCCATT CCATCCAATCGGTAGTAGCG TGCAATTATTCCCCATGAACGAGG b ) Gene Accession number Assay ID Bdnf long 3UTR EF125675"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AAGTCTGCATTACATTCCTCGA GTTTTCTGAAAGAGGGACAGTTTA T TGTGGTTTGTTGCCGTTGCCAAG 18s GTAACCCGTTGAACCCCATT CCATCCAATCGGTAGTAGCG TGCAATTATTCCCCATGAACGAGG b"
+                  }],
+                "neText" : "AAGTCTGCATTACATTCCTCGA GTTTTCTGAAAGAGGGACAGTTTA T TGTGGTTTGTTGCCGTTGCCAAG 18s GTAACCCGTTGAACCCCATT CCATCCAATCGGTAGTAGCG TGCAATTATTCCCCATGAACGAGG b"
+              }]
+          }]
+      }]
+  }
+}

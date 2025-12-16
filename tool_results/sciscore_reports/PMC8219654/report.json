@@ -1,0 +1,210 @@
+{
+  "docIdentifier" : "PMC8219654",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Primary antibodies were anti-PCDH1 ( H00005097-M01 , 1:250 abnova , Taipei City , Taiwan)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Primary antibodies were anti-PCDH1 ( H00005097-M01 , 1:250 abnova , Taipei City , Taiwan)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-PCDH1"
+                }],
+              "neText" : "anti-PCDH1"
+            }]
+        }, {
+          "sentence" : ", anti-CD31 ( ab28364 , 1:250 abcam , Cambridge , UK) , and anti-Laminin ( L9393 , 1:500 Sigma-Aldrich , St . Louis , MO , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", anti-CD31 ( ab28364 , 1:250 abcam , Cambridge , UK) , and anti-Laminin ( L9393 , 1:500 Sigma-Aldrich , St . Louis , MO , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Laminin"
+                }],
+              "neText" : "anti-Laminin"
+            }]
+        }, {
+          "sentence" : "The following primary antibodies were used: anti-PCDH1 ( H00005097-M01 , 1:500 Abnova ) and anti-GAPDH ( MAB375 , 1:1000 Merk Millipore)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following primary antibodies were used: anti-PCDH1 ( H00005097-M01 , 1:500 Abnova ) and anti-GAPDH ( MAB375 , 1:1000 Merk Millipore)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GAPDH"
+                }],
+              "neText" : "anti-GAPDH"
+            }]
+        }, {
+          "sentence" : "Horseradish peroxidase conjugated anti-mouse IgG ( 1:2000 Sigma-Aldrich ) was used as a secondary antibody .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Horseradish peroxidase conjugated anti-mouse IgG ( 1:2000 Sigma-Aldrich ) was used as a secondary antibody ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG"
+                }],
+              "neText" : "anti-mouse IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "The pcdh1 D11D11 mice used in this study were backcrossed at least three generations to C57BL6 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The pcdh1 D11D11 mice used in this study were backcrossed at least three generations to C57BL6 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Each probe sequence was cloned into TOPO TA vector ( Thermo Fisher Scientific) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Each probe sequence was cloned into TOPO TA vector ( Thermo Fisher Scientific) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TOPO TA"
+                }],
+              "neText" : "TOPO TA"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The protocols for animal experiments were approved by the Animal Care and Use Committee of the National Research Institute for Child Health and Development ( Permission Number: A2004-003-C09 ) and Meiji University ( Permission Numbers: MUIACUC-20-113) .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The protocols for animal experiments were approved by the Animal Care and Use Committee of the National Research Institute for Child Health and Development ( Permission Number: A2004-003-C09 ) and Meiji University ( Permission Numbers: MUIACUC-20-113) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "D10ACas9 mRNA and guide RNAs targeting pcdh1 exon 2 were microinjected into mouse zygotes obtained by mating superovulated BDF1 females and BDF1 males .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "D10ACas9 mRNA and guide RNAs targeting pcdh1 exon 2 were microinjected into mouse zygotes obtained by mating superovulated BDF1 females and BDF1 males ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Three-to eight-week-old mice were measured for their body weight , and eight-week-old mice were measured for their body length .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three-to eight-week-old mice were measured for their body weight , and eight-week-old mice were measured for their body length ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

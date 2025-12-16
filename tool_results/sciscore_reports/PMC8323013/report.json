@@ -1,0 +1,322 @@
+{
+  "docIdentifier" : "PMC8323013",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Cells were subsequently incubated in the dark with phycoerythrin ( PE ) isotype ( lot , 12471482 Thermo Fisher Scientific , Inc . ) and PE-labelled anti-P-selectin ( 1:20 dilution lot , 2265654 Thermo Fisher Scientific , Inc . ) at room temperature for 30 min , and subsequently fixed with 1 paraformaldehyde ( PFA ) at room temperature for 10 min .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were subsequently incubated in the dark with phycoerythrin ( PE ) isotype ( lot , 12471482 Thermo Fisher Scientific , Inc . ) and PE-labelled anti-P-selectin ( 1:20 dilution lot , 2265654 Thermo Fisher Scientific , Inc . ) at room temperature for 30 min , and subsequently fixed with 1 paraformaldehyde ( PFA ) at room temperature for 10 min ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-P-selectin"
+                }],
+              "neText" : "anti-P-selectin"
+            }]
+        }, {
+          "sentence" : "The membranes were blocked using 5 skimmed milk for 1 h at room temperature and incubated with primary antibodies against VEGFR2 ( cat. no. ab134191 1:3,000 dilution Abcam ) and b-actin ( cat. no. TA-09 1:1,000 dilution OriGene Technologies , Inc . ) overnight at 4degC .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membranes were blocked using 5 skimmed milk for 1 h at room temperature and incubated with primary antibodies against VEGFR2 ( cat. no. ab134191 1:3,000 dilution Abcam ) and b-actin ( cat. no. TA-09 1:1,000 dilution OriGene Technologies , Inc . ) overnight at 4degC ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "VEGFR2"
+                }],
+              "neText" : "VEGFR2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "b-actin"
+                }],
+              "neText" : "b-actin"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Materials and methods Cell culture The human lung adenocarcinoma cell line, H1975, and HUVECs were kindly provided by the Cell Bank of Type Culture Collection of the Chinese Academy of Sciences.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Cell culture The human lung adenocarcinoma cell line, H1975, and HUVECs were kindly provided by the Cell Bank of Type Culture Collection of the Chinese Academy of Sciences."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_2959",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HUVECs"
+                }],
+              "neText" : "HUVECs"
+            }]
+        }, {
+          "sentence" : "Briefly , the lower chambers were added with 1 ml of RPMI-1640 medium ( 10 FBS ) per well for the control group , 1 ml of RPMI-1640 medium ( 10 FBS ) plus 1x104 H1975 per well for the Exp_H group , 1 ml of RPMI-1640 medium ( 10 FBS ) plus 1x104 H1975 and 2x106 PLTs per well for the Exp_HP group , and the upper chambers were added with 1x104 HUVECs plus 0.5 ml RPMI-1640 medium per well for all three groups .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly , the lower chambers were added with 1 ml of RPMI-1640 medium ( 10 FBS ) per well for the control group , 1 ml of RPMI-1640 medium ( 10 FBS ) plus 1x104 H1975 per well for the Exp_H group , 1 ml of RPMI-1640 medium ( 10 FBS ) plus 1x104 H1975 and 2x106 PLTs per well for the Exp_HP group , and the upper chambers were added with 1x104 HUVECs plus 0.5 ml RPMI-1640 medium per well for all three groups ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_1511",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "H1975"
+                }],
+              "neText" : "H1975"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "ImageJ software ( version 1.52a National Institutes of Health ) was used to measure the gap distance of the wound and compute the relative migration rate.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ImageJ software ( version 1.52a National Institutes of Health ) was used to measure the gap distance of the wound and compute the relative migration rate."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Statistical analysis was performed using SPSS 23.0 software (IBM Corp.).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Statistical analysis was performed using SPSS 23.0 software (IBM Corp.)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and methods Cell culture The human lung adenocarcinoma cell line, H1975, and HUVECs were kindly provided by the Cell Bank of Type Culture Collection of the Chinese Academy of Sciences.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Cell culture The human lung adenocarcinoma cell line, H1975, and HUVECs were kindly provided by the Cell Bank of Type Culture Collection of the Chinese Academy of Sciences."
+              }]
+          }, {
+            "sentence" : "All participants provided oral consent after fully explanatory statements of the study .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants provided oral consent after fully explanatory statements of the study ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Stained cells were counted in five randomly selected fields using a fluorescence microscope ( DMI6000B Leica Microsystems , Inc . ) in the bright field ( magnification , x200) , and the number of migrated cells were counted using ImageJ software.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Stained cells were counted in five randomly selected fields using a fluorescence microscope ( DMI6000B Leica Microsystems , Inc . ) in the bright field ( magnification , x200) , and the number of migrated cells were counted using ImageJ software."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All experiments were performed in triplicate and data are presented as the mean +- SD.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were performed in triplicate and data are presented as the mean +- SD."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "All experiments were performed in triplicate and data are presented as the mean +- SD.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were performed in triplicate and data are presented as the mean +- SD."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "HUVECs were lysed in RIPA lysis buffer ( cat. no. P00138 , Beyotime Institute of Biotechnology) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "HUVECs were lysed in RIPA lysis buffer ( cat. no. P00138 , Beyotime Institute of Biotechnology) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "P00138"
+                  }],
+                "neText" : "P00138"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Unpaired Students t-test was used to compare the expression rate of P-selectin between the group of P-selectin-PE and the control group, while one-way ANOVA followed by Newman-Keuls post hoc test were used to compare differences between three groups.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Unpaired Students t-test was used to compare the expression rate of P-selectin between the group of P-selectin-PE and the control group, while one-way ANOVA followed by Newman-Keuls post hoc test were used to compare differences between three groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Newman-Keuls post hoc test"
+                  }],
+                "neText" : "Newman-Keuls post hoc test"
+              }]
+          }]
+      }]
+  }
+}

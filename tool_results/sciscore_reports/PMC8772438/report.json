@@ -1,0 +1,142 @@
+{
+  "docIdentifier" : "PMC8772438",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analyses were performed using the SAS software, version 9.4 (SAS Institute, Cary, NC).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were performed using the SAS software, version 9.4 (SAS Institute, Cary, NC)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study protocol was approved by the ethics committee of each participating site.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol was approved by the ethics committee of each participating site."
+              }]
+          }, {
+            "sentence" : "All patients provided written informed consent before study procedures in accordance with country-specific applicable data privacy acts, the Declaration of Helsinki, and the applicable laws for research using medical devices.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients provided written informed consent before study procedures in accordance with country-specific applicable data privacy acts, the Declaration of Helsinki, and the applicable laws for research using medical devices."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Detailed inclusion and exclusion criteria are available in Table 1 and Table S1.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Detailed inclusion and exclusion criteria are available in Table 1 and Table S1."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Participants The study population includes patients 18 to 80 years of age undergoing first-time catheter ablation of paroxysmal or persistent AF that failed at least one antiarrhythmic drug (class I or III), which is in accordance with the current European and US guidelines for the management of AF. 3,7,8 At least one episode of AF had to be documented by ECG within 1 year before enrollment in the trial for patients with paroxysmal AF.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants The study population includes patients 18 to 80 years of age undergoing first-time catheter ablation of paroxysmal or persistent AF that failed at least one antiarrhythmic drug (class I or III), which is in accordance with the current European and US guidelines for the management of AF. 3,7,8 At least one episode of AF had to be documented by ECG within 1 year before enrollment in the trial for patients with paroxysmal AF."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "SAEs Included in the Primary Safety End Point Statistical Analysis The sample size of the first-in-human pilot study was not determined by a formal sample size calculation.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "SAEs Included in the Primary Safety End Point Statistical Analysis The sample size of the first-in-human pilot study was not determined by a formal sample size calculation."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Methods The authors declare that all supporting data are available within the article (and its Supplemental Material).",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods The authors declare that all supporting data are available within the article (and its Supplemental Material)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  }
+}

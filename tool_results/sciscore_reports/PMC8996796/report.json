@@ -1,0 +1,163 @@
+{
+  "docIdentifier" : "PMC8996796",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analyses Statistical analyses were carried out with SPSS 26.0 (IBM statistics).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses Statistical analyses were carried out with SPSS 26.0 (IBM statistics)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The local ethics committee approved the study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The local ethics committee approved the study."
+              }]
+          }, {
+            "sentence" : "All participants were informed about the procedure of the study and provided informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants were informed about the procedure of the study and provided informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Methods Participants and procedure In the current study, 146 participants (67 male, 79 female) aged between 18 and 38 years (M = 23.95, SD = 3.78) took part.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Participants and procedure In the current study, 146 participants (67 male, 79 female) aged between 18 and 38 years (M = 23.95, SD = 3.78) took part."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Methods Participants and procedure In the current study, 146 participants (67 male, 79 female) aged between 18 and 38 years (M = 23.95, SD = 3.78) took part.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Participants and procedure In the current study, 146 participants (67 male, 79 female) aged between 18 and 38 years (M = 23.95, SD = 3.78) took part."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The participants were randomly assigned to one of two conditions of the IGT.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The participants were randomly assigned to one of two conditions of the IGT."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "T-tests for independent samples were used to analyze group differences regarding age and overall decision-making performance.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "T-tests for independent samples were used to analyze group differences regarding age and overall decision-making performance."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "T-tests"
+                  }],
+                "neText" : "T-tests"
+              }]
+          }, {
+            "sentence" : "In addition, mixed ANOVAs with Greenhouse Geisser correction were used to analyze within-subject changes in craving experiences (baseline, post, control craving) or in decision-making performance (five blocks of the IGT) under consideration of the IGT condition (between-subjects factor).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In addition, mixed ANOVAs with Greenhouse Geisser correction were used to analyze within-subject changes in craving experiences (baseline, post, control craving) or in decision-making performance (five blocks of the IGT) under consideration of the IGT condition (between-subjects factor)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVAs"
+                  }],
+                "neText" : "ANOVAs"
+              }]
+          }]
+      }]
+  }
+}

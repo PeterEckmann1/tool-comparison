@@ -1,0 +1,658 @@
+{
+  "docIdentifier" : "PMC8379346",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Next , the membranes were blocked with 5 nonfat dry milk in Tris-buffered saline containing 0.1 Tween-20 ( TBST ) at room temperature for 1 h and subsequently incubated overnight at 4 degC with primary antibodies against TSG101 ( sc-7964 Santa Cruz Biotechnology) , HSP70 ( 4873S CST) , Alix ( 2171S CST) , CD63 ( ab59479 Abcam) , Calreticulin ( 12238T CST)",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Next , the membranes were blocked with 5 nonfat dry milk in Tris-buffered saline containing 0.1 Tween-20 ( TBST ) at room temperature for 1 h and subsequently incubated overnight at 4 degC with primary antibodies against TSG101 ( sc-7964 Santa Cruz Biotechnology) , HSP70 ( 4873S CST) , Alix ( 2171S CST) , CD63 ( ab59479 Abcam) , Calreticulin ( 12238T CST)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TSG101"
+                }],
+              "neText" : "TSG101"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HSP70"
+                }],
+              "neText" : "HSP70"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD63"
+                }],
+              "neText" : "CD63"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Calreticulin"
+                }],
+              "neText" : "Calreticulin"
+            }]
+        }, {
+          "sentence" : "Immunogold Labeling and Electron Microscopy The grids were placed into blocking buffer for 1 h and then into a solution of the primary antibody at the appropriate dilution overnight at 4 degC ( anti-CD151 , 96283S",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Immunogold Labeling and Electron Microscopy The grids were placed into blocking buffer for 1 h and then into a solution of the primary antibody at the appropriate dilution overnight at 4 degC ( anti-CD151 , 96283S"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD151"
+                }],
+              "neText" : "anti-CD151"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell Lines and Cell Culture Triple-negative human metastatic breast carcinoma cells ( BT549 , MDA-MB-468 , and MDA-MB-231 ) and estrogen receptor expression breast carcinoma cells ( T47D and MCF7 ) were purchased from American Type Culture Collection .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell Lines and Cell Culture Triple-negative human metastatic breast carcinoma cells ( BT549 , MDA-MB-468 , and MDA-MB-231 ) and estrogen receptor expression breast carcinoma cells ( T47D and MCF7 ) were purchased from American Type Culture Collection ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0419",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MDA-MB-468"
+                }],
+              "neText" : "MDA-MB-468"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0031",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MCF7"
+                }],
+              "neText" : "MCF7"
+            }]
+        }, {
+          "sentence" : "MCF-7 , MDA-MB-468 , and MDA-MB-231 cells were maintained in Dulbeccos modified Eagles medium with the addition of 10 ( vv ) fetal bovine serum ( FBS) , 100 mgml streptomycin , and 100 Uml penicillin .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MCF-7 , MDA-MB-468 , and MDA-MB-231 cells were maintained in Dulbeccos modified Eagles medium with the addition of 10 ( vv ) fetal bovine serum ( FBS) , 100 mgml streptomycin , and 100 Uml penicillin ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0031",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MCF-7"
+                }],
+              "neText" : "MCF-7"
+            }]
+        }, {
+          "sentence" : "T47D cells were grown in RPMI1640 supplemented with 10 FBS , 10 mgml insulin , 100 Uml penicillin , and 100 mgml streptomycin .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "T47D cells were grown in RPMI1640 supplemented with 10 FBS , 10 mgml insulin , 100 Uml penicillin , and 100 mgml streptomycin ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0553",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "T47D"
+                }],
+              "neText" : "T47D"
+            }]
+        }, {
+          "sentence" : "BT549 cells were grown in RPMI1640 supplemented with 10 FBS , 100 Uml penicillin , and 100 mgml streptomycin .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "BT549 cells were grown in RPMI1640 supplemented with 10 FBS , 100 Uml penicillin , and 100 mgml streptomycin ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_1092",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BT549"
+                }],
+              "neText" : "BT549"
+            }]
+        }, {
+          "sentence" : "Migration and Invasion Assays For migration assay, 2 x 105 MDA-MB-468 and 1 x 105 MDA-MB-231 cells were plated in transwell chambers (6-well transwell chambers, 8-mm pore size 3428 Corning).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Migration and Invasion Assays For migration assay, 2 x 105 MDA-MB-468 and 1 x 105 MDA-MB-231 cells were plated in transwell chambers (6-well transwell chambers, 8-mm pore size 3428 Corning)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0062",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MDA-MB-231"
+                }],
+              "neText" : "MDA-MB-231"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Guide RNAs ( 5-TGAGTGGATCCGCTCACAGG or 5-GCTGGTAGTAGGCGTAGGCG ) targeting a sequence within the exon of the CD151 gene were cloned into lentiCRISPRv2 ( plasmid no. 52961)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Guide RNAs ( 5-TGAGTGGATCCGCTCACAGG or 5-GCTGGTAGTAGGCGTAGGCG ) targeting a sequence within the exon of the CD151 gene were cloned into lentiCRISPRv2 ( plasmid no. 52961)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "lentiCRISPRv2"
+                }],
+              "neText" : "lentiCRISPRv2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Tandem MS data were obtained using an Orbitrap Fusion Lumos instrument, and proteins were identified using Proteome Discoverer 2.2.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Tandem MS data were obtained using an Orbitrap Fusion Lumos instrument, and proteins were identified using Proteome Discoverer 2.2."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Proteome Discoverer, RRID:SCR_014477",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Proteome Discoverer"
+                }],
+              "neText" : "Proteome Discoverer"
+            }]
+        }, {
+          "sentence" : "Western Blotting Samples containing 15 mg of exosomal proteins derived from the serum or cell lysates of a study subject were denatured with SDS ( Sigma ) loading buffer , boiled for up to 5 min , separated by SDS-PAGE , and transferred onto a polyvinylidene fluoride membrane ( Bio-Rad ) at 30 V for 60 min .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Western Blotting Samples containing 15 mg of exosomal proteins derived from the serum or cell lysates of a study subject were denatured with SDS ( Sigma ) loading buffer , boiled for up to 5 min , separated by SDS-PAGE , and transferred onto a polyvinylidene fluoride membrane ( Bio-Rad ) at 30 V for 60 min ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "For each of the TMT experiments , raw files from the fractions were merged and searched with the SEQUEST HT search engine with a Homo sapiens Swiss-Prot UniProt protein database downloaded on February 2019 ( 95,556 entries) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For each of the TMT experiments , raw files from the fractions were merged and searched with the SEQUEST HT search engine with a Homo sapiens Swiss-Prot UniProt protein database downloaded on February 2019 ( 95,556 entries) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }]
+        }, {
+          "sentence" : "The false discovery rate ( FDR ) was calculated using Percolator algorithm provided by PD .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The false discovery rate ( FDR ) was calculated using Percolator algorithm provided by PD ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Percolator"
+                }],
+              "neText" : "Percolator"
+            }]
+        }, {
+          "sentence" : "Bioinformatics Analysis The screening of differentially expressed proteins ( DEPs ) was carried out by using the statistical analysis tool of Metaboanalyst ( https:www.metaboanalyst.ca).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bioinformatics Analysis The screening of differentially expressed proteins ( DEPs ) was carried out by using the statistical analysis tool of Metaboanalyst ( https:www.metaboanalyst.ca)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Metaboanalyst"
+                }],
+              "neText" : "Metaboanalyst"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.metaboanalyst.ca"
+                }],
+              "neText" : "https:www.metaboanalyst.ca"
+            }]
+        }, {
+          "sentence" : "For Gene Ontology analysis , Metascape was used to convert UniProtKB accessions into Entrez Gene IDs ( 18) , and Entrez Gene IDs were mapped to Gene Ontology terms for cellular components by FunRich software ( version 3.1.3 ) ( 19 , 20) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For Gene Ontology analysis , Metascape was used to convert UniProtKB accessions into Entrez Gene IDs ( 18) , and Entrez Gene IDs were mapped to Gene Ontology terms for cellular components by FunRich software ( version 3.1.3 ) ( 19 , 20) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Entrez Gene"
+                }],
+              "neText" : "Entrez Gene"
+            }]
+        }, {
+          "sentence" : "Volcano plots and Venn diagrams were drawn using R package ggplot2",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Volcano plots and Venn diagrams were drawn using R package ggplot2"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ggplot2 (RRID:SCR_014601)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ggplot2"
+                }],
+              "neText" : "ggplot2"
+            }]
+        }, {
+          "sentence" : "( version 3.2.1 ) ( 21 ) and R package VennDiagram ( version 1.6.20 ) ( 22)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "( version 3.2.1 ) ( 21 ) and R package VennDiagram ( version 1.6.20 ) ( 22)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "VennDiagram"
+                }],
+              "neText" : "VennDiagram"
+            }]
+        }, {
+          "sentence" : "Heat maps were generated using hierarchical clustering analysis based on Euclidean distance and R package pheatmap ( version 1.0.12 ) ( 23) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Heat maps were generated using hierarchical clustering analysis based on Euclidean distance and R package pheatmap ( version 1.0.12 ) ( 23) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pheatmap"
+                }],
+              "neText" : "pheatmap"
+            }]
+        }, {
+          "sentence" : "Enrichment of functions and signaling pathways of the target proteins was determined using Metascape ( http:metasape.org ) ( 18 ) and the enrichKEGG function in the R package clusterProfiler ( version 3.12.0 ) ( 24) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Enrichment of functions and signaling pathways of the target proteins was determined using Metascape ( http:metasape.org ) ( 18 ) and the enrichKEGG function in the R package clusterProfiler ( version 3.12.0 ) ( 24) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Metascape"
+                }],
+              "neText" : "Metascape"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "clusterProfiler (RRID:SCR_016884)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "clusterProfiler"
+                }],
+              "neText" : "clusterProfiler"
+            }]
+        }, {
+          "sentence" : "The STRING database ( http:string-db . org ) was applied to identify protein networks , which were visualized by the plugin cytoHubba ( version 0.1 ) ( 25 ) in Cytoscape software ( version 3.8.2 Cytoscape Consortium ) ( 26)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The STRING database ( http:string-db . org ) was applied to identify protein networks , which were visualized by the plugin cytoHubba ( version 0.1 ) ( 25 ) in Cytoscape software ( version 3.8.2 Cytoscape Consortium ) ( 26)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }, {
+          "sentence" : "Representative fields were photographed, and the number of cells per field was counted by ImageJ software (U.S. National Institutes of Health).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Representative fields were photographed, and the number of cells per field was counted by ImageJ software (U.S. National Institutes of Health)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Data were analyzed using GraphPad Prism 8 software (GraphPad Software, Inc) and shown as mean +- SEM.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analyzed using GraphPad Prism 8 software (GraphPad Software, Inc) and shown as mean +- SEM."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The Shanghai Changhai Hospital Ethics Committee approved the studies , and we obtained written informed consent from all participants .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Shanghai Changhai Hospital Ethics Committee approved the studies , and we obtained written informed consent from all participants ."
+              }]
+          }, {
+            "sentence" : "The Shanghai Changhai Hospital Ethics Committee approved the studies , and we obtained written informed consent from all participants .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Shanghai Changhai Hospital Ethics Committee approved the studies , and we obtained written informed consent from all participants ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Additional 24 participants (12 patients with TNBC and 12 healthy donors) donated serum, and 16 participants (eight patients with TNBC and eight health donors) donated serum exosomes these were used for data validation.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Additional 24 participants (12 patients with TNBC and 12 healthy donors) donated serum, and 16 participants (eight patients with TNBC and eight health donors) donated serum exosomes these were used for data validation."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Patient Serum Samples Serum samples from patients with TNBC (n = 30 aged 36-88 years median age, 52) were obtained from College of Basic Medical Sciences, Navy Medical University (supplemental Table",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patient Serum Samples Serum samples from patients with TNBC (n = 30 aged 36-88 years median age, 52) were obtained from College of Basic Medical Sciences, Navy Medical University (supplemental Table"
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The peptides in each individual sample and the pooled samples were randomly distributed and labeled across three 10-plex TMT experiments.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The peptides in each individual sample and the pooled samples were randomly distributed and labeled across three 10-plex TMT experiments."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Statistical Analysis All functional experiments were repeated independently at least three times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical Analysis All functional experiments were repeated independently at least three times."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "Statistical Analysis All functional experiments were repeated independently at least three times.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical Analysis All functional experiments were repeated independently at least three times."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "All cells were cultured in a humidified incubator with 5 CO2 at 37 degC and confirmed to be free of mycoplasma contamination .",
+            "title" : "Contamination",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All cells were cultured in a humidified incubator with 5 CO2 at 37 degC and confirmed to be free of mycoplasma contamination ."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "DEPs were determined by t test and further characterized through gene enrichment and network analysis.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "DEPs were determined by t test and further characterized through gene enrichment and network analysis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }, {
+            "sentence" : "Significant p value was obtained by Students t test ( patients with TNBC versus health donors)",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Significant p value was obtained by Students t test ( patients with TNBC versus health donors)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t test"
+                  }],
+                "neText" : "Students t test"
+              }]
+          }, {
+            "sentence" : "Multiple sets of data were analyzed by one-way or two-way ANOVA, and unpaired Students t test was used for analyses of two sets of data.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Multiple sets of data were analyzed by one-way or two-way ANOVA, and unpaired Students t test was used for analyses of two sets of data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }]
+  }
+}

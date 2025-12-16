@@ -1,0 +1,297 @@
+{
+  "docIdentifier" : "PMC8689689",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "SW480 Cell Culture and Spheroid Generation The human colorectal adenocarcinoma SW480 ( CCL-228",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "SW480 Cell Culture and Spheroid Generation The human colorectal adenocarcinoma SW480 ( CCL-228"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0546",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SW480"
+                }],
+              "neText" : "SW480"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "The ALPaGA plasmid is available from Addgene (plasmid ID: 175272).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The ALPaGA plasmid is available from Addgene (plasmid ID: 175272)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ALPaGA"
+                }],
+              "neText" : "ALPaGA"
+            }]
+        }, {
+          "sentence" : "Library Design and Plasmid Construction All the biosensor parts were built on the backbone pSB4K5, 53 containing a pSC101 origin of replication and a kanamycin resistance cassette.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Library Design and Plasmid Construction All the biosensor parts were built on the backbone pSB4K5, 53 containing a pSC101 origin of replication and a kanamycin resistance cassette."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pSC101"
+                }],
+              "neText" : "pSC101"
+            }]
+        }, {
+          "sentence" : "74 We used the constitutive promoters J23101 and RBS_B0032 as our in vivo reference standard and placed superfolder GFP as a reporter gene in plasmid pSB4K5 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "74 We used the constitutive promoters J23101 and RBS_B0032 as our in vivo reference standard and placed superfolder GFP as a reporter gene in plasmid pSB4K5 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pSB4K5"
+                }],
+              "neText" : "pSB4K5"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The RBS library design was derived from the Anderson family with the following sequence: GAAAGACNRGARRC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The RBS library design was derived from the Anderson family with the following sequence: GAAAGACNRGARRC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAAAGACNRGARRC"
+                }],
+              "neText" : "GAAAGACNRGARRC"
+            }]
+        }, {
+          "sentence" : "The cells were gated based on forward and side scatter graphs, and events on single-cell gates were selected and analyzed to remove debris from the analysis (Figure S10), by Flow-Jo (Treestar, Inc) software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The cells were gated based on forward and side scatter graphs, and events on single-cell gates were selected and analyzed to remove debris from the analysis (Figure S10), by Flow-Jo (Treestar, Inc) software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Flow-Jo"
+                }],
+              "neText" : "Flow-Jo"
+            }]
+        }, {
+          "sentence" : "We quantify the geometric mean of fluorescence intensity ( MFI ) of the flow cytometry data and calculated RPUs according to the following equation 1 The goodness of fit and the EC50 for each data set were calculated by applying nonlinear regression using the agonist versus response variable slope function in GraphPad Prism .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We quantify the geometric mean of fluorescence intensity ( MFI ) of the flow cytometry data and calculated RPUs according to the following equation 1 The goodness of fit and the EC50 for each data set were calculated by applying nonlinear regression using the agonist versus response variable slope function in GraphPad Prism ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }, {
+          "sentence" : "Images were acquired at 24 , 48 h after l-lactate biosensor inoculation , and analyzed using Fiji software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images were acquired at 24 , 48 h after l-lactate biosensor inoculation , and analyzed using Fiji software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji"
+                }],
+              "neText" : "Fiji"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All experiments were performed in triplicate at three independent occasions.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were performed in triplicate at three independent occasions."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "All experiments were performed in triplicate at three independent occasions.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experiments were performed in triplicate at three independent occasions."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "The ALPaGA plasmid is available from Addgene (plasmid ID: 175272).",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The ALPaGA plasmid is available from Addgene (plasmid ID: 175272)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  }
+}

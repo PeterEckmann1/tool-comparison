@@ -1,0 +1,562 @@
+{
+  "docIdentifier" : "PMC8901439",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Generation of murine embryonic Dnmt1 N1580A knock-in cells using CRISPR-Cas9 editing An E14TG2a cell line bearing a homozygous N1580A codon substitution in exon 38 of the mouse Dnmt1 locus was generated using Cas9sgRNA RNP nuclease and a 70-mer ssDNA as a HDR template sgRNA was designed using the Benchling tool (www.benchling.com) and synthesized using a TranscriptAid T7 High Yield Transcription Kit (Thermo Fisher Scientific) as described previously (Modzelewski et al., 2018).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Generation of murine embryonic Dnmt1 N1580A knock-in cells using CRISPR-Cas9 editing An E14TG2a cell line bearing a homozygous N1580A codon substitution in exon 38 of the mouse Dnmt1 locus was generated using Cas9sgRNA RNP nuclease and a 70-mer ssDNA as a HDR template sgRNA was designed using the Benchling tool (www.benchling.com) and synthesized using a TranscriptAid T7 High Yield Transcription Kit (Thermo Fisher Scientific) as described previously (Modzelewski et al., 2018)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "E14TG2a"
+                }],
+              "neText" : "E14TG2a"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Briefly, E. coli ER2267 cells were transformed with pDL2-14 and grown in 5 mL of LB media supplemented with 100 mgmL ampicillin overnight at 37degC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly, E. coli ER2267 cells were transformed with pDL2-14 and grown in 5 mL of LB media supplemented with 100 mgmL ampicillin overnight at 37degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pDL2-14"
+                }],
+              "neText" : "pDL2-14"
+            }]
+        }, {
+          "sentence" : "The pPIC3.5K vector containing a His-tagged N-truncated form (residues 291-1602) of the mouse DNA methyltransferase Dnmt1 was constructed as described previously (Vilkaitis et al., 2005).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The pPIC3.5K vector containing a His-tagged N-truncated form (residues 291-1602) of the mouse DNA methyltransferase Dnmt1 was constructed as described previously (Vilkaitis et al., 2005)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pPIC3.5K"
+                }],
+              "neText" : "pPIC3.5K"
+            }]
+        }, {
+          "sentence" : "Obtained fragments were cloned into BsptI and NotI sites (for Q1230A substitution) or EcoRI and NotI sites (for R1576A, N1580A and R1576AN1580A substitution) of pPIC3.5K-Dnmt1-dN.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Obtained fragments were cloned into BsptI and NotI sites (for Q1230A substitution) or EcoRI and NotI sites (for R1576A, N1580A and R1576AN1580A substitution) of pPIC3.5K-Dnmt1-dN."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pPIC3.5K-Dnmt1-dN"
+                }],
+              "neText" : "pPIC3.5K-Dnmt1-dN"
+            }]
+        }, {
+          "sentence" : "Obtained PCR products were purified using a GeneJET PCR purification kit (Thermo Fisher Scientific) and cloned into the pUC19 vector.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Obtained PCR products were purified using a GeneJET PCR purification kit (Thermo Fisher Scientific) and cloned into the pUC19 vector."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_99351",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pUC19"
+                }],
+              "neText" : "pUC19"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Chemicals, peptides, and recombinant proteins Gelatin Sigma-Aldrich CatG1890 Trypsin-EDTA Gibco Cat15400-054 Dulbeccos modified Eagles medium Gibco Cat11960-044 Embryonic stem-cell FBS Gibco Cat16141-079 Penicillin-Streptomycin Gibco Cat15140-122 Sodium pyruvate Gibco Cat11360-070 2-mercaptoethanol Gibco Cat21985-023 GlutaMAX Gibco Cat35050-061 MEM Non-essential amino acids Gibco Cat11140-050 Mouse leukemia inhibitory factor EMD Millipore CatESG1106 CHIR99021 Sigma-Aldrich CatSML1046 PD0325901 Sigma-Aldrich CatPZ0162 Opti-MEM Gibco Cat11058-021 TranscriptAid T7 High Yield Transcription Kit Thermo Fisher Scientific CatK0441 GeneArt Platinum Cas9 Nuclease Invitrogen CatB25640 Lipofectamine LTX Invitrogen Cat15335-100 Puromycin Sigma-Aldrich CatP8833 Phire Tissue Direct PCR Master Mix Thermo Fisher Scientific CatF170L S-adenosyl-L-homocysteine Sigma-Aldrich CatA9384 S-adenosyl-L-methionine Sigma-Aldrich CatA7007 AdoButen (S-Adenosyl-S-crotyl-L-homocysteine) Prof. Elmar Weinhold (Stecher et al., 2009) NA AdoButyn (S-Adenosyl-S-but-2-ynyl-L-homocysteine) Dalhoff et al., 2006 NA AdoEnYn (S-Adenosyl-S-pent-4-yn-2-enyl-L-homocysteine) Peters et al., 2010 NA Ado-6-azide (S-Adenosyl-S-(6-azidohex-2-ynyl)- L-homocysteine) Masevicius et al., 2016 NA Ado-6-amine (S-Adenosyl-S-(6-aminohex-2-ynyl)-L-homocysteine) Masevicius et al., 2016 NA Ado-6-ethyne (S-Adenosyl-S-(oct-2,6-diynyl)-L-homocysteine) Lukinavicius et al., 2013 NA Ado-13-biotin Osipenko et al., 2017 NA Poly(dI-dC) * Poly(dI-dC) Sigma-Aldrich CatP4929 Poly(dG-dC) * Poly(dG-dC) Sigma-Aldrich CatP9389 methyl- 3H-S-adenosyl-L-methionine PerkinElmer CatNET155001MC g-32PATP PerkinElmer CatNEG502Z001MC T4 PNK Thermo Fisher Scientific CatEK0032 Geneticin Sigma-Aldrich CatA1720 PMSF Sigma-Aldrich Cat78830 cOmplete Mini EDTA-free Protease Inhibitor Cocktail Roche Cat4693159001 SatI restriction enzyme Thermo Fisher Scientific CatER1641 FastDigest BspTI Thermo Fisher Scientific CatFD0834 FastDigest NotI Thermo Fisher Scientific CatFD0596 FastDigest EcoRI Thermo Fisher Scientific CatFD0274 FastDigest SacI Thermo Fisher Scientific CatFD1134 FastDigest HhaI Thermo Fisher Scientific CatFD1854 FastDigest XbaI Thermo Fisher Scientific CatFD0685 Scintillation cocktail Rotiszint(r) Eco plus Carl Roth Cat0016.3 Proteinase K, recombinant, PCR grade Thermo Fisher Scientific CatEO0491 RNase A Thermo Fisher Scientific CatEN0531 Genomic DNA Clean & Concentrator-10 Kit Zymo Research CatD4011 Nuclease P1 from Penicillium citrinum Sigma-Aldrich CatN8630 FastAP Thermosensitive Alkaline Phosphatase Thermo Fisher Scientific CatEF0654 dCTP Thermo Fisher Scientific CatR0151 dGTP Thermo Fisher Scientific CatR0161 dATP Thermo Fisher Scientific Cat R0141 dTTP Thermo Fisher Scientific CatR0171 5-Methyl-dCTP Thermo Fisher Scientific CatR0431 Alkyne MegaStokes dye 608 Sigma-Aldrich Cat79249 Igepal CA-630 Sigma-Aldrich CatI8896 BCN-amine Sigma-Aldrich Cat745073 MTT Sigma-Aldrich CatM5655 Fast DNA End Repair Kit Thermo Fisher Scientific CatK0771 Klenow Fragment, exo- Thermo Fisher Scientific CatEP0422 T4 DNA Ligase Thermo Fisher Scientific CatEL0011 CuBr, 99.999 Sigma-Aldrich Cat254185-10G DMSO Sigma-Aldrich Cat472301 THPTA Sigma-Aldrich Cat762342-500MG dNTP Mix (2 mM each) Thermo Fisher Scientific CatR0241 Pfu DNA polymerase (recombinant) Thermo Fisher Scientific CatEP0502 Platinum SuperFi PCR Master Mix Thermo Fisher Scientific Cat12358010 Dynabeads MyOne C1 Streptavidin magnetic beads Thermo Fisher Scientific Cat65002 GeneJET PCR purification kit Thermo Fisher Scientific CatK0702 GeneJet NGS Cleanup kit Thermo Fisher Scientific CatK0851 DNA Clean & Concentrator-5 Kit Zymo Research CatD4013 MagJET NGS Cleanup and Size Selection Kit Thermo Fisher Scientific Cat K2821 Agilent High Sensitivity DNA Kit Agilent Cat5067-4626 Ion PI(tm) Hi-Q(tm) OT2 200 Kit Thermo Fisher Scientific Cat A26434 Ion PI(tm) Hi-Q(tm) Sequencing 200 Thermo Fisher Scientific Cat A26772 Ion PI(tm) Chip Kit v3 Thermo Fisher Scientific Cat A26771 GeneJet RNA purification kit Thermo Fisher Scientific CatK0731 dsDNase Thermo Fisher Scientific CatEN0771 RevertAid(tm) RT reverse transcriptase Thermo Fisher Scientific CatEP0441 2x SYBR(tm) Green PCR Master Mix Thermo Fisher Scientific CatK253 Phusion U Hot Start polymerase Thermo Fisher Scientific CatF555S EZ DNA Methylation-Gold Kit Zymo Research CatD5005 Deposited data Dnmt-TOP-seq data This work GEO: GSE182445 ChIP-seq data for Dnmt3a1 and Dnmt3b Weinberg et al., 2019 GEO: GSE118785 Raw gel images This work Mendeley Data: 10.17632kddxk2d7pc.1 Experimental models: Cell lines Mouse embryonic stem cells, E14TG2a ATCC CRL-1821 Mouse embryonic stem cells, E14TG2a Dnmt1 N1580A This work NA Mouse embryonic stem cells, E14TG2a Dnmt1-KO This work NA P. pastoris GS115 Thermo Fisher Scientific CatC18100 Oligonucleotides See Table S2 for oligonucleotide sequences Metabion NA Biotinylated alkyne-containing DNA oligonucleotide, 5-TXTTTTGTGTGGTTTGGAGACT GACTACCAGATGT AACA-Biotin X=C8-Alkyne-dT BaseClick NA Complementary priming strand with custom LNA modifications and phosphorothioate linkages at the 3 end, 5-TGTTACATCTGGTAGTCAGTCT CCAAACCACACAA Exiqon NA Recombinant DNA pSpCas9(BB)-2A-Puro (PX459) plasmid Addgene (Rohde et al., 2010) Cat62988 pDL2-14 plasmid Gerasimaite et al., 2009 NA pUC19 plasmid Thermo Fisher Scientific CatSD0061 pPIC3.5K Thermo Fisher Scientific CatV17320 pPIC3.5K-Dnmt1-dN Vilkaitis et al., 2005 NA Software and algorithms Cutadapt (3.4) Martin, 2011 https:cutadapt.readthedocs.io R (3.5) R project https:www.r-project.org FASTX (0.0.13) Hannon Lab, CSHL http:hannonlab.cshl.edufastx_toolkitindex.html BWA (0.7.17) Li and Durbin, 2009 http:bio-bwa.sourceforge.net PyMOL (1.7) PyMOL Molecular Graphics System by Schrodinger https:pymol.org liftOver UCSC genome browser store https:genome-store.ucsc.edu clusterProfile (3.10.1) Yu et al., 2012 http:bioconductor.orgpackagesreleasebiochtmlclusterProfiler.html Other Repeat Masker annotation Karolchik et al., 2004 https:genome.ucsc.edu CpG island annotation Karolchik et al., 2004 https:genome.ucsc.edu Gene annotation Frankish et al., 2019 https:www.gencodegenes.org Detailed bench protocol This work Methods S1 Resource availability Lead contact Further information and reasonable requests for resources and reagents should be directed to and will be fulfilled by the Lead Contact, Saulius Klimasauskas (saulius.klimasauskasbti.vu.lt).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Chemicals, peptides, and recombinant proteins Gelatin Sigma-Aldrich CatG1890 Trypsin-EDTA Gibco Cat15400-054 Dulbeccos modified Eagles medium Gibco Cat11960-044 Embryonic stem-cell FBS Gibco Cat16141-079 Penicillin-Streptomycin Gibco Cat15140-122 Sodium pyruvate Gibco Cat11360-070 2-mercaptoethanol Gibco Cat21985-023 GlutaMAX Gibco Cat35050-061 MEM Non-essential amino acids Gibco Cat11140-050 Mouse leukemia inhibitory factor EMD Millipore CatESG1106 CHIR99021 Sigma-Aldrich CatSML1046 PD0325901 Sigma-Aldrich CatPZ0162 Opti-MEM Gibco Cat11058-021 TranscriptAid T7 High Yield Transcription Kit Thermo Fisher Scientific CatK0441 GeneArt Platinum Cas9 Nuclease Invitrogen CatB25640 Lipofectamine LTX Invitrogen Cat15335-100 Puromycin Sigma-Aldrich CatP8833 Phire Tissue Direct PCR Master Mix Thermo Fisher Scientific CatF170L S-adenosyl-L-homocysteine Sigma-Aldrich CatA9384 S-adenosyl-L-methionine Sigma-Aldrich CatA7007 AdoButen (S-Adenosyl-S-crotyl-L-homocysteine) Prof. Elmar Weinhold (Stecher et al., 2009) NA AdoButyn (S-Adenosyl-S-but-2-ynyl-L-homocysteine) Dalhoff et al., 2006 NA AdoEnYn (S-Adenosyl-S-pent-4-yn-2-enyl-L-homocysteine) Peters et al., 2010 NA Ado-6-azide (S-Adenosyl-S-(6-azidohex-2-ynyl)- L-homocysteine) Masevicius et al., 2016 NA Ado-6-amine (S-Adenosyl-S-(6-aminohex-2-ynyl)-L-homocysteine) Masevicius et al., 2016 NA Ado-6-ethyne (S-Adenosyl-S-(oct-2,6-diynyl)-L-homocysteine) Lukinavicius et al., 2013 NA Ado-13-biotin Osipenko et al., 2017 NA Poly(dI-dC) * Poly(dI-dC) Sigma-Aldrich CatP4929 Poly(dG-dC) * Poly(dG-dC) Sigma-Aldrich CatP9389 methyl- 3H-S-adenosyl-L-methionine PerkinElmer CatNET155001MC g-32PATP PerkinElmer CatNEG502Z001MC T4 PNK Thermo Fisher Scientific CatEK0032 Geneticin Sigma-Aldrich CatA1720 PMSF Sigma-Aldrich Cat78830 cOmplete Mini EDTA-free Protease Inhibitor Cocktail Roche Cat4693159001 SatI restriction enzyme Thermo Fisher Scientific CatER1641 FastDigest BspTI Thermo Fisher Scientific CatFD0834 FastDigest NotI Thermo Fisher Scientific CatFD0596 FastDigest EcoRI Thermo Fisher Scientific CatFD0274 FastDigest SacI Thermo Fisher Scientific CatFD1134 FastDigest HhaI Thermo Fisher Scientific CatFD1854 FastDigest XbaI Thermo Fisher Scientific CatFD0685 Scintillation cocktail Rotiszint(r) Eco plus Carl Roth Cat0016.3 Proteinase K, recombinant, PCR grade Thermo Fisher Scientific CatEO0491 RNase A Thermo Fisher Scientific CatEN0531 Genomic DNA Clean & Concentrator-10 Kit Zymo Research CatD4011 Nuclease P1 from Penicillium citrinum Sigma-Aldrich CatN8630 FastAP Thermosensitive Alkaline Phosphatase Thermo Fisher Scientific CatEF0654 dCTP Thermo Fisher Scientific CatR0151 dGTP Thermo Fisher Scientific CatR0161 dATP Thermo Fisher Scientific Cat R0141 dTTP Thermo Fisher Scientific CatR0171 5-Methyl-dCTP Thermo Fisher Scientific CatR0431 Alkyne MegaStokes dye 608 Sigma-Aldrich Cat79249 Igepal CA-630 Sigma-Aldrich CatI8896 BCN-amine Sigma-Aldrich Cat745073 MTT Sigma-Aldrich CatM5655 Fast DNA End Repair Kit Thermo Fisher Scientific CatK0771 Klenow Fragment, exo- Thermo Fisher Scientific CatEP0422 T4 DNA Ligase Thermo Fisher Scientific CatEL0011 CuBr, 99.999 Sigma-Aldrich Cat254185-10G DMSO Sigma-Aldrich Cat472301 THPTA Sigma-Aldrich Cat762342-500MG dNTP Mix (2 mM each) Thermo Fisher Scientific CatR0241 Pfu DNA polymerase (recombinant) Thermo Fisher Scientific CatEP0502 Platinum SuperFi PCR Master Mix Thermo Fisher Scientific Cat12358010 Dynabeads MyOne C1 Streptavidin magnetic beads Thermo Fisher Scientific Cat65002 GeneJET PCR purification kit Thermo Fisher Scientific CatK0702 GeneJet NGS Cleanup kit Thermo Fisher Scientific CatK0851 DNA Clean & Concentrator-5 Kit Zymo Research CatD4013 MagJET NGS Cleanup and Size Selection Kit Thermo Fisher Scientific Cat K2821 Agilent High Sensitivity DNA Kit Agilent Cat5067-4626 Ion PI(tm) Hi-Q(tm) OT2 200 Kit Thermo Fisher Scientific Cat A26434 Ion PI(tm) Hi-Q(tm) Sequencing 200 Thermo Fisher Scientific Cat A26772 Ion PI(tm) Chip Kit v3 Thermo Fisher Scientific Cat A26771 GeneJet RNA purification kit Thermo Fisher Scientific CatK0731 dsDNase Thermo Fisher Scientific CatEN0771 RevertAid(tm) RT reverse transcriptase Thermo Fisher Scientific CatEP0441 2x SYBR(tm) Green PCR Master Mix Thermo Fisher Scientific CatK253 Phusion U Hot Start polymerase Thermo Fisher Scientific CatF555S EZ DNA Methylation-Gold Kit Zymo Research CatD5005 Deposited data Dnmt-TOP-seq data This work GEO: GSE182445 ChIP-seq data for Dnmt3a1 and Dnmt3b Weinberg et al., 2019 GEO: GSE118785 Raw gel images This work Mendeley Data: 10.17632kddxk2d7pc.1 Experimental models: Cell lines Mouse embryonic stem cells, E14TG2a ATCC CRL-1821 Mouse embryonic stem cells, E14TG2a Dnmt1 N1580A This work NA Mouse embryonic stem cells, E14TG2a Dnmt1-KO This work NA P. pastoris GS115 Thermo Fisher Scientific CatC18100 Oligonucleotides See Table S2 for oligonucleotide sequences Metabion NA Biotinylated alkyne-containing DNA oligonucleotide, 5-TXTTTTGTGTGGTTTGGAGACT GACTACCAGATGT AACA-Biotin X=C8-Alkyne-dT BaseClick NA Complementary priming strand with custom LNA modifications and phosphorothioate linkages at the 3 end, 5-TGTTACATCTGGTAGTCAGTCT CCAAACCACACAA Exiqon NA Recombinant DNA pSpCas9(BB)-2A-Puro (PX459) plasmid Addgene (Rohde et al., 2010) Cat62988 pDL2-14 plasmid Gerasimaite et al., 2009 NA pUC19 plasmid Thermo Fisher Scientific CatSD0061 pPIC3.5K Thermo Fisher Scientific CatV17320 pPIC3.5K-Dnmt1-dN Vilkaitis et al., 2005 NA Software and algorithms Cutadapt (3.4) Martin, 2011 https:cutadapt.readthedocs.io R (3.5) R project https:www.r-project.org FASTX (0.0.13) Hannon Lab, CSHL http:hannonlab.cshl.edufastx_toolkitindex.html BWA (0.7.17) Li and Durbin, 2009 http:bio-bwa.sourceforge.net PyMOL (1.7) PyMOL Molecular Graphics System by Schrodinger https:pymol.org liftOver UCSC genome browser store https:genome-store.ucsc.edu clusterProfile (3.10.1) Yu et al., 2012 http:bioconductor.orgpackagesreleasebiochtmlclusterProfiler.html Other Repeat Masker annotation Karolchik et al., 2004 https:genome.ucsc.edu CpG island annotation Karolchik et al., 2004 https:genome.ucsc.edu Gene annotation Frankish et al., 2019 https:www.gencodegenes.org Detailed bench protocol This work Methods S1 Resource availability Lead contact Further information and reasonable requests for resources and reagents should be directed to and will be fulfilled by the Lead Contact, Saulius Klimasauskas (saulius.klimasauskasbti.vu.lt)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.r-project.org"
+                }],
+              "neText" : "https:www.r-project.org"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UCSC genome browser"
+                }],
+              "neText" : "UCSC genome browser"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.gencodegenes.org"
+                }],
+              "neText" : "https:www.gencodegenes.org"
+            }]
+        }, {
+          "sentence" : "Poly(dI-dC)*poly(dI-dC) and poly(dG-dC)*poly(dG-dC) DNAs were purchased from Sigma Aldrich.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Poly(dI-dC)*poly(dI-dC) and poly(dG-dC)*poly(dG-dC) DNAs were purchased from Sigma Aldrich."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma Aldrich"
+                }],
+              "neText" : "Sigma Aldrich"
+            }]
+        }, {
+          "sentence" : "Dnmt1 mutagenesis, expression and purification In silico examination and modelling of the catalyticcofactor binding pocket in the co-crystal structures of mouse Dnmt1-AdoHcy complexes (PDB entries: 6w8v and 6w8w) was carried out using the PyMOL Molecular Graphics System (v. 1.7).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Dnmt1 mutagenesis, expression and purification In silico examination and modelling of the catalyticcofactor binding pocket in the co-crystal structures of mouse Dnmt1-AdoHcy complexes (PDB entries: 6w8v and 6w8w) was carried out using the PyMOL Molecular Graphics System (v. 1.7)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PyMOL, RRID:SCR_000305",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PyMOL"
+                }],
+              "neText" : "PyMOL"
+            }]
+        }, {
+          "sentence" : "For quantitative analysis, standard curves were generated using FastAP-treated nucleotides (Thermo Fisher Scientific): m5dC (linear range of 0.0125-0.8 pmol) and dC, dG, dT, dA (0.38-12 pmol).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For quantitative analysis, standard curves were generated using FastAP-treated nucleotides (Thermo Fisher Scientific): m5dC (linear range of 0.0125-0.8 pmol) and dC, dG, dT, dA (0.38-12 pmol)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Thermo Fisher Scientific)"
+                }],
+              "neText" : "Thermo Fisher Scientific)"
+            }]
+        }, {
+          "sentence" : "Data were analyzed using Agilent MassHunter software and Microsoft Excel.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analyzed using Agilent MassHunter software and Microsoft Excel."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Agilent MassHunter"
+                }],
+              "neText" : "Agilent MassHunter"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }, {
+          "sentence" : "CpG methylation status of bisulfite sequencing data was evaluated using BISMA tool (Rohde et al., 2010).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "CpG methylation status of bisulfite sequencing data was evaluated using BISMA tool (Rohde et al., 2010)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BISMA"
+                }],
+              "neText" : "BISMA"
+            }]
+        }, {
+          "sentence" : "Processed read sequences were mapped to the mouse genome (build mm10) using BWA tool and only mappings with quality score 30 or above were retained (Li and Durbin, 2009).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Processed read sequences were mapped to the mouse genome (build mm10) using BWA tool and only mappings with quality score 30 or above were retained (Li and Durbin, 2009)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BWA (RRID:SCR_010910)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BWA"
+                }],
+              "neText" : "BWA"
+            }]
+        }, {
+          "sentence" : "Mouse genome sequence in the fasta file format, Repeat element (Repeat Masker annotation, rmsk) and CpG island (cpgIslandExt annotation) genomic locations in the BED file format were downloaded from the UCSC database (Karolchik et al., 2004).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Mouse genome sequence in the fasta file format, Repeat element (Repeat Masker annotation, rmsk) and CpG island (cpgIslandExt annotation) genomic locations in the BED file format were downloaded from the UCSC database (Karolchik et al., 2004)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Repeat"
+                }],
+              "neText" : "Repeat"
+            }]
+        }, {
+          "sentence" : "Reference gene annotations was obtained from the GENCODE project in the GTF file format (Frankish et al., 2019).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Reference gene annotations was obtained from the GENCODE project in the GTF file format (Frankish et al., 2019)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GENCODE"
+                }],
+              "neText" : "GENCODE"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Sixteen clones of each sample were randomly selected for Sanger sequencing.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sixteen clones of each sample were randomly selected for Sanger sequencing."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "For each biological replicate fraction of CpG sites with at least one read was computed and only CGIs where all biological replicates had identified CpG sites were selected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For each biological replicate fraction of CpG sites with at least one read was computed and only CGIs where all biological replicates had identified CpG sites were selected."
+              }],
+            "mention" : {
+              "neText" : "replicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicate"
+                }]
+            }
+          }, {
+            "sentence" : "For each biological replicate fraction of CpG sites with at least one read was computed and only CGIs where all biological replicates had identified CpG sites were selected.",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For each biological replicate fraction of CpG sites with at least one read was computed and only CGIs where all biological replicates had identified CpG sites were selected."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Materials availability Plasmids generated in this study will be made available upon request.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials availability Plasmids generated in this study will be made available upon request."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "Public Sequencing Datasets Dnmt-TOP-seq data have been deposited at the NCBI GEO under accession number GSE182445.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Public Sequencing Datasets Dnmt-TOP-seq data have been deposited at the NCBI GEO under accession number GSE182445."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }, {
+            "sentence" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Chemicals, peptides, and recombinant proteins Gelatin Sigma-Aldrich CatG1890 Trypsin-EDTA Gibco Cat15400-054 Dulbeccos modified Eagles medium Gibco Cat11960-044 Embryonic stem-cell FBS Gibco Cat16141-079 Penicillin-Streptomycin Gibco Cat15140-122 Sodium pyruvate Gibco Cat11360-070 2-mercaptoethanol Gibco Cat21985-023 GlutaMAX Gibco Cat35050-061 MEM Non-essential amino acids Gibco Cat11140-050 Mouse leukemia inhibitory factor EMD Millipore CatESG1106 CHIR99021 Sigma-Aldrich CatSML1046 PD0325901 Sigma-Aldrich CatPZ0162 Opti-MEM Gibco Cat11058-021 TranscriptAid T7 High Yield Transcription Kit Thermo Fisher Scientific CatK0441 GeneArt Platinum Cas9 Nuclease Invitrogen CatB25640 Lipofectamine LTX Invitrogen Cat15335-100 Puromycin Sigma-Aldrich CatP8833 Phire Tissue Direct PCR Master Mix Thermo Fisher Scientific CatF170L S-adenosyl-L-homocysteine Sigma-Aldrich CatA9384 S-adenosyl-L-methionine Sigma-Aldrich CatA7007 AdoButen (S-Adenosyl-S-crotyl-L-homocysteine) Prof. Elmar Weinhold (Stecher et al., 2009) NA AdoButyn (S-Adenosyl-S-but-2-ynyl-L-homocysteine) Dalhoff et al., 2006 NA AdoEnYn (S-Adenosyl-S-pent-4-yn-2-enyl-L-homocysteine) Peters et al., 2010 NA Ado-6-azide (S-Adenosyl-S-(6-azidohex-2-ynyl)- L-homocysteine) Masevicius et al., 2016 NA Ado-6-amine (S-Adenosyl-S-(6-aminohex-2-ynyl)-L-homocysteine) Masevicius et al., 2016 NA Ado-6-ethyne (S-Adenosyl-S-(oct-2,6-diynyl)-L-homocysteine) Lukinavicius et al., 2013 NA Ado-13-biotin Osipenko et al., 2017 NA Poly(dI-dC) * Poly(dI-dC) Sigma-Aldrich CatP4929 Poly(dG-dC) * Poly(dG-dC) Sigma-Aldrich CatP9389 methyl- 3H-S-adenosyl-L-methionine PerkinElmer CatNET155001MC g-32PATP PerkinElmer CatNEG502Z001MC T4 PNK Thermo Fisher Scientific CatEK0032 Geneticin Sigma-Aldrich CatA1720 PMSF Sigma-Aldrich Cat78830 cOmplete Mini EDTA-free Protease Inhibitor Cocktail Roche Cat4693159001 SatI restriction enzyme Thermo Fisher Scientific CatER1641 FastDigest BspTI Thermo Fisher Scientific CatFD0834 FastDigest NotI Thermo Fisher Scientific CatFD0596 FastDigest EcoRI Thermo Fisher Scientific CatFD0274 FastDigest SacI Thermo Fisher Scientific CatFD1134 FastDigest HhaI Thermo Fisher Scientific CatFD1854 FastDigest XbaI Thermo Fisher Scientific CatFD0685 Scintillation cocktail Rotiszint(r) Eco plus Carl Roth Cat0016.3 Proteinase K, recombinant, PCR grade Thermo Fisher Scientific CatEO0491 RNase A Thermo Fisher Scientific CatEN0531 Genomic DNA Clean & Concentrator-10 Kit Zymo Research CatD4011 Nuclease P1 from Penicillium citrinum Sigma-Aldrich CatN8630 FastAP Thermosensitive Alkaline Phosphatase Thermo Fisher Scientific CatEF0654 dCTP Thermo Fisher Scientific CatR0151 dGTP Thermo Fisher Scientific CatR0161 dATP Thermo Fisher Scientific Cat R0141 dTTP Thermo Fisher Scientific CatR0171 5-Methyl-dCTP Thermo Fisher Scientific CatR0431 Alkyne MegaStokes dye 608 Sigma-Aldrich Cat79249 Igepal CA-630 Sigma-Aldrich CatI8896 BCN-amine Sigma-Aldrich Cat745073 MTT Sigma-Aldrich CatM5655 Fast DNA End Repair Kit Thermo Fisher Scientific CatK0771 Klenow Fragment, exo- Thermo Fisher Scientific CatEP0422 T4 DNA Ligase Thermo Fisher Scientific CatEL0011 CuBr, 99.999 Sigma-Aldrich Cat254185-10G DMSO Sigma-Aldrich Cat472301 THPTA Sigma-Aldrich Cat762342-500MG dNTP Mix (2 mM each) Thermo Fisher Scientific CatR0241 Pfu DNA polymerase (recombinant) Thermo Fisher Scientific CatEP0502 Platinum SuperFi PCR Master Mix Thermo Fisher Scientific Cat12358010 Dynabeads MyOne C1 Streptavidin magnetic beads Thermo Fisher Scientific Cat65002 GeneJET PCR purification kit Thermo Fisher Scientific CatK0702 GeneJet NGS Cleanup kit Thermo Fisher Scientific CatK0851 DNA Clean & Concentrator-5 Kit Zymo Research CatD4013 MagJET NGS Cleanup and Size Selection Kit Thermo Fisher Scientific Cat K2821 Agilent High Sensitivity DNA Kit Agilent Cat5067-4626 Ion PI(tm) Hi-Q(tm) OT2 200 Kit Thermo Fisher Scientific Cat A26434 Ion PI(tm) Hi-Q(tm) Sequencing 200 Thermo Fisher Scientific Cat A26772 Ion PI(tm) Chip Kit v3 Thermo Fisher Scientific Cat A26771 GeneJet RNA purification kit Thermo Fisher Scientific CatK0731 dsDNase Thermo Fisher Scientific CatEN0771 RevertAid(tm) RT reverse transcriptase Thermo Fisher Scientific CatEP0441 2x SYBR(tm) Green PCR Master Mix Thermo Fisher Scientific CatK253 Phusion U Hot Start polymerase Thermo Fisher Scientific CatF555S EZ DNA Methylation-Gold Kit Zymo Research CatD5005 Deposited data Dnmt-TOP-seq data This work GEO: GSE182445 ChIP-seq data for Dnmt3a1 and Dnmt3b Weinberg et al., 2019 GEO: GSE118785 Raw gel images This work Mendeley Data: 10.17632kddxk2d7pc.1 Experimental models: Cell lines Mouse embryonic stem cells, E14TG2a ATCC CRL-1821 Mouse embryonic stem cells, E14TG2a Dnmt1 N1580A This work NA Mouse embryonic stem cells, E14TG2a Dnmt1-KO This work NA P. pastoris GS115 Thermo Fisher Scientific CatC18100 Oligonucleotides See Table S2 for oligonucleotide sequences Metabion NA Biotinylated alkyne-containing DNA oligonucleotide, 5-TXTTTTGTGTGGTTTGGAGACT GACTACCAGATGT AACA-Biotin X=C8-Alkyne-dT BaseClick NA Complementary priming strand with custom LNA modifications and phosphorothioate linkages at the 3 end, 5-TGTTACATCTGGTAGTCAGTCT CCAAACCACACAA Exiqon NA Recombinant DNA pSpCas9(BB)-2A-Puro (PX459) plasmid Addgene (Rohde et al., 2010) Cat62988 pDL2-14 plasmid Gerasimaite et al., 2009 NA pUC19 plasmid Thermo Fisher Scientific CatSD0061 pPIC3.5K Thermo Fisher Scientific CatV17320 pPIC3.5K-Dnmt1-dN Vilkaitis et al., 2005 NA Software and algorithms Cutadapt (3.4) Martin, 2011 https:cutadapt.readthedocs.io R (3.5) R project https:www.r-project.org FASTX (0.0.13) Hannon Lab, CSHL http:hannonlab.cshl.edufastx_toolkitindex.html BWA (0.7.17) Li and Durbin, 2009 http:bio-bwa.sourceforge.net PyMOL (1.7) PyMOL Molecular Graphics System by Schrodinger https:pymol.org liftOver UCSC genome browser store https:genome-store.ucsc.edu clusterProfile (3.10.1) Yu et al., 2012 http:bioconductor.orgpackagesreleasebiochtmlclusterProfiler.html Other Repeat Masker annotation Karolchik et al., 2004 https:genome.ucsc.edu CpG island annotation Karolchik et al., 2004 https:genome.ucsc.edu Gene annotation Frankish et al., 2019 https:www.gencodegenes.org Detailed bench protocol This work Methods S1 Resource availability Lead contact Further information and reasonable requests for resources and reagents should be directed to and will be fulfilled by the Lead Contact, Saulius Klimasauskas (saulius.klimasauskasbti.vu.lt).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Chemicals, peptides, and recombinant proteins Gelatin Sigma-Aldrich CatG1890 Trypsin-EDTA Gibco Cat15400-054 Dulbeccos modified Eagles medium Gibco Cat11960-044 Embryonic stem-cell FBS Gibco Cat16141-079 Penicillin-Streptomycin Gibco Cat15140-122 Sodium pyruvate Gibco Cat11360-070 2-mercaptoethanol Gibco Cat21985-023 GlutaMAX Gibco Cat35050-061 MEM Non-essential amino acids Gibco Cat11140-050 Mouse leukemia inhibitory factor EMD Millipore CatESG1106 CHIR99021 Sigma-Aldrich CatSML1046 PD0325901 Sigma-Aldrich CatPZ0162 Opti-MEM Gibco Cat11058-021 TranscriptAid T7 High Yield Transcription Kit Thermo Fisher Scientific CatK0441 GeneArt Platinum Cas9 Nuclease Invitrogen CatB25640 Lipofectamine LTX Invitrogen Cat15335-100 Puromycin Sigma-Aldrich CatP8833 Phire Tissue Direct PCR Master Mix Thermo Fisher Scientific CatF170L S-adenosyl-L-homocysteine Sigma-Aldrich CatA9384 S-adenosyl-L-methionine Sigma-Aldrich CatA7007 AdoButen (S-Adenosyl-S-crotyl-L-homocysteine) Prof. Elmar Weinhold (Stecher et al., 2009) NA AdoButyn (S-Adenosyl-S-but-2-ynyl-L-homocysteine) Dalhoff et al., 2006 NA AdoEnYn (S-Adenosyl-S-pent-4-yn-2-enyl-L-homocysteine) Peters et al., 2010 NA Ado-6-azide (S-Adenosyl-S-(6-azidohex-2-ynyl)- L-homocysteine) Masevicius et al., 2016 NA Ado-6-amine (S-Adenosyl-S-(6-aminohex-2-ynyl)-L-homocysteine) Masevicius et al., 2016 NA Ado-6-ethyne (S-Adenosyl-S-(oct-2,6-diynyl)-L-homocysteine) Lukinavicius et al., 2013 NA Ado-13-biotin Osipenko et al., 2017 NA Poly(dI-dC) * Poly(dI-dC) Sigma-Aldrich CatP4929 Poly(dG-dC) * Poly(dG-dC) Sigma-Aldrich CatP9389 methyl- 3H-S-adenosyl-L-methionine PerkinElmer CatNET155001MC g-32PATP PerkinElmer CatNEG502Z001MC T4 PNK Thermo Fisher Scientific CatEK0032 Geneticin Sigma-Aldrich CatA1720 PMSF Sigma-Aldrich Cat78830 cOmplete Mini EDTA-free Protease Inhibitor Cocktail Roche Cat4693159001 SatI restriction enzyme Thermo Fisher Scientific CatER1641 FastDigest BspTI Thermo Fisher Scientific CatFD0834 FastDigest NotI Thermo Fisher Scientific CatFD0596 FastDigest EcoRI Thermo Fisher Scientific CatFD0274 FastDigest SacI Thermo Fisher Scientific CatFD1134 FastDigest HhaI Thermo Fisher Scientific CatFD1854 FastDigest XbaI Thermo Fisher Scientific CatFD0685 Scintillation cocktail Rotiszint(r) Eco plus Carl Roth Cat0016.3 Proteinase K, recombinant, PCR grade Thermo Fisher Scientific CatEO0491 RNase A Thermo Fisher Scientific CatEN0531 Genomic DNA Clean & Concentrator-10 Kit Zymo Research CatD4011 Nuclease P1 from Penicillium citrinum Sigma-Aldrich CatN8630 FastAP Thermosensitive Alkaline Phosphatase Thermo Fisher Scientific CatEF0654 dCTP Thermo Fisher Scientific CatR0151 dGTP Thermo Fisher Scientific CatR0161 dATP Thermo Fisher Scientific Cat R0141 dTTP Thermo Fisher Scientific CatR0171 5-Methyl-dCTP Thermo Fisher Scientific CatR0431 Alkyne MegaStokes dye 608 Sigma-Aldrich Cat79249 Igepal CA-630 Sigma-Aldrich CatI8896 BCN-amine Sigma-Aldrich Cat745073 MTT Sigma-Aldrich CatM5655 Fast DNA End Repair Kit Thermo Fisher Scientific CatK0771 Klenow Fragment, exo- Thermo Fisher Scientific CatEP0422 T4 DNA Ligase Thermo Fisher Scientific CatEL0011 CuBr, 99.999 Sigma-Aldrich Cat254185-10G DMSO Sigma-Aldrich Cat472301 THPTA Sigma-Aldrich Cat762342-500MG dNTP Mix (2 mM each) Thermo Fisher Scientific CatR0241 Pfu DNA polymerase (recombinant) Thermo Fisher Scientific CatEP0502 Platinum SuperFi PCR Master Mix Thermo Fisher Scientific Cat12358010 Dynabeads MyOne C1 Streptavidin magnetic beads Thermo Fisher Scientific Cat65002 GeneJET PCR purification kit Thermo Fisher Scientific CatK0702 GeneJet NGS Cleanup kit Thermo Fisher Scientific CatK0851 DNA Clean & Concentrator-5 Kit Zymo Research CatD4013 MagJET NGS Cleanup and Size Selection Kit Thermo Fisher Scientific Cat K2821 Agilent High Sensitivity DNA Kit Agilent Cat5067-4626 Ion PI(tm) Hi-Q(tm) OT2 200 Kit Thermo Fisher Scientific Cat A26434 Ion PI(tm) Hi-Q(tm) Sequencing 200 Thermo Fisher Scientific Cat A26772 Ion PI(tm) Chip Kit v3 Thermo Fisher Scientific Cat A26771 GeneJet RNA purification kit Thermo Fisher Scientific CatK0731 dsDNase Thermo Fisher Scientific CatEN0771 RevertAid(tm) RT reverse transcriptase Thermo Fisher Scientific CatEP0441 2x SYBR(tm) Green PCR Master Mix Thermo Fisher Scientific CatK253 Phusion U Hot Start polymerase Thermo Fisher Scientific CatF555S EZ DNA Methylation-Gold Kit Zymo Research CatD5005 Deposited data Dnmt-TOP-seq data This work GEO: GSE182445 ChIP-seq data for Dnmt3a1 and Dnmt3b Weinberg et al., 2019 GEO: GSE118785 Raw gel images This work Mendeley Data: 10.17632kddxk2d7pc.1 Experimental models: Cell lines Mouse embryonic stem cells, E14TG2a ATCC CRL-1821 Mouse embryonic stem cells, E14TG2a Dnmt1 N1580A This work NA Mouse embryonic stem cells, E14TG2a Dnmt1-KO This work NA P. pastoris GS115 Thermo Fisher Scientific CatC18100 Oligonucleotides See Table S2 for oligonucleotide sequences Metabion NA Biotinylated alkyne-containing DNA oligonucleotide, 5-TXTTTTGTGTGGTTTGGAGACT GACTACCAGATGT AACA-Biotin X=C8-Alkyne-dT BaseClick NA Complementary priming strand with custom LNA modifications and phosphorothioate linkages at the 3 end, 5-TGTTACATCTGGTAGTCAGTCT CCAAACCACACAA Exiqon NA Recombinant DNA pSpCas9(BB)-2A-Puro (PX459) plasmid Addgene (Rohde et al., 2010) Cat62988 pDL2-14 plasmid Gerasimaite et al., 2009 NA pUC19 plasmid Thermo Fisher Scientific CatSD0061 pPIC3.5K Thermo Fisher Scientific CatV17320 pPIC3.5K-Dnmt1-dN Vilkaitis et al., 2005 NA Software and algorithms Cutadapt (3.4) Martin, 2011 https:cutadapt.readthedocs.io R (3.5) R project https:www.r-project.org FASTX (0.0.13) Hannon Lab, CSHL http:hannonlab.cshl.edufastx_toolkitindex.html BWA (0.7.17) Li and Durbin, 2009 http:bio-bwa.sourceforge.net PyMOL (1.7) PyMOL Molecular Graphics System by Schrodinger https:pymol.org liftOver UCSC genome browser store https:genome-store.ucsc.edu clusterProfile (3.10.1) Yu et al., 2012 http:bioconductor.orgpackagesreleasebiochtmlclusterProfiler.html Other Repeat Masker annotation Karolchik et al., 2004 https:genome.ucsc.edu CpG island annotation Karolchik et al., 2004 https:genome.ucsc.edu Gene annotation Frankish et al., 2019 https:www.gencodegenes.org Detailed bench protocol This work Methods S1 Resource availability Lead contact Further information and reasonable requests for resources and reagents should be directed to and will be fulfilled by the Lead Contact, Saulius Klimasauskas (saulius.klimasauskasbti.vu.lt)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE182445"
+                  }],
+                "neText" : "GSE182445"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE118785"
+                  }],
+                "neText" : "GSE118785"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "All protein-coding genes were used as a background set and only GO enrichments with Benjamini-Hochberg adjusted q-value less than 0.001 were selected.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All protein-coding genes were used as a background set and only GO enrichments with Benjamini-Hochberg adjusted q-value less than 0.001 were selected."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }]
+          }, {
+            "sentence" : "Enrichment of various genomic elements with the modification signal was computed using Fishers exact test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Enrichment of various genomic elements with the modification signal was computed using Fishers exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Chemicals, peptides, and recombinant proteins Gelatin Sigma-Aldrich CatG1890 Trypsin-EDTA Gibco Cat15400-054 Dulbeccos modified Eagles medium Gibco Cat11960-044 Embryonic stem-cell FBS Gibco Cat16141-079 Penicillin-Streptomycin Gibco Cat15140-122 Sodium pyruvate Gibco Cat11360-070 2-mercaptoethanol Gibco Cat21985-023 GlutaMAX Gibco Cat35050-061 MEM Non-essential amino acids Gibco Cat11140-050 Mouse leukemia inhibitory factor EMD Millipore CatESG1106 CHIR99021 Sigma-Aldrich CatSML1046 PD0325901 Sigma-Aldrich CatPZ0162 Opti-MEM Gibco Cat11058-021 TranscriptAid T7 High Yield Transcription Kit Thermo Fisher Scientific CatK0441 GeneArt Platinum Cas9 Nuclease Invitrogen CatB25640 Lipofectamine LTX Invitrogen Cat15335-100 Puromycin Sigma-Aldrich CatP8833 Phire Tissue Direct PCR Master Mix Thermo Fisher Scientific CatF170L S-adenosyl-L-homocysteine Sigma-Aldrich CatA9384 S-adenosyl-L-methionine Sigma-Aldrich CatA7007 AdoButen (S-Adenosyl-S-crotyl-L-homocysteine) Prof. Elmar Weinhold (Stecher et al., 2009) NA AdoButyn (S-Adenosyl-S-but-2-ynyl-L-homocysteine) Dalhoff et al., 2006 NA AdoEnYn (S-Adenosyl-S-pent-4-yn-2-enyl-L-homocysteine) Peters et al., 2010 NA Ado-6-azide (S-Adenosyl-S-(6-azidohex-2-ynyl)- L-homocysteine) Masevicius et al., 2016 NA Ado-6-amine (S-Adenosyl-S-(6-aminohex-2-ynyl)-L-homocysteine) Masevicius et al., 2016 NA Ado-6-ethyne (S-Adenosyl-S-(oct-2,6-diynyl)-L-homocysteine) Lukinavicius et al., 2013 NA Ado-13-biotin Osipenko et al., 2017 NA Poly(dI-dC) * Poly(dI-dC) Sigma-Aldrich CatP4929 Poly(dG-dC) * Poly(dG-dC) Sigma-Aldrich CatP9389 methyl- 3H-S-adenosyl-L-methionine PerkinElmer CatNET155001MC g-32PATP PerkinElmer CatNEG502Z001MC T4 PNK Thermo Fisher Scientific CatEK0032 Geneticin Sigma-Aldrich CatA1720 PMSF Sigma-Aldrich Cat78830 cOmplete Mini EDTA-free Protease Inhibitor Cocktail Roche Cat4693159001 SatI restriction enzyme Thermo Fisher Scientific CatER1641 FastDigest BspTI Thermo Fisher Scientific CatFD0834 FastDigest NotI Thermo Fisher Scientific CatFD0596 FastDigest EcoRI Thermo Fisher Scientific CatFD0274 FastDigest SacI Thermo Fisher Scientific CatFD1134 FastDigest HhaI Thermo Fisher Scientific CatFD1854 FastDigest XbaI Thermo Fisher Scientific CatFD0685 Scintillation cocktail Rotiszint(r) Eco plus Carl Roth Cat0016.3 Proteinase K, recombinant, PCR grade Thermo Fisher Scientific CatEO0491 RNase A Thermo Fisher Scientific CatEN0531 Genomic DNA Clean & Concentrator-10 Kit Zymo Research CatD4011 Nuclease P1 from Penicillium citrinum Sigma-Aldrich CatN8630 FastAP Thermosensitive Alkaline Phosphatase Thermo Fisher Scientific CatEF0654 dCTP Thermo Fisher Scientific CatR0151 dGTP Thermo Fisher Scientific CatR0161 dATP Thermo Fisher Scientific Cat R0141 dTTP Thermo Fisher Scientific CatR0171 5-Methyl-dCTP Thermo Fisher Scientific CatR0431 Alkyne MegaStokes dye 608 Sigma-Aldrich Cat79249 Igepal CA-630 Sigma-Aldrich CatI8896 BCN-amine Sigma-Aldrich Cat745073 MTT Sigma-Aldrich CatM5655 Fast DNA End Repair Kit Thermo Fisher Scientific CatK0771 Klenow Fragment, exo- Thermo Fisher Scientific CatEP0422 T4 DNA Ligase Thermo Fisher Scientific CatEL0011 CuBr, 99.999 Sigma-Aldrich Cat254185-10G DMSO Sigma-Aldrich Cat472301 THPTA Sigma-Aldrich Cat762342-500MG dNTP Mix (2 mM each) Thermo Fisher Scientific CatR0241 Pfu DNA polymerase (recombinant) Thermo Fisher Scientific CatEP0502 Platinum SuperFi PCR Master Mix Thermo Fisher Scientific Cat12358010 Dynabeads MyOne C1 Streptavidin magnetic beads Thermo Fisher Scientific Cat65002 GeneJET PCR purification kit Thermo Fisher Scientific CatK0702 GeneJet NGS Cleanup kit Thermo Fisher Scientific CatK0851 DNA Clean & Concentrator-5 Kit Zymo Research CatD4013 MagJET NGS Cleanup and Size Selection Kit Thermo Fisher Scientific Cat K2821 Agilent High Sensitivity DNA Kit Agilent Cat5067-4626 Ion PI(tm) Hi-Q(tm) OT2 200 Kit Thermo Fisher Scientific Cat A26434 Ion PI(tm) Hi-Q(tm) Sequencing 200 Thermo Fisher Scientific Cat A26772 Ion PI(tm) Chip Kit v3 Thermo Fisher Scientific Cat A26771 GeneJet RNA purification kit Thermo Fisher Scientific CatK0731 dsDNase Thermo Fisher Scientific CatEN0771 RevertAid(tm) RT reverse transcriptase Thermo Fisher Scientific CatEP0441 2x SYBR(tm) Green PCR Master Mix Thermo Fisher Scientific CatK253 Phusion U Hot Start polymerase Thermo Fisher Scientific CatF555S EZ DNA Methylation-Gold Kit Zymo Research CatD5005 Deposited data Dnmt-TOP-seq data This work GEO: GSE182445 ChIP-seq data for Dnmt3a1 and Dnmt3b Weinberg et al., 2019 GEO: GSE118785 Raw gel images This work Mendeley Data: 10.17632kddxk2d7pc.1 Experimental models: Cell lines Mouse embryonic stem cells, E14TG2a ATCC CRL-1821 Mouse embryonic stem cells, E14TG2a Dnmt1 N1580A This work NA Mouse embryonic stem cells, E14TG2a Dnmt1-KO This work NA P. pastoris GS115 Thermo Fisher Scientific CatC18100 Oligonucleotides See Table S2 for oligonucleotide sequences Metabion NA Biotinylated alkyne-containing DNA oligonucleotide, 5-TXTTTTGTGTGGTTTGGAGACT GACTACCAGATGT AACA-Biotin X=C8-Alkyne-dT BaseClick NA Complementary priming strand with custom LNA modifications and phosphorothioate linkages at the 3 end, 5-TGTTACATCTGGTAGTCAGTCT CCAAACCACACAA Exiqon NA Recombinant DNA pSpCas9(BB)-2A-Puro (PX459) plasmid Addgene (Rohde et al., 2010) Cat62988 pDL2-14 plasmid Gerasimaite et al., 2009 NA pUC19 plasmid Thermo Fisher Scientific CatSD0061 pPIC3.5K Thermo Fisher Scientific CatV17320 pPIC3.5K-Dnmt1-dN Vilkaitis et al., 2005 NA Software and algorithms Cutadapt (3.4) Martin, 2011 https:cutadapt.readthedocs.io R (3.5) R project https:www.r-project.org FASTX (0.0.13) Hannon Lab, CSHL http:hannonlab.cshl.edufastx_toolkitindex.html BWA (0.7.17) Li and Durbin, 2009 http:bio-bwa.sourceforge.net PyMOL (1.7) PyMOL Molecular Graphics System by Schrodinger https:pymol.org liftOver UCSC genome browser store https:genome-store.ucsc.edu clusterProfile (3.10.1) Yu et al., 2012 http:bioconductor.orgpackagesreleasebiochtmlclusterProfiler.html Other Repeat Masker annotation Karolchik et al., 2004 https:genome.ucsc.edu CpG island annotation Karolchik et al., 2004 https:genome.ucsc.edu Gene annotation Frankish et al., 2019 https:www.gencodegenes.org Detailed bench protocol This work Methods S1 Resource availability Lead contact Further information and reasonable requests for resources and reagents should be directed to and will be fulfilled by the Lead Contact, Saulius Klimasauskas (saulius.klimasauskasbti.vu.lt).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "STARMethods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Chemicals, peptides, and recombinant proteins Gelatin Sigma-Aldrich CatG1890 Trypsin-EDTA Gibco Cat15400-054 Dulbeccos modified Eagles medium Gibco Cat11960-044 Embryonic stem-cell FBS Gibco Cat16141-079 Penicillin-Streptomycin Gibco Cat15140-122 Sodium pyruvate Gibco Cat11360-070 2-mercaptoethanol Gibco Cat21985-023 GlutaMAX Gibco Cat35050-061 MEM Non-essential amino acids Gibco Cat11140-050 Mouse leukemia inhibitory factor EMD Millipore CatESG1106 CHIR99021 Sigma-Aldrich CatSML1046 PD0325901 Sigma-Aldrich CatPZ0162 Opti-MEM Gibco Cat11058-021 TranscriptAid T7 High Yield Transcription Kit Thermo Fisher Scientific CatK0441 GeneArt Platinum Cas9 Nuclease Invitrogen CatB25640 Lipofectamine LTX Invitrogen Cat15335-100 Puromycin Sigma-Aldrich CatP8833 Phire Tissue Direct PCR Master Mix Thermo Fisher Scientific CatF170L S-adenosyl-L-homocysteine Sigma-Aldrich CatA9384 S-adenosyl-L-methionine Sigma-Aldrich CatA7007 AdoButen (S-Adenosyl-S-crotyl-L-homocysteine) Prof. Elmar Weinhold (Stecher et al., 2009) NA AdoButyn (S-Adenosyl-S-but-2-ynyl-L-homocysteine) Dalhoff et al., 2006 NA AdoEnYn (S-Adenosyl-S-pent-4-yn-2-enyl-L-homocysteine) Peters et al., 2010 NA Ado-6-azide (S-Adenosyl-S-(6-azidohex-2-ynyl)- L-homocysteine) Masevicius et al., 2016 NA Ado-6-amine (S-Adenosyl-S-(6-aminohex-2-ynyl)-L-homocysteine) Masevicius et al., 2016 NA Ado-6-ethyne (S-Adenosyl-S-(oct-2,6-diynyl)-L-homocysteine) Lukinavicius et al., 2013 NA Ado-13-biotin Osipenko et al., 2017 NA Poly(dI-dC) * Poly(dI-dC) Sigma-Aldrich CatP4929 Poly(dG-dC) * Poly(dG-dC) Sigma-Aldrich CatP9389 methyl- 3H-S-adenosyl-L-methionine PerkinElmer CatNET155001MC g-32PATP PerkinElmer CatNEG502Z001MC T4 PNK Thermo Fisher Scientific CatEK0032 Geneticin Sigma-Aldrich CatA1720 PMSF Sigma-Aldrich Cat78830 cOmplete Mini EDTA-free Protease Inhibitor Cocktail Roche Cat4693159001 SatI restriction enzyme Thermo Fisher Scientific CatER1641 FastDigest BspTI Thermo Fisher Scientific CatFD0834 FastDigest NotI Thermo Fisher Scientific CatFD0596 FastDigest EcoRI Thermo Fisher Scientific CatFD0274 FastDigest SacI Thermo Fisher Scientific CatFD1134 FastDigest HhaI Thermo Fisher Scientific CatFD1854 FastDigest XbaI Thermo Fisher Scientific CatFD0685 Scintillation cocktail Rotiszint(r) Eco plus Carl Roth Cat0016.3 Proteinase K, recombinant, PCR grade Thermo Fisher Scientific CatEO0491 RNase A Thermo Fisher Scientific CatEN0531 Genomic DNA Clean & Concentrator-10 Kit Zymo Research CatD4011 Nuclease P1 from Penicillium citrinum Sigma-Aldrich CatN8630 FastAP Thermosensitive Alkaline Phosphatase Thermo Fisher Scientific CatEF0654 dCTP Thermo Fisher Scientific CatR0151 dGTP Thermo Fisher Scientific CatR0161 dATP Thermo Fisher Scientific Cat R0141 dTTP Thermo Fisher Scientific CatR0171 5-Methyl-dCTP Thermo Fisher Scientific CatR0431 Alkyne MegaStokes dye 608 Sigma-Aldrich Cat79249 Igepal CA-630 Sigma-Aldrich CatI8896 BCN-amine Sigma-Aldrich Cat745073 MTT Sigma-Aldrich CatM5655 Fast DNA End Repair Kit Thermo Fisher Scientific CatK0771 Klenow Fragment, exo- Thermo Fisher Scientific CatEP0422 T4 DNA Ligase Thermo Fisher Scientific CatEL0011 CuBr, 99.999 Sigma-Aldrich Cat254185-10G DMSO Sigma-Aldrich Cat472301 THPTA Sigma-Aldrich Cat762342-500MG dNTP Mix (2 mM each) Thermo Fisher Scientific CatR0241 Pfu DNA polymerase (recombinant) Thermo Fisher Scientific CatEP0502 Platinum SuperFi PCR Master Mix Thermo Fisher Scientific Cat12358010 Dynabeads MyOne C1 Streptavidin magnetic beads Thermo Fisher Scientific Cat65002 GeneJET PCR purification kit Thermo Fisher Scientific CatK0702 GeneJet NGS Cleanup kit Thermo Fisher Scientific CatK0851 DNA Clean & Concentrator-5 Kit Zymo Research CatD4013 MagJET NGS Cleanup and Size Selection Kit Thermo Fisher Scientific Cat K2821 Agilent High Sensitivity DNA Kit Agilent Cat5067-4626 Ion PI(tm) Hi-Q(tm) OT2 200 Kit Thermo Fisher Scientific Cat A26434 Ion PI(tm) Hi-Q(tm) Sequencing 200 Thermo Fisher Scientific Cat A26772 Ion PI(tm) Chip Kit v3 Thermo Fisher Scientific Cat A26771 GeneJet RNA purification kit Thermo Fisher Scientific CatK0731 dsDNase Thermo Fisher Scientific CatEN0771 RevertAid(tm) RT reverse transcriptase Thermo Fisher Scientific CatEP0441 2x SYBR(tm) Green PCR Master Mix Thermo Fisher Scientific CatK253 Phusion U Hot Start polymerase Thermo Fisher Scientific CatF555S EZ DNA Methylation-Gold Kit Zymo Research CatD5005 Deposited data Dnmt-TOP-seq data This work GEO: GSE182445 ChIP-seq data for Dnmt3a1 and Dnmt3b Weinberg et al., 2019 GEO: GSE118785 Raw gel images This work Mendeley Data: 10.17632kddxk2d7pc.1 Experimental models: Cell lines Mouse embryonic stem cells, E14TG2a ATCC CRL-1821 Mouse embryonic stem cells, E14TG2a Dnmt1 N1580A This work NA Mouse embryonic stem cells, E14TG2a Dnmt1-KO This work NA P. pastoris GS115 Thermo Fisher Scientific CatC18100 Oligonucleotides See Table S2 for oligonucleotide sequences Metabion NA Biotinylated alkyne-containing DNA oligonucleotide, 5-TXTTTTGTGTGGTTTGGAGACT GACTACCAGATGT AACA-Biotin X=C8-Alkyne-dT BaseClick NA Complementary priming strand with custom LNA modifications and phosphorothioate linkages at the 3 end, 5-TGTTACATCTGGTAGTCAGTCT CCAAACCACACAA Exiqon NA Recombinant DNA pSpCas9(BB)-2A-Puro (PX459) plasmid Addgene (Rohde et al., 2010) Cat62988 pDL2-14 plasmid Gerasimaite et al., 2009 NA pUC19 plasmid Thermo Fisher Scientific CatSD0061 pPIC3.5K Thermo Fisher Scientific CatV17320 pPIC3.5K-Dnmt1-dN Vilkaitis et al., 2005 NA Software and algorithms Cutadapt (3.4) Martin, 2011 https:cutadapt.readthedocs.io R (3.5) R project https:www.r-project.org FASTX (0.0.13) Hannon Lab, CSHL http:hannonlab.cshl.edufastx_toolkitindex.html BWA (0.7.17) Li and Durbin, 2009 http:bio-bwa.sourceforge.net PyMOL (1.7) PyMOL Molecular Graphics System by Schrodinger https:pymol.org liftOver UCSC genome browser store https:genome-store.ucsc.edu clusterProfile (3.10.1) Yu et al., 2012 http:bioconductor.orgpackagesreleasebiochtmlclusterProfiler.html Other Repeat Masker annotation Karolchik et al., 2004 https:genome.ucsc.edu CpG island annotation Karolchik et al., 2004 https:genome.ucsc.edu Gene annotation Frankish et al., 2019 https:www.gencodegenes.org Detailed bench protocol This work Methods S1 Resource availability Lead contact Further information and reasonable requests for resources and reagents should be directed to and will be fulfilled by the Lead Contact, Saulius Klimasauskas (saulius.klimasauskasbti.vu.lt)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TXTTTTGTGTGGTTTGGAGACT GACTACCAGATGT AACA-Biotin"
+                  }],
+                "neText" : "5-TXTTTTGTGTGGTTTGGAGACT GACTACCAGATGT AACA-Biotin"
+              }]
+          }, {
+            "sentence" : "The plasmid encodes an engineered GCG-specific DNA MTase which confers in vivo hemimethylation of 80 non-palindromic (GCGD, D=not C) and full (double-strand) methylation of 14 palindromic (GCGC) sites on the plasmid when expressed in bacterial cells.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The plasmid encodes an engineered GCG-specific DNA MTase which confers in vivo hemimethylation of 80 non-palindromic (GCGD, D=not C) and full (double-strand) methylation of 14 palindromic (GCGC) sites on the plasmid when expressed in bacterial cells."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCGC"
+                  }],
+                "neText" : "GCGC"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "docIdentifier" : "PMC8299070",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "A gradient profiler (BioComp, http:www.biocompinstruments.comindex.php) with an EM-1 UV data acquisition system (Bio-Rad, http:www.bio-rad.com) was employed for component analysis according to the manufacturers instructions.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A gradient profiler (BioComp, http:www.biocompinstruments.comindex.php) with an EM-1 UV data acquisition system (Bio-Rad, http:www.bio-rad.com) was employed for component analysis according to the manufacturers instructions."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BioComp"
+                }],
+              "neText" : "BioComp"
+            }]
+        }, {
+          "sentence" : "The 3Ribo-seq reads were aligned against these sequences with Bowtie 2 software to remove the rRNA and tRNA reads ( Langmead and Salzberg , 2012) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The 3Ribo-seq reads were aligned against these sequences with Bowtie 2 software to remove the rRNA and tRNA reads ( Langmead and Salzberg , 2012) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Bowtie 2 (RRID:SCR_016368)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bowtie 2"
+                }],
+              "neText" : "Bowtie 2"
+            }]
+        }, {
+          "sentence" : "The reads from maize , Arabidopsis , and rice produced by RNA-seq or FL_Ribo-seq were also aligned to the maize reference genome ( Zea_mays.AGPv4) , the Arabidopsis reference genome ( TAIR10) , and the rice reference genome ( Oryza_sativa.IRGSP-1.0) , respectively , using RSEM-1.3.1 ( Li and Dewey , 2011 ) combined with the Bowtie 2 aligner ( Langmead and Salzberg , 2012) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The reads from maize , Arabidopsis , and rice produced by RNA-seq or FL_Ribo-seq were also aligned to the maize reference genome ( Zea_mays.AGPv4) , the Arabidopsis reference genome ( TAIR10) , and the rice reference genome ( Oryza_sativa.IRGSP-1.0) , respectively , using RSEM-1.3.1 ( Li and Dewey , 2011 ) combined with the Bowtie 2 aligner ( Langmead and Salzberg , 2012) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Bowtie (RRID:SCR_005476)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bowtie"
+                }],
+              "neText" : "Bowtie"
+            }]
+        }, {
+          "sentence" : "Translatomic annotation of the genome Based on translatomic data from multiple tissues , the Arabidopsis , rice , and maize genomes were re-annotated using the following steps: first , the single-end reads were mapped to the reference genome using HISAT2 ( v2.0.4 ) software ( Kim et al. , 2015 ) with the parameter dta .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Translatomic annotation of the genome Based on translatomic data from multiple tissues , the Arabidopsis , rice , and maize genomes were re-annotated using the following steps: first , the single-end reads were mapped to the reference genome using HISAT2 ( v2.0.4 ) software ( Kim et al. , 2015 ) with the parameter dta ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "HISAT2 (RRID:SCR_015530)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HISAT2"
+                }],
+              "neText" : "HISAT2"
+            }]
+        }, {
+          "sentence" : "Second , the alignments were assembled into potential transcripts using StringTie ( v1.3.0 ) software ( Pertea et al. , 2015 ) with the parameter G , which produced known and new transcripts .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Second , the alignments were assembled into potential transcripts using StringTie ( v1.3.0 ) software ( Pertea et al. , 2015 ) with the parameter G , which produced known and new transcripts ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "StringTie  (RRID:SCR_016323)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StringTie"
+                }],
+              "neText" : "StringTie"
+            }]
+        }, {
+          "sentence" : "The extracted sequences of the new genes were subjected to BLAST analysis against the UniProt protein database , and GO annotation was performed using TBtools ( Chen et al. , 2020 ) and WEGO ( v 2.0 , http:wego",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The extracted sequences of the new genes were subjected to BLAST analysis against the UniProt protein database , and GO annotation was performed using TBtools ( Chen et al. , 2020 ) and WEGO ( v 2.0 , http:wego"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "WU-BLAST (RRID:SCR_011824)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLAST"
+                }],
+              "neText" : "BLAST"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }]
+        }, {
+          "sentence" : "Population structure and family relatedness were calculated using EMMAX and ADMIXTURE ( Alexander et al. , 2009) , respectively .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Population structure and family relatedness were calculated using EMMAX and ADMIXTURE ( Alexander et al. , 2009) , respectively ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ADMIXTURE (RRID:SCR_001263)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ADMIXTURE"
+                }],
+              "neText" : "ADMIXTURE"
+            }]
+        }, {
+          "sentence" : "Haploview (Barrett et al., 2005) was used to estimate the correlation between SNPs to filter out cases with high linkage disequilibrium (LD) between markers.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Haploview (Barrett et al., 2005) was used to estimate the correlation between SNPs to filter out cases with high linkage disequilibrium (LD) between markers."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Haploview"
+                }],
+              "neText" : "Haploview"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Protein preparation and label-free MS Fresh tissues from maize seedlings (2 weeks old) and the leaves of Arabidopsis (mature), rice (V2 and booting stages), and maize (14 days old) were ground into a powder in liquid nitrogen.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Protein preparation and label-free MS Fresh tissues from maize seedlings (2 weeks old) and the leaves of Arabidopsis (mature), rice (V2 and booting stages), and maize (14 days old) were ground into a powder in liquid nitrogen."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The aboveground tissues of 2-week-old seedlings (at least six plants per replicate) were collected and ground into a powder for RNA-seq, full-length ribosome profiling (FL_Ribo-seq), 3Ribo-seq, and protein MS.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The aboveground tissues of 2-week-old seedlings (at least six plants per replicate) were collected and ground into a powder for RNA-seq, full-length ribosome profiling (FL_Ribo-seq), 3Ribo-seq, and protein MS."
+              }],
+            "mention" : {
+              "neText" : "replicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicate"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Significant associations were determined based on Bonferroni-corrected p < 8.03 x 10-8 ( 1N , N = 12 452 367)",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Significant associations were determined based on Bonferroni-corrected p < 8.03 x 10-8 ( 1N , N = 12 452 367)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni-corrected"
+                  }],
+                "neText" : "Bonferroni-corrected"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Identification of the polyA signal motif Sequences downstream of the stop codons of genes were extracted, and the polyA signal motif was identified with Dragon PolyA Spotter (DPS, v 1.200, https:www.cbrc.kaust.edu.sadpsCapture.html) (Kalkatawi et al., 2013) to identify 6-bp sequence variants with the sequences AATAAA, AAAAAG, AAGAAA, AATACA, AATAGA, AATATA, ACTAAA, AGTAAA, ATTAAA, CATAAA, GATAAA, or TATAAA.",
+            "rowSpan" : 5,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Identification of the polyA signal motif Sequences downstream of the stop codons of genes were extracted, and the polyA signal motif was identified with Dragon PolyA Spotter (DPS, v 1.200, https:www.cbrc.kaust.edu.sadpsCapture.html) (Kalkatawi et al., 2013) to identify 6-bp sequence variants with the sequences AATAAA, AAAAAG, AAGAAA, AATACA, AATAGA, AATATA, ACTAAA, AGTAAA, ATTAAA, CATAAA, GATAAA, or TATAAA."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AATAAA"
+                  }],
+                "neText" : "AATAAA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AAGAAA"
+                  }],
+                "neText" : "AAGAAA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AATAGA"
+                  }],
+                "neText" : "AATAGA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AGTAAA"
+                  }],
+                "neText" : "AGTAAA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CATAAA"
+                  }],
+                "neText" : "CATAAA"
+              }]
+          }]
+      }]
+  }
+}

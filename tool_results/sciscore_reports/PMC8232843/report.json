@@ -1,0 +1,306 @@
+{
+  "docIdentifier" : "PMC8232843",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The second day, the slices were further incubated with goat-anti-rabbit IgG (1:30000, ab205718, Abcam) antibody for 1 min, followed by incubation with the DBA reagent (SFQ004, 4A Biotech, Beijing, China) for 30 min.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The second day, the slices were further incubated with goat-anti-rabbit IgG (1:30000, ab205718, Abcam) antibody for 1 min, followed by incubation with the DBA reagent (SFQ004, 4A Biotech, Beijing, China) for 30 min."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(Cytognos Cat# CYT-IGG4AP, RRID:AB_2876879)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IgG"
+                }],
+              "neText" : "IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SFQ004"
+                }],
+              "neText" : "SFQ004"
+            }]
+        }, {
+          "sentence" : "The relative primary antibodies were Wnt5a (1:1500, 42kD, ab229200, Abcam), b-catenin (1:1000, 86kD, ab32572, Abcam), VEGFA (1:2500, 27kD, ab52917, Abcam), TGF-b1 (1:1000, 44kD, ab92486, Abcam), Fibronectin (1:1500, 262kD, ab2413, Abcam), MMP-9 (1:2500, 92kD, ab38898, Abcam), and GAPDH (1:5000, 36kD, ab181602, Abcam).",
+          "rowSpan" : 7,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The relative primary antibodies were Wnt5a (1:1500, 42kD, ab229200, Abcam), b-catenin (1:1000, 86kD, ab32572, Abcam), VEGFA (1:2500, 27kD, ab52917, Abcam), TGF-b1 (1:1000, 44kD, ab92486, Abcam), Fibronectin (1:1500, 262kD, ab2413, Abcam), MMP-9 (1:2500, 92kD, ab38898, Abcam), and GAPDH (1:5000, 36kD, ab181602, Abcam)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Wnt5a"
+                }],
+              "neText" : "Wnt5a"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "b-catenin"
+                }],
+              "neText" : "b-catenin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "VEGFA"
+                }],
+              "neText" : "VEGFA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TGF-b1"
+                }],
+              "neText" : "TGF-b1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fibronectin"
+                }],
+              "neText" : "Fibronectin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MMP-9"
+                }],
+              "neText" : "MMP-9"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAPDH"
+                }],
+              "neText" : "GAPDH"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical Analysis All the statistical analyses were conducted using GraphPad 8.0 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis All the statistical analyses were conducted using GraphPad 8.0 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }, {
+          "sentence" : "Q-Q plot was performed by IBM SPSS Statistics 20.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Q-Q plot was performed by IBM SPSS Statistics 20."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods Ethics Statement Animal experiments were authorized by the Committee of Experimental Animals of Hengdian Wenrongs Hospital (Z20190921H).",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Ethics Statement Animal experiments were authorized by the Committee of Experimental Animals of Hengdian Wenrongs Hospital (Z20190921H)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Mice Fifty female BALBc mice (weight: 20-25 g, age: 6-8 weeks) were obtained from SLAC Laboratory Animal Technology (Shanghai, China).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice Fifty female BALBc mice (weight: 20-25 g, age: 6-8 weeks) were obtained from SLAC Laboratory Animal Technology (Shanghai, China)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Mice Fifty female BALBc mice (weight: 20-25 g, age: 6-8 weeks) were obtained from SLAC Laboratory Animal Technology (Shanghai, China).",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice Fifty female BALBc mice (weight: 20-25 g, age: 6-8 weeks) were obtained from SLAC Laboratory Animal Technology (Shanghai, China)."
+              }]
+          }, {
+            "sentence" : "Mice Fifty female BALBc mice (weight: 20-25 g, age: 6-8 weeks) were obtained from SLAC Laboratory Animal Technology (Shanghai, China).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice Fifty female BALBc mice (weight: 20-25 g, age: 6-8 weeks) were obtained from SLAC Laboratory Animal Technology (Shanghai, China)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Treatment of the Experimental Mice The experimental mice were randomly divided into the following 5 groups (n=10): the Sham group, the Curcumol-H group, the OVA group, the OVA+Curcumol-L group, and the OVA+Curcumol-H group.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Treatment of the Experimental Mice The experimental mice were randomly divided into the following 5 groups (n=10): the Sham group, the Curcumol-H group, the OVA group, the OVA+Curcumol-L group, and the OVA+Curcumol-H group."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Then, the protein swam vertically down inside the gels under 100 volt for 120 min, and then transferred to the surface of 0.45 mm membranes (ISEQ00010, Millipore, MA, USA).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Then, the protein swam vertically down inside the gels under 100 volt for 120 min, and then transferred to the surface of 0.45 mm membranes (ISEQ00010, Millipore, MA, USA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ISEQ00010"
+                  }],
+                "neText" : "ISEQ00010"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Comparison between multiple groups was analyzed using One-way ANOVA.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparison between multiple groups was analyzed using One-way ANOVA."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Shapiro-Wilk test was used to assess data distribution.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Shapiro-Wilk test was used to assess data distribution."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk test"
+                  }],
+                "neText" : "Shapiro-Wilk test"
+              }]
+          }]
+      }]
+  }
+}

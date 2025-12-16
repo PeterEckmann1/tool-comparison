@@ -1,0 +1,193 @@
+{
+  "docIdentifier" : "PMC8404206",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "The anti-MOG IgG was detected using an in-house CBA in live human embryonic kidney (HEK)-293 cells as described elsewhere.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The anti-MOG IgG was detected using an in-house CBA in live human embryonic kidney (HEK)-293 cells as described elsewhere."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0045",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK)-293"
+                }],
+              "neText" : "HEK)-293"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "11 Standard Protocol Approvals, Registrations, and Patient Consents This study was approved by the Ethics Committee of the Faculdade de Medicina de Botucatu, Universidade Estadual Paulista (Unesp) under the internal review board number CAAE 31021220.2.0000.5411.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "11 Standard Protocol Approvals, Registrations, and Patient Consents This study was approved by the Ethics Committee of the Faculdade de Medicina de Botucatu, Universidade Estadual Paulista (Unesp) under the internal review board number CAAE 31021220.2.0000.5411."
+              }]
+          }, {
+            "sentence" : "All participants signed a written informed consent form before enrollment.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants signed a written informed consent form before enrollment."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Inclusion criteria: (1) patients diagnosed according to the 2015 International Panel for NMOSD criteria 10 and (2) flu-like illness presenting a SARS-CoV2 positive test classified as a confirmed case (reverse transcription-polymerase chain reaction RT-PCR andor IgAIgM or IgG seropositivity), or clinical suspicion of COVID-19 diagnosed according to CDCCSTE case definition, 9 classified as a possible case.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion criteria: (1) patients diagnosed according to the 2015 International Panel for NMOSD criteria 10 and (2) flu-like illness presenting a SARS-CoV2 positive test classified as a confirmed case (reverse transcription-polymerase chain reaction RT-PCR andor IgAIgM or IgG seropositivity), or clinical suspicion of COVID-19 diagnosed according to CDCCSTE case definition, 9 classified as a possible case."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "In addition, demographic and clinical features of COVID-19 in pwNMOSD were compared with those reported for the general Brazilian population, using similar features as observed for patients with NMOSD (home treatment, hospital admission, intensive care unit ICU admission, death, sex, age range 15-59 years, and comorbidity).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In addition, demographic and clinical features of COVID-19 in pwNMOSD were compared with those reported for the general Brazilian population, using similar features as observed for patients with NMOSD (home treatment, hospital admission, intensive care unit ICU admission, death, sex, age range 15-59 years, and comorbidity)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Data Availability Anonymized patient data are available on request.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data Availability Anonymized patient data are available on request."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The comparison of means between groups home treatment and hospital admission was made using the Student t test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The comparison of means between groups home treatment and hospital admission was made using the Student t test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }, {
+            "sentence" : "In addition, the clinical outcome of COVID-19 in patients with NMOSD was compared with the Brazilian general population, using the 2-tailed Fishers exact test, estimating the OR and the 95 CI.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In addition, the clinical outcome of COVID-19 in patients with NMOSD was compared with the Brazilian general population, using the 2-tailed Fishers exact test, estimating the OR and the 95 CI."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }]
+      }]
+  }
+}

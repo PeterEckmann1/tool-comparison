@@ -1,0 +1,183 @@
+{
+  "docIdentifier" : "PMC8566347",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All lithotripsies were performed in supine position under general anesthesia using lithotripter (Modularis Variostar Siemens, AG Healthcare, Germany).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All lithotripsies were performed in supine position under general anesthesia using lithotripter (Modularis Variostar Siemens, AG Healthcare, Germany)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AG Healthcare"
+                }],
+              "neText" : "AG Healthcare"
+            }]
+        }, {
+          "sentence" : "All data were analyzed using IBM SPSS Statistics for Windows (Version 20.0. Armonk, NY, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All data were analyzed using IBM SPSS Statistics for Windows (Version 20.0. Armonk, NY, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2 Patients and methods This study was an open-labelled trial conducted in an outpatient setting from January 2016 to December 2017 at our institute after obtaining approval from the institutional ethical committee (approval no. MDCDOME391 dated 23-11-2015 by JNMC Institutional Ethics Committee on Human Subjects Research, J. N. Medical College, Belagavi, India).",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Patients and methods This study was an open-labelled trial conducted in an outpatient setting from January 2016 to December 2017 at our institute after obtaining approval from the institutional ethical committee (approval no. MDCDOME391 dated 23-11-2015 by JNMC Institutional Ethics Committee on Human Subjects Research, J. N. Medical College, Belagavi, India)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Our study included patients aged 18 years and above having solitary renal calculus.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Our study included patients aged 18 years and above having solitary renal calculus."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Our study included patients aged 18 years and above having solitary renal calculus.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Our study included patients aged 18 years and above having solitary renal calculus."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "It was estimated to yield 80 power (type II or beta error of 0.20) to detect a difference of 20 or more between two groups, allowing 5 of type I error.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "It was estimated to yield 80 power (type II or beta error of 0.20) to detect a difference of 20 or more between two groups, allowing 5 of type I error."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Laboratory tests such as complete blood count, blood urea nitrogen, creatinine, electrolytes, coagulation profile, urinalyses, and urine culture were done for all participant patients.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Laboratory tests such as complete blood count, blood urea nitrogen, creatinine, electrolytes, coagulation profile, urinalyses, and urine culture were done for all participant patients."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Laboratory tests"
+                  }],
+                "neText" : "Laboratory tests"
+              }]
+          }, {
+            "sentence" : "Nominal variables were taken as counts (or frequencies) and were compared by Chi-square test, while continuous variables with normal distribution were presented as mean+-standard deviation and were compared by independent samples t-test and paired t-test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Nominal variables were taken as counts (or frequencies) and were compared by Chi-square test, while continuous variables with normal distribution were presented as mean+-standard deviation and were compared by independent samples t-test and paired t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-square test"
+                  }],
+                "neText" : "Chi-square test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

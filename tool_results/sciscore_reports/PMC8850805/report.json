@@ -1,0 +1,529 @@
+{
+  "docIdentifier" : "PMC8850805",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies anti-ZO-1 antibody Thermo Fisher Scientific cat. # 33-9100; RRID:AB_2533147 goat anti-mouse IgG antibody, Alexa Fluor 488 Thermo Fisher Scientific cat. # A28175; RRID:AB_2536161 anti-Claudin-1 antibody Thermo Fisher Scientific cat. # 51-9000;RRID: AB_2533916 goat anti-rabbit IgG antibody, Alexa Fluor 555 Thermo Fisher Scientific cat. # A27039; RRID:AB_ 2536100 Chemicals, peptides, and recombinant proteins Blocking One Nacalai Tesque cat.#",
+          "rowSpan" : 6,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STAR★Methods Key resources table REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies anti-ZO-1 antibody Thermo Fisher Scientific cat. # 33-9100; RRID:AB_2533147 goat anti-mouse IgG antibody, Alexa Fluor 488 Thermo Fisher Scientific cat. # A28175; RRID:AB_2536161 anti-Claudin-1 antibody Thermo Fisher Scientific cat. # 51-9000;RRID: AB_2533916 goat anti-rabbit IgG antibody, Alexa Fluor 555 Thermo Fisher Scientific cat. # A27039; RRID:AB_ 2536100 Chemicals, peptides, and recombinant proteins Blocking One Nacalai Tesque cat.#"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-ZO-1"
+                }],
+              "neText" : "anti-ZO-1"
+            }, {
+              "source" : "",
+              "rrid" : "(Thermo Fisher Scientific Cat# 33-9100, RRID:AB_2533147)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG"
+                }],
+              "neText" : "anti-mouse IgG"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# A28175, RRID:AB_2536161)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG Alexa Fluor"
+                }],
+              "neText" : "anti-mouse IgG Alexa Fluor"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# 51-9000, RRID:AB_2533916)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Claudin-1"
+                }],
+              "neText" : "anti-Claudin-1"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# A27039, RRID:AB_2536100)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG Alexa Fluor"
+                }],
+              "neText" : "anti-rabbit IgG Alexa Fluor"
+            }]
+        }, {
+          "sentence" : "A22283; RRID:AB_2632953 Hoechst 33342 Thermo Fisher Scientific cat.#",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A22283; RRID:AB_2632953 Hoechst 33342 Thermo Fisher Scientific cat.#"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(Thermo Fisher Scientific Cat# A-22283, RRID:AB_2632953)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "The following procedure was the same as described above, except that we used 50-times diluted anti-claudin-1 antibodies (cat. # 51-9000, Thermo Fisher Scientific) and 200-times diluted goat anti-rabbit IgG antibody Alexa Fluor 555 (cat. # A27039, Thermo Fisher Scientific).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following procedure was the same as described above, except that we used 50-times diluted anti-claudin-1 antibodies (cat. # 51-9000, Thermo Fisher Scientific) and 200-times diluted goat anti-rabbit IgG antibody Alexa Fluor 555 (cat. # A27039, Thermo Fisher Scientific)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-claudin-1"
+                }],
+              "neText" : "anti-claudin-1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "MDCK cells were cultured in Dulbecco's modified Eagle medium (DMEM) containing 10% FBS.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MDCK cells were cultured in Dulbecco's modified Eagle medium (DMEM) containing 10% FBS."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0422",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MDCK"
+                }],
+              "neText" : "MDCK"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "# 087-00432 Experimental models: organisms/strains R26-ZO-1EGFP RIKEN accession # CDB026K wild type ICR mice Japan CREA N/A Experimental models: cell lines MDCK I cells Fujiwara et al. (2016) N/A A6 cells Mimori-Kiyosue et al. (2007) N/A Recombinant DNA human ZO-1 Konno et al. (2008) N/A GFP-ZO-1/pCS2 This paper N/A GFP-ZO-1ΔABD/pCS2 (Δ1151-1371) This paper N/A GFP-ZO-1ΔABD-ΔIDR123/pCS2 (Δ114-118, Δ275-415, Δ588-627, Δ1151-1371) This paper N/A GFP-ZO-1ΔIDR4/pCS2 (Δ858-1580) This paper N/A GFP-ZO-1-PSG/pCS2 (424-794) This paper N/A GFP-ZO-1ΔABDΔPSG/pCS2 (Δ424--794, Δ1151-1371) This paper N/A Lifeact-RFP Iioka et al. (2007) N/A RFP-MoesinABD Iioka et al. (2004) N/A mCherry-Utrophin Kim and Davidson (2013) N/A Software and algorithms Fiji NIH https://fiji.sc Python 3.9 Python Core Team https://www.python.org Pandas ver.",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "# 087-00432 Experimental models: organisms/strains R26-ZO-1EGFP RIKEN accession # CDB026K wild type ICR mice Japan CREA N/A Experimental models: cell lines MDCK I cells Fujiwara et al. (2016) N/A A6 cells Mimori-Kiyosue et al. (2007) N/A Recombinant DNA human ZO-1 Konno et al. (2008) N/A GFP-ZO-1/pCS2 This paper N/A GFP-ZO-1"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "ABD/pCS2 ("
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "1151-1371) This paper N/A GFP-ZO-1"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "ABD-"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "IDR123/pCS2 ("
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "114-118, "
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "275-415, "
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "588-627, "
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "1151-1371) This paper N/A GFP-ZO-1"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "IDR4/pCS2 ("
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "858-1580) This paper N/A GFP-ZO-1-PSG/pCS2 (424-794) This paper N/A GFP-ZO-1"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "ABD"
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "PSG/pCS2 ("
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "424--794, "
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "1151-1371) This paper N/A Lifeact-RFP Iioka et al. (2007) N/A RFP-MoesinABD Iioka et al. (2004) N/A mCherry-Utrophin Kim and Davidson (2013) N/A Software and algorithms Fiji NIH https://fiji.sc Python 3.9 Python Core Team https://www.python.org Pandas ver."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji"
+                }],
+              "neText" : "Fiji"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://fiji.sc"
+                }],
+              "neText" : "https://fiji.sc"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "python-bx (RRID:SCR_024202)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://www.python.org"
+                }],
+              "neText" : "https://www.python.org"
+            }]
+        }, {
+          "sentence" : "0.11.1 https://seaborn.pydata.org Matplotlib ver.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "0.11.1 https://seaborn.pydata.org Matplotlib ver."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Matplotlib"
+                }],
+              "neText" : "Matplotlib"
+            }]
+        }, {
+          "sentence" : "Measurement of fluorescent intensities and particle analyses Fiji/Image J was used to measure fluorescent intensities.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Measurement of fluorescent intensities and particle analyses Fiji/Image J was used to measure fluorescent intensities."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji/Image J"
+                }],
+              "neText" : "Fiji/Image J"
+            }]
+        }, {
+          "sentence" : "Then we conducted a line plot analysis in Image J software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then we conducted a line plot analysis in Image J software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image J"
+                }],
+              "neText" : "Image J"
+            }]
+        }, {
+          "sentence" : "Laser ablation Laser ablation was conducted using an Olympus IX 81 inverted microscope (20 × /0.70 NA dry objective lens), equipped with a spinning-disc confocal unit Yokogawa CSUX-1 and iXon3 897 EM-CCD camera (Andor), controlled with Andor IQ2 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Laser ablation Laser ablation was conducted using an Olympus IX 81 inverted microscope (20 × /0.70 NA dry objective lens), equipped with a spinning-disc confocal unit Yokogawa CSUX-1 and iXon3 897 EM-CCD camera (Andor), controlled with Andor IQ2 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Andor IQ2"
+                }],
+              "neText" : "Andor IQ2"
+            }]
+        }, {
+          "sentence" : "We performed two-tailed Student's t-test, Mann-Whitney U-test, and Tukey-Kramer test for the statistical analyses, as indicated in the figure legends, using Python scipy and statsmodels packages.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We performed two-tailed Student's t-test, Mann-Whitney U-test, and Tukey-Kramer test for the statistical analyses, as indicated in the figure legends, using Python scipy and statsmodels packages."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "scipy"
+                }],
+              "neText" : "scipy"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Method details Mouse embryo collection Animal care and experiments were conducted in accordance with the Guidelines of Animal Experimentation of the National Institutes for Natural Sciences.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Method details Mouse embryo collection Animal care and experiments were conducted in accordance with the Guidelines of Animal Experimentation of the National Institutes for Natural Sciences."
+              }]
+          }, {
+            "sentence" : "All animal experiments were approved by the Animal Research Committee of the National Institutes for Natural Sciences.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All animal experiments were approved by the Animal Research Committee of the National Institutes for Natural Sciences."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Males of R26-ZO-1EGFP (Katsunuma et al., 2016) or wild-type ICR (Japan CREA) were mated with wild-type ICR females to obtain blastocysts.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Males of R26-ZO-1EGFP (Katsunuma et al., 2016) or wild-type ICR (Japan CREA) were mated with wild-type ICR females to obtain blastocysts."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Materials availability All unique/stable reagents generated in this study are available from the lead contact with a completed Material Transfer Agreement.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials availability All unique/stable reagents generated in this study are available from the lead contact with a completed Material Transfer Agreement."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "We performed two-tailed Student's t-test, Mann-Whitney U-test, and Tukey-Kramer test for the statistical analyses, as indicated in the figure legends, using Python scipy and statsmodels packages.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We performed two-tailed Student's t-test, Mann-Whitney U-test, and Tukey-Kramer test for the statistical analyses, as indicated in the figure legends, using Python scipy and statsmodels packages."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Student's t-test"
+                  }],
+                "neText" : "Student's t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U-test"
+                  }],
+                "neText" : "Mann-Whitney U-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey-Kramer test"
+                  }],
+                "neText" : "Tukey-Kramer test"
+              }]
+          }]
+      }]
+  }
+}

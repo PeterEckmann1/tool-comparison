@@ -1,0 +1,148 @@
+{
+  "docIdentifier" : "PMC8913993",
+  "sciscore" : 3,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "NCSU ) Animal Care and Use Committee approved all care , handling , and sampling procedures utilized in this study .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "NCSU ) Animal Care and Use Committee approved all care , handling , and sampling procedures utilized in this study ."
+              }]
+          }, {
+            "sentence" : "Following blood collection , broilers were euthanized via cervical dislocation .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Following blood collection , broilers were euthanized via cervical dislocation ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "There were 6 replicate cages of female broilers and 6 replicate cages of male broilers per treatment .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "There were 6 replicate cages of female broilers and 6 replicate cages of male broilers per treatment ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "A total of 216-day-old broilers ( Ross 708 Strain; NC State University Hatchery , Raleigh , NC ) were selected from a pool of 223 for use in this study .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 216-day-old broilers ( Ross 708 Strain; NC State University Hatchery , Raleigh , NC ) were selected from a pool of 223 for use in this study ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The healthiest and most uniform birds were stratified within sex by weight and randomly assigned to 1 of 3 treatments .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The healthiest and most uniform birds were stratified within sex by weight and randomly assigned to 1 of 3 treatments ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "There were 6 replicate cages of female broilers and 6 replicate cages of male broilers per treatment .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "There were 6 replicate cages of female broilers and 6 replicate cages of male broilers per treatment ."
+              }],
+            "mention" : {
+              "neText" : "replicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicate"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical Analysis Data were analyzed statistically as a completely randomized design by analysis of variance using the Proc Mixed procedure of SAS (2002).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical Analysis Data were analyzed statistically as a completely randomized design by analysis of variance using the Proc Mixed procedure of SAS (2002)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }, {
+            "sentence" : "Differences among treatment means were determined using the LSD test when the overall treatment or sex × treatment interaction was significant (P < 0.05).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences among treatment means were determined using the LSD test when the overall treatment or sex × treatment interaction was significant (P < 0.05)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "LSD test"
+                  }],
+                "neText" : "LSD test"
+              }]
+          }]
+      }]
+  }
+}

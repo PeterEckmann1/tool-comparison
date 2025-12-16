@@ -1,0 +1,168 @@
+{
+  "docIdentifier" : "PMC8202269",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All analyses were performed using Stata (Release 16 StataCorp LLC, College Station, TX).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All analyses were performed using Stata (Release 16 StataCorp LLC, College Station, TX)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata, RRID:SCR_012763",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StataCorp"
+                }],
+              "neText" : "StataCorp"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Access modality described the means of accessing the services of referred resources: direct, such as food pantries or assistive hotlines that provided immediate access to services via phone call or drop-in visit or indirect, such as public programs that required additional appointments or applications prior to accessing services.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Access modality described the means of accessing the services of referred resources: direct, such as food pantries or assistive hotlines that provided immediate access to services via phone call or drop-in visit or indirect, such as public programs that required additional appointments or applications prior to accessing services."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "One of the most common screening tools in the United States, 26 PRAPARE consists of a validated set of national core measures integrated into the electronic health record (EHR), which include patient demographics (eg, race, ethnicity, education) and social needs (eg, housing stability, material security, stress).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One of the most common screening tools in the United States, 26 PRAPARE consists of a validated set of national core measures integrated into the electronic health record (EHR), which include patient demographics (eg, race, ethnicity, education) and social needs (eg, housing stability, material security, stress)."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Standard errors for both the unadjusted and adjusted odds ratios (aORs) were estimated via bootstrap with 1000 replications to correct for bias due to overfitting.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Standard errors for both the unadjusted and adjusted odds ratios (aORs) were estimated via bootstrap with 1000 replications to correct for bias due to overfitting."
+              }],
+            "mention" : {
+              "neText" : "replications",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replications"
+                }]
+            }
+          }, {
+            "sentence" : "Standard errors for both the unadjusted and adjusted odds ratios (aORs) were estimated via bootstrap with 1000 replications to correct for bias due to overfitting.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Standard errors for both the unadjusted and adjusted odds ratios (aORs) were estimated via bootstrap with 1000 replications to correct for bias due to overfitting."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Bivariate analyses compared the prevalence of these characteristics between primary (connection success) and secondary outcome (connection attempt) groups, using appropriate non-parametric, 2-sided tests (Fishers exact test or the Mann-Whitney-Wilcoxon test).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Bivariate analyses compared the prevalence of these characteristics between primary (connection success) and secondary outcome (connection attempt) groups, using appropriate non-parametric, 2-sided tests (Fishers exact test or the Mann-Whitney-Wilcoxon test)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney-Wilcoxon test"
+                  }],
+                "neText" : "Mann-Whitney-Wilcoxon test"
+              }]
+          }]
+      }]
+  }
+}

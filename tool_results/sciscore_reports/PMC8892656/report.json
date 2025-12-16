@@ -1,0 +1,242 @@
+{
+  "docIdentifier" : "PMC8892656",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "To see the effect of MF-CCNc versus MF alone and nanocapsules without MF at different concentrations on SH-SY5Y cells , 2 x 105 SH-SY5Y cells were seeded in 16-well plates ( 4 wells for each concentration ) with DMEM that were supplemented with 10 FBS in 5 CO2 incubator .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To see the effect of MF-CCNc versus MF alone and nanocapsules without MF at different concentrations on SH-SY5Y cells , 2 x 105 SH-SY5Y cells were seeded in 16-well plates ( 4 wells for each concentration ) with DMEM that were supplemented with 10 FBS in 5 CO2 incubator ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0019",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SH-SY5Y"
+                }],
+              "neText" : "SH-SY5Y"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "With the help of Glide package , it was then constructed to perform the protein preparation wizard.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "With the help of Glide package , it was then constructed to perform the protein preparation wizard."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Glide (RRID:SCR_000187)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Glide"
+                }],
+              "neText" : "Glide"
+            }]
+        }, {
+          "sentence" : "All the statistical analyses were performed on GraphPad Prism v8 (GraphPad Software, San Diego, CA, United States) and Origin 2020b.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All the statistical analyses were performed on GraphPad Prism v8 (GraphPad Software, San Diego, CA, United States) and Origin 2020b."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }, {
+          "sentence" : "Statistical analysis of variance between treated and control groups was done using one-way ANOVA and Duncans multiple range tests in GraphPad Prism v8.4.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis of variance between treated and control groups was done using one-way ANOVA and Duncans multiple range tests in GraphPad Prism v8.4."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Four experiments were carried out in triplicate ( n = 12) , and increased concentrations of MF , MF-CCNC , and CCNc were given for 24 h one well which was neither given MF , MF-CCNC , nor CCNc was considered as control .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Four experiments were carried out in triplicate ( n = 12) , and increased concentrations of MF , MF-CCNC , and CCNc were given for 24 h one well which was neither given MF , MF-CCNC , nor CCNc was considered as control ."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Four experiments were carried out in triplicate ( n = 12) , and increased concentrations of MF , MF-CCNC , and CCNc were given for 24 h one well which was neither given MF , MF-CCNC , nor CCNc was considered as control .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Four experiments were carried out in triplicate ( n = 12) , and increased concentrations of MF , MF-CCNC , and CCNc were given for 24 h one well which was neither given MF , MF-CCNC , nor CCNc was considered as control ."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis of variance between treated and control groups was done using one-way ANOVA and Duncans multiple range tests in GraphPad Prism v8.4.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis of variance between treated and control groups was done using one-way ANOVA and Duncans multiple range tests in GraphPad Prism v8.4."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Duncans multiple range tests"
+                  }],
+                "neText" : "Duncans multiple range tests"
+              }]
+          }]
+      }]
+  }
+}

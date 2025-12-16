@@ -1,0 +1,156 @@
+{
+  "docIdentifier" : "PMC8166766",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All identifiers stored in REDCap were removed prior to data analysis and publication.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All identifiers stored in REDCap were removed prior to data analysis and publication."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "REDCap (RRID:SCR_003445)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "REDCap"
+                }],
+              "neText" : "REDCap"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Institutional Review Board approval was obtained prior to conduction of this study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Institutional Review Board approval was obtained prior to conduction of this study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Male patients, patients less than 18 years old at the time of index unplanned encounter, and patients with breast cancer or primary peritoneal cancer managed by a medical or surgical oncologist were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male patients, patients less than 18 years old at the time of index unplanned encounter, and patients with breast cancer or primary peritoneal cancer managed by a medical or surgical oncologist were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Male patients, patients less than 18 years old at the time of index unplanned encounter, and patients with breast cancer or primary peritoneal cancer managed by a medical or surgical oncologist were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male patients, patients less than 18 years old at the time of index unplanned encounter, and patients with breast cancer or primary peritoneal cancer managed by a medical or surgical oncologist were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Male patients, patients less than 18 years old at the time of index unplanned encounter, and patients with breast cancer or primary peritoneal cancer managed by a medical or surgical oncologist were excluded.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male patients, patients less than 18 years old at the time of index unplanned encounter, and patients with breast cancer or primary peritoneal cancer managed by a medical or surgical oncologist were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Chi-squared and Fishers exact tests were used to test for differences between super-utilizers and non-super-utilizers for categorical variables, and Wilcoxon rank-sum tests were used to compare medians between groups for continuous variables.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Chi-squared and Fishers exact tests were used to test for differences between super-utilizers and non-super-utilizers for categorical variables, and Wilcoxon rank-sum tests were used to compare medians between groups for continuous variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-squared"
+                  }],
+                "neText" : "Chi-squared"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact tests"
+                  }],
+                "neText" : "Fishers exact tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank-sum tests"
+                  }],
+                "neText" : "Wilcoxon rank-sum tests"
+              }]
+          }]
+      }]
+  }
+}

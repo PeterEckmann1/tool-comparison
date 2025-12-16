@@ -1,0 +1,260 @@
+{
+  "docIdentifier" : "PMC8144469",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "After pre-processing, the group independent component analysis (ICA) of fMRI Toolbox (GIFT, http:mialab.mrn.orgsoftwaregiftindex.html) was used to produce t-score maps reflecting functional maps of 30 components.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After pre-processing, the group independent component analysis (ICA) of fMRI Toolbox (GIFT, http:mialab.mrn.orgsoftwaregiftindex.html) was used to produce t-score maps reflecting functional maps of 30 components."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GIFT (RRID:SCR_024416)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GIFT"
+                }],
+              "neText" : "GIFT"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2 Methods The study was approved by the institutional Research Subjects Review Board and all subjects signed a written consent prior to undergoing study procedures.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Methods The study was approved by the institutional Research Subjects Review Board and all subjects signed a written consent prior to undergoing study procedures."
+              }]
+          }, {
+            "sentence" : "2 Methods The study was approved by the institutional Research Subjects Review Board and all subjects signed a written consent prior to undergoing study procedures.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Methods The study was approved by the institutional Research Subjects Review Board and all subjects signed a written consent prior to undergoing study procedures."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Participants with severe premorbid or comorbid psychiatric disorders such as diagnoses of schizophrenia, bipolar disorder and active depression were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants with severe premorbid or comorbid psychiatric disorders such as diagnoses of schizophrenia, bipolar disorder and active depression were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "A total of 122 subjects, 50 recently diagnosed and treatment-naive HIV+ (46 male, mean age 35.54 +- 12.5) and 72 age matched HIV- healthy controls (38 male, mean age 38.89 +- 12) were enrolled.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 122 subjects, 50 recently diagnosed and treatment-naive HIV+ (46 male, mean age 35.54 +- 12.5) and 72 age matched HIV- healthy controls (38 male, mean age 38.89 +- 12) were enrolled."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Linear mixed effects regression (LMER) models were used to quantify the association between selected covariates and continuous response variables, with per-subject random intercepts to account for serial correlation between multiple time points.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Linear mixed effects regression (LMER) models were used to quantify the association between selected covariates and continuous response variables, with per-subject random intercepts to account for serial correlation between multiple time points."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The masks were then applied to the pre-processed fMRI images, and the FC was calculated as the Pearson correlation within and between networks.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The masks were then applied to the pre-processed fMRI images, and the FC was calculated as the Pearson correlation within and between networks."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }, {
+            "sentence" : "Statistical analysis: Comparisons between two independent groups (e.g., HIV + versus HIV- subjects at baseline) were conducted by either two-group Welchs t-test (for continuous variables such as the concentrations of MRS metabolites) or Fisher exact test (for categorical variables such as sex and race).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis: Comparisons between two independent groups (e.g., HIV + versus HIV- subjects at baseline) were conducted by either two-group Welchs t-test (for continuous variables such as the concentrations of MRS metabolites) or Fisher exact test (for categorical variables such as sex and race)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Welchs t-test"
+                  }],
+                "neText" : "Welchs t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher exact test"
+                  }],
+                "neText" : "Fisher exact test"
+              }]
+          }, {
+            "sentence" : "Paired t-tests were used to compare the levels of continuous variables in HIV + subjects between BSL and W12.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Paired t-tests were used to compare the levels of continuous variables in HIV + subjects between BSL and W12."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }, {
+            "sentence" : "In these analyses, parameters were estimated by the restricted maximum likelihood (REML) criterion, and the statistical significance was assessed by the adjusted ANOVA F-test provided by the R package lmerTest (Kuznetsova et al., 2017).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In these analyses, parameters were estimated by the restricted maximum likelihood (REML) criterion, and the statistical significance was assessed by the adjusted ANOVA F-test provided by the R package lmerTest (Kuznetsova et al., 2017)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "F-test"
+                  }],
+                "neText" : "F-test"
+              }]
+          }, {
+            "sentence" : "For inferential problems that involved multiple hypotheses, Benjamini-Hochberg multiple testing procedure (Benjamini and Hochberg, 1995) was used to control the false discovery rate (FDR) at < 0.05 level.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For inferential problems that involved multiple hypotheses, Benjamini-Hochberg multiple testing procedure (Benjamini and Hochberg, 1995) was used to control the false discovery rate (FDR) at < 0.05 level."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini and Hochberg"
+                  }],
+                "neText" : "Benjamini and Hochberg"
+              }]
+          }, {
+            "sentence" : "Association of biomarkers with brain metabolites: We performed Spearman Correlation Test between brain metabolites and average concentrations (pgml) of NfL and Tau at baseline.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Association of biomarkers with brain metabolites: We performed Spearman Correlation Test between brain metabolites and average concentrations (pgml) of NfL and Tau at baseline."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman Correlation Test"
+                  }],
+                "neText" : "Spearman Correlation Test"
+              }]
+          }]
+      }]
+  }
+}

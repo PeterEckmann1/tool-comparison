@@ -1,0 +1,207 @@
+{
+  "docIdentifier" : "PMC8457427",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Across all studies, baseline data were collected from May 1988 until August 2010 and follow-up data from August 2007 to October 2016 (Supplementary Table S1 online).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Across all studies, baseline data were collected from May 1988 until August 2010 and follow-up data from August 2007 to October 2016 (Supplementary Table S1 online)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "August Pi i Sunyer Biomedical Research Institute; Barcelona; Spain (RRID:SCR_000954)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "August"
+                }],
+              "neText" : "August"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "METHODS Study participants All population studies included in the IDACO database 11 received ethical approval from the Institutional Review Boards in their country of origin and adhered to the Declaration of Helsinki. 12 Participants provided informed written consent.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHODS Study participants All population studies included in the IDACO database 11 received ethical approval from the Institutional Review Boards in their country of origin and adhered to the Declaration of Helsinki. 12 Participants provided informed written consent."
+              }]
+          }, {
+            "sentence" : "METHODS Study participants All population studies included in the IDACO database 11 received ethical approval from the Institutional Review Boards in their country of origin and adhered to the Declaration of Helsinki. 12 Participants provided informed written consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "METHODS Study participants All population studies included in the IDACO database 11 received ethical approval from the Institutional Review Boards in their country of origin and adhered to the Declaration of Helsinki. 12 Participants provided informed written consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "All endpoints were validated against medical records held by primary care physicians, specialists, or hospitals.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All endpoints were validated against medical records held by primary care physicians, specialists, or hospitals."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "We applied the Kolmogorov-Smirnov test for assessing the normality of distributions.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We applied the Kolmogorov-Smirnov test for assessing the normality of distributions."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kolmogorov-Smirnov test"
+                  }],
+                "neText" : "Kolmogorov-Smirnov test"
+              }]
+          }, {
+            "sentence" : "For between-group comparison of means and proportions, we applied the large-sample z-test and Fishers exact test, respectively.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For between-group comparison of means and proportions, we applied the large-sample z-test and Fishers exact test, respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "z-test"
+                  }],
+                "neText" : "z-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }, {
+            "sentence" : "We checked the proportional hazards assumption for PP by the Kolmogorov-type supremum test and by testing the interaction between BP and follow-up time.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We checked the proportional hazards assumption for PP by the Kolmogorov-type supremum test and by testing the interaction between BP and follow-up time."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kolmogorov-type supremum test"
+                  }],
+                "neText" : "Kolmogorov-type supremum test"
+              }]
+          }]
+      }]
+  }
+}

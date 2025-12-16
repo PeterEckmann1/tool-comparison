@@ -1,0 +1,228 @@
+{
+  "docIdentifier" : "PMC8182106",
+  "sciscore" : 1,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "For fibroblast/tumor cell staining: add both the anti-smooth muscle actin antibody and the anti-cytokeratin 8/18 antibody at a dilution of 1:250 each, directly to the Antibody Dilution Buffer.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For fibroblast/tumor cell staining: add both the anti-smooth muscle actin antibody and the anti-cytokeratin 8/18 antibody at a dilution of 1:250 each, directly to the Antibody Dilution Buffer."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-smooth muscle actin"
+                }],
+              "neText" : "anti-smooth muscle actin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-cytokeratin 8/18"
+                }],
+              "neText" : "anti-cytokeratin 8/18"
+            }]
+        }, {
+          "sentence" : "For β-catenin staining: add the anti-β-catenin antibody to a final dilution of 1:500 directly to the Antibody Dilution Buffer. e.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For "
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "-catenin staining: add the anti-"
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "-catenin antibody to a final dilution of 1:500 directly to the Antibody Dilution Buffer. e."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-"
+                }, {
+                  "f" : "symbol",
+                  "c" : "β"
+                }, {
+                  "f" : "default",
+                  "c" : "-catenin"
+                }],
+              "neText" : "anti-β-catenin"
+            }]
+        }, {
+          "sentence" : "Resuspend pellets in 1 mL Antibody Dilution Buffer. c. For fibroblast/tumor cell staining: Add anti-guinea pig and anti-rabbit secondary antibodies, each at a dilution of 1:250, directly to the Antibody Dilution Buffer/organoid suspension.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Resuspend pellets in 1 mL Antibody Dilution Buffer. c. For fibroblast/tumor cell staining: Add anti-guinea pig and anti-rabbit secondary antibodies, each at a dilution of 1:250, directly to the Antibody Dilution Buffer/organoid suspension."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }]
+        }, {
+          "sentence" : "For β-catenin staining: Add anti-mouse secondary antibody to a final dilution of 1:500 in Antibody Dilution Buffer. d.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For "
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "-catenin staining: Add anti-mouse secondary antibody to a final dilution of 1:500 in Antibody Dilution Buffer. d."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Adjust the z-plane up to the top of the organoid and select it as “top .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Adjust the z-plane up to the top of the organoid and select it as “top ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ADJUST (RRID:SCR_009526)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Adjust"
+                }],
+              "neText" : "Adjust"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

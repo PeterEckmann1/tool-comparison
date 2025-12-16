@@ -1,0 +1,898 @@
+{
+  "docIdentifier" : "PMC8629192",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "As a control , a same number of cells were stained with BV421 anti-hCD45 antibody ( Biolegend , 368522 ) and the top 3 of the BV421-positive cells were sorted.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "As a control , a same number of cells were stained with BV421 anti-hCD45 antibody ( Biolegend , 368522 ) and the top 3 of the BV421-positive cells were sorted."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-hCD45"
+                }],
+              "neText" : "anti-hCD45"
+            }]
+        }, {
+          "sentence" : "Then the cells were washed two times and resuspended in FACS buffer containing the secondary antibodies at a 1:1000 dilution: AF647-labeled donkey anti-goat IgG ( Invitrogen , A32849 ) or AF488-labeled goat anti-rabbit IgG ( Invitrogen , A32731) .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then the cells were washed two times and resuspended in FACS buffer containing the secondary antibodies at a 1:1000 dilution: AF647-labeled donkey anti-goat IgG ( Invitrogen , A32849 ) or AF488-labeled goat anti-rabbit IgG ( Invitrogen , A32731) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AF647-labeled donkey anti-goat IgG"
+                }],
+              "neText" : "AF647-labeled donkey anti-goat IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A32731"
+                }],
+              "neText" : "A32731"
+            }]
+        }, {
+          "sentence" : "The plates were then incubated with goat anti-human IgG Fc secondary antibody , HRP ( Thermo , A18817 ) at a 1:3000 dilution for 1 hour at room temperature.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The plates were then incubated with goat anti-human IgG Fc secondary antibody , HRP ( Thermo , A18817 ) at a 1:3000 dilution for 1 hour at room temperature."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human IgG"
+                }],
+              "neText" : "anti-human IgG"
+            }]
+        }, {
+          "sentence" : "HRP-conjugated goat anti-human IgG Fc secondary antibody was used to detect the bound ACE2 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HRP-conjugated goat anti-human IgG Fc secondary antibody was used to detect the bound ACE2 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ACE2"
+                }],
+              "neText" : "ACE2"
+            }]
+        }, {
+          "sentence" : "To compare GFP expressions in ACE2- and LRRC15-positive cells , pseudovirus-infected cells were stained for surface ACE2 and LRRC15 as described above with following secondary antibodies: AF405-labeled donkey anti-goat IgG ( Invitrogen , A48259 ) and PE-labeled donkey anti-rabbit IgG ( Jackson ImmunoResearch , 711-116-152) .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To compare GFP expressions in ACE2- and LRRC15-positive cells , pseudovirus-infected cells were stained for surface ACE2 and LRRC15 as described above with following secondary antibodies: AF405-labeled donkey anti-goat IgG ( Invitrogen , A48259 ) and PE-labeled donkey anti-rabbit IgG ( Jackson ImmunoResearch , 711-116-152) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LRRC15"
+                }],
+              "neText" : "LRRC15"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AF405-labeled donkey anti-goat IgG"
+                }],
+              "neText" : "AF405-labeled donkey anti-goat IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PE-labeled donkey anti-rabbit IgG"
+                }],
+              "neText" : "PE-labeled donkey anti-rabbit IgG"
+            }]
+        }, {
+          "sentence" : "Cells were subsequently incubated with recombinant anti-LRRC15 antibody ( Abcam , ab150376 ) and SARS-CoV-2 spike antibody 1A9 ( GeneTex , GTX632604 ) at 1:100 , followed by incubation with 1:500-diluted Alexa Fluor 555 conjugated goat anti-rabbit IgG antibody ( Abcam , ab150078 ) and 1:200-diluted Alexa Fluor 488 conjugated goat anti-mouse IgG antibody ( Abcam , ab150117 ) for 60 min at room temperature.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were subsequently incubated with recombinant anti-LRRC15 antibody ( Abcam , ab150376 ) and SARS-CoV-2 spike antibody 1A9 ( GeneTex , GTX632604 ) at 1:100 , followed by incubation with 1:500-diluted Alexa Fluor 555 conjugated goat anti-rabbit IgG antibody ( Abcam , ab150078 ) and 1:200-diluted Alexa Fluor 488 conjugated goat anti-mouse IgG antibody ( Abcam , ab150117 ) for 60 min at room temperature."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "goat"
+                }],
+              "neText" : "goat"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IgG antibody ( Abcam , ab150078 ) and 1:200-diluted Alexa Fluor 488 conjugated goat anti-mouse IgG antibody ( Abcam , ab150117 ) for 60 min at room"
+                }],
+              "neText" : "IgG antibody ( Abcam , ab150078 ) and 1:200-diluted Alexa Fluor 488 conjugated goat anti-mouse IgG antibody ( Abcam , ab150117 ) for 60 min at room"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG"
+                }],
+              "neText" : "anti-mouse IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "MATERIALS AND METHODS Cell culture HEK293T (CRL-3216), HeLa (CCL-2), and A375 (CRL-1619) cells were purchased from ATCC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MATERIALS AND METHODS Cell culture HEK293T (CRL-3216), HeLa (CCL-2), and A375 (CRL-1619) cells were purchased from ATCC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293T"
+                }],
+              "neText" : "HEK293T"
+            }]
+        }, {
+          "sentence" : "For A375 cells , 5 mgmL blasticidin ( Gibco , A1113903 ) and 1 mgmL puromycin ( Gibco , A1113803 ) were added as appropriate.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For A375 cells , 5 mgmL blasticidin ( Gibco , A1113903 ) and 1 mgmL puromycin ( Gibco , A1113803 ) were added as appropriate."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0132",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A375"
+                }],
+              "neText" : "A375"
+            }]
+        }, {
+          "sentence" : "For HeLa cells , 5 mgmL blasticidin , 0.7 mgmL puromycin , 200 or 400 mgmL hygromycin ( Gibco , 0-687-010) , and 100 mgmL zeocin ( Thermo , R25001 ) were added as appropriate.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For HeLa cells , 5 mgmL blasticidin , 0.7 mgmL puromycin , 200 or 400 mgmL hygromycin ( Gibco , 0-687-010) , and 100 mgmL zeocin ( Thermo , R25001 ) were added as appropriate."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0030",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa"
+                }],
+              "neText" : "HeLa"
+            }]
+        }, {
+          "sentence" : "7.8 x 107 A375-dCas cells were transduced with the CRISPRa library at 0.3 MOI to make 2.4 x 107 transduced cells , which is sufficient for the integration of each sgRNA into 500 cells .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "7.8 x 107 A375-dCas cells were transduced with the CRISPRa library at 0.3 MOI to make 2.4 x 107 transduced cells , which is sufficient for the integration of each sgRNA into 500 cells ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A375-dCas"
+                }],
+              "neText" : "A375-dCas"
+            }]
+        }, {
+          "sentence" : "For 1:1 ratio co-culture , 1 x 104 HeLa-ACE2 cells and 1 x 104 HeLa or HeLa-sgLRRC15 cells were plated per well .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For 1:1 ratio co-culture , 1 x 104 HeLa-ACE2 cells and 1 x 104 HeLa or HeLa-sgLRRC15 cells were plated per well ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa-ACE2"
+                }],
+              "neText" : "HeLa-ACE2"
+            }]
+        }, {
+          "sentence" : "Microscopic analysis 8 x 103 HeLa-ACE2 cells and 3.2 x 104 HeLa or HeLa-sgLRRC15 cells ( 1:4 ratio ) were co-plated per well in 8-well chamber slides ( Nunc) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Microscopic analysis 8 x 103 HeLa-ACE2 cells and 3.2 x 104 HeLa or HeLa-sgLRRC15 cells ( 1:4 ratio ) were co-plated per well in 8-well chamber slides ( Nunc) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa-sgLRRC15"
+                }],
+              "neText" : "HeLa-sgLRRC15"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Generation of genetically modified cell lines Individual sgRNAs ( sgLRRC15 1: GACATGCAGGCACTGCACTG sgLRRC15 2: AGTGTCAGCCCGGGACATGC sgACE2: GTTACATATCTGTCCTCTCC ) targeting the candidate genes were cloned into linearized pXPR_502 ( Addgene , 96923 ) for CRISPR activation .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Generation of genetically modified cell lines Individual sgRNAs ( sgLRRC15 1: GACATGCAGGCACTGCACTG sgLRRC15 2: AGTGTCAGCCCGGGACATGC sgACE2: GTTACATATCTGTCCTCTCC ) targeting the candidate genes were cloned into linearized pXPR_502 ( Addgene , 96923 ) for CRISPR activation ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_96923",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pXPR_502"
+                }],
+              "neText" : "pXPR_502"
+            }]
+        }, {
+          "sentence" : "A375-dCas or HeLa-dCas cells were generated by transducing with pLenti-dCas9-VP64-Blast ( Addgene , 61425) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A375-dCas or HeLa-dCas cells were generated by transducing with pLenti-dCas9-VP64-Blast ( Addgene , 61425) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLenti-dCas9-VP64-Blast"
+                }],
+              "neText" : "pLenti-dCas9-VP64-Blast"
+            }]
+        }, {
+          "sentence" : "Stable ACE2 expressing HeLa cells ( HeLa-ACE2 ) were generated by transducing HeLa-dCas cells with pLENTI_hACE2_HygR ( Addgene , 155296 ) followed selection with hygromycin .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Stable ACE2 expressing HeLa cells ( HeLa-ACE2 ) were generated by transducing HeLa-dCas cells with pLENTI_hACE2_HygR ( Addgene , 155296 ) followed selection with hygromycin ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_155296",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLENTI_hACE2_HygR"
+                }],
+              "neText" : "pLENTI_hACE2_HygR"
+            }]
+        }, {
+          "sentence" : "For ectopic expression of LRRC15 , a lentiviral vector pCDH-MSCV-T2A-Puro ( System Biosciences , CD522A-1 ) was modified to enable zeocin selection instead of puromycin .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For ectopic expression of LRRC15 , a lentiviral vector pCDH-MSCV-T2A-Puro ( System Biosciences , CD522A-1 ) was modified to enable zeocin selection instead of puromycin ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCDH-MSCV-T2A-Puro"
+                }],
+              "neText" : "pCDH-MSCV-T2A-Puro"
+            }]
+        }, {
+          "sentence" : "A codon-optimized LRRC15 ORF was cloned into pCDH-MSCV-T2A-Zeo with a C-terminal 3xFLAG tag and used to transduce HeLa-ACE2 followed by zeocin selection .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A codon-optimized LRRC15 ORF was cloned into pCDH-MSCV-T2A-Zeo with a C-terminal 3xFLAG tag and used to transduce HeLa-ACE2 followed by zeocin selection ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCDH-MSCV-T2A-Zeo"
+                }],
+              "neText" : "pCDH-MSCV-T2A-Zeo"
+            }]
+        }, {
+          "sentence" : "Expression vectors for SARS-CoV-2 Wuhan-Hu-1 ( Addgene , 149539) , SARS-CoV-2 B.1.167.2 ( Addgene , 172320) , SARS-CoV-2 B.1.1.7 ( Addgene , 170451) , SARS-CoV-2 B.1.351 ( Addgene , 170449) , SARS-CoV-2 P.1 ( Addgene , 170450) , SARS-CoV-1 ( Addgene , 170447) , MERS-CoV ( Addgene , 170448 ) and VSV-G ( Addgene , 12259 ) were used.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Expression vectors for SARS-CoV-2 Wuhan-Hu-1 ( Addgene , 149539) , SARS-CoV-2 B.1.167.2 ( Addgene , 172320) , SARS-CoV-2 B.1.1.7 ( Addgene , 170451) , SARS-CoV-2 B.1.351 ( Addgene , 170449) , SARS-CoV-2 P.1 ( Addgene , 170450) , SARS-CoV-1 ( Addgene , 170447) , MERS-CoV ( Addgene , 170448 ) and VSV-G ( Addgene , 12259 ) were used."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "VSV-G"
+                }],
+              "neText" : "VSV-G"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "For A375 cells , 5 mgmL blasticidin ( Gibco , A1113903 ) and 1 mgmL puromycin ( Gibco , A1113803 ) were added as appropriate.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For A375 cells , 5 mgmL blasticidin ( Gibco , A1113903 ) and 1 mgmL puromycin ( Gibco , A1113803 ) were added as appropriate."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }, {
+          "sentence" : "After 30 min incubation at 4degC , the cells were washed two times , fixed with 4 formaldehyde for 15 min and washed and resuspended in FACS buffer before analyzing by flow cytometry using FACSCelesta ( BD Biosciences ) or Cytek",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After 30 min incubation at 4degC , the cells were washed two times , fixed with 4 formaldehyde for 15 min and washed and resuspended in FACS buffer before analyzing by flow cytometry using FACSCelesta ( BD Biosciences ) or Cytek"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytek"
+                }],
+              "neText" : "Cytek"
+            }]
+        }, {
+          "sentence" : "Data was analyzed with Flowjo software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data was analyzed with Flowjo software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Flowjo"
+                }],
+              "neText" : "Flowjo"
+            }]
+        }, {
+          "sentence" : "GraphPad Prism 9 software was used to perform nonlinear regression curve-fitting analyses of binding data to estimate dissociation constants ( KD) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GraphPad Prism 9 software was used to perform nonlinear regression curve-fitting analyses of binding data to estimate dissociation constants ( KD) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }, {
+          "sentence" : "Anti-VSV-G ( Sigma , MABF2337 ) was added at final concentration of 1 mgmL to neutralize residual rVSVDG*G .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Anti-VSV-G ( Sigma , MABF2337 ) was added at final concentration of 1 mgmL to neutralize residual rVSVDG*G ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "To compare LRRC15 expression in lung cell lines infected with SARS-CoV-2 vs mock controls 61 , we accessed the raw count data from GSE147507 and performed differential expression analysis using DESeq2 as above.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To compare LRRC15 expression in lung cell lines infected with SARS-CoV-2 vs mock controls 61 , we accessed the raw count data from GSE147507 and performed differential expression analysis using DESeq2 as above."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq2"
+                }],
+              "neText" : "DESeq2"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Statistical significance was determined using GraphPad Prism 9 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Statistical significance was determined using GraphPad Prism 9 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "P5 stagger primer mix ( 0.5 mM ) and uniquely barcoded P7 primer ( 0.5 mM) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "P5 stagger primer mix ( 0.5 mM ) and uniquely barcoded P7 primer ( 0.5 mM) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "At 24 h post transfection , cells were incubated with replication restricted rVSVDG*G-GFP virus ( Kerafast , EH1019-PM ) at 5 MOI for 1 h at 37degC , 5 CO2 and the media was replaced with complete media .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "At 24 h post transfection , cells were incubated with replication restricted rVSVDG*G-GFP virus ( Kerafast , EH1019-PM ) at 5 MOI for 1 h at 37degC , 5 CO2 and the media was replaced with complete media ."
+              }],
+            "mention" : {
+              "neText" : "replication",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replication"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Gene expression data used in this study are publicly available on the web portal and have been de-identified.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Gene expression data used in this study are publicly available on the web portal and have been de-identified."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "Analysis of human lung scRNA-seq datasets Human lung scRNA-seq datasets from non-COVID-19 patients were accessed from the Human Lung Cell Atlas ( https:github.comkrasnowlabHLCA ) ( Synapse syn21041850) , and from the Tissue Stability Cell Atlas ( https:www.tissuestabilitycellatlas.org ) ( PRJEB31843)",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Analysis of human lung scRNA-seq datasets Human lung scRNA-seq datasets from non-COVID-19 patients were accessed from the Human Lung Cell Atlas ( https:github.comkrasnowlabHLCA ) ( Synapse syn21041850) , and from the Tissue Stability Cell Atlas ( https:www.tissuestabilitycellatlas.org ) ( PRJEB31843)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PRJEB31843"
+                  }],
+                "neText" : "PRJEB31843"
+              }]
+          }, {
+            "sentence" : "Detailed clinical annotations of the GTEx cohort were obtained as controlled access data through dbGaP ( phs000424.v8.p2) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Detailed clinical annotations of the GTEx cohort were obtained as controlled access data through dbGaP ( phs000424.v8.p2) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "phs000424.v8.p2"
+                  }],
+                "neText" : "phs000424.v8.p2"
+              }]
+          }, {
+            "sentence" : "To compare LRRC15 expression in the lungs of deceased COVID-19 patients with high vs low viral load 39 , we accessed the raw count data from GSE150316 and performed differential expression analysis using DESeq2 60 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To compare LRRC15 expression in the lungs of deceased COVID-19 patients with high vs low viral load 39 , we accessed the raw count data from GSE150316 and performed differential expression analysis using DESeq2 60 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE150316"
+                  }],
+                "neText" : "GSE150316"
+              }]
+          }, {
+            "sentence" : "To compare LRRC15 expression in lung cell lines infected with SARS-CoV-2 vs mock controls 61 , we accessed the raw count data from GSE147507 and performed differential expression analysis using DESeq2 as above.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To compare LRRC15 expression in lung cell lines infected with SARS-CoV-2 vs mock controls 61 , we accessed the raw count data from GSE147507 and performed differential expression analysis using DESeq2 as above."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE147507"
+                  }],
+                "neText" : "GSE147507"
+              }]
+          }, {
+            "sentence" : "The coverslips were mounted on a slide using prolong(tm ) glass antifade mountant with NucBlue(tm ) ( Invitrogen , P36981)",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The coverslips were mounted on a slide using prolong(tm ) glass antifade mountant with NucBlue(tm ) ( Invitrogen , P36981)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "P36981"
+                  }],
+                "neText" : "P36981"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "For the Melms dataset , we also compared the relative proportions of each of the fibroblast subpopulations among total fibroblasts , using a two-tailed unpaired Mann-Whitney test to assess statistical significance.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the Melms dataset , we also compared the relative proportions of each of the fibroblast subpopulations among total fibroblasts , using a two-tailed unpaired Mann-Whitney test to assess statistical significance."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney test"
+                  }],
+                "neText" : "Mann-Whitney test"
+              }]
+          }, {
+            "sentence" : "For analysis of genes correlated with LRRC15 expression in the GTEx dataset , we computed the Spearman correlation between LRRC15 and all other genes represented in the GTEx dataset.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For analysis of genes correlated with LRRC15 expression in the GTEx dataset , we computed the Spearman correlation between LRRC15 and all other genes represented in the GTEx dataset."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman correlation"
+                  }],
+                "neText" : "Spearman correlation"
+              }]
+          }, {
+            "sentence" : "We performed multiple-hypothesis correction by the Benjamini-Hochberg method.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We performed multiple-hypothesis correction by the Benjamini-Hochberg method."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }]
+          }, {
+            "sentence" : "For visualization purposes , we further extracted the normalized expression values for LRRC15 in each of the samples and tested for statistical significance by two-tailed unpaired t-test .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For visualization purposes , we further extracted the normalized expression values for LRRC15 in each of the samples and tested for statistical significance by two-tailed unpaired t-test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Experiments were analyzed by one-way or two-way ANOVA with Dunnetts multiple comparisons test or unpaired two-pair t test as indicated.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Experiments were analyzed by one-way or two-way ANOVA with Dunnetts multiple comparisons test or unpaired two-pair t test as indicated."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnetts multiple comparisons test"
+                  }],
+                "neText" : "Dunnetts multiple comparisons test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Generation of genetically modified cell lines Individual sgRNAs ( sgLRRC15 1: GACATGCAGGCACTGCACTG sgLRRC15 2: AGTGTCAGCCCGGGACATGC sgACE2: GTTACATATCTGTCCTCTCC ) targeting the candidate genes were cloned into linearized pXPR_502 ( Addgene , 96923 ) for CRISPR activation .",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Generation of genetically modified cell lines Individual sgRNAs ( sgLRRC15 1: GACATGCAGGCACTGCACTG sgLRRC15 2: AGTGTCAGCCCGGGACATGC sgACE2: GTTACATATCTGTCCTCTCC ) targeting the candidate genes were cloned into linearized pXPR_502 ( Addgene , 96923 ) for CRISPR activation ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GACATGCAGGCACTGCACTG"
+                  }],
+                "neText" : "GACATGCAGGCACTGCACTG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AGTGTCAGCCCGGGACATGC"
+                  }],
+                "neText" : "AGTGTCAGCCCGGGACATGC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GTTACATATCTGTCCTCTCC"
+                  }],
+                "neText" : "GTTACATATCTGTCCTCTCC"
+              }]
+          }]
+      }]
+  }
+}

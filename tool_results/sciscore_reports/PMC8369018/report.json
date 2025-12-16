@@ -1,0 +1,199 @@
+{
+  "docIdentifier" : "PMC8369018",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Data analysis The data analysis was performed using the Statistical Package for Social Sciences software (ver. 16.0 SPSS, Chicago, IL, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data analysis The data analysis was performed using the Statistical Package for Social Sciences software (ver. 16.0 SPSS, Chicago, IL, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "15 Patients were stratified according to eGFR as having mild (>=60 mLm), moderate (30-69 mLm), or severe (<30 mLm) CKD.16 Ethical approval and consent to participate All patients provided written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "15 Patients were stratified according to eGFR as having mild (>=60 mLm), moderate (30-69 mLm), or severe (<30 mLm) CKD.16 Ethical approval and consent to participate All patients provided written informed consent."
+              }]
+          }, {
+            "sentence" : "The ethics committee of Nanjing Medical University approved all the experimental protocols.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The ethics committee of Nanjing Medical University approved all the experimental protocols."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients with any of the following were excluded: massive hemorrhage within 1 month severe thrombocytopenia (blood platelet count <20x109L) dialysis-dependent end-stage renal failure or allergy to bivalirudin or hirudin.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients with any of the following were excluded: massive hemorrhage within 1 month severe thrombocytopenia (blood platelet count <20x109L) dialysis-dependent end-stage renal failure or allergy to bivalirudin or hirudin."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "For females with SCr <=(>)0.7, then eGFR=(144)x(SCr0.7)ax(0.993)age, where a=-0.329 (-1.209).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For females with SCr <=(>)0.7, then eGFR=(144)x(SCr0.7)ax(0.993)age, where a=-0.329 (-1.209)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Massive hemorrhage sufficient for exclusion was defined as clinically overt bleeding, accompanied by a decrease in hemoglobin >=2 gdL, requiring a transfusion of >=2 U of packed red blood cells, and occurring at a site of concern (intracranial, intraocular, intraspinal, intra-articular, intramuscular with compartment syndrome, pericardial, or retroperitoneal), or resulting in death.11 Finally, the study population consisted of 134 patients, aged 40 to 89 years.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Massive hemorrhage sufficient for exclusion was defined as clinically overt bleeding, accompanied by a decrease in hemoglobin >=2 gdL, requiring a transfusion of >=2 U of packed red blood cells, and occurring at a site of concern (intracranial, intraocular, intraspinal, intra-articular, intramuscular with compartment syndrome, pericardial, or retroperitoneal), or resulting in death.11 Finally, the study population consisted of 134 patients, aged 40 to 89 years."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Data analyses utilized chi-squared tests to determine differences in sex, smoking status, drinking status, and medical history.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data analyses utilized chi-squared tests to determine differences in sex, smoking status, drinking status, and medical history."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared tests"
+                  }],
+                "neText" : "chi-squared tests"
+              }]
+          }, {
+            "sentence" : "Independent samples t-tests, one-way analysis of variance, and paired samples t-tests were applied to normal data, as appropriate.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Independent samples t-tests, one-way analysis of variance, and paired samples t-tests were applied to normal data, as appropriate."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }]
+          }, {
+            "sentence" : "Other baseline characteristics (non-normal data) were examined by Mann-Whitney and Wilcoxon rank tests.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Other baseline characteristics (non-normal data) were examined by Mann-Whitney and Wilcoxon rank tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney"
+                  }],
+                "neText" : "Mann-Whitney"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank tests"
+                  }],
+                "neText" : "Wilcoxon rank tests"
+              }]
+          }]
+      }]
+  }
+}

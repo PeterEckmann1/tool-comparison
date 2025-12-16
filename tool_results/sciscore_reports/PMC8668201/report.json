@@ -1,0 +1,120 @@
+{
+  "docIdentifier" : "PMC8668201",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The model was fitted in SAS version 9.4 (SAS Institute Inc., Cary, NC, USA) with the proc mixed procedure.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The model was fitted in SAS version 9.4 (SAS Institute Inc., Cary, NC, USA) with the proc mixed procedure."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The simulated IGF-1 weekly profiles with dosing intervals less than 7.0 days of a dosing week were excluded for the final model, to remove the bias caused by earlier dosing, so that the prediction of the steady state profile includes data from full 7.0 days without the interruption of earlier dosing.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The simulated IGF-1 weekly profiles with dosing intervals less than 7.0 days of a dosing week were excluded for the final model, to remove the bias caused by earlier dosing, so that the prediction of the steady state profile includes data from full 7.0 days without the interruption of earlier dosing."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Methods Clinical Trial Design and Patient Population for Model Development Trial CT-004 CT-004 was a phase 2, randomized, open-label trial of 3 different doses (0.14, 0.21, or 0.30 mg hGHkgweek) of once-weekly ACP-001 (a bioequivalent predecessor of lonapegsomatropin data on file TransCon hGH in this manuscript refers to both ACP-001 and lonapegsomatropin), compared to daily somatropin (Genotropin) over a period of 26 weeks in treatment-naive children with GHD (N = 53).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Clinical Trial Design and Patient Population for Model Development Trial CT-004 CT-004 was a phase 2, randomized, open-label trial of 3 different doses (0.14, 0.21, or 0.30 mg hGHkgweek) of once-weekly ACP-001 (a bioequivalent predecessor of lonapegsomatropin data on file TransCon hGH in this manuscript refers to both ACP-001 and lonapegsomatropin), compared to daily somatropin (Genotropin) over a period of 26 weeks in treatment-naive children with GHD (N = 53)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

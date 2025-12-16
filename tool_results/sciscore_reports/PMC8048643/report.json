@@ -1,0 +1,264 @@
+{
+  "docIdentifier" : "PMC8048643",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All PCR reactions were performed with 25 µL of reaction cocktail containing 12.75 µL of sterilized H2O, 2.0 µL of 20 mM dNTPs (Pharmacia Biotech, Piscataway, New Jersey, USA) in an equimolar solution, 2.5 µL of 10x PCR reaction Buffer A (Promega, Madison, Wisconsin, USA), 1.25 µL of 25 mM MgCl2, 0.5 µL 10 mg/ml Bovine Serum Albumin (Sigma‐Aldrich, St. Louis, Missouri, USA), 1 µL of 10 mM of each of the two primers, 0.5 Biolase Red Taq DNA polymerase enzyme (Bioline‐Thomas Scientific, Swedesboro, New Jersey, USA) and 4 µL of DNA template.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All PCR reactions were performed with 25 µL of reaction cocktail containing 12.75 µL of sterilized H2O, 2.0 µL of 20 mM dNTPs (Pharmacia Biotech, Piscataway, New Jersey, USA) in an equimolar solution, 2.5 µL of 10x PCR reaction Buffer A (Promega, Madison, Wisconsin, USA), 1.25 µL of 25 mM MgCl2, 0.5 µL 10 mg/ml Bovine Serum Albumin (Sigma-Aldrich, St. Louis, Missouri, USA), 1 µL of 10 mM of each of the two primers, 0.5 Biolase Red Taq DNA polymerase enzyme (Bioline-Thomas Scientific, Swedesboro, New Jersey, USA) and 4 µL of DNA template."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma-Aldrich"
+                }],
+              "neText" : "Sigma‐Aldrich"
+            }]
+        }, {
+          "sentence" : "Sequences were edited using Sequencher version 3.1.10 (Gene Codes, Ann Arbor, Michigan, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Sequences were edited using Sequencher version 3.1.10 (Gene Codes, Ann Arbor, Michigan, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Sequencher (RRID:SCR_001528)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sequencher"
+                }],
+              "neText" : "Sequencher"
+            }]
+        }, {
+          "sentence" : "Alignments were performed using MAFFT version 7.310 (Katoh et al., 2002).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Alignments were performed using MAFFT version 7.310 (Katoh et al., 2002)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MAFFT (RRID:SCR_011811)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MAFFT"
+                }],
+              "neText" : "MAFFT"
+            }]
+        }, {
+          "sentence" : "Phylogenetic analyses and divergence time estimation To test for topological congruence, chloroplast and nuclear regions were analyzed separately and phylogenies compared using “tanglegrams” produced in Dendroscope (Scornavacca et al., 2011; Huson and Scornavacca, 2012) as well as by the partition homogeneity test (ILD) as implemented in PAUP* version 4.0b10 (Swofford, 2002) using 1000 replicates, TBR (tree‐bisection reconnection) branch swapping, and MulTrees.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Phylogenetic analyses and divergence time estimation To test for topological congruence, chloroplast and nuclear regions were analyzed separately and phylogenies compared using “tanglegrams” produced in Dendroscope (Scornavacca et al., 2011; Huson and Scornavacca, 2012) as well as by the partition homogeneity test (ILD) as implemented in PAUP* version 4.0b10 (Swofford, 2002) using 1000 replicates, TBR (tree-bisection reconnection) branch swapping, and MulTrees."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PAUP (RRID:SCR_014931)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PAUP*"
+                }],
+              "neText" : "PAUP*"
+            }]
+        }, {
+          "sentence" : "Maximum likelihood phylogeny inference was done in RAxML version 8.2.12 (Stamatakis, 2014) on the RAxML‐HPC2 Workflow on XSEDE on the CIPRES Science Gateway (Miller et al., 2010).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Maximum likelihood phylogeny inference was done in RAxML version 8.2.12 (Stamatakis, 2014) on the RAxML-HPC2 Workflow on XSEDE on the CIPRES Science Gateway (Miller et al., 2010)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RAxML"
+                }],
+              "neText" : "RAxML"
+            }]
+        }, {
+          "sentence" : "Joint Bayesian inference (BI) on phylogeny and clade divergence times was implemented in BEAST version 2.6.1 (Bouckaert et al., 2014) on the CIPRES Science Gateway (Miller et al., 2010).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Joint Bayesian inference (BI) on phylogeny and clade divergence times was implemented in BEAST version 2.6.1 (Bouckaert et al., 2014) on the CIPRES Science Gateway (Miller et al., 2010)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BEAST (RRID:SCR_010228)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BEAST"
+                }],
+              "neText" : "BEAST"
+            }]
+        }, {
+          "sentence" : "Trees were visualized in FigTree version 1.4.3 (Drummond and Rambaut, 2007; Rambaut, 2017).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Trees were visualized in FigTree version 1.4.3 (Drummond and Rambaut, 2007; Rambaut, 2017)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FigTree"
+                }],
+              "neText" : "FigTree"
+            }]
+        }, {
+          "sentence" : "Historical biogeography We conducted inference on the biogeographic history of the Vernonieae using the maximum likelihood implementation of the program BioGeoBEARS version 1.1.2 (Matzke, 2013a, b, 2014; Dupin et al., 2016) Ancestral ranges and biogeographic events were inferred using the Bayesian calibrated tree trimmed to include only members of the Vernonieae tribe.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Historical biogeography We conducted inference on the biogeographic history of the Vernonieae using the maximum likelihood implementation of the program BioGeoBEARS version 1.1.2 (Matzke, 2013a, b, 2014; Dupin et al., 2016) Ancestral ranges and biogeographic events were inferred using the Bayesian calibrated tree trimmed to include only members of the Vernonieae tribe."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BioGeoBEARS"
+                }],
+              "neText" : "BioGeoBEARS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Revisionary studies are needed to properly place these, along with previously described taxa at the generic and subtribal levels.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Revisionary studies are needed to properly place these, along with previously described taxa at the generic and subtribal levels."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Trees were modeled under a Yule process using a random start tree, with the GTR+I+G substitution model for each partition (ITS, combined plastid markers), and a relaxed clock with a lognormal distribution to account for rate heterogeneity among branches.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Trees were modeled under a Yule process using a random start tree, with the GTR+I+G substitution model for each partition (ITS, combined plastid markers), and a relaxed clock with a lognormal distribution to account for rate heterogeneity among branches."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Phylogenetic analyses and divergence time estimation To test for topological congruence, chloroplast and nuclear regions were analyzed separately and phylogenies compared using “tanglegrams” produced in Dendroscope (Scornavacca et al., 2011; Huson and Scornavacca, 2012) as well as by the partition homogeneity test (ILD) as implemented in PAUP* version 4.0b10 (Swofford, 2002) using 1000 replicates, TBR (tree‐bisection reconnection) branch swapping, and MulTrees.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Phylogenetic analyses and divergence time estimation To test for topological congruence, chloroplast and nuclear regions were analyzed separately and phylogenies compared using “tanglegrams” produced in Dendroscope (Scornavacca et al., 2011; Huson and Scornavacca, 2012) as well as by the partition homogeneity test (ILD) as implemented in PAUP* version 4.0b10 (Swofford, 2002) using 1000 replicates, TBR (tree-bisection reconnection) branch swapping, and MulTrees."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "Phylogenetic analyses and divergence time estimation To test for topological congruence, chloroplast and nuclear regions were analyzed separately and phylogenies compared using “tanglegrams” produced in Dendroscope (Scornavacca et al., 2011; Huson and Scornavacca, 2012) as well as by the partition homogeneity test (ILD) as implemented in PAUP* version 4.0b10 (Swofford, 2002) using 1000 replicates, TBR (tree‐bisection reconnection) branch swapping, and MulTrees.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Phylogenetic analyses and divergence time estimation To test for topological congruence, chloroplast and nuclear regions were analyzed separately and phylogenies compared using “tanglegrams” produced in Dendroscope (Scornavacca et al., 2011; Huson and Scornavacca, 2012) as well as by the partition homogeneity test (ILD) as implemented in PAUP* version 4.0b10 (Swofford, 2002) using 1000 replicates, TBR (tree-bisection reconnection) branch swapping, and MulTrees."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

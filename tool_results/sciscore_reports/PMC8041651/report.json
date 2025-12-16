@@ -1,0 +1,290 @@
+{
+  "docIdentifier" : "PMC8041651",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Next , the slides were incubated overnight with primary antibodies Bcl2 , Caspase 3 , TNF-a , and p-NFkB .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Next , the slides were incubated overnight with primary antibodies Bcl2 , Caspase 3 , TNF-a , and p-NFkB ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TNF-a"
+                }],
+              "neText" : "TNF-a"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p-NFkB"
+                }],
+              "neText" : "p-NFkB"
+            }]
+        }, {
+          "sentence" : "After blocking the PVDF membranes using skim milk to reduce binding of the nonspecific protein binding , the PVDF membrane was incubated at 4degC for the whole night with the primary antibodies against rat anti-Nrf2 , mouse anti-HO-1 . b-actin was used as a loading control.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After blocking the PVDF membranes using skim milk to reduce binding of the nonspecific protein binding , the PVDF membrane was incubated at 4degC for the whole night with the primary antibodies against rat anti-Nrf2 , mouse anti-HO-1 . b-actin was used as a loading control."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Nrf2"
+                }],
+              "neText" : "anti-Nrf2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-HO-1"
+                }],
+              "neText" : "anti-HO-1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Animals Male Sprague Dawley rats weighing 180-200 g were housed three per cage under a 12 hour lightdark cycle with free access to water and food at the animal house of Riphah Institute of Pharmaceutical Sciences ( RIPS ) under standard laboratory protocols ( temperature: 22+-1degC humidity: 50+-10) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Animals Male Sprague Dawley rats weighing 180-200 g were housed three per cage under a 12 hour lightdark cycle with free access to water and food at the animal house of Riphah Institute of Pharmaceutical Sciences ( RIPS ) under standard laboratory protocols ( temperature: 22+-1degC humidity: 50+-10) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_70508",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sprague Dawley"
+                }],
+              "neText" : "Sprague Dawley"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Images were obtained using a light microscope and saved in TIFF format for further quantification by ImageJ software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images were obtained using a light microscope and saved in TIFF format for further quantification by ImageJ software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "The online database PubChem was used to retrieve the 2D structure of carvacrol, which was then processed for docking in DS v4.5 (Discovery Studio).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The online database PubChem was used to retrieve the 2D structure of carvacrol, which was then processed for docking in DS v4.5 (Discovery Studio)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PubChem (RRID:SCR_004284)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PubChem"
+                }],
+              "neText" : "PubChem"
+            }]
+        }, {
+          "sentence" : "Following the docking protocol, approximately 100 different conformations of carvacrol were created by employing the genetic algorithm (GA) of the GOLD package.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Following the docking protocol, approximately 100 different conformations of carvacrol were created by employing the genetic algorithm (GA) of the GOLD package."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GOLD (RRID:SCR_000188)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GOLD"
+                }],
+              "neText" : "GOLD"
+            }]
+        }, {
+          "sentence" : "The bar graphs were analyzed using GraphPad Prism 6.0 (GraphPad, San Diego, CA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The bar graphs were analyzed using GraphPad Prism 6.0 (GraphPad, San Diego, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All experimental procedures were carried out according to the guidelines of the Institute of Laboratory Animal Resources , Commission on Life Sciences University , National Research Council ( 1996) , approved by the RIPS Ethical Committee ( Reference No: RECRIPS2017010) .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All experimental procedures were carried out according to the guidelines of the Institute of Laboratory Animal Resources , Commission on Life Sciences University , National Research Council ( 1996) , approved by the RIPS Ethical Committee ( Reference No: RECRIPS2017010) ."
+              }]
+          }, {
+            "sentence" : "Following the behavioral tests , the animals were terminally anesthetized with sodium pentobarbital ( 60 mgkg , i.p.) .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Following the behavioral tests , the animals were terminally anesthetized with sodium pentobarbital ( 60 mgkg , i.p.) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Animals Male Sprague Dawley rats weighing 180-200 g were housed three per cage under a 12 hour lightdark cycle with free access to water and food at the animal house of Riphah Institute of Pharmaceutical Sciences ( RIPS ) under standard laboratory protocols ( temperature: 22+-1degC humidity: 50+-10) .",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals Male Sprague Dawley rats weighing 180-200 g were housed three per cage under a 12 hour lightdark cycle with free access to water and food at the animal house of Riphah Institute of Pharmaceutical Sciences ( RIPS ) under standard laboratory protocols ( temperature: 22+-1degC humidity: 50+-10) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The last 4 min were randomly assessed at 5 s intervals.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The last 4 min were randomly assessed at 5 s intervals."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical Analysis The results obtained were expressed as mean +- standard error of the mean (SEM) and statistically analyzed by applying one-way ANOVA followed by Bonferroni multiple comparisons as post-hoc.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical Analysis The results obtained were expressed as mean +- standard error of the mean (SEM) and statistically analyzed by applying one-way ANOVA followed by Bonferroni multiple comparisons as post-hoc."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni multiple comparisons"
+                  }],
+                "neText" : "Bonferroni multiple comparisons"
+              }]
+          }]
+      }]
+  }
+}

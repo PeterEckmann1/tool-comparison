@@ -1,0 +1,328 @@
+{
+  "docIdentifier" : "PMC8061802",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "23 c-fos antibody (sc-271243, 1:100) was purchased from Santa Cruz Biotechnology (California, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "23 c-fos antibody (sc-271243, 1:100) was purchased from Santa Cruz Biotechnology (California, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "sc-271243,"
+                }],
+              "neText" : "sc-271243,"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "sc-271243"
+                }],
+              "neText" : "sc-271243"
+            }]
+        }, {
+          "sentence" : "Phospho-AMPKa (Thr172) antibody (2531 1:1000), AMPKa (2532 1:1000) antibody, b-tubulin (9F3) rabbit mAb (2128 1:1000), HRP-linked anti-mouse IgG (7072 1: 5000), and HRP-linked anti-rabbit IgG (7074 1:1000) were from Cell Signaling Technology (MA, USA).",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Phospho-AMPKa (Thr172) antibody (2531 1:1000), AMPKa (2532 1:1000) antibody, b-tubulin (9F3) rabbit mAb (2128 1:1000), HRP-linked anti-mouse IgG (7072 1: 5000), and HRP-linked anti-rabbit IgG (7074 1:1000) were from Cell Signaling Technology (MA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Thr172"
+                }],
+              "neText" : "Thr172"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "b-tubulin (9F3)"
+                }],
+              "neText" : "b-tubulin (9F3)"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG"
+                }],
+              "neText" : "anti-mouse IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Research design and methods Animals and surgical treatment Male Sprague-Dawley rats (CLEA Japan, Tokyo, Japan) weighing 250-350 g were housed separately in air-conditioned animal quarters with lights on between 06:00 and 18:00 hours.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Research design and methods Animals and surgical treatment Male Sprague-Dawley rats (CLEA Japan, Tokyo, Japan) weighing 250-350 g were housed separately in air-conditioned animal quarters with lights on between 06:00 and 18:00 hours."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_70508",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sprague-Dawley"
+                }],
+              "neText" : "Sprague-Dawley"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Band intensities from western blots were measured and quantified using ImageJ software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Band intensities from western blots were measured and quantified using ImageJ software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Data analysis All statistical analyses were performed using GraphPad Prism 8 (V.8.4.3).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data analysis All statistical analyses were performed using GraphPad Prism 8 (V.8.4.3)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Animals were decapitated 1.5 hours after drug administration.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals were decapitated 1.5 hours after drug administration."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Research design and methods Animals and surgical treatment Male Sprague-Dawley rats (CLEA Japan, Tokyo, Japan) weighing 250-350 g were housed separately in air-conditioned animal quarters with lights on between 06:00 and 18:00 hours.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Research design and methods Animals and surgical treatment Male Sprague-Dawley rats (CLEA Japan, Tokyo, Japan) weighing 250-350 g were housed separately in air-conditioned animal quarters with lights on between 06:00 and 18:00 hours."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Research design and methods Animals and surgical treatment Male Sprague-Dawley rats (CLEA Japan, Tokyo, Japan) weighing 250-350 g were housed separately in air-conditioned animal quarters with lights on between 06:00 and 18:00 hours.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Research design and methods Animals and surgical treatment Male Sprague-Dawley rats (CLEA Japan, Tokyo, Japan) weighing 250-350 g were housed separately in air-conditioned animal quarters with lights on between 06:00 and 18:00 hours."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Data for each drug treatment protocol were evaluated by one-way analysis of variance (ANOVA) for each phenotype.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data for each drug treatment protocol were evaluated by one-way analysis of variance (ANOVA) for each phenotype."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Where indicated, further comparisons between individual groups and the vehicle group were performed using Dunnetts multiple comparison test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Where indicated, further comparisons between individual groups and the vehicle group were performed using Dunnetts multiple comparison test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnetts multiple comparison test"
+                  }],
+                "neText" : "Dunnetts multiple comparison test"
+              }]
+          }, {
+            "sentence" : "In some analyses, variances among groups differed significantly using the F-test but were not significantly different after logarithmic transformation.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In some analyses, variances among groups differed significantly using the F-test but were not significantly different after logarithmic transformation."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "F-test"
+                  }],
+                "neText" : "F-test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "18s primers (18S-f: CGGACAGGATTGACAGATTG, 18S-r: CAAATCGCTCCACCAACTAA) were purchased from Applied Biosystems and used with Fast SYBR Green Master Mix in a CFX Connect Real-Time PCR Detection System (Bio-Rad, California, USA).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "18s primers (18S-f: CGGACAGGATTGACAGATTG, 18S-r: CAAATCGCTCCACCAACTAA) were purchased from Applied Biosystems and used with Fast SYBR Green Master Mix in a CFX Connect Real-Time PCR Detection System (Bio-Rad, California, USA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CGGACAGGATTGACAGATTG"
+                  }],
+                "neText" : "CGGACAGGATTGACAGATTG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAAATCGCTCCACCAACTAA"
+                  }],
+                "neText" : "CAAATCGCTCCACCAACTAA"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "docIdentifier" : "PMC8673483",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "These sources included a combination of laboratory codes, Anatomical Therapeutic Chemical (ATC) codes for medications and the International Classification of Diseases, Ninth Revision, Clinical Modification.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These sources included a combination of laboratory codes, Anatomical Therapeutic Chemical (ATC) codes for medications and the International Classification of Diseases, Ninth Revision, Clinical Modification."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ATC"
+                }],
+              "neText" : "ATC"
+            }]
+        }, {
+          "sentence" : "Dashboard In collaboration with the NAPCReN and the Physician Learning Program, we created a prototype for a primary care obesity dashboard using EOSS stages in their data presentation tool.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Dashboard In collaboration with the NAPCReN and the Physician Learning Program, we created a prototype for a primary care obesity dashboard using EOSS stages in their data presentation tool."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Physician Learning Program"
+                }],
+              "neText" : "Physician Learning Program"
+            }]
+        }, {
+          "sentence" : "We conducted all analyses with Python 3.4 (Python Software Foundation) and Stata 16 (StataCorp) software.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We conducted all analyses with Python 3.4 (Python Software Foundation) and Stata 16 (StataCorp) software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata, RRID:SCR_012763",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StataCorp"
+                }],
+              "neText" : "StataCorp"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Ethics approval This study received ethics approval from the Health Research Ethics Board (Pr000074666) at the University of Alberta, Edmonton.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ethics approval This study received ethics approval from the Health Research Ethics Board (Pr000074666) at the University of Alberta, Edmonton."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "We excluded patients with BMI above 60 because most patients with BMI in this range have mechanical and functional issues requiring tertiary care.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We excluded patients with BMI above 60 because most patients with BMI in this range have mechanical and functional issues requiring tertiary care."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "We dichotomized sex as male and female.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We dichotomized sex as male and female."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Study population We included individuals 18 years of age or older with BMI of at least 30 and at least 1 visit with a family physician contributing data to the NAPCReN between July 1, 2016, and July 1, 2019.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Study population We included individuals 18 years of age or older with BMI of at least 30 and at least 1 visit with a family physician contributing data to the NAPCReN between July 1, 2016, and July 1, 2019."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

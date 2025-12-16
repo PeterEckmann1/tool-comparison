@@ -1,0 +1,134 @@
+{
+  "docIdentifier" : "PMC8605955",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "That end date for the post-hoc analysis was selected to reflect the end date of the Sentinel study 12 , whose end date coincided with the switch of many US healthcare databases from ICD-9-CM to ICD-10-CM.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "That end date for the post-hoc analysis was selected to reflect the end date of the Sentinel study 12 , whose end date coincided with the switch of many US healthcare databases from ICD-9-CM to ICD-10-CM."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "US healthcare"
+                }],
+              "neText" : "US healthcare"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The use of CCAE was reviewed by the New England Institutional Review Board and determined to be exempt from broad institutional review board approval, as this research project did not involve human patient research.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The use of CCAE was reviewed by the New England Institutional Review Board and determined to be exempt from broad institutional review board approval, as this research project did not involve human patient research."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients who were exposed to both first-generation and second-generation antipsychotics on their index date were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients who were exposed to both first-generation and second-generation antipsychotics on their index date were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Methods Data Sources Data for this study were obtained from the IBM MarketScan(r) Commercial Database (CCAE), a large, nationally representative, US health claims database of patients < 65 years of age that includes data for active employees, early retirees, Consolidated Omnibus Budget Reconciliation Act continuers, and their dependents who are insured by employer-sponsored plans.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Data Sources Data for this study were obtained from the IBM MarketScan(r) Commercial Database (CCAE), a large, nationally representative, US health claims database of patients < 65 years of age that includes data for active employees, early retirees, Consolidated Omnibus Budget Reconciliation Act continuers, and their dependents who are insured by employer-sponsored plans."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "The code lists used for identifying first-generation antipsychotics , haloperidol , second-generation antipsychotics , and stroke are available in the protocol , which is pre-registered at https:clinicaltrials.govct2showNCT04002700 and is publicly available in greater detail at https:github.comohdsi-studiesStrokeRiskInApUserstreemasterdocuments .",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The code lists used for identifying first-generation antipsychotics , haloperidol , second-generation antipsychotics , and stroke are available in the protocol , which is pre-registered at https:clinicaltrials.govct2showNCT04002700 and is publicly available in greater detail at https:github.comohdsi-studiesStrokeRiskInApUserstreemasterdocuments ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  }
+}

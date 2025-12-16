@@ -1,0 +1,197 @@
+{
+  "docIdentifier" : "PMC8995964",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "12–14 A scoping review was used to systematically select and summarise existing tools with established evidence on the reliability and validity.14–21 We used the CREATE framework to guide the data extraction of potential domains.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "12–14 A scoping review was used to systematically select and summarise existing tools with established evidence on the reliability and validity.14–21 We used the CREATE framework to guide the data extraction of potential domains."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "CREATE (RRID:SCR_006133)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CREATE"
+                }],
+              "neText" : "CREATE"
+            }]
+        }, {
+          "sentence" : "The Excel spreadsheet was used to extract and analyse the items.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Excel spreadsheet was used to extract and analyse the items."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Excel"
+                }],
+              "neText" : "Excel"
+            }]
+        }, {
+          "sentence" : "Each round lasted 30 days corresponding to 15 days for the panellists’ answers and another 15 days for the researchers’ analysis Descriptive analyses After each round, data generated from completing the online questionnaire were extracted to Microsoft Excel for descriptive analysis (frequencies and percentages) to determine the percentage rating of agreement or disagreement among experts.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Each round lasted 30 days corresponding to 15 days for the panellists’ answers and another 15 days for the researchers’ analysis Descriptive analyses After each round, data generated from completing the online questionnaire were extracted to Microsoft Excel for descriptive analysis (frequencies and percentages) to determine the percentage rating of agreement or disagreement among experts."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }, {
+          "sentence" : "Data analysis Data analysis were performed using SPSS (V.20.0) and Stata (V.12.0).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data analysis Data analysis were performed using SPSS (V.20.0) and Stata (V.12.0)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Criteria for dropping items at each round If 80% or more of the participants’ votes completely disagree or disagreed, the item was excluded from the instrument.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Criteria for dropping items at each round If 80% or more of the participants’ votes completely disagree or disagreed, the item was excluded from the instrument."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Random sampling The random sample was performed with the Microsoft Excel software in a central computer considering some stratifications (eg, type of professional, geography, settings).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Random sampling The random sample was performed with the Microsoft Excel software in a central computer considering some stratifications (eg, type of professional, geography, settings)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "25 26 The Delphi technique was conducted in online web surveys where the panel of experts filled out the form given their responses directly and blinded from others.26 Selection and recruitment of experts The panellists were identified through an advanced search system of the Lattes platform on the National Council for Scientific and Technological Development website (www.cnpq.br/lattes), using the following keywords: evidence-based health, EBP, evidence-based medicine, questionnaire, measurement instruments, questionnaire validation and psychometric analysis.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "25 26 The Delphi technique was conducted in online web surveys where the panel of experts filled out the form given their responses directly and blinded from others.26 Selection and recruitment of experts The panellists were identified through an advanced search system of the Lattes platform on the National Council for Scientific and Technological Development website (www.cnpq.br/lattes), using the following keywords: evidence-based health, EBP, evidence-based medicine, questionnaire, measurement instruments, questionnaire validation and psychometric analysis."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "10.1136/bmjopen-2021-052767.supp1 Supplementary data After translation, technique revision and semantic evaluation by the research group, the initial item pool was discussed and critically assessed and appropriate changes to the translation were made to ensure consistency.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "10.1136/bmjopen-2021-052767.supp1 Supplementary data After translation, technique revision and semantic evaluation by the research group, the initial item pool was discussed and critically assessed and appropriate changes to the translation were made to ensure consistency."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "10.1136/bmjopen-2021-052767.supp1"
+                  }],
+                "neText" : "10.1136/bmjopen-2021-052767.supp1"
+              }]
+          }]
+      }]
+  }
+}

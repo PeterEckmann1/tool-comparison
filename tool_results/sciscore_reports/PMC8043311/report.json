@@ -1,0 +1,168 @@
+{
+  "docIdentifier" : "PMC8043311",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analyses were performed using Microsoft Excel 2013",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analyses were performed using Microsoft Excel 2013"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Mount Sinai Hospital Research Ethics Board (MSH REB 17-0007-E).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Mount Sinai Hospital Research Ethics Board (MSH REB 17-0007-E)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Clinicians directly involved in survey tool content development or testing were excluded from the pre and post survey .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Clinicians directly involved in survey tool content development or testing were excluded from the pre and post survey ."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "We calculated that a sample size of 80 completed surveys would provide us with 80 power to detect a 1-point difference in Likert responses for preintervention versus postintervention surveys .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We calculated that a sample size of 80 completed surveys would provide us with 80 power to detect a 1-point difference in Likert responses for preintervention versus postintervention surveys ."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "If the tool was present , sections were graded as 1 ( not at all complete) , 2 ( partially complete) , and 3 ( fully complete ) in duplicate by T . B . and J . R . with discrepancies resolved by consensus .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "If the tool was present , sections were graded as 1 ( not at all complete) , 2 ( partially complete) , and 3 ( fully complete ) in duplicate by T . B . and J . R . with discrepancies resolved by consensus ."
+              }],
+            "mention" : {
+              "neText" : "duplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicate"
+                }]
+            }
+          }, {
+            "sentence" : "If the tool was present , sections were graded as 1 ( not at all complete) , 2 ( partially complete) , and 3 ( fully complete ) in duplicate by T . B . and J . R . with discrepancies resolved by consensus .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "If the tool was present , sections were graded as 1 ( not at all complete) , 2 ( partially complete) , and 3 ( fully complete ) in duplicate by T . B . and J . R . with discrepancies resolved by consensus ."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Pre and post survey responses were compared using chi-square and Fishers exact tests where applicable after dichotomizing responses into positive responses ( Likert 5-7 ) and negativeneutral responses ( Likert 1-4) .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pre and post survey responses were compared using chi-square and Fishers exact tests where applicable after dichotomizing responses into positive responses ( Likert 5-7 ) and negativeneutral responses ( Likert 1-4) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square"
+                  }],
+                "neText" : "chi-square"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact tests"
+                  }],
+                "neText" : "Fishers exact tests"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "docIdentifier" : "PMC8484973",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "In cases of ambiguity concerning the label, clinicalstudy.gov, or statistical review, the clinical trial publication was searched on PubMed and reviewed for additional information.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In cases of ambiguity concerning the label, clinicalstudy.gov, or statistical review, the clinical trial publication was searched on PubMed and reviewed for additional information."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PubMed (RRID:SCR_004846)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PubMed"
+                }],
+              "neText" : "PubMed"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Data analysis was performed using IBM SPSS Statistics, version 25 (IBM Corporation, Armonk, NY) and Microsoft Excel (Microsoft Corp, Redmond, WA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Data analysis was performed using IBM SPSS Statistics, version 25 (IBM Corporation, Armonk, NY) and Microsoft Excel (Microsoft Corp, Redmond, WA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Microsoft Excel, RRID:SCR_016137",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Microsoft Excel"
+                }],
+              "neText" : "Microsoft Excel"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods Statement of ethics This study was exempt from institutional review board approval because the data were extracted entirely from publicly available resources.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Statement of ethics This study was exempt from institutional review board approval because the data were extracted entirely from publicly available resources."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "NMEs approved under the classification “Type 1: New Molecular Entity” were accepted for analysis, and those with a different or missing classification were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "NMEs approved under the classification “Type 1: New Molecular Entity” were accepted for analysis, and those with a different or missing classification were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Sex was recorded as either male or female.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sex was recorded as either male or female."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Due to the lack of data normality as determined by the Shapiro–Wilk test, the distribution differences between groups were assessed by nonparametric evaluations.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Due to the lack of data normality as determined by the Shapiro–Wilk test, the distribution differences between groups were assessed by nonparametric evaluations."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro–Wilk test"
+                  }],
+                "neText" : "Shapiro–Wilk test"
+              }]
+          }, {
+            "sentence" : "Mann–Whitney U and Kruskal–Wallis H tests were performed to analyze the demographic distribution differences between the two (approval pathway) and three (location and sponsor type) groups, respectively.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mann–Whitney U and Kruskal–Wallis H tests were performed to analyze the demographic distribution differences between the two (approval pathway) and three (location and sponsor type) groups, respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann–Whitney U"
+                  }],
+                "neText" : "Mann–Whitney U"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal–Wallis H tests"
+                  }],
+                "neText" : "Kruskal–Wallis H tests"
+              }]
+          }, {
+            "sentence" : "Where applicable, post hoc analyses with Bonferroni corrections for multiple comparisons were conducted to single out the pairs that were significantly different.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Where applicable, post hoc analyses with Bonferroni corrections for multiple comparisons were conducted to single out the pairs that were significantly different."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni corrections"
+                  }],
+                "neText" : "Bonferroni corrections"
+              }]
+          }]
+      }]
+  }
+}

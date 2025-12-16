@@ -1,0 +1,319 @@
+{
+  "docIdentifier" : "PMC8993640",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The circMIR software was used to predict circRNA‐miRNA interactions, based on the RNAhybrid (https://bibiserv.cebitec.uni‐bielefeld.de/rnahybrid/) and miRanda (http://www.microrna.org/) databases.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The circMIR software was used to predict circRNA-miRNA interactions, based on the RNAhybrid (https://bibiserv.cebitec.uni-bielefeld.de/rnahybrid/) and miRanda (http://www.microrna.org/) databases."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "circMIR"
+                }],
+              "neText" : "circMIR"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://www.microrna.org/"
+                }],
+              "neText" : "http://www.microrna.org/"
+            }]
+        }, {
+          "sentence" : "The miRWalk database (http://zmf.umm.uniheidelberg.de/apps/zmf/mirwalk/) was used to predict the target genes of miRNAs targeting hsa_circ_0003416, and the top 30 genes of each miRNA were selected.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The miRWalk database (http://zmf.umm.uniheidelberg.de/apps/zmf/mirwalk/) was used to predict the target genes of miRNAs targeting hsa_circ_0003416, and the top 30 genes of each miRNA were selected."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "miRWalk (RRID:SCR_016509)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "miRWalk"
+                }],
+              "neText" : "miRWalk"
+            }]
+        }, {
+          "sentence" : "Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) analyses were conducted using the DAVID database (http://david.abcc.ncifcrf.gov), based on the selected target genes.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) analyses were conducted using the DAVID database (http://david.abcc.ncifcrf.gov), based on the selected target genes."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DAVID (RRID:SCR_001881)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }, {
+          "sentence" : "The GO terms and KEGG pathways with p‐value <0.05 were considered significantly enriched.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The GO terms and KEGG pathways with p-value <0.05 were considered significantly enriched."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "KEGG (RRID:SCR_012773)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "Receiver operating characteristic (ROC) curves were established using SPSS 25.0 to assess the diagnostic values.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Receiver operating characteristic (ROC) curves were established using SPSS 25.0 to assess the diagnostic values."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2 MATERIALS AND METHODS 2.1 Participants and plasma samples This study was approved by the Ethics Committee of The First Affiliated Hospital of Guangxi Medical University (No. 2021; KY‐E‐156).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 MATERIALS AND METHODS 2.1 Participants and plasma samples This study was approved by the Ethics Committee of The First Affiliated Hospital of Guangxi Medical University (No. 2021; KY-E-156)."
+              }]
+          }, {
+            "sentence" : "Parental informed consent was obtained for this study for each subject.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Parental informed consent was obtained for this study for each subject."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were as follows: (1) age <14 years and (2) patient underwent cardiac catheterization before intervention.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were as follows: (1) age <14 years and (2) patient underwent cardiac catheterization before intervention."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were as follows: (1) age <14 years and (2) patient underwent cardiac catheterization before intervention.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were as follows: (1) age <14 years and (2) patient underwent cardiac catheterization before intervention."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Fisher's exact or chi‐square test was used to test the categorical variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fisher's exact or chi-square test was used to test the categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher's exact"
+                  }],
+                "neText" : "Fisher's exact"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi‐square test"
+              }]
+          }, {
+            "sentence" : "Data normality was tested using the Shapiro–Wilk normality test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data normality was tested using the Shapiro–Wilk normality test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro–Wilk normality test"
+                  }],
+                "neText" : "Shapiro–Wilk normality test"
+              }]
+          }, {
+            "sentence" : "If a quantitative variable conformed to a normal distribution, a Student's t‐test or analysis of variance was applied; otherwise, the Mann–Whitney U‐test or the Kruskal–Wallis H‐test was used.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "If a quantitative variable conformed to a normal distribution, a Student's t-test or analysis of variance was applied; otherwise, the Mann–Whitney U-test or the Kruskal–Wallis H-test was used."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t‐test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann–Whitney U-test"
+                  }],
+                "neText" : "Mann–Whitney U‐test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal–Wallis H-test"
+                  }],
+                "neText" : "Kruskal–Wallis H‐test"
+              }]
+          }, {
+            "sentence" : "Correlation was calculated using Spearman correlation analysis.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Correlation was calculated using Spearman correlation analysis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman correlation"
+                  }],
+                "neText" : "Spearman correlation"
+              }]
+          }]
+      }]
+  }
+}

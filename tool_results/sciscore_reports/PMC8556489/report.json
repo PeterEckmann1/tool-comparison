@@ -1,0 +1,519 @@
+{
+  "docIdentifier" : "PMC8556489",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The membranes were blocked with 5% skim milk in PBS (Solarbio, China) at 4 °C overnight and incubated with a 1:1,000 dilution primary antibodies (tubulin AT819, Beyotime, China; phospho-CTNNB1-S552 pAb, Abcam, US; phospho-GSK3B–S9 pAb, Abcam, US; phospho-AKT1-S473 pAb, Abcam, US; or noggin (NOG) polyclonal antibody, Abcam, US).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membranes were blocked with 5% skim milk in PBS (Solarbio, China) at 4 °C overnight and incubated with a 1:1,000 dilution primary antibodies (tubulin AT819, Beyotime, China; phospho-CTNNB1-S552 pAb, Abcam, US; phospho-GSK3B–S9 pAb, Abcam, US; phospho-AKT1-S473 pAb, Abcam, US; or noggin (NOG) polyclonal antibody, Abcam, US)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "tubulin AT819, Beyotime, China; phospho-CTNNB1-S552 pAb, Abcam, US; phospho-GSK3B–S9 pAb, Abcam, US; phospho-AKT1-S473 pAb, Abcam, US"
+                }],
+              "neText" : "tubulin AT819, Beyotime, China; phospho-CTNNB1-S552 pAb, Abcam, US; phospho-GSK3B–S9 pAb, Abcam, US; phospho-AKT1-S473 pAb, Abcam, US"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "phospho-AKT1-S473 pAb"
+                }],
+              "neText" : "phospho-AKT1-S473 pAb"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "noggin (NOG"
+                }],
+              "neText" : "noggin (NOG"
+            }]
+        }, {
+          "sentence" : "The membranes were then washed with Tris-buffered saline containing Tween (TBST; Solarbio, China) and incubated with a 1:3000 dilution of a horseradish peroxidase (HRP)-conjugated goat anti-mouse IgG antibody (Beyotime, China) at 37 °C for 1 h.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membranes were then washed with Tris-buffered saline containing Tween (TBST; Solarbio, China) and incubated with a 1:3000 dilution of a horseradish peroxidase (HRP)-conjugated goat anti-mouse IgG antibody (Beyotime, China) at 37 °C for 1 h."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG"
+                }],
+              "neText" : "anti-mouse IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The PCR primers used in this study (Table 2) were designed using a Premier 5.0 Software and synthesized by Ruibo Biological Engineering Co., Ltd. (Qingdao, China).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The PCR primers used in this study (Table 2) were designed using a Premier 5.0 Software and synthesized by Ruibo Biological Engineering Co., Ltd. (Qingdao, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ruibo Biological"
+                }],
+              "neText" : "Ruibo Biological"
+            }]
+        }, {
+          "sentence" : "2.3 Statistical analysis All the data were analysed by one-way ANOVA with SAS software (SAS version 8e; SAS Institute, Cary. NC, USA) to determine the significance of differences in the effects of the pyridoxine treatments on the responses among the various groups, Duncan's test was used for multiple comparisons.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.3 Statistical analysis All the data were analysed by one-way ANOVA with SAS software (SAS version 8e; SAS Institute, Cary. NC, USA) to determine the significance of differences in the effects of the pyridoxine treatments on the responses among the various groups, Duncan's test was used for multiple comparisons."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "At the end of the 60-d feeding trial (53-d experimental period and a 7-d adjustment period), 8 rabbits per dietary group (4 males and 4 females) with body weights close to that of the average body weight of the group were bled by cardiac puncture.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "At the end of the 60-d feeding trial (53-d experimental period and a 7-d adjustment period), 8 rabbits per dietary group (4 males and 4 females) with body weights close to that of the average body weight of the group were bled by cardiac puncture."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "2 Materials and methods 2.1 Animals, free hair follicles, DPC and experimental design 2.1.1 Animals, feeding and experimental design in feeding Two hundred 3-month-old Rex rabbits with similar body weights were randomly assigned to 1 of 5 diets, with 40 rabbits in each experimental diet group.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Materials and methods 2.1 Animals, free hair follicles, DPC and experimental design 2.1.1 Animals, feeding and experimental design in feeding Two hundred 3-month-old Rex rabbits with similar body weights were randomly assigned to 1 of 5 diets, with 40 rabbits in each experimental diet group."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "2 Materials and methods 2.1 Animals, free hair follicles, DPC and experimental design 2.1.1 Animals, feeding and experimental design in feeding Two hundred 3-month-old Rex rabbits with similar body weights were randomly assigned to 1 of 5 diets, with 40 rabbits in each experimental diet group.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Materials and methods 2.1 Animals, free hair follicles, DPC and experimental design 2.1.1 Animals, feeding and experimental design in feeding Two hundred 3-month-old Rex rabbits with similar body weights were randomly assigned to 1 of 5 diets, with 40 rabbits in each experimental diet group."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "After the cells were allowed to adhere for 24 h, the culture medium was removed, and Dulbecco's modified Eagle's medium (DMEM, Gibco, Thermo Fisher Scientific) containing 10% foetal bovine serum (FBS, Gibco, Thermo Fisher Scientific) with pyridoxine (Solarbio, China) concentrations of 0, 10, 20, 40, 80, and 160 μmol/L was added, with 6 replicate wells for each concentration.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After the cells were allowed to adhere for 24 h, the culture medium was removed, and Dulbecco's modified Eagle's medium (DMEM, Gibco, Thermo Fisher Scientific) containing 10% foetal bovine serum (FBS, Gibco, Thermo Fisher Scientific) with pyridoxine (Solarbio, China) concentrations of 0, 10, 20, 40, 80, and 160 "
+              }, {
+                "f" : "symbol",
+                "c" : "μ"
+              }, {
+                "f" : "default",
+                "c" : "mol/L was added, with 6 replicate wells for each concentration."
+              }],
+            "mention" : {
+              "neText" : "replicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicate"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "2.3 Statistical analysis All the data were analysed by one-way ANOVA with SAS software (SAS version 8e; SAS Institute, Cary. NC, USA) to determine the significance of differences in the effects of the pyridoxine treatments on the responses among the various groups, Duncan's test was used for multiple comparisons.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.3 Statistical analysis All the data were analysed by one-way ANOVA with SAS software (SAS version 8e; SAS Institute, Cary. NC, USA) to determine the significance of differences in the effects of the pyridoxine treatments on the responses among the various groups, Duncan's test was used for multiple comparisons."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Duncan's test"
+                  }],
+                "neText" : "Duncan's test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Table 2 Gene Accession number Primer sequence (5′-3′) Product length, bp Inppl1 NM_017349797 F: CAGAGCACGAGAACCGCATCAG 199 R: AGCCGCAGGATGTCCAGGTAG Inpp4b NM_008267416 F: TCCTAAGAGCACAGCGGAGAGC 195 R: GCTGCCTTCACTGCCACCATC Frk XM_008263392 F: CAAGCGATGGCCTCTGTGTCAG 195 R: CTGCTACTGGAGTGGTGTTGTTCC Phlda3 XM_002717603 F: GCGGCGGCGAGATTGACTTC 101 R: CTGGATGGCCTGCTGGTTCTTG Wnt10b NM_002711076 F: TGTGCCATCCCTCTTCCTTA 150 R: GGCTCCACCTCTAACTTCTGC CTNNB1 DQ786777 F: TTCTTGGGACTCTTGTTCAGC 122 R: CACTTGGCACACCATCATCT GSK-3β NM_001146156 F: ATCCATGTCTCCCTGTCCAC 119 R: TTTCCTCTTCCCACTCCTGA DKK1 NM_001082737 F: ATTCCAACGCCATCAAGAAC 163 R: CCACACTCCTCGTCCTCTGT Notch1 XM_011518717 F: TGCGAGACCAACATCAACGAGTG 94 R: TCAGGCAGAAGCAGAGGTAGGC JAG1 XM_018261778 F: TGGAGGAGGACGACATGGACAAG 176 R: CATCCGATTGAGGCTCTGTGCTG Hes1 XM_002716517 F: CCAGATCAACGCCATGACCTATCC 200 R: ACACCTTAGCCGCCTCTCCAG Hes5 NM_008253710 F: AGACCGCATCAACAGCAGCATC 105 R: ATCTCCAGGATGTCCGCCTTCTC BMP2 XM_001082650 F: GACATCCTGAGCGAGTTCGAGTTG 113 R: CGGCGGTACAAGTCCAGCATG BMP4 NM_001195723 F: CTAAGCATCACCCACAGCGG 163 R: CAGTCATTCCAGCCCACGTC TGF-β1 NM_008249704 F: 5′- CCGTTTCTTTCGTGGGATAC 108 R: GGTAAGGGAGGAGGGTCTCA GAPDH NM_001082253 F: TGCCACCCACTCCTCTACCTTCG 118 R: CGAAGGTAGGGATGGGTGGCA Inppl1 = inositol polyphosphate phosphatase like 1; F = forward primer; R = reverse primer; Frk = fyn-related kinase; Phlda3 = pleckstrin homology like domain family A member 3; CTNNB1 = catenin beta 1; GSK-3β = glycogen synthase kinase 3 beta; DKK1 = dickkopf-1; JAG1 = Jagged1; BMP = bone morphogenetic protein; TGF-β1 = transforming growth factor-β; GAPDH = glyceraldehyde-3-phosphate dehydrogenase.",
+            "rowSpan" : 27,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 2 Gene Accession number Primer sequence (5′-3′) Product length, bp Inppl1 NM_017349797 F: CAGAGCACGAGAACCGCATCAG 199 R: AGCCGCAGGATGTCCAGGTAG Inpp4b NM_008267416 F: TCCTAAGAGCACAGCGGAGAGC 195 R: GCTGCCTTCACTGCCACCATC Frk XM_008263392 F: CAAGCGATGGCCTCTGTGTCAG 195 R: CTGCTACTGGAGTGGTGTTGTTCC Phlda3 XM_002717603 F: GCGGCGGCGAGATTGACTTC 101 R: CTGGATGGCCTGCTGGTTCTTG Wnt10b NM_002711076 F: TGTGCCATCCCTCTTCCTTA 150 R: GGCTCCACCTCTAACTTCTGC CTNNB1 DQ786777 F: TTCTTGGGACTCTTGTTCAGC 122 R: CACTTGGCACACCATCATCT GSK-3"
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : " NM_001146156 F: ATCCATGTCTCCCTGTCCAC 119 R: TTTCCTCTTCCCACTCCTGA DKK1 NM_001082737 F: ATTCCAACGCCATCAAGAAC 163 R: CCACACTCCTCGTCCTCTGT Notch1 XM_011518717 F: TGCGAGACCAACATCAACGAGTG 94 R: TCAGGCAGAAGCAGAGGTAGGC JAG1 XM_018261778 F: TGGAGGAGGACGACATGGACAAG 176 R: CATCCGATTGAGGCTCTGTGCTG Hes1 XM_002716517 F: CCAGATCAACGCCATGACCTATCC 200 R: ACACCTTAGCCGCCTCTCCAG Hes5 NM_008253710 F: AGACCGCATCAACAGCAGCATC 105 R: ATCTCCAGGATGTCCGCCTTCTC BMP2 XM_001082650 F: GACATCCTGAGCGAGTTCGAGTTG 113 R: CGGCGGTACAAGTCCAGCATG BMP4 NM_001195723 F: CTAAGCATCACCCACAGCGG 163 R: CAGTCATTCCAGCCCACGTC TGF-"
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : "1 NM_008249704 F: 5′- CCGTTTCTTTCGTGGGATAC 108 R: GGTAAGGGAGGAGGGTCTCA GAPDH NM_001082253 F: TGCCACCCACTCCTCTACCTTCG 118 R: CGAAGGTAGGGATGGGTGGCA Inppl1 = inositol polyphosphate phosphatase like 1; F = forward primer; R = reverse primer; Frk = fyn-related kinase; Phlda3 = pleckstrin homology like domain family A member 3; CTNNB1 = catenin beta 1; GSK-3"
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : " = glycogen synthase kinase 3 beta; DKK1 = dickkopf-1; JAG1 = Jagged1; BMP = bone morphogenetic protein; TGF-"
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : "1 = transforming growth factor-"
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : "; GAPDH = glyceraldehyde-3-phosphate dehydrogenase."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′-3′"
+                  }],
+                "neText" : "5′-3′"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAGAGCACGAGAACCGCATCAG"
+                  }],
+                "neText" : "CAGAGCACGAGAACCGCATCAG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AGCCGCAGGATGTCCAGGTAG"
+                  }],
+                "neText" : "AGCCGCAGGATGTCCAGGTAG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TCCTAAGAGCACAGCGGAGAGC"
+                  }],
+                "neText" : "TCCTAAGAGCACAGCGGAGAGC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCTGCCTTCACTGCCACCATC"
+                  }],
+                "neText" : "GCTGCCTTCACTGCCACCATC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAAGCGATGGCCTCTGTGTCAG"
+                  }],
+                "neText" : "CAAGCGATGGCCTCTGTGTCAG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTGCTACTGGAGTGGTGTTGTTCC"
+                  }],
+                "neText" : "CTGCTACTGGAGTGGTGTTGTTCC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GCGGCGGCGAGATTGACTTC"
+                  }],
+                "neText" : "GCGGCGGCGAGATTGACTTC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTGGATGGCCTGCTGGTTCTTG"
+                  }],
+                "neText" : "CTGGATGGCCTGCTGGTTCTTG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGCTCCACCTCTAACTTCTGC"
+                  }],
+                "neText" : "GGCTCCACCTCTAACTTCTGC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TTCTTGGGACTCTTGTTCAGC"
+                  }],
+                "neText" : "TTCTTGGGACTCTTGTTCAGC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CACTTGGCACACCATCATCT"
+                  }],
+                "neText" : "CACTTGGCACACCATCATCT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TTTCCTCTTCCCACTCCTGA"
+                  }],
+                "neText" : "TTTCCTCTTCCCACTCCTGA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCACACTCCTCGTCCTCTGT"
+                  }],
+                "neText" : "CCACACTCCTCGTCCTCTGT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TGCGAGACCAACATCAACGAGTG"
+                  }],
+                "neText" : "TGCGAGACCAACATCAACGAGTG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TCAGGCAGAAGCAGAGGTAGGC"
+                  }],
+                "neText" : "TCAGGCAGAAGCAGAGGTAGGC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CATCCGATTGAGGCTCTGTGCTG"
+                  }],
+                "neText" : "CATCCGATTGAGGCTCTGTGCTG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCAGATCAACGCCATGACCTATCC"
+                  }],
+                "neText" : "CCAGATCAACGCCATGACCTATCC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AGACCGCATCAACAGCAGCATC"
+                  }],
+                "neText" : "AGACCGCATCAACAGCAGCATC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ATCTCCAGGATGTCCGCCTTCTC"
+                  }],
+                "neText" : "ATCTCCAGGATGTCCGCCTTCTC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GACATCCTGAGCGAGTTCGAGTTG"
+                  }],
+                "neText" : "GACATCCTGAGCGAGTTCGAGTTG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CGGCGGTACAAGTCCAGCATG"
+                  }],
+                "neText" : "CGGCGGTACAAGTCCAGCATG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CTAAGCATCACCCACAGCGG"
+                  }],
+                "neText" : "CTAAGCATCACCCACAGCGG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CAGTCATTCCAGCCCACGTC"
+                  }],
+                "neText" : "CAGTCATTCCAGCCCACGTC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5′- CCGTTTCTTTCGTGGGATAC 108"
+                  }],
+                "neText" : "5′- CCGTTTCTTTCGTGGGATAC 108"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGTAAGGGAGGAGGGTCTCA"
+                  }],
+                "neText" : "GGTAAGGGAGGAGGGTCTCA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CGAAGGTAGGGATGGGTGGCA"
+                  }],
+                "neText" : "CGAAGGTAGGGATGGGTGGCA"
+              }]
+          }]
+      }]
+  }
+}

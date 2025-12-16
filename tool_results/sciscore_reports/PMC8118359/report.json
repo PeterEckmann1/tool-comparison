@@ -1,0 +1,231 @@
+{
+  "docIdentifier" : "PMC8118359",
+  "sciscore" : 7,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical Analyses All analyses were conducted with the use of the statistical packages IBM SPSS (version 24.0.1; SPSS, Chicago, IL, USA) and STATA/SE (version 14; StataCorp, College Station, TX, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analyses All analyses were conducted with the use of the statistical packages IBM SPSS (version 24.0.1; SPSS, Chicago, IL, USA) and STATA/SE (version 14; StataCorp, College Station, TX, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata, RRID:SCR_012763",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StataCorp"
+                }],
+              "neText" : "StataCorp"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The PREVEND study was approved by the local medical ethics committee, University Medical Center Groningen (approval number: MEC96/01/022) and was performed according to the principles outlined in the Declaration of Helsinki.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The PREVEND study was approved by the local medical ethics committee, University Medical Center Groningen (approval number: MEC96/01/022) and was performed according to the principles outlined in the Declaration of Helsinki."
+              }]
+          }, {
+            "sentence" : "All participants gave written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants gave written informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Individuals with missing data on diabetes and follow-up and those with missing NMR or covariate data at baseline were excluded, leaving 308 subjects with preexisting diabetes and 4828 subjects without diabetes at baseline of the present study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Individuals with missing data on diabetes and follow-up and those with missing NMR or covariate data at baseline were excluded, leaving 308 subjects with preexisting diabetes and 4828 subjects without diabetes at baseline of the present study."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Briefly, after exclusion of individuals using insulin and pregnant women, 7768 subjects with urinary albumin concentration ≥10 mg/L and 2592 individuals with urinary albumin concentration <10 mg/L were invited to participate in the study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Briefly, after exclusion of individuals using insulin and pregnant women, 7768 subjects with urinary albumin concentration "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "10 mg/L and 2592 individuals with urinary albumin concentration <10 mg/L were invited to participate in the study."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Methods Study Design and Participants This study was conducted within the framework of the Prevention of Renal and Vascular ENd-stage Disease (PREVEND) study, a prospective Dutch cohort study in a general population among inhabitants, aged from 28 to 75 years, of the city Groningen, the Netherlands.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Study Design and Participants This study was conducted within the framework of the Prevention of Renal and Vascular ENd-stage Disease (PREVEND) study, a prospective Dutch cohort study in a general population among inhabitants, aged from 28 to 75 years, of the city Groningen, the Netherlands."
+              }]
+          }, {
+            "sentence" : "For predictors of which the interaction test was significant, we performed subgroup analyses in HRs across categories of prespecified subject characteristics, including BMI (<30 kg/m2 vs ≥30 kg/m2), sex (men vs women), and HOMA-IR (continuous and < median vs ≥ median value) in all 5 adjusted models.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For predictors of which the interaction test was significant, we performed subgroup analyses in HRs across categories of prespecified subject characteristics, including BMI (<30 kg/m2 vs "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "30 kg/m2), sex (men vs women), and HOMA-IR (continuous and < median vs "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : " median value) in all 5 adjusted models."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "6 mg/dL); (2) random sample plasma glucose ≥11.1 mmol/L (200 mg/dL); (3) self-report of a physician diagnosis of T2D; and (4) initiation of glucose-lowering medication use, retrieved from a central pharmacy registry.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "6 mg/dL); (2) random sample plasma glucose "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "11.1 mmol/L (200 mg/dL); (3) self-report of a physician diagnosis of T2D; and (4) initiation of glucose-lowering medication use, retrieved from a central pharmacy registry."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Continuous variables were compared by using one-way ANOVA or a Kruskal Wallis test for skewed variables with subsequent Bonferroni correction, and a X 2 tests for categorical variables to test for differences across participants with preexisting diabetes, and with and without incident T2D.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Continuous variables were compared by using one-way ANOVA or a Kruskal Wallis test for skewed variables with subsequent Bonferroni correction, and a X 2 tests for categorical variables to test for differences across participants with preexisting diabetes, and with and without incident T2D."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal Wallis test"
+                  }],
+                "neText" : "Kruskal Wallis test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "X 2 tests"
+                  }],
+                "neText" : "X 2 tests"
+              }]
+          }, {
+            "sentence" : "Univariate as well as multivariate Pearson correlation coefficients were estimated to assess the cross-sectional correlations of HDL variables (HDL-C, HDL-P, large, medium, and small HDL particles, and HDL size) and HDL subspecies (H1-H7) with participants’ characteristics and laboratory parameters.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Univariate as well as multivariate Pearson correlation coefficients were estimated to assess the cross-sectional correlations of HDL variables (HDL-C, HDL-P, large, medium, and small HDL particles, and HDL size) and HDL subspecies (H1-H7) with participants’ characteristics and laboratory parameters."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }]
+      }]
+  }
+}

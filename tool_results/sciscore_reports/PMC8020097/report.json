@@ -1,0 +1,332 @@
+{
+  "docIdentifier" : "PMC8020097",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "For cytoplasmic staining , cells ( 3 x 105 ) were fixed and permeated using the CytofixCytopermTM kit ( BD Biosciences , San Jose , CA , USA , catalog No. 554714) , followed by staining with PE-labeled anti-BrdU antibody ( Cell Signaling Technology , Boston , MA , USA , catalog No. 50230) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For cytoplasmic staining , cells ( 3 x 105 ) were fixed and permeated using the CytofixCytopermTM kit ( BD Biosciences , San Jose , CA , USA , catalog No. 554714) , followed by staining with PE-labeled anti-BrdU antibody ( Cell Signaling Technology , Boston , MA , USA , catalog No. 50230) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-BrdU"
+                }],
+              "neText" : "anti-BrdU"
+            }]
+        }, {
+          "sentence" : "Free E . coli were removed by washing , then KCs were collected and stained with PE-labeled anti-F480 antibody .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Free E . coli were removed by washing , then KCs were collected and stained with PE-labeled anti-F480 antibody ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-F480"
+                }],
+              "neText" : "anti-F480"
+            }]
+        }, {
+          "sentence" : "The primary antibodies included anti-mouse Collagen type I alpha 1 chain ( Col1a1 ) ( Servicebio , Wuhan , China , catalog No. GB11022 ) and anti-mouse a smooth muscle actin ( aSMA ) ( Servicebio , Wuhan , China , catalog No. GB111364) .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The primary antibodies included anti-mouse Collagen type I alpha 1 chain ( Col1a1 ) ( Servicebio , Wuhan , China , catalog No. GB11022 ) and anti-mouse a smooth muscle actin ( aSMA ) ( Servicebio , Wuhan , China , catalog No. GB111364) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse Collagen type I alpha 1 chain"
+                }],
+              "neText" : "anti-mouse Collagen type I alpha 1 chain"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Col1a1"
+                }],
+              "neText" : "Col1a1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse a smooth muscle actin"
+                }],
+              "neText" : "anti-mouse a smooth muscle actin"
+            }]
+        }, {
+          "sentence" : "Cells were incubated with primary antibodies including anti-mouse F480 ( eBioscience , San Diego , CA , USA , catalog No. 144801 ) and Marker of Proliferation Ki-67 ( MKI67 , Ki67 ) ( Thermo Fisher Scientific , Astmoor Runcorn , UK , catalog No. MA5-14520) .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were incubated with primary antibodies including anti-mouse F480 ( eBioscience , San Diego , CA , USA , catalog No. 144801 ) and Marker of Proliferation Ki-67 ( MKI67 , Ki67 ) ( Thermo Fisher Scientific , Astmoor Runcorn , UK , catalog No. MA5-14520) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse F480"
+                }],
+              "neText" : "anti-mouse F480"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MKI67"
+                }],
+              "neText" : "MKI67"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ki67"
+                }],
+              "neText" : "Ki67"
+            }]
+        }, {
+          "sentence" : "Cells were then incubated for 1 h with the secondary antibodies , including Alexa Fluor 488-labeled donkey anti-rat IgG ( Invitrogen , Carlsbad , CA , USA , catalog No. A21208 ) and Cy3-labeled goat anti-rabbit IgG ( Boster BioTec , Wuhan , China , catalog No. BA1032) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were then incubated for 1 h with the secondary antibodies , including Alexa Fluor 488-labeled donkey anti-rat IgG ( Invitrogen , Carlsbad , CA , USA , catalog No. A21208 ) and Cy3-labeled goat anti-rabbit IgG ( Boster BioTec , Wuhan , China , catalog No. BA1032) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rat IgG"
+                }],
+              "neText" : "anti-rat IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Liver Fibrosis Model To induce liver fibrosis , male C57BL6 mice were injected intraperitoneally ( i.p ) with 0.75 mlkg of CCl4 ( Tianli , Tianjin , China , catalog No.202009 ) diluted in sterile olive oil twice a week for 8 weeks , with olive oil as a control .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Liver Fibrosis Model To induce liver fibrosis , male C57BL6 mice were injected intraperitoneally ( i.p ) with 0.75 mlkg of CCl4 ( Tianli , Tianjin , China , catalog No.202009 ) diluted in sterile olive oil twice a week for 8 weeks , with olive oil as a control ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Analysis was performed using a FACSCaliburTM flow cytometer ( BD Immunocytometry Systems , San Jose , CA , USA ) and Flowjo X software ( TreeStar , Ashland , OR , USA) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Analysis was performed using a FACSCaliburTM flow cytometer ( BD Immunocytometry Systems , San Jose , CA , USA ) and Flowjo X software ( TreeStar , Ashland , OR , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BD Immunocytometry Systems"
+                }],
+              "neText" : "BD Immunocytometry Systems"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Flowjo"
+                }],
+              "neText" : "Flowjo"
+            }]
+        }, {
+          "sentence" : "Data were analyzed with Graph Pad Prism software, version 8.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data were analyzed with Graph Pad Prism software, version 8.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Graph Pad Prism"
+                }],
+              "neText" : "Graph Pad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All animal experiments were performed following a guideline from the Animal Experiment Administration Committee of the university .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All animal experiments were performed following a guideline from the Animal Experiment Administration Committee of the university ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Liver Fibrosis Model To induce liver fibrosis , male C57BL6 mice were injected intraperitoneally ( i.p ) with 0.75 mlkg of CCl4 ( Tianli , Tianjin , China , catalog No.202009 ) diluted in sterile olive oil twice a week for 8 weeks , with olive oil as a control .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Liver Fibrosis Model To induce liver fibrosis , male C57BL6 mice were injected intraperitoneally ( i.p ) with 0.75 mlkg of CCl4 ( Tianli , Tianjin , China , catalog No.202009 ) diluted in sterile olive oil twice a week for 8 weeks , with olive oil as a control ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Comparisons between groups were undertaken using unpaired or paired Students t test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparisons between groups were undertaken using unpaired or paired Students t test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }]
+      }]
+  }
+}

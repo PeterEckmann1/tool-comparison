@@ -1,0 +1,251 @@
+{
+  "docIdentifier" : "PMC8942398",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All statistical tests were two-sided and conducted with IBM(r) SPSS Statistics, version 26.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical tests were two-sided and conducted with IBM(r) SPSS Statistics, version 26."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the local institutional review board.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the local institutional review board."
+              }]
+          }, {
+            "sentence" : "Since this was a retrospective review of medical records, informed consent was waived.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Since this was a retrospective review of medical records, informed consent was waived."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients were excluded from antifibrinolytic treatment if they had allergy to EACA, disseminated intravascular coagulation, coronary stenting (drug-eluting stent within one year of placement or bare-metal stent within two months of implantation), heart valve replacement, atrial fibrillation, current anticoagulation therapy, or documented personal history of DVT, PE, or hematuria.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were excluded from antifibrinolytic treatment if they had allergy to EACA, disseminated intravascular coagulation, coronary stenting (drug-eluting stent within one year of placement or bare-metal stent within two months of implantation), heart valve replacement, atrial fibrillation, current anticoagulation therapy, or documented personal history of DVT, PE, or hematuria."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Statistical Analysis A power analysis was conducted in a web calculator using data from Wang et al.2 Results comparing two proportions, IV (81) vs. topical (71), showed that 267 patients per group, or 534 total patients, would have 80 power to detect a significant difference between the two groups using an alpha level of 0.05.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical Analysis A power analysis was conducted in a web calculator using data from Wang et al.2 Results comparing two proportions, IV (81) vs. topical (71), showed that 267 patients per group, or 534 total patients, would have 80 power to detect a significant difference between the two groups using an alpha level of 0.05."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Continuous data were assessed for normality using the Kolmogorov-Smirnov test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Continuous data were assessed for normality using the Kolmogorov-Smirnov test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kolmogorov-Smirnov test"
+                  }],
+                "neText" : "Kolmogorov-Smirnov test"
+              }]
+          }, {
+            "sentence" : "Bivariable comparisons by groups were conducted using Pearson Chi-square test, Fisher exact test, Mann-Whitney exact test, ANOVA, Tamhane T2 test (equal variances not assumed), or Kruskal-Wallis exact test.",
+            "rowSpan" : 6,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Bivariable comparisons by groups were conducted using Pearson Chi-square test, Fisher exact test, Mann-Whitney exact test, ANOVA, Tamhane T2 test (equal variances not assumed), or Kruskal-Wallis exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson Chi-square test"
+                  }],
+                "neText" : "Pearson Chi-square test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher exact test"
+                  }],
+                "neText" : "Fisher exact test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney exact test"
+                  }],
+                "neText" : "Mann-Whitney exact test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tamhane T2 test"
+                  }],
+                "neText" : "Tamhane T2 test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis exact test"
+                  }],
+                "neText" : "Kruskal-Wallis exact test"
+              }]
+          }, {
+            "sentence" : "Exact tests were used to accommodate sparse data.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Exact tests were used to accommodate sparse data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Exact tests"
+                  }],
+                "neText" : "Exact tests"
+              }]
+          }, {
+            "sentence" : "Wilcoxon signed-rank test was used for analyzing pre-operative and post-operative paired ordinal data.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Wilcoxon signed-rank test was used for analyzing pre-operative and post-operative paired ordinal data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed-rank test"
+                  }],
+                "neText" : "Wilcoxon signed-rank test"
+              }]
+          }]
+      }]
+  }
+}

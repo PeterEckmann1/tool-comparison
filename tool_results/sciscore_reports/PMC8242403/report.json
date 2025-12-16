@@ -1,0 +1,140 @@
+{
+  "docIdentifier" : "PMC8242403",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Images were already cropped below the hairline, and we additionally cropped them just below the chin, and close to the sides of the faces, using Adobe Photoshop CS software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images were already cropped below the hairline, and we additionally cropped them just below the chin, and close to the sides of the faces, using Adobe Photoshop CS software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Adobe Photoshop, RRID:SCR_014199",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Adobe Photoshop"
+                }],
+              "neText" : "Adobe Photoshop"
+            }]
+        }, {
+          "sentence" : "Following this, participants performed a face memory task adapted from previous work (Crook & Larrabee, 1992), presented on a desktop computer using custom MATLAB software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Following this, participants performed a face memory task adapted from previous work (Crook & Larrabee, 1992), presented on a desktop computer using custom MATLAB software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The universitys research ethics committee approved the experiment presented here, which was carried out in accordance with the provisions of the World Medical Association Declaration of Helsinki.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The universitys research ethics committee approved the experiment presented here, which was carried out in accordance with the provisions of the World Medical Association Declaration of Helsinki."
+              }]
+          }, {
+            "sentence" : "Participants provided written informed consent before taking part and were given both a written and verbal debriefing upon completion.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants provided written informed consent before taking part and were given both a written and verbal debriefing upon completion."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Data from one additional participant were excluded due to a failure to complete all the tasks.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data from one additional participant were excluded due to a failure to complete all the tasks."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Method Participants A total of 90 undergraduate students (age range, 18-25 years 61 women 83 self-reported as White) participated in exchange for course credits.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Method Participants A total of 90 undergraduate students (age range, 18-25 years 61 women 83 self-reported as White) participated in exchange for course credits."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Method Participants A total of 90 undergraduate students (age range, 18-25 years 61 women 83 self-reported as White) participated in exchange for course credits.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Method Participants A total of 90 undergraduate students (age range, 18-25 years 61 women 83 self-reported as White) participated in exchange for course credits."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Importantly, after every response, the new display of faces was randomized with respect to spatial position onscreen, meaning that participants could not use location information to inform their decisions.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Importantly, after every response, the new display of faces was randomized with respect to spatial position onscreen, meaning that participants could not use location information to inform their decisions."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

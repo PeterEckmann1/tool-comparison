@@ -1,0 +1,219 @@
+{
+  "docIdentifier" : "PMC8435491",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "All statistical analyses were performed using the statistical software R3.6.1, Rstudio1.2.1, and its packages including descry, rms, Amelia, tableone, coin, ROCR, and pROC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were performed using the statistical software R3.6.1, Rstudio1.2.1, and its packages including descry, rms, Amelia, tableone, coin, ROCR, and pROC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_198430",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pROC"
+                }],
+              "neText" : "pROC"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All statistical analyses were performed using the statistical software R3.6.1, Rstudio1.2.1, and its packages including descry, rms, Amelia, tableone, coin, ROCR, and pROC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were performed using the statistical software R3.6.1, Rstudio1.2.1, and its packages including descry, rms, Amelia, tableone, coin, ROCR, and pROC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "AMELIA (RRID:SCR_009119)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Amelia"
+                }],
+              "neText" : "Amelia"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study protocol complied with the Declaration of Helsinki , and was reviewed and approved by the Institutional Review Board of each center , including Hanyang University Seoul Hospital (",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol complied with the Declaration of Helsinki , and was reviewed and approved by the Institutional Review Board of each center , including Hanyang University Seoul Hospital ("
+              }]
+          }, {
+            "sentence" : "Written informed consent was obtained from all participants .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained from all participants ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "A total of 1,132 patients with elevated office BP ( systolic blood pressure SBP >= 140 mmHg andor diastolic blood pressure DBP >= 90 mmHg ) were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 1,132 patients with elevated office BP ( systolic blood pressure SBP >= 140 mmHg andor diastolic blood pressure DBP >= 90 mmHg ) were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Of these , 1,986 patients were treated with antihypertensive drugs .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Of these , 1,986 patients were treated with antihypertensive drugs ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Left ventricular hypertrophy (LVH) was defined as LVMI >= 116 gm2 for men and >= 96 gm2 for women.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Left ventricular hypertrophy (LVH) was defined as LVMI >= 116 gm2 for men and >= 96 gm2 for women."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Continuous variables such as age, BMI, and WC, and categorical variables such as sex and number of antihypertensive drugs in the two groups were compared using Students t test and chi-square test, respectively.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Continuous variables such as age, BMI, and WC, and categorical variables such as sex and number of antihypertensive drugs in the two groups were compared using Students t test and chi-square test, respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }]
+          }, {
+            "sentence" : "Fishers exact test was used for non-parametric analyses.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fishers exact test was used for non-parametric analyses."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }, {
+            "sentence" : "The observed incidence of MUCH was calculated at every score interval of 1 for the Hosmer-Lemershow test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The observed incidence of MUCH was calculated at every score interval of 1 for the Hosmer-Lemershow test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Hosmer-Lemershow test"
+                  }],
+                "neText" : "Hosmer-Lemershow test"
+              }]
+          }]
+      }]
+  }
+}

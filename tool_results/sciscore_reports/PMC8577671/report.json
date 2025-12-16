@@ -1,0 +1,431 @@
+{
+  "docIdentifier" : "PMC8577671",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The GAPDH antibody was utilized for normalization .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The GAPDH antibody was utilized for normalization ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAPDH"
+                }],
+              "neText" : "GAPDH"
+            }]
+        }, {
+          "sentence" : "The primary antibodies are exhibited as follows: RhoA ( Abcam , Cambridge , UK , ab54835 ) rho associated coiled-coil containing protein kinase 1 ( ROCK1 , Abcam , ab45171",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The primary antibodies are exhibited as follows: RhoA ( Abcam , Cambridge , UK , ab54835 ) rho associated coiled-coil containing protein kinase 1 ( ROCK1 , Abcam , ab45171"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ROCK1"
+                }],
+              "neText" : "ROCK1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell culture and treatment Cell Bank of the Chinese Academy of Sciences (Shanghai, China) provided the human lung adenocarcinoma cell lines (A549, H1650, PC-9, and H441) and a normal human bronchial epithelial cell line (BEAS-2B).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture and treatment Cell Bank of the Chinese Academy of Sciences (Shanghai, China) provided the human lung adenocarcinoma cell lines (A549, H1650, PC-9, and H441) and a normal human bronchial epithelial cell line (BEAS-2B)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_B260",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PC-9"
+                }],
+              "neText" : "PC-9"
+            }]
+        }, {
+          "sentence" : "Cotransfection of RhoA 3-UTR WT vector or Mut vector and miR-345-5p mimics or NC mimics into PC-9 and H1650 cells was performed using Lipofectamine 2000 transfection reagent ( Invitrogen) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cotransfection of RhoA 3-UTR WT vector or Mut vector and miR-345-5p mimics or NC mimics into PC-9 and H1650 cells was performed using Lipofectamine 2000 transfection reagent ( Invitrogen) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_1483",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "H1650"
+                }],
+              "neText" : "H1650"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "GCUGACUCCUAGUCCAGGGCUC) , NC inhibitor , empty pcDNA3.1 , and pcDNA3.1ras homolog family member A ( RhoA ) ( RiboBio , Guangzhou , China ) were transfected into lung adenocarcinoma cells for 48 h as per the product manuals .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GCUGACUCCUAGUCCAGGGCUC) , NC inhibitor , empty pcDNA3.1 , and pcDNA3.1ras homolog family member A ( RhoA ) ( RiboBio , Guangzhou , China ) were transfected into lung adenocarcinoma cells for 48 h as per the product manuals ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_100544",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1"
+                }],
+              "neText" : "pcDNA3.1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1ras"
+                }],
+              "neText" : "pcDNA3.1ras"
+            }]
+        }, {
+          "sentence" : "Mutant ( Mut ) and wild-type ( WT ) sequences of RhoA 3-UTR were amplified and subcloned into the pmirGLO luciferase reporter vectors ( Promega , Madison , WI , USA)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Mutant ( Mut ) and wild-type ( WT ) sequences of RhoA 3-UTR were amplified and subcloned into the pmirGLO luciferase reporter vectors ( Promega , Madison , WI , USA)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pmirGLO"
+                }],
+              "neText" : "pmirGLO"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Sample size was determined using G power for power analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Sample size was determined using G power for power analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "G power"
+                }],
+              "neText" : "G power"
+            }]
+        }, {
+          "sentence" : "Finally , five fields were randomly selected and ImageJ ( National Institutes of Health , Bethesda , MD , USA ) was used to calculate the number of colonies .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Finally , five fields were randomly selected and ImageJ ( National Institutes of Health , Bethesda , MD , USA ) was used to calculate the number of colonies ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "Bioinformatics analysis Based on the PITA ( http:genie.weizmann.ac.ilpubsmir07mir07_data . html ) and PicTar ( https:pictar . mdc-berlin . de ) online databases which predict potential targets of miR-345-5p , 23 mRNAs were identified.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bioinformatics analysis Based on the PITA ( http:genie.weizmann.ac.ilpubsmir07mir07_data . html ) and PicTar ( https:pictar . mdc-berlin . de ) online databases which predict potential targets of miR-345-5p , 23 mRNAs were identified."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PITA (RRID:SCR_010853)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PITA"
+                }],
+              "neText" : "PITA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PicTar"
+                }],
+              "neText" : "PicTar"
+            }]
+        }, {
+          "sentence" : "Statistical analysis We used the SPSS 20.0 (St Louis, MO, USA) for the statistical analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis We used the SPSS 20.0 (St Louis, MO, USA) for the statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods Ethical approval This study was approved by Medical Ethics Committee of the First Affiliated Hospital of Anhui Medical University (No. 2019-022).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Ethical approval This study was approved by Medical Ethics Committee of the First Affiliated Hospital of Anhui Medical University (No. 2019-022)."
+              }]
+          }, {
+            "sentence" : "Written informed consents were signed by all participants.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consents were signed by all participants."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Clinical specimens Thirty-five specimens of lung adenocarcinoma tissues were collected from patients (21 males and 14 females, aged from 22 to 68 years, with an average age of 44.1 +- 12.0 years) who were pathologically diagnosed with lung adenocarcinoma and underwent resection of lung adenocarcinoma tumors in the First Affiliated Hospital of Anhui Medical University between April 2016 and February 2017.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Clinical specimens Thirty-five specimens of lung adenocarcinoma tissues were collected from patients (21 males and 14 females, aged from 22 to 68 years, with an average age of 44.1 +- 12.0 years) who were pathologically diagnosed with lung adenocarcinoma and underwent resection of lung adenocarcinoma tumors in the First Affiliated Hospital of Anhui Medical University between April 2016 and February 2017."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Clinical specimens Thirty-five specimens of lung adenocarcinoma tissues were collected from patients (21 males and 14 females, aged from 22 to 68 years, with an average age of 44.1 +- 12.0 years) who were pathologically diagnosed with lung adenocarcinoma and underwent resection of lung adenocarcinoma tumors in the First Affiliated Hospital of Anhui Medical University between April 2016 and February 2017.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Clinical specimens Thirty-five specimens of lung adenocarcinoma tissues were collected from patients (21 males and 14 females, aged from 22 to 68 years, with an average age of 44.1 +- 12.0 years) who were pathologically diagnosed with lung adenocarcinoma and underwent resection of lung adenocarcinoma tumors in the First Affiliated Hospital of Anhui Medical University between April 2016 and February 2017."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Finally , five fields were randomly selected and ImageJ ( National Institutes of Health , Bethesda , MD , USA ) was used to calculate the number of colonies .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Finally , five fields were randomly selected and ImageJ ( National Institutes of Health , Bethesda , MD , USA ) was used to calculate the number of colonies ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Sample size was determined using G power for power analysis.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sample size was determined using G power for power analysis."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Data are exhibited as the mean +- standard deviation from at least three independent assays.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data are exhibited as the mean +- standard deviation from at least three independent assays."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Levene test was used for homogeneity of variance test, and Shapiro-Wilk test was used for normal distribution test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Levene test was used for homogeneity of variance test, and Shapiro-Wilk test was used for normal distribution test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Levene test"
+                  }],
+                "neText" : "Levene test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk test"
+                  }],
+                "neText" : "Shapiro-Wilk test"
+              }]
+          }, {
+            "sentence" : "Comparison between two groups was conducted with Students t test, and one-way analysis of variance followed by Dunnett post hoc test or Tukey post hoc test was adopted for comparison among multiple groups.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Comparison between two groups was conducted with Students t test, and one-way analysis of variance followed by Dunnett post hoc test or Tukey post hoc test was adopted for comparison among multiple groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t test"
+                  }],
+                "neText" : "Students t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnett post hoc test"
+                  }],
+                "neText" : "Dunnett post hoc test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey post hoc test"
+                  }],
+                "neText" : "Tukey post hoc test"
+              }]
+          }, {
+            "sentence" : "Spearman correlation analysis was applied to analyze the expression correlation between miR-345-5p and RhoA in lung adenocarcinoma tissues.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Spearman correlation analysis was applied to analyze the expression correlation between miR-345-5p and RhoA in lung adenocarcinoma tissues."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman correlation"
+                  }],
+                "neText" : "Spearman correlation"
+              }]
+          }]
+      }]
+  }
+}

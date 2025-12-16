@@ -1,0 +1,932 @@
+{
+  "docIdentifier" : "PMC8989534",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Subsequently , cells were washed with PBS , and incubated with secondary antibodies and Hoechst 33342 ( H3570 , Thermo Fisher Scientific , 1:1,000 ) in 10 % donkey serum for 1 h at room temperature , and then washed with PBS before being mounted with antifade mounting medium ( H-1000 , Vector Labs) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Subsequently , cells were washed with PBS , and incubated with secondary antibodies and Hoechst 33342 ( H3570 , Thermo Fisher Scientific , 1:1,000 ) in 10 % donkey serum for 1 h at room temperature , and then washed with PBS before being mounted with antifade mounting medium ( H-1000 , Vector Labs) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "antifade mounting medium ( H-1000 , Vector Labs) ."
+                }],
+              "neText" : "antifade mounting medium ( H-1000 , Vector Labs) ."
+            }]
+        }, {
+          "sentence" : "For Co-IP with exogenous proteins in HEK293T cells , the supernatants were incubated with FLAG antibody-coupled beads ( A2220 , Sigma ) and rotated at 4°C overnight .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For Co-IP with exogenous proteins in HEK293T cells , the supernatants were incubated with FLAG antibody-coupled beads ( A2220 , Sigma ) and rotated at 4°C overnight ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FLAG"
+                }],
+              "neText" : "FLAG"
+            }]
+        }, {
+          "sentence" : "After sonication , samples were centrifugated at 12,000 × g for 10 min at 4°C and the resulting supernatants were then incubated with Protein A Dynabeads ( Thermo Fisher Scientific ) pre-conjugated with anti-BMAL1 , anti-H3K9me3 or anti-IgG antibodies .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After sonication , samples were centrifugated at 12,000 × g for 10 min at 4°C and the resulting supernatants were then incubated with Protein A Dynabeads ( Thermo Fisher Scientific ) pre-conjugated with anti-BMAL1 , anti-H3K9me3 or anti-IgG antibodies ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-BMAL1"
+                }],
+              "neText" : "anti-BMAL1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-H3K9me3"
+                }],
+              "neText" : "anti-H3K9me3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-IgG"
+                }],
+              "neText" : "anti-IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "MATERIALS AND METHODS Cell culture BMAL1+/+ human embryonic stem cells (hESCs, line H9, WiCell Research Institute) and BMAL1–/– hESCs were seeded on feeder cells, a layer of mitomycin C-inactivated mouse embryonic fibroblasts (MEFs), and cultured in hESC culture medium containing DMEM/F12 (Thermo Fisher Scientific) supplemented with 20",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "MATERIALS AND METHODS Cell culture BMAL1+/+ human embryonic stem cells (hESCs, line H9, WiCell Research Institute) and BMAL1–/– hESCs were seeded on feeder cells, a layer of mitomycin C-inactivated mouse embryonic fibroblasts (MEFs), and cultured in hESC culture medium containing DMEM/F12 (Thermo Fisher Scientific) supplemented with 20"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "H9"
+                }],
+              "neText" : "H9"
+            }]
+        }, {
+          "sentence" : "HEK293T cells transfected with plasmids expressing FLAG-Luc , FLAG-BMAL1 ( WT ) and FLAG-BMAL1 ( Δ88) , as well as hMPCs and cynMPCs , were lysed using CHAPS lysis buffer ( 120 mM NaCl , 1 mM EDTA , 40 mM HEPES [ pH 7.5] , 0.3 % CHAPS and 1 × complete protease inhibitor cocktail [ Roche] ) at 4°C for 5 h and were centrifuged at 14,500 × g at 4°C for 45 min .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HEK293T cells transfected with plasmids expressing FLAG-Luc , FLAG-BMAL1 ( WT ) and FLAG-BMAL1 ( "
+            }, {
+              "f" : "symbol",
+              "c" : "Δ"
+            }, {
+              "f" : "default",
+              "c" : "88) , as well as hMPCs and cynMPCs , were lysed using CHAPS lysis buffer ( 120 mM NaCl , 1 mM EDTA , 40 mM HEPES [ pH 7.5] , 0.3 % CHAPS and 1 × complete protease inhibitor cocktail [ Roche] ) at 4°C for 5 h and were centrifuged at 14,500 × g at 4°C for 45 min ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293T"
+                }],
+              "neText" : "HEK293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "In Brief , approximately 3 × 106 BMAL1+/+ or BMAL1 –/– hESCs were resuspended in Matrigel: mTeSR ( 1:4 ) solution and injected into the inguinal region of male NOD-SCID mice ( 6–8 weeks old) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In Brief , approximately 3 × 106 BMAL1+/+ or BMAL1 –/– hESCs were resuspended in Matrigel: mTeSR ( 1:4 ) solution and injected into the inguinal region of male NOD-SCID mice ( 6–8 weeks old) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NOD-SCID"
+                }],
+              "neText" : "NOD-SCID"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Briefly , a guide RNA targeting exon 8 of BMAL1 was cloned into a pCAGmCherry-gRNA vector ( #87110 , Addgene) , marking the plasmid as BMAL1-gRNA-mCherry .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly , a guide RNA targeting exon 8 of BMAL1 was cloned into a pCAGmCherry-gRNA vector ( #87110 , Addgene) , marking the plasmid as BMAL1-gRNA-mCherry ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_87110",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCAGmCherry-gRNA"
+                }],
+              "neText" : "pCAGmCherry-gRNA"
+            }]
+        }, {
+          "sentence" : "Next , BMAL1+/+ hESCs were resuspended in the plasmid cocktail that contained BMAL1-gRNA-mCherry and pCAG-1BPNLS-Cas9-1BPNLS-2AGFP plasmid ( #87109 , Addgene ) in Opti-MEM ( Thermo Fisher Scientific) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Next , BMAL1+/+ hESCs were resuspended in the plasmid cocktail that contained BMAL1-gRNA-mCherry and pCAG-1BPNLS-Cas9-1BPNLS-2AGFP plasmid ( #87109 , Addgene ) in Opti-MEM ( Thermo Fisher Scientific) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_87109",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCAG-1BPNLS-Cas9-1BPNLS-2AGFP"
+                }],
+              "neText" : "pCAG-1BPNLS-Cas9-1BPNLS-2AGFP"
+            }]
+        }, {
+          "sentence" : "After PCR products purification by the PCR Purification Kit ( Qiagen) , the OCT4 promoter fragments were cloned into the pMD20 T vector ( TAKARA ) and sequenced.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After PCR products purification by the PCR Purification Kit ( Qiagen) , the OCT4 promoter fragments were cloned into the pMD20 T vector ( TAKARA ) and sequenced."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMD20 T"
+                }],
+              "neText" : "pMD20 T"
+            }]
+        }, {
+          "sentence" : "In brief , cDNA fragments amplified using primers listed in Supplementary Table S1 were cloned into the pLE4 vector ( a gift from Tomoaki Hishida) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In brief , cDNA fragments amplified using primers listed in Supplementary Table S1 were cloned into the pLE4 vector ( a gift from Tomoaki Hishida) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLE4"
+                }],
+              "neText" : "pLE4"
+            }]
+        }, {
+          "sentence" : "BMAL1-targeting sgRNA ( sg-BMAL1 ) or non-targeting control ( NTC ) sgRNA ( sg-NTC ) was cloned into the lentiCRISPRv2 plasmid ( #52961 ,  Addgene) , which carries a hSpCas9 expression cassette and a U6-driven sgRNA cassette. shRNA targeting STING or GL2 was cloned into the pLVTHM plasmid ( #12247 ,  Addgene)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "BMAL1-targeting sgRNA ( sg-BMAL1 ) or non-targeting control ( NTC ) sgRNA ( sg-NTC ) was cloned into the lentiCRISPRv2 plasmid ( #52961 ,  Addgene) , which carries a hSpCas9 expression cassette and a U6-driven sgRNA cassette. shRNA targeting STING or GL2 was cloned into the pLVTHM plasmid ( #12247 ,  Addgene)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "lentiCRISPRv2"
+                }],
+              "neText" : "lentiCRISPRv2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLVTHM"
+                }],
+              "neText" : "pLVTHM"
+            }]
+        }, {
+          "sentence" : "HEK293T cells were transfected with the plasmids and lentiviral vectors ( psPAX2 ( #12260 ,  Addgene ) and pMD2G ( #12259 ,  Addgene) ) using Lipofectamine 3000 ( Invitrogen) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HEK293T cells were transfected with the plasmids and lentiviral vectors ( psPAX2 ( #12260 ,  Addgene ) and pMD2G ( #12259 ,  Addgene) ) using Lipofectamine 3000 ( Invitrogen) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "psPAX2"
+                }],
+              "neText" : "psPAX2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMD2G"
+                }],
+              "neText" : "pMD2G"
+            }]
+        }, {
+          "sentence" : "To prepare sgRNA and SpCas9 mRNAs for embryo injection , T7-cynBMAL1 sgRNA and T7-SpCas9-expressing plasmids were linearized and in vitro transcribed with MEGAscript T7 and mMESSAGE mMACHINE T7 ULTRA Kits ( Thermo Fisher Scientific) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To prepare sgRNA and SpCas9 mRNAs for embryo injection , T7-cynBMAL1 sgRNA and T7-SpCas9-expressing plasmids were linearized and in vitro transcribed with MEGAscript T7 and mMESSAGE mMACHINE T7 ULTRA Kits ( Thermo Fisher Scientific) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "T7-SpCas9-expressing"
+                }],
+              "neText" : "T7-SpCas9-expressing"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The adipocytes , osteoblasts and chondrocytes that differentiated from hMPCs were correspondingly characterized by Oil Red O staining ( O1391 , Sigma ) and FABP4 immunostaining ( indicating adipogenesis) , von Kossa staining ( GMS 80045.3 , GenMed Scientific Inc . , U.S.A . ) , and Osteocalcin staining ( indicating osteogenesis ) and toluidine blue ( T3260 , Sigma ) ( indicating chondrogenesis ) following the manufacturer’s instructions .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The adipocytes , osteoblasts and chondrocytes that differentiated from hMPCs were correspondingly characterized by Oil Red O staining ( O1391 , Sigma ) and FABP4 immunostaining ( indicating adipogenesis) , von Kossa staining ( GMS 80045.3 , GenMed Scientific Inc . , U.S.A . ) , and Osteocalcin staining ( indicating osteogenesis ) and toluidine blue ( T3260 , Sigma ) ( indicating chondrogenesis ) following the manufacturer’s instructions ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "Immunoreactive bands were then detected by a ChemiDoc XRS+ system ( Bio-Rad ) and statistically quantified by ImageJ software ( NIH) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Immunoreactive bands were then detected by a ChemiDoc XRS+ system ( Bio-Rad ) and statistically quantified by ImageJ software ( NIH) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "The 3D reconstruction of H3K9me3 staining was performed by serial z-stack sectioning for up to 30 images at 100-nm intervals using a Leica SP5 confocal system , and further processed to perform 3D reconstruction by Imaris software ( version 7.4.2 ) as previously described ( 71) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The 3D reconstruction of H3K9me3 staining was performed by serial z-stack sectioning for up to 30 images at 100-nm intervals using a Leica SP5 confocal system , and further processed to perform 3D reconstruction by Imaris software ( version 7.4.2 ) as previously described ( 71) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Imaris"
+                }],
+              "neText" : "Imaris"
+            }]
+        }, {
+          "sentence" : "We searched data against UniProt human protein database ( updated on 02–2016) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We searched data against UniProt human protein database ( updated on 02–2016) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "UniProt (RRID:SCR_002380)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }]
+        }, {
+          "sentence" : "FDR ( false discovery rate ) analysis by Percolator was set to < 1 % for protein identification , and the peptide confidence was set as high for peptide filter .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "FDR ( false discovery rate ) analysis by Percolator was set to < 1 % for protein identification , and the peptide confidence was set as high for peptide filter ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Percolator"
+                }],
+              "neText" : "Percolator"
+            }]
+        }, {
+          "sentence" : "For ChIP-seq , library construction was conducted using KAPA Hyper Prep Kit ( KAPA Biosystems , KK8504 ) and Index Primers Set 1 for Illumina ( New England Biolabs ( NEB) , E7335L ) following the manufacturer’s instructions .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For ChIP-seq , library construction was conducted using KAPA Hyper Prep Kit ( KAPA Biosystems , KK8504 ) and Index Primers Set 1 for Illumina ( New England Biolabs ( NEB) , E7335L ) following the manufacturer’s instructions ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ChIP-seq"
+                }],
+              "neText" : "ChIP-seq"
+            }]
+        }, {
+          "sentence" : "RNA-seq data processing Raw paired-end reads were trimmed by Trim Galore software ( version 0.4.5 ) ( https://github.com/FelixKrueger/TrimGalore).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RNA-seq data processing Raw paired-end reads were trimmed by Trim Galore software ( version 0.4.5 ) ( https://github.com/FelixKrueger/TrimGalore)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https://github.com/FelixKrueger/TrimGalore"
+                }],
+              "neText" : "https://github.com/FelixKrueger/TrimGalore"
+            }]
+        }, {
+          "sentence" : "Then , the cleaned reads were mapped to the cynomolgus macaque ( Macaca Fascicularis ) MacFas5.0 genome obtained from UCSC genome browser database using hisat2 ( version 2.0.4 ) ( 86) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then , the cleaned reads were mapped to the cynomolgus macaque ( Macaca Fascicularis ) MacFas5.0 genome obtained from UCSC genome browser database using hisat2 ( version 2.0.4 ) ( 86) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UCSC genome browser"
+                }],
+              "neText" : "UCSC genome browser"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "hisat2"
+                }],
+              "neText" : "hisat2"
+            }]
+        }, {
+          "sentence" : "Read counts for each gene were calculated by HTSeq ( version 0.11.0 ) with only high-quality mapped reads ( mapping quality > 20 ) ( 87) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Read counts for each gene were calculated by HTSeq ( version 0.11.0 ) with only high-quality mapped reads ( mapping quality > 20 ) ( 87) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HTSeq"
+                }],
+              "neText" : "HTSeq"
+            }]
+        }, {
+          "sentence" : "Differentially expressed genes ( DEGs ) between tissues derived from BMAL1+/+ and BMAL1–/– cynomolgus monkeys were calculated by R package DESeq2 ( version 1.22.2 ) with the cutoff set to ‘the adjusted P-value < 0.05 and the absolute log2 ( fold change ) > 0.5’ .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Differentially expressed genes ( DEGs ) between tissues derived from BMAL1+/+ and BMAL1–/– cynomolgus monkeys were calculated by R package DESeq2 ( version 1.22.2 ) with the cutoff set to ‘the adjusted P-value < 0.05 and the absolute log2 ( fold change ) > 0.5’ ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq2"
+                }],
+              "neText" : "DESeq2"
+            }]
+        }, {
+          "sentence" : "Gene Ontology ( GO ) and pathway enrichment analysis were conducted by Metascape ( 88) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gene Ontology ( GO ) and pathway enrichment analysis were conducted by Metascape ( 88) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Metascape"
+                }],
+              "neText" : "Metascape"
+            }]
+        }, {
+          "sentence" : "For calculating differentially expressed repetitive elements ( REs ) in cynMPCs and cynomolgus monkey tissues , trimmed reads were mapped to the cynomolgus monkey ( Macaca Fascicularis ) MacFas5.0 genome obtained from UCSC genome browser database using STAR software ( version 2.5.2b ) ( 89) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For calculating differentially expressed repetitive elements ( REs ) in cynMPCs and cynomolgus monkey tissues , trimmed reads were mapped to the cynomolgus monkey ( Macaca Fascicularis ) MacFas5.0 genome obtained from UCSC genome browser database using STAR software ( version 2.5.2b ) ( 89) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STAR"
+                }],
+              "neText" : "STAR"
+            }]
+        }, {
+          "sentence" : "Then , the read counts for each RepeatMasker-annotated repeats of MacFas5.0 genome were calculated by featureCounts ( version 2.0.0 ) ( 90 ) with only high-quality mapped reads ( mapping quality > 20)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then , the read counts for each RepeatMasker-annotated repeats of MacFas5.0 genome were calculated by featureCounts ( version 2.0.0 ) ( 90 ) with only high-quality mapped reads ( mapping quality > 20)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "featureCounts"
+                }],
+              "neText" : "featureCounts"
+            }]
+        }, {
+          "sentence" : "DamID-seq data processing Raw reads of Dam and Dam-EMD data for BMAL1+/+ and BMAL1–/– hMPCs were trimmed by Trim Galore software ( version 0.4.5) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "DamID-seq data processing Raw reads of Dam and Dam-EMD data for BMAL1+/+ and BMAL1–/– hMPCs were trimmed by Trim Galore software ( version 0.4.5) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Trim Galore"
+                }],
+              "neText" : "Trim Galore"
+            }]
+        }, {
+          "sentence" : "The DamID signals were visualized for each 2,000-base pair ( bp ) bin using the bamCompare program in deepTools ( version 2.5.4 ) software ( 94) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The DamID signals were visualized for each 2,000-base pair ( bp ) bin using the bamCompare program in deepTools ( version 2.5.4 ) software ( 94) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "deepTools"
+                }],
+              "neText" : "deepTools"
+            }]
+        }, {
+          "sentence" : "Duplicated reads were discarded by MarkDuplicates . jar program in Picard tools ( version 1.119) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Duplicated reads were discarded by MarkDuplicates . jar program in Picard tools ( version 1.119) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Picard"
+                }],
+              "neText" : "Picard"
+            }]
+        }, {
+          "sentence" : "Then , reads were sorted with SAMtools ( version 1.6 ) ( 93) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then , reads were sorted with SAMtools ( version 1.6 ) ( 93) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SAMTOOLS, RRID:SCR_002105",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAMtools"
+                }],
+              "neText" : "SAMtools"
+            }]
+        }, {
+          "sentence" : "For H3K9me3 peak calling , SICER",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For H3K9me3 peak calling , SICER"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SICER"
+                }],
+              "neText" : "SICER"
+            }]
+        }, {
+          "sentence" : "Then LAD regions were partitioned into ‘H3K9me3-enriched LADs’ and ‘Other LADs’ by robust k-means analysis with two clusters using R package pheatmap ( version 1.0.12) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then LAD regions were partitioned into ‘H3K9me3-enriched LADs’ and ‘Other LADs’ by robust k-means analysis with two clusters using R package pheatmap ( version 1.0.12) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "pheatmap (RRID:SCR_016418)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pheatmap"
+                }],
+              "neText" : "pheatmap"
+            }]
+        }, {
+          "sentence" : "Genomic distribution of ATAC peaks were annotated by annotatePeaks.pl program in homer2 (version 4.10.3) software (95).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Genomic distribution of ATAC peaks were annotated by annotatePeaks.pl program in homer2 (version 4.10.3) software (95)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "homer2"
+                }],
+              "neText" : "homer2"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Data are presented as the means ± SEM. P-value (P) was analyzed by two-tailed Student’s t-test using GraphPad Prism 6 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Data are presented as the means ± SEM. P-value (P) was analyzed by two-tailed Student’s t-test using GraphPad Prism 6 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The skin sample was obtained from blepharoplasty of the indicated healthy donor under the ethical approval of the Peking Union Medical College Hospital Institutional Review",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The skin sample was obtained from blepharoplasty of the indicated healthy donor under the ethical approval of the Peking Union Medical College Hospital Institutional Review"
+              }]
+          }, {
+            "sentence" : "The mice used in this study were purchased from SPF Biotechnology Co . , Ltd.  ( Beijing ) and reared at 25 ± 1°C under 12-h light–dark cycle with food and water fed ad libitum . hMPC implantation assay hMPC implantation assay was conducted as previously described ( 48,49,61,62) .",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mice used in this study were purchased from SPF Biotechnology Co . , Ltd.  ( Beijing ) and reared at 25 ± 1°C under 12-h light–dark cycle with food and water fed ad libitum . hMPC implantation assay hMPC implantation assay was conducted as previously described ( 48,49,61,62) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Human primary fibroblasts were derived from the upper eyelid skin of a 28-year-old male individual and cultured on 0.1 % gelatin-precoated dishes with fibroblast culture medium ( high glucose DMEM [ Hyclone ] supplemented with 10 % fetal bovine serum , 1 % penicillin/streptomycin and 0.1 mM NEAAs ) following previous protocols ( 55) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Human primary fibroblasts were derived from the upper eyelid skin of a 28-year-old male individual and cultured on 0.1 % gelatin-precoated dishes with fibroblast culture medium ( high glucose DMEM [ Hyclone ] supplemented with 10 % fetal bovine serum , 1 % penicillin/streptomycin and 0.1 mM NEAAs ) following previous protocols ( 55) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Human primary fibroblasts were derived from the upper eyelid skin of a 28-year-old male individual and cultured on 0.1 % gelatin-precoated dishes with fibroblast culture medium ( high glucose DMEM [ Hyclone ] supplemented with 10 % fetal bovine serum , 1 % penicillin/streptomycin and 0.1 mM NEAAs ) following previous protocols ( 55) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Human primary fibroblasts were derived from the upper eyelid skin of a 28-year-old male individual and cultured on 0.1 % gelatin-precoated dishes with fibroblast culture medium ( high glucose DMEM [ Hyclone ] supplemented with 10 % fetal bovine serum , 1 % penicillin/streptomycin and 0.1 mM NEAAs ) following previous protocols ( 55) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The percentage of SA-β-gal-positive cells was counted in randomly selected fields of view for each replicate using ImageJ software ( NIH) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The percentage of SA-"
+              }, {
+                "f" : "symbol",
+                "c" : "β"
+              }, {
+                "f" : "default",
+                "c" : "-gal-positive cells was counted in randomly selected fields of view for each replicate using ImageJ software ( NIH) ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Replicates for each sample were merged for downstream analysis .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Replicates for each sample were merged for downstream analysis ."
+              }],
+            "mention" : {
+              "neText" : "Replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Replicates"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "hESC clones were then genotyped by genomic PCR and sequencing .",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "hESC clones were then genotyped by genomic PCR and sequencing ."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "https://github.com/dinovski/asDamID/blob/master/scripts/hmmt_functions.R).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "https://github.com/dinovski/asDamID/blob/master/scripts/hmmt_functions.R)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "https://github.com/dinovski/asDamID/blob/master/scripts/hmmt_functions.R"
+                  }],
+                "neText" : "https://github.com/dinovski/asDamID/blob/master/scripts/hmmt_functions.R"
+              }]
+          }]
+      }, {
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Primary cynomolgus monkey MPCs ( cynMPCs ) were also seeded on 0.1 % gelatin-precoated dishes and cultured in MPC culture medium supplemented with 100 nM tenofovir ( BCP02416 , BiochemPartner)",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Primary cynomolgus monkey MPCs ( cynMPCs ) were also seeded on 0.1 % gelatin-precoated dishes and cultured in MPC culture medium supplemented with 100 nM tenofovir ( BCP02416 , BiochemPartner)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "BCP02416"
+                  }],
+                "neText" : "BCP02416"
+              }]
+          }, {
+            "sentence" : "The mice used in this study were purchased from SPF Biotechnology Co . , Ltd.  ( Beijing ) and reared at 25 ± 1°C under 12-h light–dark cycle with food and water fed ad libitum . hMPC implantation assay hMPC implantation assay was conducted as previously described ( 48,49,61,62) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mice used in this study were purchased from SPF Biotechnology Co . , Ltd.  ( Beijing ) and reared at 25 ± 1°C under 12-h light–dark cycle with food and water fed ad libitum . hMPC implantation assay hMPC implantation assay was conducted as previously described ( 48,49,61,62) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "48,49,61,62"
+                  }],
+                "neText" : "48,49,61,62"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Both permutation-based P-values ( P ) and Benjamini–Hochberg adjusted Q values ( Q ) < 0.05 were considered as rhythmic .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Both permutation-based P-values ( P ) and Benjamini–Hochberg adjusted Q values ( Q ) < 0.05 were considered as rhythmic ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini–Hochberg"
+                  }],
+                "neText" : "Benjamini–Hochberg"
+              }]
+          }, {
+            "sentence" : "Statistical significances were assessed by a two-tailed unpaired Student’s t-test .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical significances were assessed by a two-tailed unpaired Student’s t-test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Primers used for PCR: me-OCT4 forward: ATTTGTTTTTTGGGTAGTTAAAGG T , me-OCT4 reverse: CCAACTATCTTCATCTTAATAACA TCC ( 59) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Primers used for PCR: me-OCT4 forward: ATTTGTTTTTTGGGTAGTTAAAGG T , me-OCT4 reverse: CCAACTATCTTCATCTTAATAACA TCC ( 59) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCAACTATCTTCATCTTAATAACA TCC"
+                  }],
+                "neText" : "CCAACTATCTTCATCTTAATAACA TCC"
+              }]
+          }]
+      }]
+  }
+}

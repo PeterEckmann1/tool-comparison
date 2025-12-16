@@ -1,0 +1,225 @@
+{
+  "docIdentifier" : "PMC8406892",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The CT observations included the following parameters: ( 1 ) the width of tracheal wall ( W) , for which the left-right diameters of the trachea were measured ( 2 ) the trachea shape ( S) , which was classified into 3 types according to trachea index ( Ti , Ti is a radiological parameter calculated as the ratio of left-right inner diameter ( LR ) to anterior-posterior inner diameter ( AP ) in the trachea 19 ) as follows: type I , round , Ti=0.95-1.05 type II , vertical ellipse , Ti<0.95 type III , transverse ellipse , Ti>1.05 ( 3 ) trachea calcification ( Ca ) and distribution , in which length measurement was achieved by use of the Python program .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The CT observations included the following parameters: ( 1 ) the width of tracheal wall ( W) , for which the left-right diameters of the trachea were measured ( 2 ) the trachea shape ( S) , which was classified into 3 types according to trachea index ( Ti , Ti is a radiological parameter calculated as the ratio of left-right inner diameter ( LR ) to anterior-posterior inner diameter ( AP ) in the trachea 19 ) as follows: type I , round , Ti=0.95-1.05 type II , vertical ellipse , Ti<0.95 type III , transverse ellipse , Ti>1.05 ( 3 ) trachea calcification ( Ca ) and distribution , in which length measurement was achieved by use of the Python program ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "python-bx (RRID:SCR_024202)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }]
+        }, {
+          "sentence" : "Statistical Analysis Statistical analyses were performed using SPSS version 24.0 (SPSS, Inc., Chicago, IL, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis Statistical analyses were performed using SPSS version 24.0 (SPSS, Inc., Chicago, IL, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This single-center retrospective study received approval from the Ethics Committee of the First Hospital of Hebei Medical University (No. 20190909), and the requirement for informed consent was waived due to the retrospective nature of this study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This single-center retrospective study received approval from the Ethics Committee of the First Hospital of Hebei Medical University (No. 20190909), and the requirement for informed consent was waived due to the retrospective nature of this study."
+              }]
+          }, {
+            "sentence" : "This single-center retrospective study received approval from the Ethics Committee of the First Hospital of Hebei Medical University (No. 20190909), and the requirement for informed consent was waived due to the retrospective nature of this study.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This single-center retrospective study received approval from the Ethics Committee of the First Hospital of Hebei Medical University (No. 20190909), and the requirement for informed consent was waived due to the retrospective nature of this study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Material and Methods Study Population This retrospective study included subjects who underwent a routine physical examination with pulmonary LDCT in the Department of Radiology of the First Hospital of Hebei Medical University (Shijiazhuang, China) from January 2017 to December 2019.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Material and Methods Study Population This retrospective study included subjects who underwent a routine physical examination with pulmonary LDCT in the Department of Radiology of the First Hospital of Hebei Medical University (Shijiazhuang, China) from January 2017 to December 2019."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "A total of 733 subjects (424 males with a mean age of 50.75+-15.98 years and 309 females with a mean age of 51.26+-16.75 years) were enrolled.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A total of 733 subjects (424 males with a mean age of 50.75+-15.98 years and 309 females with a mean age of 51.26+-16.75 years) were enrolled."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were as follows: (1) 18-80 years of age (2) no known history of pulmonary disease (3) no chest symptoms or signs (4) no systemic diseases with potential impact on pulmonary health (5) no smoking history (6) urban residents (continuous urban residence for more than 15 years 18 and no less than 6 months per year).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were as follows: (1) 18-80 years of age (2) no known history of pulmonary disease (3) no chest symptoms or signs (4) no systemic diseases with potential impact on pulmonary health (5) no smoking history (6) urban residents (continuous urban residence for more than 15 years 18 and no less than 6 months per year)."
+              }]
+          }, {
+            "sentence" : "According to body mass index ( BMI) , the subject was deemed as normal ( N , BMI <25 kgm2) , overweight ( O , BMI >=25-29.9 kgm2) , or obese ( Ob , BMI >=30 kgm2 ) 24",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "According to body mass index ( BMI) , the subject was deemed as normal ( N , BMI <25 kgm2) , overweight ( O , BMI >=25-29.9 kgm2) , or obese ( Ob , BMI >=30 kgm2 ) 24"
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The 2 independent samples t test or one-way analysis of variance (ANOVA) were used with normal distribution and homogeneous variance to evaluate the difference between groups otherwise, the Mann-Whitney U test or Kruskal-Wallis H test were used.",
+            "rowSpan" : 5,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The 2 independent samples t test or one-way analysis of variance (ANOVA) were used with normal distribution and homogeneous variance to evaluate the difference between groups otherwise, the Mann-Whitney U test or Kruskal-Wallis H test were used."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis H test"
+                  }],
+                "neText" : "Kruskal-Wallis H test"
+              }]
+          }, {
+            "sentence" : "The chi-square test was used to compare data counts and ratios.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The chi-square test was used to compare data counts and ratios."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }]
+          }]
+      }]
+  }
+}

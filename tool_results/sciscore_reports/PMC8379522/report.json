@@ -1,0 +1,323 @@
+{
+  "docIdentifier" : "PMC8379522",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "To each condition , add the appropriate amount of antibody or corresponding normal isotype IgG control ( typically 2.5 mg of each , but exact concentration should be determined experimentally ) 10 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To each condition , add the appropriate amount of antibody or corresponding normal isotype IgG control ( typically 2.5 mg of each , but exact concentration should be determined experimentally ) 10 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "corresponding normal isotype IgG"
+                }],
+              "neText" : "corresponding normal isotype IgG"
+            }]
+        }, {
+          "sentence" : "To asses protocol efficacy , it is recommended to run , in parallel , a control CUT&RUN with an antibody against a histone mark .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To asses protocol efficacy , it is recommended to run , in parallel , a control CUT&RUN with an antibody against a histone mark ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "antibody against a histone mark ."
+                }],
+              "neText" : "antibody against a histone mark ."
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "We successfully used this protocol on SNU398, K562, and NB4 cell lines. b.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We successfully used this protocol on SNU398, K562, and NB4 cell lines. b."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0004",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "K562"
+                }],
+              "neText" : "K562"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_0005)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NB4"
+                }],
+              "neText" : "NB4"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Dissolve the pellet in 25 mL of 1 mM Tris-HCl ( pH8 ) and 0.1 mM EDTA ( i.e. , 0.1x TE ) Step 5: Quality control Timing: 1 h 46 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Dissolve the pellet in 25 mL of 1 mM Tris-HCl ( pH8 ) and 0.1 mM EDTA ( i.e. , 0.1x TE ) Step 5: Quality control Timing: 1 h 46 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pH8"
+                }],
+              "neText" : "pH8"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Step 7: Sequencing with MiniSeq ( illumina): 4 h 81 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Step 7: Sequencing with MiniSeq ( illumina): 4 h 81 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MiniSeq"
+                }],
+              "neText" : "MiniSeq"
+            }]
+        }, {
+          "sentence" : "Firstly , trimmomatic is run to remove poor quality bases from both the start and the end of the reads while also removing any potential adapter sequences that might be found.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Firstly , trimmomatic is run to remove poor quality bases from both the start and the end of the reads while also removing any potential adapter sequences that might be found."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Trimmomatic (RRID:SCR_011848)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "trimmomatic"
+                }],
+              "neText" : "trimmomatic"
+            }]
+        }, {
+          "sentence" : "Once the reads are cleaned up , alignment to the reference genomes is performed using BWA followed by Stampy .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Once the reads are cleaned up , alignment to the reference genomes is performed using BWA followed by Stampy ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BWA"
+                }],
+              "neText" : "BWA"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Stampy"
+                }],
+              "neText" : "Stampy"
+            }]
+        }, {
+          "sentence" : "For additional information on interpreting the output of Picard , refer to the official documentation on the Broad website.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For additional information on interpreting the output of Picard , refer to the official documentation on the Broad website."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Picard"
+                }],
+              "neText" : "Picard"
+            }]
+        }, {
+          "sentence" : "It is evident from user forums however that some users prefer to use the MEME-Suite of tools in preference to HOMER for motif discovery.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "It is evident from user forums however that some users prefer to use the MEME-Suite of tools in preference to HOMER for motif discovery."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HOMER"
+                }],
+              "neText" : "HOMER"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Quantify 1 mL of purified DNA by Qubit HS DNA kit ( ThermoFisher Q32851 ) following manufacturers instructions Example amounts of DNA recovered Histone mark: 15-20 ngmL TF: 10-15 ngmL IgG isotype control: <10 ngmL 47 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Quantify 1 mL of purified DNA by Qubit HS DNA kit ( ThermoFisher Q32851 ) following manufacturers instructions Example amounts of DNA recovered Histone mark: 15-20 ngmL TF: 10-15 ngmL IgG isotype control: <10 ngmL 47 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Q32851"
+                  }],
+                "neText" : "Q32851"
+              }]
+          }]
+      }]
+  }
+}

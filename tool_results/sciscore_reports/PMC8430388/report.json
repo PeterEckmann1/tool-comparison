@@ -1,0 +1,409 @@
+{
+  "docIdentifier" : "PMC8430388",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "2 Methods 2.1 Animals C57BL6J (C57BL6JRj) mice (male, 2.5 months of age) were obtained from Janvier (France).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2 Methods 2.1 Animals C57BL6J (C57BL6JRj) mice (male, 2.5 months of age) were obtained from Janvier (France)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6J"
+                }],
+              "neText" : "C57BL6J"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6JRj"
+                }],
+              "neText" : "C57BL6JRj"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2.8 Noldus EthoVision EthoVision XT14 was used to acquire all forced swim and elevated plus maze videos.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.8 Noldus EthoVision EthoVision XT14 was used to acquire all forced swim and elevated plus maze videos."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "EthoVision XT, RRID:SCR_000441",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EthoVision"
+                }],
+              "neText" : "EthoVision"
+            }]
+        }, {
+          "sentence" : "For differential gene expression ( DGE ) analysis we aggregated reads of protein coding transcripts and used R ( v . 3.6.2 ) with the package edgeR ( v 3.26.8 ) for analysis .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For differential gene expression ( DGE ) analysis we aggregated reads of protein coding transcripts and used R ( v . 3.6.2 ) with the package edgeR ( v 3.26.8 ) for analysis ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "edgeR (RRID:SCR_012802)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "edgeR"
+                }],
+              "neText" : "edgeR"
+            }]
+        }, {
+          "sentence" : "Surrogate variables independent of experimental groups were identified using the SVA package 3.34.0 on data after DESeq2 variance-stabilization (Leek et al., 2012 Love et al., 2014), and were then included as additive terms in the GLMs.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Surrogate variables independent of experimental groups were identified using the SVA package 3.34.0 on data after DESeq2 variance-stabilization (Leek et al., 2012 Love et al., 2014), and were then included as additive terms in the GLMs."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq2"
+                }],
+              "neText" : "DESeq2"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All procedures were carried out in accordance to Swiss cantonal regulations for animal experimentation and were approved under license 1552015.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All procedures were carried out in accordance to Swiss cantonal regulations for animal experimentation and were approved under license 1552015."
+              }]
+          }, {
+            "sentence" : "2.12 Tissue collection When brain tissue was collected for uHPLC , mice were rapidly euthanized by cervical dislocation .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.12 Tissue collection When brain tissue was collected for uHPLC , mice were rapidly euthanized by cervical dislocation ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2 Methods 2.1 Animals C57BL6J (C57BL6JRj) mice (male, 2.5 months of age) were obtained from Janvier (France).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Methods 2.1 Animals C57BL6J (C57BL6JRj) mice (male, 2.5 months of age) were obtained from Janvier (France)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The mice arrived at the lab aged between postnatal day 21-23 housed in groups of 5.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mice arrived at the lab aged between postnatal day 21-23 housed in groups of 5."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Upon arrival they were ear-tagged and split randomly (by cage) into either the CSI or control group.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Upon arrival they were ear-tagged and split randomly (by cage) into either the CSI or control group."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "The data generated by DeepLabCut was processed using custom R Scripts that are available online (https:github.comETHZ-INSDLCAnalyzer).",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The data generated by DeepLabCut was processed using custom R Scripts that are available online (https:github.comETHZ-INSDLCAnalyzer)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "2.11 Statistical analysis of behavior Data were tested for normality and all comparisons between normally distributed datasets containing two independent groups were performed using unpaired t-tests ( 2-tailed) , data which was found to not follow a normal distribution was compared using non-parametric analyses .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.11 Statistical analysis of behavior Data were tested for normality and all comparisons between normally distributed datasets containing two independent groups were performed using unpaired t-tests ( 2-tailed) , data which was found to not follow a normal distribution was compared using non-parametric analyses ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }, {
+            "sentence" : "All comparisons between more than two groups were performed using two-way ANOVAs in order to identify group effects .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All comparisons between more than two groups were performed using two-way ANOVAs in order to identify group effects ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVAs"
+                  }],
+                "neText" : "ANOVAs"
+              }]
+          }, {
+            "sentence" : "Significant main effects were then followed up with post hoc tests ( Tukeys multiple comparison test) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Significant main effects were then followed up with post hoc tests ( Tukeys multiple comparison test) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys multiple comparison test"
+                  }],
+                "neText" : "Tukeys multiple comparison test"
+              }]
+          }, {
+            "sentence" : "We used a generalized linear model ( GLM ) with empirical Bayes quasi-likelihood F-tests .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We used a generalized linear model ( GLM ) with empirical Bayes quasi-likelihood F-tests ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "F-tests"
+                  }],
+                "neText" : "F-tests"
+              }]
+          }, {
+            "sentence" : "For multiple testing correction the Benjamini-Hochberg false discovery rate ( FDR ) method was used.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For multiple testing correction the Benjamini-Hochberg false discovery rate ( FDR ) method was used."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Forward primer (FP) and reverse primer (RP) sequences were as follows: Apold1: FP: ACCTCAGGCTCTCCTTCCATCATC , RP: ACCCGAGACAAAGCACCAATGC.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Forward primer (FP) and reverse primer (RP) sequences were as follows: Apold1: FP: ACCTCAGGCTCTCCTTCCATCATC , RP: ACCCGAGACAAAGCACCAATGC."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACCTCAGGCTCTCCTTCCATCATC"
+                  }],
+                "neText" : "ACCTCAGGCTCTCCTTCCATCATC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACCCGAGACAAAGCACCAATGC"
+                  }],
+                "neText" : "ACCCGAGACAAAGCACCAATGC"
+              }]
+          }, {
+            "sentence" : "Cyr61: FP: AGCTCACTGAAGAGGCTTCCTGTC , RP: ACTCGTGTGGAGATGCCAGTTC.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cyr61: FP: AGCTCACTGAAGAGGCTTCCTGTC , RP: ACTCGTGTGGAGATGCCAGTTC."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "AGCTCACTGAAGAGGCTTCCTGTC"
+                  }],
+                "neText" : "AGCTCACTGAAGAGGCTTCCTGTC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACTCGTGTGGAGATGCCAGTTC"
+                  }],
+                "neText" : "ACTCGTGTGGAGATGCCAGTTC"
+              }]
+          }, {
+            "sentence" : "Dusp1: FP: AGACATCAGCTCCTGGTTCAACG, RP: CCAGCATCCTTGATGGAGTCTATG .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Dusp1: FP: AGACATCAGCTCCTGGTTCAACG, RP: CCAGCATCCTTGATGGAGTCTATG ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCAGCATCCTTGATGGAGTCTATG"
+                  }],
+                "neText" : "CCAGCATCCTTGATGGAGTCTATG"
+              }]
+          }, {
+            "sentence" : "Fos: FP: ACAGATACACTCCAAGCGGAGAC, RP: TGGCAATCTCAGTCTGCAACGC.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fos: FP: ACAGATACACTCCAAGCGGAGAC, RP: TGGCAATCTCAGTCTGCAACGC."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ACAGATACACTCCAAGCGGAGAC"
+                  }],
+                "neText" : "ACAGATACACTCCAAGCGGAGAC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "TGGCAATCTCAGTCTGCAACGC"
+                  }],
+                "neText" : "TGGCAATCTCAGTCTGCAACGC"
+              }]
+          }]
+      }]
+  }
+}

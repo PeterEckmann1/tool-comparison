@@ -1,0 +1,136 @@
+{
+  "docIdentifier" : "PMC8207328",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Subsequent sensitivity analyses consisted of models with a more conservative VTE outcome and other covariates to consider the impact of missing data as follows: (i) VTE definition including only DVT or PE as the outcome modeled (ii) inclusion of antiphospholipid antibody positivity (lupus anticoagulant, anticardiolipin antibodies, andor anti-b2-glycoprotein-1 antibodies) as an additional covariate that was not included in the main analysis because of high level of missing data (39) and (iii) inclusion of thrombotic microangiopathy (TMA) as an additional covariate of interest.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Subsequent sensitivity analyses consisted of models with a more conservative VTE outcome and other covariates to consider the impact of missing data as follows: (i) VTE definition including only DVT or PE as the outcome modeled (ii) inclusion of antiphospholipid antibody positivity (lupus anticoagulant, anticardiolipin antibodies, andor anti-b2-glycoprotein-1 antibodies) as an additional covariate that was not included in the main analysis because of high level of missing data (39) and (iii) inclusion of thrombotic microangiopathy (TMA) as an additional covariate of interest."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "antiphospholipid antibody positivity (lupus anticoagulant, anticardiolipin antibodies,"
+                }],
+              "neText" : "antiphospholipid antibody positivity (lupus anticoagulant, anticardiolipin antibodies,"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-b2-glycoprotein-1"
+                }],
+              "neText" : "anti-b2-glycoprotein-1"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the UNC Institutional Review Board (UNC IRB 18-3339) and adhered to the ethical principles of the Declaration of Helsinki.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the UNC Institutional Review Board (UNC IRB 18-3339) and adhered to the ethical principles of the Declaration of Helsinki."
+              }]
+          }, {
+            "sentence" : "A waiver of informed consent was issued by the UNC Institutional Review Board.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A waiver of informed consent was issued by the UNC Institutional Review Board."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients excluded from the study were those with no LN, or with LN class not specified because of insufficient data, and those with LN class II or class VI (because of the low prevalence).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients excluded from the study were those with no LN, or with LN class not specified because of insufficient data, and those with LN class II or class VI (because of the low prevalence)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Multiple imputation was used to address missing covariate information with missing values assumed to be missing at random.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Multiple imputation was used to address missing covariate information with missing values assumed to be missing at random."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

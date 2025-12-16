@@ -1,0 +1,1512 @@
+{
+  "docIdentifier" : "PMC8730507",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "STARMethods Key resources table Reagent or resource Source Identifier Antibodies Rabbit anti-Tubulin b 3 (TUBB3) Sigma-Aldrich T2200 RRID: AB_262133 Chicken anti-GFP Abcam ab13970 RRID: AB_300798 Mouse anti-tubulin b 3 (Tuj-1) Biolegend 801201 RRID: AB_2313773 Mouse anti-VAMP2 Synaptic Systems 104211 RRID: AB_887811 Rabbit anti-Munc13-1 Synaptic Systems 126103 RRID: AB_887733 Rabbit anti-RIM1 Synaptic Systems 140103 RRID: AB_887774 Rabbit anti-RIM2 Synaptic Systems 140 103 RRID: AB_88776 Rabbit anti-Glial Fibrillary Acidic Protein (GFAP) DAKO Z0334 RRID: AB_10013382 Rabbit anti-RFP Rockland 600-401-379 RRID: AB_2209751 Mouse anti-DDK (FLAG) Origene TA50011-100 RRID: AB_2622345 Guinea Pig anti-NeuN Merck Millipore ABN90P RRID: AB_2341095 Donkey anti-chicken IgY IgG H+L Alexa Fluor 488 Jackson Immunoresearch 703-545-155 RRID: AB_2340375 Donkey anti-rabbit IgG H+L Alexa Fluor 594 Jackson Immunoresearch 711-586-152 RRID: AB_2340622 Donkey anti-guinea pig IgG H+L Alexa Fluor 647 Jackson Immunoresearch 706-605-148 RRID: AB_2340476 Goat anti-rabbit IgG H+L Alexa Fluor 568 Thermo Fisher A-11036 RRID: AB_10563566 Goat Anti-chicken IgY H&L Alexa Fluor 488 Abcam ab150169 RRID: AB_2636803 Goat anti-rabbit IgG H&L Alexa Fluor 647 Abcam ab150079 RRID: AB_2722623 Goat anti-Mouse IgG H+L Alexa Fluor 647 Thermo Fisher A-21235 RRID: AB_2535804350 Goat anti-Mouse IgG H+ Alexa Fluor 594 Thermo Fisher A-11032 RRID: AB_2534091 Bacterial and virus strains AAV5.CAG-tdTomato (codon diversified) A gift from Edward Boyden Addgene 59462-AAV5 AAV1.CMV.PI.EGFP.",
+          "rowSpan" : 30,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STARMethods Key resources table Reagent or resource Source Identifier Antibodies Rabbit anti-Tubulin b 3 (TUBB3) Sigma-Aldrich T2200 RRID: AB_262133 Chicken anti-GFP Abcam ab13970 RRID: AB_300798 Mouse anti-tubulin b 3 (Tuj-1) Biolegend 801201 RRID: AB_2313773 Mouse anti-VAMP2 Synaptic Systems 104211 RRID: AB_887811 Rabbit anti-Munc13-1 Synaptic Systems 126103 RRID: AB_887733 Rabbit anti-RIM1 Synaptic Systems 140103 RRID: AB_887774 Rabbit anti-RIM2 Synaptic Systems 140 103 RRID: AB_88776 Rabbit anti-Glial Fibrillary Acidic Protein (GFAP) DAKO Z0334 RRID: AB_10013382 Rabbit anti-RFP Rockland 600-401-379 RRID: AB_2209751 Mouse anti-DDK (FLAG) Origene TA50011-100 RRID: AB_2622345 Guinea Pig anti-NeuN Merck Millipore ABN90P RRID: AB_2341095 Donkey anti-chicken IgY IgG H+L Alexa Fluor 488 Jackson Immunoresearch 703-545-155 RRID: AB_2340375 Donkey anti-rabbit IgG H+L Alexa Fluor 594 Jackson Immunoresearch 711-586-152 RRID: AB_2340622 Donkey anti-guinea pig IgG H+L Alexa Fluor 647 Jackson Immunoresearch 706-605-148 RRID: AB_2340476 Goat anti-rabbit IgG H+L Alexa Fluor 568 Thermo Fisher A-11036 RRID: AB_10563566 Goat Anti-chicken IgY H&L Alexa Fluor 488 Abcam ab150169 RRID: AB_2636803 Goat anti-rabbit IgG H&L Alexa Fluor 647 Abcam ab150079 RRID: AB_2722623 Goat anti-Mouse IgG H+L Alexa Fluor 647 Thermo Fisher A-21235 RRID: AB_2535804350 Goat anti-Mouse IgG H+ Alexa Fluor 594 Thermo Fisher A-11032 RRID: AB_2534091 Bacterial and virus strains AAV5.CAG-tdTomato (codon diversified) A gift from Edward Boyden Addgene 59462-AAV5 AAV1.CMV.PI.EGFP."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(US Biological Cat# T9157-30D, RRID:AB_2288064)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Tubulin b 3 (TUBB3"
+                }],
+              "neText" : "anti-Tubulin b 3 (TUBB3"
+            }, {
+              "source" : "Sigma-Aldrich",
+              "rrid" : "(Sigma-Aldrich Cat# T2200, RRID:AB_262133)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Rabbit anti-Tubulin b"
+                }],
+              "neText" : "Rabbit anti-Tubulin b"
+            }, {
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab13970, RRID:AB_300798)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GFP"
+                }],
+              "neText" : "anti-GFP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-tubulin b 3"
+                }],
+              "neText" : "anti-tubulin b 3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Tuj-1"
+                }],
+              "neText" : "Tuj-1"
+            }, {
+              "source" : "BioLegend",
+              "rrid" : "(BioLegend Cat# 801202, RRID:AB_2313773)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-tubulin b"
+                }],
+              "neText" : "anti-tubulin b"
+            }, {
+              "source" : "",
+              "rrid" : "(Synaptic Systems Cat# 104 211, RRID:AB_887811)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "Synaptic Systems",
+              "rrid" : "(Synaptic Systems Cat# 126 103, RRID:AB_887733)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Munc13-1"
+                }],
+              "neText" : "anti-Munc13-1"
+            }, {
+              "source" : "",
+              "rrid" : "(Synaptic Systems Cat# 140 003, RRID:AB_887774)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Glial Fibrillary Acidic Protein (GFAP"
+                }],
+              "neText" : "anti-Glial Fibrillary Acidic Protein (GFAP"
+            }, {
+              "source" : "Agilent",
+              "rrid" : "(Agilent Cat# Z0334, RRID:AB_10013382)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Glial Fibrillary Acidic Protein"
+                }],
+              "neText" : "anti-Glial Fibrillary Acidic Protein"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-RFP"
+                }],
+              "neText" : "anti-RFP"
+            }, {
+              "source" : "Rockland",
+              "rrid" : "(Rockland Cat# 600-401-379, RRID:AB_2209751)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-RFP"
+                }],
+              "neText" : "anti-RFP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-DDK"
+                }],
+              "neText" : "anti-DDK"
+            }, {
+              "source" : "OriGene",
+              "rrid" : "(OriGene Cat# TA50011-100, RRID:AB_2622345)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-DDK"
+                }],
+              "neText" : "anti-DDK"
+            }, {
+              "source" : "Millipore",
+              "rrid" : "(Millipore Cat# ABN90P, RRID:AB_2341095)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-NeuN"
+                }],
+              "neText" : "anti-NeuN"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-chicken IgY IgG"
+                }],
+              "neText" : "anti-chicken IgY IgG"
+            }, {
+              "source" : "Jackson ImmunoResearch Labs",
+              "rrid" : "(Jackson ImmunoResearch Labs Cat# 703-545-155, RRID:AB_2340375)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Donkey anti-chicken IgY IgG"
+                }],
+              "neText" : "Donkey anti-chicken IgY IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }, {
+              "source" : "Jackson ImmunoResearch Labs",
+              "rrid" : "(Jackson ImmunoResearch Labs Cat# 711-586-152, RRID:AB_2340622)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Donkey IgG H+L Alexa"
+                }],
+              "neText" : "Donkey IgG H+L Alexa"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-guinea pig IgG"
+                }],
+              "neText" : "anti-guinea pig IgG"
+            }, {
+              "source" : "Jackson ImmunoResearch Labs",
+              "rrid" : "(Jackson ImmunoResearch Labs Cat# 706-605-148, RRID:AB_2340476)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IgG H+L Alexa Fluor"
+                }],
+              "neText" : "IgG H+L Alexa Fluor"
+            }, {
+              "source" : "Molecular Probes",
+              "rrid" : "(Molecular Probes Cat# A-11036, RRID:AB_10563566)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IgG H+L Alexa Fluor"
+                }],
+              "neText" : "IgG H+L Alexa Fluor"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-chicken IgY"
+                }],
+              "neText" : "Anti-chicken IgY"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RRID: AB_2636803 Goat"
+                }],
+              "neText" : "RRID: AB_2636803 Goat"
+            }, {
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab150169, RRID:AB_2636803)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Anti-chicken IgY H&L Alexa"
+                }],
+              "neText" : "Anti-chicken IgY H&L Alexa"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IgG H&L Alexa Fluor"
+                }],
+              "neText" : "IgG H&L Alexa Fluor"
+            }, {
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab150079, RRID:AB_2722623)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IgG H&L Alexa Fluor"
+                }],
+              "neText" : "IgG H&L Alexa Fluor"
+            }, {
+              "source" : "Molecular Probes",
+              "rrid" : "(Molecular Probes Cat# A-11032, RRID:AB_2534091)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Alexa Fluor Thermo Fisher"
+                }],
+              "neText" : "Alexa Fluor Thermo Fisher"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AAV1.CMV.PI.EGFP"
+                }],
+              "neText" : "AAV1.CMV.PI.EGFP"
+            }]
+        }, {
+          "sentence" : "Samples were then incubated in primary antibody solution: 1x PBS containing 0.2 Tween-20, 0.01 mgml Heparin, 5 DMSO, 3 Donkey serum, 1:500 Chicken anti-GFP (Abcam ab13970) and 1:500 Rabbit anti-GFAP (DAKO Z0334) at 37degC with 100 rpm shaking for 3 days.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Samples were then incubated in primary antibody solution: 1x PBS containing 0.2 Tween-20, 0.01 mgml Heparin, 5 DMSO, 3 Donkey serum, 1:500 Chicken anti-GFP (Abcam ab13970) and 1:500 Rabbit anti-GFAP (DAKO Z0334) at 37degC with 100 rpm shaking for 3 days."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GFAP"
+                }],
+              "neText" : "anti-GFAP"
+            }]
+        }, {
+          "sentence" : "Samples were washed 5x overnight in PBS containing 0.2 Tween-20, 0.01 mgml Heparin and incubated in secondary antibody solution containing 1:300 Donkey anti-Chicken AlexaFluor 488 and 1:300 Donkey anti-Rabbit Alexafluor 594 at 37degC with 100 rpm shaking for 2 days.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Samples were washed 5x overnight in PBS containing 0.2 Tween-20, 0.01 mgml Heparin and incubated in secondary antibody solution containing 1:300 Donkey anti-Chicken AlexaFluor 488 and 1:300 Donkey anti-Rabbit Alexafluor 594 at 37degC with 100 rpm shaking for 2 days."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Chicken"
+                }],
+              "neText" : "anti-Chicken"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Rabbit"
+                }],
+              "neText" : "anti-Rabbit"
+            }]
+        }, {
+          "sentence" : "After blocking, cells were incubated in the following antibodies depending on the experiment: Rabbit anti-bIII tubulin (1:500, Tuj1, MMS-435P, Covance), Mouse anti- bIII tubulin (1:500, TUBB3, 801201, BioLegend), chicken anti-GFP (1:500, ab13970, Abcam) Rabbit anti-Red Fluorescent Protein (RFP, 1:1000, 600-401-379, Rockland), Rabbit anti-RIM1 (1:200, 140 003, Synaptic Systems), Rabbit anti-RIM2 (1:200 140 103, Synaptic Systems) andor mouse anti-DDK (FLAG) (1:500, TA50011-100, OriGene) in PBS containing 10 blocking solution at room temperature for 1 h.",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After blocking, cells were incubated in the following antibodies depending on the experiment: Rabbit anti-bIII tubulin (1:500, Tuj1, MMS-435P, Covance), Mouse anti- bIII tubulin (1:500, TUBB3, 801201, BioLegend), chicken anti-GFP (1:500, ab13970, Abcam) Rabbit anti-Red Fluorescent Protein (RFP, 1:1000, 600-401-379, Rockland), Rabbit anti-RIM1 (1:200, 140 003, Synaptic Systems), Rabbit anti-RIM2 (1:200 140 103, Synaptic Systems) andor mouse anti-DDK (FLAG) (1:500, TA50011-100, OriGene) in PBS containing 10 blocking solution at room temperature for 1 h."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "bIII tubulin (1:500, TUBB3, 801201, BioLegend), chicken anti-GFP (1:500, ab13970, Abcam) Rabbit anti-Red Fluorescent Protein (RFP, 1:1000, 600-401-379, Rockland), Rabbit anti-RIM1 (1:200, 140 003, Synaptic Systems), Rabbit anti-RIM2 (1:200 140 103, Synaptic Systems) andor mouse anti-DDK (FLAG) (1:500, TA50011-100, OriGene) in PBS containing 10 blocking solution at room temperature for 1 h."
+                }],
+              "neText" : "bIII tubulin (1:500, TUBB3, 801201, BioLegend), chicken anti-GFP (1:500, ab13970, Abcam) Rabbit anti-Red Fluorescent Protein (RFP, 1:1000, 600-401-379, Rockland), Rabbit anti-RIM1 (1:200, 140 003, Synaptic Systems), Rabbit anti-RIM2 (1:200 140 103, Synaptic Systems) andor mouse anti-DDK (FLAG) (1:500, TA50011-100, OriGene) in PBS containing 10 blocking solution at room temperature for 1 h."
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TUBB3"
+                }],
+              "neText" : "TUBB3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Red Fluorescent Protein (RFP"
+                }],
+              "neText" : "anti-Red Fluorescent Protein (RFP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FLAG"
+                }],
+              "neText" : "FLAG"
+            }]
+        }, {
+          "sentence" : "The following primary antibodies were used: rabbit anti-Munc13-1 (1:1000, Synaptic Systems 126 103), mouse anti-bIII tubulin (1:500, Tuj1, MMS-435P, Covance).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following primary antibodies were used: rabbit anti-Munc13-1 (1:1000, Synaptic Systems 126 103), mouse anti-bIII tubulin (1:500, Tuj1, MMS-435P, Covance)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-bIII tubulin"
+                }],
+              "neText" : "anti-bIII tubulin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Tuj1"
+                }],
+              "neText" : "Tuj1"
+            }]
+        }, {
+          "sentence" : "The following primary antibodies were used: Rabbit anti-RFP (1:1000, 600-401-379, Rockland), chicken anti-GFP (1:500, ab13970, Abcam), Guinea pig anti-NeuN (1:200, ABN90P, Merck Millipore).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following primary antibodies were used: Rabbit anti-RFP (1:1000, 600-401-379, Rockland), chicken anti-GFP (1:500, ab13970, Abcam), Guinea pig anti-NeuN (1:200, ABN90P, Merck Millipore)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GFP"
+                }],
+              "neText" : "anti-GFP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-NeuN"
+                }],
+              "neText" : "anti-NeuN"
+            }]
+        }, {
+          "sentence" : "The samples were then blocked with 5 non-fat milk and 5 normal goat serum in TBS-T or 3 BSA in TBS-T at RT for 40 min, probed with Rabbit anti-Munc13-1, RIM1, RIM2, or Mouse anti-VAMP2 antibody as well as Rabbit anti-TUJ1 antibody at RT for 3 h, washed 3x in TBS-T and incubated with horseradish peroxidase conjugated secondary antibodies (1:20000, GE Healthcare) for 40 min.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The samples were then blocked with 5 non-fat milk and 5 normal goat serum in TBS-T or 3 BSA in TBS-T at RT for 40 min, probed with Rabbit anti-Munc13-1, RIM1, RIM2, or Mouse anti-VAMP2 antibody as well as Rabbit anti-TUJ1 antibody at RT for 3 h, washed 3x in TBS-T and incubated with horseradish peroxidase conjugated secondary antibodies (1:20000, GE Healthcare) for 40 min."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Munc13-1"
+                }],
+              "neText" : "anti-Munc13-1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RIM2"
+                }],
+              "neText" : "RIM2"
+            }]
+        }, {
+          "sentence" : "The following primary antibodies were used: anti-VAMP2 (1:1000, Synaptic Systems 104 211, mouse monoclonal), anti-Munc13-1 (1:2000, Synaptic Systems 126 103, rabbit polyclonal), anti-RIM1 (1:500 Synaptic Systems 140 003, rabbit polyclonal), anti-RIM2 (1:500 Synaptic Systems 140 103, rabbit polyclonal), anti-tuj1 (1:10000, Sigma T2200, rabbit polyclonal).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following primary antibodies were used: anti-VAMP2 (1:1000, Synaptic Systems 104 211, mouse monoclonal), anti-Munc13-1 (1:2000, Synaptic Systems 126 103, rabbit polyclonal), anti-RIM1 (1:500 Synaptic Systems 140 003, rabbit polyclonal), anti-RIM2 (1:500 Synaptic Systems 140 103, rabbit polyclonal), anti-tuj1 (1:10000, Sigma T2200, rabbit polyclonal)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-VAMP2"
+                }],
+              "neText" : "anti-VAMP2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-RIM1"
+                }],
+              "neText" : "anti-RIM1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Cre.mCherry SignaGen SL101117 AAV5.hSyn.hM4D(Gi)-mCherry A gift from Bryan Roth Addgene 50475-AAV5 AAV1.CMV-TeNT-LC-P2A-mCherry Sirion Biotech NA Chemicals, peptides, and recombinant proteins HBSS GIBCO 14025-053 HEPES GIBCO 15630-56 DMEMF-12, HEPES Life Technologies 11330032 Fetal bovine serum Thermo Scientific Cat10500064 PenicillinSteptomycin (PenStrep) antibiotics GIBCO 15140122 Collagenase IV Sigma C1889 Trypsin Worthington LS003703 DNase Worthington LS002007 Neurobasal medium GIBCO 12349-015 B-27 supplement GIBCO 17504-044 L-glutamine GIBCO 25030-024 Bovine serum albumin Sigma A3294 Horse serum Pan Biotech P30-0712 Poly-L-lysine Sigma P2636 Laminin Roche 11243217001 Phosphate buffer solution 0.1 M Sigma P5244 Phosphate buffered saline (PBS) AppliChem A0965,9050 Sucrose Fluka 84100 Paraformaldehyde Merck Millipore 104005 Dimethyl sulfoxide (DMSO) Sigma D5879 Fluoromount Sigma F4680-25 Phosphatase inhibitor Roche 04906837001 Protease inhibitor Roche 11836170001 Bradford reagent AppliChem A6932 Ponceau S AppliChem A2935 FastGreen Sigma 68724 Goat serum Invitrogen 16210064 Donkey serum Jackson ImmunoReasearch JIM-017-000-121 Triton X-100 Sigma X100 Baclofen Sigma B5399 Pregabalin Tocris 3775 Critical commercial assays P3 Primary Cell 4D X Kit S (32 RCT) Lonza V4XP-3032 ECL SuperSignal Dura West Thermo Fisher Scientific 10220294 ECL SuperSignal Pico West Thermo Fisher Scientific 15513766 Experimental models: Organismsstrains Mouse: Munc13-1flfl Banerjee et al., 2020 NA Mouse: Munc13-2-- (unc13btm1Rmnd) Varoqueaux et al., 2002 RRID: IMSR_EM:11739 Mouse: Munc13-3-- (unc13ctm1Bros) Augustin et al., 2001 RRID: IMSR_EM:11617 Mouse: RIM1flfl Kaeser et al., 2008 RRID: JAX:015832 Mouse: RIM2flfl Kaeser et al., 2011 RRID: IMSR_JAX:01 5833 Mouse: iBOT Slezak et al., 2012 RRID: IMSR_JAX:018056 Recombinant DNA ef1a-GFP-RIM1a Muller et al., 2020 NA pmaxGFP Lonza CatV4XP-3024 Unc13a (Myc-DDK-tagged) Origene MR225156 Munc13-1-H567K Betz et al., 1998 NA Munc13-1-DN Shin et al., 2010 NA Munc13-1-W464R Lipstein et al., 2013 NA pCSCMV:tdTomato Waldner et al., 2009 Addgene  30530 Software and algorithms ImageJ NIH, USA NA AxioVision Zeiss NA ZEN Zeiss NA SoftWoRx 3.5.0 Applied Precision NA MetaMorph Microscopy Automation and Image Analysis Software Molecular Devices NA Imaris 9.1 Bitplane NA Other 35 mm glass bottom dish, No. 1.5 Coverslip, 20 mm, Uncoated MatTek CatP35G-1.5-20-C 6-well plates Thermo Scientific Cat140675 4-well plates Thermo Scientific Cat179820 13 mm coverslip Marienfeld Cat01-11530 Immobilon-PSQ PVDF Membrane Millipore CatISEQ00010 X-ray film Thermo Scientific Cat34076 ImmEdge pen Vector laboratories CatH-4000 Fluorescence microscope Zeiss Axio Observer D1 Live cell microscope Applied Precision DeltaVision RT Confocal microscope Zeiss LSM700 2-photon microscope Zeiss LSM 7MP Super-Resolution confocal microscope Zeiss LSM980 Photometrics CoolSnap HQ camera Roper Scientific NA CCD camera Zeiss NA Heating System Ibidi Cat10918 Heating Insert m-Dish 35 mm high for ibidi Heating System Ibidi Cat10934 Gas Incubation System for CO2 Life Imaging Services NA Cryostat Leica CM3050S CaWomat Cawo 2000IR Pneumatic picopump (picospritzer) WPI CatSYS-PV820 Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Frank Bradke (frank.bradkedzne.de).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cre.mCherry SignaGen SL101117 AAV5.hSyn.hM4D(Gi)-mCherry A gift from Bryan Roth Addgene 50475-AAV5 AAV1.CMV-TeNT-LC-P2A-mCherry Sirion Biotech NA Chemicals, peptides, and recombinant proteins HBSS GIBCO 14025-053 HEPES GIBCO 15630-56 DMEMF-12, HEPES Life Technologies 11330032 Fetal bovine serum Thermo Scientific Cat10500064 PenicillinSteptomycin (PenStrep) antibiotics GIBCO 15140122 Collagenase IV Sigma C1889 Trypsin Worthington LS003703 DNase Worthington LS002007 Neurobasal medium GIBCO 12349-015 B-27 supplement GIBCO 17504-044 L-glutamine GIBCO 25030-024 Bovine serum albumin Sigma A3294 Horse serum Pan Biotech P30-0712 Poly-L-lysine Sigma P2636 Laminin Roche 11243217001 Phosphate buffer solution 0.1 M Sigma P5244 Phosphate buffered saline (PBS) AppliChem A0965,9050 Sucrose Fluka 84100 Paraformaldehyde Merck Millipore 104005 Dimethyl sulfoxide (DMSO) Sigma D5879 Fluoromount Sigma F4680-25 Phosphatase inhibitor Roche 04906837001 Protease inhibitor Roche 11836170001 Bradford reagent AppliChem A6932 Ponceau S AppliChem A2935 FastGreen Sigma 68724 Goat serum Invitrogen 16210064 Donkey serum Jackson ImmunoReasearch JIM-017-000-121 Triton X-100 Sigma X100 Baclofen Sigma B5399 Pregabalin Tocris 3775 Critical commercial assays P3 Primary Cell 4D X Kit S (32 RCT) Lonza V4XP-3032 ECL SuperSignal Dura West Thermo Fisher Scientific 10220294 ECL SuperSignal Pico West Thermo Fisher Scientific 15513766 Experimental models: Organismsstrains Mouse: Munc13-1flfl Banerjee et al., 2020 NA Mouse: Munc13-2-- (unc13btm1Rmnd) Varoqueaux et al., 2002 RRID: IMSR_EM:11739 Mouse: Munc13-3-- (unc13ctm1Bros) Augustin et al., 2001 RRID: IMSR_EM:11617 Mouse: RIM1flfl Kaeser et al., 2008 RRID: JAX:015832 Mouse: RIM2flfl Kaeser et al., 2011 RRID: IMSR_JAX:01 5833 Mouse: iBOT Slezak et al., 2012 RRID: IMSR_JAX:018056 Recombinant DNA ef1a-GFP-RIM1a Muller et al., 2020 NA pmaxGFP Lonza CatV4XP-3024 Unc13a (Myc-DDK-tagged) Origene MR225156 Munc13-1-H567K Betz et al., 1998 NA Munc13-1-DN Shin et al., 2010 NA Munc13-1-W464R Lipstein et al., 2013 NA pCSCMV:tdTomato Waldner et al., 2009 Addgene  30530 Software and algorithms ImageJ NIH, USA NA AxioVision Zeiss NA ZEN Zeiss NA SoftWoRx 3.5.0 Applied Precision NA MetaMorph Microscopy Automation and Image Analysis Software Molecular Devices NA Imaris 9.1 Bitplane NA Other 35 mm glass bottom dish, No. 1.5 Coverslip, 20 mm, Uncoated MatTek CatP35G-1.5-20-C 6-well plates Thermo Scientific Cat140675 4-well plates Thermo Scientific Cat179820 13 mm coverslip Marienfeld Cat01-11530 Immobilon-PSQ PVDF Membrane Millipore CatISEQ00010 X-ray film Thermo Scientific Cat34076 ImmEdge pen Vector laboratories CatH-4000 Fluorescence microscope Zeiss Axio Observer D1 Live cell microscope Applied Precision DeltaVision RT Confocal microscope Zeiss LSM700 2-photon microscope Zeiss LSM 7MP Super-Resolution confocal microscope Zeiss LSM980 Photometrics CoolSnap HQ camera Roper Scientific NA CCD camera Zeiss NA Heating System Ibidi Cat10918 Heating Insert m-Dish 35 mm high for ibidi Heating System Ibidi Cat10934 Gas Incubation System for CO2 Life Imaging Services NA Cryostat Leica CM3050S CaWomat Cawo 2000IR Pneumatic picopump (picospritzer) WPI CatSYS-PV820 Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Frank Bradke (frank.bradkedzne.de)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "RRID:IMSR_EM:11739",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Munc13-2-- unc13btm1Rmnd"
+                }],
+              "neText" : "Munc13-2-- unc13btm1Rmnd"
+            }, {
+              "source" : "",
+              "rrid" : "RRID:IMSR_EM:11617",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Munc13-3-- unc13ctm1Bros"
+                }],
+              "neText" : "Munc13-3-- unc13ctm1Bros"
+            }, {
+              "source" : "",
+              "rrid" : "RRID:IMSR_JAX:018056",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "iBOT"
+                }],
+              "neText" : "iBOT"
+            }]
+        }, {
+          "sentence" : "Adult female wild-type (WT, C57BL6J, Charles River) and transgenic mice of both sexes (8-12 weeks old) were used.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Adult female wild-type (WT, C57BL6J, Charles River) and transgenic mice of both sexes (8-12 weeks old) were used."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6J"
+                }],
+              "neText" : "C57BL6J"
+            }]
+        }, {
+          "sentence" : "Conditional Munc13-1 KO mice were generated by introducing loxP sites upstream and downstream of exon 21 of the Munc13-1 gene in embryonic stem cells by homologous recombination and Munc13-1flfl mice were crossed onto a homozygous Munc13-2 KO (Varoqueaux et al., 2002) and Munc13-3 KO (Augustin et al., 2001) background as previously described in detail (Banerjee et al., 2020). iBOT B6.FVB-Tg(CAG-boNTB,-EGFP)U75-56FwpJ mice were purchased from the Jackson Laboratories (018056).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Conditional Munc13-1 KO mice were generated by introducing loxP sites upstream and downstream of exon 21 of the Munc13-1 gene in embryonic stem cells by homologous recombination and Munc13-1flfl mice were crossed onto a homozygous Munc13-2 KO (Varoqueaux et al., 2002) and Munc13-3 KO (Augustin et al., 2001) background as previously described in detail (Banerjee et al., 2020). iBOT B6.FVB-Tg(CAG-boNTB,-EGFP)U75-56FwpJ mice were purchased from the Jackson Laboratories (018056)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Munc13-1flfl"
+                }],
+              "neText" : "Munc13-1flfl"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "iBOT B6.FVB-Tg(CAG-boNTB,-EGFP)U75-56FwpJ"
+                }],
+              "neText" : "iBOT B6.FVB-Tg(CAG-boNTB,-EGFP)U75-56FwpJ"
+            }]
+        }, {
+          "sentence" : "RIM1flflRIM2flfl mice were provided by the coauthors Prof. Dr. Susanne Schoch-McGovern and Dr. Johannes Alexander Muller.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RIM1flflRIM2flfl mice were provided by the coauthors Prof. Dr. Susanne Schoch-McGovern and Dr. Johannes Alexander Muller."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RIM1flflRIM2flfl"
+                }],
+              "neText" : "RIM1flflRIM2flfl"
+            }]
+        }, {
+          "sentence" : "AAV1.CMV.HI.eGFP-Cre.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "AAV1.CMV.HI.eGFP-Cre."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AAV1.CMV.HI.eGFP-Cre"
+                }],
+              "neText" : "AAV1.CMV.HI.eGFP-Cre"
+            }]
+        }, {
+          "sentence" : "For the Munc13-KO in vivo experiment, AAV-Cre-GFP was co-injected with AAV-GFP (1:1 mixture) or AAV-GFP alone was injected into the left sciatic nerves of Munc13-1flfl Munc13-2KOKO Munc13-3KOKO mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For the Munc13-KO in vivo experiment, AAV-Cre-GFP was co-injected with AAV-GFP (1:1 mixture) or AAV-GFP alone was injected into the left sciatic nerves of Munc13-1flfl Munc13-2KOKO Munc13-3KOKO mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Munc13-1flfl Munc13-2KOKO Munc13-3KOKO"
+                }],
+              "neText" : "Munc13-1flfl Munc13-2KOKO Munc13-3KOKO"
+            }]
+        }, {
+          "sentence" : "TeLC.P2A.dTomato (gift from Sandeep Datta Addgene plasmid 159102 http:addgene.org159102 RRID:Addgene_159102 Pashkovski et al., 2020 forward primer: CCTTTCTCTCCACAGGTGTCCAGG CATGCCGATCACCATCAACAACTT CC reverse primer: GTTATCCTCCTCGCCCTTGCTCAC CATAGGACCGGGGTTTTC).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "TeLC.P2A.dTomato (gift from Sandeep Datta Addgene plasmid 159102 http:addgene.org159102 RRID:Addgene_159102 Pashkovski et al., 2020 forward primer: CCTTTCTCTCCACAGGTGTCCAGG CATGCCGATCACCATCAACAACTT CC reverse primer: GTTATCCTCCTCGCCCTTGCTCAC CATAGGACCGGGGTTTTC)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TeLC.P2A.dTomato"
+                }],
+              "neText" : "TeLC.P2A.dTomato"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "AAV5-hSyn-hM4D(Gi)-mCherry was a gift from Bryan Roth (Addgene plasmid  50475-AAV5  http:addgene.org50475 RRID:Addgene_50475).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "AAV5-hSyn-hM4D(Gi)-mCherry was a gift from Bryan Roth (Addgene plasmid  50475-AAV5  http:addgene.org50475 RRID:Addgene_50475)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "RRID:Addgene_50475",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "AAV5-CAG-tdTomato (codon diversified) was a gift from Edward Boyden (Addgene plasmid  59462-AAV5 http:addgene.org59462 RRID:Addgene_59462).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "AAV5-CAG-tdTomato (codon diversified) was a gift from Edward Boyden (Addgene plasmid  59462-AAV5 http:addgene.org59462 RRID:Addgene_59462)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "RRID:Addgene_59462",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "Wilson (Addgene plasmid 105530-AAV1  http:addgene.org105545 RRID:Addgene_105530).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Wilson (Addgene plasmid 105530-AAV1  http:addgene.org105545 RRID:Addgene_105530)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "RRID:Addgene_105530",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "Wilson (Addgene plasmid 105545-AAV1 http:addgene:105545 RRID:Addgene_105545).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Wilson (Addgene plasmid 105545-AAV1 http:addgene:105545 RRID:Addgene_105545)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "RRID:Addgene_105545",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "TeNT-P2A-mCherry construct pAAV.CMV.PI.TeTxLC.P2A.mCherry.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "TeNT-P2A-mCherry construct pAAV.CMV.PI.TeTxLC.P2A.mCherry."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pAAV.CMV.PI.TeTxLC.P2A.mCherry"
+                }],
+              "neText" : "pAAV.CMV.PI.TeTxLC.P2A.mCherry"
+            }]
+        }, {
+          "sentence" : "WPRE.bGH was cloned using pAAV.CMV.PI.EGFP.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "WPRE.bGH was cloned using pAAV.CMV.PI.EGFP."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pAAV.CMV.PI.EGFP"
+                }],
+              "neText" : "pAAV.CMV.PI.EGFP"
+            }]
+        }, {
+          "sentence" : "TeTxLC-P2A was amplified with upstream overhanging ends from the backbone in the forward primer (CCTTTCTCTCCACAGGTGTCCAG GC) and downstream overhanging ends for mCherry in the reverse primer (GTTATCCTCCTCGCCCTTGCTCA CCAT) from pAAV.hSyn.FLEX.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "TeTxLC-P2A was amplified with upstream overhanging ends from the backbone in the forward primer (CCTTTCTCTCCACAGGTGTCCAG GC) and downstream overhanging ends for mCherry in the reverse primer (GTTATCCTCCTCGCCCTTGCTCA CCAT) from pAAV.hSyn.FLEX."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pAAV.hSyn.FLEX"
+                }],
+              "neText" : "pAAV.hSyn.FLEX"
+            }]
+        }, {
+          "sentence" : "TeLC.P2A.dTomato (gift from Sandeep Datta Addgene plasmid 159102 http:addgene.org159102 RRID:Addgene_159102 Pashkovski et al., 2020 forward primer: CCTTTCTCTCCACAGGTGTCCAGG CATGCCGATCACCATCAACAACTT CC reverse primer: GTTATCCTCCTCGCCCTTGCTCAC CATAGGACCGGGGTTTTC).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "TeLC.P2A.dTomato (gift from Sandeep Datta Addgene plasmid 159102 http:addgene.org159102 RRID:Addgene_159102 Pashkovski et al., 2020 forward primer: CCTTTCTCTCCACAGGTGTCCAGG CATGCCGATCACCATCAACAACTT CC reverse primer: GTTATCCTCCTCGCCCTTGCTCAC CATAGGACCGGGGTTTTC)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "RRID:Addgene_159102",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "Dissociated DRG neurons were electroporated with sequence verified CMV-tdTomato (4 mg Addgene plasmid  30530 http:addgene.org30530 RRID:Addgene_30530), pmaxGFP (4 mG, Lonza  V4XP-3024), CMV-Munc13-1-DDK (4 mg Origene plasmid MR225156), CMV-Munc13-1-DN-GFP (4 mg), CMV-Munc13-1-H567K-GFP (4 mg), or CMV-Munc13-1-W464R-GFP (4 mg) expressing plasmid DNA.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Dissociated DRG neurons were electroporated with sequence verified CMV-tdTomato (4 mg Addgene plasmid  30530 http:addgene.org30530 RRID:Addgene_30530), pmaxGFP (4 mG, Lonza  V4XP-3024), CMV-Munc13-1-DDK (4 mg Origene plasmid MR225156), CMV-Munc13-1-DN-GFP (4 mg), CMV-Munc13-1-H567K-GFP (4 mg), or CMV-Munc13-1-W464R-GFP (4 mg) expressing plasmid DNA."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "RRID:Addgene_30530",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Cre.mCherry SignaGen SL101117 AAV5.hSyn.hM4D(Gi)-mCherry A gift from Bryan Roth Addgene 50475-AAV5 AAV1.CMV-TeNT-LC-P2A-mCherry Sirion Biotech NA Chemicals, peptides, and recombinant proteins HBSS GIBCO 14025-053 HEPES GIBCO 15630-56 DMEMF-12, HEPES Life Technologies 11330032 Fetal bovine serum Thermo Scientific Cat10500064 PenicillinSteptomycin (PenStrep) antibiotics GIBCO 15140122 Collagenase IV Sigma C1889 Trypsin Worthington LS003703 DNase Worthington LS002007 Neurobasal medium GIBCO 12349-015 B-27 supplement GIBCO 17504-044 L-glutamine GIBCO 25030-024 Bovine serum albumin Sigma A3294 Horse serum Pan Biotech P30-0712 Poly-L-lysine Sigma P2636 Laminin Roche 11243217001 Phosphate buffer solution 0.1 M Sigma P5244 Phosphate buffered saline (PBS) AppliChem A0965,9050 Sucrose Fluka 84100 Paraformaldehyde Merck Millipore 104005 Dimethyl sulfoxide (DMSO) Sigma D5879 Fluoromount Sigma F4680-25 Phosphatase inhibitor Roche 04906837001 Protease inhibitor Roche 11836170001 Bradford reagent AppliChem A6932 Ponceau S AppliChem A2935 FastGreen Sigma 68724 Goat serum Invitrogen 16210064 Donkey serum Jackson ImmunoReasearch JIM-017-000-121 Triton X-100 Sigma X100 Baclofen Sigma B5399 Pregabalin Tocris 3775 Critical commercial assays P3 Primary Cell 4D X Kit S (32 RCT) Lonza V4XP-3032 ECL SuperSignal Dura West Thermo Fisher Scientific 10220294 ECL SuperSignal Pico West Thermo Fisher Scientific 15513766 Experimental models: Organismsstrains Mouse: Munc13-1flfl Banerjee et al., 2020 NA Mouse: Munc13-2-- (unc13btm1Rmnd) Varoqueaux et al., 2002 RRID: IMSR_EM:11739 Mouse: Munc13-3-- (unc13ctm1Bros) Augustin et al., 2001 RRID: IMSR_EM:11617 Mouse: RIM1flfl Kaeser et al., 2008 RRID: JAX:015832 Mouse: RIM2flfl Kaeser et al., 2011 RRID: IMSR_JAX:01 5833 Mouse: iBOT Slezak et al., 2012 RRID: IMSR_JAX:018056 Recombinant DNA ef1a-GFP-RIM1a Muller et al., 2020 NA pmaxGFP Lonza CatV4XP-3024 Unc13a (Myc-DDK-tagged) Origene MR225156 Munc13-1-H567K Betz et al., 1998 NA Munc13-1-DN Shin et al., 2010 NA Munc13-1-W464R Lipstein et al., 2013 NA pCSCMV:tdTomato Waldner et al., 2009 Addgene  30530 Software and algorithms ImageJ NIH, USA NA AxioVision Zeiss NA ZEN Zeiss NA SoftWoRx 3.5.0 Applied Precision NA MetaMorph Microscopy Automation and Image Analysis Software Molecular Devices NA Imaris 9.1 Bitplane NA Other 35 mm glass bottom dish, No. 1.5 Coverslip, 20 mm, Uncoated MatTek CatP35G-1.5-20-C 6-well plates Thermo Scientific Cat140675 4-well plates Thermo Scientific Cat179820 13 mm coverslip Marienfeld Cat01-11530 Immobilon-PSQ PVDF Membrane Millipore CatISEQ00010 X-ray film Thermo Scientific Cat34076 ImmEdge pen Vector laboratories CatH-4000 Fluorescence microscope Zeiss Axio Observer D1 Live cell microscope Applied Precision DeltaVision RT Confocal microscope Zeiss LSM700 2-photon microscope Zeiss LSM 7MP Super-Resolution confocal microscope Zeiss LSM980 Photometrics CoolSnap HQ camera Roper Scientific NA CCD camera Zeiss NA Heating System Ibidi Cat10918 Heating Insert m-Dish 35 mm high for ibidi Heating System Ibidi Cat10934 Gas Incubation System for CO2 Life Imaging Services NA Cryostat Leica CM3050S CaWomat Cawo 2000IR Pneumatic picopump (picospritzer) WPI CatSYS-PV820 Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Frank Bradke (frank.bradkedzne.de).",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cre.mCherry SignaGen SL101117 AAV5.hSyn.hM4D(Gi)-mCherry A gift from Bryan Roth Addgene 50475-AAV5 AAV1.CMV-TeNT-LC-P2A-mCherry Sirion Biotech NA Chemicals, peptides, and recombinant proteins HBSS GIBCO 14025-053 HEPES GIBCO 15630-56 DMEMF-12, HEPES Life Technologies 11330032 Fetal bovine serum Thermo Scientific Cat10500064 PenicillinSteptomycin (PenStrep) antibiotics GIBCO 15140122 Collagenase IV Sigma C1889 Trypsin Worthington LS003703 DNase Worthington LS002007 Neurobasal medium GIBCO 12349-015 B-27 supplement GIBCO 17504-044 L-glutamine GIBCO 25030-024 Bovine serum albumin Sigma A3294 Horse serum Pan Biotech P30-0712 Poly-L-lysine Sigma P2636 Laminin Roche 11243217001 Phosphate buffer solution 0.1 M Sigma P5244 Phosphate buffered saline (PBS) AppliChem A0965,9050 Sucrose Fluka 84100 Paraformaldehyde Merck Millipore 104005 Dimethyl sulfoxide (DMSO) Sigma D5879 Fluoromount Sigma F4680-25 Phosphatase inhibitor Roche 04906837001 Protease inhibitor Roche 11836170001 Bradford reagent AppliChem A6932 Ponceau S AppliChem A2935 FastGreen Sigma 68724 Goat serum Invitrogen 16210064 Donkey serum Jackson ImmunoReasearch JIM-017-000-121 Triton X-100 Sigma X100 Baclofen Sigma B5399 Pregabalin Tocris 3775 Critical commercial assays P3 Primary Cell 4D X Kit S (32 RCT) Lonza V4XP-3032 ECL SuperSignal Dura West Thermo Fisher Scientific 10220294 ECL SuperSignal Pico West Thermo Fisher Scientific 15513766 Experimental models: Organismsstrains Mouse: Munc13-1flfl Banerjee et al., 2020 NA Mouse: Munc13-2-- (unc13btm1Rmnd) Varoqueaux et al., 2002 RRID: IMSR_EM:11739 Mouse: Munc13-3-- (unc13ctm1Bros) Augustin et al., 2001 RRID: IMSR_EM:11617 Mouse: RIM1flfl Kaeser et al., 2008 RRID: JAX:015832 Mouse: RIM2flfl Kaeser et al., 2011 RRID: IMSR_JAX:01 5833 Mouse: iBOT Slezak et al., 2012 RRID: IMSR_JAX:018056 Recombinant DNA ef1a-GFP-RIM1a Muller et al., 2020 NA pmaxGFP Lonza CatV4XP-3024 Unc13a (Myc-DDK-tagged) Origene MR225156 Munc13-1-H567K Betz et al., 1998 NA Munc13-1-DN Shin et al., 2010 NA Munc13-1-W464R Lipstein et al., 2013 NA pCSCMV:tdTomato Waldner et al., 2009 Addgene  30530 Software and algorithms ImageJ NIH, USA NA AxioVision Zeiss NA ZEN Zeiss NA SoftWoRx 3.5.0 Applied Precision NA MetaMorph Microscopy Automation and Image Analysis Software Molecular Devices NA Imaris 9.1 Bitplane NA Other 35 mm glass bottom dish, No. 1.5 Coverslip, 20 mm, Uncoated MatTek CatP35G-1.5-20-C 6-well plates Thermo Scientific Cat140675 4-well plates Thermo Scientific Cat179820 13 mm coverslip Marienfeld Cat01-11530 Immobilon-PSQ PVDF Membrane Millipore CatISEQ00010 X-ray film Thermo Scientific Cat34076 ImmEdge pen Vector laboratories CatH-4000 Fluorescence microscope Zeiss Axio Observer D1 Live cell microscope Applied Precision DeltaVision RT Confocal microscope Zeiss LSM700 2-photon microscope Zeiss LSM 7MP Super-Resolution confocal microscope Zeiss LSM980 Photometrics CoolSnap HQ camera Roper Scientific NA CCD camera Zeiss NA Heating System Ibidi Cat10918 Heating Insert m-Dish 35 mm high for ibidi Heating System Ibidi Cat10934 Gas Incubation System for CO2 Life Imaging Services NA Cryostat Leica CM3050S CaWomat Cawo 2000IR Pneumatic picopump (picospritzer) WPI CatSYS-PV820 Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Frank Bradke (frank.bradkedzne.de)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GIBCO"
+                }],
+              "neText" : "GIBCO"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "AxioVision, RRID:SCR_002677",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AxioVision"
+                }],
+              "neText" : "AxioVision"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image Analysis"
+                }],
+              "neText" : "Image Analysis"
+            }]
+        }, {
+          "sentence" : "The left sciatic nerve was exposed at the mid-thigh level, ligated with Ethilon 5-0 suture and cut with Iris scissors distal to the ligation site.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The left sciatic nerve was exposed at the mid-thigh level, ligated with Ethilon 5-0 suture and cut with Iris scissors distal to the ligation site."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Iris"
+                }],
+              "neText" : "Iris"
+            }]
+        }, {
+          "sentence" : "After blocking, cells were incubated in the following antibodies depending on the experiment: Rabbit anti-bIII tubulin (1:500, Tuj1, MMS-435P, Covance), Mouse anti- bIII tubulin (1:500, TUBB3, 801201, BioLegend), chicken anti-GFP (1:500, ab13970, Abcam) Rabbit anti-Red Fluorescent Protein (RFP, 1:1000, 600-401-379, Rockland), Rabbit anti-RIM1 (1:200, 140 003, Synaptic Systems), Rabbit anti-RIM2 (1:200 140 103, Synaptic Systems) andor mouse anti-DDK (FLAG) (1:500, TA50011-100, OriGene) in PBS containing 10 blocking solution at room temperature for 1 h.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After blocking, cells were incubated in the following antibodies depending on the experiment: Rabbit anti-bIII tubulin (1:500, Tuj1, MMS-435P, Covance), Mouse anti- bIII tubulin (1:500, TUBB3, 801201, BioLegend), chicken anti-GFP (1:500, ab13970, Abcam) Rabbit anti-Red Fluorescent Protein (RFP, 1:1000, 600-401-379, Rockland), Rabbit anti-RIM1 (1:200, 140 003, Synaptic Systems), Rabbit anti-RIM2 (1:200 140 103, Synaptic Systems) andor mouse anti-DDK (FLAG) (1:500, TA50011-100, OriGene) in PBS containing 10 blocking solution at room temperature for 1 h."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Synaptic Systems"
+                }],
+              "neText" : "Synaptic Systems"
+            }]
+        }, {
+          "sentence" : "Cells were then washed 3x with PBS, washed once with dH2O, dried, and mounted in Fluouromount (Sigma) on microscope slides.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were then washed 3x with PBS, washed once with dH2O, dried, and mounted in Fluouromount (Sigma) on microscope slides."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "The normalization of original expression matrix and differential gene expression analysis were conducted using DESeq2 (Love et al., 2014).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The normalization of original expression matrix and differential gene expression analysis were conducted using DESeq2 (Love et al., 2014)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq2"
+                }],
+              "neText" : "DESeq2"
+            }]
+        }, {
+          "sentence" : "Gene ontology enrichment analysis was performed on the genes found to be upregulated at E17.5 versus E12.5 and downregulated at 36 h in culture versus 6 h in culture using clusterProfiler (Yu et al., 2012).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gene ontology enrichment analysis was performed on the genes found to be upregulated at E17.5 versus E12.5 and downregulated at 36 h in culture versus 6 h in culture using clusterProfiler (Yu et al., 2012)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "clusterProfiler (RRID:SCR_016884)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "clusterProfiler"
+                }],
+              "neText" : "clusterProfiler"
+            }]
+        }, {
+          "sentence" : "The above analysis and data visualization were conducted in R version 4.0.0 (https:www.r-project.org).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The above analysis and data visualization were conducted in R version 4.0.0 (https:www.r-project.org)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.r-project.org"
+                }],
+              "neText" : "https:www.r-project.org"
+            }]
+        }, {
+          "sentence" : "3D cell volume was calculated by using Imaris Surface function based on Tuj1 immunoreactivity.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "3D cell volume was calculated by using Imaris Surface function based on Tuj1 immunoreactivity."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Imaris"
+                }],
+              "neText" : "Imaris"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Except when indicated, statistical tests were performed using GraphPad Prism version 8.0 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Except when indicated, statistical tests were performed using GraphPad Prism version 8.0 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }, {
+          "sentence" : "For in vivo regeneration experiments, statistical analysis was performed by permutation test using a custom script implemented in Python (2.7.3 version) (https:pypi.orgpypipermutation_test).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For in vivo regeneration experiments, statistical analysis was performed by permutation test using a custom script implemented in Python (2.7.3 version) (https:pypi.orgpypipermutation_test)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Python"
+                }],
+              "neText" : "Python"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Spinal cord injury (SCI) Mice were anesthetized via intraperitoneal injection of ketamine (100 mgkg body weight) and xylazine (10 mgkg body weight).",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Spinal cord injury (SCI) Mice were anesthetized via intraperitoneal injection of ketamine (100 mgkg body weight) and xylazine (10 mgkg body weight)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Mice with incomplete lesions based on axon morphology and the absence of a GFAP- area were excluded from analysis.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice with incomplete lesions based on axon morphology and the absence of a GFAP- area were excluded from analysis."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Adult female wild-type (WT, C57BL6J, Charles River) and transgenic mice of both sexes (8-12 weeks old) were used.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Adult female wild-type (WT, C57BL6J, Charles River) and transgenic mice of both sexes (8-12 weeks old) were used."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Adult female wild-type (WT, C57BL6J, Charles River) and transgenic mice of both sexes (8-12 weeks old) were used.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Adult female wild-type (WT, C57BL6J, Charles River) and transgenic mice of both sexes (8-12 weeks old) were used."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Animals were randomized into treatment and control groups and analyses were conducted blinded to treatment group.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals were randomized into treatment and control groups and analyses were conducted blinded to treatment group."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Animals were randomized into treatment and control groups and analyses were conducted blinded to treatment group.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals were randomized into treatment and control groups and analyses were conducted blinded to treatment group."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Genes encompassed in the Gene Ontology (GO):0045202 term synapse (n = 1459) were quantified and triplicate experiments were statistically compared at 06h versus 36 h in culture.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Genes encompassed in the Gene Ontology (GO):0045202 term synapse (n = 1459) were quantified and triplicate experiments were statistically compared at 06h versus 36 h in culture."
+              }],
+            "mention" : {
+              "neText" : "experiments",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "experiments"
+                }]
+            }
+          }, {
+            "sentence" : "Genes encompassed in the Gene Ontology (GO):0045202 term synapse (n = 1459) were quantified and triplicate experiments were statistically compared at 06h versus 36 h in culture.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Genes encompassed in the Gene Ontology (GO):0045202 term synapse (n = 1459) were quantified and triplicate experiments were statistically compared at 06h versus 36 h in culture."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Materials availability All uniquestable reagents generated in this study are available from the lead contact without restriction.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials availability All uniquestable reagents generated in this study are available from the lead contact without restriction."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "Cre.mCherry SignaGen SL101117 AAV5.hSyn.hM4D(Gi)-mCherry A gift from Bryan Roth Addgene 50475-AAV5 AAV1.CMV-TeNT-LC-P2A-mCherry Sirion Biotech NA Chemicals, peptides, and recombinant proteins HBSS GIBCO 14025-053 HEPES GIBCO 15630-56 DMEMF-12, HEPES Life Technologies 11330032 Fetal bovine serum Thermo Scientific Cat10500064 PenicillinSteptomycin (PenStrep) antibiotics GIBCO 15140122 Collagenase IV Sigma C1889 Trypsin Worthington LS003703 DNase Worthington LS002007 Neurobasal medium GIBCO 12349-015 B-27 supplement GIBCO 17504-044 L-glutamine GIBCO 25030-024 Bovine serum albumin Sigma A3294 Horse serum Pan Biotech P30-0712 Poly-L-lysine Sigma P2636 Laminin Roche 11243217001 Phosphate buffer solution 0.1 M Sigma P5244 Phosphate buffered saline (PBS) AppliChem A0965,9050 Sucrose Fluka 84100 Paraformaldehyde Merck Millipore 104005 Dimethyl sulfoxide (DMSO) Sigma D5879 Fluoromount Sigma F4680-25 Phosphatase inhibitor Roche 04906837001 Protease inhibitor Roche 11836170001 Bradford reagent AppliChem A6932 Ponceau S AppliChem A2935 FastGreen Sigma 68724 Goat serum Invitrogen 16210064 Donkey serum Jackson ImmunoReasearch JIM-017-000-121 Triton X-100 Sigma X100 Baclofen Sigma B5399 Pregabalin Tocris 3775 Critical commercial assays P3 Primary Cell 4D X Kit S (32 RCT) Lonza V4XP-3032 ECL SuperSignal Dura West Thermo Fisher Scientific 10220294 ECL SuperSignal Pico West Thermo Fisher Scientific 15513766 Experimental models: Organismsstrains Mouse: Munc13-1flfl Banerjee et al., 2020 NA Mouse: Munc13-2-- (unc13btm1Rmnd) Varoqueaux et al., 2002 RRID: IMSR_EM:11739 Mouse: Munc13-3-- (unc13ctm1Bros) Augustin et al., 2001 RRID: IMSR_EM:11617 Mouse: RIM1flfl Kaeser et al., 2008 RRID: JAX:015832 Mouse: RIM2flfl Kaeser et al., 2011 RRID: IMSR_JAX:01 5833 Mouse: iBOT Slezak et al., 2012 RRID: IMSR_JAX:018056 Recombinant DNA ef1a-GFP-RIM1a Muller et al., 2020 NA pmaxGFP Lonza CatV4XP-3024 Unc13a (Myc-DDK-tagged) Origene MR225156 Munc13-1-H567K Betz et al., 1998 NA Munc13-1-DN Shin et al., 2010 NA Munc13-1-W464R Lipstein et al., 2013 NA pCSCMV:tdTomato Waldner et al., 2009 Addgene  30530 Software and algorithms ImageJ NIH, USA NA AxioVision Zeiss NA ZEN Zeiss NA SoftWoRx 3.5.0 Applied Precision NA MetaMorph Microscopy Automation and Image Analysis Software Molecular Devices NA Imaris 9.1 Bitplane NA Other 35 mm glass bottom dish, No. 1.5 Coverslip, 20 mm, Uncoated MatTek CatP35G-1.5-20-C 6-well plates Thermo Scientific Cat140675 4-well plates Thermo Scientific Cat179820 13 mm coverslip Marienfeld Cat01-11530 Immobilon-PSQ PVDF Membrane Millipore CatISEQ00010 X-ray film Thermo Scientific Cat34076 ImmEdge pen Vector laboratories CatH-4000 Fluorescence microscope Zeiss Axio Observer D1 Live cell microscope Applied Precision DeltaVision RT Confocal microscope Zeiss LSM700 2-photon microscope Zeiss LSM 7MP Super-Resolution confocal microscope Zeiss LSM980 Photometrics CoolSnap HQ camera Roper Scientific NA CCD camera Zeiss NA Heating System Ibidi Cat10918 Heating Insert m-Dish 35 mm high for ibidi Heating System Ibidi Cat10934 Gas Incubation System for CO2 Life Imaging Services NA Cryostat Leica CM3050S CaWomat Cawo 2000IR Pneumatic picopump (picospritzer) WPI CatSYS-PV820 Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Frank Bradke (frank.bradkedzne.de).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cre.mCherry SignaGen SL101117 AAV5.hSyn.hM4D(Gi)-mCherry A gift from Bryan Roth Addgene 50475-AAV5 AAV1.CMV-TeNT-LC-P2A-mCherry Sirion Biotech NA Chemicals, peptides, and recombinant proteins HBSS GIBCO 14025-053 HEPES GIBCO 15630-56 DMEMF-12, HEPES Life Technologies 11330032 Fetal bovine serum Thermo Scientific Cat10500064 PenicillinSteptomycin (PenStrep) antibiotics GIBCO 15140122 Collagenase IV Sigma C1889 Trypsin Worthington LS003703 DNase Worthington LS002007 Neurobasal medium GIBCO 12349-015 B-27 supplement GIBCO 17504-044 L-glutamine GIBCO 25030-024 Bovine serum albumin Sigma A3294 Horse serum Pan Biotech P30-0712 Poly-L-lysine Sigma P2636 Laminin Roche 11243217001 Phosphate buffer solution 0.1 M Sigma P5244 Phosphate buffered saline (PBS) AppliChem A0965,9050 Sucrose Fluka 84100 Paraformaldehyde Merck Millipore 104005 Dimethyl sulfoxide (DMSO) Sigma D5879 Fluoromount Sigma F4680-25 Phosphatase inhibitor Roche 04906837001 Protease inhibitor Roche 11836170001 Bradford reagent AppliChem A6932 Ponceau S AppliChem A2935 FastGreen Sigma 68724 Goat serum Invitrogen 16210064 Donkey serum Jackson ImmunoReasearch JIM-017-000-121 Triton X-100 Sigma X100 Baclofen Sigma B5399 Pregabalin Tocris 3775 Critical commercial assays P3 Primary Cell 4D X Kit S (32 RCT) Lonza V4XP-3032 ECL SuperSignal Dura West Thermo Fisher Scientific 10220294 ECL SuperSignal Pico West Thermo Fisher Scientific 15513766 Experimental models: Organismsstrains Mouse: Munc13-1flfl Banerjee et al., 2020 NA Mouse: Munc13-2-- (unc13btm1Rmnd) Varoqueaux et al., 2002 RRID: IMSR_EM:11739 Mouse: Munc13-3-- (unc13ctm1Bros) Augustin et al., 2001 RRID: IMSR_EM:11617 Mouse: RIM1flfl Kaeser et al., 2008 RRID: JAX:015832 Mouse: RIM2flfl Kaeser et al., 2011 RRID: IMSR_JAX:01 5833 Mouse: iBOT Slezak et al., 2012 RRID: IMSR_JAX:018056 Recombinant DNA ef1a-GFP-RIM1a Muller et al., 2020 NA pmaxGFP Lonza CatV4XP-3024 Unc13a (Myc-DDK-tagged) Origene MR225156 Munc13-1-H567K Betz et al., 1998 NA Munc13-1-DN Shin et al., 2010 NA Munc13-1-W464R Lipstein et al., 2013 NA pCSCMV:tdTomato Waldner et al., 2009 Addgene  30530 Software and algorithms ImageJ NIH, USA NA AxioVision Zeiss NA ZEN Zeiss NA SoftWoRx 3.5.0 Applied Precision NA MetaMorph Microscopy Automation and Image Analysis Software Molecular Devices NA Imaris 9.1 Bitplane NA Other 35 mm glass bottom dish, No. 1.5 Coverslip, 20 mm, Uncoated MatTek CatP35G-1.5-20-C 6-well plates Thermo Scientific Cat140675 4-well plates Thermo Scientific Cat179820 13 mm coverslip Marienfeld Cat01-11530 Immobilon-PSQ PVDF Membrane Millipore CatISEQ00010 X-ray film Thermo Scientific Cat34076 ImmEdge pen Vector laboratories CatH-4000 Fluorescence microscope Zeiss Axio Observer D1 Live cell microscope Applied Precision DeltaVision RT Confocal microscope Zeiss LSM700 2-photon microscope Zeiss LSM 7MP Super-Resolution confocal microscope Zeiss LSM980 Photometrics CoolSnap HQ camera Roper Scientific NA CCD camera Zeiss NA Heating System Ibidi Cat10918 Heating Insert m-Dish 35 mm high for ibidi Heating System Ibidi Cat10934 Gas Incubation System for CO2 Life Imaging Services NA Cryostat Leica CM3050S CaWomat Cawo 2000IR Pneumatic picopump (picospritzer) WPI CatSYS-PV820 Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Frank Bradke (frank.bradkedzne.de)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CatISEQ00010"
+                  }],
+                "neText" : "CatISEQ00010"
+              }]
+          }, {
+            "sentence" : "Quantification and statistical analysis Transcriptomic analysis Transcriptomic analysis was performed on bulk RNA-Seq of the DRG using a previously published dataset (GEO: GSE66128) (Tedeschi et al., 2016).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Quantification and statistical analysis Transcriptomic analysis Transcriptomic analysis was performed on bulk RNA-Seq of the DRG using a previously published dataset (GEO: GSE66128) (Tedeschi et al., 2016)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE66128"
+                  }],
+                "neText" : "GSE66128"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Rank-rank hypergeometric overlap analysis was conducted with RRHO2 (Cahill et al., 2018) on the datasets to compare gene expression patterns with conditioning (PNL versus Sham), embryonic development (E12.5 versus E17.5), and time in culture (6 h versus 12 h, 24 h, 36 h).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Rank-rank hypergeometric overlap analysis was conducted with RRHO2 (Cahill et al., 2018) on the datasets to compare gene expression patterns with conditioning (PNL versus Sham), embryonic development (E12.5 versus E17.5), and time in culture (6 h versus 12 h, 24 h, 36 h)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Rank-rank"
+                  }],
+                "neText" : "Rank-rank"
+              }]
+          }, {
+            "sentence" : "Homogeneity of variance was tested for using Bartletts test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Homogeneity of variance was tested for using Bartletts test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Homogeneity of variance"
+                  }],
+                "neText" : "Homogeneity of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bartletts test"
+                  }],
+                "neText" : "Bartletts test"
+              }]
+          }, {
+            "sentence" : "Normality was tested for using the Shapiro-Wilk test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Normality was tested for using the Shapiro-Wilk test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk test"
+                  }],
+                "neText" : "Shapiro-Wilk test"
+              }]
+          }, {
+            "sentence" : "Statistical analysis was performed using one-way analysis of variance (ANOVA) followed by Tukeys post-test or by using a two-tailed unpaired Students t test or a Wilcoxon matched-pairs signed rank test as indicated in the figure legends.",
+            "rowSpan" : 5,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis was performed using one-way analysis of variance (ANOVA) followed by Tukeys post-test or by using a two-tailed unpaired Students t test or a Wilcoxon matched-pairs signed rank test as indicated in the figure legends."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys post-test"
+                  }],
+                "neText" : "Tukeys post-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon matched-pairs signed rank test"
+                  }],
+                "neText" : "Wilcoxon matched-pairs signed rank test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "TeTxLC-P2A was amplified with upstream overhanging ends from the backbone in the forward primer (CCTTTCTCTCCACAGGTGTCCAG GC) and downstream overhanging ends for mCherry in the reverse primer (GTTATCCTCCTCGCCCTTGCTCA CCAT) from pAAV.hSyn.FLEX.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "TeTxLC-P2A was amplified with upstream overhanging ends from the backbone in the forward primer (CCTTTCTCTCCACAGGTGTCCAG GC) and downstream overhanging ends for mCherry in the reverse primer (GTTATCCTCCTCGCCCTTGCTCA CCAT) from pAAV.hSyn.FLEX."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCTTTCTCTCCACAGGTGTCCAGG C"
+                  }],
+                "neText" : "CCTTTCTCTCCACAGGTGTCCAGG C"
+              }]
+          }, {
+            "sentence" : "TeLC.P2A.dTomato (gift from Sandeep Datta Addgene plasmid 159102 http:addgene.org159102 RRID:Addgene_159102 Pashkovski et al., 2020 forward primer: CCTTTCTCTCCACAGGTGTCCAGG CATGCCGATCACCATCAACAACTT CC reverse primer: GTTATCCTCCTCGCCCTTGCTCAC CATAGGACCGGGGTTTTC).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "TeLC.P2A.dTomato (gift from Sandeep Datta Addgene plasmid 159102 http:addgene.org159102 RRID:Addgene_159102 Pashkovski et al., 2020 forward primer: CCTTTCTCTCCACAGGTGTCCAGG CATGCCGATCACCATCAACAACTT CC reverse primer: GTTATCCTCCTCGCCCTTGCTCAC CATAGGACCGGGGTTTTC)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCTTTCTCTCCACAGGTGTCCAGG CATGCCGATCACCATCAACAACTT CC"
+                  }],
+                "neText" : "CCTTTCTCTCCACAGGTGTCCAGG CATGCCGATCACCATCAACAACTT CC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GTTATCCTCCTCGCCCTTGCTCAC CATAGGACCGGGGTTTTC"
+                  }],
+                "neText" : "GTTATCCTCCTCGCCCTTGCTCAC CATAGGACCGGGGTTTTC"
+              }]
+          }, {
+            "sentence" : "MCherry was amplified with upstream overhanging ends for P2A in the forward primer (GAGACGTGGAAGAAAACCCCGGT CCT) and downstream overhanging ends from the backbone in the reverse primer (GTAATCCAGAGGTTGATTGGATC CA forward primer: GAGACGTGGAAGAAAACCCCGGTC CTATGGTGAGCAAGGGCGAGG reverse primer: GTAATCCAGAGGTTGATTGGATCC ATTACTTGTACAGCTCGTCCATGC ).",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MCherry was amplified with upstream overhanging ends for P2A in the forward primer (GAGACGTGGAAGAAAACCCCGGT CCT) and downstream overhanging ends from the backbone in the reverse primer (GTAATCCAGAGGTTGATTGGATC CA forward primer: GAGACGTGGAAGAAAACCCCGGTC CTATGGTGAGCAAGGGCGAGG reverse primer: GTAATCCAGAGGTTGATTGGATCC ATTACTTGTACAGCTCGTCCATGC )."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GAGACGTGGAAGAAAACCCCGGTC CT"
+                  }],
+                "neText" : "GAGACGTGGAAGAAAACCCCGGTC CT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GAGACGTGGAAGAAAACCCCGGTC CTATGGTGAGCAAGGGCGAGG"
+                  }],
+                "neText" : "GAGACGTGGAAGAAAACCCCGGTC CTATGGTGAGCAAGGGCGAGG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GTAATCCAGAGGTTGATTGGATCC ATTACTTGTACAGCTCGTCCATGC"
+                  }],
+                "neText" : "GTAATCCAGAGGTTGATTGGATCC ATTACTTGTACAGCTCGTCCATGC"
+              }]
+          }]
+      }, {
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "STARMethods Key resources table Reagent or resource Source Identifier Antibodies Rabbit anti-Tubulin b 3 (TUBB3) Sigma-Aldrich T2200 RRID: AB_262133 Chicken anti-GFP Abcam ab13970 RRID: AB_300798 Mouse anti-tubulin b 3 (Tuj-1) Biolegend 801201 RRID: AB_2313773 Mouse anti-VAMP2 Synaptic Systems 104211 RRID: AB_887811 Rabbit anti-Munc13-1 Synaptic Systems 126103 RRID: AB_887733 Rabbit anti-RIM1 Synaptic Systems 140103 RRID: AB_887774 Rabbit anti-RIM2 Synaptic Systems 140 103 RRID: AB_88776 Rabbit anti-Glial Fibrillary Acidic Protein (GFAP) DAKO Z0334 RRID: AB_10013382 Rabbit anti-RFP Rockland 600-401-379 RRID: AB_2209751 Mouse anti-DDK (FLAG) Origene TA50011-100 RRID: AB_2622345 Guinea Pig anti-NeuN Merck Millipore ABN90P RRID: AB_2341095 Donkey anti-chicken IgY IgG H+L Alexa Fluor 488 Jackson Immunoresearch 703-545-155 RRID: AB_2340375 Donkey anti-rabbit IgG H+L Alexa Fluor 594 Jackson Immunoresearch 711-586-152 RRID: AB_2340622 Donkey anti-guinea pig IgG H+L Alexa Fluor 647 Jackson Immunoresearch 706-605-148 RRID: AB_2340476 Goat anti-rabbit IgG H+L Alexa Fluor 568 Thermo Fisher A-11036 RRID: AB_10563566 Goat Anti-chicken IgY H&L Alexa Fluor 488 Abcam ab150169 RRID: AB_2636803 Goat anti-rabbit IgG H&L Alexa Fluor 647 Abcam ab150079 RRID: AB_2722623 Goat anti-Mouse IgG H+L Alexa Fluor 647 Thermo Fisher A-21235 RRID: AB_2535804350 Goat anti-Mouse IgG H+ Alexa Fluor 594 Thermo Fisher A-11032 RRID: AB_2534091 Bacterial and virus strains AAV5.CAG-tdTomato (codon diversified) A gift from Edward Boyden Addgene 59462-AAV5 AAV1.CMV.PI.EGFP.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "STARMethods Key resources table Reagent or resource Source Identifier Antibodies Rabbit anti-Tubulin b 3 (TUBB3) Sigma-Aldrich T2200 RRID: AB_262133 Chicken anti-GFP Abcam ab13970 RRID: AB_300798 Mouse anti-tubulin b 3 (Tuj-1) Biolegend 801201 RRID: AB_2313773 Mouse anti-VAMP2 Synaptic Systems 104211 RRID: AB_887811 Rabbit anti-Munc13-1 Synaptic Systems 126103 RRID: AB_887733 Rabbit anti-RIM1 Synaptic Systems 140103 RRID: AB_887774 Rabbit anti-RIM2 Synaptic Systems 140 103 RRID: AB_88776 Rabbit anti-Glial Fibrillary Acidic Protein (GFAP) DAKO Z0334 RRID: AB_10013382 Rabbit anti-RFP Rockland 600-401-379 RRID: AB_2209751 Mouse anti-DDK (FLAG) Origene TA50011-100 RRID: AB_2622345 Guinea Pig anti-NeuN Merck Millipore ABN90P RRID: AB_2341095 Donkey anti-chicken IgY IgG H+L Alexa Fluor 488 Jackson Immunoresearch 703-545-155 RRID: AB_2340375 Donkey anti-rabbit IgG H+L Alexa Fluor 594 Jackson Immunoresearch 711-586-152 RRID: AB_2340622 Donkey anti-guinea pig IgG H+L Alexa Fluor 647 Jackson Immunoresearch 706-605-148 RRID: AB_2340476 Goat anti-rabbit IgG H+L Alexa Fluor 568 Thermo Fisher A-11036 RRID: AB_10563566 Goat Anti-chicken IgY H&L Alexa Fluor 488 Abcam ab150169 RRID: AB_2636803 Goat anti-rabbit IgG H&L Alexa Fluor 647 Abcam ab150079 RRID: AB_2722623 Goat anti-Mouse IgG H+L Alexa Fluor 647 Thermo Fisher A-21235 RRID: AB_2535804350 Goat anti-Mouse IgG H+ Alexa Fluor 594 Thermo Fisher A-11032 RRID: AB_2534091 Bacterial and virus strains AAV5.CAG-tdTomato (codon diversified) A gift from Edward Boyden Addgene 59462-AAV5 AAV1.CMV.PI.EGFP."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID: AB_88776"
+                  }],
+                "neText" : "RRID: AB_88776"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID: AB_2535804350"
+                  }],
+                "neText" : "RRID: AB_2535804350"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 59462-"
+                  }],
+                "neText" : "Addgene 59462-"
+              }]
+          }, {
+            "sentence" : "Wilson Addgene 105530-AAV1 AAV1.CMV.HI.eGFP-Cre.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Wilson Addgene 105530-AAV1 AAV1.CMV.HI.eGFP-Cre."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 105530-"
+                  }],
+                "neText" : "Addgene 105530-"
+              }]
+          }, {
+            "sentence" : "Wilson Addgene 105545-AAV1 AAV1.CAG.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Wilson Addgene 105545-AAV1 AAV1.CAG."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 105545-"
+                  }],
+                "neText" : "Addgene 105545-"
+              }]
+          }, {
+            "sentence" : "Cre.mCherry SignaGen SL101117 AAV5.hSyn.hM4D(Gi)-mCherry A gift from Bryan Roth Addgene 50475-AAV5 AAV1.CMV-TeNT-LC-P2A-mCherry Sirion Biotech NA Chemicals, peptides, and recombinant proteins HBSS GIBCO 14025-053 HEPES GIBCO 15630-56 DMEMF-12, HEPES Life Technologies 11330032 Fetal bovine serum Thermo Scientific Cat10500064 PenicillinSteptomycin (PenStrep) antibiotics GIBCO 15140122 Collagenase IV Sigma C1889 Trypsin Worthington LS003703 DNase Worthington LS002007 Neurobasal medium GIBCO 12349-015 B-27 supplement GIBCO 17504-044 L-glutamine GIBCO 25030-024 Bovine serum albumin Sigma A3294 Horse serum Pan Biotech P30-0712 Poly-L-lysine Sigma P2636 Laminin Roche 11243217001 Phosphate buffer solution 0.1 M Sigma P5244 Phosphate buffered saline (PBS) AppliChem A0965,9050 Sucrose Fluka 84100 Paraformaldehyde Merck Millipore 104005 Dimethyl sulfoxide (DMSO) Sigma D5879 Fluoromount Sigma F4680-25 Phosphatase inhibitor Roche 04906837001 Protease inhibitor Roche 11836170001 Bradford reagent AppliChem A6932 Ponceau S AppliChem A2935 FastGreen Sigma 68724 Goat serum Invitrogen 16210064 Donkey serum Jackson ImmunoReasearch JIM-017-000-121 Triton X-100 Sigma X100 Baclofen Sigma B5399 Pregabalin Tocris 3775 Critical commercial assays P3 Primary Cell 4D X Kit S (32 RCT) Lonza V4XP-3032 ECL SuperSignal Dura West Thermo Fisher Scientific 10220294 ECL SuperSignal Pico West Thermo Fisher Scientific 15513766 Experimental models: Organismsstrains Mouse: Munc13-1flfl Banerjee et al., 2020 NA Mouse: Munc13-2-- (unc13btm1Rmnd) Varoqueaux et al., 2002 RRID: IMSR_EM:11739 Mouse: Munc13-3-- (unc13ctm1Bros) Augustin et al., 2001 RRID: IMSR_EM:11617 Mouse: RIM1flfl Kaeser et al., 2008 RRID: JAX:015832 Mouse: RIM2flfl Kaeser et al., 2011 RRID: IMSR_JAX:01 5833 Mouse: iBOT Slezak et al., 2012 RRID: IMSR_JAX:018056 Recombinant DNA ef1a-GFP-RIM1a Muller et al., 2020 NA pmaxGFP Lonza CatV4XP-3024 Unc13a (Myc-DDK-tagged) Origene MR225156 Munc13-1-H567K Betz et al., 1998 NA Munc13-1-DN Shin et al., 2010 NA Munc13-1-W464R Lipstein et al., 2013 NA pCSCMV:tdTomato Waldner et al., 2009 Addgene  30530 Software and algorithms ImageJ NIH, USA NA AxioVision Zeiss NA ZEN Zeiss NA SoftWoRx 3.5.0 Applied Precision NA MetaMorph Microscopy Automation and Image Analysis Software Molecular Devices NA Imaris 9.1 Bitplane NA Other 35 mm glass bottom dish, No. 1.5 Coverslip, 20 mm, Uncoated MatTek CatP35G-1.5-20-C 6-well plates Thermo Scientific Cat140675 4-well plates Thermo Scientific Cat179820 13 mm coverslip Marienfeld Cat01-11530 Immobilon-PSQ PVDF Membrane Millipore CatISEQ00010 X-ray film Thermo Scientific Cat34076 ImmEdge pen Vector laboratories CatH-4000 Fluorescence microscope Zeiss Axio Observer D1 Live cell microscope Applied Precision DeltaVision RT Confocal microscope Zeiss LSM700 2-photon microscope Zeiss LSM 7MP Super-Resolution confocal microscope Zeiss LSM980 Photometrics CoolSnap HQ camera Roper Scientific NA CCD camera Zeiss NA Heating System Ibidi Cat10918 Heating Insert m-Dish 35 mm high for ibidi Heating System Ibidi Cat10934 Gas Incubation System for CO2 Life Imaging Services NA Cryostat Leica CM3050S CaWomat Cawo 2000IR Pneumatic picopump (picospritzer) WPI CatSYS-PV820 Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Frank Bradke (frank.bradkedzne.de).",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cre.mCherry SignaGen SL101117 AAV5.hSyn.hM4D(Gi)-mCherry A gift from Bryan Roth Addgene 50475-AAV5 AAV1.CMV-TeNT-LC-P2A-mCherry Sirion Biotech NA Chemicals, peptides, and recombinant proteins HBSS GIBCO 14025-053 HEPES GIBCO 15630-56 DMEMF-12, HEPES Life Technologies 11330032 Fetal bovine serum Thermo Scientific Cat10500064 PenicillinSteptomycin (PenStrep) antibiotics GIBCO 15140122 Collagenase IV Sigma C1889 Trypsin Worthington LS003703 DNase Worthington LS002007 Neurobasal medium GIBCO 12349-015 B-27 supplement GIBCO 17504-044 L-glutamine GIBCO 25030-024 Bovine serum albumin Sigma A3294 Horse serum Pan Biotech P30-0712 Poly-L-lysine Sigma P2636 Laminin Roche 11243217001 Phosphate buffer solution 0.1 M Sigma P5244 Phosphate buffered saline (PBS) AppliChem A0965,9050 Sucrose Fluka 84100 Paraformaldehyde Merck Millipore 104005 Dimethyl sulfoxide (DMSO) Sigma D5879 Fluoromount Sigma F4680-25 Phosphatase inhibitor Roche 04906837001 Protease inhibitor Roche 11836170001 Bradford reagent AppliChem A6932 Ponceau S AppliChem A2935 FastGreen Sigma 68724 Goat serum Invitrogen 16210064 Donkey serum Jackson ImmunoReasearch JIM-017-000-121 Triton X-100 Sigma X100 Baclofen Sigma B5399 Pregabalin Tocris 3775 Critical commercial assays P3 Primary Cell 4D X Kit S (32 RCT) Lonza V4XP-3032 ECL SuperSignal Dura West Thermo Fisher Scientific 10220294 ECL SuperSignal Pico West Thermo Fisher Scientific 15513766 Experimental models: Organismsstrains Mouse: Munc13-1flfl Banerjee et al., 2020 NA Mouse: Munc13-2-- (unc13btm1Rmnd) Varoqueaux et al., 2002 RRID: IMSR_EM:11739 Mouse: Munc13-3-- (unc13ctm1Bros) Augustin et al., 2001 RRID: IMSR_EM:11617 Mouse: RIM1flfl Kaeser et al., 2008 RRID: JAX:015832 Mouse: RIM2flfl Kaeser et al., 2011 RRID: IMSR_JAX:01 5833 Mouse: iBOT Slezak et al., 2012 RRID: IMSR_JAX:018056 Recombinant DNA ef1a-GFP-RIM1a Muller et al., 2020 NA pmaxGFP Lonza CatV4XP-3024 Unc13a (Myc-DDK-tagged) Origene MR225156 Munc13-1-H567K Betz et al., 1998 NA Munc13-1-DN Shin et al., 2010 NA Munc13-1-W464R Lipstein et al., 2013 NA pCSCMV:tdTomato Waldner et al., 2009 Addgene  30530 Software and algorithms ImageJ NIH, USA NA AxioVision Zeiss NA ZEN Zeiss NA SoftWoRx 3.5.0 Applied Precision NA MetaMorph Microscopy Automation and Image Analysis Software Molecular Devices NA Imaris 9.1 Bitplane NA Other 35 mm glass bottom dish, No. 1.5 Coverslip, 20 mm, Uncoated MatTek CatP35G-1.5-20-C 6-well plates Thermo Scientific Cat140675 4-well plates Thermo Scientific Cat179820 13 mm coverslip Marienfeld Cat01-11530 Immobilon-PSQ PVDF Membrane Millipore CatISEQ00010 X-ray film Thermo Scientific Cat34076 ImmEdge pen Vector laboratories CatH-4000 Fluorescence microscope Zeiss Axio Observer D1 Live cell microscope Applied Precision DeltaVision RT Confocal microscope Zeiss LSM700 2-photon microscope Zeiss LSM 7MP Super-Resolution confocal microscope Zeiss LSM980 Photometrics CoolSnap HQ camera Roper Scientific NA CCD camera Zeiss NA Heating System Ibidi Cat10918 Heating Insert m-Dish 35 mm high for ibidi Heating System Ibidi Cat10934 Gas Incubation System for CO2 Life Imaging Services NA Cryostat Leica CM3050S CaWomat Cawo 2000IR Pneumatic picopump (picospritzer) WPI CatSYS-PV820 Resource availability Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Frank Bradke (frank.bradkedzne.de)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 50475-"
+                  }],
+                "neText" : "Addgene 50475-"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID: JAX:015832"
+                  }],
+                "neText" : "RRID: JAX:015832"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID: IMSR_JAX:01 5833"
+                  }],
+                "neText" : "RRID: IMSR_JAX:01 5833"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene  30530 "
+                  }],
+                "neText" : "Addgene  30530 "
+              }]
+          }, {
+            "sentence" : "Wilson (Addgene plasmid 105530-AAV1  http:addgene.org105545 RRID:Addgene_105530).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Wilson (Addgene plasmid 105530-AAV1  http:addgene.org105545 RRID:Addgene_105530)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "addgene.org105545 "
+                  }],
+                "neText" : "addgene.org105545 "
+              }]
+          }]
+      }]
+  }
+}

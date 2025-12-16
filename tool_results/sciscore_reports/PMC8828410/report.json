@@ -1,0 +1,451 @@
+{
+  "docIdentifier" : "PMC8828410",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Subsequently, the primary antibodies (CD31, 1:200, Abcam, Cambridge, UK; FSP1, 1:200, Affinity, Jiangsu, China) were added with cells at 4°C overnight.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Subsequently, the primary antibodies (CD31, 1:200, Abcam, Cambridge, UK; FSP1, 1:200, Affinity, Jiangsu, China) were added with cells at 4°C overnight."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD31"
+                }],
+              "neText" : "CD31"
+            }]
+        }, {
+          "sentence" : "After clearing the primary antibodies, cells were stained with secondary antibodies (Cy3-labeled goat-anti-rabbit IgG, 1:200, Beyotime, Haimen, China; FITC-labeled goat-anti-mouse IgG, 1:200, Beyotime) for 60 min at room temperature.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After clearing the primary antibodies, cells were stained with secondary antibodies (Cy3-labeled goat-anti-rabbit IgG, 1:200, Beyotime, Haimen, China; FITC-labeled goat-anti-mouse IgG, 1:200, Beyotime) for 60 min at room temperature."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IgG"
+                }],
+              "neText" : "IgG"
+            }]
+        }, {
+          "sentence" : "After blocking, the membranes were incubated with the primary antibodies (ADAM8, 1:1,000, Proteintech; α-SMA, 1:1,000, Affinity; FSP1, 1:1,000, Affinity; VE-cadherin, 1:1,000, ABclonal, Wuhan, China; TGF-β1, 1:1,000, ABclonal; Smad2, 1:1,000, Affinity; p-Smad2, 1:1,000, Affinity; Smad3, 1:1,000, ABclonal; p-Smad3, 1:1,000, ABclonal) at 4°C overnight.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After blocking, the membranes were incubated with the primary antibodies (ADAM8, 1:1,000, Proteintech; "
+            }, {
+              "f" : "symbol",
+              "c" : "α"
+            }, {
+              "f" : "default",
+              "c" : "-SMA, 1:1,000, Affinity; FSP1, 1:1,000, Affinity; VE-cadherin, 1:1,000, ABclonal, Wuhan, China; TGF-"
+            }, {
+              "f" : "symbol",
+              "c" : "β"
+            }, {
+              "f" : "default",
+              "c" : "1, 1:1,000, ABclonal; Smad2, 1:1,000, Affinity; p-Smad2, 1:1,000, Affinity; Smad3, 1:1,000, ABclonal; p-Smad3, 1:1,000, ABclonal) at 4°C overnight."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ADAM8"
+                }],
+              "neText" : "ADAM8"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "VE-cadherin"
+                }],
+              "neText" : "VE-cadherin"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Male 8–10-week-old C57BL/6J mice were housed at 22 ± 1°C and 45–55% humidity for 1 week.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Male 8–10-week-old C57BL/6J mice were housed at 22 ± 1°C and 45–55% humidity for 1 week."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6J"
+                }],
+              "neText" : "C57BL/6J"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Multiple comparisons were performed using one-way ANOVA followed by Bonferroni’s post hoc test from GraphPad Prism 8.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Multiple comparisons were performed using one-way ANOVA followed by Bonferroni’s post hoc test from GraphPad Prism 8.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Animal experiments All animal studies were approved by the Institutional Animal Use and Care Committee of Hebei General Hospital.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Animal experiments All animal studies were approved by the Institutional Animal Use and Care Committee of Hebei General Hospital."
+              }]
+          }, {
+            "sentence" : "The mice were anesthetized to death by intraperitoneal injection of 200 mg/kg pentobarbital sodium.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mice were anesthetized to death by intraperitoneal injection of 200 mg/kg pentobarbital sodium."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Male 8–10-week-old C57BL/6J mice were housed at 22 ± 1°C and 45–55% humidity for 1 week.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male 8–10-week-old C57BL/6J mice were housed at 22 ± 1°C and 45–55% humidity for 1 week."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Male 8–10-week-old C57BL/6J mice were housed at 22 ± 1°C and 45–55% humidity for 1 week.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male 8–10-week-old C57BL/6J mice were housed at 22 ± 1°C and 45–55% humidity for 1 week."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Student’s t-test was used for two-group comparisons.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Student’s t-test was used for two-group comparisons."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Student’s t-test"
+                  }],
+                "neText" : "Student’s t-test"
+              }]
+          }, {
+            "sentence" : "Multiple comparisons were performed using one-way ANOVA followed by Bonferroni’s post hoc test from GraphPad Prism 8.0.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Multiple comparisons were performed using one-way ANOVA followed by Bonferroni’s post hoc test from GraphPad Prism 8.0."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni’s post hoc test"
+                  }],
+                "neText" : "Bonferroni’s post hoc test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "ADAM8 forward 5’-GGGGTTGATTTCATTGGG-3’ , reverse 5’- ACCCTCCCGTGGTTCAG-3’; ANP forward 5’-GGGCTTCTTCCTCGTCTT-3’ , reverse 5’-CTTCTCCTCCAGGTGGTCTA- 3’; BNP forward 5’-CAGCTCTTGAAGGACCAA-3’ , reverse 5’-GTTACAGCCCAAACGACT-3’ ; collagen I forward 5’-AAGAACCCTGCCCGCACATG- 3’, reverse 5’-GAATCCATCGGTCATGCTCT- 3’; collagen III forward 5’-GCCCACAGCCTTCTACACCT- 3’, reverse 5’-GATAGCCACCCATTCCTCCC- 3’; CTGF forward 5’-TGTGAAGACATACAGGGCTAA G-3’, reverse 5’-ACAGTTGTAATGGCAGGCAC- 3’; α-SMA forward 5’-GGGAGTAATGGTTGGAAT-3’ , reverse 5’-TCAAACATAATCTGGGTCA-3 ’; FSP1 forward 5’-TACTCAGGCAAAGAGGGTG-3 ’, reverse 5’-CAATGCAGGACAGGAAGAC-3 ’; VE-cadherin forward 5’-CAGCCCTACGAACCTAAA-3’ , reverse 5’-AAACTGCCCATACTTGACC-3 ’.",
+            "rowSpan" : 18,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "ADAM8 forward 5’-GGGGTTGATTTCATTGGG-3’ , reverse 5’- ACCCTCCCGTGGTTCAG-3’; ANP forward 5’-GGGCTTCTTCCTCGTCTT-3’ , reverse 5’-CTTCTCCTCCAGGTGGTCTA- 3’; BNP forward 5’-CAGCTCTTGAAGGACCAA-3’ , reverse 5’-GTTACAGCCCAAACGACT-3’ ; collagen I forward 5’-AAGAACCCTGCCCGCACATG- 3’, reverse 5’-GAATCCATCGGTCATGCTCT- 3’; collagen III forward 5’-GCCCACAGCCTTCTACACCT- 3’, reverse 5’-GATAGCCACCCATTCCTCCC- 3’; CTGF forward 5’-TGTGAAGACATACAGGGCTAA G-3’, reverse 5’-ACAGTTGTAATGGCAGGCAC- 3’; "
+              }, {
+                "f" : "symbol",
+                "c" : "α"
+              }, {
+                "f" : "default",
+                "c" : "-SMA forward 5’-GGGAGTAATGGTTGGAAT-3’ , reverse 5’-TCAAACATAATCTGGGTCA-3 ’; FSP1 forward 5’-TACTCAGGCAAAGAGGGTG-3 ’, reverse 5’-CAATGCAGGACAGGAAGAC-3 ’; VE-cadherin forward 5’-CAGCCCTACGAACCTAAA-3’ , reverse 5’-AAACTGCCCATACTTGACC-3 ’."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-GGGGTTGATTTCATTGGG-3’"
+                  }],
+                "neText" : "5’-GGGGTTGATTTCATTGGG-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’- ACCCTCCCGTGGTTCAG-3’"
+                  }],
+                "neText" : "5’- ACCCTCCCGTGGTTCAG-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-GGGCTTCTTCCTCGTCTT-3’"
+                  }],
+                "neText" : "5’-GGGCTTCTTCCTCGTCTT-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-CTTCTCCTCCAGGTGGTCTA- 3’"
+                  }],
+                "neText" : "5’-CTTCTCCTCCAGGTGGTCTA- 3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-CAGCTCTTGAAGGACCAA-3’"
+                  }],
+                "neText" : "5’-CAGCTCTTGAAGGACCAA-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-GTTACAGCCCAAACGACT-3’"
+                  }],
+                "neText" : "5’-GTTACAGCCCAAACGACT-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-AAGAACCCTGCCCGCACATG- 3’"
+                  }],
+                "neText" : "5’-AAGAACCCTGCCCGCACATG- 3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-GAATCCATCGGTCATGCTCT- 3’"
+                  }],
+                "neText" : "5’-GAATCCATCGGTCATGCTCT- 3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-GCCCACAGCCTTCTACACCT- 3’"
+                  }],
+                "neText" : "5’-GCCCACAGCCTTCTACACCT- 3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-GATAGCCACCCATTCCTCCC- 3’"
+                  }],
+                "neText" : "5’-GATAGCCACCCATTCCTCCC- 3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-TGTGAAGACATACAGGGCTAA G-3’"
+                  }],
+                "neText" : "5’-TGTGAAGACATACAGGGCTAA G-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-ACAGTTGTAATGGCAGGCAC- 3’"
+                  }],
+                "neText" : "5’-ACAGTTGTAATGGCAGGCAC- 3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-GGGAGTAATGGTTGGAAT-3’"
+                  }],
+                "neText" : "5’-GGGAGTAATGGTTGGAAT-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-TCAAACATAATCTGGGTCA-3 ’"
+                  }],
+                "neText" : "5’-TCAAACATAATCTGGGTCA-3 ’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-TACTCAGGCAAAGAGGGTG-3 ’"
+                  }],
+                "neText" : "5’-TACTCAGGCAAAGAGGGTG-3 ’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-CAATGCAGGACAGGAAGAC-3 ’"
+                  }],
+                "neText" : "5’-CAATGCAGGACAGGAAGAC-3 ’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-CAGCCCTACGAACCTAAA-3’"
+                  }],
+                "neText" : "5’-CAGCCCTACGAACCTAAA-3’"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5’-AAACTGCCCATACTTGACC-3 ’"
+                  }],
+                "neText" : "5’-AAACTGCCCATACTTGACC-3 ’"
+              }]
+          }]
+      }]
+  }
+}

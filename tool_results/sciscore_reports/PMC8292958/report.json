@@ -1,0 +1,320 @@
+{
+  "docIdentifier" : "PMC8292958",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "HCC Cells and Transfections Two human HCC cell lines SNU-423 and SNU-387 (ATCC, USA) were used as the cell models of HCC.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HCC Cells and Transfections Two human HCC cell lines SNU-423 and SNU-387 (ATCC, USA) were used as the cell models of HCC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_0366)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SNU-423"
+                }],
+              "neText" : "SNU-423"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_0250)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SNU-387"
+                }],
+              "neText" : "SNU-387"
+            }]
+        }, {
+          "sentence" : "HCC cells were seeded into a 6-well plate with 1.0×106 cells/well , followed by transfection with 1 ug vector and 40 nM synthetic miRNA oligonucleotides using Lipofectamine 2000 ( Invitrogen) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HCC cells were seeded into a 6-well plate with 1.0×106 cells/well , followed by transfection with 1 ug vector and 40 nM synthetic miRNA oligonucleotides using Lipofectamine 2000 ( Invitrogen) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HCC"
+                }],
+              "neText" : "HCC"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "To overexpress circRNA SCARB1, pcDNA3.1(",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To overexpress circRNA SCARB1, pcDNA3.1("
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_100544",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1"
+                }],
+              "neText" : "pcDNA3.1"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Ethics Committee of aforementioned hospital.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Ethics Committee of aforementioned hospital."
+              }]
+          }, {
+            "sentence" : "All patients signed the informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients signed the informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "All patients were newly diagnosed cases and patients with other clinical disorders were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients were newly diagnosed cases and patients with other clinical disorders were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "These patients were grouped into 27 cases at AJCC stage I or II, and 37 cases at AJCC stage III or IV.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "These patients were grouped into 27 cases at AJCC stage I or II, and 37 cases at AJCC stage III or IV."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and Methods Tissue Acquisition HCC and paired adjacent (within 3 cm around tumors) non-tumor tissues were collected from a total of 64 HCC patients (40 males and 24 females) who were admitted at Xuzhou Cancer Hospital between May 2018 and May 2020.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Tissue Acquisition HCC and paired adjacent (within 3 cm around tumors) non-tumor tissues were collected from a total of 64 HCC patients (40 males and 24 females) who were admitted at Xuzhou Cancer Hospital between May 2018 and May 2020."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The age range of patients was 44–68 years old, with a median age of 55.8 years old.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The age range of patients was 44–68 years old, with a median age of 55.8 years old."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Migration cells were observed and counted in 3 randomly selected fields per well under a light microscope as previously described.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Migration cells were observed and counted in 3 randomly selected fields per well under a light microscope as previously described."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All reactions were performed in 3 technical replicates .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All reactions were performed in 3 technical replicates ."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "All reactions were performed in 3 technical replicates .",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All reactions were performed in 3 technical replicates ."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Data comparisons were performed by paired t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data comparisons were performed by paired t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Data comparisons were performed by ANOVA Tukey’s test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data comparisons were performed by ANOVA Tukey’s test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey’s test"
+                  }],
+                "neText" : "Tukey’s test"
+              }]
+          }, {
+            "sentence" : "Correlations were analyzed by Pearson’s correlation coefficient.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Correlations were analyzed by Pearson’s correlation coefficient."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson’s correlation"
+                  }],
+                "neText" : "Pearson’s correlation"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The sequences of primers used in qRT-PCR assay were shown as follows: CircRNA SCARB1 ( Forward: 5\u02b9-TCATCCTTCTAAGGTAGCAGC AG-3\u02b9; Reverse: 5\u02b9-CTTCGACGCTGTAGCCTTGT- 3\u02b9); mature miR-497 ( Forward: 5\u02b9-CCTTCAGCAGCACACTGTGG- 3\u02b9;",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The sequences of primers used in qRT-PCR assay were shown as follows: CircRNA SCARB1 ( Forward: 5\u02b9-TCATCCTTCTAAGGTAGCAGC AG-3\u02b9; Reverse: 5\u02b9-CTTCGACGCTGTAGCCTTGT- 3\u02b9); mature miR-497 ( Forward: 5\u02b9-CCTTCAGCAGCACACTGTGG- 3\u02b9;"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-TCATCCTTCTAAGGTAGCAGC AG-3\u02b9"
+                  }],
+                "neText" : "5\u02b9-TCATCCTTCTAAGGTAGCAGC AG-3\u02b9"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-CTTCGACGCTGTAGCCTTGT- 3\u02b9)"
+                  }],
+                "neText" : "5\u02b9-CTTCGACGCTGTAGCCTTGT- 3\u02b9)"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-CCTTCAGCAGCACACTGTGG- 3\u02b9"
+                  }],
+                "neText" : "5\u02b9-CCTTCAGCAGCACACTGTGG- 3\u02b9"
+              }]
+          }, {
+            "sentence" : "miR-497 precursor ( Forward: 5\u02b9-ACCAGCAGCACACTGTGGTTT GT-3\u02b9; Reverse: 5\u02b9-ATCCAGTGCAGGGTCCGAGG- 3\u02b9) .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "miR-497 precursor ( Forward: 5\u02b9-ACCAGCAGCACACTGTGGTTT GT-3\u02b9; Reverse: 5\u02b9-ATCCAGTGCAGGGTCCGAGG- 3\u02b9) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-ACCAGCAGCACACTGTGGTTT GT-3\u02b9"
+                  }],
+                "neText" : "5\u02b9-ACCAGCAGCACACTGTGGTTT GT-3\u02b9"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-ATCCAGTGCAGGGTCCGAGG- 3\u02b9"
+                  }],
+                "neText" : "5\u02b9-ATCCAGTGCAGGGTCCGAGG- 3\u02b9"
+              }]
+          }]
+      }]
+  }
+}

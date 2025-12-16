@@ -1,0 +1,120 @@
+{
+  "docIdentifier" : "PMC8790584",
+  "sciscore" : 2,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Institutional Review Board at Ajou University Hospital of Republic of Korea (IRB approval number: AJIRB-MED-MDB-20-088).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Institutional Review Board at Ajou University Hospital of Republic of Korea (IRB approval number: AJIRB-MED-MDB-20-088)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Acquisition of medical imaging data for standardization into R-CDM The randomly sampled medical imaging data (41.7 TB; 87203226 images from 2801360 cases), about 10% of the whole dataset, from Ajou University Hospital were approved for usage in research purposes.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Acquisition of medical imaging data for standardization into R-CDM The randomly sampled medical imaging data (41.7 TB; 87203226 images from 2801360 cases), about 10% of the whole dataset, from Ajou University Hospital were approved for usage in research purposes."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "Finally , the OMOP concept ID \" 3002086 \" linked to the LOINC code \" 24727-0 \" was searched through the OMOP vocabulary system.14 Overall , we created a mapping table for 5753 protocol terminologies in RadLex and shared it on GitHub ( https://github.com/ABMI/Radiology-CDM).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Finally , the OMOP concept ID \" 3002086 \" linked to the LOINC code \" 24727-0 \" was searched through the OMOP vocabulary system.14 Overall , we created a mapping table for 5753 protocol terminologies in RadLex and shared it on GitHub ( https://github.com/ABMI/Radiology-CDM)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "https://github.com/ABMI/Radiology-CDM"
+                  }],
+                "neText" : "https://github.com/ABMI/Radiology-CDM"
+              }]
+          }]
+      }]
+  }
+}

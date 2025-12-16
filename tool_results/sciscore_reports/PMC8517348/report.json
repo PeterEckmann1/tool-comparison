@@ -1,0 +1,299 @@
+{
+  "docIdentifier" : "PMC8517348",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Labelling was performed with a primary anti-Ahnak1 antibody (E-5, Santa Cruz) for 1 h at 4degC and a secondary anti-mouse 12 nm colloidal gold conjugate (115-205-146, Dianova) for 30 min at RT.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Labelling was performed with a primary anti-Ahnak1 antibody (E-5, Santa Cruz) for 1 h at 4degC and a secondary anti-mouse 12 nm colloidal gold conjugate (115-205-146, Dianova) for 30 min at RT."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Ahnak1"
+                }],
+              "neText" : "anti-Ahnak1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "E-5"
+                }],
+              "neText" : "E-5"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "For in vitro investigations , we used a human adult left ventricular cardiomyocyte cell line , the AC16 cells , 17 which were cultured as previously described.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For in vitro investigations , we used a human adult left ventricular cardiomyocyte cell line , the AC16 cells , 17 which were cultured as previously described."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_4U18",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AC16"
+                }],
+              "neText" : "AC16"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Whole murine heart from aged adult Ahnak1-KO and WT mice of both sexes (n = 6 per group) were dissected and externally perfused with 4 (wv) formaldehyde0.5 (vv) glutaraldehyde in 0.1 M phosphate buffer.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Whole murine heart from aged adult Ahnak1-KO and WT mice of both sexes (n = 6 per group) were dissected and externally perfused with 4 (wv) formaldehyde0.5 (vv) glutaraldehyde in 0.1 M phosphate buffer."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ahnak1-KO"
+                }],
+              "neText" : "Ahnak1-KO"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Band intensities were quantified with Image Lab software 5.1 V ( Bio-Rad Laboratories) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Band intensities were quantified with Image Lab software 5.1 V ( Bio-Rad Laboratories) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Image Lab Software (RRID:SCR_014210)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image Lab"
+                }],
+              "neText" : "Image Lab"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Bio-Rad Laboratories (RRID:SCR_008426)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bio-Rad Laboratories"
+                }],
+              "neText" : "Bio-Rad Laboratories"
+            }]
+        }, {
+          "sentence" : "Statistical analysis was performed using one-way analysis of variance followed by Bonferroni post hoc test to compare multiple groups, two-way analysis of variance followed by Bonferroni post hoc test to compare means, two-tailed Students t-test to compare values between two groups, or multiple t-test, as appropriate, using GraphPad Prism 5.01.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis was performed using one-way analysis of variance followed by Bonferroni post hoc test to compare multiple groups, two-way analysis of variance followed by Bonferroni post hoc test to compare means, two-tailed Students t-test to compare values between two groups, or multiple t-test, as appropriate, using GraphPad Prism 5.01."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Cell culture and treatment Ventricular mouse cardiomyocytes were isolated by a standard enzymatic technique as described before. 16 Briefly , after cervical dislocation , hearts were rapidly removed and perfused at 37degC for 10 min with a bicarbonate buffer ( pH 7.4 ) containing low Ca2+ and collagenase ( type II PAN BIOTECH) .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cell culture and treatment Ventricular mouse cardiomyocytes were isolated by a standard enzymatic technique as described before. 16 Briefly , after cervical dislocation , hearts were rapidly removed and perfused at 37degC for 10 min with a bicarbonate buffer ( pH 7.4 ) containing low Ca2+ and collagenase ( type II PAN BIOTECH) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Exclusion criterion was defined as the mouses inability to continue regular treadmill running and to maintain the required running speed and distance despite mechanical prodding",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Exclusion criterion was defined as the mouses inability to continue regular treadmill running and to maintain the required running speed and distance despite mechanical prodding"
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "28 TA muscle from aged adult male Ahnak1-KO (n = 16), male WT (n = 10), female Ahnak1-KO (n = 11), and female WT (n = 7) mice was dissected, transferred to an organ bath containing Krebs solution (vol. 20 mL) bubbled with 95 O2 and 5 CO2 and kept at constant temperature (22degC) where it was mounted between the hook of a force transducer (FT-03 AstroNova) and a hook connected to a movable shaft that was used to adjust the muscle length.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "28 TA muscle from aged adult male Ahnak1-KO (n = 16), male WT (n = 10), female Ahnak1-KO (n = 11), and female WT (n = 7) mice was dissected, transferred to an organ bath containing Krebs solution (vol. 20 mL) bubbled with 95 O2 and 5 CO2 and kept at constant temperature (22degC) where it was mounted between the hook of a force transducer (FT-03 AstroNova) and a hook connected to a movable shaft that was used to adjust the muscle length."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Material and methods Animals Fifteen- to 16-month-old male and female homozygous Ahnak1-KO 10 and their WT littermates were used.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Material and methods Animals Fifteen- to 16-month-old male and female homozygous Ahnak1-KO 10 and their WT littermates were used."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Material and methods Animals Fifteen- to 16-month-old male and female homozygous Ahnak1-KO 10 and their WT littermates were used.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Material and methods Animals Fifteen- to 16-month-old male and female homozygous Ahnak1-KO 10 and their WT littermates were used."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "For analyses of mitochondrial size (surface area), 10 micrographs were taken for each LV and TA tissue to measure mitochondrial size per unit area (48 mm2) in a blinded fashion.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For analyses of mitochondrial size (surface area), 10 micrographs were taken for each LV and TA tissue to measure mitochondrial size per unit area (48 mm2) in a blinded fashion."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Twelve replicates were run for each condition , and experiments were repeated seven times independently .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Twelve replicates were run for each condition , and experiments were repeated seven times independently ."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "Twelve replicates were run for each condition , and experiments were repeated seven times independently .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Twelve replicates were run for each condition , and experiments were repeated seven times independently ."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis was performed using one-way analysis of variance followed by Bonferroni post hoc test to compare multiple groups, two-way analysis of variance followed by Bonferroni post hoc test to compare means, two-tailed Students t-test to compare values between two groups, or multiple t-test, as appropriate, using GraphPad Prism 5.01.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis was performed using one-way analysis of variance followed by Bonferroni post hoc test to compare multiple groups, two-way analysis of variance followed by Bonferroni post hoc test to compare means, two-tailed Students t-test to compare values between two groups, or multiple t-test, as appropriate, using GraphPad Prism 5.01."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni post hoc test"
+                  }],
+                "neText" : "Bonferroni post hoc test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "multiple t-test"
+                  }],
+                "neText" : "multiple t-test"
+              }]
+          }]
+      }]
+  }
+}

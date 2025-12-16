@@ -1,0 +1,181 @@
+{
+  "docIdentifier" : "PMC8223634",
+  "sciscore" : 7,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All statistical analyses were performed using SPSS Statistics V.19 (IBM).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were performed using SPSS Statistics V.19 (IBM)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was performed according to the guidelines described in the Declaration of Helsinki for biomedical research involving human subjects (Clinical trial registration number: University Hospital Medical Information Network 000013653), and all patients provided written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was performed according to the guidelines described in the Declaration of Helsinki for biomedical research involving human subjects (Clinical trial registration number: University Hospital Medical Information Network 000013653), and all patients provided written informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The inclusion criteria were as follows: (1) obstruction-related symptoms, including vomiting and ingestion of only liquid or no oral intake, (2) performance status of 0-2 and (3) unresectable malignant obstruction confirmed by preceding endoscopy and histology.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The inclusion criteria were as follows: (1) obstruction-related symptoms, including vomiting and ingestion of only liquid or no oral intake, (2) performance status of 0-2 and (3) unresectable malignant obstruction confirmed by preceding endoscopy and histology."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and methods Patients Consecutive patients who had symptomatic mGOO with unresectable malignant tumours requiring placement of a SEMS were enrolled.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Patients Consecutive patients who had symptomatic mGOO with unresectable malignant tumours requiring placement of a SEMS were enrolled."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Study design This multicentre, open-label study was conducted with prospective randomisation and compared clinical outcomes and adverse events between CSEMS and UCSEMS.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Study design This multicentre, open-label study was conducted with prospective randomisation and compared clinical outcomes and adverse events between CSEMS and UCSEMS."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Under the assumption of a HR of 0.5, the required number of patients was calculated as 175 in each group based on the log-rank test, with a significance level of 0.05 (two-sided) and power of 0.8.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Under the assumption of a HR of 0.5, the required number of patients was calculated as 175 in each group based on the log-rank test, with a significance level of 0.05 (two-sided) and power of 0.8."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Under the assumption of a HR of 0.5, the required number of patients was calculated as 175 in each group based on the log-rank test, with a significance level of 0.05 (two-sided) and power of 0.8.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Under the assumption of a HR of 0.5, the required number of patients was calculated as 175 in each group based on the log-rank test, with a significance level of 0.05 (two-sided) and power of 0.8."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }, {
+            "sentence" : "Continuous variables are expressed as mean+-SD and were compared using the Wilcoxon signed-rank test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Continuous variables are expressed as mean+-SD and were compared using the Wilcoxon signed-rank test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed-rank test"
+                  }],
+                "neText" : "Wilcoxon signed-rank test"
+              }]
+          }, {
+            "sentence" : "Categorical data are expressed as n () and were compared using Fishers exact test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Categorical data are expressed as n () and were compared using Fishers exact test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }]
+      }]
+  }
+}

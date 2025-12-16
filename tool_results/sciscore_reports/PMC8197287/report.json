@@ -1,0 +1,582 @@
+{
+  "docIdentifier" : "PMC8197287",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The membrane was blocked in 3 ECL Advance blocking agent ( GE Healthcare ) and incubated with primary antibodies against JARID2 ( D6M9X , 1:500 dilution , Cell Signaling Technology Danvers , MA , USA Cat 13594 , RRID:AB_2798269 ( 45))",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membrane was blocked in 3 ECL Advance blocking agent ( GE Healthcare ) and incubated with primary antibodies against JARID2 ( D6M9X , 1:500 dilution , Cell Signaling Technology Danvers , MA , USA Cat 13594 , RRID:AB_2798269 ( 45))"
+            }],
+          "mentions" : [{
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 13594, RRID:AB_2798269)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "JARID2"
+                }],
+              "neText" : "JARID2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "D6M9X"
+                }],
+              "neText" : "D6M9X"
+            }]
+        }, {
+          "sentence" : "Secondary anti-rabbit HRP antibody was used at 1:10 000 ( Sigma-Aldrich , St . Louis , MO , USA , Cat A0545 , RRID:AB_257896 ( 46)) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Secondary anti-rabbit HRP antibody was used at 1:10 000 ( Sigma-Aldrich , St . Louis , MO , USA , Cat A0545 , RRID:AB_257896 ( 46)) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Secondary anti-rabbit HRP antibody"
+                }],
+              "neText" : "Secondary anti-rabbit HRP antibody"
+            }, {
+              "source" : "Sigma-Aldrich",
+              "rrid" : "(Sigma-Aldrich Cat# A0545, RRID:AB_257896)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit HRP"
+                }],
+              "neText" : "anti-rabbit HRP"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The proteins were visualized by chemiluminescence using Amersham ECL Select Western Blotting Detection Reagent ( GE Healthcare) , ChemiDoc XRS+ system and Quantity One Software ( Bio-Rad)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The proteins were visualized by chemiluminescence using Amersham ECL Select Western Blotting Detection Reagent ( GE Healthcare) , ChemiDoc XRS+ system and Quantity One Software ( Bio-Rad)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Quantity One 1-D Analysis Software (RRID:SCR_014280)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Quantity One"
+                }],
+              "neText" : "Quantity One"
+            }]
+        }, {
+          "sentence" : "Sample demultiplexing was performed using bcl2fastq (v2.20.0).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Sample demultiplexing was performed using bcl2fastq (v2.20.0)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "bcl2fastq"
+                }],
+              "neText" : "bcl2fastq"
+            }]
+        }, {
+          "sentence" : "Sample quality was assessed using FastQC (v0.11.8) and MultiQC (v1.7).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Sample quality was assessed using FastQC (v0.11.8) and MultiQC (v1.7)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FastQC"
+                }],
+              "neText" : "FastQC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MultiQC"
+                }],
+              "neText" : "MultiQC"
+            }]
+        }, {
+          "sentence" : "Reads were aligned to a reference built from Ensembl GRCh38 genome sequences using STAR (v2.6.1d).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Reads were aligned to a reference built from Ensembl GRCh38 genome sequences using STAR (v2.6.1d)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STAR"
+                }],
+              "neText" : "STAR"
+            }]
+        }, {
+          "sentence" : "Counts for each gene were obtained by featureCounts (v1.5.1) using the GRCh38.99 GTF file from Ensembl.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Counts for each gene were obtained by featureCounts (v1.5.1) using the GRCh38.99 GTF file from Ensembl."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "featureCounts"
+                }],
+              "neText" : "featureCounts"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Ensembl (RRID:SCR_002344)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ensembl"
+                }],
+              "neText" : "Ensembl"
+            }]
+        }, {
+          "sentence" : "Bioconductor package DESEq2 was used for count normalization and sample group comparisons, generating log2 fold changes, Wald test P values and P values adjusted for multiple testing (Benjamini-Hochberg method).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bioconductor package DESEq2 was used for count normalization and sample group comparisons, generating log2 fold changes, Wald test P values and P values adjusted for multiple testing (Benjamini-Hochberg method)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Bioconductor (RRID:SCR_006442)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bioconductor"
+                }],
+              "neText" : "Bioconductor"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESEq2"
+                }],
+              "neText" : "DESEq2"
+            }]
+        }, {
+          "sentence" : "Pathway Analysis Ingenuity Pathway Analysis (IPA) software (Ingenuity Systems, QIAGEN, http:www.ingenuity.com) was used to determine the upstream regulators in RNAseq experiments and for canonical pathway analysis in the screening.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Pathway Analysis Ingenuity Pathway Analysis (IPA) software (Ingenuity Systems, QIAGEN, http:www.ingenuity.com) was used to determine the upstream regulators in RNAseq experiments and for canonical pathway analysis in the screening."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Ingenuity Pathway Analysis, RRID:SCR_008653",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ingenuity Pathway Analysis"
+                }],
+              "neText" : "Ingenuity Pathway Analysis"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http:www.ingenuity.com"
+                }],
+              "neText" : "http:www.ingenuity.com"
+            }]
+        }, {
+          "sentence" : "IBM SPSS Statistics 22 software (SPSS, Chicago, IL, USA) or GraphPad Prism version 7 and 9 (GraphPad Software, La Jolla, California, USA) were used for statistical analysis.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "IBM SPSS Statistics 22 software (SPSS, Chicago, IL, USA) or GraphPad Prism version 7 and 9 (GraphPad Software, La Jolla, California, USA) were used for statistical analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The regional ethics board approved all studies and the donors gave their written informed consent.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The regional ethics board approved all studies and the donors gave their written informed consent."
+              }]
+          }, {
+            "sentence" : "The regional ethics board approved all studies and the donors gave their written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The regional ethics board approved all studies and the donors gave their written informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : ") metabolically well-characterized women described previously ( 33) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : ") metabolically well-characterized women described previously ( 33) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The first cohort consists of 30 obese (body mass index BMI > 30 kgm2) and 26 nonobese (BMI < 30 kgm2",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The first cohort consists of 30 obese (body mass index BMI > 30 kgm2) and 26 nonobese (BMI < 30 kgm2"
+              }]
+          }, {
+            "sentence" : "Cell Culture hASC were isolated from subcutaneous adipose tissue of a male donor ( 16 years old , BMI 24kgm2) , expanded and differentiated in vitro into adipocytes as previously described ( 37)",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Cell Culture hASC were isolated from subcutaneous adipose tissue of a male donor ( 16 years old , BMI 24kgm2) , expanded and differentiated in vitro into adipocytes as previously described ( 37)"
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "As regards power calculation we focused on the published microarrays and used the method by Liu and Hwang (50) to determine the appropriate sample size for such experiments.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "As regards power calculation we focused on the published microarrays and used the method by Liu and Hwang (50) to determine the appropriate sample size for such experiments."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each siRNA pool was run in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each siRNA pool was run in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Each siRNA pool was run in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each siRNA pool was run in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Data from the 26 nonobese women from the same cohort were used for picking genes regulated by morphology ( hyperplasiahypertrophy ) as described in ( 30) .",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data from the 26 nonobese women from the same cohort were used for picking genes regulated by morphology ( hyperplasiahypertrophy ) as described in ( 30) ."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "RNAseq data are accessible on GEO with the accession number GSE164413 (reviewer token ctonmgksrjqpdwz).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RNAseq data are accessible on GEO with the accession number GSE164413 (reviewer token ctonmgksrjqpdwz)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE164413"
+                  }],
+                "neText" : "GSE164413"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Bioconductor package DESEq2 was used for count normalization and sample group comparisons, generating log2 fold changes, Wald test P values and P values adjusted for multiple testing (Benjamini-Hochberg method).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Bioconductor package DESEq2 was used for count normalization and sample group comparisons, generating log2 fold changes, Wald test P values and P values adjusted for multiple testing (Benjamini-Hochberg method)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wald test"
+                  }],
+                "neText" : "Wald test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }]
+          }, {
+            "sentence" : "Statistical Analysis The data were tested for normal distribution with the Shapiro-Wilk test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical Analysis The data were tested for normal distribution with the Shapiro-Wilk test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk test"
+                  }],
+                "neText" : "Shapiro-Wilk test"
+              }]
+          }, {
+            "sentence" : "If the criteria for normal distribution were fulfilled, 1-way analysis of variance (ANOVA) with subsequent Bonferroni correction post hoc test was utilized.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "If the criteria for normal distribution were fulfilled, 1-way analysis of variance (ANOVA) with subsequent Bonferroni correction post hoc test was utilized."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }, {
+            "sentence" : "If only 2 groups were compared, Students t-test was used.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "If only 2 groups were compared, Students t-test was used."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "When the criteria for normal distribution were not achieved, the nonparametric Kruskal-Wallis and Mann-Whitney pair-wise comparison tests were applied.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "When the criteria for normal distribution were not achieved, the nonparametric Kruskal-Wallis and Mann-Whitney pair-wise comparison tests were applied."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis"
+                  }],
+                "neText" : "Kruskal-Wallis"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney pair-wise comparison tests"
+                  }],
+                "neText" : "Mann-Whitney pair-wise comparison tests"
+              }]
+          }, {
+            "sentence" : "Pearson test was used to correlate normally distributed measures (JARID2 expression with adipose tissue morphology, glycerol release with number of differentiated cells) and Spearman test was used to correlate the results from 2 screens.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pearson test was used to correlate normally distributed measures (JARID2 expression with adipose tissue morphology, glycerol release with number of differentiated cells) and Spearman test was used to correlate the results from 2 screens."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson test"
+                  }],
+                "neText" : "Pearson test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman test"
+                  }],
+                "neText" : "Spearman test"
+              }]
+          }]
+      }]
+  }
+}

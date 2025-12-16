@@ -1,0 +1,291 @@
+{
+  "docIdentifier" : "PMC8019197",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Then , protein bands were visualized by human anti-GPR35 antibody ( NOVUSBIO) , human anti-b-catenin antibody ( Proteintech) , human anti-NF-kbp105 antibody ( Cell Signaling Technology) , and human anti-TGF-b1 antibody ( Abcam) .",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then , protein bands were visualized by human anti-GPR35 antibody ( NOVUSBIO) , human anti-b-catenin antibody ( Proteintech) , human anti-NF-kbp105 antibody ( Cell Signaling Technology) , and human anti-TGF-b1 antibody ( Abcam) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GPR35"
+                }],
+              "neText" : "anti-GPR35"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-b-catenin"
+                }],
+              "neText" : "anti-b-catenin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-NF-kbp105"
+                }],
+              "neText" : "anti-NF-kbp105"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TGF-b1"
+                }],
+              "neText" : "anti-TGF-b1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "These molecules were all tested in the Panc-1 cell line.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These molecules were all tested in the Panc-1 cell line."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0480",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Panc-1"
+                }],
+              "neText" : "Panc-1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "DMEM was supplemented by 10 fetal bovine serum (FBS) (Gibco) and 1 penicillinstreptomycin (ATLANTA Biologicals).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "DMEM was supplemented by 10 fetal bovine serum (FBS) (Gibco) and 1 penicillinstreptomycin (ATLANTA Biologicals)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ATLANTA Biologicals"
+                }],
+              "neText" : "ATLANTA Biologicals"
+            }]
+        }, {
+          "sentence" : "2.4.1 The estimation of model parameters In order to get the value of the parameters in Equation ( 1 ) based on relative mRNA expression levels , an algorithm ( fmincon and lsqnonlin function ) was programmed to estimate the 35 parameters by Matlab 2017b .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.4.1 The estimation of model parameters In order to get the value of the parameters in Equation ( 1 ) based on relative mRNA expression levels , an algorithm ( fmincon and lsqnonlin function ) was programmed to estimate the 35 parameters by Matlab 2017b ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB (RRID:SCR_001622)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Matlab"
+                }],
+              "neText" : "Matlab"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "This culture system was duplicated and repeated three times.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This culture system was duplicated and repeated three times."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "This culture system was duplicated and repeated three times.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This culture system was duplicated and repeated three times."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Effective siRNAs have been selected for sensitive analysis test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Effective siRNAs have been selected for sensitive analysis test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis test"
+                  }],
+                "neText" : "analysis test"
+              }]
+          }, {
+            "sentence" : "Differences between the values were evaluated using one-way analysis of variance (Tukeys post hoc test), except in vivo biocompatibility experiment (Tukeys post hoc test).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between the values were evaluated using one-way analysis of variance (Tukeys post hoc test), except in vivo biocompatibility experiment (Tukeys post hoc test)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys post hoc test"
+                  }],
+                "neText" : "Tukeys post hoc test"
+              }]
+          }]
+      }]
+  }
+}

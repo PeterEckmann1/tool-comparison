@@ -1,0 +1,505 @@
+{
+  "docIdentifier" : "PMC8591776",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Rabbit polyclonal antibody anti-human MXD1 ( Atlas Antibody , HPA001599 ) was diluted 1:500 in DAKO antibody diluent",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Rabbit polyclonal antibody anti-human MXD1 ( Atlas Antibody , HPA001599 ) was diluted 1:500 in DAKO antibody diluent"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Rabbit polyclonal antibody anti-human MXD1"
+                }],
+              "neText" : "Rabbit polyclonal antibody anti-human MXD1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(Creative Diagnostics Cat# CPBT-39395GH, RRID:AB_2373374)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human MXD1"
+                }],
+              "neText" : "anti-human MXD1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HPA001599"
+                }],
+              "neText" : "HPA001599"
+            }]
+        }, {
+          "sentence" : "Rabbit monoclonal antibody anti-human programmed cell death 1 ligand ( PDL1 ) ( ABCARTA , PA167 ) and mouse anti-human CD8 monoclonal antibody ( ABCARTA , PA067 ) were used.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Rabbit monoclonal antibody anti-human programmed cell death 1 ligand ( PDL1 ) ( ABCARTA , PA167 ) and mouse anti-human CD8 monoclonal antibody ( ABCARTA , PA067 ) were used."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human programmed cell death 1"
+                }],
+              "neText" : "anti-human programmed cell death 1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PDL1"
+                }],
+              "neText" : "PDL1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human CD8"
+                }],
+              "neText" : "anti-human CD8"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "TCGA Cohort TCGA data were downloaded from the UCSC Cancer Browser website, together with accompanying clinical information.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "TCGA Cohort TCGA data were downloaded from the UCSC Cancer Browser website, together with accompanying clinical information."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UCSC Cancer Browser"
+                }],
+              "neText" : "UCSC Cancer Browser"
+            }]
+        }, {
+          "sentence" : "14 The prediction process was implemented using the SubMap module in the GenePattern platform ( https:cloud.genepattern . orggppages) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "14 The prediction process was implemented using the SubMap module in the GenePattern platform ( https:cloud.genepattern . orggppages) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GenePattern (RRID:SCR_003201)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GenePattern"
+                }],
+              "neText" : "GenePattern"
+            }]
+        }, {
+          "sentence" : "The Limma R package was used to identify significantly differentially expressed genes ( DEGs ) between the MXD1-low and MXD1-high groups based on the threshold of fold change and false discovery rate ( FDR ) or p-value.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Limma R package was used to identify significantly differentially expressed genes ( DEGs ) between the MXD1-low and MXD1-high groups based on the threshold of fold change and false discovery rate ( FDR ) or p-value."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LIMMA (RRID:SCR_010943)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Limma"
+                }],
+              "neText" : "Limma"
+            }]
+        }, {
+          "sentence" : "KEGG ) enrichment using the R package clusterProfiler .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "KEGG ) enrichment using the R package clusterProfiler ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "clusterProfiler (RRID:SCR_016884)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "clusterProfiler"
+                }],
+              "neText" : "clusterProfiler"
+            }]
+        }, {
+          "sentence" : "15 The heat maps of the representative DEGs were generated using the ComplexHeatmap package in R version 3.6.1 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "15 The heat maps of the representative DEGs were generated using the ComplexHeatmap package in R version 3.6.1 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ComplexHeatmap (RRID:SCR_017270)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ComplexHeatmap"
+                }],
+              "neText" : "ComplexHeatmap"
+            }]
+        }, {
+          "sentence" : "18 Statistical Analyses Statistical analyses were performed using SPSS ( version 23.0 IBM)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "18 Statistical Analyses Statistical analyses were performed using SPSS ( version 23.0 IBM)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }, {
+          "sentence" : ", GraphPad Prism version 8.00 (GraphPad Software), and R version 3.6.1 (R Core Team).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", GraphPad Prism version 8.00 (GraphPad Software), and R version 3.6.1 (R Core Team)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The GSE53625 cohort was derived from a cohort of 179 ESCC patients with follow-up information (minimum of 5 years).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The GSE53625 cohort was derived from a cohort of 179 ESCC patients with follow-up information (minimum of 5 years)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "All clinical and microarray data of these patients were publicly downloaded from the GEO website (https:www.ncbi.nlm.nih.govgeoqueryacc.cgi?acc=GSE53625).",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All clinical and microarray data of these patients were publicly downloaded from the GEO website (https:www.ncbi.nlm.nih.govgeoqueryacc.cgi?acc=GSE53625)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "downloaded"
+                  }],
+                "neText" : "downloaded"
+              }]
+          }, {
+            "sentence" : "Materials and Methods Patients and Data Sources The set of array-based RNA expression data for ESCC were obtained from human ESCC datasets (GSE23400, GSE20347, GSE29001, GSE38129, GSE26886, and GSE53625), which were downloaded from the GEO website https:www.ncbi.nlm.nih.govgds).",
+            "rowSpan" : 5,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Patients and Data Sources The set of array-based RNA expression data for ESCC were obtained from human ESCC datasets (GSE23400, GSE20347, GSE29001, GSE38129, GSE26886, and GSE53625), which were downloaded from the GEO website https:www.ncbi.nlm.nih.govgds)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE23400"
+                  }],
+                "neText" : "GSE23400"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE20347"
+                  }],
+                "neText" : "GSE20347"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE29001"
+                  }],
+                "neText" : "GSE29001"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE38129"
+                  }],
+                "neText" : "GSE38129"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE26886"
+                  }],
+                "neText" : "GSE26886"
+              }]
+          }, {
+            "sentence" : "The GSE53625 cohort was derived from a cohort of 179 ESCC patients with follow-up information (minimum of 5 years).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The GSE53625 cohort was derived from a cohort of 179 ESCC patients with follow-up information (minimum of 5 years)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE53625"
+                  }],
+                "neText" : "GSE53625"
+              }]
+          }, {
+            "sentence" : "All clinical and microarray data of these patients were publicly downloaded from the GEO website (https:www.ncbi.nlm.nih.govgeoqueryacc.cgi?acc=GSE53625).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All clinical and microarray data of these patients were publicly downloaded from the GEO website (https:www.ncbi.nlm.nih.govgeoqueryacc.cgi?acc=GSE53625)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "acc=GSE53625"
+                  }],
+                "neText" : "acc=GSE53625"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Pearsons chi-square test and Fishers exact test were used to comparing the categorical variables.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pearsons chi-square test and Fishers exact test were used to comparing the categorical variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }, {
+            "sentence" : "A Pearsons correlation analysis was used to evaluate the association between 2 continuous variables.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A Pearsons correlation analysis was used to evaluate the association between 2 continuous variables."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearsons correlation"
+                  }],
+                "neText" : "Pearsons correlation"
+              }]
+          }, {
+            "sentence" : "Survival analysis was performed using a log-rank test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Survival analysis was performed using a log-rank test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }]
+      }]
+  }
+}

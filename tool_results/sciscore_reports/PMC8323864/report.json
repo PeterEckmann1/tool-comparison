@@ -1,0 +1,838 @@
+{
+  "docIdentifier" : "PMC8323864",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "STARMETHODS KEY RESOURCES TABLE REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies PARP Cell Signaling Technology Cat 9542 RRID:AB_2160739 Celaved Caspase-3 (D175) Cell Signaling Technology Cat 9661 RRID:AB_2341188 eIF4E BD Cat 610270 RRID:AB_397665 p-eIF4E Ser209 Cell Signaling Technology Cat 9721 RRID:AB_561095 beta-Actin Sigma-Aldrich Cat A5316 RRID:AB_476743 Pmpcb Protein Tech Cat 16064-1-AP RRID:AB_2167122 Tfeb Bethyl Laboratories Cat A303-673A RRID:AB_11204751 a-Tubulin Sigma-Aldrich Cat T8203 RRID:AB_1841230 LC3AB Cell Signaling Technology Cat 4108 RRID:AB_2137703 c-Myc (D84C12) Cell Signaling Technology Cat 5605 RRID:AB_1903938 Ras Cell Signaling Technology Cat 3965 RRID:AB_2180216 Atf4 (D4B8) Cell Signaling Technology Cat 11815 RRID:AB_2616025 Xbp-1 Abcam Cat Ab37152 RRID:AB_778939 Magoh Protein Tech Cat 12347-1-AP RRID:AB_2265988 eIF4AIIIeIF4A3 Bethyl Laboratories Cat A302-981A RRID:AB_10748369 Rbm8a Bethyl Laboratories A301-033A RRID:AB_2300943 Bcl-xL (H5) Santa Cruz Cat sc-8392 RRID:AB_626739 Bacterial and virus strains MegaX DH10B T1R Electrocomp Cells Thermo Fisher Scientific C640003 Chemicals, peptides, and recombinant proteins A-1331852 MedChemExpress HY-19741 eFT508 eFFECTOR Therapeutics Trizol Sigma-Aldrich T9424-200ML Trizol LS Invitrogen 10296010 Matrigel Corning CB40234 PhosSTOP Roche 4906837001 Complete Mini proteosome inhibitors Roche 11836170001 Glycogen Roche 10901393001 Paraformaldehyde Poly-lysine Sigma P4707-50ML Critical commercial assays FITC-Annexin V Thermo Fisher Scientific A13199 UPRmt TF Activation Profiling Signosis FA-1010 Cell Titer Glo Promega G9241 Polybrene Millipore Sigma TR-1003-G Lipofectamine 2000 Thermo Fisher Scientific 11662019 Lipofectamine LTX Thermo Fisher Scientific 15338100 TOPO-TA Invitrogen 450641 Super Signal West Pico Plus Chemiluminescent substrate Thermo Scientific 34580 NE-PER Nuclear and Cytoplasmic Extraction Reagents Thermo Scientific 78835 Direct-zol RNA Microprep Zymo Research R2061 High-Capacity cDNA Reverse transcription kit Applied Biosystems 4368814 PowerUP SYBR Green master mix Applied Biosystems A25741 TurboDNA-free kit Invitrogen AM1907 Dual-luciferase Reporter Assay System Promega E1910 SuperScript III first-strand synthesis kit Invitrogen 18080044 Prolong Diamond Antifade mountant with DAPI Invitrogen P36971 Ribo-Zero Illumina 20040526 ScriptSeq v2 RNA-seq library preparation kit Epicenter SSV21124 Deposited data RNA seq Data This paper GEO: GSE175417 Experimental models: Cell lines MEFs eIF4E+- This paper Oligonucleotides See Table S3 This paper Recombinant DNA pBabe-Neo-LargeT Hahn et al., 2002 Addgene 1780 pCL-Eco Naviaux et al., 1996 Addgene 12371 pX458 Ran et al., 2013 Addgene 48138 human HRASV12 Serrano et al., 1997 Addgene 18749 human c-Myc Boehm et al., 2005 Addgene 10674 psPAX2 Didier Trono Addgene 12260 pMD2.G Didier Trono Addgene 12259 pLKO.1 Stewart et al., 2003 Addgene 8453 pMSCV Clontech 634401 pGL3 Promega E1751 pRL Promega E2231 pLG15 Luke Gilbert sgRNA expressing vectors This paper pMSCV-GFP-Tfeb This paper pMSCV-GFP-Pmpcb This paper TFEB 5UTR containing pGL3 reporters This paper mouse CRIPSRi library expressing 5 sgRNAs for each gene IGI CRISPR screening core at UCSF Software and algorithms ImageJ https:imagej.nih.govij Fiji https:imagej.netsoftwarefiji ImageLab software BioRad Prism GraphPad Version 9.1.0 R Studio https:www.rstudio.com HISAT v2.0.5 http:daehwankimlab.github.iohisat2 RSEM v1.3.0 https:github.comdeweylabRSEM releases DAVID v6.8 https:david.ncifcrf.gov survminer R package https:github.comkassambarasurvminer AdobePhotoshop Adobe Adobe Illustrator Adobe RESOURCE AVAILABILITY Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Davide Ruggero (davide.ruggeroucsf.edu) Materials availability Plasmids generated in this study are available from the lead contact, Davide Ruggero (davide.ruggeroucsf.edu) upon request.",
+          "rowSpan" : 17,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STARMETHODS KEY RESOURCES TABLE REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies PARP Cell Signaling Technology Cat 9542 RRID:AB_2160739 Celaved Caspase-3 (D175) Cell Signaling Technology Cat 9661 RRID:AB_2341188 eIF4E BD Cat 610270 RRID:AB_397665 p-eIF4E Ser209 Cell Signaling Technology Cat 9721 RRID:AB_561095 beta-Actin Sigma-Aldrich Cat A5316 RRID:AB_476743 Pmpcb Protein Tech Cat 16064-1-AP RRID:AB_2167122 Tfeb Bethyl Laboratories Cat A303-673A RRID:AB_11204751 a-Tubulin Sigma-Aldrich Cat T8203 RRID:AB_1841230 LC3AB Cell Signaling Technology Cat 4108 RRID:AB_2137703 c-Myc (D84C12) Cell Signaling Technology Cat 5605 RRID:AB_1903938 Ras Cell Signaling Technology Cat 3965 RRID:AB_2180216 Atf4 (D4B8) Cell Signaling Technology Cat 11815 RRID:AB_2616025 Xbp-1 Abcam Cat Ab37152 RRID:AB_778939 Magoh Protein Tech Cat 12347-1-AP RRID:AB_2265988 eIF4AIIIeIF4A3 Bethyl Laboratories Cat A302-981A RRID:AB_10748369 Rbm8a Bethyl Laboratories A301-033A RRID:AB_2300943 Bcl-xL (H5) Santa Cruz Cat sc-8392 RRID:AB_626739 Bacterial and virus strains MegaX DH10B T1R Electrocomp Cells Thermo Fisher Scientific C640003 Chemicals, peptides, and recombinant proteins A-1331852 MedChemExpress HY-19741 eFT508 eFFECTOR Therapeutics Trizol Sigma-Aldrich T9424-200ML Trizol LS Invitrogen 10296010 Matrigel Corning CB40234 PhosSTOP Roche 4906837001 Complete Mini proteosome inhibitors Roche 11836170001 Glycogen Roche 10901393001 Paraformaldehyde Poly-lysine Sigma P4707-50ML Critical commercial assays FITC-Annexin V Thermo Fisher Scientific A13199 UPRmt TF Activation Profiling Signosis FA-1010 Cell Titer Glo Promega G9241 Polybrene Millipore Sigma TR-1003-G Lipofectamine 2000 Thermo Fisher Scientific 11662019 Lipofectamine LTX Thermo Fisher Scientific 15338100 TOPO-TA Invitrogen 450641 Super Signal West Pico Plus Chemiluminescent substrate Thermo Scientific 34580 NE-PER Nuclear and Cytoplasmic Extraction Reagents Thermo Scientific 78835 Direct-zol RNA Microprep Zymo Research R2061 High-Capacity cDNA Reverse transcription kit Applied Biosystems 4368814 PowerUP SYBR Green master mix Applied Biosystems A25741 TurboDNA-free kit Invitrogen AM1907 Dual-luciferase Reporter Assay System Promega E1910 SuperScript III first-strand synthesis kit Invitrogen 18080044 Prolong Diamond Antifade mountant with DAPI Invitrogen P36971 Ribo-Zero Illumina 20040526 ScriptSeq v2 RNA-seq library preparation kit Epicenter SSV21124 Deposited data RNA seq Data This paper GEO: GSE175417 Experimental models: Cell lines MEFs eIF4E+- This paper Oligonucleotides See Table S3 This paper Recombinant DNA pBabe-Neo-LargeT Hahn et al., 2002 Addgene 1780 pCL-Eco Naviaux et al., 1996 Addgene 12371 pX458 Ran et al., 2013 Addgene 48138 human HRASV12 Serrano et al., 1997 Addgene 18749 human c-Myc Boehm et al., 2005 Addgene 10674 psPAX2 Didier Trono Addgene 12260 pMD2.G Didier Trono Addgene 12259 pLKO.1 Stewart et al., 2003 Addgene 8453 pMSCV Clontech 634401 pGL3 Promega E1751 pRL Promega E2231 pLG15 Luke Gilbert sgRNA expressing vectors This paper pMSCV-GFP-Tfeb This paper pMSCV-GFP-Pmpcb This paper TFEB 5UTR containing pGL3 reporters This paper mouse CRIPSRi library expressing 5 sgRNAs for each gene IGI CRISPR screening core at UCSF Software and algorithms ImageJ https:imagej.nih.govij Fiji https:imagej.netsoftwarefiji ImageLab software BioRad Prism GraphPad Version 9.1.0 R Studio https:www.rstudio.com HISAT v2.0.5 http:daehwankimlab.github.iohisat2 RSEM v1.3.0 https:github.comdeweylabRSEM releases DAVID v6.8 https:david.ncifcrf.gov survminer R package https:github.comkassambarasurvminer AdobePhotoshop Adobe Adobe Illustrator Adobe RESOURCE AVAILABILITY Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Davide Ruggero (davide.ruggeroucsf.edu) Materials availability Plasmids generated in this study are available from the lead contact, Davide Ruggero (davide.ruggeroucsf.edu) upon request."
+            }],
+          "mentions" : [{
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 9542, RRID:AB_2160739)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PARP"
+                }],
+              "neText" : "PARP"
+            }, {
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 9661, RRID:AB_2341188)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Caspase-3"
+                }],
+              "neText" : "Caspase-3"
+            }, {
+              "source" : "BD Biosciences",
+              "rrid" : "(BD Biosciences Cat# 610270, RRID:AB_397665)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "eIF4E"
+                }],
+              "neText" : "eIF4E"
+            }, {
+              "source" : "",
+              "rrid" : "(Cell Signaling Technology Cat# 9727, RRID:AB_561095)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "Sigma-Aldrich",
+              "rrid" : "(Sigma-Aldrich Cat# A5316, RRID:AB_476743)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "beta-Actin Cat"
+                }],
+              "neText" : "beta-Actin Cat"
+            }, {
+              "source" : "Proteintech",
+              "rrid" : "(Proteintech Cat# 16064-1-AP, RRID:AB_2167122)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Pmpcb"
+                }],
+              "neText" : "Pmpcb"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# A303-673A, RRID:AB_11204751)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Tfeb"
+                }],
+              "neText" : "Tfeb"
+            }, {
+              "source" : "Sigma-Aldrich",
+              "rrid" : "(Sigma-Aldrich Cat# T8203, RRID:AB_1841230)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "a-Tubulin Cat"
+                }],
+              "neText" : "a-Tubulin Cat"
+            }, {
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 4108, RRID:AB_2137703)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LC3AB Cat"
+                }],
+              "neText" : "LC3AB Cat"
+            }, {
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 5605, RRID:AB_1903938)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "c-Myc D84C12"
+                }],
+              "neText" : "c-Myc D84C12"
+            }, {
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 3965, RRID:AB_2180216)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ras"
+                }],
+              "neText" : "Ras"
+            }, {
+              "source" : "Cell Signaling Technology",
+              "rrid" : "(Cell Signaling Technology Cat# 11815, RRID:AB_2616025)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Atf4 D4B8"
+                }],
+              "neText" : "Atf4 D4B8"
+            }, {
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab37152, RRID:AB_778939)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Xbp-1"
+                }],
+              "neText" : "Xbp-1"
+            }, {
+              "source" : "Proteintech",
+              "rrid" : "(Proteintech Cat# 12347-1-AP, RRID:AB_2265988)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Magoh"
+                }],
+              "neText" : "Magoh"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# A302-981A, RRID:AB_10748369)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "eIF4AIIIeIF4A3"
+                }],
+              "neText" : "eIF4AIIIeIF4A3"
+            }, {
+              "source" : "Thermo Fisher Scientific",
+              "rrid" : "(Thermo Fisher Scientific Cat# A301-033A, RRID:AB_2300943)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Rbm8a"
+                }],
+              "neText" : "Rbm8a"
+            }, {
+              "source" : "Santa Cruz Biotechnology",
+              "rrid" : "(Santa Cruz Biotechnology Cat# sc-8392, RRID:AB_626739)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "H5"
+                }],
+              "neText" : "H5"
+            }]
+        }, {
+          "sentence" : "The primary antibody was diluted in PBS containing 0.3 Triton X-100 and 1BSA (LC3III, Cst 4108, 1:200 dilution) and incubated overnight at 4degC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The primary antibody was diluted in PBS containing 0.3 Triton X-100 and 1BSA (LC3III, Cst 4108, 1:200 dilution) and incubated overnight at 4degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LC3III, Cst 4108"
+                }],
+              "neText" : "LC3III, Cst 4108"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "A549 or U251 cells were grown in tissue culture and harvested just prior to injection.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A549 or U251 cells were grown in tissue culture and harvested just prior to injection."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0021",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "U251"
+                }],
+              "neText" : "U251"
+            }]
+        }, {
+          "sentence" : "A549 non-small-cell lung cancer cell line and U251 human glioblastoma astrocytoma (a kind gift from William Weiss, UCSF) were cultured in DMEM supplemented with 10 Fetal Bovine Serum, 10 glutamax (GIBCO) and PenicillinStreptomycin (GIBCO) at 37degC with 5 CO2.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A549 non-small-cell lung cancer cell line and U251 human glioblastoma astrocytoma (a kind gift from William Weiss, UCSF) were cultured in DMEM supplemented with 10 Fetal Bovine Serum, 10 glutamax (GIBCO) and PenicillinStreptomycin (GIBCO) at 37degC with 5 CO2."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }]
+        }, {
+          "sentence" : "HEK293T cells were transfected with the library and psPAX2 packaging and pMD2.G envelope plasmids. 125 million eIF4E++ and eIF4E+- MEFs were infected with fresh virus harvested and filtered from the HEK293T cells.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HEK293T cells were transfected with the library and psPAX2 packaging and pMD2.G envelope plasmids. 125 million eIF4E++ and eIF4E+- MEFs were infected with fresh virus harvested and filtered from the HEK293T cells."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293T"
+                }],
+              "neText" : "HEK293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Primary MEFs were immortalized by retroviral particles produced by transfecting HEK293T cells with pBabe-Neo-LargeT and pCI-Eco plasmids using Lipofectamine 2000 (Invitrogen).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Primary MEFs were immortalized by retroviral particles produced by transfecting HEK293T cells with pBabe-Neo-LargeT and pCI-Eco plasmids using Lipofectamine 2000 (Invitrogen)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pBabe-Neo-LargeT"
+                }],
+              "neText" : "pBabe-Neo-LargeT"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCI-Eco"
+                }],
+              "neText" : "pCI-Eco"
+            }]
+        }, {
+          "sentence" : "Immortalized monoclonal MEFs were transfected with pX458 plasmids expressing either control or eIF4E sgRNAs using Lipofectamine LTX with plus reagent (Invitrogen).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Immortalized monoclonal MEFs were transfected with pX458 plasmids expressing either control or eIF4E sgRNAs using Lipofectamine LTX with plus reagent (Invitrogen)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pX458"
+                }],
+              "neText" : "pX458"
+            }]
+        }, {
+          "sentence" : "HEK293T cells were transfected with the library and psPAX2 packaging and pMD2.G envelope plasmids. 125 million eIF4E++ and eIF4E+- MEFs were infected with fresh virus harvested and filtered from the HEK293T cells.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HEK293T cells were transfected with the library and psPAX2 packaging and pMD2.G envelope plasmids. 125 million eIF4E++ and eIF4E+- MEFs were infected with fresh virus harvested and filtered from the HEK293T cells."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "psPAX2"
+                }],
+              "neText" : "psPAX2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMD2.G"
+                }],
+              "neText" : "pMD2.G"
+            }]
+        }, {
+          "sentence" : "Competitive growth assay To validate the phenotype obtained from the screen, MEFs were first transduced with an inducible dCas9-Krab-mCherry plasmid.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Competitive growth assay To validate the phenotype obtained from the screen, MEFs were first transduced with an inducible dCas9-Krab-mCherry plasmid."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "dCas9-Krab-mCherry"
+                }],
+              "neText" : "dCas9-Krab-mCherry"
+            }]
+        }, {
+          "sentence" : "Luciferase reporter assay 5UTRs were amplified from cDNA synthesized from MEFs and cloned into the pGL3 luciferase reporter vector (Promega) upstream of the Firefly luciferase open reading frame.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Luciferase reporter assay 5UTRs were amplified from cDNA synthesized from MEFs and cloned into the pGL3 luciferase reporter vector (Promega) upstream of the Firefly luciferase open reading frame."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGL3"
+                }],
+              "neText" : "pGL3"
+            }]
+        }, {
+          "sentence" : "After that, cells were transfected using Lipofectamine LTX (Invitrogen) with 900ng of pGL3-FLuc-Sv40 and 100ng of RLuc.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After that, cells were transfected using Lipofectamine LTX (Invitrogen) with 900ng of pGL3-FLuc-Sv40 and 100ng of RLuc."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pGL3-FLuc-Sv40"
+                }],
+              "neText" : "pGL3-FLuc-Sv40"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "STARMETHODS KEY RESOURCES TABLE REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies PARP Cell Signaling Technology Cat 9542 RRID:AB_2160739 Celaved Caspase-3 (D175) Cell Signaling Technology Cat 9661 RRID:AB_2341188 eIF4E BD Cat 610270 RRID:AB_397665 p-eIF4E Ser209 Cell Signaling Technology Cat 9721 RRID:AB_561095 beta-Actin Sigma-Aldrich Cat A5316 RRID:AB_476743 Pmpcb Protein Tech Cat 16064-1-AP RRID:AB_2167122 Tfeb Bethyl Laboratories Cat A303-673A RRID:AB_11204751 a-Tubulin Sigma-Aldrich Cat T8203 RRID:AB_1841230 LC3AB Cell Signaling Technology Cat 4108 RRID:AB_2137703 c-Myc (D84C12) Cell Signaling Technology Cat 5605 RRID:AB_1903938 Ras Cell Signaling Technology Cat 3965 RRID:AB_2180216 Atf4 (D4B8) Cell Signaling Technology Cat 11815 RRID:AB_2616025 Xbp-1 Abcam Cat Ab37152 RRID:AB_778939 Magoh Protein Tech Cat 12347-1-AP RRID:AB_2265988 eIF4AIIIeIF4A3 Bethyl Laboratories Cat A302-981A RRID:AB_10748369 Rbm8a Bethyl Laboratories A301-033A RRID:AB_2300943 Bcl-xL (H5) Santa Cruz Cat sc-8392 RRID:AB_626739 Bacterial and virus strains MegaX DH10B T1R Electrocomp Cells Thermo Fisher Scientific C640003 Chemicals, peptides, and recombinant proteins A-1331852 MedChemExpress HY-19741 eFT508 eFFECTOR Therapeutics Trizol Sigma-Aldrich T9424-200ML Trizol LS Invitrogen 10296010 Matrigel Corning CB40234 PhosSTOP Roche 4906837001 Complete Mini proteosome inhibitors Roche 11836170001 Glycogen Roche 10901393001 Paraformaldehyde Poly-lysine Sigma P4707-50ML Critical commercial assays FITC-Annexin V Thermo Fisher Scientific A13199 UPRmt TF Activation Profiling Signosis FA-1010 Cell Titer Glo Promega G9241 Polybrene Millipore Sigma TR-1003-G Lipofectamine 2000 Thermo Fisher Scientific 11662019 Lipofectamine LTX Thermo Fisher Scientific 15338100 TOPO-TA Invitrogen 450641 Super Signal West Pico Plus Chemiluminescent substrate Thermo Scientific 34580 NE-PER Nuclear and Cytoplasmic Extraction Reagents Thermo Scientific 78835 Direct-zol RNA Microprep Zymo Research R2061 High-Capacity cDNA Reverse transcription kit Applied Biosystems 4368814 PowerUP SYBR Green master mix Applied Biosystems A25741 TurboDNA-free kit Invitrogen AM1907 Dual-luciferase Reporter Assay System Promega E1910 SuperScript III first-strand synthesis kit Invitrogen 18080044 Prolong Diamond Antifade mountant with DAPI Invitrogen P36971 Ribo-Zero Illumina 20040526 ScriptSeq v2 RNA-seq library preparation kit Epicenter SSV21124 Deposited data RNA seq Data This paper GEO: GSE175417 Experimental models: Cell lines MEFs eIF4E+- This paper Oligonucleotides See Table S3 This paper Recombinant DNA pBabe-Neo-LargeT Hahn et al., 2002 Addgene 1780 pCL-Eco Naviaux et al., 1996 Addgene 12371 pX458 Ran et al., 2013 Addgene 48138 human HRASV12 Serrano et al., 1997 Addgene 18749 human c-Myc Boehm et al., 2005 Addgene 10674 psPAX2 Didier Trono Addgene 12260 pMD2.G Didier Trono Addgene 12259 pLKO.1 Stewart et al., 2003 Addgene 8453 pMSCV Clontech 634401 pGL3 Promega E1751 pRL Promega E2231 pLG15 Luke Gilbert sgRNA expressing vectors This paper pMSCV-GFP-Tfeb This paper pMSCV-GFP-Pmpcb This paper TFEB 5UTR containing pGL3 reporters This paper mouse CRIPSRi library expressing 5 sgRNAs for each gene IGI CRISPR screening core at UCSF Software and algorithms ImageJ https:imagej.nih.govij Fiji https:imagej.netsoftwarefiji ImageLab software BioRad Prism GraphPad Version 9.1.0 R Studio https:www.rstudio.com HISAT v2.0.5 http:daehwankimlab.github.iohisat2 RSEM v1.3.0 https:github.comdeweylabRSEM releases DAVID v6.8 https:david.ncifcrf.gov survminer R package https:github.comkassambarasurvminer AdobePhotoshop Adobe Adobe Illustrator Adobe RESOURCE AVAILABILITY Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Davide Ruggero (davide.ruggeroucsf.edu) Materials availability Plasmids generated in this study are available from the lead contact, Davide Ruggero (davide.ruggeroucsf.edu) upon request.",
+          "rowSpan" : 8,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "STARMETHODS KEY RESOURCES TABLE REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies PARP Cell Signaling Technology Cat 9542 RRID:AB_2160739 Celaved Caspase-3 (D175) Cell Signaling Technology Cat 9661 RRID:AB_2341188 eIF4E BD Cat 610270 RRID:AB_397665 p-eIF4E Ser209 Cell Signaling Technology Cat 9721 RRID:AB_561095 beta-Actin Sigma-Aldrich Cat A5316 RRID:AB_476743 Pmpcb Protein Tech Cat 16064-1-AP RRID:AB_2167122 Tfeb Bethyl Laboratories Cat A303-673A RRID:AB_11204751 a-Tubulin Sigma-Aldrich Cat T8203 RRID:AB_1841230 LC3AB Cell Signaling Technology Cat 4108 RRID:AB_2137703 c-Myc (D84C12) Cell Signaling Technology Cat 5605 RRID:AB_1903938 Ras Cell Signaling Technology Cat 3965 RRID:AB_2180216 Atf4 (D4B8) Cell Signaling Technology Cat 11815 RRID:AB_2616025 Xbp-1 Abcam Cat Ab37152 RRID:AB_778939 Magoh Protein Tech Cat 12347-1-AP RRID:AB_2265988 eIF4AIIIeIF4A3 Bethyl Laboratories Cat A302-981A RRID:AB_10748369 Rbm8a Bethyl Laboratories A301-033A RRID:AB_2300943 Bcl-xL (H5) Santa Cruz Cat sc-8392 RRID:AB_626739 Bacterial and virus strains MegaX DH10B T1R Electrocomp Cells Thermo Fisher Scientific C640003 Chemicals, peptides, and recombinant proteins A-1331852 MedChemExpress HY-19741 eFT508 eFFECTOR Therapeutics Trizol Sigma-Aldrich T9424-200ML Trizol LS Invitrogen 10296010 Matrigel Corning CB40234 PhosSTOP Roche 4906837001 Complete Mini proteosome inhibitors Roche 11836170001 Glycogen Roche 10901393001 Paraformaldehyde Poly-lysine Sigma P4707-50ML Critical commercial assays FITC-Annexin V Thermo Fisher Scientific A13199 UPRmt TF Activation Profiling Signosis FA-1010 Cell Titer Glo Promega G9241 Polybrene Millipore Sigma TR-1003-G Lipofectamine 2000 Thermo Fisher Scientific 11662019 Lipofectamine LTX Thermo Fisher Scientific 15338100 TOPO-TA Invitrogen 450641 Super Signal West Pico Plus Chemiluminescent substrate Thermo Scientific 34580 NE-PER Nuclear and Cytoplasmic Extraction Reagents Thermo Scientific 78835 Direct-zol RNA Microprep Zymo Research R2061 High-Capacity cDNA Reverse transcription kit Applied Biosystems 4368814 PowerUP SYBR Green master mix Applied Biosystems A25741 TurboDNA-free kit Invitrogen AM1907 Dual-luciferase Reporter Assay System Promega E1910 SuperScript III first-strand synthesis kit Invitrogen 18080044 Prolong Diamond Antifade mountant with DAPI Invitrogen P36971 Ribo-Zero Illumina 20040526 ScriptSeq v2 RNA-seq library preparation kit Epicenter SSV21124 Deposited data RNA seq Data This paper GEO: GSE175417 Experimental models: Cell lines MEFs eIF4E+- This paper Oligonucleotides See Table S3 This paper Recombinant DNA pBabe-Neo-LargeT Hahn et al., 2002 Addgene 1780 pCL-Eco Naviaux et al., 1996 Addgene 12371 pX458 Ran et al., 2013 Addgene 48138 human HRASV12 Serrano et al., 1997 Addgene 18749 human c-Myc Boehm et al., 2005 Addgene 10674 psPAX2 Didier Trono Addgene 12260 pMD2.G Didier Trono Addgene 12259 pLKO.1 Stewart et al., 2003 Addgene 8453 pMSCV Clontech 634401 pGL3 Promega E1751 pRL Promega E2231 pLG15 Luke Gilbert sgRNA expressing vectors This paper pMSCV-GFP-Tfeb This paper pMSCV-GFP-Pmpcb This paper TFEB 5UTR containing pGL3 reporters This paper mouse CRIPSRi library expressing 5 sgRNAs for each gene IGI CRISPR screening core at UCSF Software and algorithms ImageJ https:imagej.nih.govij Fiji https:imagej.netsoftwarefiji ImageLab software BioRad Prism GraphPad Version 9.1.0 R Studio https:www.rstudio.com HISAT v2.0.5 http:daehwankimlab.github.iohisat2 RSEM v1.3.0 https:github.comdeweylabRSEM releases DAVID v6.8 https:david.ncifcrf.gov survminer R package https:github.comkassambarasurvminer AdobePhotoshop Adobe Adobe Illustrator Adobe RESOURCE AVAILABILITY Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Davide Ruggero (davide.ruggeroucsf.edu) Materials availability Plasmids generated in this study are available from the lead contact, Davide Ruggero (davide.ruggeroucsf.edu) upon request."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BioRad Prism"
+                }],
+              "neText" : "BioRad Prism"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:www.rstudio.com"
+                }],
+              "neText" : "https:www.rstudio.com"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RSEM"
+                }],
+              "neText" : "RSEM"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AdobePhotoshop"
+                }],
+              "neText" : "AdobePhotoshop"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Adobe Illustrator, RRID:SCR_010279",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Adobe Illustrator"
+                }],
+              "neText" : "Adobe Illustrator"
+            }]
+        }, {
+          "sentence" : "A549 non-small-cell lung cancer cell line and U251 human glioblastoma astrocytoma (a kind gift from William Weiss, UCSF) were cultured in DMEM supplemented with 10 Fetal Bovine Serum, 10 glutamax (GIBCO) and PenicillinStreptomycin (GIBCO) at 37degC with 5 CO2.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A549 non-small-cell lung cancer cell line and U251 human glioblastoma astrocytoma (a kind gift from William Weiss, UCSF) were cultured in DMEM supplemented with 10 Fetal Bovine Serum, 10 glutamax (GIBCO) and PenicillinStreptomycin (GIBCO) at 37degC with 5 CO2."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GIBCO"
+                }],
+              "neText" : "GIBCO"
+            }]
+        }, {
+          "sentence" : "Immunofluorescence eIF4E++ and eIF4E+- MEFs expressing control or Pmpcb sgRNAs were seeded on a coverslip coated with poly-Lysine (Sigma) and induced with Dox for 48h.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Immunofluorescence eIF4E++ and eIF4E+- MEFs expressing control or Pmpcb sgRNAs were seeded on a coverslip coated with poly-Lysine (Sigma) and induced with Dox for 48h."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "The images were quantified by Fiji software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The images were quantified by Fiji software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji"
+                }],
+              "neText" : "Fiji"
+            }]
+        }, {
+          "sentence" : "RNA-seq reads were aligned to mouse GRCm38 genome by using HISAT v2.0.5 (Kim et al., 2015) with default settings.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RNA-seq reads were aligned to mouse GRCm38 genome by using HISAT v2.0.5 (Kim et al., 2015) with default settings."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HISAT"
+                }],
+              "neText" : "HISAT"
+            }]
+        }, {
+          "sentence" : "Differential expression analyses were conducted with DESeq2 (Love et al., 2014) R package, where only genes with an average TPM over 0.5 were involved.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Differential expression analyses were conducted with DESeq2 (Love et al., 2014) R package, where only genes with an average TPM over 0.5 were involved."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DESeq, RRID:SCR_000154",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DESeq2"
+                }],
+              "neText" : "DESeq2"
+            }]
+        }, {
+          "sentence" : "GO and KEGG enrichment analyses were carried out with DAVID v6.8 (Huang et al., 2009), where differentially expressed genes were compared against a background gene set containing all of the expressed genes (average TPM > 0.5).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GO and KEGG enrichment analyses were carried out with DAVID v6.8 (Huang et al., 2009), where differentially expressed genes were compared against a background gene set containing all of the expressed genes (average TPM > 0.5)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Mice were maintained under specific pathogen-free conditions and all experiments were performed in compliance with guidelines approved by the Institutional Animal Care and Use Committee of UCSF.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice were maintained under specific pathogen-free conditions and all experiments were performed in compliance with guidelines approved by the Institutional Animal Care and Use Committee of UCSF."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Data and code availability Original data for Figures 6C and 6D (RNA Seq) in the paper is available at GEO with accession number GEO: GSE175417. EXPERIMENTAL MODEL AND SUBJECT DETAILS Mice Male immunodeficient mice (NSG) at the age of 12-16 weeks were used for injection.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data and code availability Original data for Figures 6C and 6D (RNA Seq) in the paper is available at GEO with accession number GEO: GSE175417. EXPERIMENTAL MODEL AND SUBJECT DETAILS Mice Male immunodeficient mice (NSG) at the age of 12-16 weeks were used for injection."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Data and code availability Original data for Figures 6C and 6D (RNA Seq) in the paper is available at GEO with accession number GEO: GSE175417. EXPERIMENTAL MODEL AND SUBJECT DETAILS Mice Male immunodeficient mice (NSG) at the age of 12-16 weeks were used for injection.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data and code availability Original data for Figures 6C and 6D (RNA Seq) in the paper is available at GEO with accession number GEO: GSE175417. EXPERIMENTAL MODEL AND SUBJECT DETAILS Mice Male immunodeficient mice (NSG) at the age of 12-16 weeks were used for injection."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Mixed cells were seeded on 24-well plates as triplicates and dCas9-Krab-mCherry expression is induced by 0.4mgml doxycycline treatment.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mixed cells were seeded on 24-well plates as triplicates and dCas9-Krab-mCherry expression is induced by 0.4mgml doxycycline treatment."
+              }],
+            "mention" : {
+              "neText" : "triplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicates"
+                }]
+            }
+          }, {
+            "sentence" : "Mixed cells were seeded on 24-well plates as triplicates and dCas9-Krab-mCherry expression is induced by 0.4mgml doxycycline treatment.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mixed cells were seeded on 24-well plates as triplicates and dCas9-Krab-mCherry expression is induced by 0.4mgml doxycycline treatment."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "All cell lines used in this study were found to be negative of mycoplasma contamination using a MycoAlert mycoplasma detection kit (Lonza, Allendale, NJ, USA).",
+            "title" : "Contamination",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All cell lines used in this study were found to be negative of mycoplasma contamination using a MycoAlert mycoplasma detection kit (Lonza, Allendale, NJ, USA)."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Data and code availability Original data for Figures 6C and 6D (RNA Seq) in the paper is available at GEO with accession number GEO: GSE175417. EXPERIMENTAL MODEL AND SUBJECT DETAILS Mice Male immunodeficient mice (NSG) at the age of 12-16 weeks were used for injection.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data and code availability Original data for Figures 6C and 6D (RNA Seq) in the paper is available at GEO with accession number GEO: GSE175417. EXPERIMENTAL MODEL AND SUBJECT DETAILS Mice Male immunodeficient mice (NSG) at the age of 12-16 weeks were used for injection."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "Data and code availability Original data for Figures 6C and 6D (RNA Seq) in the paper is available at GEO with accession number GEO: GSE175417. EXPERIMENTAL MODEL AND SUBJECT DETAILS Mice Male immunodeficient mice (NSG) at the age of 12-16 weeks were used for injection.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data and code availability Original data for Figures 6C and 6D (RNA Seq) in the paper is available at GEO with accession number GEO: GSE175417. EXPERIMENTAL MODEL AND SUBJECT DETAILS Mice Male immunodeficient mice (NSG) at the age of 12-16 weeks were used for injection."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE175417"
+                  }],
+                "neText" : "GSE175417"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "A Wilcoxon paired test was performed to identify significant lethal partners of eIF4E.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A Wilcoxon paired test was performed to identify significant lethal partners of eIF4E."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon paired test"
+                  }],
+                "neText" : "Wilcoxon paired test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "STARMETHODS KEY RESOURCES TABLE REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies PARP Cell Signaling Technology Cat 9542 RRID:AB_2160739 Celaved Caspase-3 (D175) Cell Signaling Technology Cat 9661 RRID:AB_2341188 eIF4E BD Cat 610270 RRID:AB_397665 p-eIF4E Ser209 Cell Signaling Technology Cat 9721 RRID:AB_561095 beta-Actin Sigma-Aldrich Cat A5316 RRID:AB_476743 Pmpcb Protein Tech Cat 16064-1-AP RRID:AB_2167122 Tfeb Bethyl Laboratories Cat A303-673A RRID:AB_11204751 a-Tubulin Sigma-Aldrich Cat T8203 RRID:AB_1841230 LC3AB Cell Signaling Technology Cat 4108 RRID:AB_2137703 c-Myc (D84C12) Cell Signaling Technology Cat 5605 RRID:AB_1903938 Ras Cell Signaling Technology Cat 3965 RRID:AB_2180216 Atf4 (D4B8) Cell Signaling Technology Cat 11815 RRID:AB_2616025 Xbp-1 Abcam Cat Ab37152 RRID:AB_778939 Magoh Protein Tech Cat 12347-1-AP RRID:AB_2265988 eIF4AIIIeIF4A3 Bethyl Laboratories Cat A302-981A RRID:AB_10748369 Rbm8a Bethyl Laboratories A301-033A RRID:AB_2300943 Bcl-xL (H5) Santa Cruz Cat sc-8392 RRID:AB_626739 Bacterial and virus strains MegaX DH10B T1R Electrocomp Cells Thermo Fisher Scientific C640003 Chemicals, peptides, and recombinant proteins A-1331852 MedChemExpress HY-19741 eFT508 eFFECTOR Therapeutics Trizol Sigma-Aldrich T9424-200ML Trizol LS Invitrogen 10296010 Matrigel Corning CB40234 PhosSTOP Roche 4906837001 Complete Mini proteosome inhibitors Roche 11836170001 Glycogen Roche 10901393001 Paraformaldehyde Poly-lysine Sigma P4707-50ML Critical commercial assays FITC-Annexin V Thermo Fisher Scientific A13199 UPRmt TF Activation Profiling Signosis FA-1010 Cell Titer Glo Promega G9241 Polybrene Millipore Sigma TR-1003-G Lipofectamine 2000 Thermo Fisher Scientific 11662019 Lipofectamine LTX Thermo Fisher Scientific 15338100 TOPO-TA Invitrogen 450641 Super Signal West Pico Plus Chemiluminescent substrate Thermo Scientific 34580 NE-PER Nuclear and Cytoplasmic Extraction Reagents Thermo Scientific 78835 Direct-zol RNA Microprep Zymo Research R2061 High-Capacity cDNA Reverse transcription kit Applied Biosystems 4368814 PowerUP SYBR Green master mix Applied Biosystems A25741 TurboDNA-free kit Invitrogen AM1907 Dual-luciferase Reporter Assay System Promega E1910 SuperScript III first-strand synthesis kit Invitrogen 18080044 Prolong Diamond Antifade mountant with DAPI Invitrogen P36971 Ribo-Zero Illumina 20040526 ScriptSeq v2 RNA-seq library preparation kit Epicenter SSV21124 Deposited data RNA seq Data This paper GEO: GSE175417 Experimental models: Cell lines MEFs eIF4E+- This paper Oligonucleotides See Table S3 This paper Recombinant DNA pBabe-Neo-LargeT Hahn et al., 2002 Addgene 1780 pCL-Eco Naviaux et al., 1996 Addgene 12371 pX458 Ran et al., 2013 Addgene 48138 human HRASV12 Serrano et al., 1997 Addgene 18749 human c-Myc Boehm et al., 2005 Addgene 10674 psPAX2 Didier Trono Addgene 12260 pMD2.G Didier Trono Addgene 12259 pLKO.1 Stewart et al., 2003 Addgene 8453 pMSCV Clontech 634401 pGL3 Promega E1751 pRL Promega E2231 pLG15 Luke Gilbert sgRNA expressing vectors This paper pMSCV-GFP-Tfeb This paper pMSCV-GFP-Pmpcb This paper TFEB 5UTR containing pGL3 reporters This paper mouse CRIPSRi library expressing 5 sgRNAs for each gene IGI CRISPR screening core at UCSF Software and algorithms ImageJ https:imagej.nih.govij Fiji https:imagej.netsoftwarefiji ImageLab software BioRad Prism GraphPad Version 9.1.0 R Studio https:www.rstudio.com HISAT v2.0.5 http:daehwankimlab.github.iohisat2 RSEM v1.3.0 https:github.comdeweylabRSEM releases DAVID v6.8 https:david.ncifcrf.gov survminer R package https:github.comkassambarasurvminer AdobePhotoshop Adobe Adobe Illustrator Adobe RESOURCE AVAILABILITY Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Davide Ruggero (davide.ruggeroucsf.edu) Materials availability Plasmids generated in this study are available from the lead contact, Davide Ruggero (davide.ruggeroucsf.edu) upon request.",
+            "rowSpan" : 8,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "STARMETHODS KEY RESOURCES TABLE REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies PARP Cell Signaling Technology Cat 9542 RRID:AB_2160739 Celaved Caspase-3 (D175) Cell Signaling Technology Cat 9661 RRID:AB_2341188 eIF4E BD Cat 610270 RRID:AB_397665 p-eIF4E Ser209 Cell Signaling Technology Cat 9721 RRID:AB_561095 beta-Actin Sigma-Aldrich Cat A5316 RRID:AB_476743 Pmpcb Protein Tech Cat 16064-1-AP RRID:AB_2167122 Tfeb Bethyl Laboratories Cat A303-673A RRID:AB_11204751 a-Tubulin Sigma-Aldrich Cat T8203 RRID:AB_1841230 LC3AB Cell Signaling Technology Cat 4108 RRID:AB_2137703 c-Myc (D84C12) Cell Signaling Technology Cat 5605 RRID:AB_1903938 Ras Cell Signaling Technology Cat 3965 RRID:AB_2180216 Atf4 (D4B8) Cell Signaling Technology Cat 11815 RRID:AB_2616025 Xbp-1 Abcam Cat Ab37152 RRID:AB_778939 Magoh Protein Tech Cat 12347-1-AP RRID:AB_2265988 eIF4AIIIeIF4A3 Bethyl Laboratories Cat A302-981A RRID:AB_10748369 Rbm8a Bethyl Laboratories A301-033A RRID:AB_2300943 Bcl-xL (H5) Santa Cruz Cat sc-8392 RRID:AB_626739 Bacterial and virus strains MegaX DH10B T1R Electrocomp Cells Thermo Fisher Scientific C640003 Chemicals, peptides, and recombinant proteins A-1331852 MedChemExpress HY-19741 eFT508 eFFECTOR Therapeutics Trizol Sigma-Aldrich T9424-200ML Trizol LS Invitrogen 10296010 Matrigel Corning CB40234 PhosSTOP Roche 4906837001 Complete Mini proteosome inhibitors Roche 11836170001 Glycogen Roche 10901393001 Paraformaldehyde Poly-lysine Sigma P4707-50ML Critical commercial assays FITC-Annexin V Thermo Fisher Scientific A13199 UPRmt TF Activation Profiling Signosis FA-1010 Cell Titer Glo Promega G9241 Polybrene Millipore Sigma TR-1003-G Lipofectamine 2000 Thermo Fisher Scientific 11662019 Lipofectamine LTX Thermo Fisher Scientific 15338100 TOPO-TA Invitrogen 450641 Super Signal West Pico Plus Chemiluminescent substrate Thermo Scientific 34580 NE-PER Nuclear and Cytoplasmic Extraction Reagents Thermo Scientific 78835 Direct-zol RNA Microprep Zymo Research R2061 High-Capacity cDNA Reverse transcription kit Applied Biosystems 4368814 PowerUP SYBR Green master mix Applied Biosystems A25741 TurboDNA-free kit Invitrogen AM1907 Dual-luciferase Reporter Assay System Promega E1910 SuperScript III first-strand synthesis kit Invitrogen 18080044 Prolong Diamond Antifade mountant with DAPI Invitrogen P36971 Ribo-Zero Illumina 20040526 ScriptSeq v2 RNA-seq library preparation kit Epicenter SSV21124 Deposited data RNA seq Data This paper GEO: GSE175417 Experimental models: Cell lines MEFs eIF4E+- This paper Oligonucleotides See Table S3 This paper Recombinant DNA pBabe-Neo-LargeT Hahn et al., 2002 Addgene 1780 pCL-Eco Naviaux et al., 1996 Addgene 12371 pX458 Ran et al., 2013 Addgene 48138 human HRASV12 Serrano et al., 1997 Addgene 18749 human c-Myc Boehm et al., 2005 Addgene 10674 psPAX2 Didier Trono Addgene 12260 pMD2.G Didier Trono Addgene 12259 pLKO.1 Stewart et al., 2003 Addgene 8453 pMSCV Clontech 634401 pGL3 Promega E1751 pRL Promega E2231 pLG15 Luke Gilbert sgRNA expressing vectors This paper pMSCV-GFP-Tfeb This paper pMSCV-GFP-Pmpcb This paper TFEB 5UTR containing pGL3 reporters This paper mouse CRIPSRi library expressing 5 sgRNAs for each gene IGI CRISPR screening core at UCSF Software and algorithms ImageJ https:imagej.nih.govij Fiji https:imagej.netsoftwarefiji ImageLab software BioRad Prism GraphPad Version 9.1.0 R Studio https:www.rstudio.com HISAT v2.0.5 http:daehwankimlab.github.iohisat2 RSEM v1.3.0 https:github.comdeweylabRSEM releases DAVID v6.8 https:david.ncifcrf.gov survminer R package https:github.comkassambarasurvminer AdobePhotoshop Adobe Adobe Illustrator Adobe RESOURCE AVAILABILITY Lead contact Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Davide Ruggero (davide.ruggeroucsf.edu) Materials availability Plasmids generated in this study are available from the lead contact, Davide Ruggero (davide.ruggeroucsf.edu) upon request."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 1780 "
+                  }],
+                "neText" : "Addgene 1780 "
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 12371 "
+                  }],
+                "neText" : "Addgene 12371 "
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 48138 "
+                  }],
+                "neText" : "Addgene 48138 "
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 18749 "
+                  }],
+                "neText" : "Addgene 18749 "
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 10674 "
+                  }],
+                "neText" : "Addgene 10674 "
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 12260 "
+                  }],
+                "neText" : "Addgene 12260 "
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 12259 "
+                  }],
+                "neText" : "Addgene 12259 "
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Addgene 8453 "
+                  }],
+                "neText" : "Addgene 8453 "
+              }]
+          }]
+      }]
+  }
+}

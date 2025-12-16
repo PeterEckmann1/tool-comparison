@@ -1,0 +1,244 @@
+{
+  "docIdentifier" : "PMC8814304",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis was conducted using the boot, Hmisc, lme4, ROCit and DescTools packages for R 4.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis was conducted using the boot, Hmisc, lme4, ROCit and DescTools packages for R 4.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DescTools"
+                }],
+              "neText" : "DescTools"
+            }]
+        }, {
+          "sentence" : "Model 5 and 6: Whole blood and plasma IL-8 levels from the first two assessment points of the BioCog study, adjusted for sex and age, surgery type, ASA-PS, anesthesia duration and hemoglobin levels.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Model 5 and 6: Whole blood and plasma IL-8 levels from the first two assessment points of the BioCog study, adjusted for sex and age, surgery type, ASA-PS, anesthesia duration and hemoglobin levels."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BioCog"
+                }],
+              "neText" : "BioCog"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Patients >=65 years of European descent presenting for elective surgery with an expected duration >60min were included after giving informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients >=65 years of European descent presenting for elective surgery with an expected duration >60min were included after giving informed consent."
+              }]
+          }, {
+            "sentence" : "All procedures were approved by the local medical ethics committees of the study centers in Berlin, Germany (EA209214) and Utrecht, Netherlands (14-469).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All procedures were approved by the local medical ethics committees of the study centers in Berlin, Germany (EA209214) and Utrecht, Netherlands (14-469)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Exclusion criteria were MMSE score <=23 points in the screening, neuropsychiatric morbidity and sensory impairment interfering with neurocognitive testing, centrally acting medication, homelessness or expected unavailability for a follow-up assessment, participation in another clinical intervention study during hospital stay, accommodation in an institution due to official or judicial order (Winterer et al., 2018).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Exclusion criteria were MMSE score <=23 points in the screening, neuropsychiatric morbidity and sensory impairment interfering with neurocognitive testing, centrally acting medication, homelessness or expected unavailability for a follow-up assessment, participation in another clinical intervention study during hospital stay, accommodation in an institution due to official or judicial order (Winterer et al., 2018)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "(For illustrative purposes, regression coefficients were re-transformed to a natural scale for a female 72-year-old patient in BioCog and a female 59-year-old patient in PHYDELIO.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "(For illustrative purposes, regression coefficients were re-transformed to a natural scale for a female 72-year-old patient in BioCog and a female 59-year-old patient in PHYDELIO."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Patients >=65 years of European descent presenting for elective surgery with an expected duration >60min were included after giving informed consent.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients >=65 years of European descent presenting for elective surgery with an expected duration >60min were included after giving informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "2.1.2 PHYDELIO PHYDELIO (Perioperative PHYsostigmine prophylaxis for liver resection patients at risk for DELIrium and postOperative cognitive dysfunction) is a single center, double blinded, two-armed, randomized placebo-controlled phase IV trial: Patients were randomized either to receive physostigmine or placebo starting after induction of anesthesia for 24  h.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.1.2 PHYDELIO PHYDELIO (Perioperative PHYsostigmine prophylaxis for liver resection patients at risk for DELIrium and postOperative cognitive dysfunction) is a single center, double blinded, two-armed, randomized placebo-controlled phase IV trial: Patients were randomized either to receive physostigmine or placebo starting after induction of anesthesia for 24  h."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "2.1.2 PHYDELIO PHYDELIO (Perioperative PHYsostigmine prophylaxis for liver resection patients at risk for DELIrium and postOperative cognitive dysfunction) is a single center, double blinded, two-armed, randomized placebo-controlled phase IV trial: Patients were randomized either to receive physostigmine or placebo starting after induction of anesthesia for 24  h.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.1.2 PHYDELIO PHYDELIO (Perioperative PHYsostigmine prophylaxis for liver resection patients at risk for DELIrium and postOperative cognitive dysfunction) is a single center, double blinded, two-armed, randomized placebo-controlled phase IV trial: Patients were randomized either to receive physostigmine or placebo starting after induction of anesthesia for 24  h."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The screening for delirium was initiated post-surgery and repeated twice per day at 8:00am and 7:00pm ( +-1 h ) up to seven days after surgery .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The screening for delirium was initiated post-surgery and repeated twice per day at 8:00am and 7:00pm ( +-1 h ) up to seven days after surgery ."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "The screening for delirium was initiated post-surgery and repeated twice per day at 8:00am and 7:00pm ( +-1 h ) up to seven days after surgery .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The screening for delirium was initiated post-surgery and repeated twice per day at 8:00am and 7:00pm ( +-1 h ) up to seven days after surgery ."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Since plasma IL-8 was not measured in PHYDELIO and thus validation was not possible, the prognostic value for plasma IL-8 has not been analyzed in this instance.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Since plasma IL-8 was not measured in PHYDELIO and thus validation was not possible, the prognostic value for plasma IL-8 has not been analyzed in this instance."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Protocol Information",
+        "srList" : [{
+            "sentence" : "The study was registered at clinicaltrials.gov (NCT02832193).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was registered at clinicaltrials.gov (NCT02832193)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "warning" : "Warning: study registration date June 28, 2016 is after study start date March 2009",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT02832193"
+                  }],
+                "neText" : "NCT02832193"
+              }]
+          }, {
+            "sentence" : "The study is registered , number ISRCTN18978802 and EudraCT 2008-007237-47 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study is registered , number ISRCTN18978802 and EudraCT 2008-007237-47 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "2008-007237-47"
+                  }],
+                "neText" : "2008-007237-47"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "In order to compare IL-8 levels at three different sampling time points between patients with postoperative delirium and without delirium, the Wilcoxon rank sum test for independent samples was applied.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In order to compare IL-8 levels at three different sampling time points between patients with postoperative delirium and without delirium, the Wilcoxon rank sum test for independent samples was applied."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon rank sum test"
+                  }],
+                "neText" : "Wilcoxon rank sum test"
+              }]
+          }, {
+            "sentence" : "Wilcoxons signed rank test was also used to test for statistically differences in IL-8 levels between patients with different perioperative medication (Supplementary Tables S6 and S7).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Wilcoxons signed rank test was also used to test for statistically differences in IL-8 levels between patients with different perioperative medication (Supplementary Tables S6 and S7)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxons signed rank test"
+                  }],
+                "neText" : "Wilcoxons signed rank test"
+              }]
+          }]
+      }]
+  }
+}

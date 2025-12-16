@@ -1,0 +1,162 @@
+{
+  "docIdentifier" : "PMC8847996",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2.7 Statistical analysis Data analysis was performed using SPSS software (SPSS 26.0, Inc., Chicago, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.7 Statistical analysis Data analysis was performed using SPSS software (SPSS 26.0, Inc., Chicago, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Participants gave fully informed consent to participate in the study and ethical approval was obtained from the University College London committee on the Ethics of Human Research.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants gave fully informed consent to participate in the study and ethical approval was obtained from the University College London committee on the Ethics of Human Research."
+              }]
+          }, {
+            "sentence" : "Participants gave fully informed consent to participate in the study and ethical approval was obtained from the University College London committee on the Ethics of Human Research.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Participants gave fully informed consent to participate in the study and ethical approval was obtained from the University College London committee on the Ethics of Human Research."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "In total, 1217 cases of fatal or non-fatal CHD and 880 all-cause deaths occurred during the follow-up period.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In total, 1217 cases of fatal or non-fatal CHD and 880 all-cause deaths occurred during the follow-up period."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "In phase 3, a total number of 8815 civil servants participated (6057 men and 2758 women).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In phase 3, a total number of 8815 civil servants participated (6057 men and 2758 women)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "The GHQ-30 was validated against clinical interview in the Whitehall II Study.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The GHQ-30 was validated against clinical interview in the Whitehall II Study."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "To examine outcome risk (fatal or non-fatal CHD events and all-cause mortality), Cox regression analyses were performed adjusted for age.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To examine outcome risk (fatal or non-fatal CHD events and all-cause mortality), Cox regression analyses were performed adjusted for age."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Cox regression"
+                  }],
+                "neText" : "Cox regression"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "docIdentifier" : "PMC8285919",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "For the analysis of the rearrangements of the cells in the clone, the value of the distance among cells was obtained using a Fiji custom-made macro.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For the analysis of the rearrangements of the cells in the clone, the value of the distance among cells was obtained using a Fiji custom-made macro."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fiji"
+                }],
+              "neText" : "Fiji"
+            }]
+        }, {
+          "sentence" : "The statistical analysis of the data was performed using Graphpad Prism (version 8).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The statistical analysis of the data was performed using Graphpad Prism (version 8)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Graphpad Prism"
+                }],
+              "neText" : "Graphpad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Animal experiments were approved by the Cantonal Commission for Animal Experimentation of the Canton of Zurich, Switzerland, in accordance with national and cantonal regulations.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animal experiments were approved by the Cantonal Commission for Animal Experimentation of the Canton of Zurich, Switzerland, in accordance with national and cantonal regulations."
+              }]
+          }, {
+            "sentence" : "Animal experiments were approved by the Cantonal Commission for Animal Experimentation of the Canton of Zurich, Switzerland, in accordance with national and cantonal regulations.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animal experiments were approved by the Cantonal Commission for Animal Experimentation of the Canton of Zurich, Switzerland, in accordance with national and cantonal regulations."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The surgical intervention for demyelinating an area of the CC and placing the transcortical window was carried out in Ascl1CreERT2tdTom mice aged 9 to 12 wk (25).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The surgical intervention for demyelinating an area of the CC and placing the transcortical window was carried out in Ascl1CreERT2tdTom mice aged 9 to 12 wk (25)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Every lineage was annotated with a code ( SI Appendix, Supplementary Materials and Methods ) by a blinded researcher.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Every lineage was annotated with a code ( SI Appendix, Supplementary Materials and Methods ) by a blinded researcher."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All the applied statistics were conducted on data from three or more biologically independent experimental replicates.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the applied statistics were conducted on data from three or more biologically independent experimental replicates."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "First, normality was tested, and when data did not follow a normal distribution according to the Shapiro-Wilk test, the nonparametric Mann-Whitney U test or Wilcoxon matched-pairs test were performed.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "First, normality was tested, and when data did not follow a normal distribution according to the Shapiro-Wilk test, the nonparametric Mann-Whitney U test or Wilcoxon matched-pairs test were performed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro-Wilk test"
+                  }],
+                "neText" : "Shapiro-Wilk test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon matched-pairs test"
+                  }],
+                "neText" : "Wilcoxon matched-pairs test"
+              }]
+          }, {
+            "sentence" : "Alternatively, a paired or an unpaired two-tailed Students t test was used for mean comparison depending on the nature of the analysis (within or between subjects).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Alternatively, a paired or an unpaired two-tailed Students t test was used for mean comparison depending on the nature of the analysis (within or between subjects)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t test"
+                  }],
+                "neText" : "Students t test"
+              }]
+          }, {
+            "sentence" : "In case of comparison of three or more groups, one-way ANOVA or Kruskal-Wallis tests were performed.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In case of comparison of three or more groups, one-way ANOVA or Kruskal-Wallis tests were performed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis tests"
+                  }],
+                "neText" : "Kruskal-Wallis tests"
+              }]
+          }]
+      }]
+  }
+}

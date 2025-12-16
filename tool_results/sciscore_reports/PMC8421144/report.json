@@ -1,0 +1,487 @@
+{
+  "docIdentifier" : "PMC8421144",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Antibodies used were SLU7 ( Novus , Biologicals , Centennial , CO , USA NBP2-20403 1:1000)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibodies used were SLU7 ( Novus , Biologicals , Centennial , CO , USA NBP2-20403 1:1000)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SLU7"
+                }],
+              "neText" : "SLU7"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "The HCT116 DNMT1 -- cell line was kindly provided by Dr Rob M. Ewing (Southampton, UK) and described in (22).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The HCT116 DNMT1 -- cell line was kindly provided by Dr Rob M. Ewing (Southampton, UK) and described in (22)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HCT116 DNMT1"
+                }],
+              "neText" : "HCT116 DNMT1"
+            }]
+        }, {
+          "sentence" : "Human HCC cell lines PLCPRF5 and HepG2, human cervical carcinoma cell line HeLa, human melanoma cell line A375 and human embryonic kidney immortalized cell line HEK293T were grown in DMEM (Gibco-Life Technology, Madrid, Spain) supplemented with 10 FBS, glutamine and antibiotics.",
+          "rowSpan" : 6,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Human HCC cell lines PLCPRF5 and HepG2, human cervical carcinoma cell line HeLa, human melanoma cell line A375 and human embryonic kidney immortalized cell line HEK293T were grown in DMEM (Gibco-Life Technology, Madrid, Spain) supplemented with 10 FBS, glutamine and antibiotics."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HCC"
+                }],
+              "neText" : "HCC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PLCPRF5"
+                }],
+              "neText" : "PLCPRF5"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0027",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HepG2"
+                }],
+              "neText" : "HepG2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0030",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa"
+                }],
+              "neText" : "HeLa"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0132",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A375"
+                }],
+              "neText" : "A375"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293T"
+                }],
+              "neText" : "HEK293T"
+            }]
+        }, {
+          "sentence" : "Human non-small cell lung cancer cell line H358 and human adenocarcinoma cell line A549 were grown in RPMI (Gibco-Life Technology) supplemented with 10 FBS, glutamine and antibiotics.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Human non-small cell lung cancer cell line H358 and human adenocarcinoma cell line A549 were grown in RPMI (Gibco-Life Technology) supplemented with 10 FBS, glutamine and antibiotics."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_1559",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "H358"
+                }],
+              "neText" : "H358"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }]
+        }, {
+          "sentence" : "Human colon cancer cell line HCT116 and HCT116 DNMT1 -- were grown in McCoys 5A (Gibco-Life Technology) supplemented with 10 FBS, glutamine and antibiotics.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Human colon cancer cell line HCT116 and HCT116 DNMT1 -- were grown in McCoys 5A (Gibco-Life Technology) supplemented with 10 FBS, glutamine and antibiotics."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0291",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HCT116"
+                }],
+              "neText" : "HCT116"
+            }]
+        }, {
+          "sentence" : "Human breast cancer cell line MCF7 was grown in MEM (Gibco-Life Technology) supplemented with 10 FBS, insulin and antibiotics.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Human breast cancer cell line MCF7 was grown in MEM (Gibco-Life Technology) supplemented with 10 FBS, insulin and antibiotics."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0031",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MCF7"
+                }],
+              "neText" : "MCF7"
+            }]
+        }, {
+          "sentence" : "Human glioblastoma cell line U87 was grown in DMEMF12 (Gibco-Life Technology) supplemented with 10 FBS and antibiotics.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Human glioblastoma cell line U87 was grown in DMEMF12 (Gibco-Life Technology) supplemented with 10 FBS and antibiotics."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "U87"
+                }],
+              "neText" : "U87"
+            }]
+        }, {
+          "sentence" : ", Thermo Fisher Scientific , Waltham , MA , USA) , and specific methylated ( M ) and unmethylated ( U ) primers for the targeted regions of TRIM47 , TFF3 , DLG3 , RASSF1A and GNMT .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", Thermo Fisher Scientific , Waltham , MA , USA) , and specific methylated ( M ) and unmethylated ( U ) primers for the targeted regions of TRIM47 , TFF3 , DLG3 , RASSF1A and GNMT ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RASSF1A"
+                }],
+              "neText" : "RASSF1A"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "pcDNA6.1A-SLU7 plasmid was from GenScript BioTech (Piscataway, NJ, USA) and pcDNA3.1-HDAC1-Flag was kindly provided by Dr Donald E. Ayer (University of Utah, USA)",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "pcDNA6.1A-SLU7 plasmid was from GenScript BioTech (Piscataway, NJ, USA) and pcDNA3.1-HDAC1-Flag was kindly provided by Dr Donald E. Ayer (University of Utah, USA)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA6.1A-SLU7"
+                }],
+              "neText" : "pcDNA6.1A-SLU7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA3.1-HDAC1-Flag"
+                }],
+              "neText" : "pcDNA3.1-HDAC1-Flag"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Where indicated, cells were treated before harvesting with the proteasome inhibitor 10 mM MG-132 (Calbiochem, CA, USA, 474790) for the last 20 h or with 20 mM MG-132 for the last 12 h with the protein synthesis inhibitor 10 mml cycloheximide (Sigma-Aldrich, MO, USA, C-7698) for 8 h and 12 h with cell cycle drugs 20 mM lovastatin (Sigma-Aldrich PHR1285) or 2 mgml aphidicolin (Sigma-Aldrich A078) for 60 h or with 330 nM nocodazole (Sigma-Aldrich M1404) for 12 h or 60 h with the demethylating agent 10 mM 5-aza-2-deoxycytidine (Sigma, St. Louis, MO, USA) during 7 days.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Where indicated, cells were treated before harvesting with the proteasome inhibitor 10 mM MG-132 (Calbiochem, CA, USA, 474790) for the last 20 h or with 20 mM MG-132 for the last 12 h with the protein synthesis inhibitor 10 mml cycloheximide (Sigma-Aldrich, MO, USA, C-7698) for 8 h and 12 h with cell cycle drugs 20 mM lovastatin (Sigma-Aldrich PHR1285) or 2 mgml aphidicolin (Sigma-Aldrich A078) for 60 h or with 330 nM nocodazole (Sigma-Aldrich M1404) for 12 h or 60 h with the demethylating agent 10 mM 5-aza-2-deoxycytidine (Sigma, St. Louis, MO, USA) during 7 days."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "The resulting regions were then annotated using the HOMER software package ( 25) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The resulting regions were then annotated using the HOMER software package ( 25) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HOMER"
+                }],
+              "neText" : "HOMER"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Statistical analysis was performed using the GraphPad Prism software (version 8).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Statistical analysis was performed using the GraphPad Prism software (version 8)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Protocols were also approved and performed according to the guidelines of the Ethics Committee for Animal Testing of the University of Navarra ( CEEA-06216 ) and Navarra Government ( GN 2016325511) .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Protocols were also approved and performed according to the guidelines of the Ethics Committee for Animal Testing of the University of Navarra ( CEEA-06216 ) and Navarra Government ( GN 2016325511) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "C57BL6J 8-week-old male mice (Harlan, Indianapolis, IN, USA) were injected i.v. with control (AAV-Ren) and liver expressing shSLU7 (AAV-shSLU7) adenoassociated virus (1 x 1011 pfu) constructed, produced and purified as described (16).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "C57BL6J 8-week-old male mice (Harlan, Indianapolis, IN, USA) were injected i.v. with control (AAV-Ren) and liver expressing shSLU7 (AAV-shSLU7) adenoassociated virus (1 x 1011 pfu) constructed, produced and purified as described (16)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "C57BL6J 8-week-old male mice (Harlan, Indianapolis, IN, USA) were injected i.v. with control (AAV-Ren) and liver expressing shSLU7 (AAV-shSLU7) adenoassociated virus (1 x 1011 pfu) constructed, produced and purified as described (16).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "C57BL6J 8-week-old male mice (Harlan, Indianapolis, IN, USA) were injected i.v. with control (AAV-Ren) and liver expressing shSLU7 (AAV-shSLU7) adenoassociated virus (1 x 1011 pfu) constructed, produced and purified as described (16)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Experiments were performed 15 days after AAV injection with at least 5 animals per group and were repeated at least twice.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Experiments were performed 15 days after AAV injection with at least 5 animals per group and were repeated at least twice."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "Experiments were performed 15 days after AAV injection with at least 5 animals per group and were repeated at least twice.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Experiments were performed 15 days after AAV injection with at least 5 animals per group and were repeated at least twice."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Code Information",
+        "srList" : [{
+            "sentence" : "Sequence of siRNAs will be provided upon request.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sequence of siRNAs will be provided upon request."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "provided"
+                  }],
+                "neText" : "provided"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Chi-squared test was then applied.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Chi-squared test was then applied."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-squared test"
+                  }],
+                "neText" : "Chi-squared test"
+              }]
+          }, {
+            "sentence" : "Statistically significant differences were estimated by applying two-sided unpaired Students t-test or Mann-Whitney U-test according to sample distribution.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistically significant differences were estimated by applying two-sided unpaired Students t-test or Mann-Whitney U-test according to sample distribution."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U-test"
+                  }],
+                "neText" : "Mann-Whitney U-test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "docIdentifier" : "PMC8959336",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Five selected pathogenic bacteria , namely , E . coli , E . faecium , Klebsiella pneumoniae , P . aeruginosa and S. aureus were focused on .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Five selected pathogenic bacteria , namely , E . coli , E . faecium , Klebsiella pneumoniae , P . aeruginosa and S. aureus were focused on ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "P . aeruginosa"
+                }],
+              "neText" : "P . aeruginosa"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "These keywords were used to retrieve studies from electronic databases including PubMed (https:pubmed.ncbi.nlm.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These keywords were used to retrieve studies from electronic databases including PubMed (https:pubmed.ncbi.nlm."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PubMed (RRID:SCR_004846)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PubMed"
+                }],
+              "neText" : "PubMed"
+            }]
+        }, {
+          "sentence" : "nih . gov , from 01092019 to 08062020 ) Science Direct ( https:www.sciencedirect.com from 06092019 to 08062020 ) and Google scholar ( https:scholar",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "nih . gov , from 01092019 to 08062020 ) Science Direct ( https:www.sciencedirect.com from 06092019 to 08062020 ) and Google scholar ( https:scholar"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Google Scholar (RRID:SCR_008878)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Google scholar"
+                }],
+              "neText" : "Google scholar"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "2 MATERIALS AND METHODS 2.1 Systematic search strategy and selection criteria of the journal articles This review was done following the recommended methodology as outlined by the preferred reporting items for systematic reviews (PRISMA) as shown in Figure 1 (Moher et al., 2015).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 MATERIALS AND METHODS 2.1 Systematic search strategy and selection criteria of the journal articles This review was done following the recommended methodology as outlined by the preferred reporting items for systematic reviews (PRISMA) as shown in Figure 1 (Moher et al., 2015)."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "However , some studies used duplicates or replicate from the same fly homogenates .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "However , some studies used duplicates or replicate from the same fly homogenates ."
+              }],
+            "mention" : {
+              "neText" : "duplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicates"
+                }]
+            }
+          }, {
+            "sentence" : "However , some studies used duplicates or replicate from the same fly homogenates .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "However , some studies used duplicates or replicate from the same fly homogenates ."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

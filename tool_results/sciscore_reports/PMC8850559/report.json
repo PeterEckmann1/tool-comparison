@@ -1,0 +1,376 @@
+{
+  "docIdentifier" : "PMC8850559",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The membranes were blocked within none to 3 bovine serum albumin , incubated with specific antibodies overnight 4 degC mouse anti-TLR4 ( sc-53462 , Santa Cruz Biotechnology ) rabbit anti-MyD88 ( bs-1047R , Bioss )",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membranes were blocked within none to 3 bovine serum albumin , incubated with specific antibodies overnight 4 degC mouse anti-TLR4 ( sc-53462 , Santa Cruz Biotechnology ) rabbit anti-MyD88 ( bs-1047R , Bioss )"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(IMGENEX Cat# IMG-500-TLR4, RRID:AB_10598785)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-TLR4"
+                }],
+              "neText" : "anti-TLR4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "sc-53462"
+                }],
+              "neText" : "sc-53462"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-MyD88"
+                }],
+              "neText" : "anti-MyD88"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "bs-1047R"
+                }],
+              "neText" : "bs-1047R"
+            }]
+        }, {
+          "sentence" : ") mouse anti-nuclear factor-kappa B (NFkB) (ab13594, Abcam) mouse anti-tumor necrosis factor-alpha (TNF-a) (ab48394, Abcam) goat anti-phospho-insulin receptor substrate (IRS) tyrosine (sc-17196, Santa Cruz Biotechnology) and mouse anti-b-actin (ab8227, Abcam), then incubated with specific secondary antibodies for 2 h, at room temperature.",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ") mouse anti-nuclear factor-kappa B (NFkB) (ab13594, Abcam) mouse anti-tumor necrosis factor-alpha (TNF-a) (ab48394, Abcam) goat anti-phospho-insulin receptor substrate (IRS) tyrosine (sc-17196, Santa Cruz Biotechnology) and mouse anti-b-actin (ab8227, Abcam), then incubated with specific secondary antibodies for 2 h, at room temperature."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-nuclear factor-kappa B (NFkB"
+                }],
+              "neText" : "anti-nuclear factor-kappa B (NFkB"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(US Biological Cat# T9160-21P, RRID:AB_2256063)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-tumor necrosis factor-alpha (TNF-a"
+                }],
+              "neText" : "anti-tumor necrosis factor-alpha (TNF-a"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-phospho-insulin receptor substrate (IRS) tyrosine (sc-17196, Santa Cruz Biotechnology)"
+                }],
+              "neText" : "anti-phospho-insulin receptor substrate (IRS) tyrosine (sc-17196, Santa Cruz Biotechnology)"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-b-actin"
+                }],
+              "neText" : "anti-b-actin"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Twenty-four male black mice (C57BL6), 5 weeks old, provided by the Multidisciplinary Center of Biological Investigation (CEMIBUNICAMP), were allocated collectively in polyethylene boxes, under environmental controlled conditions of temperature (22+-2 degC), humidity (60-70), a light-dark cycle of 12 h, with free access to water and food during the whole experimental period.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Twenty-four male black mice (C57BL6), 5 weeks old, provided by the Multidisciplinary Center of Biological Investigation (CEMIBUNICAMP), were allocated collectively in polyethylene boxes, under environmental controlled conditions of temperature (22+-2 degC), humidity (60-70), a light-dark cycle of 12 h, with free access to water and food during the whole experimental period."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6"
+                }],
+              "neText" : "C57BL6"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Biochemical analyses ( glycemia , insulin , and LPS levels ) were measured in the serum using commercial kits according to the manufactures ( LaborLab(r) , Millipore(c) , and Thermo scientific(tm)) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Biochemical analyses ( glycemia , insulin , and LPS levels ) were measured in the serum using commercial kits according to the manufactures ( LaborLab(r) , Millipore(c) , and Thermo scientific(tm)) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Thermo scientific(tm)"
+                }],
+              "neText" : "Thermo scientific(tm)"
+            }]
+        }, {
+          "sentence" : "Alpha (Shannon diversity) and beta (Detrended Correspondence Analysis) diversity analyses were performed on the phyloseq package as described (Callahan et al., 2016).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Alpha (Shannon diversity) and beta (Detrended Correspondence Analysis) diversity analyses were performed on the phyloseq package as described (Callahan et al., 2016)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "phyloseq"
+                }],
+              "neText" : "phyloseq"
+            }]
+        }, {
+          "sentence" : "The taxonomic counts contained in the phyloseq were imported into the edgeR package for normalization of the library sizes of each sample subsequently, the counts were transformed to the base 2 logarithms of the counts per million (logCPM) of each sample (voom transformation).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The taxonomic counts contained in the phyloseq were imported into the edgeR package for normalization of the library sizes of each sample subsequently, the counts were transformed to the base 2 logarithms of the counts per million (logCPM) of each sample (voom transformation)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "edgeR"
+                }],
+              "neText" : "edgeR"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "2.2 Preclinical study This experiment was based on the ethics requirements of the National Council for Animal Experimentation Control (CONCEA) and was approved by the Ethics Committee on Animal Use (CEUAUNICAMP protocol 4895-12018).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.2 Preclinical study This experiment was based on the ethics requirements of the National Council for Animal Experimentation Control (CONCEA) and was approved by the Ethics Committee on Animal Use (CEUAUNICAMP protocol 4895-12018)."
+              }]
+          }, {
+            "sentence" : "The access to Brazilian genetic heritage was registered at the Ministry of the Environment via SISGEN (protocol A2C81F8).",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The access to Brazilian genetic heritage was registered at the Ministry of the Environment via SISGEN (protocol A2C81F8)."
+              }]
+          }, {
+            "sentence" : "Blood was collected by cardiac puncture under anesthesia ( ketamine and xylazine ) the liver and the sum of adipose tissue ( mesenteric , retroperitoneal , and epididymal ) were weighted , and liver fragments were immediately frozen in liquid nitrogen .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Blood was collected by cardiac puncture under anesthesia ( ketamine and xylazine ) the liver and the sum of adipose tissue ( mesenteric , retroperitoneal , and epididymal ) were weighted , and liver fragments were immediately frozen in liquid nitrogen ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Twenty-four male black mice (C57BL6), 5 weeks old, provided by the Multidisciplinary Center of Biological Investigation (CEMIBUNICAMP), were allocated collectively in polyethylene boxes, under environmental controlled conditions of temperature (22+-2 degC), humidity (60-70), a light-dark cycle of 12 h, with free access to water and food during the whole experimental period.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Twenty-four male black mice (C57BL6), 5 weeks old, provided by the Multidisciplinary Center of Biological Investigation (CEMIBUNICAMP), were allocated collectively in polyethylene boxes, under environmental controlled conditions of temperature (22+-2 degC), humidity (60-70), a light-dark cycle of 12 h, with free access to water and food during the whole experimental period."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Twenty-four male black mice (C57BL6), 5 weeks old, provided by the Multidisciplinary Center of Biological Investigation (CEMIBUNICAMP), were allocated collectively in polyethylene boxes, under environmental controlled conditions of temperature (22+-2 degC), humidity (60-70), a light-dark cycle of 12 h, with free access to water and food during the whole experimental period.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Twenty-four male black mice (C57BL6), 5 weeks old, provided by the Multidisciplinary Center of Biological Investigation (CEMIBUNICAMP), were allocated collectively in polyethylene boxes, under environmental controlled conditions of temperature (22+-2 degC), humidity (60-70), a light-dark cycle of 12 h, with free access to water and food during the whole experimental period."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "After adjusting the linear limma model, differential taxonomic abundance was tested for each group with moderate t-tests (Smyth, 2004).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After adjusting the linear limma model, differential taxonomic abundance was tested for each group with moderate t-tests (Smyth, 2004)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }, {
+            "sentence" : "The data were submitted to analysis of variance (ANOVA) with post-hoc on Tukeys test with a p-value <0.05 within the experimental groups.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The data were submitted to analysis of variance (ANOVA) with post-hoc on Tukeys test with a p-value <0.05 within the experimental groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys test"
+                  }],
+                "neText" : "Tukeys test"
+              }]
+          }, {
+            "sentence" : "For metataxonomic analysis, a moderated t-test (p-value <0.05) was used to compare the profile of gut bacteria of every single diet distinctly.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For metataxonomic analysis, a moderated t-test (p-value <0.05) was used to compare the profile of gut bacteria of every single diet distinctly."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "The Pearson correlation test was carried out comparing the better and the worst phenotypes for glucose metabolism (CJ and HF respectively), considering p-value <0.05 as a significant difference.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Pearson correlation test was carried out comparing the better and the worst phenotypes for glucose metabolism (CJ and HF respectively), considering p-value <0.05 as a significant difference."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation test"
+                  }],
+                "neText" : "Pearson correlation test"
+              }]
+          }]
+      }]
+  }
+}

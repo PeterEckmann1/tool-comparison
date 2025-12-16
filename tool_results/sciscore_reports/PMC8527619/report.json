@@ -1,0 +1,150 @@
+{
+  "docIdentifier" : "PMC8527619",
+  "sciscore" : 2,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Patients and Methods The protocol for this retrospective study was approved by the institutional review board of the authors’ institution, and examinations were conducted according to the standards of good clinical practice and the Declaration of Helsinki.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients and Methods The protocol for this retrospective study was approved by the institutional review board of the authors’ institution, and examinations were conducted according to the standards of good clinical practice and the Declaration of Helsinki."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients for whom data were missing, including age, sex, mechanism of injury (penetrating or blunt), origin of transportation (evacuation from scene or inter-hospital transportation), Injury Severity Score (ISS), Revised Trauma Score (RTS) on arrival, and unknown outcome, were excluded 7 , 8 ).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients for whom data were missing, including age, sex, mechanism of injury (penetrating or blunt), origin of transportation (evacuation from scene or inter-hospital transportation), Injury Severity Score (ISS), Revised Trauma Score (RTS) on arrival, and unknown outcome, were excluded 7 , 8 )."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Data were analyzed using the paired Student’s t-test for changes in vital signs between prehospital and in-hospital, and the non-paired Student’s t-test or χ2 test for comparisons between the two groups.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data were analyzed using the paired Student’s t-test for changes in vital signs between prehospital and in-hospital, and the non-paired Student’s t-test or "
+              }, {
+                "f" : "symbol",
+                "c" : "χ"
+              }, {
+                "f" : "default",
+                "c" : "2 test for comparisons between the two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Student’s t-test"
+                  }],
+                "neText" : "Student’s t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "symbol",
+                    "c" : "χ"
+                  }, {
+                    "f" : "default",
+                    "c" : "2 test"
+                  }],
+                "neText" : "χ2 test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "docIdentifier" : "PMC8887473",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The eluate was incubated with Dynabeads Protein G conjugated with the HA monoclonal antibody 12CA5 (MSKCC Antibody & Bioresource Core Facility) for 2 h at 4degC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The eluate was incubated with Dynabeads Protein G conjugated with the HA monoclonal antibody 12CA5 (MSKCC Antibody & Bioresource Core Facility) for 2 h at 4degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HA"
+                }],
+              "neText" : "HA"
+            }]
+        }, {
+          "sentence" : "GCV-resistant switchers were further verified by western dot-blot analysis using a VSG2 antibody.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GCV-resistant switchers were further verified by western dot-blot analysis using a VSG2 antibody."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "VSG2"
+                }],
+              "neText" : "VSG2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "List of T. brucei strains used in this study Strain Life cycle stage & description of genotype TRF F2H+- TIF2 +F2H- PF one allele of TRF is deleted and the other is N-terminally FLAG-HA-HA (F2H)-tagged one allele of TIF2 is deleted and the other is C-terminally F2H-tagged POLIE +myc+ BF one allele of POLIE is C-terminally tagged with 13 x myc POLIE +- BF one allele of POLIE is deleted POLIE +myc- BF one allele of POLIE is C-terminally tagged with 13 x myc and the other is deleted POLIE +myc+ TIF2 +F2H+ BF one allele of POLIE is C-terminally tagged with 13 x myc one allele of TIF2 is C-terminally tagged with F2H POLIE +myc+ TRF RNAi BF one allele of POLIE is C-terminally tagged with 13 x myc the Tet-inducible TRF RNAi expressing construct is integrated into an rDNA spacer POLIE +myc+ RNAi BF one allele of POLIE is C-terminally tagged with 13 x myc the Tet-inducible POLIE RNAi expressing construct is integrated into an rDNA spacer S (63) BF in the active VSG2-containing ES, a BSD marker is inserted immediately downstream of the ES promoter, a PUR-TK marker is inserted immediately upstream of the VSG2 gene (Supplementary Figure S3A) Sev (49) BF the active ES has the BSD and PUR-TK markers the empty RNAi construct is integrated into an rDNA spacer SIEi BF the active ES has the BSD and PUR-TK markers the Tet-inducible POLIE RNAi expressing construct is integrated into an rDNA spacer POLIE +myc+ SIEi BF the active ES has the BSD and PUR-TK markers the Tet-inducible POLIE RNAi expressing construct is integrated into an rDNA spacer one allele of POLIE is C-terminally tagged with 13 x myc SIEi + ecPOLIE-myc BF the active ES has the BSD and PUR-TK markers the Tet-inducible POLIE RNAi expressing construct is integrated into an rDNA spacer an inducible ectopic POLIE-myc expressing construct is integrated into an rDNA spacer TR -- (41) BF both TR alleles are deleted TR -- POLIE RNAi BF both TR alleles are deleted the Tet-inducible POLIE RNAi expressing construct is integrated into an rDNA spacer Generation of TRF F2H+- TIF2 +F2H-: Procyclic form (PF, the insect stage) T. brucei WT cells (Lister 427) were transfected with pSK-TRF-ko-Hyg (46) and pSK-TIF2-ko-BSD (49) to delete one allele of TRF and TIF2, respectively.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "List of T. brucei strains used in this study Strain Life cycle stage & description of genotype TRF F2H+- TIF2 +F2H- PF one allele of TRF is deleted and the other is N-terminally FLAG-HA-HA (F2H)-tagged one allele of TIF2 is deleted and the other is C-terminally F2H-tagged POLIE +myc+ BF one allele of POLIE is C-terminally tagged with 13 x myc POLIE +- BF one allele of POLIE is deleted POLIE +myc- BF one allele of POLIE is C-terminally tagged with 13 x myc and the other is deleted POLIE +myc+ TIF2 +F2H+ BF one allele of POLIE is C-terminally tagged with 13 x myc one allele of TIF2 is C-terminally tagged with F2H POLIE +myc+ TRF RNAi BF one allele of POLIE is C-terminally tagged with 13 x myc the Tet-inducible TRF RNAi expressing construct is integrated into an rDNA spacer POLIE +myc+ RNAi BF one allele of POLIE is C-terminally tagged with 13 x myc the Tet-inducible POLIE RNAi expressing construct is integrated into an rDNA spacer S (63) BF in the active VSG2-containing ES, a BSD marker is inserted immediately downstream of the ES promoter, a PUR-TK marker is inserted immediately upstream of the VSG2 gene (Supplementary Figure S3A) Sev (49) BF the active ES has the BSD and PUR-TK markers the empty RNAi construct is integrated into an rDNA spacer SIEi BF the active ES has the BSD and PUR-TK markers the Tet-inducible POLIE RNAi expressing construct is integrated into an rDNA spacer POLIE +myc+ SIEi BF the active ES has the BSD and PUR-TK markers the Tet-inducible POLIE RNAi expressing construct is integrated into an rDNA spacer one allele of POLIE is C-terminally tagged with 13 x myc SIEi + ecPOLIE-myc BF the active ES has the BSD and PUR-TK markers the Tet-inducible POLIE RNAi expressing construct is integrated into an rDNA spacer an inducible ectopic POLIE-myc expressing construct is integrated into an rDNA spacer TR -- (41) BF both TR alleles are deleted TR -- POLIE RNAi BF both TR alleles are deleted the Tet-inducible POLIE RNAi expressing construct is integrated into an rDNA spacer Generation of TRF F2H+- TIF2 +F2H-: Procyclic form (PF, the insect stage) T. brucei WT cells (Lister 427) were transfected with pSK-TRF-ko-Hyg (46) and pSK-TIF2-ko-BSD (49) to delete one allele of TRF and TIF2, respectively."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pSK-TRF-ko-Hyg"
+                }],
+              "neText" : "pSK-TRF-ko-Hyg"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pSK-TIF2-ko-BSD"
+                }],
+              "neText" : "pSK-TIF2-ko-BSD"
+            }]
+        }, {
+          "sentence" : "The resulting cells were transfected with pSK-F2H-TRF-Pur-tar and pSK-TIF2-F2H-Phleo-tar (49) to insert the FLAG-HA-HA (F2H) tag to the N- and the C-terminus of the remaining allele of TRF and TIF2, respectively.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The resulting cells were transfected with pSK-F2H-TRF-Pur-tar and pSK-TIF2-F2H-Phleo-tar (49) to insert the FLAG-HA-HA (F2H) tag to the N- and the C-terminus of the remaining allele of TRF and TIF2, respectively."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pSK-F2H-TRF-Pur-tar"
+                }],
+              "neText" : "pSK-F2H-TRF-Pur-tar"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pSK-TIF2-F2H-Phleo-tar"
+                }],
+              "neText" : "pSK-TIF2-F2H-Phleo-tar"
+            }]
+        }, {
+          "sentence" : "The S cells were transfected with pZJMb-POLIE to generate SIEi followed by transfection with pSK-POLIE-myc13-Hyg-tar to generate POLIE +myc+ SIEi.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The S cells were transfected with pZJMb-POLIE to generate SIEi followed by transfection with pSK-POLIE-myc13-Hyg-tar to generate POLIE +myc+ SIEi."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pSK-POLIE-myc13-Hyg-tar"
+                }],
+              "neText" : "pSK-POLIE-myc13-Hyg-tar"
+            }]
+        }, {
+          "sentence" : "Plasmids A 500 bp genomic DNA fragment upstream of the TRF gene, the Puromycin resistance gene (PUR), the ab tubulin intergenic sequence, the F2H tag, and a 500 bp fragment of the TRF gene (encoding its N-terminus) are inserted into pBluescript SK in this order to generate pSK-F2H-TRF-Pur-tar.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Plasmids A 500 bp genomic DNA fragment upstream of the TRF gene, the Puromycin resistance gene (PUR), the ab tubulin intergenic sequence, the F2H tag, and a 500 bp fragment of the TRF gene (encoding its N-terminus) are inserted into pBluescript SK in this order to generate pSK-F2H-TRF-Pur-tar."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pBluescript"
+                }],
+              "neText" : "pBluescript"
+            }]
+        }, {
+          "sentence" : "A 470 bp DNA fragment at the N-terminus of POLIE ORF and a 520 bp DNA fragment at the C-terminus of POLIE ORF were inserted into pZJMb in tandem to generate pZJMb-POLIE RNAi construct.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A 470 bp DNA fragment at the N-terminus of POLIE ORF and a 520 bp DNA fragment at the C-terminus of POLIE ORF were inserted into pZJMb in tandem to generate pZJMb-POLIE RNAi construct."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pZJMb-POLIE"
+                }],
+              "neText" : "pZJMb-POLIE"
+            }]
+        }, {
+          "sentence" : "The Blasticidin-resistance gene (BSD) flanked by genomic DNA fragments upstream and downstream of the POLIE gene, respectively, were inserted into pBluescript SK to make pSK-POLIE-ko-BSD.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Blasticidin-resistance gene (BSD) flanked by genomic DNA fragments upstream and downstream of the POLIE gene, respectively, were inserted into pBluescript SK to make pSK-POLIE-ko-BSD."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pSK-POLIE-ko-BSD"
+                }],
+              "neText" : "pSK-POLIE-ko-BSD"
+            }]
+        }, {
+          "sentence" : "The DNA fragment encoding the full-length POLIE and a C-terminal 13 x myc tag were inserted into pLew100v5 to generate pLew100v5-POLIE-myc.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The DNA fragment encoding the full-length POLIE and a C-terminal 13 x myc tag were inserted into pLew100v5 to generate pLew100v5-POLIE-myc."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLew100v5"
+                }],
+              "neText" : "pLew100v5"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLew100v5-POLIE-myc"
+                }],
+              "neText" : "pLew100v5-POLIE-myc"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The blot was exposed to a phosphorimager and the signals were quantified using ImageQuant.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The blot was exposed to a phosphorimager and the signals were quantified using ImageQuant."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageQuant"
+                }],
+              "neText" : "ImageQuant"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "RNAseq and data analysis Total RNA was isolated and purified through RNeasy columns (Qiagen) from POLIE +myc+ RNAi cells before and after 30 h of RNAi induction with two biological replicates.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RNAseq and data analysis Total RNA was isolated and purified through RNeasy columns (Qiagen) from POLIE +myc+ RNAi cells before and after 30 h of RNAi induction with two biological replicates."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "RNAseq and data analysis Total RNA was isolated and purified through RNeasy columns (Qiagen) from POLIE +myc+ RNAi cells before and after 30 h of RNAi induction with two biological replicates.",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RNAseq and data analysis Total RNA was isolated and purified through RNeasy columns (Qiagen) from POLIE +myc+ RNAi cells before and after 30 h of RNAi induction with two biological replicates."
+              }]
+          }, {
+            "sentence" : "RNAseq and data analysis Total RNA was isolated and purified through RNeasy columns (Qiagen) from POLIE +myc+ RNAi cells before and after 30 h of RNAi induction with two biological replicates.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "RNAseq and data analysis Total RNA was isolated and purified through RNeasy columns (Qiagen) from POLIE +myc+ RNAi cells before and after 30 h of RNAi induction with two biological replicates."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

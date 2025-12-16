@@ -1,0 +1,160 @@
+{
+  "docIdentifier" : "PMC8953387",
+  "sciscore" : 2,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "1 In brief, recruitment of study subjects, informed consent, assent, Health Insurance Portability and Accountability Act authorization, and data collection are all enabled by the registry website.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "1 In brief, recruitment of study subjects, informed consent, assent, Health Insurance Portability and Accountability Act authorization, and data collection are all enabled by the registry website."
+              }]
+          }, {
+            "sentence" : "Emory Universitys Institutional Review Board (Emory University) approved this study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Emory Universitys Institutional Review Board (Emory University) approved this study."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "For the current study, the inclusion criteria were as follows: clinical documentation or parent report of 3q29Del and a completed medical history and feeding questionnaire.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the current study, the inclusion criteria were as follows: clinical documentation or parent report of 3q29Del and a completed medical history and feeding questionnaire."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Analysis We coded variables from the medical questionnaire (age at completion, sex, and autism diagnosis) as follows: age at completion, numerical value in years sex, male yesno and autism diagnosis, yesno.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Analysis We coded variables from the medical questionnaire (age at completion, sex, and autism diagnosis) as follows: age at completion, numerical value in years sex, male yesno and autism diagnosis, yesno."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Documents can be uploaded to the registry website, and it is requested but not required that participants upload their clinical genetics report indicating a diagnosis of 3q29Del.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Documents can be uploaded to the registry website, and it is requested but not required that participants upload their clinical genetics report indicating a diagnosis of 3q29Del."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "uploaded"
+                  }],
+                "neText" : "uploaded"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "We first summarized continuous and discrete variables in a univariate fashion, comparing cases with controls using t tests for continuous data and kh2 or Fishers exact test for discreet data.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We first summarized continuous and discrete variables in a univariate fashion, comparing cases with controls using t tests for continuous data and kh2 or Fishers exact test for discreet data."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t tests"
+                  }],
+                "neText" : "t tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fishers exact test"
+                  }],
+                "neText" : "Fishers exact test"
+              }]
+          }]
+      }]
+  }
+}

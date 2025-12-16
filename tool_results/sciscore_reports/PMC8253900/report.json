@@ -1,0 +1,184 @@
+{
+  "docIdentifier" : "PMC8253900",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical Analysis Statistical analysis was performed using Minitab (version 18.1, 2017 Minitab Inc., US).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis Statistical analysis was performed using Minitab (version 18.1, 2017 Minitab Inc., US)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Minitab, RRID:SCR_014483",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Minitab"
+                }],
+              "neText" : "Minitab"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The experimental procedures were approved by the University of New England Animal Ethics Committee, Australia (Approval number:",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The experimental procedures were approved by the University of New England Animal Ethics Committee, Australia (Approval number:"
+              }]
+          }, {
+            "sentence" : "Gastrointestinal Tract pH On d 14 and d 35, two birds per pen were randomly selected, weighed individually and euthanized by electrical stunning followed by cervical dislocation.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Gastrointestinal Tract pH On d 14 and d 35, two birds per pen were randomly selected, weighed individually and euthanized by electrical stunning followed by cervical dislocation."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Upon arrival, birds were weighed and randomly distributed into 48 floor pens (120 cm length x 77 cm width), with ten birds per pen, bedded on clean wood shavings.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Upon arrival, birds were weighed and randomly distributed into 48 floor pens (120 cm length x 77 cm width), with ten birds per pen, bedded on clean wood shavings."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Ileal Digesta Viscosity Ileal digesta viscosity was measured in triplicate for each pen.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ileal Digesta Viscosity Ileal digesta viscosity was measured in triplicate for each pen."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Ileal Digesta Viscosity Ileal digesta viscosity was measured in triplicate for each pen.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ileal Digesta Viscosity Ileal digesta viscosity was measured in triplicate for each pen."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Data were tested for normality using the Anderson-Darling test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data were tested for normality using the Anderson-Darling test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Anderson-Darling test"
+                  }],
+                "neText" : "Anderson-Darling test"
+              }]
+          }, {
+            "sentence" : "Tukeys multiple range tests was used to determine the differences between individual treatment means when interactions were observed.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Tukeys multiple range tests was used to determine the differences between individual treatment means when interactions were observed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys multiple range tests"
+                  }],
+                "neText" : "Tukeys multiple range tests"
+              }]
+          }]
+      }]
+  }
+}

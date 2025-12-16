@@ -1,0 +1,120 @@
+{
+  "docIdentifier" : "PMC8693310",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "We used SEER stat (version 8.3.5) to download data from the SEER 18 registries research database, which contains data from the SEER 13 registries (Atlanta, Connecticut, Detroit, Hawaii, Iowa, New Mexico, San Francisco-Oakland, Seattle-Puget Sound, Utah, Los Angeles, San Jose-Monterey, rural Georgia, and the Alaska Native Tumor Registry) and the registries of greater California, Kentucky, Louisiana, New Jersey, and greater Georgia.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We used SEER stat (version 8.3.5) to download data from the SEER 18 registries research database, which contains data from the SEER 13 registries (Atlanta, Connecticut, Detroit, Hawaii, Iowa, New Mexico, San Francisco-Oakland, Seattle-Puget Sound, Utah, Los Angeles, San Jose-Monterey, rural Georgia, and the Alaska Native Tumor Registry) and the registries of greater California, Kentucky, Louisiana, New Jersey, and greater Georgia."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SEER (RRID:SCR_015499)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SEER"
+                }],
+              "neText" : "SEER"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Stage IV disease is heterogeneous, and has different entities, and we purposely excluded them given that they are treated differently from diagnosis, due to their incurable status [14].",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Stage IV disease is heterogeneous, and has different entities, and we purposely excluded them given that they are treated differently from diagnosis, due to their incurable status [14]."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "We identified 309,599 women who were diagnosed with their first stage I-III breast cancer between January 1, 2010 and December 31, 2015 who had cancer histology likely to be treated by standard guidelines and who were not diagnosed at autopsy or death.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We identified 309,599 women who were diagnosed with their first stage I-III breast cancer between January 1, 2010 and December 31, 2015 who had cancer histology likely to be treated by standard guidelines and who were not diagnosed at autopsy or death."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

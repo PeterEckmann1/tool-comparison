@@ -1,0 +1,156 @@
+{
+  "docIdentifier" : "PMC8076621",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis of growth performance was performed by repeated two-way analysis of variance (ANOVA), and other data analysis was performed by one-way ANOVA and Tukeys HSD test for multiple comparisons (P<0.05) using the General Linear Model Procedures of SAS (SASSTAT version 9.4) (SAS Institute, 2012).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis of growth performance was performed by repeated two-way analysis of variance (ANOVA), and other data analysis was performed by one-way ANOVA and Tukeys HSD test for multiple comparisons (P<0.05) using the General Linear Model Procedures of SAS (SASSTAT version 9.4) (SAS Institute, 2012)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Committee of Animal Care and Use in Ehime University ( No. 08011-10) .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Committee of Animal Care and Use in Ehime University ( No. 08011-10) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and Methods Animals and Experimental Procedure In Experiment 1, 50 1-day-old male layer chickens (White Leghorn, Julia) were purchased from a local hatchery (",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Animals and Experimental Procedure In Experiment 1, 50 1-day-old male layer chickens (White Leghorn, Julia) were purchased from a local hatchery ("
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Animals and Experimental Procedure In Experiment 1, 50 1-day-old male layer chickens (White Leghorn, Julia) were purchased from a local hatchery (",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Animals and Experimental Procedure In Experiment 1, 50 1-day-old male layer chickens (White Leghorn, Julia) were purchased from a local hatchery ("
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis of growth performance was performed by repeated two-way analysis of variance (ANOVA), and other data analysis was performed by one-way ANOVA and Tukeys HSD test for multiple comparisons (P<0.05) using the General Linear Model Procedures of SAS (SASSTAT version 9.4) (SAS Institute, 2012).",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis of growth performance was performed by repeated two-way analysis of variance (ANOVA), and other data analysis was performed by one-way ANOVA and Tukeys HSD test for multiple comparisons (P<0.05) using the General Linear Model Procedures of SAS (SASSTAT version 9.4) (SAS Institute, 2012)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys HSD test"
+                  }],
+                "neText" : "Tukeys HSD test"
+              }]
+          }]
+      }]
+  }
+}

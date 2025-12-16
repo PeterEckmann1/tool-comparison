@@ -1,0 +1,683 @@
+{
+  "docIdentifier" : "PMC8044387",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The following antibodies were used: mouse anti-CD90-phycoerythrin (PE) (0.15 mg5 x 105 cells), mouse anti-CD44-allophycocyanin (APC) (0.13 mg5 x 105 cells), mouse anti-CD106-phycoerythrin-cyanine7 (PE-Cy7) (0.20 mg5 x 105 cells), mouse anti-CD45-fluorescein isothiocyanate (FITC) (0.15 mg5 x 105 cells), mouse anti-CD34-PE (0.13 mg5 x 105 cells), mouse anti-CD31-APC (0.15 mg5 x 105 cells), mouse anti-CD29-PE-Cy7 (0.50 mg5 x 105 cells), mouse anti-CD105-PE-Cy7 (0.50 mg5 x 105 cells), and mouse anti-CD11b-FITC (0.13 mg5 x 105 cells).",
+          "rowSpan" : 10,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following antibodies were used: mouse anti-CD90-phycoerythrin (PE) (0.15 mg5 x 105 cells), mouse anti-CD44-allophycocyanin (APC) (0.13 mg5 x 105 cells), mouse anti-CD106-phycoerythrin-cyanine7 (PE-Cy7) (0.20 mg5 x 105 cells), mouse anti-CD45-fluorescein isothiocyanate (FITC) (0.15 mg5 x 105 cells), mouse anti-CD34-PE (0.13 mg5 x 105 cells), mouse anti-CD31-APC (0.15 mg5 x 105 cells), mouse anti-CD29-PE-Cy7 (0.50 mg5 x 105 cells), mouse anti-CD105-PE-Cy7 (0.50 mg5 x 105 cells), and mouse anti-CD11b-FITC (0.13 mg5 x 105 cells)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD90-phycoerythrin"
+                }],
+              "neText" : "anti-CD90-phycoerythrin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD44-allophycocyanin"
+                }],
+              "neText" : "anti-CD44-allophycocyanin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD106-phycoerythrin-cyanine7"
+                }],
+              "neText" : "anti-CD106-phycoerythrin-cyanine7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PE-Cy7"
+                }],
+              "neText" : "PE-Cy7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD45-fluorescein"
+                }],
+              "neText" : "anti-CD45-fluorescein"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD34-PE"
+                }],
+              "neText" : "anti-CD34-PE"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD31-APC"
+                }],
+              "neText" : "anti-CD31-APC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD29-PE-Cy7"
+                }],
+              "neText" : "anti-CD29-PE-Cy7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD105-PE-Cy7"
+                }],
+              "neText" : "anti-CD105-PE-Cy7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD11b-FITC"
+                }],
+              "neText" : "anti-CD11b-FITC"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "One day before transfection, HEK293T cells were plated onto 20 Petri dishes at a seeding density of 3 x 106 cellsplate and cultured in DMEM, 10 FBS, and 1 PenStrep.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "One day before transfection, HEK293T cells were plated onto 20 Petri dishes at a seeding density of 3 x 106 cellsplate and cultured in DMEM, 10 FBS, and 1 PenStrep."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK293T"
+                }],
+              "neText" : "HEK293T"
+            }]
+        }, {
+          "sentence" : "TU was calculated by quantifying the number of EGFP-positive HeLa cells after transduction with serial dilutions (10-2, 10-3, and 10-4 mL of vector) of the concentrated lentivirus preparation.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "TU was calculated by quantifying the number of EGFP-positive HeLa cells after transduction with serial dilutions (10-2, 10-3, and 10-4 mL of vector) of the concentrated lentivirus preparation."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0030",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa"
+                }],
+              "neText" : "HeLa"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Materials and methods Isolation and expansion of mouse adipose-derived stem cells mADSCs were isolated from 8- to 10-week-old female C57BL6J mice as previously described with minor modifications.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Isolation and expansion of mouse adipose-derived stem cells mADSCs were isolated from 8- to 10-week-old female C57BL6J mice as previously described with minor modifications."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_JAX:000664",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6J"
+                }],
+              "neText" : "C57BL6J"
+            }]
+        }, {
+          "sentence" : "Transgenic C57BL6J-Tg (SOD1G93A)1GurJ mice of the defined C57BL6J-OlaHsd inbred genetic background were used in this study.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Transgenic C57BL6J-Tg (SOD1G93A)1GurJ mice of the defined C57BL6J-OlaHsd inbred genetic background were used in this study."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6J-Tg (SOD1G93A)1GurJ"
+                }],
+              "neText" : "C57BL6J-Tg (SOD1G93A)1GurJ"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL6J-OlaHsd"
+                }],
+              "neText" : "C57BL6J-OlaHsd"
+            }]
+        }, {
+          "sentence" : "Mouse astrocyte and ADSC separated co-cultures mAstrocytes derived from SOD1G93A and age-matched NTg mice obtained from three separate preparations were plated onto 24-well plates coated with 1:1,000 poly-l-ornithine (A-004-C, Sigma-Aldrich) at a concentration of 50,000 cells per well.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Mouse astrocyte and ADSC separated co-cultures mAstrocytes derived from SOD1G93A and age-matched NTg mice obtained from three separate preparations were plated onto 24-well plates coated with 1:1,000 poly-l-ornithine (A-004-C, Sigma-Aldrich) at a concentration of 50,000 cells per well."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NTg"
+                }],
+              "neText" : "NTg"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "The pLV-EGFP plasmid is a HIV-1-based expression vector in which the transcription of EGFP is driven by the mouse phosphoglycerate kinase (mPGK) promoter.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The pLV-EGFP plasmid is a HIV-1-based expression vector in which the transcription of EGFP is driven by the mouse phosphoglycerate kinase (mPGK) promoter."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLV-EGFP"
+                }],
+              "neText" : "pLV-EGFP"
+            }]
+        }, {
+          "sentence" : "Lentivirus was produced from co-transfection of HEK293T cells with the transfer plasmid pLV-SIN-EGFP and the three packaging plasmids pCMVD8.92, pRSV-Rev, and pMDG2.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Lentivirus was produced from co-transfection of HEK293T cells with the transfer plasmid pLV-SIN-EGFP and the three packaging plasmids pCMVD8.92, pRSV-Rev, and pMDG2."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCMVD8.92"
+                }],
+              "neText" : "pCMVD8.92"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pRSV-Rev"
+                }],
+              "neText" : "pRSV-Rev"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMDG2"
+                }],
+              "neText" : "pMDG2"
+            }]
+        }, {
+          "sentence" : "Each plate was transfected with 13 mg of pLV-SIN-EGFP, 13 mg of pCMVD8.92, 3 mg of pRSV-Rev, and 3.75 mg of pMDG.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Each plate was transfected with 13 mg of pLV-SIN-EGFP, 13 mg of pCMVD8.92, 3 mg of pRSV-Rev, and 3.75 mg of pMDG."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pLV-SIN-EGFP"
+                }],
+              "neText" : "pLV-SIN-EGFP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMDG"
+                }],
+              "neText" : "pMDG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The tissue was digested with 0.075 collagenase I (Sigma, St. Louis, MO, USA) and 2 bovine serum albumin (BSA) (Sigma, St. Louis, MO, USA) at 37degC in a water bath for 60-80 min with gentle shaking every 10 min.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The tissue was digested with 0.075 collagenase I (Sigma, St. Louis, MO, USA) and 2 bovine serum albumin (BSA) (Sigma, St. Louis, MO, USA) at 37degC in a water bath for 60-80 min with gentle shaking every 10 min."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "Cells were then filtered, washed in HBSS, and cultured in Dulbeccos modified Eagles medium (DMEM) (Lonza, Basel, Switzerland) containing 4,500 mgL glucose, l-glutamine, 10 fetal bovine serum (FBS) (MSC-Qualified, 13662-011, Gibco, Waltham, MA, USA), and 1 PenStrep.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were then filtered, washed in HBSS, and cultured in Dulbeccos modified Eagles medium (DMEM) (Lonza, Basel, Switzerland) containing 4,500 mgL glucose, l-glutamine, 10 fetal bovine serum (FBS) (MSC-Qualified, 13662-011, Gibco, Waltham, MA, USA), and 1 PenStrep."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gibco"
+                }],
+              "neText" : "Gibco"
+            }]
+        }, {
+          "sentence" : "Stained cells were acquired on a BD LSRII FACS instrument (BD Biosciences, Franklin Lakes, NJ, USA) and analyzed with FlowJo 7.6.1 (FlowJo LLC, Ashland, OR, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Stained cells were acquired on a BD LSRII FACS instrument (BD Biosciences, Franklin Lakes, NJ, USA) and analyzed with FlowJo 7.6.1 (FlowJo LLC, Ashland, OR, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "For the in vivo therapeutic study, we followed the recommendations for the conduct of pre-clinical studies in the SOD1G93A mouse model released by the ALS Therapy Development Institute (ALS TDI), which were successively updated in 2009 following an international conference held in Germany, 11-13 June 2009. 74 To determine group size, a statistical power analysis using G*Power 3.1.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For the in vivo therapeutic study, we followed the recommendations for the conduct of pre-clinical studies in the SOD1G93A mouse model released by the ALS Therapy Development Institute (ALS TDI), which were successively updated in 2009 following an international conference held in Germany, 11-13 June 2009. 74 To determine group size, a statistical power analysis using G*Power 3.1."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "G*Power, RRID:SCR_013726",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "G*Power"
+                }],
+              "neText" : "G*Power"
+            }]
+        }, {
+          "sentence" : "The number of viable MNs was counted with the Columbus Data Storage and Analysis System (RRID:SCR_007149 Perkin Elmer, Waltham, MA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The number of viable MNs was counted with the Columbus Data Storage and Analysis System (RRID:SCR_007149 Perkin Elmer, Waltham, MA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "Cellular Imaging and Analysis ( RRID:SCR_007149)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Analysis"
+                }],
+              "neText" : "Analysis"
+            }]
+        }, {
+          "sentence" : "Multiplex bead-based immunoassay Soluble cytokines in supernatants were measured with the use of the BD Cytometric Bead Array (CBA) Flex Set multiplexed bead-based immunoassay (BD Biosciences), which allows up to 30 analytes to be measured simultaneously.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Multiplex bead-based immunoassay Soluble cytokines in supernatants were measured with the use of the BD Cytometric Bead Array (CBA) Flex Set multiplexed bead-based immunoassay (BD Biosciences), which allows up to 30 analytes to be measured simultaneously."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BD Biosciences"
+                }],
+              "neText" : "BD Biosciences"
+            }]
+        }, {
+          "sentence" : "The data files were collected as Excel sheets and analyzed with GraphPad 7.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The data files were collected as Excel sheets and analyzed with GraphPad 7."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }, {
+          "sentence" : "Statistical analysis All statistical analyses were performed with GraphPad Prism 7 (GraphPad, San Diego, CA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis All statistical analyses were performed with GraphPad Prism 7 (GraphPad, San Diego, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "69 Mice were sacrificed by cervical dislocation, and inguinal (subcutaneous) fat pads were aseptically removed and collected into a 50-mL Falcon tube containing sterile ice-cold Hanks balanced salt solution with Ca2+ and Mg2+ (HBSS) (Gibco, Waltham, MA, USA) and 50 UmL penicillin-streptomycin (PenStrep) (Lonza, Basel, Switzerland).",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "69 Mice were sacrificed by cervical dislocation, and inguinal (subcutaneous) fat pads were aseptically removed and collected into a 50-mL Falcon tube containing sterile ice-cold Hanks balanced salt solution with Ca2+ and Mg2+ (HBSS) (Gibco, Waltham, MA, USA) and 50 UmL penicillin-streptomycin (PenStrep) (Lonza, Basel, Switzerland)."
+              }]
+          }, {
+            "sentence" : "Animal experiments All experiments involving mice were conducted in accordance with the Animals (Scientific Procedures) Act 1986 under a UK Home Office project license approved by the Sheffield University Ethical Review Committee Project Applications and Amendments Sub-Committee and by the UK Animal Procedures Committee (London, UK).",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animal experiments All experiments involving mice were conducted in accordance with the Animals (Scientific Procedures) Act 1986 under a UK Home Office project license approved by the Sheffield University Ethical Review Committee Project Applications and Amendments Sub-Committee and by the UK Animal Procedures Committee (London, UK)."
+              }]
+          }, {
+            "sentence" : "Reprogramming of human fibroblasts into neural progenitor cells (iNPCs) Skin biopsy collection from ALS patients and healthy donors (Table S1) was approved by the Research Ethics Committee of Sheffield (study number STH16573, reference 12YH0330) or by the Institutional Review Board of the Ohio State University (ethics number IRB08-00402) after informed consent was obtained.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Reprogramming of human fibroblasts into neural progenitor cells (iNPCs) Skin biopsy collection from ALS patients and healthy donors (Table S1) was approved by the Research Ethics Committee of Sheffield (study number STH16573, reference 12YH0330) or by the Institutional Review Board of the Ohio State University (ethics number IRB08-00402) after informed consent was obtained."
+              }]
+          }, {
+            "sentence" : "Reprogramming of human fibroblasts into neural progenitor cells (iNPCs) Skin biopsy collection from ALS patients and healthy donors (Table S1) was approved by the Research Ethics Committee of Sheffield (study number STH16573, reference 12YH0330) or by the Institutional Review Board of the Ohio State University (ethics number IRB08-00402) after informed consent was obtained.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Reprogramming of human fibroblasts into neural progenitor cells (iNPCs) Skin biopsy collection from ALS patients and healthy donors (Table S1) was approved by the Research Ethics Committee of Sheffield (study number STH16573, reference 12YH0330) or by the Institutional Review Board of the Ohio State University (ethics number IRB08-00402) after informed consent was obtained."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and methods Isolation and expansion of mouse adipose-derived stem cells mADSCs were isolated from 8- to 10-week-old female C57BL6J mice as previously described with minor modifications.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Isolation and expansion of mouse adipose-derived stem cells mADSCs were isolated from 8- to 10-week-old female C57BL6J mice as previously described with minor modifications."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and methods Isolation and expansion of mouse adipose-derived stem cells mADSCs were isolated from 8- to 10-week-old female C57BL6J mice as previously described with minor modifications.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Isolation and expansion of mouse adipose-derived stem cells mADSCs were isolated from 8- to 10-week-old female C57BL6J mice as previously described with minor modifications."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "All behavioral tests were performed by the same investigator, who was blinded to the treatment group.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All behavioral tests were performed by the same investigator, who was blinded to the treatment group."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "For the in vivo therapeutic study, we followed the recommendations for the conduct of pre-clinical studies in the SOD1G93A mouse model released by the ALS Therapy Development Institute (ALS TDI), which were successively updated in 2009 following an international conference held in Germany, 11-13 June 2009. 74 To determine group size, a statistical power analysis using G*Power 3.1.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the in vivo therapeutic study, we followed the recommendations for the conduct of pre-clinical studies in the SOD1G93A mouse model released by the ALS Therapy Development Institute (ALS TDI), which were successively updated in 2009 following an international conference held in Germany, 11-13 June 2009. 74 To determine group size, a statistical power analysis using G*Power 3.1."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Passage 4 mAstrocytes from symptomatic (90 day old) SOD1G93A or NTg age-matched control mice were seeded in triplicate (technical replicate) onto 1 well of a 24-well plate previously coated with 1:1,000 poly-l-ornithine (Sigma, St. Louis, MO, USA) and laminin 1:200 (Sigma, St. Louis, MO, USA), at a concentration of 50,000 cellswell. mAstrocytes were maintained for 24 h in astrocyte basal medium (DMEM, 10 FBS, 1 PenStrep).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Passage 4 mAstrocytes from symptomatic (90 day old) SOD1G93A or NTg age-matched control mice were seeded in triplicate (technical replicate) onto 1 well of a 24-well plate previously coated with 1:1,000 poly-l-ornithine (Sigma, St. Louis, MO, USA) and laminin 1:200 (Sigma, St. Louis, MO, USA), at a concentration of 50,000 cellswell. mAstrocytes were maintained for 24 h in astrocyte basal medium (DMEM, 10 FBS, 1 PenStrep)."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "Passage 4 mAstrocytes from symptomatic (90 day old) SOD1G93A or NTg age-matched control mice were seeded in triplicate (technical replicate) onto 1 well of a 24-well plate previously coated with 1:1,000 poly-l-ornithine (Sigma, St. Louis, MO, USA) and laminin 1:200 (Sigma, St. Louis, MO, USA), at a concentration of 50,000 cellswell. mAstrocytes were maintained for 24 h in astrocyte basal medium (DMEM, 10 FBS, 1 PenStrep).",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Passage 4 mAstrocytes from symptomatic (90 day old) SOD1G93A or NTg age-matched control mice were seeded in triplicate (technical replicate) onto 1 well of a 24-well plate previously coated with 1:1,000 poly-l-ornithine (Sigma, St. Louis, MO, USA) and laminin 1:200 (Sigma, St. Louis, MO, USA), at a concentration of 50,000 cellswell. mAstrocytes were maintained for 24 h in astrocyte basal medium (DMEM, 10 FBS, 1 PenStrep)."
+              }]
+          }, {
+            "sentence" : "Passage 4 mAstrocytes from symptomatic (90 day old) SOD1G93A or NTg age-matched control mice were seeded in triplicate (technical replicate) onto 1 well of a 24-well plate previously coated with 1:1,000 poly-l-ornithine (Sigma, St. Louis, MO, USA) and laminin 1:200 (Sigma, St. Louis, MO, USA), at a concentration of 50,000 cellswell. mAstrocytes were maintained for 24 h in astrocyte basal medium (DMEM, 10 FBS, 1 PenStrep).",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Passage 4 mAstrocytes from symptomatic (90 day old) SOD1G93A or NTg age-matched control mice were seeded in triplicate (technical replicate) onto 1 well of a 24-well plate previously coated with 1:1,000 poly-l-ornithine (Sigma, St. Louis, MO, USA) and laminin 1:200 (Sigma, St. Louis, MO, USA), at a concentration of 50,000 cellswell. mAstrocytes were maintained for 24 h in astrocyte basal medium (DMEM, 10 FBS, 1 PenStrep)."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Nissl-positive a-MNs were identified and counted depending on their topography, morphology, and size.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Nissl-positive a-MNs were identified and counted depending on their topography, morphology, and size."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "A power of 80 was used with a two-tailed Students t test (a = 0.05, b = 0.8).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A power of 80 was used with a two-tailed Students t test (a = 0.05, b = 0.8)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }, {
+            "sentence" : "The 1-way ANOVA with Tukeys multiple comparison test, 2-way ANOVA with Sidaks multiple comparison test, 2-way ANOVA with Bonferroni post hoc test, Students t test, or Mann-Whitney U test was used depending on the number of variables in each experiment.",
+            "rowSpan" : 6,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The 1-way ANOVA with Tukeys multiple comparison test, 2-way ANOVA with Sidaks multiple comparison test, 2-way ANOVA with Bonferroni post hoc test, Students t test, or Mann-Whitney U test was used depending on the number of variables in each experiment."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys multiple comparison test"
+                  }],
+                "neText" : "Tukeys multiple comparison test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Sidaks multiple comparison test"
+                  }],
+                "neText" : "Sidaks multiple comparison test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni post hoc test"
+                  }],
+                "neText" : "Bonferroni post hoc test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t test"
+                  }],
+                "neText" : "Students t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney U test"
+                  }],
+                "neText" : "Mann-Whitney U test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "docIdentifier" : "PMC8758011",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2.4 Statistics Statistics was done using IBM SPSS version 25 (New York, NY), and group comparisons were done using either Fisher exact test or chi-squared test.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.4 Statistics Statistics was done using IBM SPSS version 25 (New York, NY), and group comparisons were done using either Fisher exact test or chi-squared test."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Of all 1096 biopsy reports of PSC and PBC found in the pathology database, we excluded all indication biopsies that were taken due to abnormal liver biochemistry, biopsies at the time of transplantation, and follow-up biopsies, which were scheduled for a later date due to either clinical or histopathological findings, at autopsy or before LTx.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Of all 1096 biopsy reports of PSC and PBC found in the pathology database, we excluded all indication biopsies that were taken due to abnormal liver biochemistry, biopsies at the time of transplantation, and follow-up biopsies, which were scheduled for a later date due to either clinical or histopathological findings, at autopsy or before LTx."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Fifty-three patients had multiple protocol biopsies (Fig. 1).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Fifty-three patients had multiple protocol biopsies (Fig. 1)."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Structured histopathological reports on posttransplantation biopsies interpreted by a liver pathologist have been available in the electronic database of the Department of Pathology since 2004.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Structured histopathological reports on posttransplantation biopsies interpreted by a liver pathologist have been available in the electronic database of the Department of Pathology since 2004."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "2.4 Statistics Statistics was done using IBM SPSS version 25 (New York, NY), and group comparisons were done using either Fisher exact test or chi-squared test.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.4 Statistics Statistics was done using IBM SPSS version 25 (New York, NY), and group comparisons were done using either Fisher exact test or chi-squared test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher exact test"
+                  }],
+                "neText" : "Fisher exact test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared test"
+                  }],
+                "neText" : "chi-squared test"
+              }]
+          }, {
+            "sentence" : "The t test was used to compare means, and the nonparametric independent-samples median test was used when data were not normally distributed.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The t test was used to compare means, and the nonparametric independent-samples median test was used when data were not normally distributed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "median test"
+                  }],
+                "neText" : "median test"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "docIdentifier" : "PMC8048569",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Materials and Methods Cell Lines and Cell Culture In our study, we used four different cell lines that were chosen in order to consider features and cellular diversity of different organs of origin (33): NIH‐3T3 mouse fibroblasts (connective tissue), NRK‐52E rat epithelial cells (kidney), RLE‐6TN alveolar epithelial cells (lung), and RAW 264.7 mouse macrophages (immune system).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and Methods Cell Lines and Cell Culture In our study, we used four different cell lines that were chosen in order to consider features and cellular diversity of different organs of origin (33): NIH-3T3 mouse fibroblasts (connective tissue), NRK-52E rat epithelial cells (kidney), RLE-6TN alveolar epithelial cells (lung), and RAW 264.7 mouse macrophages (immune system)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0493",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RAW 264.7"
+                }],
+              "neText" : "RAW 264.7"
+            }]
+        }, {
+          "sentence" : "NIH‐3T3 mouse embryonic fibroblasts, obtained by ATCC (No. ATCC® CRL‐1658TM), were cultured in DMEM supplemented with 10% FCS, 1 mM pyruvate, and 2 mM glutamine, passaged three times a week.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NIH-3T3 mouse embryonic fibroblasts, obtained by ATCC (No. ATCC® CRL-1658TM), were cultured in DMEM supplemented with 10% FCS, 1 mM pyruvate, and 2 mM glutamine, passaged three times a week."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NIH-3T3 mouse embryonic fibroblasts"
+                }],
+              "neText" : "NIH‐3T3 mouse embryonic fibroblasts"
+            }]
+        }, {
+          "sentence" : "For the experiments with fixation, cells were harvested and seeded into Tomodishes (Tomocube, Inc., Daejeon, Republic of Korea) from the culture and cultivated overnight (for RAW 264.7‐30,000 cells per Petri dish, for NIH‐3T3, NRK‐52E, RLE‐6TN – 10,000 cells per Petri dish in 800 μl of medium).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For the experiments with fixation, cells were harvested and seeded into Tomodishes (Tomocube, Inc., Daejeon, Republic of Korea) from the culture and cultivated overnight (for RAW 264.7-30,000 cells per Petri dish, for NIH-3T3, NRK-52E, RLE-6TN – 10,000 cells per Petri dish in 800 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "l of medium)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RAW 264.7-30,000"
+                }],
+              "neText" : "RAW 264.7‐30,000"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NIH-3T3"
+                }],
+              "neText" : "NIH‐3T3"
+            }]
+        }, {
+          "sentence" : "– Mirrors , DMD ‐ digital micromirror device ( adapted from reference ( 25)); ( b ) 3D RI distribution visualization; ( c ) refractive index distribution on x‐y , x‐z , and y‐z cross sections in live cell from NIH3T3 line.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "– Mirrors , DMD - digital micromirror device ( adapted from reference ( 25)); ( b ) 3D RI distribution visualization; ( c ) refractive index distribution on x-y , x-z , and y-z cross sections in live cell from NIH3T3 line."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0594",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NIH3T3"
+                }],
+              "neText" : "NIH3T3"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The local segmentation of internal organelles (nucleus, nucleolus, nucleoplasm, and cytoplasm) in the RI images was performed manually by using a MATLAB R2018b script.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The local segmentation of internal organelles (nucleus, nucleolus, nucleoplasm, and cytoplasm) in the RI images was performed manually by using a MATLAB R2018b script."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB, RRID:SCR_001622",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MATLAB"
+                }],
+              "neText" : "MATLAB"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Relative changes of the RI difference between nucleolus and nucleus, nucleolus and cytoplasm were determined and the changes of this difference before and after PFA fixation were calculated and the significance of the differences was assessed by the Student's t test, or by the Mann–Whitney U test, if the assumption of normality was not met (which was evaluated by Shapiro–Wilk test).",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Relative changes of the RI difference between nucleolus and nucleus, nucleolus and cytoplasm were determined and the changes of this difference before and after PFA fixation were calculated and the significance of the differences was assessed by the Student's t test, or by the Mann–Whitney U test, if the assumption of normality was not met (which was evaluated by Shapiro–Wilk test)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Student's t test"
+                  }],
+                "neText" : "Student's t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann–Whitney U test"
+                  }],
+                "neText" : "Mann–Whitney U test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Shapiro–Wilk test"
+                  }],
+                "neText" : "Shapiro–Wilk test"
+              }]
+          }]
+      }]
+  }
+}

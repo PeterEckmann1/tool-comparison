@@ -1,0 +1,414 @@
+{
+  "docIdentifier" : "PMC8670889",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Primary antibodies employed included rabbit anti-human CD63 antibody (EXOAB-CD63A-1, SBI, USA), and rabbit anti-human Calnexin antibody (YT0613, ImmunoWay, USA).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Primary antibodies employed included rabbit anti-human CD63 antibody (EXOAB-CD63A-1, SBI, USA), and rabbit anti-human Calnexin antibody (YT0613, ImmunoWay, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human CD63"
+                }],
+              "neText" : "anti-human CD63"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human Calnexin antibody (YT0613"
+                }],
+              "neText" : "anti-human Calnexin antibody (YT0613"
+            }]
+        }, {
+          "sentence" : "Goat anti-rabbit HRP antibody (SBI, USA) was used as a secondary antibody.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Goat anti-rabbit HRP antibody (SBI, USA) was used as a secondary antibody."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit HRP"
+                }],
+              "neText" : "anti-rabbit HRP"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Table 1 Demographics for Participants Sampled for NGS and Patients from GSE8056 Research and Sample Type Control Group Sex Age (Years) Mean Age Burn Group Sex Age (Years) Mean Age % TBSA Burn (% Deep Burn) Mean%TBSA ABSI Score Day Postburn NGS of plasma exosome-derived small RNA Normal 01 F 24 28.3 ±5.28 Burn 01 F 54 39 ±16.69 60 (32) 79.83 ±19.99 11 5 Normal 02 F 21 Burn 02 M 28 60 (46) 10 5 Normal 03 F 29 Burn 03 F 25 65 (20) 11 5 Normal 04 M 28 Burn 04 M 54 97 (80) 15 4 Normal 05 M 33 Burn 05 F 54 98 (92) 16 4 Normal 06 M 35 Burn 06 M 19 99 (95) 13 4 cDNA-microarray analysis of skin GSM198875-01 F 35 38.4 ±14.37 GSM198869-01 M 8 30.8 ±14.83 6 14.67 ±12.94 No record 5 GSM198875-02 F 26 GSM198869-02 M 19 8 4 GSM198875-03 F 43 GSM198869-03 M 30 10 4 GSM198875-04 F 20 GSM198869-04 F 11 5 5 GSM198875-05 F 20 GSM198869-05 F 31 15 5 GSM198876-01 F 32 GSM198870-01 M 26 30 4 GSM198876-02 F 43 GSM198870-02 M 33 5 5 GSM198876-03 F 52 GSM198870-03 F 37 4 6 GSM198876-04 F 56 GSM198870-04 F 38 20 7 GSM198876-05 F 44 GSM198870-05 M 18 20 7 GSM198877-01 F 55 GSM198871-01 M 51 50 4 GSM198877-02 M 43 GSM198871-02 M 25 10 5 GSM198877-03 F 22 GSM198871-03 M 42 27 5 GSM198877-04 M 22 GSM198871-04 M 28 5 7 GSM198877-05 F 63 GSM198871-05 M 65 5 6 Abbreviations: TBSA, total body surface area; ABSI, abbreviate burn severity index; NGS, next-generation sequencing; F, female; M, male.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Table 1 Demographics for Participants Sampled for NGS and Patients from GSE8056 Research and Sample Type Control Group Sex Age (Years) Mean Age Burn Group Sex Age (Years) Mean Age % TBSA Burn (% Deep Burn) Mean%TBSA ABSI Score Day Postburn NGS of plasma exosome-derived small RNA Normal 01 F 24 28.3 ±5.28 Burn 01 F 54 39 ±16.69 60 (32) 79.83 ±19.99 11 5 Normal 02 F 21 Burn 02 M 28 60 (46) 10 5 Normal 03 F 29 Burn 03 F 25 65 (20) 11 5 Normal 04 M 28 Burn 04 M 54 97 (80) 15 4 Normal 05 M 33 Burn 05 F 54 98 (92) 16 4 Normal 06 M 35 Burn 06 M 19 99 (95) 13 4 cDNA-microarray analysis of skin GSM198875-01 F 35 38.4 ±14.37 GSM198869-01 M 8 30.8 ±14.83 6 14.67 ±12.94 No record 5 GSM198875-02 F 26 GSM198869-02 M 19 8 4 GSM198875-03 F 43 GSM198869-03 M 30 10 4 GSM198875-04 F 20 GSM198869-04 F 11 5 5 GSM198875-05 F 20 GSM198869-05 F 31 15 5 GSM198876-01 F 32 GSM198870-01 M 26 30 4 GSM198876-02 F 43 GSM198870-02 M 33 5 5 GSM198876-03 F 52 GSM198870-03 F 37 4 6 GSM198876-04 F 56 GSM198870-04 F 38 20 7 GSM198876-05 F 44 GSM198870-05 M 18 20 7 GSM198877-01 F 55 GSM198871-01 M 51 50 4 GSM198877-02 M 43 GSM198871-02 M 25 10 5 GSM198877-03 F 22 GSM198871-03 M 42 27 5 GSM198877-04 M 22 GSM198871-04 M 28 5 7 GSM198877-05 F 63 GSM198871-05 M 65 5 6 Abbreviations: TBSA, total body surface area; ABSI, abbreviate burn severity index; NGS, next-generation sequencing; F, female; M, male."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "NGS-SNP (RRID:SCR_005182)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NGS"
+                }],
+              "neText" : "NGS"
+            }]
+        }, {
+          "sentence" : "Subsequent RNA-seq reads were mapped to miRbase, piRNAbank and Rfam databases.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Subsequent RNA-seq reads were mapped to miRbase, piRNAbank and Rfam databases."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "piRNABank (RRID:SCR_007858)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "piRNAbank"
+                }],
+              "neText" : "piRNAbank"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Rfam"
+                }],
+              "neText" : "Rfam"
+            }]
+        }, {
+          "sentence" : "Expression matrix of quantified UMI counts of miRNAs was normalized to counts per million (CPM) and calculated to relative log expression via the EdgeR package.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Expression matrix of quantified UMI counts of miRNAs was normalized to counts per million (CPM) and calculated to relative log expression via the EdgeR package."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EdgeR"
+                }],
+              "neText" : "EdgeR"
+            }]
+        }, {
+          "sentence" : "Target Genes Prediction and Enrichment Analyses Target genes of DEMs were predicted in mirDIP ( http://ophid.utoronto.ca/mirDIP/ ), which integrated information of miRNAs and genes in Homo sapiens from 30 major databases including miRbase, miRDB and TargetScan.",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Target Genes Prediction and Enrichment Analyses Target genes of DEMs were predicted in mirDIP ( http://ophid.utoronto.ca/mirDIP/ ), which integrated information of miRNAs and genes in Homo sapiens from 30 major databases including miRbase, miRDB and TargetScan."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "mirDIP"
+                }],
+              "neText" : "mirDIP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://ophid.utoronto.ca/mirDIP/"
+                }],
+              "neText" : "http://ophid.utoronto.ca/mirDIP/"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "miRbase"
+                }],
+              "neText" : "miRbase"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "TargetScan (RRID:SCR_010845)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TargetScan"
+                }],
+              "neText" : "TargetScan"
+            }]
+        }, {
+          "sentence" : "Enrichment analyses of GO and KEGG were conducted using the ClusterProfiler17 package in R software (version 4.1.2).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Enrichment analyses of GO and KEGG were conducted using the ClusterProfiler17 package in R software (version 4.1.2)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ClusterProfiler17"
+                }],
+              "neText" : "ClusterProfiler17"
+            }]
+        }, {
+          "sentence" : "Differentially expressed genes (DEGs) were identified using the LIMMA19 package with enrichment analyses conducted using the ClusterProfiler package in R software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Differentially expressed genes (DEGs) were identified using the LIMMA19 package with enrichment analyses conducted using the ClusterProfiler package in R software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ClusterProfiler"
+                }],
+              "neText" : "ClusterProfiler"
+            }]
+        }, {
+          "sentence" : "Enrichment analyses of GO and KEGG were repeated on the focus genes.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Enrichment analyses of GO and KEGG were repeated on the focus genes."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "Construction of PPI and miRNA-mRNA Networks A protein–protein interaction (PPI) network of the focus genes was constructed in Cytoscape software (version 3.7.2) based on the STRING database ( https://www.string-db.org/ ).20 Hub genes in the PPI network were selected by degree using the cytoHubba21 plugin of Cytoscape.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Construction of PPI and miRNA-mRNA Networks A protein–protein interaction (PPI) network of the focus genes was constructed in Cytoscape software (version 3.7.2) based on the STRING database ( https://www.string-db.org/ ).20 Hub genes in the PPI network were selected by degree using the cytoHubba21 plugin of Cytoscape."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "STRING (RRID:SCR_005223)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Demographics and Samples Collection Peripheral blood samples from 6 severe burn patients and 6 healthy volunteers were obtained with the written informed consent of participants.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Demographics and Samples Collection Peripheral blood samples from 6 severe burn patients and 6 healthy volunteers were obtained with the written informed consent of participants."
+              }]
+          }, {
+            "sentence" : "The study was conducted according to the guidelines of the Declaration of Helsinki, and all procedures were approved by the Human Subjects Review Board of the First Affiliated Hospital of Anhui Medical University (number: PJ2019-06-07).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was conducted according to the guidelines of the Declaration of Helsinki, and all procedures were approved by the Human Subjects Review Board of the First Affiliated Hospital of Anhui Medical University (number: PJ2019-06-07)."
+              }]
+          }, {
+            "sentence" : "Burn skin specimens were sampled from a partial-thickness burned area since a full-thickness burned skin undergoing necrosis obviated the detection of gene expressions.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Burn skin specimens were sampled from a partial-thickness burned area since a full-thickness burned skin undergoing necrosis obviated the detection of gene expressions."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "13 The inclusion criteria of severe burn patients included: thermal injury; % TBSA burn ≥ 60; ABSI score ≥ 10; 18 ≤ age ≤ 80; 4 ≤ days postburn ≤ 7.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "13 The inclusion criteria of severe burn patients included: thermal injury; % TBSA burn "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : " 60; ABSI score "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : " 10; 18 "
+              }, {
+                "f" : "symbol",
+                "c" : "≤"
+              }, {
+                "f" : "default",
+                "c" : " age "
+              }, {
+                "f" : "symbol",
+                "c" : "≤"
+              }, {
+                "f" : "default",
+                "c" : " 80; 4 "
+              }, {
+                "f" : "symbol",
+                "c" : "≤"
+              }, {
+                "f" : "default",
+                "c" : " days postburn "
+              }, {
+                "f" : "symbol",
+                "c" : "≤"
+              }, {
+                "f" : "default",
+                "c" : " 7."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "18 The burn patients were clustered into 3 groups according to the post-burn days (PBD), including PBD 0–3 group (15 patients), PBD 4–7 group (15 patients) and PBD 7–17 group (15 patients), to reveal the temporal gene expression profiles in thermally injured skin.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "18 The burn patients were clustered into 3 groups according to the post-burn days (PBD), including PBD 0–3 group (15 patients), PBD 4–7 group (15 patients) and PBD 7–17 group (15 patients), to reveal the temporal gene expression profiles in thermally injured skin."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Table 1 Demographics for Participants Sampled for NGS and Patients from GSE8056 Research and Sample Type Control Group Sex Age (Years) Mean Age Burn Group Sex Age (Years) Mean Age % TBSA Burn (% Deep Burn) Mean%TBSA ABSI Score Day Postburn NGS of plasma exosome-derived small RNA Normal 01 F 24 28.3 ±5.28 Burn 01 F 54 39 ±16.69 60 (32) 79.83 ±19.99 11 5 Normal 02 F 21 Burn 02 M 28 60 (46) 10 5 Normal 03 F 29 Burn 03 F 25 65 (20) 11 5 Normal 04 M 28 Burn 04 M 54 97 (80) 15 4 Normal 05 M 33 Burn 05 F 54 98 (92) 16 4 Normal 06 M 35 Burn 06 M 19 99 (95) 13 4 cDNA-microarray analysis of skin GSM198875-01 F 35 38.4 ±14.37 GSM198869-01 M 8 30.8 ±14.83 6 14.67 ±12.94 No record 5 GSM198875-02 F 26 GSM198869-02 M 19 8 4 GSM198875-03 F 43 GSM198869-03 M 30 10 4 GSM198875-04 F 20 GSM198869-04 F 11 5 5 GSM198875-05 F 20 GSM198869-05 F 31 15 5 GSM198876-01 F 32 GSM198870-01 M 26 30 4 GSM198876-02 F 43 GSM198870-02 M 33 5 5 GSM198876-03 F 52 GSM198870-03 F 37 4 6 GSM198876-04 F 56 GSM198870-04 F 38 20 7 GSM198876-05 F 44 GSM198870-05 M 18 20 7 GSM198877-01 F 55 GSM198871-01 M 51 50 4 GSM198877-02 M 43 GSM198871-02 M 25 10 5 GSM198877-03 F 22 GSM198871-03 M 42 27 5 GSM198877-04 M 22 GSM198871-04 M 28 5 7 GSM198877-05 F 63 GSM198871-05 M 65 5 6 Abbreviations: TBSA, total body surface area; ABSI, abbreviate burn severity index; NGS, next-generation sequencing; F, female; M, male.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Demographics for Participants Sampled for NGS and Patients from GSE8056 Research and Sample Type Control Group Sex Age (Years) Mean Age Burn Group Sex Age (Years) Mean Age % TBSA Burn (% Deep Burn) Mean%TBSA ABSI Score Day Postburn NGS of plasma exosome-derived small RNA Normal 01 F 24 28.3 ±5.28 Burn 01 F 54 39 ±16.69 60 (32) 79.83 ±19.99 11 5 Normal 02 F 21 Burn 02 M 28 60 (46) 10 5 Normal 03 F 29 Burn 03 F 25 65 (20) 11 5 Normal 04 M 28 Burn 04 M 54 97 (80) 15 4 Normal 05 M 33 Burn 05 F 54 98 (92) 16 4 Normal 06 M 35 Burn 06 M 19 99 (95) 13 4 cDNA-microarray analysis of skin GSM198875-01 F 35 38.4 ±14.37 GSM198869-01 M 8 30.8 ±14.83 6 14.67 ±12.94 No record 5 GSM198875-02 F 26 GSM198869-02 M 19 8 4 GSM198875-03 F 43 GSM198869-03 M 30 10 4 GSM198875-04 F 20 GSM198869-04 F 11 5 5 GSM198875-05 F 20 GSM198869-05 F 31 15 5 GSM198876-01 F 32 GSM198870-01 M 26 30 4 GSM198876-02 F 43 GSM198870-02 M 33 5 5 GSM198876-03 F 52 GSM198870-03 F 37 4 6 GSM198876-04 F 56 GSM198870-04 F 38 20 7 GSM198876-05 F 44 GSM198870-05 M 18 20 7 GSM198877-01 F 55 GSM198871-01 M 51 50 4 GSM198877-02 M 43 GSM198871-02 M 25 10 5 GSM198877-03 F 22 GSM198871-03 M 42 27 5 GSM198877-04 M 22 GSM198871-04 M 28 5 7 GSM198877-05 F 63 GSM198871-05 M 65 5 6 Abbreviations: TBSA, total body surface area; ABSI, abbreviate burn severity index; NGS, next-generation sequencing; F, female; M, male."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Table 1 Demographics for Participants Sampled for NGS and Patients from GSE8056 Research and Sample Type Control Group Sex Age (Years) Mean Age Burn Group Sex Age (Years) Mean Age % TBSA Burn (% Deep Burn) Mean%TBSA ABSI Score Day Postburn NGS of plasma exosome-derived small RNA Normal 01 F 24 28.3 ±5.28 Burn 01 F 54 39 ±16.69 60 (32) 79.83 ±19.99 11 5 Normal 02 F 21 Burn 02 M 28 60 (46) 10 5 Normal 03 F 29 Burn 03 F 25 65 (20) 11 5 Normal 04 M 28 Burn 04 M 54 97 (80) 15 4 Normal 05 M 33 Burn 05 F 54 98 (92) 16 4 Normal 06 M 35 Burn 06 M 19 99 (95) 13 4 cDNA-microarray analysis of skin GSM198875-01 F 35 38.4 ±14.37 GSM198869-01 M 8 30.8 ±14.83 6 14.67 ±12.94 No record 5 GSM198875-02 F 26 GSM198869-02 M 19 8 4 GSM198875-03 F 43 GSM198869-03 M 30 10 4 GSM198875-04 F 20 GSM198869-04 F 11 5 5 GSM198875-05 F 20 GSM198869-05 F 31 15 5 GSM198876-01 F 32 GSM198870-01 M 26 30 4 GSM198876-02 F 43 GSM198870-02 M 33 5 5 GSM198876-03 F 52 GSM198870-03 F 37 4 6 GSM198876-04 F 56 GSM198870-04 F 38 20 7 GSM198876-05 F 44 GSM198870-05 M 18 20 7 GSM198877-01 F 55 GSM198871-01 M 51 50 4 GSM198877-02 M 43 GSM198871-02 M 25 10 5 GSM198877-03 F 22 GSM198871-03 M 42 27 5 GSM198877-04 M 22 GSM198871-04 M 28 5 7 GSM198877-05 F 63 GSM198871-05 M 65 5 6 Abbreviations: TBSA, total body surface area; ABSI, abbreviate burn severity index; NGS, next-generation sequencing; F, female; M, male.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Demographics for Participants Sampled for NGS and Patients from GSE8056 Research and Sample Type Control Group Sex Age (Years) Mean Age Burn Group Sex Age (Years) Mean Age % TBSA Burn (% Deep Burn) Mean%TBSA ABSI Score Day Postburn NGS of plasma exosome-derived small RNA Normal 01 F 24 28.3 ±5.28 Burn 01 F 54 39 ±16.69 60 (32) 79.83 ±19.99 11 5 Normal 02 F 21 Burn 02 M 28 60 (46) 10 5 Normal 03 F 29 Burn 03 F 25 65 (20) 11 5 Normal 04 M 28 Burn 04 M 54 97 (80) 15 4 Normal 05 M 33 Burn 05 F 54 98 (92) 16 4 Normal 06 M 35 Burn 06 M 19 99 (95) 13 4 cDNA-microarray analysis of skin GSM198875-01 F 35 38.4 ±14.37 GSM198869-01 M 8 30.8 ±14.83 6 14.67 ±12.94 No record 5 GSM198875-02 F 26 GSM198869-02 M 19 8 4 GSM198875-03 F 43 GSM198869-03 M 30 10 4 GSM198875-04 F 20 GSM198869-04 F 11 5 5 GSM198875-05 F 20 GSM198869-05 F 31 15 5 GSM198876-01 F 32 GSM198870-01 M 26 30 4 GSM198876-02 F 43 GSM198870-02 M 33 5 5 GSM198876-03 F 52 GSM198870-03 F 37 4 6 GSM198876-04 F 56 GSM198870-04 F 38 20 7 GSM198876-05 F 44 GSM198870-05 M 18 20 7 GSM198877-01 F 55 GSM198871-01 M 51 50 4 GSM198877-02 M 43 GSM198871-02 M 25 10 5 GSM198877-03 F 22 GSM198871-03 M 42 27 5 GSM198877-04 M 22 GSM198871-04 M 28 5 7 GSM198877-05 F 63 GSM198871-05 M 65 5 6 Abbreviations: TBSA, total body surface area; ABSI, abbreviate burn severity index; NGS, next-generation sequencing; F, female; M, male."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE8056"
+                  }],
+                "neText" : "GSE8056"
+              }]
+          }]
+      }]
+  }
+}

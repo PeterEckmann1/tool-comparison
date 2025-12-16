@@ -1,0 +1,477 @@
+{
+  "docIdentifier" : "PMC8602394",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The blotted proteins were reacted to the indicated antibody ( anti-3A5 in Figure S1 , and anti-H18 in Figure S2 ) with rotation at 21 degC for 3 h .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The blotted proteins were reacted to the indicated antibody ( anti-3A5 in Figure S1 , and anti-H18 in Figure S2 ) with rotation at 21 degC for 3 h ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-H18"
+                }],
+              "neText" : "anti-H18"
+            }]
+        }, {
+          "sentence" : "Washing was performed with PBST three times for 10 min , followed by incubation with HRPO-conjugated anti-mouse antibody ( Catalog No. 62-6520 , ThermoFisher Scientific) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Washing was performed with PBST three times for 10 min , followed by incubation with HRPO-conjugated anti-mouse antibody ( Catalog No. 62-6520 , ThermoFisher Scientific) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }, {
+          "sentence" : "The negative control monoclonal antibody was a mouse IgG1 ( clone T248",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The negative control monoclonal antibody was a mouse IgG1 ( clone T248"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "mouse IgG1"
+                }],
+              "neText" : "mouse IgG1"
+            }]
+        }, {
+          "sentence" : "The secondary antibody , Alexa Fluor 488-labeled anti-mouse IgG ( Catalog No. AP124JA4 , Sigma-Aldrich ) was added ( 1:1000) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The secondary antibody , Alexa Fluor 488-labeled anti-mouse IgG ( Catalog No. AP124JA4 , Sigma-Aldrich ) was added ( 1:1000) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Alexa Fluor 488-labeled anti-mouse IgG"
+                }],
+              "neText" : "Alexa Fluor 488-labeled anti-mouse IgG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG"
+                }],
+              "neText" : "anti-mouse IgG"
+            }]
+        }, {
+          "sentence" : "anti-GFP ( Catalog No. A11122 , ThermoFisher Scientific 43) , and anti-CD45 ( Catalog No. 3089003B , Fluidigm , South San Francisco , CA 44) , and then conjugated in house using Maxpar Antibody Labeling Kit ( Fluidigm ) according to the instructions of the manufacturer .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "anti-GFP ( Catalog No. A11122 , ThermoFisher Scientific 43) , and anti-CD45 ( Catalog No. 3089003B , Fluidigm , South San Francisco , CA 44) , and then conjugated in house using Maxpar Antibody Labeling Kit ( Fluidigm ) according to the instructions of the manufacturer ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-CD45"
+                }],
+              "neText" : "anti-CD45"
+            }]
+        }, {
+          "sentence" : "The following antibody concentrations were used: anti-H2: 5 ugml , anti-H3: 5 ugml , anti-H18: 5 ugml , anti-L1: 1 ugml , anti-L2: 7.5 ugml , anti-L4: 7.5 ugml , anti-L6: 10 ugml , anti-IgM: 10 ugml , anti-P1: 7.5 ugml , anti-3A5: 5 ugml , and anti-GFP: 10 ugml .",
+          "rowSpan" : 9,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following antibody concentrations were used: anti-H2: 5 ugml , anti-H3: 5 ugml , anti-H18: 5 ugml , anti-L1: 1 ugml , anti-L2: 7.5 ugml , anti-L4: 7.5 ugml , anti-L6: 10 ugml , anti-IgM: 10 ugml , anti-P1: 7.5 ugml , anti-3A5: 5 ugml , and anti-GFP: 10 ugml ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-H2"
+                }],
+              "neText" : "anti-H2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-H3"
+                }],
+              "neText" : "anti-H3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-L1"
+                }],
+              "neText" : "anti-L1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-L2"
+                }],
+              "neText" : "anti-L2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-L4"
+                }],
+              "neText" : "anti-L4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-L6"
+                }],
+              "neText" : "anti-L6"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-P1"
+                }],
+              "neText" : "anti-P1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-3A5"
+                }],
+              "neText" : "anti-3A5"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-GFP"
+                }],
+              "neText" : "anti-GFP"
+            }]
+        }, {
+          "sentence" : "The L6 ( IgM isotype ) marker was measured indirectly via metal tag-labeled anti-IgM antibody .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The L6 ( IgM isotype ) marker was measured indirectly via metal tag-labeled anti-IgM antibody ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "L6 ( IgM"
+                }],
+              "neText" : "L6 ( IgM"
+            }]
+        }, {
+          "sentence" : "The negative control monoclonal antibody was a mouse IgG1 ( clone HI30 , anti-human 89 Y-labeled CD45 ) in 1:100 dilution .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The negative control monoclonal antibody was a mouse IgG1 ( clone HI30 , anti-human 89 Y-labeled CD45 ) in 1:100 dilution ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-human 89 Y-labeled CD45"
+                }],
+              "neText" : "anti-human 89 Y-labeled CD45"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Y-labeled"
+                }],
+              "neText" : "Y-labeled"
+            }]
+        }, {
+          "sentence" : "The isotypes of anti-Drosophila antibodies were determined by the IsoStrip(tm ) Antibody Isotyping Kit ( Catalog No. 11493027001 , Roche , Basel , Switzerland ) according to the instructions of the manufacturer .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The isotypes of anti-Drosophila antibodies were determined by the IsoStrip(tm ) Antibody Isotyping Kit ( Catalog No. 11493027001 , Roche , Basel , Switzerland ) according to the instructions of the manufacturer ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Drosophila"
+                }],
+              "neText" : "anti-Drosophila"
+            }]
+        }, {
+          "sentence" : "Cells were washed with 200 ul MCSB , stained with anti-IgM antibody ( volumes were the same as in the surface staining) , and incubated on ice for 30 min .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were washed with 200 ul MCSB , stained with anti-IgM antibody ( volumes were the same as in the surface staining) , and incubated on ice for 30 min ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-IgM"
+                }],
+              "neText" : "anti-IgM"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Materials and methods Drosophila stocks The following Drosophila lines were used in the current study: w1118 (BSC9505, Bloomington Drosophila Stock Center, Bloomington,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Drosophila stocks The following Drosophila lines were used in the current study: w1118 (BSC9505, Bloomington Drosophila Stock Center, Bloomington,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:BDSC_3605",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "w1118"
+                }],
+              "neText" : "w1118"
+            }]
+        }, {
+          "sentence" : "IN) , Ore-R ( wild type) , w hdcD84TM3 , Kr>GFP 30 , lz-Gal4 , UAS-GFP + + ( a gift from Bruno Lemaitre , Lausanne , Switzerland ) 32",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "IN) , Ore-R ( wild type) , w hdcD84TM3 , Kr>GFP 30 , lz-Gal4 , UAS-GFP + + ( a gift from Bruno Lemaitre , Lausanne , Switzerland ) 32"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ore-R"
+                }],
+              "neText" : "Ore-R"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "w hdcD84TM3 , Kr>GFP 30 , lz-Gal4 , UAS-GFP + +"
+                }],
+              "neText" : "w hdcD84TM3 , Kr>GFP 30 , lz-Gal4 , UAS-GFP + +"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The microscopic analysis was carried out using a Zeiss Axioskope 2MOT epifluorescent microscope and Axiovision 2.4 software ( Zeiss , Oberkochen , Germany) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The microscopic analysis was carried out using a Zeiss Axioskope 2MOT epifluorescent microscope and Axiovision 2.4 software ( Zeiss , Oberkochen , Germany) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Axiovision"
+                }],
+              "neText" : "Axiovision"
+            }]
+        }, {
+          "sentence" : "After 45 min incubation at 4 degC , the cells were washed three times with ice-cold Schneiders medium and acquired on FACSCalibur ( Beckton Dickinson , Franklin Lakes , NJ , )",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After 45 min incubation at 4 degC , the cells were washed three times with ice-cold Schneiders medium and acquired on FACSCalibur ( Beckton Dickinson , Franklin Lakes , NJ , )"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FACSCalibur"
+                }],
+              "neText" : "FACSCalibur"
+            }]
+        }, {
+          "sentence" : "After randomization, normalization, and FCS file generation, the files were further analyzed in Cytobank (Beckman Coulter, Brea, CA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After randomization, normalization, and FCS file generation, the files were further analyzed in Cytobank (Beckman Coulter, Brea, CA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytobank"
+                }],
+              "neText" : "Cytobank"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "After randomization, normalization, and FCS file generation, the files were further analyzed in Cytobank (Beckman Coulter, Brea, CA).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After randomization, normalization, and FCS file generation, the files were further analyzed in Cytobank (Beckman Coulter, Brea, CA)."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

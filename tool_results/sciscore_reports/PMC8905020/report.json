@@ -1,0 +1,393 @@
+{
+  "docIdentifier" : "PMC8905020",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The membranes were blocked in 5 skimmed milk powder at room temperature for 1 h , and incubated with primary rabbit polyclonal antibodies ( SERT , Cat. No. ab102048 , Abcam , Cambridge , UK b-actin",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membranes were blocked in 5 skimmed milk powder at room temperature for 1 h , and incubated with primary rabbit polyclonal antibodies ( SERT , Cat. No. ab102048 , Abcam , Cambridge , UK b-actin"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SERT"
+                }],
+              "neText" : "SERT"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell culture Caco-2 , a human epithelial colorectal adenocarcinoma cell line , was grown in Eagles minimal essential medium ( MEM Gibco , New York , NY , United States ) supplemented with 20 fetal bovine serum ( FBS Gibco ) and 1 nonessential amino acids at 37 degC .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture Caco-2 , a human epithelial colorectal adenocarcinoma cell line , was grown in Eagles minimal essential medium ( MEM Gibco , New York , NY , United States ) supplemented with 20 fetal bovine serum ( FBS Gibco ) and 1 nonessential amino acids at 37 degC ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0025",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Caco-2"
+                }],
+              "neText" : "Caco-2"
+            }]
+        }, {
+          "sentence" : "The human colonic epithelial carcinoma cell line , HT-29 , was grown in Dulbeccos modified Eagles medium ( DMEM Gibco , New York , NY , United States ) supplemented with 10 FBS and 1 nonessential amino acids at 37 degC .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The human colonic epithelial carcinoma cell line , HT-29 , was grown in Dulbeccos modified Eagles medium ( DMEM Gibco , New York , NY , United States ) supplemented with 10 FBS and 1 nonessential amino acids at 37 degC ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0320",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HT-29"
+                }],
+              "neText" : "HT-29"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Animal studies Sixty-six male Sprague-Dawley rats ( 270-310 g ) were maintained in a room at 22 +- 1 degC under a 12-h light:12-h dark cycle in the Institute of Radiation Medicine , Chinese Academy of Medical Sciences ( Tianjin , China) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Animal studies Sixty-six male Sprague-Dawley rats ( 270-310 g ) were maintained in a room at 22 +- 1 degC under a 12-h light:12-h dark cycle in the Institute of Radiation Medicine , Chinese Academy of Medical Sciences ( Tianjin , China) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_70508",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sprague-Dawley"
+                }],
+              "neText" : "Sprague-Dawley"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "cDNA was synthesized using the iScript cDNA synthesis kit ( Bio-Rad Laboratories , Inc . , Hercules , CA , United States) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "cDNA was synthesized using the iScript cDNA synthesis kit ( Bio-Rad Laboratories , Inc . , Hercules , CA , United States) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bio-Rad Laboratories"
+                }],
+              "neText" : "Bio-Rad Laboratories"
+            }]
+        }, {
+          "sentence" : "The Bio-Rad Image Analysis System (Bio-Rad Laboratories) was utilized to visualize the protein bands.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Bio-Rad Image Analysis System (Bio-Rad Laboratories) was utilized to visualize the protein bands."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bio-Rad Image"
+                }],
+              "neText" : "Bio-Rad Image"
+            }]
+        }, {
+          "sentence" : "The protein quantitative analysis was undertaken using ImageJ software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The protein quantitative analysis was undertaken using ImageJ software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "All statistical analyses were performed using SPSS 20.0 software (IBM, Armonk, NY, United States).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were performed using SPSS 20.0 software (IBM, Armonk, NY, United States)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Animal studies Sixty-six male Sprague-Dawley rats ( 270-310 g ) were maintained in a room at 22 +- 1 degC under a 12-h light:12-h dark cycle in the Institute of Radiation Medicine , Chinese Academy of Medical Sciences ( Tianjin , China) .",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animal studies Sixty-six male Sprague-Dawley rats ( 270-310 g ) were maintained in a room at 22 +- 1 degC under a 12-h light:12-h dark cycle in the Institute of Radiation Medicine , Chinese Academy of Medical Sciences ( Tianjin , China) ."
+              }]
+          }, {
+            "sentence" : "All animals were euthanized by barbiturate overdose ( intravenous injection , 150 mgkg pentobarbital sodium ) for tissue collection .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All animals were euthanized by barbiturate overdose ( intravenous injection , 150 mgkg pentobarbital sodium ) for tissue collection ."
+              }]
+          }, {
+            "sentence" : "All procedures involving animals were reviewed and approved by the Institutional Animal Care and Use Committee of the Institute of Radiation Medicine , Chinese Academy of Medical Sciences ( IACUC Protocol No. IRM-DWLL-2021142) .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All procedures involving animals were reviewed and approved by the Institutional Animal Care and Use Committee of the Institute of Radiation Medicine , Chinese Academy of Medical Sciences ( IACUC Protocol No. IRM-DWLL-2021142) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Four rats were randomly chosen from the PI-IBS and control group to perform the intestinal motility test with carbon solution gavage.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Four rats were randomly chosen from the PI-IBS and control group to perform the intestinal motility test with carbon solution gavage."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Animal studies Sixty-six male Sprague-Dawley rats ( 270-310 g ) were maintained in a room at 22 +- 1 degC under a 12-h light:12-h dark cycle in the Institute of Radiation Medicine , Chinese Academy of Medical Sciences ( Tianjin , China) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animal studies Sixty-six male Sprague-Dawley rats ( 270-310 g ) were maintained in a room at 22 +- 1 degC under a 12-h light:12-h dark cycle in the Institute of Radiation Medicine , Chinese Academy of Medical Sciences ( Tianjin , China) ."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Animal studies Sixty-six male Sprague-Dawley rats ( 270-310 g ) were maintained in a room at 22 +- 1 degC under a 12-h light:12-h dark cycle in the Institute of Radiation Medicine , Chinese Academy of Medical Sciences ( Tianjin , China) .",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animal studies Sixty-six male Sprague-Dawley rats ( 270-310 g ) were maintained in a room at 22 +- 1 degC under a 12-h light:12-h dark cycle in the Institute of Radiation Medicine , Chinese Academy of Medical Sciences ( Tianjin , China) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Intervention and evaluation of a rat model of PI-IBS Rats were randomly divided into a PI-IBS group ( n = 52 ) and control group ( n = 14) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Intervention and evaluation of a rat model of PI-IBS Rats were randomly divided into a PI-IBS group ( n = 52 ) and control group ( n = 14) ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis The Students t-test was used to assess differences between two groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis The Students t-test was used to assess differences between two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Table 1 Primer sequences for RT-PCR Gene Sequence ( 5-3 ) rGAPDH Forward: 5-CCATCAACGACCCCTTCATT-3 Reverse: 5-GACCAGCTTCCCATTCTCAG-3 rSERT Forward: 5-ACTGTTACCAAGATGCCCTG-3 Reverse: 5-ATCTTCATTCCTCATCTCCGC- 3 hGAPDH Forward: 5-ACA GCA ACT CCC ATT CTT-3 Reverse: 5-TCC AGG GTT TCT TAC TCC-3 hSERT Reverse: 5-AAT",
+            "rowSpan" : 7,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 Primer sequences for RT-PCR Gene Sequence ( 5-3 ) rGAPDH Forward: 5-CCATCAACGACCCCTTCATT-3 Reverse: 5-GACCAGCTTCCCATTCTCAG-3 rSERT Forward: 5-ACTGTTACCAAGATGCCCTG-3 Reverse: 5-ATCTTCATTCCTCATCTCCGC- 3 hGAPDH Forward: 5-ACA GCA ACT CCC ATT CTT-3 Reverse: 5-TCC AGG GTT TCT TAC TCC-3 hSERT Reverse: 5-AAT"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CCATCAACGACCCCTTCATT-3"
+                  }],
+                "neText" : "5-CCATCAACGACCCCTTCATT-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GACCAGCTTCCCATTCTCAG-3"
+                  }],
+                "neText" : "5-GACCAGCTTCCCATTCTCAG-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ACTGTTACCAAGATGCCCTG-3"
+                  }],
+                "neText" : "5-ACTGTTACCAAGATGCCCTG-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ATCTTCATTCCTCATCTCCGC- 3"
+                  }],
+                "neText" : "5-ATCTTCATTCCTCATCTCCGC- 3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ACA GCA ACT CCC ATT CTT-3"
+                  }],
+                "neText" : "5-ACA GCA ACT CCC ATT CTT-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TCC AGG GTT TCT TAC TCC-3"
+                  }],
+                "neText" : "5-TCC AGG GTT TCT TAC TCC-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-AAT"
+                  }],
+                "neText" : "5-AAT"
+              }]
+          }, {
+            "sentence" : "GGG TAC TCA GCA GTT CC-3 Reverse: 5-CCA CAG CAT AGC CAA TCA C-3 hGAPDH: Human glyceraldehyde-3-phosphate dehydrogenase hSERT: Human serotonin transporter rGAPDH: Rat glyceraldehyde-3-phosphate dehydrogenase rSERT: Rat serotonin transporter .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "GGG TAC TCA GCA GTT CC-3 Reverse: 5-CCA CAG CAT AGC CAA TCA C-3 hGAPDH: Human glyceraldehyde-3-phosphate dehydrogenase hSERT: Human serotonin transporter rGAPDH: Rat glyceraldehyde-3-phosphate dehydrogenase rSERT: Rat serotonin transporter ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CCA CAG CAT AGC CAA TCA C-3"
+                  }],
+                "neText" : "5-CCA CAG CAT AGC CAA TCA C-3"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "docIdentifier" : "PMC8045915",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The SPSS software package (version 22.0, SPSS Inc., Chicago, IL, USA) and R statistical software (Bell Labs, New York, NY, USA) were used for data analyses.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The SPSS software package (version 22.0, SPSS Inc., Chicago, IL, USA) and R statistical software (Bell Labs, New York, NY, USA) were used for data analyses."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All patients gave informed consent in accordance with the Declaration of Helsinki and according to the rules directed by the Institutional Review Board of Peking University People's Hospital.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients gave informed consent in accordance with the Declaration of Helsinki and according to the rules directed by the Institutional Review Board of Peking University People's Hospital."
+              }]
+          }, {
+            "sentence" : "All patients gave informed consent in accordance with the Declaration of Helsinki and according to the rules directed by the Institutional Review Board of Peking University People's Hospital.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients gave informed consent in accordance with the Declaration of Helsinki and according to the rules directed by the Institutional Review Board of Peking University People's Hospital."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Other inclusion criteria included sufficient cardiac function, lung diffusion capacity of at least 80%, transaminases level less than three times of the upper limit of normal, and creatinine clearance greater than 70 mL/min.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Other inclusion criteria included sufficient cardiac function, lung diffusion capacity of at least 80%, transaminases level less than three times of the upper limit of normal, and creatinine clearance greater than 70 mL/min."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Because pre‐HSCT treatment with cytoreduction or BSC was not allocated through randomization, a 1:1 ratio PSM analysis was conducted using nearest neighbor or exact matching of age, sex, WHO disease stage, cytogenetics, interval between diagnosis and HSCT, and donor source.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Because pre-HSCT treatment with cytoreduction or BSC was not allocated through randomization, a 1:1 ratio PSM analysis was conducted using nearest neighbor or exact matching of age, sex, WHO disease stage, cytogenetics, interval between diagnosis and HSCT, and donor source."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "2.7 Statistical analysis The probabilities of OS and RFS were calculated using the Kaplan‐Meier estimator with the log‐rank test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.7 Statistical analysis The probabilities of OS and RFS were calculated using the Kaplan-Meier estimator with the log-rank test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log‐rank test"
+              }]
+          }]
+      }]
+  }
+}

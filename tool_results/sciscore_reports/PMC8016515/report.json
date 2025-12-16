@@ -1,0 +1,331 @@
+{
+  "docIdentifier" : "PMC8016515",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "After incubated in 5 BSA (Solarbio, China) at room temperature for 2 h, the membranes were incubated with primary antibodies against b-actin, LC3(Abcam, England), P62(Abcam, England) and NDUFS3(Abcam, England) overnight at 4 degC.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After incubated in 5 BSA (Solarbio, China) at room temperature for 2 h, the membranes were incubated with primary antibodies against b-actin, LC3(Abcam, England), P62(Abcam, England) and NDUFS3(Abcam, England) overnight at 4 degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "b-actin, LC3"
+                }],
+              "neText" : "b-actin, LC3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "P62"
+                }],
+              "neText" : "P62"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NDUFS3"
+                }],
+              "neText" : "NDUFS3"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "The drosophila strains used in this study included: P UAS-Abarc (line for expressing arctic mutant human Ab42) 12 and wild-type w1118 and GAL4A307(drives expression in the giant fiber system).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The drosophila strains used in this study included: P UAS-Abarc (line for expressing arctic mutant human Ab42) 12 and wild-type w1118 and GAL4A307(drives expression in the giant fiber system)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "P UAS-Abarc"
+                }],
+              "neText" : "P UAS-Abarc"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:BDSC_3605",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "w1118"
+                }],
+              "neText" : "w1118"
+            }]
+        }, {
+          "sentence" : "According to different concentrations, the flies were divided into five groups: (1)wild-type A307w1118, no treatment with K2, (2)A307Abarc, no treatment with K2, (3)A307Abarc + 0.1 mM K2, treated with vitamin K2 at 0.1 mM, (4)A307Abarc + 0.5 mM K2, treated with vitamin K2 at 0.5 mM and (5)A307Abarc + 0.8 mM K2, treated with vitamin K2 at 0.8 mM.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "According to different concentrations, the flies were divided into five groups: (1)wild-type A307w1118, no treatment with K2, (2)A307Abarc, no treatment with K2, (3)A307Abarc + 0.1 mM K2, treated with vitamin K2 at 0.1 mM, (4)A307Abarc + 0.5 mM K2, treated with vitamin K2 at 0.5 mM and (5)A307Abarc + 0.8 mM K2, treated with vitamin K2 at 0.8 mM."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A307w1118"
+                }],
+              "neText" : "A307w1118"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Relative quantitative analysis of data was conducted with the GraphPad Prism 8 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Relative quantitative analysis of data was conducted with the GraphPad Prism 8 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }, {
+          "sentence" : "Bands were visualized using an electro-chemi-Luminescence chemiluminescence kit (Thermo Fisher Scientific) on BIO-RAD ChemiDocTM XRS + system (USA), and then the grayscale value of bands were scanned with the Image J software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bands were visualized using an electro-chemi-Luminescence chemiluminescence kit (Thermo Fisher Scientific) on BIO-RAD ChemiDocTM XRS + system (USA), and then the grayscale value of bands were scanned with the Image J software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image J"
+                }],
+              "neText" : "Image J"
+            }]
+        }, {
+          "sentence" : "All statistical analyses were performed using GraphPad Prism 8 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were performed using GraphPad Prism 8 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "PUAS-Abarc line was crossed to GAL4A307 line to receive male filial generation 1(F1) drosophilas expressing arctic mutant Ab42 in the giant fiber system, GAL4A307UAS-Abarc, which were used for the next series of experiments.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "PUAS-Abarc line was crossed to GAL4A307 line to receive male filial generation 1(F1) drosophilas expressing arctic mutant Ab42 in the giant fiber system, GAL4A307UAS-Abarc, which were used for the next series of experiments."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The above process was repeated three times by 1 min intervals.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The above process was repeated three times by 1 min intervals."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "The above process was repeated three times by 1 min intervals.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The above process was repeated three times by 1 min intervals."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "One-way analysis of variance was used for statistical significance and followed by Dunnetts post hoc test for comparison between every two groups.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way analysis of variance was used for statistical significance and followed by Dunnetts post hoc test for comparison between every two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnetts post hoc test"
+                  }],
+                "neText" : "Dunnetts post hoc test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The sequence of the forward and reverse primers is listed as follows: LC3 Fw primer: 5-AGGATGCCCTCTTCTTCTTTG- 3 , Rev primer: 5-GAAATAGTCCTCCTCGT GATGTT-3",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The sequence of the forward and reverse primers is listed as follows: LC3 Fw primer: 5-AGGATGCCCTCTTCTTCTTTG- 3 , Rev primer: 5-GAAATAGTCCTCCTCGT GATGTT-3"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GAAATAGTCCTCCTCGT"
+                  }],
+                "neText" : "5-GAAATAGTCCTCCTCGT"
+              }]
+          }, {
+            "sentence" : "Beclin1 Fw primer: 5-ACAGGAACGACAATGAGT GAG-3 , Rev primer: 5-TCCGTAGATGGGCAAAGATAAC -3 NADH dehydrogenase ( ubiquinone ) ferrithionein 3 ( NDUFS3 ) Fw primer: 5-GCTCG CATCTCTCCGATTT-3 , Rev primer: 5-AATAAGCACCTCCAGCTCATC- 3 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Beclin1 Fw primer: 5-ACAGGAACGACAATGAGT GAG-3 , Rev primer: 5-TCCGTAGATGGGCAAAGATAAC -3 NADH dehydrogenase ( ubiquinone ) ferrithionein 3 ( NDUFS3 ) Fw primer: 5-GCTCG CATCTCTCCGATTT-3 , Rev primer: 5-AATAAGCACCTCCAGCTCATC- 3 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ACAGGAACGACAATGAGT GAG-3"
+                  }],
+                "neText" : "5-ACAGGAACGACAATGAGT GAG-3"
+              }]
+          }]
+      }]
+  }
+}

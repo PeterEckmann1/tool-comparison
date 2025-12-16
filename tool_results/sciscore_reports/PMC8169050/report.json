@@ -1,0 +1,166 @@
+{
+  "docIdentifier" : "PMC8169050",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "After downloading the collected data from Google forms, it was cleaned, sorted, edited, and coded in Excel.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After downloading the collected data from Google forms, it was cleaned, sorted, edited, and coded in Excel."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Excel"
+                }],
+              "neText" : "Excel"
+            }]
+        }, {
+          "sentence" : "Then for statistical analysis, it was imported into SPSS software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then for statistical analysis, it was imported into SPSS software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Data Collection Instrument and Procedure Questionnaires with informed consent and having four parts, i.e., socio-demographic, knowledge, attitudes, and perceptions were used for collecting data.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data Collection Instrument and Procedure Questionnaires with informed consent and having four parts, i.e., socio-demographic, knowledge, attitudes, and perceptions were used for collecting data."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Incomplete surveys were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Incomplete surveys were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Inclusion and Exclusion Criteria Being an Ethiopian resident, age greater than 18 years old, and having good internet access were our inclusion criteria.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Inclusion and Exclusion Criteria Being an Ethiopian resident, age greater than 18 years old, and having good internet access were our inclusion criteria."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "However, our sample size was greater than this estimate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "However, our sample size was greater than this estimate."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "To make sure the questions are externally and internally consistent we validated through pilot testing and Cronbachs Alpha test.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To make sure the questions are externally and internally consistent we validated through pilot testing and Cronbachs Alpha test."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Then after reporting frequencies, percentages, standard deviations, and means, chi-square tests were conducted.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Then after reporting frequencies, percentages, standard deviations, and means, chi-square tests were conducted."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square tests"
+                  }],
+                "neText" : "chi-square tests"
+              }]
+          }]
+      }]
+  }
+}

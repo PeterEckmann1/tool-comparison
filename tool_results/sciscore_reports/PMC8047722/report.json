@@ -1,0 +1,214 @@
+{
+  "docIdentifier" : "PMC8047722",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "53 We used the Andromeda search engine 54 to search the detected features against the human Swiss-Prot reference proteome from Uniprot ( downloaded on 18 March 2019 , 20251 proteins) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "53 We used the Andromeda search engine 54 to search the detected features against the human Swiss-Prot reference proteome from Uniprot ( downloaded on 18 March 2019 , 20251 proteins) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "UniProt (RRID:SCR_002380)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Uniprot"
+                }],
+              "neText" : "Uniprot"
+            }]
+        }, {
+          "sentence" : "The “proteinGroups . txt” file produced by MaxQuant was further analyzed in the R language ( R version 3.5.1) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The “proteinGroups . txt” file produced by MaxQuant was further analyzed in the R language ( R version 3.5.1) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MaxQuant (RRID:SCR_014485)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MaxQuant"
+                }],
+              "neText" : "MaxQuant"
+            }]
+        }, {
+          "sentence" : "Statistical Analysis A two-sided t-test was performed on the logarithmized LFQ intensities with a p-value cutoff of 0.05 and fold change ≥1.5 . Protein Gene Ontology and Pathway Analysis Cellular component annotation for identified proteins was performed using DAVID ( https://david.ncifcrf.gov/ ) with the GOTERM_CC_DIRECT database.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis A two-sided t-test was performed on the logarithmized LFQ intensities with a p-value cutoff of 0.05 and fold change "
+            }, {
+              "f" : "symbol",
+              "c" : "≥"
+            }, {
+              "f" : "default",
+              "c" : "1.5 . Protein Gene Ontology and Pathway Analysis Cellular component annotation for identified proteins was performed using DAVID ( https://david.ncifcrf.gov/ ) with the GOTERM_CC_DIRECT database."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "DAVID (RRID:SCR_001881)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DAVID"
+                }],
+              "neText" : "DAVID"
+            }]
+        }, {
+          "sentence" : "Gene Ontology enrichment analysis was performed using STRING ( version 11.0 , https://string-db.org/) , an open-source software tool , for general characterization of properties of the proteins in the data set.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gene Ontology enrichment analysis was performed using STRING ( version 11.0 , https://string-db.org/) , an open-source software tool , for general characterization of properties of the proteins in the data set."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "STRING (RRID:SCR_005223)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All volunteers with informed consent documents were from the physical examination population in the physical examination center of Guangdong Provincial Hospital of Chinese Medicine.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All volunteers with informed consent documents were from the physical examination population in the physical examination center of Guangdong Provincial Hospital of Chinese Medicine."
+              }]
+          }, {
+            "sentence" : "The study was approved by the Ethics Committee of Guangdong Provincial Hospital of Chinese Medicine.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the Ethics Committee of Guangdong Provincial Hospital of Chinese Medicine."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "In the control group, there were 25 healthy people (20 males and 5 females) aged between 24 and 70 years.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In the control group, there were 25 healthy people (20 males and 5 females) aged between 24 and 70 years."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "In the control group, there were 25 healthy people (20 males and 5 females) aged between 24 and 70 years.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In the control group, there were 25 healthy people (20 males and 5 females) aged between 24 and 70 years."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical Analysis A two-sided t-test was performed on the logarithmized LFQ intensities with a p-value cutoff of 0.05 and fold change ≥1.5 . Protein Gene Ontology and Pathway Analysis Cellular component annotation for identified proteins was performed using DAVID ( https://david.ncifcrf.gov/ ) with the GOTERM_CC_DIRECT database.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical Analysis A two-sided t-test was performed on the logarithmized LFQ intensities with a p-value cutoff of 0.05 and fold change "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "1.5 . Protein Gene Ontology and Pathway Analysis Cellular component annotation for identified proteins was performed using DAVID ( https://david.ncifcrf.gov/ ) with the GOTERM_CC_DIRECT database."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

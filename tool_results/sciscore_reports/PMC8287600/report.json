@@ -1,0 +1,144 @@
+{
+  "docIdentifier" : "PMC8287600",
+  "sciscore" : 8,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Analyses were done with STATA V.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Analyses were done with STATA V."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata (RRID:SCR_012763)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STATA"
+                }],
+              "neText" : "STATA"
+            }]
+        }, {
+          "sentence" : "15.1 software (StataCorp).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "15.1 software (StataCorp)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Stata, RRID:SCR_012763",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "StataCorp"
+                }],
+              "neText" : "StataCorp"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "All men who were referred for VMMC were given a referral card with a unique identifier and asked to present it when they attended for VMMC, enabling their attendance to be linked with the referring IPC agent.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All men who were referred for VMMC were given a referral card with a unique identifier and asked to present it when they attended for VMMC, enabling their attendance to be linked with the referring IPC agent."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The RCT payment structure followed that of the national VMMC programme, with IPC agents receiving US$5 when a boy aged 10–14 years or a man ≥30 years was circumcised and US$7 when a man aged 15–29 years was circumcised.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The RCT payment structure followed that of the national VMMC programme, with IPC agents receiving US$5 when a boy aged 10–14 years or a man "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "30 years was circumcised and US$7 when a man aged 15–29 years was circumcised."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Randomisation and masking IPC agents were the unit of randomisation and were assigned 1:1:1:1 to four arms, using restricted randomisation by IPC agent for sex, age and having ≥12 months of VMMC mobilisation experience.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Randomisation and masking IPC agents were the unit of randomisation and were assigned 1:1:1:1 to four arms, using restricted randomisation by IPC agent for sex, age and having "
+              }, {
+                "f" : "symbol",
+                "c" : "≥"
+              }, {
+                "f" : "default",
+                "c" : "12 months of VMMC mobilisation experience."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Second, following review of blinded interim data, the sample size was recalculated and the main analysis was changed from parallel comparisons to the two factorial comparisons, assessing outcomes with and without each intervention.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Second, following review of blinded interim data, the sample size was recalculated and the main analysis was changed from parallel comparisons to the two factorial comparisons, assessing outcomes with and without each intervention."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Sample size calculation As originally designed, this study required 35 IPC agents per arm (140 IPC agents across four arms) to have 80% power to detect a 30% proportionate difference in VMMC uptake between any two individual arms assuming a high variability between IPC agents (coefficient of variation, k=0.3) (see online supplemental appendix for other scenarios).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sample size calculation As originally designed, this study required 35 IPC agents per arm (140 IPC agents across four arms) to have 80% power to detect a 30% proportionate difference in VMMC uptake between any two individual arms assuming a high variability between IPC agents (coefficient of variation, k=0.3) (see online supplemental appendix for other scenarios)."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "docIdentifier" : "PMC8170159",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Membranes were blocked in a blocking buffer of 5 % non-fat dry milk and TBS-T ( Tris-buffered saline and 0.1 % Tween ) and then incubated in primary antibody ( P4HA1 , Cat#12658-1-AP , 1:1000 ) overnight at 4 °C .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Membranes were blocked in a blocking buffer of 5 % non-fat dry milk and TBS-T ( Tris-buffered saline and 0.1 % Tween ) and then incubated in primary antibody ( P4HA1 , Cat#12658-1-AP , 1:1000 ) overnight at 4 °C ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "P4HA1"
+                }],
+              "neText" : "P4HA1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cat#12658-1-AP"
+                }],
+              "neText" : "Cat#12658-1-AP"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Materials and methods Cell Lines Lung cancer cell lines, A549 and H1437, were obtained from ATCC (Manassas, VA, USA) and cultured in RPMI-1640 (Life Technologies, Carlsbad, CA, USA) supplemented with penicillin-streptomycin (100U/ml) and 10% FBS (Life Technologies).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Cell Lines Lung cancer cell lines, A549 and H1437, were obtained from ATCC (Manassas, VA, USA) and cultured in RPMI-1640 (Life Technologies, Carlsbad, CA, USA) supplemented with penicillin-streptomycin (100U/ml) and 10% FBS (Life Technologies)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }]
+        }, {
+          "sentence" : "BEAS-2B cells were obtained from ATCC and cultured in BEBM (Lonza, Basel, Switzerland) supplemented with BEGM (Lonza, Basel, Switzerland).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "BEAS-2B cells were obtained from ATCC and cultured in BEBM (Lonza, Basel, Switzerland) supplemented with BEGM (Lonza, Basel, Switzerland)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0168",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BEAS-2B"
+                }],
+              "neText" : "BEAS-2B"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Small molecule inhibition The P4HA1-specific inhibitor , diethyl-PythiDC ( PythiDC) , was obtained from MedChemExpress",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Small molecule inhibition The P4HA1-specific inhibitor , diethyl-PythiDC ( PythiDC) , was obtained from MedChemExpress"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PythiDC"
+                }],
+              "neText" : "PythiDC"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Informed consent was obtained for each subject and was approved by the Institutional Review Board.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was obtained for each subject and was approved by the Institutional Review Board."
+              }]
+          }, {
+            "sentence" : "Informed consent was obtained for each subject and was approved by the Institutional Review Board.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was obtained for each subject and was approved by the Institutional Review Board."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All q-RT-PCR reactions were performed in triplicate.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All q-RT-PCR reactions were performed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "All q-RT-PCR reactions were performed in triplicate.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All q-RT-PCR reactions were performed in triplicate."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Mean miR-124-3p expression ( Error bars ± SEM: *P = 0.048 , one-sided student 's t-test with unequal variance) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mean miR-124-3p expression ( Error bars ± SEM: *P = 0.048 , one-sided student 's t-test with unequal variance) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "student 's t-test"
+                  }],
+                "neText" : "student 's t-test"
+              }]
+          }, {
+            "sentence" : "Statistical analysis To determine significant differences between two groups, Student's two-tail t-test was used for all experiments.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis To determine significant differences between two groups, Student's two-tail t-test was used for all experiments."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "Kaplan-Meier survival curve with log-rank test was used for overall survival analysis based on gene expression value.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Kaplan-Meier survival curve with log-rank test was used for overall survival analysis based on gene expression value."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }]
+      }]
+  }
+}

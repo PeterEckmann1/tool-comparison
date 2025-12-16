@@ -1,0 +1,163 @@
+{
+  "docIdentifier" : "PMC8374740",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Analyses were performed using SAS statistical software version 9.4 (SAS Institute).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Analyses were performed using SAS statistical software version 9.4 (SAS Institute)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS statistical"
+                }],
+              "neText" : "SAS statistical"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study protocol (Supplement 1) was approved by an independent ethics committee or institutional review board at each study site (eTable in Supplement 2).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study protocol (Supplement 1) was approved by an independent ethics committee or institutional review board at each study site (eTable in Supplement 2)."
+              }]
+          }, {
+            "sentence" : "All patients provided written informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients provided written informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients with a baseline draining fistula count of more than 20; those requiring surgical management before week 13; those requiring excisional surgery with primary closure, partial surgical reduction of excision with surgical suture, or reconstruction techniques; and those with active skin disease or conditions other than HS that could interfere with the assessment of HS were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients with a baseline draining fistula count of more than 20; those requiring surgical management before week 13; those requiring excisional surgery with primary closure, partial surgical reduction of excision with surgical suture, or reconstruction techniques; and those with active skin disease or conditions other than HS that could interfere with the assessment of HS were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "During the perioperative period (weeks 13 and 14), patients continued adalimumab, 40 mg, weekly or placebo, and the surgeon measured and recorded the surface area of the actual surgery.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "During the perioperative period (weeks 13 and 14), patients continued adalimumab, 40 mg, weekly or placebo, and the surgeon measured and recorded the surface area of the actual surgery."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "SHARPS enrolled adults (aged 18-65 years) diagnosed with HS 1 year or more prior to baseline.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "SHARPS enrolled adults (aged 18-65 years) diagnosed with HS 1 year or more prior to baseline."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Methods Study Design The SHARPS study was a global, phase 4, prospective, multicenter, randomized, double-blind, placebo-controlled study of adalimumab in conjunction with surgery in adults with moderate to severe HS who were surgical candidates.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Study Design The SHARPS study was a global, phase 4, prospective, multicenter, randomized, double-blind, placebo-controlled study of adalimumab in conjunction with surgery in adults with moderate to severe HS who were surgical candidates."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Based on the combined response rates for the HiSCR from previous studies, 9 a conservative estimate of 20% treatment difference was used for the power calculation in which case 100 patients per treatment arm would provide at least 80% power to detect a treatment difference at the alpha level of .05 and to demonstrate the point estimate of the treatment difference of at least 15% for the primary end point.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Based on the combined response rates for the HiSCR from previous studies, 9 a conservative estimate of 20% treatment difference was used for the power calculation in which case 100 patients per treatment arm would provide at least 80% power to detect a treatment difference at the alpha level of .05 and to demonstrate the point estimate of the treatment difference of at least 15% for the primary end point."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Categorical variables were analyzed using Cochran-Mantel-Haenszel test, stratified by baseline Hurley stage and anatomical location of the HS surgical site and continuous variables using analysis of covariance, with treatment, baseline Hurley stage, anatomical location of the HS surgical site, and baseline values in the model.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Categorical variables were analyzed using Cochran-Mantel-Haenszel test, stratified by baseline Hurley stage and anatomical location of the HS surgical site and continuous variables using analysis of covariance, with treatment, baseline Hurley stage, anatomical location of the HS surgical site, and baseline values in the model."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Cochran-Mantel-Haenszel test"
+                  }],
+                "neText" : "Cochran-Mantel-Haenszel test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of covariance"
+                  }],
+                "neText" : "analysis of covariance"
+              }]
+          }]
+      }]
+  }
+}

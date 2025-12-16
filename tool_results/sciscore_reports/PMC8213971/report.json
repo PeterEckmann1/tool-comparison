@@ -1,0 +1,216 @@
+{
+  "docIdentifier" : "PMC8213971",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "VSEARCH was used to dereplicate the ITSx extracted sequences.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "VSEARCH was used to dereplicate the ITSx extracted sequences."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "VSEARCH (RRID:SCR_024494)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "VSEARCH"
+                }],
+              "neText" : "VSEARCH"
+            }]
+        }, {
+          "sentence" : "To test the individual contributions of forest, soil horizon and soil chemical properties in explaining the variability of the community composition, we used PERMANOVA analysis of the Bray-Curtis distance dissimilarity with 999 permutations, as implemented in the Adonis function in the Vegan package.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To test the individual contributions of forest, soil horizon and soil chemical properties in explaining the variability of the community composition, we used PERMANOVA analysis of the Bray-Curtis distance dissimilarity with 999 permutations, as implemented in the Adonis function in the Vegan package."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "vegan (RRID:SCR_011950)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Vegan"
+                }],
+              "neText" : "Vegan"
+            }]
+        }, {
+          "sentence" : "We used ggplot2 (Wickham 2009) for graphical representations of the results.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We used ggplot2 (Wickham 2009) for graphical representations of the results."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ggplot2 (RRID:SCR_014601)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ggplot2"
+                }],
+              "neText" : "ggplot2"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "One of these samples included very few reads and the three others were interpreted to be mislabeled during laboratory analyses.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One of these samples included very few reads and the three others were interpreted to be mislabeled during laboratory analyses."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "The vegetation of the area is a mosaic of native birch (Betula pubescens) forests with a diverse understory of grass and herbaceous plants, and 40-50-year-old patches of planted, non-native Norway spruce stands, with an understory dominated by Sphagnum and Polytrichum.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The vegetation of the area is a mosaic of native birch (Betula pubescens) forests with a diverse understory of grass and herbaceous plants, and 40-50-year-old patches of planted, non-native Norway spruce stands, with an understory dominated by Sphagnum and Polytrichum."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "This step was repeated twice.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This step was repeated twice."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "This step was repeated twice.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This step was repeated twice."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "To test the individual contributions of forest, soil horizon and soil chemical properties in explaining the variability of the community composition, we used PERMANOVA analysis of the Bray-Curtis distance dissimilarity with 999 permutations, as implemented in the Adonis function in the Vegan package.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To test the individual contributions of forest, soil horizon and soil chemical properties in explaining the variability of the community composition, we used PERMANOVA analysis of the Bray-Curtis distance dissimilarity with 999 permutations, as implemented in the Adonis function in the Vegan package."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PERMANOVA"
+                  }],
+                "neText" : "PERMANOVA"
+              }]
+          }, {
+            "sentence" : "ANOVA and Tukey HSD tests were used to evaluate whether there were significant differences between forest types and layers for the various measurements in the dataset.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "ANOVA and Tukey HSD tests were used to evaluate whether there were significant differences between forest types and layers for the various measurements in the dataset."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey HSD tests"
+                  }],
+                "neText" : "Tukey HSD tests"
+              }]
+          }]
+      }]
+  }
+}

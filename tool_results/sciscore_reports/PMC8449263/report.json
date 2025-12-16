@@ -1,0 +1,179 @@
+{
+  "docIdentifier" : "PMC8449263",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Depiction of FC analyses was done with BrainNet Viewer (Xia et al., 2013).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Depiction of FC analyses was done with BrainNet Viewer (Xia et al., 2013)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BrainNet Viewer, RRID:SCR_009446",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BrainNet Viewer"
+                }],
+              "neText" : "BrainNet Viewer"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "This study was approved by the Gipuzkoa Clinical Research Ethics Committee.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This study was approved by the Gipuzkoa Clinical Research Ethics Committee."
+              }]
+          }, {
+            "sentence" : "All participants were right-handed and provided written informed consent before joining the experiment .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants were right-handed and provided written informed consent before joining the experiment ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Nine additional participants were excluded: three participants (one PD-ICD and two HC) due to outlier performance (>2 SDs) on the conditional SST task three (two PD-ICD and one HC) for excessive head motion during fMRI scanning (see MRI data analysis for more details) and three (one PD-noICD and two HC) for problems related to constructing a functional mask due to motion during structural data acquisition.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Nine additional participants were excluded: three participants (one PD-ICD and two HC) due to outlier performance (>2 SDs) on the conditional SST task three (two PD-ICD and one HC) for excessive head motion during fMRI scanning (see MRI data analysis for more details) and three (one PD-noICD and two HC) for problems related to constructing a functional mask due to motion during structural data acquisition."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Nine additional participants were excluded: three participants (one PD-ICD and two HC) due to outlier performance (>2 SDs) on the conditional SST task three (two PD-ICD and one HC) for excessive head motion during fMRI scanning (see MRI data analysis for more details) and three (one PD-noICD and two HC) for problems related to constructing a functional mask due to motion during structural data acquisition.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Nine additional participants were excluded: three participants (one PD-ICD and two HC) due to outlier performance (>2 SDs) on the conditional SST task three (two PD-ICD and one HC) for excessive head motion during fMRI scanning (see MRI data analysis for more details) and three (one PD-noICD and two HC) for problems related to constructing a functional mask due to motion during structural data acquisition."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "2.4 Behavioral data analyses Behavioral results were analysed with a 3 (Group: PD-ICD, PD-noICD, HC) by 2 (Direction: critical, non-critical) by 2 (Condition: Go, Stop) mixed-model analysis of variance (ANOVA), run on the percent of correct responses in each condition on the SST task.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.4 Behavioral data analyses Behavioral results were analysed with a 3 (Group: PD-ICD, PD-noICD, HC) by 2 (Direction: critical, non-critical) by 2 (Condition: Go, Stop) mixed-model analysis of variance (ANOVA), run on the percent of correct responses in each condition on the SST task."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "Given our specific interest in focusing on proactive and restrained inhibition, we ran separate one-way ANOVAs with the factor Group and the absolute values of the subtraction between trials for Proactive Inhibition (critical Stop - non-critical Go), and Restrained Inhibition (non-critical Stop - non-critical Go), with accuracy as the dependent measure.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Given our specific interest in focusing on proactive and restrained inhibition, we ran separate one-way ANOVAs with the factor Group and the absolute values of the subtraction between trials for Proactive Inhibition (critical Stop - non-critical Go), and Restrained Inhibition (non-critical Stop - non-critical Go), with accuracy as the dependent measure."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVAs"
+                  }],
+                "neText" : "ANOVAs"
+              }]
+          }]
+      }]
+  }
+}

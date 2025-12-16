@@ -1,0 +1,142 @@
+{
+  "docIdentifier" : "PMC8662959",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Cost ofD-1 , 2021 Indonesia .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cost ofD-1 , 2021 Indonesia ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "COST (RRID:SCR_014098)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cost"
+                }],
+              "neText" : "Cost"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Specifically, a Western Pacific and South East Asian country or region was eligible for inclusion if it has been delivered of either HB02 (one of the inactivated vaccines included in the current analysis) or CoronaVac (the other inactivated vaccine included in the current analysis) by Feb 2021.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Specifically, a Western Pacific and South East Asian country or region was eligible for inclusion if it has been delivered of either HB02 (one of the inactivated vaccines included in the current analysis) or CoronaVac (the other inactivated vaccine included in the current analysis) by Feb 2021."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "To account for heterogeneity in health utility , potential QALY loss related to mortality , and productivity loss across subpopulations , we stratified the model by three age groups including <20 years , 20-59 years , and >=60 years , the distributions of which were obtained from the population projection of the United Nations ( United Nations and D.o.E.a . S , 2019) .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To account for heterogeneity in health utility , potential QALY loss related to mortality , and productivity loss across subpopulations , we stratified the model by three age groups including <20 years , 20-59 years , and >=60 years , the distributions of which were obtained from the population projection of the United Nations ( United Nations and D.o.E.a . S , 2019) ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "To obtain the efficacy estimates of inactivated vaccines for the base case scenario , a random-effect meta-analysis was conducted in this study to pool the information from four clinical trials covering HB02 , WIV04 , and CoronaVac ( Al Kaabi et al. , 2021 Palacios et al. , 2021 World Health Organization , 2021b) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To obtain the efficacy estimates of inactivated vaccines for the base case scenario , a random-effect meta-analysis was conducted in this study to pool the information from four clinical trials covering HB02 , WIV04 , and CoronaVac ( Al Kaabi et al. , 2021 Palacios et al. , 2021 World Health Organization , 2021b) ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Chance node 2 replicates the pattern of chance node 1 , whereas chance node 4 replicates chance node 3 .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Chance node 2 replicates the pattern of chance node 1 , whereas chance node 4 replicates chance node 3 ."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Protocol Information",
+        "srList" : [{
+            "sentence" : "In fact , its efficacy was tested in the same pivotal phase III trial ( NCT04510207 ) as HB02 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In fact , its efficacy was tested in the same pivotal phase III trial ( NCT04510207 ) as HB02 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "warning" : "Warning: study registration date August 3, 2020 is after study start date July 16, 2020",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "NCT04510207"
+                  }],
+                "neText" : "NCT04510207"
+              }]
+          }]
+      }]
+  }
+}

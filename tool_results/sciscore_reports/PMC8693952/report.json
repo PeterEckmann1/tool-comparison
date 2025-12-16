@@ -1,0 +1,412 @@
+{
+  "docIdentifier" : "PMC8693952",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The slides were then incubated with Alexa-conjugated secondary antibodies ( Thermo Fisher Scientific ) for 1 h at RT , washed , and mounted with Fluoro-KEEPER Antifade Reagent ( Nacalai Tesque)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The slides were then incubated with Alexa-conjugated secondary antibodies ( Thermo Fisher Scientific ) for 1 h at RT , washed , and mounted with Fluoro-KEEPER Antifade Reagent ( Nacalai Tesque)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Fluoro-KEEPER Antifade Reagent ( Nacalai Tesque)"
+                }],
+              "neText" : "Fluoro-KEEPER Antifade Reagent ( Nacalai Tesque)"
+            }]
+        }, {
+          "sentence" : "For detection , the slides were washed with Tris-buffered saline containing 0.1 Tween-20 ( TBST) , incubated with a blocking solution ( 3 BSA prepared in TBST ) at RT for 1 h , and subsequently incubated with anti-DIG antibodies diluted in the blocking solution at 4degC overnight .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For detection , the slides were washed with Tris-buffered saline containing 0.1 Tween-20 ( TBST) , incubated with a blocking solution ( 3 BSA prepared in TBST ) at RT for 1 h , and subsequently incubated with anti-DIG antibodies diluted in the blocking solution at 4degC overnight ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-DIG"
+                }],
+              "neText" : "anti-DIG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell culture We generated HCT116TR_DBC1-3xFLAG cells using the Flp-In System ( Thermo Fisher Scientific) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture We generated HCT116TR_DBC1-3xFLAG cells using the Flp-In System ( Thermo Fisher Scientific) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HCT116TR_DBC1-3xFLAG"
+                }],
+              "neText" : "HCT116TR_DBC1-3xFLAG"
+            }]
+        }, {
+          "sentence" : "First , we generated the doxycycline-induced HCT116FRT stable cell lines , HCT116FRTTR , that express the tetracycline repressor ( TR ) from pcDNA6TR-IRES-puro .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "First , we generated the doxycycline-induced HCT116FRT stable cell lines , HCT116FRTTR , that express the tetracycline repressor ( TR ) from pcDNA6TR-IRES-puro ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HCT116FRT"
+                }],
+              "neText" : "HCT116FRT"
+            }]
+        }, {
+          "sentence" : "HCT116TR_DBC1-3xFLAG cells were prepared using the isolated HCT116FRTTR by the Flp-In System and cultured at 37degC with 5 CO2 in DMEM10 fetal bovine serum ( FBS) , supplemented with 2 mgml puromycin and 200 mgml hygromycin B . HCT116 , NIH3T3 , and HeLa cells were cultured in DMEM10 FBS at 37degC with 5 CO2 .",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HCT116TR_DBC1-3xFLAG cells were prepared using the isolated HCT116FRTTR by the Flp-In System and cultured at 37degC with 5 CO2 in DMEM10 fetal bovine serum ( FBS) , supplemented with 2 mgml puromycin and 200 mgml hygromycin B . HCT116 , NIH3T3 , and HeLa cells were cultured in DMEM10 FBS at 37degC with 5 CO2 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HCT116FRTTR"
+                }],
+              "neText" : "HCT116FRTTR"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0594",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NIH3T3"
+                }],
+              "neText" : "NIH3T3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0030",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa"
+                }],
+              "neText" : "HeLa"
+            }]
+        }, {
+          "sentence" : "The supernatant containing the HCT116 cells extract was mixed with the anti-DYKDDDDK magnetic agarose ( Thermo Fisher Scientific ) and rotated at 4degC overnight .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The supernatant containing the HCT116 cells extract was mixed with the anti-DYKDDDDK magnetic agarose ( Thermo Fisher Scientific ) and rotated at 4degC overnight ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0291",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HCT116"
+                }],
+              "neText" : "HCT116"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Plasmid construction The pcDNA5FRTTO-DBC1-3xFLAG plasmid was generated by inserting the PCR-amplified DBC1-3xFLAG sequence into the pcDNA5FRTTO vector ( Thermo Fisher Scientific ) between the EcoRV and XhoI sites .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Plasmid construction The pcDNA5FRTTO-DBC1-3xFLAG plasmid was generated by inserting the PCR-amplified DBC1-3xFLAG sequence into the pcDNA5FRTTO vector ( Thermo Fisher Scientific ) between the EcoRV and XhoI sites ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA5FRTTO-DBC1-3xFLAG"
+                }],
+              "neText" : "pcDNA5FRTTO-DBC1-3xFLAG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_135107",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA5FRTTO"
+                }],
+              "neText" : "pcDNA5FRTTO"
+            }]
+        }, {
+          "sentence" : "The pcDNA6TR-IRES-puro plasmid was constructed by ligating the PCR-amplified sequence containing a pUC origin to the TetR gene of pcDNA6TR ( Thermo Fisher Scientific ) with the segment of IRES to the puromycin-resistance gene of pCAGGS-FLPe ( Gene Bridges ) between the EcoRI and PstI sites .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The pcDNA6TR-IRES-puro plasmid was constructed by ligating the PCR-amplified sequence containing a pUC origin to the TetR gene of pcDNA6TR ( Thermo Fisher Scientific ) with the segment of IRES to the puromycin-resistance gene of pCAGGS-FLPe ( Gene Bridges ) between the EcoRI and PstI sites ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA6TR"
+                }],
+              "neText" : "pcDNA6TR"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:Addgene_20733",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCAGGS-FLPe"
+                }],
+              "neText" : "pCAGGS-FLPe"
+            }]
+        }, {
+          "sentence" : "The pMAL_TEV-HNRNPL plasmid was generated by inserting the PCR-amplified HNRNPL sequence into the pMAL_TEV vector ( Yoshizawa et al. , 2018 ) between the HindIII and BamHI sites .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The pMAL_TEV-HNRNPL plasmid was generated by inserting the PCR-amplified HNRNPL sequence into the pMAL_TEV vector ( Yoshizawa et al. , 2018 ) between the HindIII and BamHI sites ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMAL_TEV-HNRNPL"
+                }],
+              "neText" : "pMAL_TEV-HNRNPL"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMAL_TEV"
+                }],
+              "neText" : "pMAL_TEV"
+            }]
+        }, {
+          "sentence" : "First , we generated the doxycycline-induced HCT116FRT stable cell lines , HCT116FRTTR , that express the tetracycline repressor ( TR ) from pcDNA6TR-IRES-puro .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "First , we generated the doxycycline-induced HCT116FRT stable cell lines , HCT116FRTTR , that express the tetracycline repressor ( TR ) from pcDNA6TR-IRES-puro ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDNA6TR-IRES-puro"
+                }],
+              "neText" : "pcDNA6TR-IRES-puro"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Protein identification was performed using ProteinPilot software 2.0 ( AB Sciex ) against the human UniProt database ( version 2015_11 ) as described by Tohsato et al. ( 2012) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein identification was performed using ProteinPilot software 2.0 ( AB Sciex ) against the human UniProt database ( version 2015_11 ) as described by Tohsato et al. ( 2012) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ProteinPilot"
+                }],
+              "neText" : "ProteinPilot"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }]
+        }, {
+          "sentence" : "The nucleoplasm and DNB volumes as well as the proportion of HNRNPL protein present within the DNB were estimated from the IF intensity profile over different Z positions ( Z-stack ) using cellSens Dimension software ( Olympus) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The nucleoplasm and DNB volumes as well as the proportion of HNRNPL protein present within the DNB were estimated from the IF intensity profile over different Z positions ( Z-stack ) using cellSens Dimension software ( Olympus) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "cellSens"
+                }],
+              "neText" : "cellSens"
+            }]
+        }, {
+          "sentence" : "Protein concentrations were determined by absorbance at 280 nm using their extinction coefficients predicted by the ProtParam tool .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein concentrations were determined by absorbance at 280 nm using their extinction coefficients predicted by the ProtParam tool ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ProtParam"
+                }],
+              "neText" : "ProtParam"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

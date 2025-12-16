@@ -1,0 +1,172 @@
+{
+  "docIdentifier" : "PMC8713716",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical Analysis Statistical analysis was performed using SPSS version 20.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis Statistical analysis was performed using SPSS version 20."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Procedure Ethical approval obtained from the Research Ethics Committee at KAUDH (086-10-17).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Procedure Ethical approval obtained from the Research Ethics Committee at KAUDH (086-10-17)."
+              }]
+          }, {
+            "sentence" : "If they agreed, an Arabic consent form was signed by the participating parents.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "If they agreed, an Arabic consent form was signed by the participating parents."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "All healthy two to-12-year-old children receiving dental treatment by a pediatric dentist during the study period in one of the included centers were eligible.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All healthy two to-12-year-old children receiving dental treatment by a pediatric dentist during the study period in one of the included centers were eligible."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "For part-1 of the study, healthy 2-12-years-old children who received dental treatment under N2O andor PB during the study period were compared to the total treated children in the same included centers to assess the prevalence.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For part-1 of the study, healthy 2-12-years-old children who received dental treatment under N2O andor PB during the study period were compared to the total treated children in the same included centers to assess the prevalence."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Sample size was calculated using OpenEpi online calculator with 80 power , 108 parents are required to analyze the proportions in a population of 800 with a 25 exposure.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sample size was calculated using OpenEpi online calculator with 80 power , 108 parents are required to analyze the proportions in a population of 800 with a 25 exposure."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Chi-square tests were used with p < 0.05 and adjusted using post-hoc Bonferroni correction when assessing parental preference for N2O andor PB.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Chi-square tests were used with p < 0.05 and adjusted using post-hoc Bonferroni correction when assessing parental preference for N2O andor PB."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Chi-square tests"
+                  }],
+                "neText" : "Chi-square tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }, {
+            "sentence" : "Additionally, a binary regression analysis was performed to assess significant relationships between predictors (child age, gender and parental socioeconomic status education and monthly family income) and child treatment under N2O alone (Group I) or PB with or without N2O (Group II and group III) as a dependent variable.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Additionally, a binary regression analysis was performed to assess significant relationships between predictors (child age, gender and parental socioeconomic status education and monthly family income) and child treatment under N2O alone (Group I) or PB with or without N2O (Group II and group III) as a dependent variable."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "binary regression"
+                  }],
+                "neText" : "binary regression"
+              }]
+          }]
+      }]
+  }
+}

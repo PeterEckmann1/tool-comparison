@@ -1,0 +1,381 @@
+{
+  "docIdentifier" : "PMC8170111",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Fixed cells were then washed once with 1xPBS before being incubated in 500 mL blocking buffer (1xPBS +2 BSA + 0.1 TritonX-100Tween20) for 1 hour at room temperature (RT), primary antibody solution (phospho-MPM-2, 1:500, Merck Millipore 05-368 phospho-histone H2AX S139, 1:500, Merck Millipore 05-636) in blocking buffer for 2 hours at RT and secondary antibody solution (Alexa Fluor 488 Goat anti-mouse, 1:500, Thermo Fisher A11017) in blocking buffer for 1 hour at RT in the dark with three washes using blocking buffer between each step.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Fixed cells were then washed once with 1xPBS before being incubated in 500 mL blocking buffer (1xPBS +2 BSA + 0.1 TritonX-100Tween20) for 1 hour at room temperature (RT), primary antibody solution (phospho-MPM-2, 1:500, Merck Millipore 05-368 phospho-histone H2AX S139, 1:500, Merck Millipore 05-636) in blocking buffer for 2 hours at RT and secondary antibody solution (Alexa Fluor 488 Goat anti-mouse, 1:500, Thermo Fisher A11017) in blocking buffer for 1 hour at RT in the dark with three washes using blocking buffer between each step."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "phospho-MPM-2"
+                }],
+              "neText" : "phospho-MPM-2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "phospho-histone H2AX S139"
+                }],
+              "neText" : "phospho-histone H2AX S139"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell culture & chemicals All cell lines were cultured at 37degC, 5 CO2 for a maximum of 20 passages after thawing and were cultured in DMEM (Thermo Fisher 41966029) (MIA PaCa-2, PANC-1, HeLa) or RPMI-1640 (Thermo Fisher 21875034) (AsPC-1) and supplemented with 10 fetal bovine serum (FBS) (Thermo Fisher 10270106).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture & chemicals All cell lines were cultured at 37degC, 5 CO2 for a maximum of 20 passages after thawing and were cultured in DMEM (Thermo Fisher 41966029) (MIA PaCa-2, PANC-1, HeLa) or RPMI-1640 (Thermo Fisher 21875034) (AsPC-1) and supplemented with 10 fetal bovine serum (FBS) (Thermo Fisher 10270106)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_A4BU)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PANC-1"
+                }],
+              "neText" : "PANC-1"
+            }]
+        }, {
+          "sentence" : "Proliferation assays For colony forming and clonocidal assays, 300 or 120 cells (MIA PaCa-2, HeLa, PANC-1, MCF7, K8484) and 1000 or 400 cells (AsPC-1) were seeded in 6 or 12 well plates respectively and grown for 11-14 days depending on the cell line with the final four days including drug exposure where indicated.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Proliferation assays For colony forming and clonocidal assays, 300 or 120 cells (MIA PaCa-2, HeLa, PANC-1, MCF7, K8484) and 1000 or 400 cells (AsPC-1) were seeded in 6 or 12 well plates respectively and grown for 11-14 days depending on the cell line with the final four days including drug exposure where indicated."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0031",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MCF7"
+                }],
+              "neText" : "MCF7"
+            }]
+        }, {
+          "sentence" : "Repeat of a-d in three other cell lines, HeLa, MIA PaCa-2 and PANC-1. f.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Repeat of a-d in three other cell lines, HeLa, MIA PaCa-2 and PANC-1. f."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0030",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa"
+                }],
+              "neText" : "HeLa"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "RO-3306 (Merck, 217699), nocodazole (Sigma-Aldrich, M1404), gemcitabine (Tocris, 3259), CB-5083 (BioVision via Cambridge Bioscience, B1032-5), palbociclib (Sigma, PZ0199) and SN-38 (Merck, H0165) were dissolved in DMSO, aliquoted and stored at -20degC.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "RO-3306 (Merck, 217699), nocodazole (Sigma-Aldrich, M1404), gemcitabine (Tocris, 3259), CB-5083 (BioVision via Cambridge Bioscience, B1032-5), palbociclib (Sigma, PZ0199) and SN-38 (Merck, H0165) were dissolved in DMSO, aliquoted and stored at -20degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "Fixed cells were then incubated with blocking solution containing the DNA dye FxCycle Violet (1 mgmL, Thermo Fisher F10347) for at least 1 hour at RT in the dark before samples were run using the BD Biosciences LSRFortessa(tm) flow cytometer and analysed using FlowJo(r) and GraphPad Prism software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Fixed cells were then incubated with blocking solution containing the DNA dye FxCycle Violet (1 mgmL, Thermo Fisher F10347) for at least 1 hour at RT in the dark before samples were run using the BD Biosciences LSRFortessa(tm) flow cytometer and analysed using FlowJo(r) and GraphPad Prism software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }, {
+          "sentence" : "PRISM 8.4.0 (GraphPad Software, San Diego, CA, USA) was used for data analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "PRISM 8.4.0 (GraphPad Software, San Diego, CA, USA) was used for data analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Compound was added using the LabCyte Echo 555 acoustic dispenser in a randomised well layout at 4 hours post-seeding for G1max and 18 hours post-seeding for SG2max.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Compound was added using the LabCyte Echo 555 acoustic dispenser in a randomised well layout at 4 hours post-seeding for G1max and 18 hours post-seeding for SG2max."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Each plate consisted of 12 DMSO control wells alongside an 11-point dose response (from 0.3 nM to 30 mM) for seven compounds with two replicates for each condition.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each plate consisted of 12 DMSO control wells alongside an 11-point dose response (from 0.3 nM to 30 mM) for seven compounds with two replicates for each condition."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "Statistics Data is reported as mean with +- SEM or SD, detailed in the figure legend as applicable, of at least three independent biological replicates except for Figure 2 and 5 describing the compound library screen and scheduling comparison respectively where sample size is detailed in the figure legends.",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistics Data is reported as mean with +- SEM or SD, detailed in the figure legend as applicable, of at least three independent biological replicates except for Figure 2 and 5 describing the compound library screen and scheduling comparison respectively where sample size is detailed in the figure legends."
+              }]
+          }, {
+            "sentence" : "Each plate consisted of 12 DMSO control wells alongside an 11-point dose response (from 0.3 nM to 30 mM) for seven compounds with two replicates for each condition.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each plate consisted of 12 DMSO control wells alongside an 11-point dose response (from 0.3 nM to 30 mM) for seven compounds with two replicates for each condition."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "Each cell line passed mycoplasma and single tandem repeat (STR) genotyping tests performed internally by the CRUK-CI Cell Services core facility.",
+            "title" : "Contamination",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each cell line passed mycoplasma and single tandem repeat (STR) genotyping tests performed internally by the CRUK-CI Cell Services core facility."
+              }]
+          }, {
+            "sentence" : "Each cell line passed mycoplasma and single tandem repeat (STR) genotyping tests performed internally by the CRUK-CI Cell Services core facility.",
+            "title" : "Authentication",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Each cell line passed mycoplasma and single tandem repeat (STR) genotyping tests performed internally by the CRUK-CI Cell Services core facility."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis of two parameters was performed using either a two-tailed, unpaired t test (Figure 1d), or two-tailed, unpaired Mann-Whitney test (Figure 4de) based on data distribution.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis of two parameters was performed using either a two-tailed, unpaired t test (Figure 1d), or two-tailed, unpaired Mann-Whitney test (Figure 4de) based on data distribution."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mann-Whitney test"
+                  }],
+                "neText" : "Mann-Whitney test"
+              }]
+          }, {
+            "sentence" : "For multiple comparisons involving more than two parameters, a multiple unpaired t test with Holm-Sidak multiple comparisons correction (Figure 1b) or a one-way or two-way ANOVA was performed with a Bonferroni correction (Figure 3b, 4df) were performed.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For multiple comparisons involving more than two parameters, a multiple unpaired t test with Holm-Sidak multiple comparisons correction (Figure 1b) or a one-way or two-way ANOVA was performed with a Bonferroni correction (Figure 3b, 4df) were performed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Holm-Sidak multiple comparisons correction"
+                  }],
+                "neText" : "Holm-Sidak multiple comparisons correction"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }, {
+            "sentence" : "Students t tests (c) or multiple t tests (b) with a Holm-SIdak multiple comparisons correction was performed for comparisons between two groups or more respectively.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Students t tests (c) or multiple t tests (b) with a Holm-SIdak multiple comparisons correction was performed for comparisons between two groups or more respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t tests"
+                  }],
+                "neText" : "t tests"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "docIdentifier" : "PMC8974844",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Recombinant Proteins and Antibodies Recombinant human IFN-g, CXCL10, CCL3, and CX3CL1 were obtained from Peprotech and CXCL9 from BioLegend.",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Recombinant Proteins and Antibodies Recombinant human IFN-g, CXCL10, CCL3, and CX3CL1 were obtained from Peprotech and CXCL9 from BioLegend."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CXCL10"
+                }],
+              "neText" : "CXCL10"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CCL3"
+                }],
+              "neText" : "CCL3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CX3CL1"
+                }],
+              "neText" : "CX3CL1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CXCL9"
+                }],
+              "neText" : "CXCL9"
+            }]
+        }, {
+          "sentence" : "Low endotoxin azide-free blocking antibodies for CXCR3 and IFN-gR and isotype control were obtained from BioLegend.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Low endotoxin azide-free blocking antibodies for CXCR3 and IFN-gR and isotype control were obtained from BioLegend."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CXCR3"
+                }],
+              "neText" : "CXCR3"
+            }]
+        }, {
+          "sentence" : "The following antibodies were used for flow cytometry: CD16-BV421, CD56-PE-Cy5, CD3-Pacific Blue, CD4-BV786, CD8-AF700, CD161-BV605, and va7.2-PE-Cy7 from BioLegend IFN-g-PE, IP-10-PE, and granzyme B-AF647 from BD Biosciences and interleukin 15 (IL-15)-APC from Invitrogen.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following antibodies were used for flow cytometry: CD16-BV421, CD56-PE-Cy5, CD3-Pacific Blue, CD4-BV786, CD8-AF700, CD161-BV605, and va7.2-PE-Cy7 from BioLegend IFN-g-PE, IP-10-PE, and granzyme B-AF647 from BD Biosciences and interleukin 15 (IL-15)-APC from Invitrogen."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD161-BV605"
+                }],
+              "neText" : "CD161-BV605"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "va7.2-PE-Cy7"
+                }],
+              "neText" : "va7.2-PE-Cy7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IP-10-PE"
+                }],
+              "neText" : "IP-10-PE"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "A549 and Calu-3 cells were obtained from ATCC .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A549 and Calu-3 cells were obtained from ATCC ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0609",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Calu-3"
+                }],
+              "neText" : "Calu-3"
+            }]
+        }, {
+          "sentence" : "Recombinant Proteins and Antibodies Recombinant human IFN-g, CXCL10, CCL3, and CX3CL1 were obtained from Peprotech and CXCL9 from BioLegend.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Recombinant Proteins and Antibodies Recombinant human IFN-g, CXCL10, CCL3, and CX3CL1 were obtained from Peprotech and CXCL9 from BioLegend."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CX3CL1"
+                }],
+              "neText" : "CX3CL1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Cells were washed and incubated (30 minutes, 4degC) with antibodies for intracellular staining, washed and acquired using the BD Fortessa X-20 system, and analyzed using FlowJo software (version 10, BD).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells were washed and incubated (30 minutes, 4degC) with antibodies for intracellular staining, washed and acquired using the BD Fortessa X-20 system, and analyzed using FlowJo software (version 10, BD)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "FlowJo, RRID:SCR_008520",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FlowJo"
+                }],
+              "neText" : "FlowJo"
+            }]
+        }, {
+          "sentence" : "Data Analyses Data were entered into GraphPad Prism 8 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data Analyses Data were entered into GraphPad Prism 8 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "MATERIALS AND METHODS Peripheral Blood Mononuclear Cells, Cell Purification, and Epithelial Cell Culture Peripheral blood was collected in heparin vacuum tubes (BD Biosciences) from anonymous healthy donors who provided informed consent following the guidelines set by the Dutch government",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MATERIALS AND METHODS Peripheral Blood Mononuclear Cells, Cell Purification, and Epithelial Cell Culture Peripheral blood was collected in heparin vacuum tubes (BD Biosciences) from anonymous healthy donors who provided informed consent following the guidelines set by the Dutch government"
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistically significant differences were tested using 1-way analysis of variance (ANOVA) with Dunnett post hoc testing, or 2-way ANOVA with Sidak post hoc testing.",
+            "rowSpan" : 4,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistically significant differences were tested using 1-way analysis of variance (ANOVA) with Dunnett post hoc testing, or 2-way ANOVA with Sidak post hoc testing."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnett post hoc testing"
+                  }],
+                "neText" : "Dunnett post hoc testing"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Sidak"
+                  }],
+                "neText" : "Sidak"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "docIdentifier" : "PMC8050764",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "For patients with bone bruises, the bone bruise borders were traced using the freehand region-of-interest (ROI) function of ImageJ software (National Institutes of Health).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For patients with bone bruises, the bone bruise borders were traced using the freehand region-of-interest (ROI) function of ImageJ software (National Institutes of Health)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "All statistical analyses were performed using the SPSS statistical package (Version 16 SPSS).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were performed using the SPSS statistical package (Version 16 SPSS)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Methods Institutional review board approval was obtained before we proceeded with this study.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Methods Institutional review board approval was obtained before we proceeded with this study."
+              }]
+          }, {
+            "sentence" : "All patients read and signed the informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All patients read and signed the informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Patients were excluded from this study if MRI had been performed more than 4 weeks after injury or if they had previous trauma or surgery in the affected knee, associated ligament injuries, or poor-quality MRI scans.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were excluded from this study if MRI had been performed more than 4 weeks after injury or if they had previous trauma or surgery in the affected knee, associated ligament injuries, or poor-quality MRI scans."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Clinical notes, operative reports, and MRI scans of adult patients younger than 40 years of age who had sustained noncontact unilateral ACL rupture during soccer (soccer group) or basketball (basketball group) were reviewed to determine the detailed injury information.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Clinical notes, operative reports, and MRI scans of adult patients younger than 40 years of age who had sustained noncontact unilateral ACL rupture during soccer (soccer group) or basketball (basketball group) were reviewed to determine the detailed injury information."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical Analysis The bone bruise pattern and meniscal injury pattern between soccer and basketball players were compared using chi-square analysis.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical Analysis The bone bruise pattern and meniscal injury pattern between soccer and basketball players were compared using chi-square analysis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square"
+                  }],
+                "neText" : "chi-square"
+              }]
+          }, {
+            "sentence" : "A 2 x 2 analysis of variance (ANOVA) with a mixed design was performed to compare the specific bone bruise locations in the lateral-medial direction in patients with the LF+LT pattern, between groups (soccer and basketball groups) and between bones (femur and tibia), for the tibia and the femur.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A 2 x 2 analysis of variance (ANOVA) with a mixed design was performed to compare the specific bone bruise locations in the lateral-medial direction in patients with the LF+LT pattern, between groups (soccer and basketball groups) and between bones (femur and tibia), for the tibia and the femur."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }]
+      }]
+  }
+}

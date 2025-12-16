@@ -1,0 +1,231 @@
+{
+  "docIdentifier" : "PMC8783201",
+  "sciscore" : 1,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Add a secondary antibody ( Alexa Fluor 488 donkey anti-mouse IgG ) at 1:1000 dilution in PBS , incubate at room temperature for 1 h , on a platform shaker ( 20 rpm) . 21 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Add a secondary antibody ( Alexa Fluor 488 donkey anti-mouse IgG ) at 1:1000 dilution in PBS , incubate at room temperature for 1 h , on a platform shaker ( 20 rpm) . 21 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse IgG"
+                }],
+              "neText" : "anti-mouse IgG"
+            }]
+        }, {
+          "sentence" : "Incubate the coverslips with primary antibodies against GluA2-NTD ( Millipore , CatMAB397 , mouse ) and Synapsin 1 ( Cell Signaling , Cat5297 , rabbit) , both at 1:1000 dilution in PBS for 12-16 h at 4degC , on a platform shaker ( 20 rpm) . 28 .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Incubate the coverslips with primary antibodies against GluA2-NTD ( Millipore , CatMAB397 , mouse ) and Synapsin 1 ( Cell Signaling , Cat5297 , rabbit) , both at 1:1000 dilution in PBS for 12-16 h at 4degC , on a platform shaker ( 20 rpm) . 28 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GluA2-NTD"
+                }],
+              "neText" : "GluA2-NTD"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Synapsin 1"
+                }],
+              "neText" : "Synapsin 1"
+            }]
+        }, {
+          "sentence" : "After Step 26 , incubate the coverslips with primary antibodies against microtubule-associated protein 2 ( MAP2 ) ( Millipore , CatMAB3418 , rabbit ) at 1:1000 dilution , for 1 h at room temperature , on a platform shaker ( 20 rpm) .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After Step 26 , incubate the coverslips with primary antibodies against microtubule-associated protein 2 ( MAP2 ) ( Millipore , CatMAB3418 , rabbit ) at 1:1000 dilution , for 1 h at room temperature , on a platform shaker ( 20 rpm) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "antibodies against microtubule-associated protein 2"
+                }],
+              "neText" : "antibodies against microtubule-associated protein 2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MAP2"
+                }],
+              "neText" : "MAP2"
+            }]
+        }, {
+          "sentence" : "Add secondary antibody ( Alexa Fluor 488 goat anti-rabbit IgG ) at 1:1000 dilution and rhodamine phalloidin ( Thermo Fisher , CatR415 ) at 1:1500 dilution , incubate at room temperature for 1 h , on a platform shaker ( 20 rpm) . 35 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Add secondary antibody ( Alexa Fluor 488 goat anti-rabbit IgG ) at 1:1000 dilution and rhodamine phalloidin ( Thermo Fisher , CatR415 ) at 1:1500 dilution , incubate at room temperature for 1 h , on a platform shaker ( 20 rpm) . 35 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "In pClamp software , switch from Bath to Patch , and apply -65 mV voltage to facilitate the formation of Giga-ohm seal ( Methods video S2: Clampex interface view showing whole-cell patch process) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In pClamp software , switch from Bath to Patch , and apply -65 mV voltage to facilitate the formation of Giga-ohm seal ( Methods video S2: Clampex interface view showing whole-cell patch process) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "pClamp Software, RRID:SCR_011323",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pClamp"
+                }],
+              "neText" : "pClamp"
+            }]
+        }, {
+          "sentence" : "Analyze mEPSCs using MiniAnalysis Program ( Synaptosoft) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Analyze mEPSCs using MiniAnalysis Program ( Synaptosoft) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MiniAnalysis Program"
+                }],
+              "neText" : "MiniAnalysis Program"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

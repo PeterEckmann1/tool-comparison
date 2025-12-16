@@ -1,0 +1,310 @@
+{
+  "docIdentifier" : "PMC8427077",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The Human Protein Atlas is a Swedish-based program initiated in 2003 to map all the human proteins in cells, tissues, and organs using an integration of various omics technologies, including antibody-based imaging, mass spectrometry-based proteomics, transcriptomics, and systems biology.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Human Protein Atlas is a Swedish-based program initiated in 2003 to map all the human proteins in cells, tissues, and organs using an integration of various omics technologies, including antibody-based imaging, mass spectrometry-based proteomics, transcriptomics, and systems biology."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "antibody-based imaging, mass spectrometry-based proteomics, transcriptomics,"
+                }],
+              "neText" : "antibody-based imaging, mass spectrometry-based proteomics, transcriptomics,"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "11 Functional and Pathway Enrichment Analysis GO functional analysis and KEGG pathway analysis were performed to predict the potential functions of the DEMs by using the Database for Annotation , Visualization , and Integrated Discovery ( FunRich http:www.funrich.org )",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "11 Functional and Pathway Enrichment Analysis GO functional analysis and KEGG pathway analysis were performed to predict the potential functions of the DEMs by using the Database for Annotation , Visualization , and Integrated Discovery ( FunRich http:www.funrich.org )"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http:www.funrich.org"
+                }],
+              "neText" : "http:www.funrich.org"
+            }]
+        }, {
+          "sentence" : "Cytoscape software was utilized to perform KEGG ( Kyoto Encyclopedia of Genes and Genomes ) enrichment analysis .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cytoscape software was utilized to perform KEGG ( Kyoto Encyclopedia of Genes and Genomes ) enrichment analysis ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "ClueGO is a Cytoscape plug-in , which visualizes non-redundant biological terms for a large number of gene clusters in functional packet networks .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ClueGO is a Cytoscape plug-in , which visualizes non-redundant biological terms for a large number of gene clusters in functional packet networks ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ClueGO (RRID:SCR_005748)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ClueGO"
+                }],
+              "neText" : "ClueGO"
+            }]
+        }, {
+          "sentence" : "The identified genes were input into the CMap database to Search for drugs against the transformation of adenoma to adenocarcinoma, and the enrichment scores were also calculated.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The identified genes were input into the CMap database to Search for drugs against the transformation of adenoma to adenocarcinoma, and the enrichment scores were also calculated."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "CMap (RRID:SCR_016204)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CMap"
+                }],
+              "neText" : "CMap"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "2 Sex Female 9 Male 11 Patients with colorectal carcinoma 20 Age Range 35-69 TNM tumor stages T1 4 T2 6 T3 2 T4 8 TNM lymph node status N0 12 N1 2 N2 6 Metastases M0 16 M1 4 Abbreviations: T, tumor N, lymph node M, metastases.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 Sex Female 9 Male 11 Patients with colorectal carcinoma 20 Age Range 35-69 TNM tumor stages T1 4 T2 6 T3 2 T4 8 TNM lymph node status N0 12 N1 2 N2 6 Metastases M0 16 M1 4 Abbreviations: T, tumor N, lymph node M, metastases."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "In our study, GSE41655 and GSE57965 datasets were downloaded from GEO.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In our study, GSE41655 and GSE57965 datasets were downloaded from GEO."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "downloaded"
+                  }],
+                "neText" : "downloaded"
+              }]
+          }, {
+            "sentence" : "In our study, GSE41655 and GSE57965 datasets were downloaded from GEO.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "In our study, GSE41655 and GSE57965 datasets were downloaded from GEO."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE41655"
+                  }],
+                "neText" : "GSE41655"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE57965"
+                  }],
+                "neText" : "GSE57965"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "To reduce the number of microRNAs with similar expression , stepwise Cox regression was performed for microRNAs with P < 0.005 to establish a prognostic model .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To reduce the number of microRNAs with similar expression , stepwise Cox regression was performed for microRNAs with P < 0.005 to establish a prognostic model ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Cox regression"
+                  }],
+                "neText" : "Cox regression"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "The following primers were used for qRT-PCR reactions: hsa-miR-455: 5-GCAGUCCAUGGGCAUAUACAC-3 and hsa-miR-125a: 5-CCGTCCCTGAGACCCTTTAAC- 3 .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The following primers were used for qRT-PCR reactions: hsa-miR-455: 5-GCAGUCCAUGGGCAUAUACAC-3 and hsa-miR-125a: 5-CCGTCCCTGAGACCCTTTAAC- 3 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GCAGUCCAUGGGCAUAUACAC-3"
+                  }],
+                "neText" : "5-GCAGUCCAUGGGCAUAUACAC-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CCGTCCCTGAGACCCTTTAAC- 3"
+                  }],
+                "neText" : "5-CCGTCCCTGAGACCCTTTAAC- 3"
+              }]
+          }]
+      }]
+  }
+}

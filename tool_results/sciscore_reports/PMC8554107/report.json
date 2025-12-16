@@ -1,0 +1,370 @@
+{
+  "docIdentifier" : "PMC8554107",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The phosphorylation status of STAT1 in CHPV-infected lysates were also assessed by using the same antibodies , STAT1 and pSTAT1 .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The phosphorylation status of STAT1 in CHPV-infected lysates were also assessed by using the same antibodies , STAT1 and pSTAT1 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STAT1"
+                }],
+              "neText" : "STAT1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pSTAT1"
+                }],
+              "neText" : "pSTAT1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cells and cell culture conditions Cell lines Vero, A549, U-138, PC-3, HepG2, and HeLa were kindly provided by Prof. Griffith D.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cells and cell culture conditions Cell lines Vero, A549, U-138, PC-3, HepG2, and HeLa were kindly provided by Prof. Griffith D."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_3350)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "U-138"
+                }],
+              "neText" : "U-138"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0030",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa"
+                }],
+              "neText" : "HeLa"
+            }]
+        }, {
+          "sentence" : "Parks (University of Central Florida, Orlando, FL, USA), while HADF cells (HiFi Adult Dermal Fibroblasts, cat. no. CL005) were procured from HiMedia, India. A549, U-138, HepG2, and HeLa cell lines were maintained in Dulbeccos modified Eagles medium (DMEM, Invitrogen) supplemented with 10 heat-inactivated fetal bovine serum (FBS Sigma, St. Louis, MO, USA), 2 mM L-glutamine, 100 IUmL penicillin, and 100 mgmL streptomycin (Thermo Scientific) at 37degC in a humidified CO2 incubator (5).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Parks (University of Central Florida, Orlando, FL, USA), while HADF cells (HiFi Adult Dermal Fibroblasts, cat. no. CL005) were procured from HiMedia, India. A549, U-138, HepG2, and HeLa cell lines were maintained in Dulbeccos modified Eagles medium (DMEM, Invitrogen) supplemented with 10 heat-inactivated fetal bovine serum (FBS Sigma, St. Louis, MO, USA), 2 mM L-glutamine, 100 IUmL penicillin, and 100 mgmL streptomycin (Thermo Scientific) at 37degC in a humidified CO2 incubator (5)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0027",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HepG2"
+                }],
+              "neText" : "HepG2"
+            }]
+        }, {
+          "sentence" : "Vero cells were maintained in minimum essential medium (MEM, Invitrogen) supplemented with 10 heat-inactivated FBS, and PC-3 cells were maintained in DMEMnutrient mixture F-12 (DMEMF-12, Invitrogen) supplemented with 10 heat-inactivated FBS.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Vero cells were maintained in minimum essential medium (MEM, Invitrogen) supplemented with 10 heat-inactivated FBS, and PC-3 cells were maintained in DMEMnutrient mixture F-12 (DMEMF-12, Invitrogen) supplemented with 10 heat-inactivated FBS."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0035",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PC-3"
+                }],
+              "neText" : "PC-3"
+            }]
+        }, {
+          "sentence" : "Regular HeLa and HeLa-Bcl-2 cells were infected with CHPV at an MOI of 1 , and cell viability was performed at 24 hpi using the same protocol mentioned above.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Regular HeLa and HeLa-Bcl-2 cells were infected with CHPV at an MOI of 1 , and cell viability was performed at 24 hpi using the same protocol mentioned above."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa-Bcl-2"
+                }],
+              "neText" : "HeLa-Bcl-2"
+            }]
+        }, {
+          "sentence" : "Briefly , monolayers of Vero cells were infected with serially diluted culture supernatant and incubated at 37degC for 1 h .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly , monolayers of Vero cells were infected with serially diluted culture supernatant and incubated at 37degC for 1 h ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0059",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Vero"
+                }],
+              "neText" : "Vero"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Subcutaneous xenograft tumor model Subcutaneous tumors were established by injecting U-138 cells (5 x 105 cells100 mL PBS) in the right flank of 6- to 8-week-old male NODSCID mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Subcutaneous xenograft tumor model Subcutaneous tumors were established by injecting U-138 cells (5 x 105 cells100 mL PBS) in the right flank of 6- to 8-week-old male NODSCID mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:IMSR_ARC:NODSCID",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NODSCID"
+                }],
+              "neText" : "NODSCID"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Fluorescent images were acquired at 488570 nm using an Olympus Inverted Fluorescence IXT3 microscope , and the images were merged using the cellSens software ( Olympus , Japan)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Fluorescent images were acquired at 488570 nm using an Olympus Inverted Fluorescence IXT3 microscope , and the images were merged using the cellSens software ( Olympus , Japan)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "cellSens"
+                }],
+              "neText" : "cellSens"
+            }]
+        }, {
+          "sentence" : "The plaques were counted , and the viral titer was plotted against their corresponding time using GraphPad Prism software version 5.01 Immunoblotting Cells were infected with 0.1 MOI CHPV , and the cell lysates were harvested at 12 and 24 hpi.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The plaques were counted , and the viral titer was plotted against their corresponding time using GraphPad Prism software version 5.01 Immunoblotting Cells were infected with 0.1 MOI CHPV , and the cell lysates were harvested at 12 and 24 hpi."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }, {
+          "sentence" : "CHPV infection was detected using a mouse polyclonal antibody generated in-house , while b-actin served as the loading control ( Sigma , St . Louis , MO , USA) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "CHPV infection was detected using a mouse polyclonal antibody generated in-house , while b-actin served as the loading control ( Sigma , St . Louis , MO , USA) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "Statistical analysis All the data were plotted and analyzed using GraphPad Prism 5.01 software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis All the data were plotted and analyzed using GraphPad Prism 5.01 software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Subcutaneous xenograft tumor model Subcutaneous tumors were established by injecting U-138 cells (5 x 105 cells100 mL PBS) in the right flank of 6- to 8-week-old male NODSCID mice.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Subcutaneous xenograft tumor model Subcutaneous tumors were established by injecting U-138 cells (5 x 105 cells100 mL PBS) in the right flank of 6- to 8-week-old male NODSCID mice."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Subcutaneous xenograft tumor model Subcutaneous tumors were established by injecting U-138 cells (5 x 105 cells100 mL PBS) in the right flank of 6- to 8-week-old male NODSCID mice.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Subcutaneous xenograft tumor model Subcutaneous tumors were established by injecting U-138 cells (5 x 105 cells100 mL PBS) in the right flank of 6- to 8-week-old male NODSCID mice."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Pathological changes were analyzed by a certified pathologist who was blinded to the treatment groups of the experiments.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pathological changes were analyzed by a certified pathologist who was blinded to the treatment groups of the experiments."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical significance was calculated using the Students t test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical significance was calculated using the Students t test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t test"
+                  }],
+                "neText" : "Students t test"
+              }]
+          }]
+      }]
+  }
+}

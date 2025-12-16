@@ -1,0 +1,573 @@
+{
+  "docIdentifier" : "PMC8789530",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Antibodies for CDKN1A (A19094), CDKN1B (A19095), CDKN1C (A2060) and p53 (A0263) were purchased from ABclonal Technology.",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Antibodies for CDKN1A (A19094), CDKN1B (A19095), CDKN1C (A2060) and p53 (A0263) were purchased from ABclonal Technology."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CDKN1A"
+                }],
+              "neText" : "CDKN1A"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CDKN1B"
+                }],
+              "neText" : "CDKN1B"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CDKN1C"
+                }],
+              "neText" : "CDKN1C"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p53"
+                }],
+              "neText" : "p53"
+            }]
+        }, {
+          "sentence" : "Next day, the membranes were incubated for 1 h at room temperature with an HRP-conjugated anti-rabbit or anti-mouse secondary antibody, The immunoreactive proteins were visualized with SuperSignal West Dura Chemiluminescent (Thermo Fisher).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Next day, the membranes were incubated for 1 h at room temperature with an HRP-conjugated anti-rabbit or anti-mouse secondary antibody, The immunoreactive proteins were visualized with SuperSignal West Dura Chemiluminescent (Thermo Fisher)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Materials and methods Cell culture and reagents Human SCLC cell line NCI-H1688 and human lung bronchial epithelial cell line BEAS-2B were obtained and authenticated from the Shanghai Institute of Cell Biology, Chinese Academy of Sciences (Shanghai, China).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and methods Cell culture and reagents Human SCLC cell line NCI-H1688 and human lung bronchial epithelial cell line BEAS-2B were obtained and authenticated from the Shanghai Institute of Cell Biology, Chinese Academy of Sciences (Shanghai, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0168",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BEAS-2B"
+                }],
+              "neText" : "BEAS-2B"
+            }]
+        }, {
+          "sentence" : "NCI-H82, NCI-H526 and 16HBE were purchased and authenticated from the ATCC.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "NCI-H82, NCI-H526 and 16HBE were purchased and authenticated from the ATCC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_1591)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NCI-H82"
+                }],
+              "neText" : "NCI-H82"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NCI-H526"
+                }],
+              "neText" : "NCI-H526"
+            }]
+        }, {
+          "sentence" : "For first round screeding, NCI-H1688 cells were treated with each compound at a concentration of 30 uM.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For first round screeding, NCI-H1688 cells were treated with each compound at a concentration of 30 uM."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_1487)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NCI-H1688"
+                }],
+              "neText" : "NCI-H1688"
+            }]
+        }, {
+          "sentence" : "To establish stably transfected cell lines, lentivirus was produced by HEK-293T cells with the second-generation packaging system pMD2.G and psPAX2, and harvested at 48 h after transfection.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To establish stably transfected cell lines, lentivirus was produced by HEK-293T cells with the second-generation packaging system pMD2.G and psPAX2, and harvested at 48 h after transfection."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HEK-293T"
+                }],
+              "neText" : "HEK-293T"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Five-week-old BALBC nude mice were used for in vivo anti-SCLC effect of Sg.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Five-week-old BALBC nude mice were used for in vivo anti-SCLC effect of Sg."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALBC nude"
+                }],
+              "neText" : "BALBC nude"
+            }]
+        }, {
+          "sentence" : "2 x 106 NCI-H1688 cells were injected subcutaneously into athymic nude mice.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2 x 106 NCI-H1688 cells were injected subcutaneously into athymic nude mice."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "athymic nude"
+                }],
+              "neText" : "athymic nude"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Plasmids and cell transfections Short hairpin RNA (shRNA) sequences were cloned into psiF-copGFP vectors (System Biosciences, Mountain View, CA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Plasmids and cell transfections Short hairpin RNA (shRNA) sequences were cloned into psiF-copGFP vectors (System Biosciences, Mountain View, CA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "psiF-copGFP"
+                }],
+              "neText" : "psiF-copGFP"
+            }]
+        }, {
+          "sentence" : "To establish stably transfected cell lines, lentivirus was produced by HEK-293T cells with the second-generation packaging system pMD2.G and psPAX2, and harvested at 48 h after transfection.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To establish stably transfected cell lines, lentivirus was produced by HEK-293T cells with the second-generation packaging system pMD2.G and psPAX2, and harvested at 48 h after transfection."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMD2.G"
+                }],
+              "neText" : "pMD2.G"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "psPAX2"
+                }],
+              "neText" : "psPAX2"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "b-actin antibody (H11459) was purchased from Sigma as a loading control.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "b-actin antibody (H11459) was purchased from Sigma as a loading control."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "Images were acquired using an Olympus IX51 microscope and processed using cellSens Dimension software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Images were acquired using an Olympus IX51 microscope and processed using cellSens Dimension software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "cellSens"
+                }],
+              "neText" : "cellSens"
+            }]
+        }, {
+          "sentence" : "Ingenuity Pathway Analysis (IPA) was used to identify enriched molecular pathways, gene networks, canonical pathways, and cellular biological consequences.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Ingenuity Pathway Analysis (IPA) was used to identify enriched molecular pathways, gene networks, canonical pathways, and cellular biological consequences."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Ingenuity Pathway Analysis, RRID:SCR_008653",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ingenuity Pathway Analysis"
+                }],
+              "neText" : "Ingenuity Pathway Analysis"
+            }]
+        }, {
+          "sentence" : "Protein-protein interaction (PPI) analysis of genes was processed by STRING (https:string-db.org) and visualized by Cytoscape.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein-protein interaction (PPI) analysis of genes was processed by STRING (https:string-db.org) and visualized by Cytoscape."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }]
+        }, {
+          "sentence" : "Gene expression analysis from the public database Data from the Gene Expression Omnibus (GEO, www.ncbi.nlm.nih.govgeo) was used to analyze CDKN1A mRNA expression in SCLC, GSE6044 20 and GSE40275 21, a total of 19 normal lung and 17 SCLC samples were included in the present study.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gene expression analysis from the public database Data from the Gene Expression Omnibus (GEO, www.ncbi.nlm.nih.govgeo) was used to analyze CDKN1A mRNA expression in SCLC, GSE6044 20 and GSE40275 21, a total of 19 normal lung and 17 SCLC samples were included in the present study."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Gene Expression Omnibus (GEO) (RRID:SCR_005012)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene Expression Omnibus"
+                }],
+              "neText" : "Gene Expression Omnibus"
+            }]
+        }, {
+          "sentence" : "All statistical analyses were carried out using SPSS software (version 22).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All statistical analyses were carried out using SPSS software (version 22)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Xenograft model Animal experiments were performed according to protocols approved by the ethical committee of Guangzhou University of Chinese Medicine Institutional Animal Care and Use Committee.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Xenograft model Animal experiments were performed according to protocols approved by the ethical committee of Guangzhou University of Chinese Medicine Institutional Animal Care and Use Committee."
+              }]
+          }, {
+            "sentence" : "Xenograft model Animal experiments were performed according to protocols approved by the ethical committee of Guangzhou University of Chinese Medicine Institutional Animal Care and Use Committee.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Xenograft model Animal experiments were performed according to protocols approved by the ethical committee of Guangzhou University of Chinese Medicine Institutional Animal Care and Use Committee."
+              }]
+          }, {
+            "sentence" : "After treatment for 21 days, the mice were sacrificed by cervical dislocation method, and tumor tissues were collected for immunohistochemical staining (IHC) and Western blot.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "After treatment for 21 days, the mice were sacrificed by cervical dislocation method, and tumor tissues were collected for immunohistochemical staining (IHC) and Western blot."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Five-week-old BALBC nude mice were used for in vivo anti-SCLC effect of Sg.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Five-week-old BALBC nude mice were used for in vivo anti-SCLC effect of Sg."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Gene expression analysis from the public database Data from the Gene Expression Omnibus (GEO, www.ncbi.nlm.nih.govgeo) was used to analyze CDKN1A mRNA expression in SCLC, GSE6044 20 and GSE40275 21, a total of 19 normal lung and 17 SCLC samples were included in the present study.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Gene expression analysis from the public database Data from the Gene Expression Omnibus (GEO, www.ncbi.nlm.nih.govgeo) was used to analyze CDKN1A mRNA expression in SCLC, GSE6044 20 and GSE40275 21, a total of 19 normal lung and 17 SCLC samples were included in the present study."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE6044"
+                  }],
+                "neText" : "GSE6044"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE40275"
+                  }],
+                "neText" : "GSE40275"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "An unpaired two-tailed Students t-test was performed for two-group comparisons and one-way ANOVA analysis (Post hoc: LSD) was performed for multiple group comparisons.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "An unpaired two-tailed Students t-test was performed for two-group comparisons and one-way ANOVA analysis (Post hoc: LSD) was performed for multiple group comparisons."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t-test"
+                  }],
+                "neText" : "Students t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "For the survival analysis, Kaplan-Meier curves were analyzed by log rank test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For the survival analysis, Kaplan-Meier curves were analyzed by log rank test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log rank test"
+                  }],
+                "neText" : "log rank test"
+              }]
+          }]
+      }]
+  }
+}

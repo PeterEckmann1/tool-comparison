@@ -1,0 +1,223 @@
+{
+  "docIdentifier" : "PMC8552833",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "After western blotting, membranes were stained with Ponceau red to verify the protein transfer and incubated with a primary anti-mouse antibody for GAP-43 or an anti-rabbit antibody for nerurofilament-200 (see below).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After western blotting, membranes were stained with Ponceau red to verify the protein transfer and incubated with a primary anti-mouse antibody for GAP-43 or an anti-rabbit antibody for nerurofilament-200 (see below)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GAP-43"
+                }],
+              "neText" : "GAP-43"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit"
+                }],
+              "neText" : "anti-rabbit"
+            }]
+        }, {
+          "sentence" : "After extensive rinsing, the nitrocellulose strip was incubated with secondary FITC-conjugated antibodies (anti-mouse or anti-rabbit) diluted 1:2000 for 1 hour.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After extensive rinsing, the nitrocellulose strip was incubated with secondary FITC-conjugated antibodies (anti-mouse or anti-rabbit) diluted 1:2000 for 1 hour."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }, {
+          "sentence" : "A mouse monoclonal antibody ( G-9264 from Sigma ) was utilized to detect GAP-43 ( or neuroregulin) , a marker of axonal growth cones and nerve cells .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "A mouse monoclonal antibody ( G-9264 from Sigma ) was utilized to detect GAP-43 ( or neuroregulin) , a marker of axonal growth cones and nerve cells ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "neuroregulin"
+                }],
+              "neText" : "neuroregulin"
+            }]
+        }, {
+          "sentence" : "After repeated rinses in buffer , the sections were incubated with goat anti-mouse or anti-rabbit secondary antibodies conjugated to fluorescein isothyocyanate ( FITC , Sigma , producing a green fluorescence ) or tetramethyl rhodamine iso-thiocyanate ( TRITC , Sigma , producing a red fluorescence) , mounted in anti-fading Fluoromount ( Sigma) , and observed under a fluorescent microscope.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After repeated rinses in buffer , the sections were incubated with goat anti-mouse or anti-rabbit secondary antibodies conjugated to fluorescein isothyocyanate ( FITC , Sigma , producing a green fluorescence ) or tetramethyl rhodamine iso-thiocyanate ( TRITC , Sigma , producing a red fluorescence) , mounted in anti-fading Fluoromount ( Sigma) , and observed under a fluorescent microscope."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-fading Fluoromount ( Sigma) ,"
+                }],
+              "neText" : "anti-fading Fluoromount ( Sigma) ,"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "After repeated rinses in buffer , the sections were incubated with goat anti-mouse or anti-rabbit secondary antibodies conjugated to fluorescein isothyocyanate ( FITC , Sigma , producing a green fluorescence ) or tetramethyl rhodamine iso-thiocyanate ( TRITC , Sigma , producing a red fluorescence) , mounted in anti-fading Fluoromount ( Sigma) , and observed under a fluorescent microscope.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "After repeated rinses in buffer , the sections were incubated with goat anti-mouse or anti-rabbit secondary antibodies conjugated to fluorescein isothyocyanate ( FITC , Sigma , producing a green fluorescence ) or tetramethyl rhodamine iso-thiocyanate ( TRITC , Sigma , producing a red fluorescence) , mounted in anti-fading Fluoromount ( Sigma) , and observed under a fluorescent microscope."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "sigma-tau (RRID:SCR_000488)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "The sections were studied under a fluorescence microscope , and images were recorded by a digital camera and imported into a computer for making figure plates using the program Photoshop version 8.0",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The sections were studied under a fluorescence microscope , and images were recorded by a digital camera and imported into a computer for making figure plates using the program Photoshop version 8.0"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Adobe Photoshop (RRID:SCR_014199)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Photoshop"
+                }],
+              "neText" : "Photoshop"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Eleven operated lizards were utilized after 11 (n = 3), 19 (n = 2), 22 (n = 3), and 34 (n = 3) days post-injury.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Eleven operated lizards were utilized after 11 (n = 3), 19 (n = 2), 22 (n = 3), and 34 (n = 3) days post-injury."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Briefly, adult lizards of both sexes were utilized, and the surgical procedures utilized in the study followed the regulations on animal care and experimental procedures under the Italian Guidelines (art. 5, DL 11692).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Briefly, adult lizards of both sexes were utilized, and the surgical procedures utilized in the study followed the regulations on animal care and experimental procedures under the Italian Guidelines (art. 5, DL 11692)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

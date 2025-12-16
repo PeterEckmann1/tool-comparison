@@ -1,0 +1,295 @@
+{
+  "docIdentifier" : "PMC8383895",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Genomes were queried iteratively with TBLASTN, adding newly annotated Polistes ORs to the query file, until no new OR coding regions were identified.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Genomes were queried iteratively with TBLASTN, adding newly annotated Polistes ORs to the query file, until no new OR coding regions were identified."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "TBLASTN (RRID:SCR_011822)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "TBLASTN"
+                }],
+              "neText" : "TBLASTN"
+            }]
+        }, {
+          "sentence" : "To guide annotation of exon-intron boundaries, antennal mRNA from P. fuscatus males and females (gynes) was mapped to P. fuscatus, P. metricus, and P. dorsalis genomes using STAR (Dobin et al. 2013) and assembled into transcripts using Trinity (Haas et al. 2013) (supplementary table S2, Supplementary Material online).",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "To guide annotation of exon-intron boundaries, antennal mRNA from P. fuscatus males and females (gynes) was mapped to P. fuscatus, P. metricus, and P. dorsalis genomes using STAR (Dobin et al. 2013) and assembled into transcripts using Trinity (Haas et al. 2013) (supplementary table S2, Supplementary Material online)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STAR"
+                }],
+              "neText" : "STAR"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Trinity (RRID:SCR_013048)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Trinity"
+                }],
+              "neText" : "Trinity"
+            }]
+        }, {
+          "sentence" : "Predicted transcripts were aligned to genomes using BLAT.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Predicted transcripts were aligned to genomes using BLAT."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "BLAT (RRID:SCR_011919)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLAT"
+                }],
+              "neText" : "BLAT"
+            }]
+        }, {
+          "sentence" : "Uncertain gene models in P. metricus, P. dorsalis, P. canadensis,and P. dominula were aligned to their orthologs in P. fuscatus using Muscle version 3.8.425 with maximum four iterations (Edgar 2004), and gene models were manually adjusted.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Uncertain gene models in P. metricus, P. dorsalis, P. canadensis,and P. dominula were aligned to their orthologs in P. fuscatus using Muscle version 3.8.425 with maximum four iterations (Edgar 2004), and gene models were manually adjusted."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MUSCLE (RRID:SCR_011812)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Muscle"
+                }],
+              "neText" : "Muscle"
+            }]
+        }, {
+          "sentence" : "All annotation evidence was imported into Geneious v11.1.5 genome browser for manual annotation.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All annotation evidence was imported into Geneious v11.1.5 genome browser for manual annotation."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Geneious (RRID:SCR_010519)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Geneious"
+                }],
+              "neText" : "Geneious"
+            }]
+        }, {
+          "sentence" : "Transmembrane helices of all putatively functional ORs (>300 amino acids) were predicted using TMHMM version 2.0c (Sonnhammer et al. 1998) and Phobius version 1.01 (Kall et al. 2004).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Transmembrane helices of all putatively functional ORs (>300 amino acids) were predicted using TMHMM version 2.0c (Sonnhammer et al. 1998) and Phobius version 1.01 (Kall et al. 2004)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Phobius"
+                }],
+              "neText" : "Phobius"
+            }]
+        }, {
+          "sentence" : "Phylogenetic Reconstruction Phylogenetic trees were constructed using RAxML (Jones et al. 1992 Stamatakis 2014).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Phylogenetic Reconstruction Phylogenetic trees were constructed using RAxML (Jones et al. 1992 Stamatakis 2014)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RAxML"
+                }],
+              "neText" : "RAxML"
+            }]
+        }, {
+          "sentence" : "Orthologous genes were determined using OrthoFinder (Emms and Kelly 2015), bootstrap support, and microsynteny.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Orthologous genes were determined using OrthoFinder (Emms and Kelly 2015), bootstrap support, and microsynteny."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "OrthoFinder"
+                }],
+              "neText" : "OrthoFinder"
+            }]
+        }, {
+          "sentence" : "Values of pairwise d Nd S for orthologs shared by P. fuscatus and P. dorsalis were estimated using PAML version 4.9 (Yang 2007) program yn00 with the Yang and Nielsen (2000) method.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Values of pairwise d Nd S for orthologs shared by P. fuscatus and P. dorsalis were estimated using PAML version 4.9 (Yang 2007) program yn00 with the Yang and Nielsen (2000) method."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PAML"
+                }],
+              "neText" : "PAML"
+            }]
+        }, {
+          "sentence" : "Finally, RELAX was run in HyPhy version 2.5.15 to test for relaxed negative (relaxed purifying) selection (Wertheim et al. 2015 Pond et al. 2020).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Finally, RELAX was run in HyPhy version 2.5.15 to test for relaxed negative (relaxed purifying) selection (Wertheim et al. 2015 Pond et al. 2020)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HyPhy"
+                }],
+              "neText" : "HyPhy"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and Methods Antennal Lobe Imaging Antennal lobe glomeruli of male and female P.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Antennal Lobe Imaging Antennal lobe glomeruli of male and female P."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

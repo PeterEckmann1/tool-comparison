@@ -1,0 +1,412 @@
+{
+  "docIdentifier" : "PMC8216474",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Coverslips (cell side up) were incubated with an antibody against gawky (anti1)*, MTF-1**, or FLAG-tagged protein (Beyotime, AF519) for 12 h at 4degC followed by incubating with a fluorescence secondary antibody (Abcam, ab150116 or ab150077) at room temperature for 2 h.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Coverslips (cell side up) were incubated with an antibody against gawky (anti1)*, MTF-1**, or FLAG-tagged protein (Beyotime, AF519) for 12 h at 4degC followed by incubating with a fluorescence secondary antibody (Abcam, ab150116 or ab150077) at room temperature for 2 h."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti1)*"
+                }],
+              "neText" : "anti1)*"
+            }]
+        }, {
+          "sentence" : "Samples were then precleared and immunoprecipitated with Protein A+G Agarose beads (Beyotime, P2055-50) bound to an antibody against gawky (anti1), MTF1, FLAG (Beyotime, AF519) or HA (Beyotime, AF0039) in the presence of 1x Protease Inhibitor Cocktail (Beyotime, P1045) for 8 h at 4degC.",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Samples were then precleared and immunoprecipitated with Protein A+G Agarose beads (Beyotime, P2055-50) bound to an antibody against gawky (anti1), MTF1, FLAG (Beyotime, AF519) or HA (Beyotime, AF0039) in the presence of 1x Protease Inhibitor Cocktail (Beyotime, P1045) for 8 h at 4degC."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MTF1"
+                }],
+              "neText" : "MTF1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "FLAG"
+                }],
+              "neText" : "FLAG"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HA"
+                }],
+              "neText" : "HA"
+            }]
+        }, {
+          "sentence" : "These antibodies were used: anti-HDAC1 (Abcam, ab1767, 1:1000 dilution), anti-a-Tubulin (Sigma, T6074, 1:10 000 dilution), anti-Lam (Beyotime, AF5222, 1:300 dilution), anti-FLAG (Beyotime, AF519, 1:1000 dilution), anti-HA (Beyotime, AF0039, 1:1000 dilution), anti-gawky (anti1, 1:250 dilution anti2*, 1:250 dilution), and anti-MTF-1 (1: 500 dilution).",
+          "rowSpan" : 11,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "These antibodies were used: anti-HDAC1 (Abcam, ab1767, 1:1000 dilution), anti-a-Tubulin (Sigma, T6074, 1:10 000 dilution), anti-Lam (Beyotime, AF5222, 1:300 dilution), anti-FLAG (Beyotime, AF519, 1:1000 dilution), anti-HA (Beyotime, AF0039, 1:1000 dilution), anti-gawky (anti1, 1:250 dilution anti2*, 1:250 dilution), and anti-MTF-1 (1: 500 dilution)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-HDAC1"
+                }],
+              "neText" : "anti-HDAC1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ab1767"
+                }],
+              "neText" : "ab1767"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-a-Tubulin"
+                }],
+              "neText" : "anti-a-Tubulin"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "T6074"
+                }],
+              "neText" : "T6074"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-Lam (Beyotime, AF5222"
+                }],
+              "neText" : "anti-Lam (Beyotime, AF5222"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AF519"
+                }],
+              "neText" : "AF519"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "AF0039"
+                }],
+              "neText" : "AF0039"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-gawky"
+                }],
+              "neText" : "anti-gawky"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti1"
+                }],
+              "neText" : "anti1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti2*"
+                }],
+              "neText" : "anti2*"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-MTF-1"
+                }],
+              "neText" : "anti-MTF-1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Plasmids and stable cell line construction Plasmid constructs were generated by inserting the indicated sequences into a pMK33pMtHy-based vector (https:www.addgene.org69911) as previously described (35,37-40).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Plasmids and stable cell line construction Plasmid constructs were generated by inserting the indicated sequences into a pMK33pMtHy-based vector (https:www.addgene.org69911) as previously described (35,37-40)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pMK33pMtHy-based"
+                }],
+              "neText" : "pMK33pMtHy-based"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The intensity of the fluorescence signal was analyzed using Image J software.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The intensity of the fluorescence signal was analyzed using Image J software."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image J"
+                }],
+              "neText" : "Image J"
+            }]
+        }, {
+          "sentence" : "Line profiles were analyzed using Image-Pro Plus 6.0 software, and the intensity of the nuclear fluorescence signal was analyzed using Image J software according to refs (43,44).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Line profiles were analyzed using Image-Pro Plus 6.0 software, and the intensity of the nuclear fluorescence signal was analyzed using Image J software according to refs (43,44)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Image-Pro Plus"
+                }],
+              "neText" : "Image-Pro Plus"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "n describes the number of biological replicates in each figure legend.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "n describes the number of biological replicates in each figure legend."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }, {
+            "sentence" : "n describes the number of biological replicates in each figure legend.",
+            "title" : "Type",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "n describes the number of biological replicates in each figure legend."
+              }]
+          }, {
+            "sentence" : "Statistical analyses The values reported in each graph represent averages of at least three independent experiments.",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analyses The values reported in each graph represent averages of at least three independent experiments."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Nuclear and cytoplasmic fractionation Cellular fractionation of S2 cells was performed as described in our previous works (35,37,38).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Nuclear and cytoplasmic fractionation Cellular fractionation of S2 cells was performed as described in our previous works (35,37,38)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "35,37,38"
+                  }],
+                "neText" : "35,37,38"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical significance for comparisons of means was assessed by Students t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical significance for comparisons of means was assessed by Students t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "Plasmids and stable cell line construction Plasmid constructs were generated by inserting the indicated sequences into a pMK33pMtHy-based vector (https:www.addgene.org69911) as previously described (35,37-40).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Plasmids and stable cell line construction Plasmid constructs were generated by inserting the indicated sequences into a pMK33pMtHy-based vector (https:www.addgene.org69911) as previously described (35,37-40)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "addgene.org69911"
+                  }],
+                "neText" : "addgene.org69911"
+              }]
+          }]
+      }]
+  }
+}

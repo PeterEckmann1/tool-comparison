@@ -1,0 +1,518 @@
+{
+  "docIdentifier" : "PMC8181633",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The following antibodies were used in this study: GLUT1 (Abcam, ab652, 1:1,000 dilution), GLUT2 (Abcam, ab54460, 1:1,000 dilution), GLUT3 (Abcam, ab41525, 1:1,000 dilution), GLUT4 (Abcam, ab654, 1:1,000 dilution), GLUT5 (Abcam, ab36057, 1:1,000 dilution), HK2 (Cell Signaling Technology, 2867, 1:1,000 dilution), ALDOC (Abcam, ab87122, 1:1,000 dilution), ENO1 (Proteintech, 11204-1-AP, 1:1,000 dilution), PKM (Abcam, ab38237, 1:1,000 dilution), LDH (Cell Signaling Technology, 3582, 1:1,000 dilution), ACTIN (Abcam, ab15265, 1:1,000 dilution), and E2F1 (Santa Cruz Biotechnology, sc-251, 1:1,000 dilution).",
+          "rowSpan" : 12,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The following antibodies were used in this study: GLUT1 (Abcam, ab652, 1:1,000 dilution), GLUT2 (Abcam, ab54460, 1:1,000 dilution), GLUT3 (Abcam, ab41525, 1:1,000 dilution), GLUT4 (Abcam, ab654, 1:1,000 dilution), GLUT5 (Abcam, ab36057, 1:1,000 dilution), HK2 (Cell Signaling Technology, 2867, 1:1,000 dilution), ALDOC (Abcam, ab87122, 1:1,000 dilution), ENO1 (Proteintech, 11204-1-AP, 1:1,000 dilution), PKM (Abcam, ab38237, 1:1,000 dilution), LDH (Cell Signaling Technology, 3582, 1:1,000 dilution), ACTIN (Abcam, ab15265, 1:1,000 dilution), and E2F1 (Santa Cruz Biotechnology, sc-251, 1:1,000 dilution)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GLUT1"
+                }],
+              "neText" : "GLUT1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GLUT2"
+                }],
+              "neText" : "GLUT2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GLUT3"
+                }],
+              "neText" : "GLUT3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GLUT4"
+                }],
+              "neText" : "GLUT4"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GLUT5"
+                }],
+              "neText" : "GLUT5"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HK2 (Cell Signaling Technology, 2867"
+                }],
+              "neText" : "HK2 (Cell Signaling Technology, 2867"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ALDOC"
+                }],
+              "neText" : "ALDOC"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ENO1"
+                }],
+              "neText" : "ENO1"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "11204-1-AP"
+                }],
+              "neText" : "11204-1-AP"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "LDH (Cell Signaling Technology, 3582"
+                }],
+              "neText" : "LDH (Cell Signaling Technology, 3582"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ACTIN (Abcam,"
+                }],
+              "neText" : "ACTIN (Abcam,"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "E2F1"
+                }],
+              "neText" : "E2F1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "HBE and H1975 were cultivated in DMEM (KeyGen, Nanjing, China), and A549, H1299, and PC9 cells were cultivated in RPMI-1640 (KeyGen, Nanjing, China), all supplemented with 10 fetal bovine serum (FBS) (KeyGen, Nanjing, China) and cultured in a standard 37degC incubator.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HBE and H1975 were cultivated in DMEM (KeyGen, Nanjing, China), and A549, H1299, and PC9 cells were cultivated in RPMI-1640 (KeyGen, Nanjing, China), all supplemented with 10 fetal bovine serum (FBS) (KeyGen, Nanjing, China) and cultured in a standard 37degC incubator."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0060",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "H1299"
+                }],
+              "neText" : "H1299"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PC9"
+                }],
+              "neText" : "PC9"
+            }]
+        }, {
+          "sentence" : "For experiments in vivo, GAS6-AS1 expression plasmids were packaged with pPACKH1 Lentivector Packaging Plasmid Mix (System Biosciences, Palo Alto, CA, USA) and were introduced into 293T cells.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For experiments in vivo, GAS6-AS1 expression plasmids were packaged with pPACKH1 Lentivector Packaging Plasmid Mix (System Biosciences, Palo Alto, CA, USA) and were introduced into 293T cells."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0063",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "293T"
+                }],
+              "neText" : "293T"
+            }]
+        }, {
+          "sentence" : "Briefly, A549 cells were cross-linked in 4 paraformaldehyde, and DNA was sheared by sonication to yield soluble chromatin.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Briefly, A549 cells were cross-linked in 4 paraformaldehyde, and DNA was sheared by sonication to yield soluble chromatin."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0023",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "A549"
+                }],
+              "neText" : "A549"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "Transfection Human GAS6-AS1, GLUT1, and E2F1 cDNA were PCR-amplified and then cloned into the expression vector pcDND3.1 (RiboBio, Guangzhou, China).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Transfection Human GAS6-AS1, GLUT1, and E2F1 cDNA were PCR-amplified and then cloned into the expression vector pcDND3.1 (RiboBio, Guangzhou, China)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pcDND3.1"
+                }],
+              "neText" : "pcDND3.1"
+            }]
+        }, {
+          "sentence" : "For experiments in vivo, GAS6-AS1 expression plasmids were packaged with pPACKH1 Lentivector Packaging Plasmid Mix (System Biosciences, Palo Alto, CA, USA) and were introduced into 293T cells.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For experiments in vivo, GAS6-AS1 expression plasmids were packaged with pPACKH1 Lentivector Packaging Plasmid Mix (System Biosciences, Palo Alto, CA, USA) and were introduced into 293T cells."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pPACKH1"
+                }],
+              "neText" : "pPACKH1"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The JASPAR database (http:jaspardev.genereg.net) 59 was used to evaluate the transcription factor binding profiles with gene promoters.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The JASPAR database (http:jaspardev.genereg.net) 59 was used to evaluate the transcription factor binding profiles with gene promoters."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "JASPAR (RRID:SCR_003030)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "JASPAR"
+                }],
+              "neText" : "JASPAR"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Statistical analysis was performed with SPSS 22.0 software and GraphPad Prism 8.0.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Statistical analysis was performed with SPSS 22.0 software and GraphPad Prism 8.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism (RRID:SCR_002798)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad Prism"
+                }],
+              "neText" : "GraphPad Prism"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was approved by the ethics committee of Jiangsu Cancer Hospital, and written informed consent was obtained from all participants.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the ethics committee of Jiangsu Cancer Hospital, and written informed consent was obtained from all participants."
+              }]
+          }, {
+            "sentence" : "The study was approved by the ethics committee of Jiangsu Cancer Hospital, and written informed consent was obtained from all participants.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the ethics committee of Jiangsu Cancer Hospital, and written informed consent was obtained from all participants."
+              }]
+          }, {
+            "sentence" : "Tumor xenograft experiment The procedures for animal care and use were approved by Nanjing Medical University Animal Care Committee.",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Tumor xenograft experiment The procedures for animal care and use were approved by Nanjing Medical University Animal Care Committee."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Ten female nude mice (4-6 weeks old) were purchased from Nanjing Medical University School of Medicines accredited animal facility and randomly divided into two groups.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ten female nude mice (4-6 weeks old) were purchased from Nanjing Medical University School of Medicines accredited animal facility and randomly divided into two groups."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Ten female nude mice (4-6 weeks old) were purchased from Nanjing Medical University School of Medicines accredited animal facility and randomly divided into two groups.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ten female nude mice (4-6 weeks old) were purchased from Nanjing Medical University School of Medicines accredited animal facility and randomly divided into two groups."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Ten female nude mice (4-6 weeks old) were purchased from Nanjing Medical University School of Medicines accredited animal facility and randomly divided into two groups.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ten female nude mice (4-6 weeks old) were purchased from Nanjing Medical University School of Medicines accredited animal facility and randomly divided into two groups."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All the repetitive experiments were repeated three times,and p < 0.05 was considered statistically significant (*p < 0.05, **p < 0.01, ***p < 0. 001 n.s., no significance).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the repetitive experiments were repeated three times,and p < 0.05 was considered statistically significant (*p < 0.05, **p < 0.01, ***p < 0. 001 n.s., no significance)."
+              }],
+            "mention" : {
+              "neText" : "repeated",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "repeated"
+                }]
+            }
+          }, {
+            "sentence" : "All the repetitive experiments were repeated three times,and p < 0.05 was considered statistically significant (*p < 0.05, **p < 0.01, ***p < 0. 001 n.s., no significance).",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All the repetitive experiments were repeated three times,and p < 0.05 was considered statistically significant (*p < 0.05, **p < 0.01, ***p < 0. 001 n.s., no significance)."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Availability of data and material The datasets used andor analyzed during the current study are available from the corresponding author on reasonable request.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Availability of data and material The datasets used andor analyzed during the current study are available from the corresponding author on reasonable request."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "Materials and methods Bioinformatics GEO microarray dataset GEO: GSE56843 (https:www.ncbi.nlm.nih.govgeoqueryacc.cgi?acc=GSE56843) and a GEPIA dataset (http:gepia2.cancer-pku.cnindex) 54 were used to screen metabolism-related lncRNAs in LUAD.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Bioinformatics GEO microarray dataset GEO: GSE56843 (https:www.ncbi.nlm.nih.govgeoqueryacc.cgi?acc=GSE56843) and a GEPIA dataset (http:gepia2.cancer-pku.cnindex) 54 were used to screen metabolism-related lncRNAs in LUAD."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE56843"
+                  }],
+                "neText" : "GSE56843"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "acc=GSE56843"
+                  }],
+                "neText" : "acc=GSE56843"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Gene clusters (Table S2) highly co-expressed with GAS6-AS1 (Pearson correlation coefficient >= 0.35) were submitted to DAVID Bioinformatics Resources 6.8 (http:david.abcc.ncifcrf.gov) 55 for Gene_Ontology enrichment analysis.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Gene clusters (Table S2) highly co-expressed with GAS6-AS1 (Pearson correlation coefficient >= 0.35) were submitted to DAVID Bioinformatics Resources 6.8 (http:david.abcc.ncifcrf.gov) 55 for Gene_Ontology enrichment analysis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }, {
+            "sentence" : "Students t test was used to determine statistical differences between two groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Students t test was used to determine statistical differences between two groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Students t test"
+                  }],
+                "neText" : "Students t test"
+              }]
+          }, {
+            "sentence" : "The chi-square test was used to analyze the relationship between GAS6-AS1 expression and clinicopathological characteristics.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The chi-square test was used to analyze the relationship between GAS6-AS1 expression and clinicopathological characteristics."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }]
+          }]
+      }]
+  }
+}

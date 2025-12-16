@@ -1,0 +1,350 @@
+{
+  "docIdentifier" : "PMC8797718",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Genes that were differentially expressed between the 2 groups were screened using the Bioconductor limma package ( https:bioconductor . orgpackagesreleasebiochtmllimma . html ) in R v3.6.3 software , with a threshold of P<0.05 and fold change>1 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Genes that were differentially expressed between the 2 groups were screened using the Bioconductor limma package ( https:bioconductor . orgpackagesreleasebiochtmllimma . html ) in R v3.6.3 software , with a threshold of P<0.05 and fold change>1 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "LIMMA (RRID:SCR_010943)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "limma"
+                }],
+              "neText" : "limma"
+            }]
+        }, {
+          "sentence" : "Functional enrichment analysis The Bioconductor clusterProfiler 3.8 , enrichplot 3.8 , and Rlease ggplot2 3.1.1 packages of R software were used to evaluate functional enrichment of identified DEGs .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Functional enrichment analysis The Bioconductor clusterProfiler 3.8 , enrichplot 3.8 , and Rlease ggplot2 3.1.1 packages of R software were used to evaluate functional enrichment of identified DEGs ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "clusterProfiler (RRID:SCR_016884)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "clusterProfiler"
+                }],
+              "neText" : "clusterProfiler"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ggplot2 (RRID:SCR_014601)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ggplot2"
+                }],
+              "neText" : "ggplot2"
+            }]
+        }, {
+          "sentence" : "KEGG ) pathway analysis was performed to identify relevant pathways and Gene Ontology ( GO ) analysis encompassing biological process ( BP) , cell composition ( CC) , and molecular function ( MF ) was carried out to determine the functions of DEGs .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "KEGG ) pathway analysis was performed to identify relevant pathways and Gene Ontology ( GO ) analysis encompassing biological process ( BP) , cell composition ( CC) , and molecular function ( MF ) was carried out to determine the functions of DEGs ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "Protein-protein interaction ( PPI ) network construction PPI networks were constructed by mapping DEGs using Search Tool for the Retrieval of Interacting GenesProteins ( STRING ) database v11.0 ( http:string-db . org ) ( 29) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein-protein interaction ( PPI ) network construction PPI networks were constructed by mapping DEGs using Search Tool for the Retrieval of Interacting GenesProteins ( STRING ) database v11.0 ( http:string-db . org ) ( 29) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "STRING"
+                }],
+              "neText" : "STRING"
+            }]
+        }, {
+          "sentence" : "We imported the PPI networks into Cytoscape software ( https:cytoscape.org) , and the top 3 significant modules for ESCC and EAC were identified using the MCODE algorithm in Cytoscape.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "We imported the PPI networks into Cytoscape software ( https:cytoscape.org) , and the top 3 significant modules for ESCC and EAC were identified using the MCODE algorithm in Cytoscape."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cytoscape (RRID:SCR_003032)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cytoscape"
+                }],
+              "neText" : "Cytoscape"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "https:cytoscape.org"
+                }],
+              "neText" : "https:cytoscape.org"
+            }]
+        }, {
+          "sentence" : "Gene set enrichment analysis (GSEA) GSEA was performed using TCGA cohort to identify pathways that were most relevant to prognostic DEGs in ESCC and EAC (31).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Gene set enrichment analysis (GSEA) GSEA was performed using TCGA cohort to identify pathways that were most relevant to prognostic DEGs in ESCC and EAC (31)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Gene set enrichment analysis"
+                }],
+              "neText" : "Gene set enrichment analysis"
+            }]
+        }, {
+          "sentence" : "DEG and functional pathway enrichment analyses were performed using the Bioconductor package in R.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "DEG and functional pathway enrichment analyses were performed using the Bioconductor package in R."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Bioconductor (RRID:SCR_006442)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bioconductor"
+                }],
+              "neText" : "Bioconductor"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "We also selected gene expression profiles of patient-derived ESCC tissue ( GSE53625 , GPL18109 , n=358 ) and EAC tissue ( GSE19417 , GPL4372 , n=76 ) from the GEO database to validate the candidate prognostic genes identified from TCGA data .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We also selected gene expression profiles of patient-derived ESCC tissue ( GSE53625 , GPL18109 , n=358 ) and EAC tissue ( GSE19417 , GPL4372 , n=76 ) from the GEO database to validate the candidate prognostic genes identified from TCGA data ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE53625"
+                  }],
+                "neText" : "GSE53625"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GSE19417"
+                  }],
+                "neText" : "GSE19417"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis Nonparametric tests (Wilcox test for 2 groups and Kruskal-Wallis test for >=3 groups) were used to assess correlations between stromalimmune scores and clinicopathologic parameters.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis Nonparametric tests (Wilcox test for 2 groups and Kruskal-Wallis test for >=3 groups) were used to assess correlations between stromalimmune scores and clinicopathologic parameters."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcox test"
+                  }],
+                "neText" : "Wilcox test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis test"
+                  }],
+                "neText" : "Kruskal-Wallis test"
+              }]
+          }, {
+            "sentence" : "Kaplan-Meier survival analysis and the log-rank test were used to evaluate the relationships between ESTIMATE scores, levels of DEGs and TIICs, and prognosis.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Kaplan-Meier survival analysis and the log-rank test were used to evaluate the relationships between ESTIMATE scores, levels of DEGs and TIICs, and prognosis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "log-rank test"
+                  }],
+                "neText" : "log-rank test"
+              }]
+          }, {
+            "sentence" : "Correlations between gene expression levels were evaluated using Spearmans rank correlation coefficient.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Correlations between gene expression levels were evaluated using Spearmans rank correlation coefficient."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearmans rank correlation"
+                  }],
+                "neText" : "Spearmans rank correlation"
+              }]
+          }]
+      }]
+  }
+}

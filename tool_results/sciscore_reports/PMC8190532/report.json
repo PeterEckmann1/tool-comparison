@@ -1,0 +1,221 @@
+{
+  "docIdentifier" : "PMC8190532",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "In short, an in-house ELISA was used to detect antibodies toward HSV IgG antigen.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "In short, an in-house ELISA was used to detect antibodies toward HSV IgG antigen."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HSV IgG antigen."
+                }],
+              "neText" : "HSV IgG antigen."
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "6 , 32 RESEARCH IN CONTEXT Systematic review: PubMed was used to search for previously published studies.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "6 , 32 RESEARCH IN CONTEXT Systematic review: PubMed was used to search for previously published studies."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PubMed (RRID:SCR_004846)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PubMed"
+                }],
+              "neText" : "PubMed"
+            }]
+        }, {
+          "sentence" : "The SPSS Statistics version 25.0",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The SPSS Statistics version 25.0"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Written consent was obtained from included participants.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written consent was obtained from included participants."
+              }]
+          }, {
+            "sentence" : "2.6 Ethical approval The Regional Ethical Review Board in Umea, Sweden approved the study (2018-92-32 M).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.6 Ethical approval The Regional Ethical Review Board in Umea, Sweden approved the study (2018-92-32 M)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Prescriptions written before a participants inclusion in the Betula study were included but prescriptions written after the end of a persons follow-up , for example , after AD diagnosis , were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Prescriptions written before a participants inclusion in the Betula study were included but prescriptions written after the end of a persons follow-up , for example , after AD diagnosis , were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "2.3 Nested case-control study design From the full set of participants in the Betula cohort study (N = 4425), individuals were selected for whom HSV1 and APOE e4 carriership were determined (N = 3384) and from them, those who were HSV1",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.3 Nested case-control study design From the full set of participants in the Betula cohort study (N = 4425), individuals were selected for whom HSV1 and APOE e4 carriership were determined (N = 3384) and from them, those who were HSV1"
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Ages at recruitment ranged from 35 to 95 years of age.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Ages at recruitment ranged from 35 to 95 years of age."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "2.5 Statistical analyses Paired samples t-test , Wilcoxon signed rank test , and McNemars test without Yates correction were used , where applicable , for univariate analyses to compare cases and their matched controls .",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2.5 Statistical analyses Paired samples t-test , Wilcoxon signed rank test , and McNemars test without Yates correction were used , where applicable , for univariate analyses to compare cases and their matched controls ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed rank test"
+                  }],
+                "neText" : "Wilcoxon signed rank test"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "McNemars test"
+                  }],
+                "neText" : "McNemars test"
+              }]
+          }, {
+            "sentence" : "Differences between the two groups were tested with a Mantel-Cox log rank test .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Differences between the two groups were tested with a Mantel-Cox log rank test ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Mantel-Cox log rank test"
+                  }],
+                "neText" : "Mantel-Cox log rank test"
+              }]
+          }]
+      }]
+  }
+}

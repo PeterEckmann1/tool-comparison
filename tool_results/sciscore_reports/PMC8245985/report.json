@@ -1,0 +1,181 @@
+{
+  "docIdentifier" : "PMC8245985",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "All calculations were performed with SAS for Windows ( v 9.4; SAS Institute Inc .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "All calculations were performed with SAS for Windows ( v 9.4; SAS Institute Inc ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Statistical Analysis System, RRID:SCR_008567",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SAS Institute"
+                }],
+              "neText" : "SAS Institute"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All those contacted gave consent for the use of data from their hospital records , established during their hospital stay .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All those contacted gave consent for the use of data from their hospital records , established during their hospital stay ."
+              }]
+          }, {
+            "sentence" : "The study ( ID RCB: 2019-A01968-49 ) was approved by an appropriate scientific ethics committee ( Paris , IRB N . COS-RGDS-2019-10-002) .",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study ( ID RCB: 2019-A01968-49 ) was approved by an appropriate scientific ethics committee ( Paris , IRB N . COS-RGDS-2019-10-002) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "We excluded acromioclavicular",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We excluded acromioclavicular"
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Patients were considered eligible for the study if they were aged from 18 to 35 years, and had undergone one of 2 types of surgical intervention for shoulder instability: Bankart or Latarjet interventions.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Patients were considered eligible for the study if they were aged from 18 to 35 years, and had undergone one of 2 types of surgical intervention for shoulder instability: Bankart or Latarjet interventions."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Depending on the nature of the endpoints considered, we used Cox models or analysis of covariance to identify risk or explanatory factors associated with the outcome of interest.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Depending on the nature of the endpoints considered, we used Cox models or analysis of covariance to identify risk or explanatory factors associated with the outcome of interest."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of covariance"
+                  }],
+                "neText" : "analysis of covariance"
+              }]
+          }, {
+            "sentence" : "We compared patient characteristics between groups defined on the basis of type of surgery (Bankart or Latarjet), in chi-squared or Fisher’s exact tests for qualitative data, and Student’s t tests for quantitative data, after verification of Gaussian distribution.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We compared patient characteristics between groups defined on the basis of type of surgery (Bankart or Latarjet), in chi-squared or Fisher’s exact tests for qualitative data, and Student’s t tests for quantitative data, after verification of Gaussian distribution."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-squared"
+                  }],
+                "neText" : "chi-squared"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Fisher’s exact tests"
+                  }],
+                "neText" : "Fisher’s exact tests"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t tests"
+                  }],
+                "neText" : "t tests"
+              }]
+          }]
+      }]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "docIdentifier" : "PMC8631182",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Then, streptavidin-HRP is added to bind to the biotinylated NT antibody.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Then, streptavidin-HRP is added to bind to the biotinylated NT antibody."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NT"
+                }],
+              "neText" : "NT"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The HV serology markers were measured by the chemiluminescent microparticle immunoassay method (Abbott Diagnostics, IL, USA) and serum levels of HBV DNA and HCV RNA were measured by the real-time PCR kits (Roche Diagnostics, IN, USA) according to the manufacturers protocols.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The HV serology markers were measured by the chemiluminescent microparticle immunoassay method (Abbott Diagnostics, IL, USA) and serum levels of HBV DNA and HCV RNA were measured by the real-time PCR kits (Roche Diagnostics, IN, USA) according to the manufacturers protocols."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Abbott (RRID:SCR_010477)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Abbott"
+                }],
+              "neText" : "Abbott"
+            }]
+        }, {
+          "sentence" : "16 Statistical Analysis The SPSS version 22 (SPSS Inc., IL, USA) was used.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "16 Statistical Analysis The SPSS version 22 (SPSS Inc., IL, USA) was used."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Materials and Methods Study Design and Participants This observational cross-sectional study was approved by the King Abdulaziz University (KAU)-Research Ethics Committee (approval number: 609-18) and was performed in accordance with the Helsinki Declaration.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Study Design and Participants This observational cross-sectional study was approved by the King Abdulaziz University (KAU)-Research Ethics Committee (approval number: 609-18) and was performed in accordance with the Helsinki Declaration."
+              }]
+          }, {
+            "sentence" : "Written informed consents were taken from all participants.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consents were taken from all participants."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The exclusion of subjects from the study was built on the history, clinical picture, and investigations.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The exclusion of subjects from the study was built on the history, clinical picture, and investigations."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The chronic hepatitis patients were randomly recruited from Gastroenterology and Hepatology Department, King Abdulaziz University (KAU) Hospital between January 2018 and December 2020.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The chronic hepatitis patients were randomly recruited from Gastroenterology and Hepatology Department, King Abdulaziz University (KAU) Hospital between January 2018 and December 2020."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "To calculate a cost-effective sample size, we set the significance level at P < 0.05 and used a statistical power of 80 which is widely used to avoid false-negative associations.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To calculate a cost-effective sample size, we set the significance level at P < 0.05 and used a statistical power of 80 which is widely used to avoid false-negative associations."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The ANOVA with Tukeys test was used for multiple comparisons.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The ANOVA with Tukeys test was used for multiple comparisons."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukeys test"
+                  }],
+                "neText" : "Tukeys test"
+              }]
+          }, {
+            "sentence" : "Pearson correlation was used to detect correlations between viral loads and HBsAG and glutamine or nitrotyrosine levels of hepatitis patients.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Pearson correlation was used to detect correlations between viral loads and HBsAG and glutamine or nitrotyrosine levels of hepatitis patients."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }, {
+            "sentence" : "Moreover, Spearman correlation was used to detect correlations between glutamine and nitrotyrosine levels of normal subjects or hepatitis patients and the standard diagnostic tests for hepatitis.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Moreover, Spearman correlation was used to detect correlations between glutamine and nitrotyrosine levels of normal subjects or hepatitis patients and the standard diagnostic tests for hepatitis."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearman correlation"
+                  }],
+                "neText" : "Spearman correlation"
+              }]
+          }]
+      }]
+  }
+}

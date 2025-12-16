@@ -1,0 +1,397 @@
+{
+  "docIdentifier" : "PMC8805879",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "The membranes were incubated overnight with primary antibodies against KLF9 ( orb247847 , Biorbyt) , DDAH2 ( orb247451 , Biorbyt) , Bcl-2 ( ab182858 , Abcam)",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The membranes were incubated overnight with primary antibodies against KLF9 ( orb247847 , Biorbyt) , DDAH2 ( orb247451 , Biorbyt) , Bcl-2 ( ab182858 , Abcam)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KLF9"
+                }],
+              "neText" : "KLF9"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "DDAH2"
+                }],
+              "neText" : "DDAH2"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "orb247451"
+                }],
+              "neText" : "orb247451"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bcl-2 ( ab182858"
+                }],
+              "neText" : "Bcl-2 ( ab182858"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell counting kit-8 HTR8/SVneo cells were inoculated in 96-well plate ( 2 × 105 cells/well ) for attachment .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell counting kit-8 HTR8/SVneo cells were inoculated in 96-well plate ( 2 × 105 cells/well ) for attachment ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_7162",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HTR8/SVneo"
+                }],
+              "neText" : "HTR8/SVneo"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "GDM mice model establishment The 4-week-old C57BL/6 J mice were purchased from Vitalriver ( Beijing , China) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "GDM mice model establishment The 4-week-old C57BL/6 J mice were purchased from Vitalriver ( Beijing , China) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "C57BL/6 J"
+                }],
+              "neText" : "C57BL/6 J"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The specific short hairpin RNA ( shRNAs ) targeting KLF9 ( sh-KLF9-1 and sh-KLF9-2 ) and DDAH2 ( sh-DDAH2#1 and sh-DDAH2#2 ) and their respective negative control ( sh-NC ) were designed and synthesized by GenePharma ( Shanghai , China) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The specific short hairpin RNA ( shRNAs ) targeting KLF9 ( sh-KLF9-1 and sh-KLF9-2 ) and DDAH2 ( sh-DDAH2#1 and sh-DDAH2#2 ) and their respective negative control ( sh-NC ) were designed and synthesized by GenePharma ( Shanghai , China) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GenePharma"
+                }],
+              "neText" : "GenePharma"
+            }]
+        }, {
+          "sentence" : "Bioinformatics analysis The shared binding sites between KLF9 and DDAH2 were analyzed using JASPAR ( http://jaspar.genereg.net ) and their correlation was predicted by GEPIA ( http://gepia.cancer-pku.cn ) database.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bioinformatics analysis The shared binding sites between KLF9 and DDAH2 were analyzed using JASPAR ( http://jaspar.genereg.net ) and their correlation was predicted by GEPIA ( http://gepia.cancer-pku.cn ) database."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "JASPAR (RRID:SCR_003030)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "JASPAR"
+                }],
+              "neText" : "JASPAR"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "http://jaspar.genereg.net"
+                }],
+              "neText" : "http://jaspar.genereg.net"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Data were analyzed by Graphpad prism 6.0 (GraphPad Software, La Jolla, CA, USA) and expressed as mean ± SD.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Data were analyzed by Graphpad prism 6.0 (GraphPad Software, La Jolla, CA, USA) and expressed as mean ± SD."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Graphpad"
+                }],
+              "neText" : "Graphpad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was approved by our ethics committee, and all patients had signed informed consent.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by our ethics committee, and all patients had signed informed consent."
+              }]
+          }, {
+            "sentence" : "The study was approved by our ethics committee, and all patients had signed informed consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by our ethics committee, and all patients had signed informed consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "All subjects with a history of other complications were excluded from this study.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All subjects with a history of other complications were excluded from this study."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Placenta tissues were obtained from 5 pregnant women with normal pregnancy (Control group) and another five patients with GDM (GDM group).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Placenta tissues were obtained from 5 pregnant women with normal pregnancy (Control group) and another five patients with GDM (GDM group)."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and methods Patients and placenta tissue preparation Human placenta tissues were obtained from 36–42-week pregnant women from Huai’an Maternal and Child Health Hospital, from 2018.01 to 2019.12.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Patients and placenta tissue preparation Human placenta tissues were obtained from 36–42-week pregnant women from Huai’an Maternal and Child Health Hospital, from 2018.01 to 2019.12."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Materials and methods Patients and placenta tissue preparation Human placenta tissues were obtained from 36–42-week pregnant women from Huai’an Maternal and Child Health Hospital, from 2018.01 to 2019.12.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and methods Patients and placenta tissue preparation Human placenta tissues were obtained from 36–42-week pregnant women from Huai’an Maternal and Child Health Hospital, from 2018.01 to 2019.12."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "Mice were randomly divided into two groups: mice in the Control group were given the normal diet and mice in the GDM group were received high-sugar and high-saturated fat combined diet.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice were randomly divided into two groups: mice in the Control group were given the normal diet and mice in the GDM group were received high-sugar and high-saturated fat combined diet."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "All qPCRs were carried out in triplicate for each sample and GAPDH was used as endogenous control .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All qPCRs were carried out in triplicate for each sample and GAPDH was used as endogenous control ."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "All qPCRs were carried out in triplicate for each sample and GAPDH was used as endogenous control .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All qPCRs were carried out in triplicate for each sample and GAPDH was used as endogenous control ."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "One-way analysis of variance followed by Tukey’s test was used to analyze the differences. p < 0.05 was considered as statistically significant.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way analysis of variance followed by Tukey’s test was used to analyze the differences. p < 0.05 was considered as statistically significant."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey’s test"
+                  }],
+                "neText" : "Tukey’s test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Primers are as follows: KLF9: forward 5\u02b9-TACATGGACTTCGTGGCTGC- 3\u02b9 , reverse 5\u02b9-AGGGCCGTTCACCTGTATGC- 3\u02b9 .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Primers are as follows: KLF9: forward 5\u02b9-TACATGGACTTCGTGGCTGC- 3\u02b9 , reverse 5\u02b9-AGGGCCGTTCACCTGTATGC- 3\u02b9 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-TACATGGACTTCGTGGCTGC- 3\u02b9"
+                  }],
+                "neText" : "5\u02b9-TACATGGACTTCGTGGCTGC- 3\u02b9"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-AGGGCCGTTCACCTGTATGC- 3\u02b9"
+                  }],
+                "neText" : "5\u02b9-AGGGCCGTTCACCTGTATGC- 3\u02b9"
+              }]
+          }, {
+            "sentence" : "DDAH2: forward 5\u02b9-GCAACGACTAGGTCTGCAGCT TC-3\u02b9 , reverse 5\u02b9-GGTACCGTAGAGACAGCGAAG TC-3\u02b9 .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "DDAH2: forward 5\u02b9-GCAACGACTAGGTCTGCAGCT TC-3\u02b9 , reverse 5\u02b9-GGTACCGTAGAGACAGCGAAG TC-3\u02b9 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-GCAACGACTAGGTCTGCAGCT TC-3\u02b9"
+                  }],
+                "neText" : "5\u02b9-GCAACGACTAGGTCTGCAGCT TC-3\u02b9"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-GGTACCGTAGAGACAGCGAAG TC-3\u02b9"
+                  }],
+                "neText" : "5\u02b9-GGTACCGTAGAGACAGCGAAG TC-3\u02b9"
+              }]
+          }, {
+            "sentence" : "GAPDH: forward 5\u02b9-GTCTTCACTACCATGGAGAAG -3\u02b9 , reverse 5\u02b9-TCATGGATGACCTTGGCCAG- 3\u02b9 .",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "GAPDH: forward 5\u02b9-GTCTTCACTACCATGGAGAAG -3\u02b9 , reverse 5\u02b9-TCATGGATGACCTTGGCCAG- 3\u02b9 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-GTCTTCACTACCATGGAGAAG -3\u02b9"
+                  }],
+                "neText" : "5\u02b9-GTCTTCACTACCATGGAGAAG -3\u02b9"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5\u02b9-TCATGGATGACCTTGGCCAG- 3\u02b9"
+                  }],
+                "neText" : "5\u02b9-TCATGGATGACCTTGGCCAG- 3\u02b9"
+              }]
+          }]
+      }]
+  }
+}

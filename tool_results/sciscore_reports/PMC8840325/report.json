@@ -1,0 +1,158 @@
+{
+  "docIdentifier" : "PMC8840325",
+  "sciscore" : 4,
+  "sections" : [],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "To alleviate artifacts caused by head motion, subjects with mean frame-to-frame displacement > 0.1 mm or maximum frame-to-frame displacement > 0.15 mm were excluded.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "To alleviate artifacts caused by head motion, subjects with mean frame-to-frame displacement > 0.1 mm or maximum frame-to-frame displacement > 0.15 mm were excluded."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "The resulting dataset contains 493 subjects (266 females, age = 22–36+, subject IDs listed in supplementary material).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The resulting dataset contains 493 subjects (266 females, age = 22–36+, subject IDs listed in supplementary material)."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "A permutation test was performed by randomly shuffling the task labels of the scans before building the gradient-boosting classifier and evaluating the predictive power in the same way as described above.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "A permutation test was performed by randomly shuffling the task labels of the scans before building the gradient-boosting classifier and evaluating the predictive power in the same way as described above."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "The accuracies range between 0% and 100% and higher accuracy indicates stronger predictive power.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The accuracies range between 0% and 100% and higher accuracy indicates stronger predictive power."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical test comparing homogeneity distributions For each node, the distributions of homogeneity across subjects under different states (tasks) are compared using paired t-test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical test comparing homogeneity distributions For each node, the distributions of homogeneity across subjects under different states (tasks) are compared using paired t-test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }, {
+            "sentence" : "The distributions of mean homogeneity across subjects and states for different fixed atlases (Shen 268, Shen 368, and Yeo 1041) are compared using F test because the numbers of nodes are different for different parcellations.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The distributions of mean homogeneity across subjects and states for different fixed atlases (Shen 268, Shen 368, and Yeo 1041) are compared using F test because the numbers of nodes are different for different parcellations."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "F test"
+                  }],
+                "neText" : "F test"
+              }]
+          }, {
+            "sentence" : "Here the similarity between vectors was evaluated by Pearson correlation.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Here the similarity between vectors was evaluated by Pearson correlation."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }]
+      }]
+  }
+}

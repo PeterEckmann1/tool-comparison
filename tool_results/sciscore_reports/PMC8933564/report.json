@@ -1,0 +1,255 @@
+{
+  "docIdentifier" : "PMC8933564",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2.3 Imaging data analyses Data processing and analyses were performed using Matlab R2018b (The Mathworks inc, Natick,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.3 Imaging data analyses Data processing and analyses were performed using Matlab R2018b (The Mathworks inc, Natick,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MATLAB (RRID:SCR_001622)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Matlab"
+                }],
+              "neText" : "Matlab"
+            }]
+        }, {
+          "sentence" : "Massachusetts) , SPM12 ( Wellcome Trust Centre for Neuroimaging , London , UK ) and CONN functional connectivity toolbox v16b ( http:www.nitrc.orgprojectsconn ) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Massachusetts) , SPM12 ( Wellcome Trust Centre for Neuroimaging , London , UK ) and CONN functional connectivity toolbox v16b ( http:www.nitrc.orgprojectsconn ) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Functional Connectivity Toolbox (RRID:SCR_006394)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "functional connectivity toolbox"
+                }],
+              "neText" : "functional connectivity toolbox"
+            }]
+        }, {
+          "sentence" : "2.4 Analyses of demographic and clinical factors Statistical analyses were performed using SPSS software version 21",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2.4 Analyses of demographic and clinical factors Statistical analyses were performed using SPSS software version 21"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The research protocol was approved by the Western Sydney Local Health District Human Research Ethics Committee and all participants provided written consent.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The research protocol was approved by the Western Sydney Local Health District Human Research Ethics Committee and all participants provided written consent."
+              }]
+          }, {
+            "sentence" : "The research protocol was approved by the Western Sydney Local Health District Human Research Ethics Committee and all participants provided written consent.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The research protocol was approved by the Western Sydney Local Health District Human Research Ethics Committee and all participants provided written consent."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Exclusion criteria included a) inability to provide consent, b) insufficient English proficiency, c) current primary diagnosis of eating disorder, psychosis, personality disorder or primary post-traumatic stress disorder, d) substance dependence for the past 3 months, e) pregnancy, f) history or current neurological disorder or prior brain injury, g) ECT or TMS in the last 6 months, h) contraindication to MRI.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Exclusion criteria included a) inability to provide consent, b) insufficient English proficiency, c) current primary diagnosis of eating disorder, psychosis, personality disorder or primary post-traumatic stress disorder, d) substance dependence for the past 3 months, e) pregnancy, f) history or current neurological disorder or prior brain injury, g) ECT or TMS in the last 6 months, h) contraindication to MRI."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Four TRD participant datasets were excluded for excessive head motion during the scan .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Four TRD participant datasets were excluded for excessive head motion during the scan ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "All participants were aged between 18 and 65 years old.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants were aged between 18 and 65 years old."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The correlation coefficients were then used in subsequent second-level statistical analysis , and compared between the TRD , TSD , and HC groups through ANOVA tests of variance ( for three groups) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The correlation coefficients were then used in subsequent second-level statistical analysis , and compared between the TRD , TSD , and HC groups through ANOVA tests of variance ( for three groups) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }]
+          }, {
+            "sentence" : "All three groups were compared for age and gender (demographic variables), using a one-way ANOVA and chi square test, respectively.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All three groups were compared for age and gender (demographic variables), using a one-way ANOVA and chi square test, respectively."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi square test"
+                  }],
+                "neText" : "chi square test"
+              }]
+          }, {
+            "sentence" : "The TRD and TSD groups were compared for age of onset, age of first episode, depression severity (HAMD-17 score), functionality (SOFAS score), severity of worst depressive episode, number of previous depressive episodes, using student t-tests.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The TRD and TSD groups were compared for age of onset, age of first episode, depression severity (HAMD-17 score), functionality (SOFAS score), severity of worst depressive episode, number of previous depressive episodes, using student t-tests."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "student t-tests"
+                  }],
+                "neText" : "student t-tests"
+              }]
+          }, {
+            "sentence" : "The groups were also compared for history of hospitalizations, suicidal attempts and suicidal ideation, using chi square tests of independence.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The groups were also compared for history of hospitalizations, suicidal attempts and suicidal ideation, using chi square tests of independence."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi square tests"
+                  }],
+                "neText" : "chi square tests"
+              }]
+          }, {
+            "sentence" : "The effect of history of suicidal ideation, history of suicidal attempt, and ECT treatment in explaining the variance of the neural measures were also explored, using independent samples t-tests to compare differences in the FC measures between those with and without history of suicidal ideation, suicidal attempt and ECT treatment.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The effect of history of suicidal ideation, history of suicidal attempt, and ECT treatment in explaining the variance of the neural measures were also explored, using independent samples t-tests to compare differences in the FC measures between those with and without history of suicidal ideation, suicidal attempt and ECT treatment."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }]
+      }]
+  }
+}

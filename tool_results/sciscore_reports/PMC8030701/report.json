@@ -1,0 +1,255 @@
+{
+  "docIdentifier" : "PMC8030701",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Raw shotgun LC-MSMS data were searched with Proteome Discoverer ( PD ) ( version 2.2 , Thermo Scientific ) using the Mascot search engine ( version 2.6.1 ) against a UniProt Swiss-Prot database ( 17): Homo sapiens ( canonical and isoform ) ( December 2018 , 20,417 entries ) and filtered with a 1 false discovery rate ( FDR)",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Raw shotgun LC-MSMS data were searched with Proteome Discoverer ( PD ) ( version 2.2 , Thermo Scientific ) using the Mascot search engine ( version 2.6.1 ) against a UniProt Swiss-Prot database ( 17): Homo sapiens ( canonical and isoform ) ( December 2018 , 20,417 entries ) and filtered with a 1 false discovery rate ( FDR)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Proteome Discoverer, RRID:SCR_014477",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Proteome Discoverer"
+                }],
+              "neText" : "Proteome Discoverer"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Mascot (RRID:SCR_014322)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Mascot"
+                }],
+              "neText" : "Mascot"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "UniProt"
+                }],
+              "neText" : "UniProt"
+            }]
+        }, {
+          "sentence" : "Statistical analysis The statistical analysis and all figures were generated with R version 3.4.2, using ggplot2 (version 2.2.1).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis The statistical analysis and all figures were generated with R version 3.4.2, using ggplot2 (version 2.2.1)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ggplot2 (RRID:SCR_014601)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ggplot2"
+                }],
+              "neText" : "ggplot2"
+            }]
+        }, {
+          "sentence" : "Data and software availability The MS proteomics data have been deposited to the ProteomeXchange Consortium via the PRIDE (21) partner repository with the dataset identifier PXD014917 and 10.6019PXD014917.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Data and software availability The MS proteomics data have been deposited to the ProteomeXchange Consortium via the PRIDE (21) partner repository with the dataset identifier PXD014917 and 10.6019PXD014917."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Pride-asap (RRID:SCR_012052)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PRIDE"
+                }],
+              "neText" : "PRIDE"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Written informed consent was obtained prior to sample collection .",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Written informed consent was obtained prior to sample collection ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The mass spectrometer was operated in data-dependent acquisition mode and triplicate measurements were done in parallel using collision-induced dissociation ( CID) , HCD , and electron-transferhigher-energy collision dissociation ( EThcD ) for MSMS fragmentation .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mass spectrometer was operated in data-dependent acquisition mode and triplicate measurements were done in parallel using collision-induced dissociation ( CID) , HCD , and electron-transferhigher-energy collision dissociation ( EThcD ) for MSMS fragmentation ."
+              }],
+            "mention" : {
+              "neText" : "triplicate",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "triplicate"
+                }]
+            }
+          }, {
+            "sentence" : "The mass spectrometer was operated in data-dependent acquisition mode and triplicate measurements were done in parallel using collision-induced dissociation ( CID) , HCD , and electron-transferhigher-energy collision dissociation ( EThcD ) for MSMS fragmentation .",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mass spectrometer was operated in data-dependent acquisition mode and triplicate measurements were done in parallel using collision-induced dissociation ( CID) , HCD , and electron-transferhigher-energy collision dissociation ( EThcD ) for MSMS fragmentation ."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Data and software availability The MS proteomics data have been deposited to the ProteomeXchange Consortium via the PRIDE (21) partner repository with the dataset identifier PXD014917 and 10.6019PXD014917.",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data and software availability The MS proteomics data have been deposited to the ProteomeXchange Consortium via the PRIDE (21) partner repository with the dataset identifier PXD014917 and 10.6019PXD014917."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "deposited"
+                  }],
+                "neText" : "deposited"
+              }]
+          }, {
+            "sentence" : "Data and software availability The MS proteomics data have been deposited to the ProteomeXchange Consortium via the PRIDE (21) partner repository with the dataset identifier PXD014917 and 10.6019PXD014917.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data and software availability The MS proteomics data have been deposited to the ProteomeXchange Consortium via the PRIDE (21) partner repository with the dataset identifier PXD014917 and 10.6019PXD014917."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PXD014917"
+                  }],
+                "neText" : "PXD014917"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical tests included Pearson correlations and unsupervised hierarchical clustering.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical tests included Pearson correlations and unsupervised hierarchical clustering."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlations"
+                  }],
+                "neText" : "Pearson correlations"
+              }]
+          }]
+      }]
+  }
+}

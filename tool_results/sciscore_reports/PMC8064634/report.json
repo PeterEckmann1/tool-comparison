@@ -1,0 +1,292 @@
+{
+  "docIdentifier" : "PMC8064634",
+  "sciscore" : 3,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "Cell culture Human cervix epithelial (HeLa) cells were obtained from the RIKEN Cell Bank, which were cultured in DMEM supplemented with 10 heat-inactivated FBS and 1 penicillin-streptomycin.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Cell culture Human cervix epithelial (HeLa) cells were obtained from the RIKEN Cell Bank, which were cultured in DMEM supplemented with 10 heat-inactivated FBS and 1 penicillin-streptomycin."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0030",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa"
+                }],
+              "neText" : "HeLa"
+            }]
+        }, {
+          "sentence" : "The HeLa-V cell line was created by stable transfection of HeLa cells with firefly luciferase and Venus, which was cultured in DMEM supplemented with 10 FBS, 1 penicillin-streptomycin, and 0.8 Geneticin.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The HeLa-V cell line was created by stable transfection of HeLa cells with firefly luciferase and Venus, which was cultured in DMEM supplemented with 10 FBS, 1 penicillin-streptomycin, and 0.8 Geneticin."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa-V"
+                }],
+              "neText" : "HeLa-V"
+            }]
+        }, {
+          "sentence" : "HeLa229 cells were serum starved 16 hours before the experiment by replacing its growth media to DMEM only (serum free).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "HeLa229 cells were serum starved 16 hours before the experiment by replacing its growth media to DMEM only (serum free)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_1276",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa229"
+                }],
+              "neText" : "HeLa229"
+            }]
+        }, {
+          "sentence" : "Bioluminescence imaging of mice and tumor burden analysis As a method to monitor tumor formation and growth in living mice, HeLa-Luc cells were stably transfected with a firefly luciferase reporter gene.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Bioluminescence imaging of mice and tumor burden analysis As a method to monitor tumor formation and growth in living mice, HeLa-Luc cells were stably transfected with a firefly luciferase reporter gene."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "(RRID:CVCL_YA88)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HeLa-Luc"
+                }],
+              "neText" : "HeLa-Luc"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "The treatment group (condition 4) was set up as follows: 5-week-old BALBc-nunu mice (n = 7) were intraperitoneally injected first with HeLa-Luc cells (100,000 cells suspended in 100 ml of HBSS media), followed by an interval of 10 min, a second injection of GArM (3 nmol in 100 ml of 10:90 H2Osaline), another interval of 15 min, and a final injection of cRGD-PE (15 nmol in 100 ml of 5:95 H2Osaline).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The treatment group (condition 4) was set up as follows: 5-week-old BALBc-nunu mice (n = 7) were intraperitoneally injected first with HeLa-Luc cells (100,000 cells suspended in 100 ml of HBSS media), followed by an interval of 10 min, a second injection of GArM (3 nmol in 100 ml of 10:90 H2Osaline), another interval of 15 min, and a final injection of cRGD-PE (15 nmol in 100 ml of 5:95 H2Osaline)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BALBc-nunu"
+                }],
+              "neText" : "BALBc-nunu"
+            }]
+        }]
+    }, {
+      "sectionName" : "Recombinant DNA",
+      "srList" : [{
+          "sentence" : "For the HeLa-Luc stable cell line, a pCAG-Luciferase-IRES2-Puro plasmid vector was used, and puromycin selection (2 mgml) began 2 days after transfection.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For the HeLa-Luc stable cell line, a pCAG-Luciferase-IRES2-Puro plasmid vector was used, and puromycin selection (2 mgml) began 2 days after transfection."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCAG-Luciferase-IRES2-Puro"
+                }],
+              "neText" : "pCAG-Luciferase-IRES2-Puro"
+            }]
+        }, {
+          "sentence" : "For the HeLa-V stable cell line, a pCAG-Luciferase-IRES2-Venus plasmid vector was used, and Geneticin selection (400 mgml) began 2 days after transfection.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "For the HeLa-V stable cell line, a pCAG-Luciferase-IRES2-Venus plasmid vector was used, and Geneticin selection (400 mgml) began 2 days after transfection."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "pCAG-Luciferase-IRES2-Venus"
+                }],
+              "neText" : "pCAG-Luciferase-IRES2-Venus"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The mice were housed at the RIKEN Center for Life Science Technologies.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The mice were housed at the RIKEN Center for Life Science Technologies."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "RIKEN Center"
+                }],
+              "neText" : "RIKEN Center"
+            }]
+        }, {
+          "sentence" : "Various control groups were also used: condition 1 replaces both GArM and cRGD-PE with equivalent volumes of saline, condition 2 replaces cRGD-PE with an equivalent volume of saline, and condition 3 replaces GArM with an equivalent volume of saline.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Various control groups were also used: condition 1 replaces both GArM and cRGD-PE with equivalent volumes of saline, condition 2 replaces cRGD-PE with an equivalent volume of saline, and condition 3 replaces GArM with an equivalent volume of saline."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GArM"
+                }],
+              "neText" : "GArM"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "All procedures involving mouse experiments were approved by the ethics committee of RIKEN (MAH21-19-17) and performed in accordance with the institutional and national guidelines.",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All procedures involving mouse experiments were approved by the ethics committee of RIKEN (MAH21-19-17) and performed in accordance with the institutional and national guidelines."
+              }]
+          }, {
+            "sentence" : "Following an interval of 10 min, mice were then anesthetized with pentobarbital or isoflurane and placed onto an IVIS kinetic fluorescence imager (Caliper Life Sciences, USA).",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Following an interval of 10 min, mice were then anesthetized with pentobarbital or isoflurane and placed onto an IVIS kinetic fluorescence imager (Caliper Life Sciences, USA)."
+              }]
+          }, {
+            "sentence" : "Abdominal (anterior) images of the mouse specimens were then collected as described.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Abdominal (anterior) images of the mouse specimens were then collected as described."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "This solution was then intraperitoneally injected into 5-week-old BALBc-nunu mice (n = 8).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "This solution was then intraperitoneally injected into 5-week-old BALBc-nunu mice (n = 8)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

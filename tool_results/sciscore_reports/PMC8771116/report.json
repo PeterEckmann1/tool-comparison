@@ -1,0 +1,554 @@
+{
+  "docIdentifier" : "PMC8771116",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Table 1 List of antibodies used in this study Antibody Source Catalog number Species RRID Dilution Incubation time Temperature Ki67 Abcam , Cambridge , MA , USA ab16667 Rabbit AB_302459 1:500 Overnight 4degC p16 Signalway Antibody , College Park , MD , USA 32050 Rabbit 1:200 Overnight 4degC CD68 Abcam , Cambridge , MA , USA",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Table 1 List of antibodies used in this study Antibody Source Catalog number Species RRID Dilution Incubation time Temperature Ki67 Abcam , Cambridge , MA , USA ab16667 Rabbit AB_302459 1:500 Overnight 4degC p16 Signalway Antibody , College Park , MD , USA 32050 Rabbit 1:200 Overnight 4degC CD68 Abcam , Cambridge , MA , USA"
+            }],
+          "mentions" : [{
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab16667, RRID:AB_302459)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Ki67"
+                }],
+              "neText" : "Ki67"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "p16"
+                }],
+              "neText" : "p16"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CD68"
+                }],
+              "neText" : "CD68"
+            }]
+        }, {
+          "sentence" : "ab31630 Mouse AB_1141557 1:100 Overnight 4degC P4HB Abcam , Cambridge , MA , USA",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ab31630 Mouse AB_1141557 1:100 Overnight 4degC P4HB Abcam , Cambridge , MA , USA"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(Abcam Cat# ab31630, RRID:AB_1141557)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }]
+        }, {
+          "sentence" : "ab2792 Mouse AB_303304 1:100 Overnight 4degC S100b MilliporeSigma , St Louis , MO , USA S2532 Mouse AB_477499 1:400 Overnight 4degC Cy3 goat anti-rabbit IgG ( H+L ) Proteintech Group , Rosemont , IL , USA SA00009-2 Goat AB_2890957 1:400 2 h Room temperature Alexa Fluor 488 goat anti-mouse IgG ( H+L ) Abcam , Cambridge , MA , USA ab150117 Goat AB_2688012 1:400 2 h Room temperature P4HB: Prolyl 4-hydroxylase subunit beta .",
+          "rowSpan" : 4,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ab2792 Mouse AB_303304 1:100 Overnight 4degC S100b MilliporeSigma , St Louis , MO , USA S2532 Mouse AB_477499 1:400 Overnight 4degC Cy3 goat anti-rabbit IgG ( H+L ) Proteintech Group , Rosemont , IL , USA SA00009-2 Goat AB_2890957 1:400 2 h Room temperature Alexa Fluor 488 goat anti-mouse IgG ( H+L ) Abcam , Cambridge , MA , USA ab150117 Goat AB_2688012 1:400 2 h Room temperature P4HB: Prolyl 4-hydroxylase subunit beta ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : "(Abcam Cat# ab2792, RRID:AB_303304)",
+              "err" : "",
+              "ne" : [],
+              "neText" : ""
+            }, {
+              "source" : "Sigma-Aldrich",
+              "rrid" : "(Sigma-Aldrich Cat# S2532, RRID:AB_477499)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "USA Mouse"
+                }],
+              "neText" : "USA Mouse"
+            }, {
+              "source" : "Proteintech",
+              "rrid" : "(Proteintech Cat# SA00009-2, RRID:AB_2890957)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cy3 goat anti-rabbit IgG"
+                }],
+              "neText" : "Cy3 goat anti-rabbit IgG"
+            }, {
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab150117, RRID:AB_2688012)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Alexa Fluor goat anti-mouse"
+                }],
+              "neText" : "Alexa Fluor goat anti-mouse"
+            }]
+        }, {
+          "sentence" : "Collected tissue sections were exposed to rabbit anti-S100b ( primary antibody , 1:400 Cat ab52642 , RRID AB_882426 , Abcam , Cambridge , MA , USA ) overnight at 4degC and Cy3 goat anti-rabbit IgG ( H+L ) ( secondary antibody , 1:400 Cat SA00009-2 , RRID AB_2890957 , Proteintech Group , Rosemont , IL , USA ) for 2 hours at room temperature.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Collected tissue sections were exposed to rabbit anti-S100b ( primary antibody , 1:400 Cat ab52642 , RRID AB_882426 , Abcam , Cambridge , MA , USA ) overnight at 4degC and Cy3 goat anti-rabbit IgG ( H+L ) ( secondary antibody , 1:400 Cat SA00009-2 , RRID AB_2890957 , Proteintech Group , Rosemont , IL , USA ) for 2 hours at room temperature."
+            }],
+          "mentions" : [{
+              "source" : "Abcam",
+              "rrid" : "(Abcam Cat# ab52642, RRID:AB_882426)",
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-S100b ("
+                }],
+              "neText" : "anti-S100b ("
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-rabbit IgG"
+                }],
+              "neText" : "anti-rabbit IgG"
+            }]
+        }]
+    }, {
+      "sectionName" : "Experimental Models: Organisms/Strains",
+      "srList" : [{
+          "sentence" : "Materials and Methods Bioinformatic analysis High-throughput data of RNA in male Sprague-Dawley rat sciatic nerve stumps (0, 1, 4, 7, and 14 days post-injury) and L4-5 dorsal root ganglia (0, 3, 9 hours, 1, 4, and 7 days post-injury) were preserved in the National Center for Biotechnology Information with accession numbers SRP113121 (Zhao and Yi, 2019) and SRP200823 (Shen et al., 2020),",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and Methods Bioinformatic analysis High-throughput data of RNA in male Sprague-Dawley rat sciatic nerve stumps (0, 1, 4, 7, and 14 days post-injury) and L4-5 dorsal root ganglia (0, 3, 9 hours, 1, 4, and 7 days post-injury) were preserved in the National Center for Biotechnology Information with accession numbers SRP113121 (Zhao and Yi, 2019) and SRP200823 (Shen et al., 2020),"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:RGD_70508",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sprague-Dawley"
+                }],
+              "neText" : "Sprague-Dawley"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "KEGG ) database ( map04218",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "KEGG ) database ( map04218"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "The b-galactosidase-positive staining area was measured using ImageJ software ( version 1.48 National Institutes of Health , Bethesda , MD , USA)",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The b-galactosidase-positive staining area was measured using ImageJ software ( version 1.48 National Institutes of Health , Bethesda , MD , USA)"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ImageJ, RRID:SCR_003070",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ImageJ"
+                }],
+              "neText" : "ImageJ"
+            }]
+        }, {
+          "sentence" : "One-way analysis of variance with Dunnetts multiple comparisons post hoc test was performed to compare the differences among injured nerve stumps and the uninjured control (day 0) group using GraphPad Prism 6.0 (GraphPad Software, San Diego, CA, USA).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "One-way analysis of variance with Dunnetts multiple comparisons post hoc test was performed to compare the differences among injured nerve stumps and the uninjured control (day 0) group using GraphPad Prism 6.0 (GraphPad Software, San Diego, CA, USA)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Surgery was approved by the Animal Ethics Committee of Nantong University , China ( approval No. 20190226-001 ) on February 26 , 2019 .",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Surgery was approved by the Animal Ethics Committee of Nantong University , China ( approval No. 20190226-001 ) on February 26 , 2019 ."
+              }]
+          }, {
+            "sentence" : ", Darmstadt , Germany) , including 42 mgkg magnesium sulfate , 85 mgkg trichloroacetaldehyde monohydrate , and 17 mgkg sodium pentobarbital , rat sciatic nerves were crushed using forceps ( Beaver-Visitec International , Inc . , Waltham , MA , USA ) ( three times , 10 secondstime) .",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : ", Darmstadt , Germany) , including 42 mgkg magnesium sulfate , 85 mgkg trichloroacetaldehyde monohydrate , and 17 mgkg sodium pentobarbital , rat sciatic nerves were crushed using forceps ( Beaver-Visitec International , Inc . , Waltham , MA , USA ) ( three times , 10 secondstime) ."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Materials and Methods Bioinformatic analysis High-throughput data of RNA in male Sprague-Dawley rat sciatic nerve stumps (0, 1, 4, 7, and 14 days post-injury) and L4-5 dorsal root ganglia (0, 3, 9 hours, 1, 4, and 7 days post-injury) were preserved in the National Center for Biotechnology Information with accession numbers SRP113121 (Zhao and Yi, 2019) and SRP200823 (Shen et al., 2020),",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Bioinformatic analysis High-throughput data of RNA in male Sprague-Dawley rat sciatic nerve stumps (0, 1, 4, 7, and 14 days post-injury) and L4-5 dorsal root ganglia (0, 3, 9 hours, 1, 4, and 7 days post-injury) were preserved in the National Center for Biotechnology Information with accession numbers SRP113121 (Zhao and Yi, 2019) and SRP200823 (Shen et al., 2020),"
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Animal surgery and tissue collection A total of 15 clean rats ( male , around 8 weeks , 180-220 g ) were obtained from Nantong University Experimental Animal Center ( animal license Nos .",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animal surgery and tissue collection A total of 15 clean rats ( male , around 8 weeks , 180-220 g ) were obtained from Nantong University Experimental Animal Center ( animal license Nos ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "The 15 rats were randomly divided into five groups ( designated as 0 , 1 , 4 , 7 , and 14 days n = 3 rats in each group) .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The 15 rats were randomly divided into five groups ( designated as 0 , 1 , 4 , 7 , and 14 days n = 3 rats in each group) ."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Data were summarized from three independent experiments and are presented as the mean +- standard error of the mean (SEM).",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Data were summarized from three independent experiments and are presented as the mean +- standard error of the mean (SEM)."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Materials and Methods Bioinformatic analysis High-throughput data of RNA in male Sprague-Dawley rat sciatic nerve stumps (0, 1, 4, 7, and 14 days post-injury) and L4-5 dorsal root ganglia (0, 3, 9 hours, 1, 4, and 7 days post-injury) were preserved in the National Center for Biotechnology Information with accession numbers SRP113121 (Zhao and Yi, 2019) and SRP200823 (Shen et al., 2020),",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Materials and Methods Bioinformatic analysis High-throughput data of RNA in male Sprague-Dawley rat sciatic nerve stumps (0, 1, 4, 7, and 14 days post-injury) and L4-5 dorsal root ganglia (0, 3, 9 hours, 1, 4, and 7 days post-injury) were preserved in the National Center for Biotechnology Information with accession numbers SRP113121 (Zhao and Yi, 2019) and SRP200823 (Shen et al., 2020),"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "SRP113121"
+                  }],
+                "neText" : "SRP113121"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "SRP200823"
+                  }],
+                "neText" : "SRP200823"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "One-way analysis of variance with Dunnetts multiple comparisons post hoc test was performed to compare the differences among injured nerve stumps and the uninjured control (day 0) group using GraphPad Prism 6.0 (GraphPad Software, San Diego, CA, USA).",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "One-way analysis of variance with Dunnetts multiple comparisons post hoc test was performed to compare the differences among injured nerve stumps and the uninjured control (day 0) group using GraphPad Prism 6.0 (GraphPad Software, San Diego, CA, USA)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Dunnetts multiple comparisons post hoc test"
+                  }],
+                "neText" : "Dunnetts multiple comparisons post hoc test"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "Table 2 List of primer sequences used in this study Full name Abbreviation Forward Revers Cyclin dependent kinase inhibitor 1A Cdkn1a 5-GGT GAT GTC CGA CCT GTT CC-3 5-ACG CTC CCA GAC GTA GTT GC-3 Cyclin dependent kinase inhibitor 2A Cdkn2a 5-AAC ACT TTC GGT CGT ACC CC-3 5-CCC AGC GGA GGA GAG TAG AT-3 ATM serinethreonine kinase Atm 5-AGG TGT GTA ATG AAG CAG GTC T-3 5-GAA CCG CGC TAA TGA GAG GA-3 Cyclin dependent kinase 1 Cdk1 5-AGG ACT CCA GGC TGT ATC TCA T-3 5-TAT CGG TAT TCC AAA CGC TCT-3 Minichromosome maintenance complex component 5 Mcm5 5-TGA GAC AAA AGG GGA GGA CA-3 5-GCT CGG CAG TAA GCA ATG AA-3 Cyclin F Ccnf 5-CAC TGG GTT CTC CTA CAG CG-3 5-TCT CTC GCT TCC GTT TGC TT-3 Dihydrofolate reductase Dhfr 5-GCA AGA ACG GAG ACT TAC CCT-3 5-GTT TTC CTA CCC ATA ATC ACC AG-3 TIMP metallopeptidase inhibitor 1 Timp1 5-CCT CTG GCA TCC TCT TGT TG-3 5-CGT",
+            "rowSpan" : 15,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 2 List of primer sequences used in this study Full name Abbreviation Forward Revers Cyclin dependent kinase inhibitor 1A Cdkn1a 5-GGT GAT GTC CGA CCT GTT CC-3 5-ACG CTC CCA GAC GTA GTT GC-3 Cyclin dependent kinase inhibitor 2A Cdkn2a 5-AAC ACT TTC GGT CGT ACC CC-3 5-CCC AGC GGA GGA GAG TAG AT-3 ATM serinethreonine kinase Atm 5-AGG TGT GTA ATG AAG CAG GTC T-3 5-GAA CCG CGC TAA TGA GAG GA-3 Cyclin dependent kinase 1 Cdk1 5-AGG ACT CCA GGC TGT ATC TCA T-3 5-TAT CGG TAT TCC AAA CGC TCT-3 Minichromosome maintenance complex component 5 Mcm5 5-TGA GAC AAA AGG GGA GGA CA-3 5-GCT CGG CAG TAA GCA ATG AA-3 Cyclin F Ccnf 5-CAC TGG GTT CTC CTA CAG CG-3 5-TCT CTC GCT TCC GTT TGC TT-3 Dihydrofolate reductase Dhfr 5-GCA AGA ACG GAG ACT TAC CCT-3 5-GTT TTC CTA CCC ATA ATC ACC AG-3 TIMP metallopeptidase inhibitor 1 Timp1 5-CCT CTG GCA TCC TCT TGT TG-3 5-CGT"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GGT GAT GTC CGA CCT GTT CC-3 5-ACG CTC CCA GAC GTA GTT GC-3"
+                  }],
+                "neText" : "5-GGT GAT GTC CGA CCT GTT CC-3 5-ACG CTC CCA GAC GTA GTT GC-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ACG"
+                  }],
+                "neText" : "5-ACG"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-AAC ACT TTC GGT CGT ACC CC-3 5-CCC AGC GGA GGA GAG TAG AT-3"
+                  }],
+                "neText" : "5-AAC ACT TTC GGT CGT ACC CC-3 5-CCC AGC GGA GGA GAG TAG AT-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CCC"
+                  }],
+                "neText" : "5-CCC"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-AGG TGT GTA ATG AAG CAG GTC T-3 5-GAA CCG CGC TAA TGA GAG GA-3"
+                  }],
+                "neText" : "5-AGG TGT GTA ATG AAG CAG GTC T-3 5-GAA CCG CGC TAA TGA GAG GA-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GAA"
+                  }],
+                "neText" : "5-GAA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-AGG ACT CCA GGC TGT ATC TCA T-3 5-TAT CGG TAT TCC AAA CGC TCT-3"
+                  }],
+                "neText" : "5-AGG ACT CCA GGC TGT ATC TCA T-3 5-TAT CGG TAT TCC AAA CGC TCT-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TAT"
+                  }],
+                "neText" : "5-TAT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TGA GAC AAA AGG GGA GGA CA-3 5-GCT CGG CAG TAA GCA ATG AA-3"
+                  }],
+                "neText" : "5-TGA GAC AAA AGG GGA GGA CA-3 5-GCT CGG CAG TAA GCA ATG AA-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GCT"
+                  }],
+                "neText" : "5-GCT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CAC TGG GTT CTC CTA CAG CG-3 5-TCT CTC GCT TCC GTT TGC TT-3"
+                  }],
+                "neText" : "5-CAC TGG GTT CTC CTA CAG CG-3 5-TCT CTC GCT TCC GTT TGC TT-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-TCT"
+                  }],
+                "neText" : "5-TCT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GCA AGA ACG GAG ACT TAC CCT-3 5-GTT TTC CTA CCC ATA ATC ACC AG-3"
+                  }],
+                "neText" : "5-GCA AGA ACG GAG ACT TAC CCT-3 5-GTT TTC CTA CCC ATA ATC ACC AG-3"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-GTT"
+                  }],
+                "neText" : "5-GTT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-CCT CTG GCA TCC TCT TGT TG-3"
+                  }],
+                "neText" : "5-CCT CTG GCA TCC TCT TGT TG-3"
+              }]
+          }, {
+            "sentence" : "Glyceraldehyde-3-phosphate dehydrogenase Gapdh 5-ACA GCA ACA GGG TGG TGG AC-3",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Glyceraldehyde-3-phosphate dehydrogenase Gapdh 5-ACA GCA ACA GGG TGG TGG AC-3"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "5-ACA GCA ACA GGG TGG TGG AC-3"
+                  }],
+                "neText" : "5-ACA GCA ACA GGG TGG TGG AC-3"
+              }]
+          }]
+      }, {
+        "sectionName" : "Unresolved RRIDs",
+        "srList" : [{
+            "sentence" : "Table 1 List of antibodies used in this study Antibody Source Catalog number Species RRID Dilution Incubation time Temperature Ki67 Abcam , Cambridge , MA , USA ab16667 Rabbit AB_302459 1:500 Overnight 4degC p16 Signalway Antibody , College Park , MD , USA 32050 Rabbit 1:200 Overnight 4degC CD68 Abcam , Cambridge , MA , USA",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Table 1 List of antibodies used in this study Antibody Source Catalog number Species RRID Dilution Incubation time Temperature Ki67 Abcam , Cambridge , MA , USA ab16667 Rabbit AB_302459 1:500 Overnight 4degC p16 Signalway Antibody , College Park , MD , USA 32050 Rabbit 1:200 Overnight 4degC CD68 Abcam , Cambridge , MA , USA"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "unresolved" : null,
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "RRID Dilution"
+                  }],
+                "neText" : "RRID Dilution"
+              }]
+          }]
+      }]
+  }
+}

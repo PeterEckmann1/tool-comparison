@@ -1,0 +1,413 @@
+{
+  "docIdentifier" : "PMC8684454",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "DNA sequence analysis was performed using mothur version 1.40.5 ( Schloss et al. 2009) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "DNA sequence analysis was performed using mothur version 1.40.5 ( Schloss et al. 2009) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "mothur (RRID:SCR_011947)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "mothur"
+                }],
+              "neText" : "mothur"
+            }]
+        }, {
+          "sentence" : "Subsequent analyses of the microbial composition of the water droplet communities were performed with the R package phyloseq version 1.24.2 ( McMurdie and Holmes 2013) .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Subsequent analyses of the microbial composition of the water droplet communities were performed with the R package phyloseq version 1.24.2 ( McMurdie and Holmes 2013) ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "phyloseq (RRID:SCR_013080)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "phyloseq"
+                }],
+              "neText" : "phyloseq"
+            }]
+        }, {
+          "sentence" : "Reclassification with BLAST NCBI ( NCBI Resource Coordinators 2016 ) of 286 previously unclassified OTUs assigned most OTUs to Dehalococcoidia and the candidate phyla Atribacteria and Parcubacteria .",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Reclassification with BLAST NCBI ( NCBI Resource Coordinators 2016 ) of 286 previously unclassified OTUs assigned most OTUs to Dehalococcoidia and the candidate phyla Atribacteria and Parcubacteria ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "WU-BLAST (RRID:SCR_011824)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "BLAST"
+                }],
+              "neText" : "BLAST"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "NCBI (RRID:SCR_006472)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NCBI"
+                }],
+              "neText" : "NCBI"
+            }]
+        }, {
+          "sentence" : "Raw sequences are available on the NCBI database in Bioproject PRJNA642708 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Raw sequences are available on the NCBI database in Bioproject PRJNA642708 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "NCBI BioProject (RRID:SCR_004801)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Bioproject"
+                }],
+              "neText" : "Bioproject"
+            }]
+        }, {
+          "sentence" : "Statistical analysis Statistical analyses were performed with vegan R package and a published R script (Torondel et al. 2016).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis Statistical analyses were performed with vegan R package and a published R script (Torondel et al. 2016)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "vegan (RRID:SCR_011950)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "vegan"
+                }],
+              "neText" : "vegan"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The oil was sampled with sterile, decapitated 50 mL syringes.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The oil was sampled with sterile, decapitated 50 mL syringes."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }, {
+            "sentence" : "not detected.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "The following program was used: 2 min at 50degC and 10 min at 96degC , followed by 40 cycles with 25 s at 96degC for denaturation and 6 min at 55degC for annealing and extension . qPCR was carried out in duplicates on a C1000 Touch Thermal Cycler ( CFX96 Real-Time System , Bio-Rad Laboratories GmbH)",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The following program was used: 2 min at 50degC and 10 min at 96degC , followed by 40 cycles with 25 s at 96degC for denaturation and 6 min at 55degC for annealing and extension . qPCR was carried out in duplicates on a C1000 Touch Thermal Cycler ( CFX96 Real-Time System , Bio-Rad Laboratories GmbH)"
+              }],
+            "mention" : {
+              "neText" : "duplicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "duplicates"
+                }]
+            }
+          }, {
+            "sentence" : "The following program was used: 2 min at 50degC and 10 min at 96degC , followed by 40 cycles with 25 s at 96degC for denaturation and 6 min at 55degC for annealing and extension . qPCR was carried out in duplicates on a C1000 Touch Thermal Cycler ( CFX96 Real-Time System , Bio-Rad Laboratories GmbH)",
+            "title" : "Number",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The following program was used: 2 min at 50degC and 10 min at 96degC , followed by 40 cycles with 25 s at 96degC for denaturation and 6 min at 55degC for annealing and extension . qPCR was carried out in duplicates on a C1000 Touch Thermal Cycler ( CFX96 Real-Time System , Bio-Rad Laboratories GmbH)"
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "Raw sequences are available on the NCBI database in Bioproject PRJNA642708 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "true",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Raw sequences are available on the NCBI database in Bioproject PRJNA642708 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "available"
+                  }],
+                "neText" : "available"
+              }]
+          }, {
+            "sentence" : "Raw sequences are available on the NCBI database in Bioproject PRJNA642708 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Raw sequences are available on the NCBI database in Bioproject PRJNA642708 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PRJNA642708"
+                  }],
+                "neText" : "PRJNA642708"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "We first tested whether ion concentrations differed between sampling sites by multivariate analysis of variance (MANOVA), followed by separate one-way analysis of variance (ANOVA) for each ion and by Tukey post-hoc tests (TukeyHSD) for pairwise comparisons of sampling sites.",
+            "rowSpan" : 5,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We first tested whether ion concentrations differed between sampling sites by multivariate analysis of variance (MANOVA), followed by separate one-way analysis of variance (ANOVA) for each ion and by Tukey post-hoc tests (TukeyHSD) for pairwise comparisons of sampling sites."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "multivariate analysis of variance"
+                  }],
+                "neText" : "multivariate analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "MANOVA"
+                  }],
+                "neText" : "MANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Tukey post-hoc tests"
+                  }],
+                "neText" : "Tukey post-hoc tests"
+              }]
+          }, {
+            "sentence" : "Permutational analysis of variance (PERMANOVA) was applied for testing if microbial communities were determined by the sampling location.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Permutational analysis of variance (PERMANOVA) was applied for testing if microbial communities were determined by the sampling location."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "PERMANOVA"
+                  }],
+                "neText" : "PERMANOVA"
+              }]
+          }, {
+            "sentence" : "The relationship between chloride or sulfate and the relative abundance of individual OTUs were tested using Spearmans rank correlation with Benjamini-Hochberg multiple testing correction.",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The relationship between chloride or sulfate and the relative abundance of individual OTUs were tested using Spearmans rank correlation with Benjamini-Hochberg multiple testing correction."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Spearmans rank correlation"
+                  }],
+                "neText" : "Spearmans rank correlation"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }]
+          }]
+      }, {
+        "sectionName" : "Oligonucleotides",
+        "srList" : [{
+            "sentence" : "We amplified the V3-V4 region of the 16S rRNA gene of both bacteria and archaea using forward primer Uni340F ( CCT ACG GGR BGC ASC AG)",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We amplified the V3-V4 region of the 16S rRNA gene of both bacteria and archaea using forward primer Uni340F ( CCT ACG GGR BGC ASC AG)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CCT ACG GGR BGC ASC AG"
+                  }],
+                "neText" : "CCT ACG GGR BGC ASC AG"
+              }]
+          }, {
+            "sentence" : ", reverse primer Uni806R ( GGA CTA CNN GGG TAT CTA AT ) and the FAM-TAMRA-labelled Probe Uni516F ( YCA GCM GCC GCG GTA AHA CVN RS)",
+            "rowSpan" : 2,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : ", reverse primer Uni806R ( GGA CTA CNN GGG TAT CTA AT ) and the FAM-TAMRA-labelled Probe Uni516F ( YCA GCM GCC GCG GTA AHA CVN RS)"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "GGA CTA CNN GGG TAT CTA AT"
+                  }],
+                "neText" : "GGA CTA CNN GGG TAT CTA AT"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "YCA GCM GCC GCG GTA AHA CVN RS"
+                  }],
+                "neText" : "YCA GCM GCC GCG GTA AHA CVN RS"
+              }]
+          }]
+      }]
+  }
+}

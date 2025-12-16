@@ -1,0 +1,145 @@
+{
+  "docIdentifier" : "PMC8804942",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "2 MATERIALS AND METHODS 2.1 Participants Data were obtained from the ADNI database (adni.loni.usc.edu).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "2 MATERIALS AND METHODS 2.1 Participants Data were obtained from the ADNI database (adni.loni.usc.edu)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "ADNI - Alzheimer's Disease Neuroimaging Initiative (RRID:SCR_003007)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ADNI"
+                }],
+              "neText" : "ADNI"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Informed consent was obtained from all participants.",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Informed consent was obtained from all participants."
+              }]
+          }, {
+            "sentence" : "Sample collection and processing have been described previously. 23 Cutoffs for biomarker positivity were: Ab+: Ab <977 pgmL p-tau+: p-tau >21.8 pgmL t-tau+: t-tau >270 pgmL (http:adni.loni.usc.edumethods). 24 , 25 There were 521 returnees with Ab, 518 with p-tau, and 519 with t-tau data.",
+            "title" : "Field Sample Permit",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sample collection and processing have been described previously. 23 Cutoffs for biomarker positivity were: Ab+: Ab <977 pgmL p-tau+: p-tau >21.8 pgmL t-tau+: t-tau >270 pgmL (http:adni.loni.usc.edumethods). 24 , 25 There were 521 returnees with Ab, 518 with p-tau, and 519 with t-tau data."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "21 Having found no external norms for the AVLT that were appropriate for this sample and accounted for age, sex, and education, the AVLT was z-scored based on ADNI participants who were CN at baseline (n = 889).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "21 Having found no external norms for the AVLT that were appropriate for this sample and accounted for age, sex, and education, the AVLT was z-scored based on ADNI participants who were CN at baseline (n = 889)."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Mean educational level of returnees was 16 years (standard deviation SD = 2.7), 47 were female, and mean baseline age was 74.9 years (SD = 6.8).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mean educational level of returnees was 16 years (standard deviation SD = 2.7), 47 were female, and mean baseline age was 74.9 years (SD = 6.8)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "Sample size estimates were determined across a range of drug effects (10 to 40 reduction in MCI diagnoses) with a = 0.05 and power = 0.80.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Sample size estimates were determined across a range of drug effects (10 to 40 reduction in MCI diagnoses) with a = 0.05 and power = 0.80."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "McNemar kh2 tests were used to compare differences in the proportion of individuals classified as having MCI before versus after adjusting for PEs, and to determine if PE-adjusted diagnoses changed the proportions of biomarker-positive MCI and CN participants.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "McNemar kh2 tests were used to compare differences in the proportion of individuals classified as having MCI before versus after adjusting for PEs, and to determine if PE-adjusted diagnoses changed the proportions of biomarker-positive MCI and CN participants."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "McNemar kh2 tests"
+                  }],
+                "neText" : "McNemar kh2 tests"
+              }]
+          }]
+      }]
+  }
+}

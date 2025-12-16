@@ -1,0 +1,164 @@
+{
+  "docIdentifier" : "PMC8984655",
+  "sciscore" : 6,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Statistical analysis GraphPad Prism was used to analyze tumor data and inflammatory markers (un-paired, two-tailed t-test).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis GraphPad Prism was used to analyze tumor data and inflammatory markers (un-paired, two-tailed t-test)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "GraphPad Prism, RRID:SCR_002798",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "GraphPad"
+                }],
+              "neText" : "GraphPad"
+            }]
+        }, {
+          "sentence" : "The raw microbiome sequencing data was processed by QIIME software version 1.8.0.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The raw microbiome sequencing data was processed by QIIME software version 1.8.0."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "QIIME (RRID:SCR_008249)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "QIIME"
+                }],
+              "neText" : "QIIME"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "MATERIALS AND METHODS Animal experiments All protocols were carried out in accordance with institutional guidelines for animal care dictated by the Medical College of Wisconsin Animal Care and Use Committee (protocol approval number AUA2430).",
+            "title" : "IACUC",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "MATERIALS AND METHODS Animal experiments All protocols were carried out in accordance with institutional guidelines for animal care dictated by the Medical College of Wisconsin Animal Care and Use Committee (protocol approval number AUA2430)."
+              }]
+          }, {
+            "sentence" : "Mice were euthanized by CO2 asphyxiation.",
+            "title" : "Euthanasia Agents",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Mice were euthanized by CO2 asphyxiation."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Finally, a table with 5,432 OTUs and 39 subjects was exported in biom data format.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Finally, a table with 5,432 OTUs and 39 subjects was exported in biom data format."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Four-to-six-week-old Apc Min/+ mice, both sexes, were fed either the control diet or a control diet supplemented with 5% BRBs, 500 ppm PCA, or 1,000 ppm PCA for 8 weeks.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Four-to-six-week-old Apc Min/+ mice, both sexes, were fed either the control diet or a control diet supplemented with 5% BRBs, 500 ppm PCA, or 1,000 ppm PCA for 8 weeks."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Eight-week-old breeding pairs of Apc Min/+ mice were purchased from the Jackson Laboratory (Bar Harbor, ME, USA).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Eight-week-old breeding pairs of Apc Min/+ mice were purchased from the Jackson Laboratory (Bar Harbor, ME, USA)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Statistical analysis GraphPad Prism was used to analyze tumor data and inflammatory markers (un-paired, two-tailed t-test).",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Statistical analysis GraphPad Prism was used to analyze tumor data and inflammatory markers (un-paired, two-tailed t-test)."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-test"
+                  }],
+                "neText" : "t-test"
+              }]
+          }]
+      }]
+  }
+}

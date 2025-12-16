@@ -1,0 +1,237 @@
+{
+  "docIdentifier" : "PMC8923632",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Antibodies",
+      "srList" : [{
+          "sentence" : "Washed blastocysts were exposed to rabbit anti-mouse antibody ( Sigma M5774; concentration 1:50 ) for 30 minutes at 37°C , then washed in calcium and magnesium-free PBS , and transferred into a solution containing: ( 1 ) guinea pig complement serum ( Sigma S1639; concentration 1:4) , ( 2 ) 10 μg/mL Hoechst 33342 ( Sigma H1399) , and ( 3 ) 20 μg/mL propidium iodide ( Sigma P4170 ) for 30 minutes at 37°C .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Washed blastocysts were exposed to rabbit anti-mouse antibody ( Sigma M5774; concentration 1:50 ) for 30 minutes at 37°C , then washed in calcium and magnesium-free PBS , and transferred into a solution containing: ( 1 ) guinea pig complement serum ( Sigma S1639; concentration 1:4) , ( 2 ) 10 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "g/mL Hoechst 33342 ( Sigma H1399) , and ( 3 ) 20 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "g/mL propidium iodide ( Sigma P4170 ) for 30 minutes at 37°C ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "anti-mouse"
+                }],
+              "neText" : "anti-mouse"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Washed blastocysts were exposed to rabbit anti-mouse antibody ( Sigma M5774; concentration 1:50 ) for 30 minutes at 37°C , then washed in calcium and magnesium-free PBS , and transferred into a solution containing: ( 1 ) guinea pig complement serum ( Sigma S1639; concentration 1:4) , ( 2 ) 10 μg/mL Hoechst 33342 ( Sigma H1399) , and ( 3 ) 20 μg/mL propidium iodide ( Sigma P4170 ) for 30 minutes at 37°C .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Washed blastocysts were exposed to rabbit anti-mouse antibody ( Sigma M5774; concentration 1:50 ) for 30 minutes at 37°C , then washed in calcium and magnesium-free PBS , and transferred into a solution containing: ( 1 ) guinea pig complement serum ( Sigma S1639; concentration 1:4) , ( 2 ) 10 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "g/mL Hoechst 33342 ( Sigma H1399) , and ( 3 ) 20 "
+            }, {
+              "f" : "symbol",
+              "c" : "μ"
+            }, {
+              "f" : "default",
+              "c" : "g/mL propidium iodide ( Sigma P4170 ) for 30 minutes at 37°C ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Sigma"
+                }],
+              "neText" : "Sigma"
+            }]
+        }, {
+          "sentence" : "Statistical analysis The statistical analysis was performed using SPSS ver .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical analysis The statistical analysis was performed using SPSS ver ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "Animals The Animal Ethics Committee of the Faculty of Medicine, Chiang Mai University approved the use of mice in our study (protocol No. 47/2020).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Animals The Animal Ethics Committee of the Faculty of Medicine, Chiang Mai University approved the use of mice in our study (protocol No. 47/2020)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "Male and female mice bred at the Institute of Cancer Research were obtained from the National Animal Institute, Mahidol University, Bangkok, Thailand.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Male and female mice bred at the Institute of Cancer Research were obtained from the National Animal Institute, Mahidol University, Bangkok, Thailand."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Collection of cumulus-oocyte complexes For superovulation, 5- to 9-week-old female mice were injected intraperitoneally (IP) with 10 units of pregnant mare’s serum gonadotropin (Sigma, St. Louis, MO, USA).",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Collection of cumulus-oocyte complexes For superovulation, 5- to 9-week-old female mice were injected intraperitoneally (IP) with 10 units of pregnant mare’s serum gonadotropin (Sigma, St. Louis, MO, USA)."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "The fertilization rates and blastocyst formation rates among the four experimental groups were compared using the chi-square test.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The fertilization rates and blastocyst formation rates among the four experimental groups were compared using the chi-square test."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "chi-square test"
+                  }],
+                "neText" : "chi-square test"
+              }]
+          }, {
+            "sentence" : "The mean numbers of ICM, TE, and total cells, as well as the ICM-to-TE ratio, were compared by one-way analysis of variance (ANOVA) when the data distribution was normal, or the Kruskal-Wallis test when normality could not be confirmed.",
+            "rowSpan" : 3,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The mean numbers of ICM, TE, and total cells, as well as the ICM-to-TE ratio, were compared by one-way analysis of variance (ANOVA) when the data distribution was normal, or the Kruskal-Wallis test when normality could not be confirmed."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "analysis of variance"
+                  }],
+                "neText" : "analysis of variance"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ANOVA"
+                  }],
+                "neText" : "ANOVA"
+              }, {
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Kruskal-Wallis test"
+                  }],
+                "neText" : "Kruskal-Wallis test"
+              }]
+          }]
+      }]
+  }
+}

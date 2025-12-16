@@ -1,0 +1,160 @@
+{
+  "docIdentifier" : "PMC8258298",
+  "sciscore" : 7,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Materials and Methods A database search of PubMed, ScienceDirect, Cochrane, and Clinicaltrials.gov was performed, including articles from December 2019 to December 2020, to review IFN-bs efficacy and safety in patients confirmed with SARS-CoV-2.",
+          "rowSpan" : 2,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Materials and Methods A database search of PubMed, ScienceDirect, Cochrane, and Clinicaltrials.gov was performed, including articles from December 2019 to December 2020, to review IFN-bs efficacy and safety in patients confirmed with SARS-CoV-2."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "PubMed (RRID:SCR_004846)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PubMed"
+                }],
+              "neText" : "PubMed"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "Cochrane Library (RRID:SCR_013000)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cochrane"
+                }],
+              "neText" : "Cochrane"
+            }]
+        }, {
+          "sentence" : "The MeSH terms COVID-19, Coronavirus, SARS-CoV-2, Interferon beta, beta interferon, Interferon-beta were used (Table 1).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The MeSH terms COVID-19, Coronavirus, SARS-CoV-2, Interferon beta, beta interferon, Interferon-beta were used (Table 1)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "MeSH (RRID:SCR_004750)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MeSH"
+                }],
+              "neText" : "MeSH"
+            }]
+        }, {
+          "sentence" : "The Cochrane Reviews were used to pass the following judgments: high risk, low risk, and unclear due to lack of information or any type of uncertainty 19.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Cochrane Reviews were used to pass the following judgments: high risk, low risk, and unclear due to lack of information or any type of uncertainty 19."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Cochrane Reviews"
+                }],
+              "neText" : "Cochrane Reviews"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "Articles were eligible following these criteria however , they may be excluded if appropriate information was not reported.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Articles were eligible following these criteria however , they may be excluded if appropriate information was not reported."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Prospective Non-Controlled Clinical Trial. 4 Hung IF , Lung , et al 2020 20 168 6 weeks 86 patients in the intervention group and 41 patients in the control group .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Prospective Non-Controlled Clinical Trial. 4 Hung IF , Lung , et al 2020 20 168 6 weeks 86 patients in the intervention group and 41 patients in the control group ."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "For example, patients with certain underlying conditions were excluded, pregnant and lactating mothers were also excluded all excluded minors below 18 years old.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "For example, patients with certain underlying conditions were excluded, pregnant and lactating mothers were also excluded all excluded minors below 18 years old."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Articles reporting COVID-19 confirmed patients ( age 18 years or older ) being treated with interferon were included in the analysis .",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Articles reporting COVID-19 confirmed patients ( age 18 years or older ) being treated with interferon were included in the analysis ."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "All randomized controlled trials , case-report , and experimental studies were included.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All randomized controlled trials , case-report , and experimental studies were included."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "Investigators were not blinded during searching and selecting information , so complete authors names were visible for them , subtracting the studys value.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Investigators were not blinded during searching and selecting information , so complete authors names were visible for them , subtracting the studys value."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  }
+}

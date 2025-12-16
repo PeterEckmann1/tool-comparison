@@ -1,0 +1,219 @@
+{
+  "docIdentifier" : "PMC8129714",
+  "sciscore" : 4,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : "First, raw data from CMap were downloaded from https:portals.broadinstitute.orgcmap and log-transformed fold changes (FCs) were computed for each of the 6100 signatures representing 1309 molecules profiled in 5 human cancer cell lines (MCF7, PC3, HL60, SKMEL5, and ssMCF7).",
+          "rowSpan" : 3,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "First, raw data from CMap were downloaded from https:portals.broadinstitute.orgcmap and log-transformed fold changes (FCs) were computed for each of the 6100 signatures representing 1309 molecules profiled in 5 human cancer cell lines (MCF7, PC3, HL60, SKMEL5, and ssMCF7)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0031",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "MCF7"
+                }],
+              "neText" : "MCF7"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PC3"
+                }],
+              "neText" : "PC3"
+            }, {
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "RRID:CVCL_0002",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "HL60"
+                }],
+              "neText" : "HL60"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Based on two different connectivity score metrics (KS and XSum) and two different ways to summarize across cell lines (CellSpecific and CellConsensus), this resulted in four distinct summary scores (i.e., KS-CellSpecific, KS-CellConsensus, XSum-CellSpecific, and XSum-CellConsensus) for each of the two databases, LINCS and CMap.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Based on two different connectivity score metrics (KS and XSum) and two different ways to summarize across cell lines (CellSpecific and CellConsensus), this resulted in four distinct summary scores (i.e., KS-CellSpecific, KS-CellConsensus, XSum-CellSpecific, and XSum-CellConsensus) for each of the two databases, LINCS and CMap."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "CMap (RRID:SCR_016204)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "CMap"
+                }],
+              "neText" : "CMap"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "We evaluated whether this validation set (call it C) was ranked more highly than a random selection of molecules of the same size.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "We evaluated whether this validation set (call it C) was ranked more highly than a random selection of molecules of the same size."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "Only signatures labeled as gold (indicating signal strength and consistency between replicates) were used, covering 13,000 unique molecules.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Only signatures labeled as gold (indicating signal strength and consistency between replicates) were used, covering 13,000 unique molecules."
+              }],
+            "mention" : {
+              "neText" : "replicates",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "replicates"
+                }]
+            }
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "2 One-sample, two-sided t-tests were then performed to evaluate whether AUC ratios were different from 1.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "2 One-sample, two-sided t-tests were then performed to evaluate whether AUC ratios were different from 1."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t-tests"
+                  }],
+                "neText" : "t-tests"
+              }]
+          }, {
+            "sentence" : "Benjamini-Hochberg 34 multiple hypothesis adjustment was applied to the results of each small molecule.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Benjamini-Hochberg 34 multiple hypothesis adjustment was applied to the results of each small molecule."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Benjamini-Hochberg"
+                  }],
+                "neText" : "Benjamini-Hochberg"
+              }]
+          }]
+      }]
+  }
+}

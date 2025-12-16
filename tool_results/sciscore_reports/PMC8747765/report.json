@@ -1,0 +1,374 @@
+{
+  "docIdentifier" : "PMC8747765",
+  "sciscore" : 2,
+  "sections" : [{
+      "sectionName" : "Experimental Models: Cell Lines",
+      "srList" : [{
+          "sentence" : ", IREB2 , ATP5MC3 , CS , EMC2 , ACSF2 , NOX1 , CYBB , NOX3 , NOX4 , NOX5 , DUOX1 , DUOX2 , G6PD , PGD , VDAC2 , PIK3CA , FLT3 , SCP2 , TP53 , ACSL4 , LPCAT3 , NRAS , KRAS , HRAS , TF , TFRC , TFR2 , SLC38A1 , SLC1A5",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : ", IREB2 , ATP5MC3 , CS , EMC2 , ACSF2 , NOX1 , CYBB , NOX3 , NOX4 , NOX5 , DUOX1 , DUOX2 , G6PD , PGD , VDAC2 , PIK3CA , FLT3 , SCP2 , TP53 , ACSL4 , LPCAT3 , NRAS , KRAS , HRAS , TF , TFRC , TFR2 , SLC38A1 , SLC1A5"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EMC2"
+                }],
+              "neText" : "EMC2"
+            }]
+        }, {
+          "sentence" : "ELAVL1 , BAP1 , TP53 , ABCC1 , ACSL4 , MIR6852 , ACVR1B , TGFBR1 , BAP1 , EPAS1 , HILPDA , HIF1A , ALOX12 , ACSL4 , HMOX1 , IFNG , ANO6 , LPIN1 , HMGB1 , TNFAIP3 , TLR4 , NOX4 , ATF3 , ATM , YY1AP1 , EGLN2 , MIOX , TAZ , MTDH , IDH1 ,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "ELAVL1 , BAP1 , TP53 , ABCC1 , ACSL4 , MIR6852 , ACVR1B , TGFBR1 , BAP1 , EPAS1 , HILPDA , HIF1A , ALOX12 , ACSL4 , HMOX1 , IFNG , ANO6 , LPIN1 , HMGB1 , TNFAIP3 , TLR4 , NOX4 , ATF3 , ATM , YY1AP1 , EGLN2 , MIOX , TAZ , MTDH , IDH1 ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "ELAVL1"
+                }],
+              "neText" : "ELAVL1"
+            }]
+        }, {
+          "sentence" : "EIF2S1 , KIM-1 , IL6 , CXCL2 , RELA , HSD17B11 , AGPAT3 , SETD1B , HMOX1 , TF , FTL , RPL8 , ATP5MC3 ,",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "EIF2S1 , KIM-1 , IL6 , CXCL2 , RELA , HSD17B11 , AGPAT3 , SETD1B , HMOX1 , TF , FTL , RPL8 , ATP5MC3 ,"
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "EIF2S1"
+                }],
+              "neText" : "EIF2S1"
+            }]
+        }, {
+          "sentence" : "Chemotherapy Sensitivity Analysis We obtained the drug sensitivity data and RNA-seq data of the NCI-60 cell line from CellMiner ( https://discover.nci.nih.gov/cellminer/home.do ) and analyzed the relationship between the prognostic lncRNAs and drug sensitivity using Pearson correlation analysis.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Chemotherapy Sensitivity Analysis We obtained the drug sensitivity data and RNA-seq data of the NCI-60 cell line from CellMiner ( https://discover.nci.nih.gov/cellminer/home.do ) and analyzed the relationship between the prognostic lncRNAs and drug sensitivity using Pearson correlation analysis."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "NCI-60"
+                }],
+              "neText" : "NCI-60"
+            }]
+        }]
+    }, {
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "The Wilcoxon signed-rank test was utilized to identify differentially expressed ferroptosis-related genes and differentially expressed ferroptosis-related lncRNAs by the limma package of R based on the cutoff values: |Log2FC| > 1 and FDR < 0.05 .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The Wilcoxon signed-rank test was utilized to identify differentially expressed ferroptosis-related genes and differentially expressed ferroptosis-related lncRNAs by the limma package of R based on the cutoff values: |Log2FC| > 1 and FDR < 0.05 ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "limma"
+                }],
+              "neText" : "limma"
+            }]
+        }, {
+          "sentence" : "The “clusterProfiler” package was used to perform Gene Ontology ( GO ) and Kyoto Encyclopedia of Genes and Genomes ( KEGG ) analyses on differentially expressed ferroptosis-related genes.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "The “clusterProfiler” package was used to perform Gene Ontology ( GO ) and Kyoto Encyclopedia of Genes and Genomes ( KEGG ) analyses on differentially expressed ferroptosis-related genes."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "KEGG"
+                }],
+              "neText" : "KEGG"
+            }]
+        }, {
+          "sentence" : "Protein–Protein Interaction Network Construction The String database ( https://cn.string-db.org/ ) was used to analyze the interactions of ferroptosis-related genes and ferroptosis-related lncRNAs .",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Protein–Protein Interaction Network Construction The String database ( https://cn.string-db.org/ ) was used to analyze the interactions of ferroptosis-related genes and ferroptosis-related lncRNAs ."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "String"
+                }],
+              "neText" : "String"
+            }]
+        }, {
+          "sentence" : "Statistical Analysis R version 4.0.2 software and its resource packages were used for statistical analysis and related visualization graphics.",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Statistical Analysis R version 4.0.2 software and its resource packages were used for statistical analysis and related visualization graphics."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "Statistical Analysis R"
+                }],
+              "neText" : "Statistical Analysis R"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "not required.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }, {
+            "sentence" : "not required.",
+            "title" : "Weight",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "The Kaplan–Meier ( K-M ) survival curve described the predictive power of indicators using the “survival” and “survminer” packages .",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Kaplan–Meier ( K-M ) survival curve described the predictive power of indicators using the “survival” and “survminer” packages ."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }, {
+        "title" : "Cell Line Authentication",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }],
+    "other-sections" : [{
+        "sectionName" : "Data Information",
+        "srList" : [{
+            "sentence" : "GCH1 Marker 123 PTGS2 , DUSP1 , NOS2 , NCF2 , MT3 , UBC , ALB , TXNRD1 , SRXN1 , GPX2 , BNIP3 , OXSR1 , SELENOS , ANGPTL7 , CHAC1 , SLC7A11 , DDIT4 , LOC284561 , ASNS , TSC22D3 , DDIT3 , JDP2 , SESN2 , SLC1A4 , PCK2 , TXNIP , VLDLR , GPT2 , PSAT1 , LURAP1L , SLC7A5 , HERPUD1 , XBP1 , ATF3 , SLC3A2 , CBS , ATF4 , ZNF419 , KLHL24 , TRIB3 , ZFP69B , ATP6V1G2 ,",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "GCH1 Marker 123 PTGS2 , DUSP1 , NOS2 , NCF2 , MT3 , UBC , ALB , TXNRD1 , SRXN1 , GPX2 , BNIP3 , OXSR1 , SELENOS , ANGPTL7 , CHAC1 , SLC7A11 , DDIT4 , LOC284561 , ASNS , TSC22D3 , DDIT3 , JDP2 , SESN2 , SLC1A4 , PCK2 , TXNIP , VLDLR , GPT2 , PSAT1 , LURAP1L , SLC7A5 , HERPUD1 , XBP1 , ATF3 , SLC3A2 , CBS , ATF4 , ZNF419 , KLHL24 , TRIB3 , ZFP69B , ATP6V1G2 ,"
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "ATP6V1G2"
+                  }],
+                "neText" : "ATP6V1G2"
+              }]
+          }, {
+            "sentence" : "Immunity Analysis The CIBERSORT,20,21 ESTIMATE,22 MCPcounter,23 single-sample gene set enrichment analysis (ssGSEA),24 and TIMER25 algorithms were used to assess cellular components or cell immune responses.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Immunity Analysis The CIBERSORT,20,21 ESTIMATE,22 MCPcounter,23 single-sample gene set enrichment analysis (ssGSEA),24 and TIMER25 algorithms were used to assess cellular components or cell immune responses."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "CIBERSORT,20,21"
+                  }],
+                "neText" : "CIBERSORT,20,21"
+              }]
+          }]
+      }]
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "HNF4A , NGB , YWHAE , GABPB1 , AURKA , MIR4715 , RIPK1 , PRDX1 , MIR30B Identification and Differential Expression Analysis of Ferroptosis-Related lncRNAs Pearson correlation analysis between the ferroptosis-related genes and lncRNAs was used to identify the ferroptosis-related lncRNAs ( | R| > 0.5 and p < 0.001) .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "HNF4A , NGB , YWHAE , GABPB1 , AURKA , MIR4715 , RIPK1 , PRDX1 , MIR30B Identification and Differential Expression Analysis of Ferroptosis-Related lncRNAs Pearson correlation analysis between the ferroptosis-related genes and lncRNAs was used to identify the ferroptosis-related lncRNAs ( | R| > 0.5 and p < 0.001) ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Pearson correlation"
+                  }],
+                "neText" : "Pearson correlation"
+              }]
+          }, {
+            "sentence" : "The Wilcoxon signed-rank test was utilized to identify differentially expressed ferroptosis-related genes and differentially expressed ferroptosis-related lncRNAs by the limma package of R based on the cutoff values: |Log2FC| > 1 and FDR < 0.05 .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The Wilcoxon signed-rank test was utilized to identify differentially expressed ferroptosis-related genes and differentially expressed ferroptosis-related lncRNAs by the limma package of R based on the cutoff values: |Log2FC| > 1 and FDR < 0.05 ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Wilcoxon signed-rank test"
+                  }],
+                "neText" : "Wilcoxon signed-rank test"
+              }]
+          }, {
+            "sentence" : "17,18 Development of the Ferroptosis-Related lncRNA Prognostic Signature Lasso penalized Cox regression and univariate Cox regression analysis were employed to construct the ferroptosis-related lncRNA prognostic signature , which was used to construct a risk scoring function .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "17,18 Development of the Ferroptosis-Related lncRNA Prognostic Signature Lasso penalized Cox regression and univariate Cox regression analysis were employed to construct the ferroptosis-related lncRNA prognostic signature , which was used to construct a risk scoring function ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Cox regression"
+                  }],
+                "neText" : "Cox regression"
+              }]
+          }, {
+            "sentence" : "Student’s t test was used to compare differences between different risk groups.",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Student’s t test was used to compare differences between different risk groups."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "t test"
+                  }],
+                "neText" : "t test"
+              }]
+          }]
+      }]
+  }
+}

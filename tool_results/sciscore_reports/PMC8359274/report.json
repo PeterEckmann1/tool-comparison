@@ -1,0 +1,182 @@
+{
+  "docIdentifier" : "PMC8359274",
+  "sciscore" : 5,
+  "sections" : [{
+      "sectionName" : "Software and Algorithms",
+      "srList" : [{
+          "sentence" : "Using the Rapid Imputation Consortium Pipeline (RICOPILI) (Lam et al., 2019), quality control was carried with default parameters and ungenotyped SNPs were imputed using 1,000 genomes Phase I version 2 as a reference and IMPUTE2 software (Howie, Donnelly, & Marchini, 2009).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Using the Rapid Imputation Consortium Pipeline (RICOPILI) (Lam et al., 2019), quality control was carried with default parameters and ungenotyped SNPs were imputed using 1,000 genomes Phase I version 2 as a reference and IMPUTE2 software (Howie, Donnelly, & Marchini, 2009)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "IMPUTE2 (RRID:SCR_013055)",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "IMPUTE2"
+                }],
+              "neText" : "IMPUTE2"
+            }]
+        }, {
+          "sentence" : "Polygenic risk scores were created using PRSice2 software (Choi & OReilly, 2019).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Polygenic risk scores were created using PRSice2 software (Choi & OReilly, 2019)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "PRSice2"
+                }],
+              "neText" : "PRSice2"
+            }]
+        }, {
+          "sentence" : "Mediation analyses were performed in IBM SPSS Statistics 22, with using the PROCESS macro for SPSS (Hayes, 2013 Sales, 2016).",
+          "rowSpan" : 1,
+          "suppressMentions" : "false",
+          "sentenceParts" : [{
+              "f" : "default",
+              "c" : "Mediation analyses were performed in IBM SPSS Statistics 22, with using the PROCESS macro for SPSS (Hayes, 2013 Sales, 2016)."
+            }],
+          "mentions" : [{
+              "source" : "",
+              "rrid" : null,
+              "err" : "",
+              "suggestedRrid" : "SPSS, RRID:SCR_002865",
+              "ne" : [{
+                  "f" : "default",
+                  "c" : "SPSS"
+                }],
+              "neText" : "SPSS"
+            }]
+        }]
+    }],
+  "rigor-table" : {
+    "sections" : [{
+        "title" : "Ethics",
+        "srList" : [{
+            "sentence" : "The study was approved by the local ethics committee (CMO Region Arnhem-Nijmegen, The Netherlands).",
+            "title" : "IRB",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The study was approved by the local ethics committee (CMO Region Arnhem-Nijmegen, The Netherlands)."
+              }]
+          }, {
+            "sentence" : "All participants gave written informed consent and were financially compensated for participation. 2.2 ADHD scores The Dutch version of the ADHD DSM-IV Rating Scale was used to measure self-reported current ADHD symptoms (Kooij et al., 2005).",
+            "title" : "Consent",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "All participants gave written informed consent and were financially compensated for participation. 2.2 ADHD scores The Dutch version of the ADHD DSM-IV Rating Scale was used to measure self-reported current ADHD symptoms (Kooij et al., 2005)."
+              }]
+          }]
+      }, {
+        "title" : "Inclusion and Exclusion Criteria",
+        "srList" : [{
+            "sentence" : "The exclusion criteria were a history of neurological or psychiatric diseases.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "The exclusion criteria were a history of neurological or psychiatric diseases."
+              }]
+          }]
+      }, {
+        "title" : "Attrition",
+        "srList" : [{
+            "sentence" : "Genome-wide genotyping of single nucleotide polymorphisms (SNPs) was performed for the 1,531 unrelated individuals on three genotyping platforms: for 678 participants, genotyping was performed using Affymetrix GeneChip (Affymetrix Inc., Santa Clara, CA), for 634 participants, genotyping was performed using Infinium OmniExpress BeadChip (Illumina Inc., San Diego, CA), and 219 participants were genotyped using Infinium PsychArray BeadChip (Illumina Inc.).",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Genome-wide genotyping of single nucleotide polymorphisms (SNPs) was performed for the 1,531 unrelated individuals on three genotyping platforms: for 678 participants, genotyping was performed using Affymetrix GeneChip (Affymetrix Inc., Santa Clara, CA), for 634 participants, genotyping was performed using Infinium OmniExpress BeadChip (Illumina Inc., San Diego, CA), and 219 participants were genotyped using Infinium PsychArray BeadChip (Illumina Inc.)."
+              }]
+          }]
+      }, {
+        "title" : "Sex as a biological variable",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Subject Demographics",
+        "srList" : [{
+            "sentence" : "Three variables were calculated, as described in (Vrijsen et al., 2018): lifetime-SLEs indicated the total number of experienced life events across the whole life span childhood trauma (CT) reflected the number of traumatic events that participants experienced (aggression, physical andor sexual abuse) within or outside the family before 16 years old recent-SLEs indicated the number of stressful events (e.g., health problems, death of a family member, problems in the romantic relationship, divorce, conflicts in work, financial problems, or legal issues) that participants had within the last year.",
+            "title" : "Age",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Three variables were calculated, as described in (Vrijsen et al., 2018): lifetime-SLEs indicated the total number of experienced life events across the whole life span childhood trauma (CT) reflected the number of traumatic events that participants experienced (aggression, physical andor sexual abuse) within or outside the family before 16 years old recent-SLEs indicated the number of stressful events (e.g., health problems, death of a family member, problems in the romantic relationship, divorce, conflicts in work, financial problems, or legal issues) that participants had within the last year."
+              }]
+          }]
+      }, {
+        "title" : "Randomization",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Blinding",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Power Analysis",
+        "srList" : [{
+            "sentence" : "not detected.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not detected."
+              }]
+          }]
+      }, {
+        "title" : "Replication",
+        "srList" : [{
+            "sentence" : "not required.",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "not required."
+              }]
+          }]
+      }],
+    "other-sections" : []
+  },
+  "misc-table" : {
+    "sections" : [{
+        "sectionName" : "Statistical Tests",
+        "srList" : [{
+            "sentence" : "Bonferroni correction for multiple testing was implemented for the number of comparisons (correlation analysis), resulting in a significance level of p < .",
+            "rowSpan" : 1,
+            "suppressMentions" : "false",
+            "sentenceParts" : [{
+                "f" : "default",
+                "c" : "Bonferroni correction for multiple testing was implemented for the number of comparisons (correlation analysis), resulting in a significance level of p < ."
+              }],
+            "mentions" : [{
+                "source" : "",
+                "rrid" : null,
+                "err" : "",
+                "ne" : [{
+                    "f" : "default",
+                    "c" : "Bonferroni"
+                  }],
+                "neText" : "Bonferroni"
+              }]
+          }]
+      }]
+  }
+}
